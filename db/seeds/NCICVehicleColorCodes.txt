@@ -1,0 +1,9 @@
+ALU|Aluminum
+BLK|Black
+BLU|Blue
+BRO|Brown
+GRN|Green
+GRY|Grey
+RED|Red
+TAN|Tan
+WHT|White

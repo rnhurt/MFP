@@ -1,0 +1,20 @@
+B|Bicycle
+C|Camera, camera parts, and photography equipment
+D|Data processing equipment
+E|Equipment, measuring devices, and tools
+F|Furniture and furnishings
+G|Games and gambling apparatus
+H|Household appliances and housewares
+I|Items of identification
+J|Special documents, food stamps, and tickets
+K|Keepsakes and collectibles
+L|Livestock
+M|Musical instruments
+O|Office equipment (includes photocopiers and typewriters)
+P|Personal accessories
+R|Radio, TV, and sound entertainment devices
+S|Sporting, camping, exercise, and recreational equipment
+T|Toxic chemicals
+V|Viewing equipment (includes binoculars, microscopes, and rifle scopes)
+W|Well-drilling equipment
+Y|Items listed in the dictionary under Y and items not listed in the Article Name Dictionary

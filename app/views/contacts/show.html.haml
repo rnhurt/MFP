@@ -1,0 +1,9 @@
+%p#notice= notice
+
+%p
+  %b String:
+  = @contact.string
+
+= link_to 'Edit', edit_contact_path(@contact)
+\|
+= link_to 'Back', contacts_path

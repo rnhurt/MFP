@@ -1,0 +1,1075 @@
+ACAD|Beaumont Series
+ACAD|Canso Series
+ACAD|Invader Series
+ACUR|Integra
+ACUR|Legend
+ACUR|NSX
+ACUR|Vigor
+ALFA|164
+ALFA|2600 Sprint
+ALFA|2600 Spider
+ALFA|Alfetta GT
+ALFA|Arna
+ALFA|Berlina
+ALFA|Duetto
+ALFA|GTV6 2.5
+ALFA|Giulia Sprint
+ALFA|Giulia Spider
+ALFA|Giulietta
+ALFA|Giulia
+ALFA|Alfa GT6
+ALFA|GT Veloce
+ALFA|Milano
+ALFA|Montreal
+ALFA|Spider Series
+ALFA|Zagato
+AMER|Alliance
+AMER|Ambasador
+AMER|AMX
+AMER|Concord
+AMER|Eagle
+AMER|Encore
+AMER|Gremlin
+AMER|Hornet
+AMER|Javelin
+AMER|Marlin
+AMER|Matador
+AMER|Medallion
+AMER|Pacer
+AMER|Rambler American
+AMER|Rambler Classic
+AMER|Rebel
+AMER|Rambler Rogue
+AMER|Spirit
+AMER|Sportabout
+ASTO|DB-5
+ASTO|DB-6
+ASTO|Lagonda
+ASTO|Vantage
+ASTO|Volante
+ASUN|GT
+ASUN|SE
+ASUN|Sunfire
+ASUN|Sunrunner
+AUDI|100
+AUDI|100GL
+AUDI|100LS
+AUDI|200LS
+AUDI|4000
+AUDI|5000
+AUDI|850
+AUDI|80
+AUDI|90
+AUDI|S4
+AUDI|Avant
+AUDI|Cabriolet
+AUDI|80 LS
+AUDI|Quattro
+AUDI|Super 90
+AUDI|V-8
+AUHE|100 Series
+AUHE|3000 Series
+AUHE|Sprite
+AUST|1100
+AUST|1800
+AUST|850
+AUST|A99 & 110
+AUST|A40
+AUST|A55
+AUST|Cambridge
+AUST|Cooper "S"
+AUST|Marina
+AUST|Mini Cooper
+AUST|Mini
+AUST|Westminster
+AVTI|Series A
+AVTI|Series B
+BENT|Brooklands
+BENT|Continental Convertible
+BENT|Corniche
+BENT|Eight
+BENT|Mulsanne
+BENT|Turbo R
+BERO|Cabrio
+BERO|Palinuro
+BERO|X19
+BMC|Princess
+BMW|2002 Series
+BMW|1600
+BMW|1800
+BMW|200
+BMW|2000 Series
+BMW|2500 Series
+BMW|2.8
+BMW|2800 Series
+BMW|3.0 Si
+BMW|318i
+BMW|320i
+BMW|325
+BMW|325i
+BMW|520
+BMW|524 Series
+BMW|525ia
+BMW|528i
+BMW|530i
+BMW|533i
+BMW|535 Series
+BMW|540
+BMW|600
+BMW|630csi
+BMW|633csi
+BMW|635 Series
+BMW|733 Series
+BMW|735 Series
+BMW|740
+BMW|745i
+BMW|750
+BMW|750iL
+BMW|840Ci
+BMW|850Ci
+BMW|Bavaria
+BMW|Isetta
+BMW|L6
+BMW|L7
+BMW|M3
+BMW|M5
+BMW|M6
+BMW|TI
+BORG|Bel Air
+BORG|Beretta
+BORG|Biscayne
+BORG|Hansa
+BORG|Isabella
+BREM|Creighton
+BREM|Laufer
+BREM|Maxi-Taxi
+BREM|Mini-Mark
+BREM|Sebring
+BUIC|Apollo
+BUIC|California
+BUIC|Century
+BUIC|Centurion
+BUIC|Electra
+BUIC|Estate Wagon
+BUIC|GS350
+BUIC|GS400
+BUIC|GS455
+BUIC|Grand Sports
+BUIC|Invicta
+BUIC|LeSabre
+BUIC|Limited
+BUIC|Reatta
+BUIC|Regal
+BUIC|Riviera
+BUIC|Roadmaster
+BUIC|Skyhawk
+BUIC|Skylark
+BUIC|Somerset
+BUIC|Special
+BUIC|Sportswagon
+BUIC|Super
+BUIC|Wildcat
+BZEL|Electra-King
+CADI|60 Series
+CADI|61 Series
+CADI|62 Series
+CADI|75 Series
+CADI|Allante
+CADI|Brougham
+CADI|Calais
+CADI|Cimarron
+CADI|DeVille
+CADI|Eldorado
+CADI|Fleetwood
+CADI|Seville
+CADI|Touring Sedan
+CHEC|Aerobus
+CHEC|Custom
+CHEC|Marathon
+CHEC|Superba
+CHEV|210 Series
+CHEV|300 Deluxe
+CHEV|Bel Air
+CHEV|Beretta
+CHEV|Biscayne
+CHEV|Brookwood
+CHEV|Camaro
+CHEV|Caprice
+CHEV|Cavalier
+CHEV|Celebrity
+CHEV|Chevy II
+CHEV|Citation
+CHEV|Concours
+CHEV|Corsa
+CHEV|Corsica
+CHEV|Corvair
+CHEV|Corvette
+CHEV|Del Ray
+CHEV|Deluxe
+CHEV|El Camino
+CHEV|Chevelle
+CHEV|Estate Wagon
+CHEV|Chevette
+CHEV|Fleetline
+CHEV|Greenbrier
+CHEV|Impala
+CHEV|Kingswood
+CHEV|Lumina
+CHEV|Malibu
+CHEV|Monte Carlo
+CHEV|Monza
+CHEV|Nomad
+CHEV|Nova
+CHEV|Parkwood
+CHEV|Spectrum
+CHEV|Metro
+CHEV|Style Master
+CHEV|Style Line
+CHEV|Townsman
+CHEV|Vega
+CHRY|300
+CHRY|Concorde
+CHRY|Commander
+CHRY|Conquest
+CHRY|Cordoba
+CHRY|E Class
+CHRY|Executive Sedan
+CHRY|Fifth Avenue
+CHRY|Imperial
+CHRY|Laser
+CHRY|LeBaron
+CHRY|LHS
+CHRY|Lido
+CHRY|Limousine
+CHRY|Newport
+CHRY|New Yorker
+CHRY|Royal
+CHRY|Salon
+CHRY|Saratoga
+CHRY|TC
+CHRY|Town & Country
+CHRY|Windsor
+CITR|2CV
+CITR|AM16
+CITR|AX
+CITR|DS-19
+CITR|DS-21 & D21
+CITR|ID-19
+CITR|SM
+CLEN|Roadster
+COMV|Comuta-Car
+CONU|GCP
+CONU|GTP
+DAIH|Charade
+DATS|110
+DATS|1200
+DATS|210
+DATS|240Z
+DATS|260Z
+DATS|280Z
+DATS|200SX
+DATS|280ZX
+DATS|310
+DATS|311
+DATS|510
+DATS|610
+DATS|710
+DATS|810
+DATS|F-10
+DATS|Honey Bee
+DATS|Maxima
+DAYO|Migi
+DAYO|Moya
+DECO|Roadster
+DESO|Adventurer
+DESO|Custom
+DESO|Deluxe
+DESO|Firedom
+DESO|Firelite
+DESO|Firesweep
+DESO|Powermaster
+DETO|Deauville
+DETO|Longchamp
+DETO|Mangusta
+DETO|Pantera
+DKW|F102
+DKW|Audi
+DKW|Vemag
+DODG|A 100 Compact
+DODG|330 Series
+DODG|400 Series
+DODG|440 Series
+DODG|600
+DODG|880 Series
+DODG|Aries
+DODG|Aspen
+DODG|Charger
+DODG|Challenger
+DODG|Colt
+DODG|Compact Sportsman
+DODG|Conquest
+DODG|Coronet
+DODG|Dart
+DODG|Daytona
+DODG|Deluxe
+DODG|Demon
+DODG|Diplomat
+DODG|Dynasty
+DODG|Fleet Special
+DODG|Intrepid
+DODG|Lancer
+DODG|Magnum
+DODG|Meadowbrook
+DODG|Monaco
+DODG|Neon
+DODG|Omni
+DODG|Phonix
+DODG|Pioneer
+DODG|Polara
+DODG|Royal
+DODG|Seneca
+DODG|Shadow
+DODG|Spirit
+DODG|Stealth
+DODG|St. Regis
+DODG|Swinger
+DODG|Viper
+DODG|Wayfarer
+EDSE|Citation
+EDSE|Corsair
+EDSE|Pacer
+EDSE|Ranger
+EDSE|Villager
+EGIL|Medallion
+EGIL|Premier
+EGIL|Summit
+EGIL|Talon
+EGIL|Vision
+ENGF|100 E Series
+ENGF|105 E Series
+ENGF|Anglia
+ENGF|Capri
+ENGF|Consul
+ENGF|Corsair
+ENGF|Cortina
+ENGF|Escort
+ENGF|GT
+ENGF|Lotus
+ENGF|Mark II
+ENGF|Perfect
+ENGF|Squire
+ENGF|Thames
+ENGF|Zephyr
+ENGF|Zodiac
+ENVY|Enzmann
+ENVY|Erskine
+ENVY|Eshelman Sportabout
+ENVY|Essex
+ENVY|Everybody's Motor Car Mfg
+EXCL|SSK
+EXCL|SS Phaeton
+EXCL|SS Roadster
+FERR|206
+FERR|208
+FERR|308
+FERR|328
+FERR|348
+FERR|512
+FERR|Daytona
+FERR|F40
+FERR|Mondial
+FERR|Quattrovalvolve
+FERR|Tipo
+FIAT|1100- D or R
+FIAT|1200
+FIAT|124 Series
+FIAT|128 Series
+FIAT|131 Series
+FIAT|1500
+FIAT|600 D
+FIAT|750
+FIAT|850 Fastback
+FIAT|Brava
+FIAT|Punto
+FIAT|Rimto
+FIAT|Spider Series
+FIAT|Strada
+FIAT|Uno
+FIAT|X19
+FORD|300 Series
+FORD|7 Litre
+FORD|Aspire
+FORD|Cobra
+FORD|Country Squire
+FORD|Country Sedan
+FORD|Crestline
+FORD|Customline
+FORD|Custom
+FORD|Deluxe
+FORD|Elite
+FORD|Escort
+FORD|EXP
+FORD|Fairlane
+FORD|Falcon
+FORD|Fairmont
+FORD|Festiva
+FORD|Frontenac
+FORD|Futura
+FORD|Galaxie
+FORD|Granada
+FORD|Laser
+FORD|LTD II
+FORD|LTD
+FORD|Mainline
+FORD|Maverick
+FORD|Model A
+FORD|Model T
+FORD|Mustang
+FORD|Nevada
+FORD|Pinto
+FORD|Probe
+FORD|Ranch
+FORD|Ranchero
+FORD|Ranch Wagon
+FORD|Special
+FORD|Squire
+FORD|Starliner
+FORD|Sunliner
+FORD|Super
+FORD|Taurus
+FORD|Tempo
+FORD|Thunderbird
+FORD|Torino
+FORD|Victoria
+FORD|XL
+FREF|Comete
+FREF|Vadette
+FREF|Vendome
+GAZ|Chaika
+GAZ|Volga
+GEO|Metro
+GEO|Prizm
+GEO|Storm
+GLAS|Goggomobile
+GMC|Cabellero
+GMC|Sprint
+HILL|1600 Series
+HILL|Deluxe
+HILL|Husky
+HILL|IMP
+HILL|Minx
+HILL|Sceptre
+HILL|Snipe
+HILL|Super Minx
+HOND|Accord
+HOND|Civic
+HOND|Prelude
+HUDS|Commodore
+HUDS|Deluxe
+HUDS|Hornet
+HUDS|Italia
+HUDS|Jet
+HUDS|Pacemaker
+HUDS|Rambler
+HUDS|Super
+HUDS|Wasp
+HUMB|Hawk
+HUMB|Snipe
+HYUN|Elantra
+HYUN|Excel
+HYUN|Pony
+HYUN|Scoupe
+HYUN|Sonata
+HYUN|Steilar
+IMPE|Crown
+IMPE|Custom
+IMPE|LeBaron
+INFI|G20
+INFI|J30
+INFI|M30
+INFI|Q45
+ISU|I-Mark
+ISU|Impulse
+ISU|Stylus
+ITAF|Anglia
+JAGU|2.4 Litre
+JAGU|340
+JAGU|3.4 Litre
+JAGU|3.8 Litre
+JAGU|420
+JAGU|4.2 Litre
+JAGU|"E" Type
+JAGU|XJ12
+JAGU|Mark V Series
+JAGU|Mark Ten Salon
+JAGU|Sovereign
+JAGU|V12
+JAGU|Vanden Plas
+JAGU|XJ
+JAGU|XJ40
+JAGU|XJ6
+JAGU|XJC
+JAGU|XJS
+JAGU|XK Series
+JAGU|XK-E Series
+JENS|Healy
+JENS|Interceptor
+KAIS|Carolina
+KAIS|Darrin
+KAIS|Deluxe
+KAIS|Dragon
+KAIS|Manhatten
+KIA|King Midget
+KIA|Kurtis Kraft
+LADA|Niva
+LAMO|Countach
+LAMO|Diablo
+LAMO|Espada
+LAMO|Jalpa
+LAMO|Jarma
+LAMO|Miura SV
+LEXS|ES 250
+LEXS|ES 300
+LEXS|LS 400
+LEXS|GS 300
+LEXS|SC 300
+LEXS|SC 400
+LINC|Continental
+LINC|Custom
+LINC|Mark II
+LINC|Mark III
+LINC|Mark IV
+LINC|Mark V
+LINC|Mark VI
+LINC|Mark VII
+LINC|Mark VIII
+LINC|Premiere
+LINC|Standard
+LINC|Town Car
+LINC|Versailles
+LINC|Zephyr
+LNCI|Berlina
+LNCI|Flavia
+LNCI|Flaminia
+LNCI|Fulvia
+LNCI|Zagato
+LOTU|Eclat
+LOTU|Elan
+LOTU|Elite
+LOTU|Esprit
+LOTU|Europa
+LOTU|Plus Two
+LOTU|Super 7
+MASE|2000
+MASE|228
+MASE|3500
+MASE|4000
+MASE|4200
+MASE|425
+MASE|430
+MASE|5000
+MASE|Biturbo
+MASE|Bora
+MASE|Ghibli
+MASE|GTI Series
+MASE|Indy
+MASE|Khamsin
+MASE|Merak
+MASE|Mexico
+MASE|Mistrell
+MASE|Quattroporte
+MASE|Sebring
+MASE|Shamal
+MASE|Spyder
+MAZD|323
+MAZD|616
+MAZD|618
+MAZD|626
+MAZD|808 Series
+MAZD|929
+MAZD|Cosmo
+MAZD|GLC
+MAZD|Miata
+MAZD|Miser
+MAZD|MX3
+MAZD|MX6
+MAZD|Protégé
+MAZD|RX2
+MAZD|RX3
+MAZD|RX4
+MDNA|GT250
+MERC|Bobcat
+MERC|Breezeway
+MERC|Brougham
+MERC|Capri
+MERC|Country Cruiser
+MERC|Caliente
+MERC|Commuter
+MERC|Colony Park
+MERC|Comet
+MERC|Cougar
+MERC|Custom
+MERC|Cyclone
+MERC|LN7
+MERC|Lynx
+MERC|Marquis
+MERC|Marauder
+MERC|Medalist
+MERC|Montego
+MERC|Monarch
+MERC|Monterey
+MERC|Montclair
+MERC|Parklane
+MERC|S-22
+MERC|S-33
+MERC|S-55
+MERC|Sable
+MERC|Topaz
+MERC|Tracer
+MERC|Turnpike Cruiser
+MERC|Villager
+MERC|Voyager
+MERC|Zephyr
+MERK|Scorpio
+MERK|XR4Ti
+MERZ|180 Series
+MERZ|190 Series
+MERZ|200 Series
+MERZ|219 Series
+MERZ|220 Series
+MERZ|230 Series
+MERZ|240 Series
+MERZ|250 Series
+MERZ|260 Series
+MERZ|280 Series
+MERZ|300 Series
+MERZ|320 Series
+MERZ|350 Series
+MERZ|380 Series
+MERZ|400 Series
+MERZ|420 Series
+MERZ|450 Series
+MERZ|500 Series
+MERZ|560 Series
+MERZ|600 Series
+MERZ|C220
+MERZ|C280
+MESS|KR200
+MESS|KR201
+MESS|Tiger
+METE|Country Sedan
+METE|Lemoyne
+METE|Montego
+METE|Montcalm
+METE|Niagra
+METE|Ranch Wagon
+METE|Rideau
+METE|S-33
+MG|1600
+MG|Princess 4-R
+MG|Magnette
+MG|Marina
+MG|1100
+MG|MGA
+MG|MGB
+MG|MGC
+MG|MGB/GT
+MG|MGC/GT
+MG|Midget
+MG|Mark II
+MG|Sprite
+MG|Sports Sedan
+MG|TF Series
+MITS|3000 GT
+MITS|Chariot
+MITS|Cordia
+MITS|Diamante
+MITS|Eclipse
+MITS|Expo
+MITS|Galant
+MITS|Lancer
+MITS|Minica
+MITS|Mirage
+MITS|Precis
+MITS|Sigma
+MITS|Starion
+MITS|Tredia
+MODE|Model A
+MODE|1955 Thunerbird
+MONA|Lucerne
+MONA|Richelieu
+MONA|Sceptre
+MORG|4/4 Mark 5
+MORG|Plus 4 Series
+MORR|1100
+MORR|850 Series
+MORR|Deluxe
+MORR|Mini Series
+MORR|Minor
+MORR|Oxford
+MORR|Traveller
+MUNT|Jet
+NASH|Ambassador
+NASH|Lafayette
+NASH|Metropolitan
+NASH|Rambler
+NASH|Statesman
+NISS|200SX
+NISS|240SX
+NISS|300ZX
+NISS|Altima
+NISS|Axxess
+NISS|Maxima
+NISS|NX
+NISS|Pulsar
+NISS|Sentra
+NISS|Stanza
+NSU|1000
+NSU|110 Type
+NSU|Auto Nova
+NSU|Prinz
+NSU|Spider
+OLDS|4-4-2
+OLDS|88
+OLDS|98
+OLDS|Achieva
+OLDS|Aurora
+OLDS|Calais
+OLDS|Custom Cruiser
+OLDS|Caravan
+OLDS|Custom
+OLDS|Cutlass/Ciera
+OLDS|Delmont 88
+OLDS|Delta 88
+OLDS|Dynamic 88
+OLDS|F-85
+OLDS|Firenza
+OLDS|Holiday
+OLDS|Jetfire
+OLDS|Jetstar
+OLDS|Omega
+OLDS|Regency
+OLDS|Royale
+OLDS|Starfire
+OLDS|Standard
+OLDS|Super 88
+OLDS|Supreme
+OLDS|Toronado
+OLDS|Vista Cruiser
+OPEL|1900
+OPEL|Caravan
+OPEL|Diplomat
+OPEL|GT
+OPEL|Kadette
+OPEL|Kapitan
+OPEL|Luxus
+OPEL|Manta
+OPEL|Olympia
+OPEL|Railye
+OPEL|Rekord
+PACK|Balboa
+PACK|Caribbean
+PACK|Cavalier
+PACK|Clipper
+PACK|Patrician
+PACK|Predictor
+PACK|Request
+PANE|DeVille
+PANE|J72
+PANE|Killeta
+PANE|Lima
+PASS|Peace
+PASS|Peel
+PEUG|203
+PEUG|304
+PEUG|403
+PEUG|404
+PEUG|405
+PEUG|504 Series
+PEUG|505 Series
+PEUG|604
+PINI|Spidereuropa
+PLYM|Acclaim
+PLYM|Arrow
+PLYM|Barracuda
+PLYM|Cambridge
+PLYM|Champ
+PLYM|Colt
+PLYM|Conquest
+PLYM|Cranbrook
+PLYM|Cricket
+PLYM|Caravelle
+PLYM|Duster
+PLYM|Fury
+PLYM|GTX
+PLYM|Horizon
+PLYM|Laser
+PLYM|Neon
+PLYM|Plaza
+PLYM|Reliant
+PLYM|Road Runner
+PLYM|Sapporo
+PLYM|Satellite
+PLYM|Savoy
+PLYM|Scamp
+PLYM|Signet
+PLYM|Suburban
+PLYM|Sundance
+PLYM|Turismo
+PLYM|Valiant
+PLYM|Volare
+PONI|Firefly
+PONI|Grand Parisienne
+PONI|Laurntian
+PONI|Parisienne
+PONI|Strato Chief
+PONI|Tempest
+PONT|2000
+PONT|2+2
+PONT|6000
+PONT|Astre
+PONT|Bonneville
+PONT|Catalina
+PONT|Chieftain
+PONT|Custom
+PONT|Deluxe
+PONT|Executive
+PONT|Firebird
+PONT|Fiero
+PONT|Grand Prix
+PONT|Grand Villa
+PONT|Grand AM
+PONT|GTO
+PONT|J2000
+PONT|LeMans
+PONT|Parisienne
+PONT|Phoenix
+PONT|Sky Chief
+PONT|Streamliner
+PONT|Sunbird
+PONT|Super Chief
+PONT|T-1000
+PONT|Tempest GTO
+PONT|Ventura
+PORS|1300
+PORS|1600
+PORS|356
+PORS|911
+PORS|912
+PORS|914
+PORS|924
+PORS|928
+PORS|930
+PORS|944
+PORS|968
+PORS|Cabriolet
+PORS|Carrera
+PORS|Karman
+PORS|Standard
+PORS|Super
+PORS|Targa
+RAMB|Ambassador
+RAMB|American
+RAMB|Classic
+RAMB|Custom
+RAMB|Deluxe
+RAMB|Super
+RAMB|Typhoon
+RENA|18i
+RENA|750
+RENA|Caravelle
+RENA|Estafette
+RENA|Export
+RENA|Fuego
+RENA|Gordini
+RENA|Le Car
+RENA|Luxe
+RENA|R-10
+RENA|R-12
+RENA|R-15
+RENA|R-16
+RENA|R-17
+RENA|R-4
+RENA|R-5
+RENA|R-8
+ROL|Camargue
+ROL|Corniche
+ROL|Mulsanne
+ROL|Phantom
+ROL|Silver Cloud
+ROL|Silver Dawn
+ROL|Silver Shadow
+ROL|Silver Wraith
+ROL|Silver Spur
+ROL|Silver Spirit
+ROOT|Alpine
+ROOT|Arrow
+ROOT|Imp
+ROOT|Tiger
+ROV|2000
+ROV|3500
+ROV|3 Litre
+ROV|Land Rover
+ROV|Mark IV
+SAA|900
+SAA|9000
+SAA|92
+SAA|93 & 93B
+SAA|95
+SAA|96
+SAA|97
+SAA|99
+SAA|GT 750
+SAA|Sonnet
+SHEB|CSX
+SHEB|Cobra GT350
+SHEB|Cobra GT500
+SIM|1000 & 1000GL
+SIM|120
+SIM|Aronde
+SIM|Bertone
+SIM|Etoile
+SIM|GLS
+SIM|Vedette
+SIN|Chamois
+SIN|Vogue
+STLG|825
+STLG|827
+STRN|SC
+STRN|SL
+STRN|SW
+STU|Avanti
+STU|Challenger
+STU|Champion
+STU|Commander
+STU|Cruiser
+STU|Daytona
+STU|Grand Turismo
+STU|Hawk Series
+STU|Landall
+STU|Lark Series
+STU|President
+STU|Regal
+STU|Scotsman
+STU|Wagonaire
+SUBA|100 Series
+SUBA|1100 Series
+SUBA|1300 Series
+SUBA|1400 Series
+SUBA|1600 Series
+SUBA|DL
+SUBA|Fe
+SUBA|GL
+SUBA|GLF
+SUBA|Impreza
+SUBA|Justy
+SUBA|Legacy
+SUBA|Leone GL Coupe
+SUBA|Loyale
+SUBA|RX
+SUBA|Standard
+SUBA|SVX
+SUBA|XT6
+SUBA|XT Coupe
+SUNB|Alpine
+SUNB|Arrow
+SUNB|Deluxe
+SUNB|IMP
+SUNB|Minx
+SUNB|Rapier
+SUNB|Tiger
+SUZI|Forsa
+SUZI|Swift
+TOYT|Camry
+TOYT|Carina
+TOYT|Corolla
+TOYT|Corona
+TOYT|Cressida
+TOYT|Crown
+TOYT|Celica
+TOYT|Mark II
+TOYT|MR2
+TOYT|Paseo
+TOYT|Starlet
+TOYT|Supra
+TOYT|Tercel
+TRIU|1200
+TRIU|1250
+TRIU|1300
+TRIU|2000
+TRIU|250
+TRIU|GT Series
+TRIU|Herald
+TRIU|Sport "6"
+TRIU|Spitfire
+TRIU|Stag
+TRIU|TR-3&TR-3A
+TRIU|TR-4&TR-4A
+TRIU|TR6
+TRIU|TR7
+TRIU|TR8
+TRIU|Vitesse
+TVR|Tuscan
+TVR|Vixen
+USEL|Lectric Leopard
+VACR|Vector
+VANG|Deluxe
+VANG|Ensign
+VANG|Luxury
+VANG|Mark III
+VAUX|Cresta
+VAUX|Envoy
+VAUX|Epic
+VAUX|Firenza
+VAUX|Velox
+VAUX|Victor
+VAUX|Viva
+VOLK|113
+VOLK|1200
+VOLK|1300
+VOLK|1500
+VOLK|411/412
+VOLK|Beetle
+VOLK|Cabriolet
+VOLK|Corrado
+VOLK|Dasher
+VOLK|Fastback
+VOLK|Fox
+VOLK|Golf
+VOLK|GTI
+VOLK|Jetta
+VOLK|Karmann Ghia
+VOLK|Passat
+VOLK|Polo
+VOLK|Quantum
+VOLK|Rabbit
+VOLK|Squareback
+VOLK|Scirocco
+VOLK|Sunroof
+VOLK|The Thing
+VOLK|Variant
+VOLV|122 Series
+VOLV|140 Series
+VOLV|164 Series
+VOLV|1800 Series
+VOLV|P1900
+VOLV|200 Series
+VOLV|240 Series
+VOLV|245 Series
+VOLV|260 Series
+VOLV|PV444
+VOLV|PV544
+VOLV|740 Series
+VOLV|745 Series
+VOLV|760
+VOLV|765 Series
+VOLV|780 Series
+VOLV|850GLT
+VOLV|940
+VOLV|960
+VOLV|Combi
+VOLV|DL
+VOLV|GL
+VOLV|GLE
+VOLV|Sport
+ZCZY|Yugo

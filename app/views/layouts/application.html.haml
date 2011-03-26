@@ -1,0 +1,45 @@
+!!!
+%html
+  %head
+    %title
+      = "Dingo #{yield :title}"
+
+    = stylesheet_link_tag "reset", :media => "all"
+    = stylesheet_link_tag "stacklayout.css", :media => "all"
+    = stylesheet_link_tag "stacklayout_mobile.css", :media => "handheld, only screen and (max-width: 767px)"
+    = stylesheet_link_tag "application"
+
+    /[if lte IE 7]
+      = stylesheet_link_tag "stacklayout_lte_ie7.css", :media => "all"
+
+    = javascript_include_tag "jquery.min", "rails"
+    = javascript_include_tag "application"
+
+
+  %body#container
+    #page
+      .stack
+        #header.stack
+          %h1#title.stackContent Dingo
+          =show_flash
+
+          %ul#nav.stackContent
+            %li.active
+              %a{:href => "/contacts"} Contacts
+            %li 
+              %a Search
+            %li 
+              %a Reporting
+            %li 
+              %a Admin
+
+        #content
+          =yield
+
+        #footer
+          .stackAuto
+            %p.stackContent 
+              %a{:href => "http://kangaroobox.com", :target => "_blank"} &copy; 2011 KangarooBox, LLC
+
+          .stackAuto
+            %p.stackContent License

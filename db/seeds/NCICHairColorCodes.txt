@@ -1,0 +1,8 @@
+BLK|Black
+BLN|Blond/Strawberry
+BRO|Brown
+GRY|Gray/Partially Gray
+RED|Red/Auburn
+SDY|Sandy
+WHI|White
+XXX|Unknown/Completely Bald

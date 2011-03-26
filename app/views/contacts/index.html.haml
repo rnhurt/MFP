@@ -1,0 +1,25 @@
+%h1.stackContent Contacts
+
+.stack4of5
+  %table.stackContent
+    %thead
+      %tr
+        %th Name
+        %th DoB
+        %th Address
+        %th Race / Gender
+
+    %tbody
+    - @contacts.each do |contact|
+      %tr
+        %td= contact.full_name
+        %td= contact.dob
+        %td= contact.addresses.first.address
+        %td= #"#{contact.race} / #{contact.gender}"
+        -#%td= link_to 'Show', contact
+        -#%td= link_to 'Edit', edit_contact_path(contact)
+        -#%td= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete
+
+.stack1of5
+  .stackContent
+    = link_to 'Add Contact', new_contact_path

@@ -1,0 +1,15 @@
+*~
+log/*
+tmp/*
+rdoc
+coverage.data
+coverage/*
+database.yml
+*.sqlite
+*.sqlite3
+*.autosave
+schema.rb
+doc/api
+doc/app_horo
+doc/*.png
+.DS_Store

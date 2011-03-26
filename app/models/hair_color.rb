@@ -1,0 +1,2 @@
+class HairColor < Code
+end

@@ -1,0 +1,2 @@
+class EyeColor < Code
+end

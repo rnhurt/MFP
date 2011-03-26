@@ -1,7 +1,7 @@
 %h1.stackContent Contacts
 
 .stack4of5
-  %table.stackContent
+  %table.stackContent.tablesorter
     %thead
       %tr
         %th Name
@@ -9,13 +9,13 @@
         %th Address
         %th Race / Gender
 
-    %tbody
     - @contacts.each do |contact|
       %tr
-        %td= contact.full_name
+        %td
+          %a{:href => edit_contact_path(contact)}= contact.full_name
         %td= contact.dob
-        %td= contact.addresses.first.address
-        %td= #"#{contact.race} / #{contact.gender}"
+        %td= contact.addresses.first.full_address
+        %td= "#{contact.race.code} / #{contact.gender.code}"
         -#%td= link_to 'Show', contact
         -#%td= link_to 'Edit', edit_contact_path(contact)
         -#%td= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete

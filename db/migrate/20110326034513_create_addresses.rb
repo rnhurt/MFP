@@ -10,7 +10,7 @@ class CreateAddresses < ActiveRecord::Migration
       t.string  :block
       t.string  :city
       t.string  :postal_code
-      t.string  :region_id
+      t.integer :region_id
       t.integer :country_id
       t.string  :crossstreet
       t.decimal :latitude,  :precision => 9, :scale => 6

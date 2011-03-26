@@ -1,3 +1,3 @@
 class Region < Code
-  has_many  :addresses
+  has_many  :locations
 end

@@ -9,7 +9,7 @@ print "Seeding NCIC Region codes..."
 Region.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICRegionCodes.txt")) do |regions|
   regions.read.each_line do |region|
-    value, code = region.chomp.split('|')
+    value, code = region.chomp.split("|")
     Region.create!(:code => code, :value => value, :active => true)
   end
 end
@@ -25,14 +25,94 @@ open(File.join(Rails.root, "db", "seeds", "NCICRaceCodes.txt")) do |codes|
 end
 puts "done"
 
+print "Seeding NCIC Offense codes..."
+Offense.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICOffenseCodes.txt")) do |ocodes|
+  ocodes.read.each_line do |ocode|
+    code, value = ocode.chomp.split("|")
+    Offense.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Vehicle Make codes..."
+VehicleMake.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICVehicleMakeCodes.txt")) do |vcodes|
+  vcodes.read.each_line do |vcode|
+    code, value = vcode.chomp.split("|")
+    VehicleMake.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Vehicle Model codes..."
+VehicleModel.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICVehicleModelCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    VehicleModel.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Eye Color codes..."
+EyeColor.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICEyeColorCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    EyeColor.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Hair Color codes..."
+HairColor.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICHairColorCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    HairColor.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Vehicle Color codes..."
+VehicleColor.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICVehicleColorCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    VehicleColor.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Gender codes..."
+Gender.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICGenderCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    Gender.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Property Type codes..."
+PropertyType.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICPropertyTypeCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    PropertyType.create!(:code => code, :value => value, :active => true)
+  end
+end
+puts "done"
+
 
 ################
 # TESTING DATA #
 ################
 print "Seeding Addresses..."
 Address.delete_all
-(1..100).each do |address|
-  Address.create(:street_number => Faker::Base.numerify('#####'), 
+(1..100).each do |r|
+  Address.create(:street_number => Faker::Base.numerify("#####"), 
     :street_name  => Faker::Address.street_name,
     :city         => Faker::Address.city, 
     :region       => Region.find_by_code(Faker::Address.state_abbr), 
@@ -45,12 +125,16 @@ puts "done"
 print "Seeding Contacts..."
 Contact.delete_all
 type_count = ContactType.count
-(1..100).each do |contact|
+(1..100).each do |r|
+  addresses = []
+  (0..rand(5)).each{|i| addresses << Address.find(rand(100)+1)}
   Contact.create(:contact_type => ContactType.find(rand(type_count)+1),
     :first_name => Faker::Name.first_name,
     :last_name  => Faker::Name.last_name,
-    :addresses  => [Address.find(rand(100)+1), Address.find(rand(100)+1)],
+    :dob        => Date.today - (rand(20000)+3000).days,
+    :addresses  => addresses,
     :race       => Race.find_by_code(%w[A B I O U W].rand),
+    :gender     => Gender.find_by_code(%w[M F U].rand),
     :active     => true
   )
 end

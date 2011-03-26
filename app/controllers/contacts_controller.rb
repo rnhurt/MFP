@@ -1,6 +1,6 @@
 class ContactsController < ApplicationController
   def index
-    @contacts = Contact.recent
+    @contacts = Contact.recent(25).includes(:addresses)
   end
 
   def show

@@ -12,8 +12,6 @@
     /[if lte IE 7]
       = stylesheet_link_tag "stacklayout_lte_ie7.css", :media => "all"
 
-    = javascript_include_tag "jquery.min", "rails"
-    = javascript_include_tag "application"
 
 
   %body#container
@@ -41,5 +39,5 @@
             %p.stackContent 
               %a{:href => "http://kangaroobox.com", :target => "_blank"} &copy; 2011 KangarooBox, LLC
 
-          .stackAuto
-            %p.stackContent License
+  = javascript_include_tag "jquery.min","jquery.tablesorter.min","rails"
+  = javascript_include_tag "application"

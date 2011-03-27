@@ -1,13 +1,66 @@
-= form_for @contact do |f|
-  -if @contact.errors.any?
-    #error_explanation
-      %h2= "#{pluralize(@contact.errors.count, "error")} prohibited this contact from being saved:"
-      %ul
-        - @contact.errors.full_messages.each do |msg|
-          %li= msg
+.stackContent
+  = form_for @contact do |f|
+    = render "shared/error_messages", :target => @contact
 
-  .field
-    = f.label :full_name
-    = f.text_field :full_name
-  .actions
-    = f.submit 'Save'
+    .field.stackAuto
+      .stackContent
+        = f.label :title
+        = f.text_field :title
+
+    .field.stackAuto
+      .stackContent
+        = f.label :first_name
+        = f.text_field :first_name
+
+    .field.stackAuto
+      .stackContent
+        = f.label :last_name
+        = f.text_field :last_name
+
+    .field.stackAuto
+      .stackContent
+        = f.label :suffix
+        = f.text_field :suffix
+
+    .field.stackAuto
+      .stackContent
+        = f.label :ssn, "SSN"
+        = f.text_field :ssn
+
+    .field.stackAuto
+      .stackContent
+        = f.label :dob, "DOB"
+        = f.date_select :dob
+
+    .field.stackAuto
+      .stackContent
+        = f.label :ol_number, "OL Number"
+        = f.text_field :ol_number
+
+    .field.stackAuto
+      .stackContent
+        = f.label :ol_number, "OL State ID"
+        = f.text_field :ol_state_id
+
+    .field.stackAuto
+      .stackContent
+        = f.label :race
+        = collection_select :contact, :race_id, Race.active, :code, :value
+
+    .actions
+      = f.submit 'Save'
+
+
+      t.string  :title
+      t.string  :first_name
+      t.string  :middle_name
+      t.string  :last_name
+      t.string  :suffix
+      t.string  :ssn
+      t.date    :dob
+      t.integer :race_id
+      t.integer :gender_id
+      t.integer :height
+      t.integer :weight
+      t.integer :eye_color_id
+      t.integer :hair_color_id

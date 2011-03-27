@@ -36,6 +36,7 @@ a, a:visited {text-decoration:none; cursor:pointer; color:#404040;}
 #sidebar .stackContent {background:#fff; border:1px solid #ccc; border-radius:5px; -moz-border-radius:5px; 
     -khtml-border-radius:5px; -webkit-border-radius:5px; -box-shadow:0 0 5px #999; -moz-box-shadow:0 0 5px #999; 
     -khtml-box-shadow:0 0 5px #999; -webkit-box-shadow:0 0 5px #999; }
+.field { padding:0px !important; margin:0px !important; }
 
 /* tables */
 table { cursor:pointer; }

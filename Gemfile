@@ -8,7 +8,7 @@ gem "jquery-rails"
 gem "haml-rails"
 gem "carrierwave"       # provides file uploading
 gem "fog"               # provides connection to AWS S3
-gem "kaminari"      # provides pagination
+gem "kaminari"          # provides pagination
 
 
 group :development, :test do

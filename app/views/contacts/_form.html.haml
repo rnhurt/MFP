@@ -19,6 +19,11 @@
 
     .field.stackAuto
       .stackContent
+        = f.label :middle_name
+        = f.text_field :middle_name
+
+    .field.stackAuto
+      .stackContent
         = f.label :suffix
         = f.text_field :suffix
 
@@ -47,20 +52,47 @@
         = f.label :race
         = collection_select :contact, :race_id, Race.active, :code, :value
 
+    .field.stackAuto
+      .stackContent
+        = f.label :gender
+        = collection_select :contact, :gender_id, Gender.active, :code, :value
+
+    .field.stackAuto
+      .stackContent
+        = f.label :height
+        = f.text_field :height
+
+    .field.stackAuto
+      .stackContent
+        = f.label :weight
+        = f.text_field :weight
+
+    .field.stackAuto
+      .stackContent
+        = f.label :eye_color
+        = collection_select :contact, :eye_color_id, EyeColor.active, :code, :value
+
+    .field.stackAuto
+      .stackContent
+        = f.label :hair_color
+        = collection_select :contact, :hair_color_id, HairColor.active, :code, :value
+
+    .stackContent
+      %table.stackContent.tablesorter
+        %thead
+          %tr
+            %th{:width => "50%"} Street Address
+            %th City
+            %th State
+            %th Postal Code
+
+        - @contact.addresses.each do |address|
+          %tr
+            %td= address.street_address
+            %td= address.city
+            %td= address.region.try(:value)
+            %td= address.postal_code
+          
+
     .actions
       = f.submit 'Save'
-
-
-      t.string  :title
-      t.string  :first_name
-      t.string  :middle_name
-      t.string  :last_name
-      t.string  :suffix
-      t.string  :ssn
-      t.date    :dob
-      t.integer :race_id
-      t.integer :gender_id
-      t.integer :height
-      t.integer :weight
-      t.integer :eye_color_id
-      t.integer :hair_color_id

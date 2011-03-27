@@ -1,9 +1,14 @@
-%p#notice= notice
-
-%p
+.stackContent
   %b Name:
   = @contact.full_name
+  %br 
+  %b SSN:
+  = @contact.ssn
+  %br 
+  %b DoB:
+  = @contact.dob
 
-= link_to 'Edit', edit_contact_path(@contact)
-\|
-= link_to 'Back', contacts_path
+.stackContent
+  = link_to 'Edit', edit_contact_path(@contact)
+  \|
+  = link_to 'Back', contacts_path

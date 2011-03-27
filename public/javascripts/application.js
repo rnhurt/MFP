@@ -7,4 +7,9 @@ $(function() {
     $(this).animate({height: 'hide'}, 'fast');
   });
 
+  // remote links handler
+  $('tr[url]').live('click', function() {
+    $(window.location).attr('href', $(this).attr('url'));
+  });
+
 }); 

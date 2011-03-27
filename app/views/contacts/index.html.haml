@@ -1,5 +1,3 @@
-%h1.stackContent Contacts
-
 .stack4of5
   %table.stackContent.tablesorter
     %thead
@@ -10,9 +8,8 @@
         %th Race / Gender
 
     - @contacts.each do |contact|
-      %tr
-        %td
-          %a{:href => edit_contact_path(contact)}= contact.full_name
+      %tr{ :url => edit_contact_path(contact) }
+        %td= link_to contact.full_name, edit_contact_path(contact)
         %td= contact.dob
         %td= contact.addresses.first.full_address
         %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"

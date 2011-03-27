@@ -40,7 +40,13 @@ a, a:visited {text-decoration:none; cursor:pointer; color:#404040;}
 #sidebar .stackContent {background:#fff; border:1px solid #ccc; border-radius:5px; -moz-border-radius:5px; 
     -khtml-border-radius:5px; -webkit-border-radius:5px; -box-shadow:0 0 5px #999; -moz-box-shadow:0 0 5px #999; 
     -khtml-box-shadow:0 0 5px #999; -webkit-box-shadow:0 0 5px #999; }
+
+/* forms */
 .field { padding:0px !important; margin:0px !important; }
+label { position:absolute; text-align:right;  margin-top:-10px; text-align:left; font-size:smaller; font-weight:bold; }
+input, textarea, select { width:150px; }
+select.multi { border: 1px solid red; }
+label.check, label.radio { position:relative; text-align:left; }
 
 /* tables */
 table { cursor:pointer; }

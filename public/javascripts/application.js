@@ -12,4 +12,6 @@ $(function() {
     $(window.location).attr('href', $(this).attr('url'));
   });
 
+  // Create a Date picker
+  $('.datepicker').simpleDatepicker();
 }); 

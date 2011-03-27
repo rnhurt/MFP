@@ -1,6 +1,8 @@
 class ContactsController < ApplicationController
+  before_filter :parse_dates, :only => [:create, :update]
+
   def index
-    @contacts = Contact.recent(25).includes(:addresses)
+    @contacts = Contact.recent(25).includes(:addresses, :gender, :race)
   end
 
   def show
@@ -40,5 +42,11 @@ class ContactsController < ApplicationController
     @contact.destroy
 
     redirect_to contacts_url
+  end
+
+  private
+
+  def parse_dates
+    params[:contact][:dob] = Chronic.parse(params[:contact][:dob]).to_s if params[:contact][:dob]
   end
 end

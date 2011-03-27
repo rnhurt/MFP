@@ -35,7 +35,7 @@
     .field.stackAuto
       .stackContent
         = f.label :dob, "DOB"
-        = f.date_select :dob
+        = f.text_field :dob, :class => "datepicker"
 
     .field.stackAuto
       .stackContent
@@ -50,12 +50,12 @@
     .field.stackAuto
       .stackContent
         = f.label :race
-        = collection_select :contact, :race_id, Race.active, :code, :value
+        = collection_select :contact, :race_id, Race.active, :id, :value, :include_blank => ""
 
     .field.stackAuto
       .stackContent
         = f.label :gender
-        = collection_select :contact, :gender_id, Gender.active, :code, :value
+        = collection_select :contact, :gender_id, Gender.active, :id, :value, :include_blank => ""
 
     .field.stackAuto
       .stackContent
@@ -70,12 +70,12 @@
     .field.stackAuto
       .stackContent
         = f.label :eye_color
-        = collection_select :contact, :eye_color_id, EyeColor.active, :code, :value
+        = collection_select :contact, :eye_color_id, EyeColor.active, :id, :value, :include_blank => ""
 
     .field.stackAuto
       .stackContent
         = f.label :hair_color
-        = collection_select :contact, :hair_color_id, HairColor.active, :code, :value
+        = collection_select :contact, :hair_color_id, HairColor.active, :id, :value, :include_blank => ""
 
     .stackContent
       %table.stackContent.tablesorter

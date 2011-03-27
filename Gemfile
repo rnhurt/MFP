@@ -3,13 +3,13 @@ source "http://rubygems.org"
 gem "rails", "3.0.5"
 
 gem "jquery-rails" 
+gem "haml-rails"
+gem "chronic"
 # gem "devise"
 # gem "omniauth"
-gem "haml-rails"
-gem "carrierwave"       # provides file uploading
-gem "fog"               # provides connection to AWS S3
-gem "kaminari"          # provides pagination
-
+# gem "carrierwave"       # provides file uploading
+# gem "fog"               # provides connection to AWS S3
+# gem "kaminari"          # provides pagination
 
 group :development, :test do
   gem "ruby-debug19"
@@ -31,6 +31,6 @@ group :test do
 end
 
 group :production do
-  gem "dalli"   # memcached client
+ # gem "dalli"   # memcached client
  # gem "mysql"
 end

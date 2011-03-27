@@ -23,6 +23,10 @@ a, a:visited {text-decoration:none; cursor:pointer; color:#404040;}
 #container #nav li a {display:block; float:left;}
 #header {background:#333;text-align:left; }
 #title {color:#fff; padding:2px; font-size:3em; float:left;}
+#flash { margin: 0px auto; }
+#flash .notice  { padding:10px; background-color: green; color: white; }
+#flash .warning { padding:10px; background-color: yellow; }
+#flash .error   { padding:10px; background-color: red; }
 
 /* navigation */
 #nav {padding:2px; float:right; } 

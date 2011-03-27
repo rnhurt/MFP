@@ -15,7 +15,7 @@
           %a{:href => edit_contact_path(contact)}= contact.full_name
         %td= contact.dob
         %td= contact.addresses.first.full_address
-        %td= "#{contact.race.code} / #{contact.gender.code}"
+        %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
         -#%td= link_to 'Show', contact
         -#%td= link_to 'Edit', edit_contact_path(contact)
         -#%td= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete

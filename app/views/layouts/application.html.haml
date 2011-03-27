@@ -19,7 +19,6 @@
       .stack
         #header.stack
           %h1#title.stackContent Dingo
-          =show_flash
 
           %ul#nav.stackContent
             %li.active
@@ -30,6 +29,9 @@
               %a Reporting
             %li 
               %a Admin
+
+        .stackContent#flash
+          =show_flash
 
         #content
           =yield

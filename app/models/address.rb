@@ -4,6 +4,12 @@ class Address < ActiveRecord::Base
   has_many    :locations #, :as => :addressable
   has_many    :contacts, :through => :locations
 
+  class << self
+    def active; where(:active => true); end
+    def inactive; where(:active => false); end
+    def recent(lmt = 15); limit(lmt).order("created_at DESC"); end
+  end
+
   def street_address
     "#{street_number} #{street_name}"
   end
@@ -12,6 +18,13 @@ class Address < ActiveRecord::Base
     "#{street_address}, #{city} #{region.try(:code)} #{postal_code}"
   end
 
-  def street_name;  self[:street_name].upcase if self[:street_name]; end
-  def city;         self[:city].upcase        if self[:city]; end
+  def street_name;  changecase(:street_name); end
+  def city;         changecase(:city); end
+
+  private
+
+  # Change the case of the attribute if the user wants to see ALL UPPER CASE
+  def changecase(attribute)
+    (StaticData::upcase && self[attribute]) ? self[attribute].upcase : self[attribute]
+  end
 end

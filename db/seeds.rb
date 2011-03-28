@@ -1,3 +1,9 @@
+print "Seeding static data..."
+StaticData.delete_all
+StaticData.create(:name => "UPCASE",    :value => true,           :active => true)
+StaticData.create(:name => "SITE_NAME", :value => "Metro County", :active => true)
+puts "done"
+
 print "Seeding contact types..."
 ContactType.delete_all
 %w(F.I. Warning Citation Arrest Suspect Victim Witness).each do |type|

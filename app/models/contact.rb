@@ -17,7 +17,13 @@ class Contact < ActiveRecord::Base
   end
 
  
-  def first_name;   self[:first_name].upcase; end
-  def last_name;    self[:last_name].upcase; end
+  def first_name;   changecase(:first_name); end
+  def last_name;    changecase(:last_name); end
 
+  private
+
+  # Change the case of the attribute if the user wants to see ALL UPPER CASE
+  def changecase(attribute)
+    (StaticData::upcase && self[attribute]) ? self[attribute].upcase : self[attribute]
+  end
 end

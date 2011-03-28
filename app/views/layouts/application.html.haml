@@ -21,13 +21,13 @@
           %h1#title.stackContent Dingo
 
           %ul#nav.stackContent
-            %li.active
+            %li{:class => controller_name == "contacts" ? "active" : ""}
               %a{:href => "/contacts"} Contacts
-            %li 
+            %li{:class => controller_name == "search" ? "active" : ""}
               %a{:href => "#"} Search
-            %li 
-              %a{:href => "#"} Reporting
-            %li 
+            %li{:class => controller_name == "reports" ? "active" : ""}
+              %a{:href => "/reports"} Reporting
+            %li{:class => controller_name == "admin" ? "active" : ""}
               %a{:href => "#"} Admin
 
         .stackContent#flash

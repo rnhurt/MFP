@@ -11,4 +11,7 @@ class Address < ActiveRecord::Base
   def full_address
     "#{street_address}, #{city} #{region.try(:code)} #{postal_code}"
   end
+
+  def street_name;  self[:street_name].upcase if self[:street_name]; end
+  def city;         self[:city].upcase        if self[:city]; end
 end

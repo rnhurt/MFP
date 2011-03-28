@@ -15,4 +15,9 @@ class Contact < ActiveRecord::Base
   def full_name
     "#{first_name} #{last_name}"
   end
+
+ 
+  def first_name;   self[:first_name].upcase; end
+  def last_name;    self[:last_name].upcase; end
+
 end

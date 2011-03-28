@@ -45,8 +45,10 @@ a, a:visited {text-decoration:none; cursor:pointer; color:#404040;}
 .field { padding:0px !important; margin:0px !important; }
 label { position:absolute; text-align:right;  margin-top:-10px; text-align:left; font-size:smaller; font-weight:bold; }
 input, textarea, select { width:150px; }
+input { border:1px solid #ccc; padding:4px; -moz-box-shadow:0 0 10px #eee inset; -webkit-box-shadow:0 0 10px #eee inset; }
 select.multi { border: 1px solid red; }
 label.check, label.radio { position:relative; text-align:left; }
+  
 
 /* tables */
 table { cursor:pointer; }

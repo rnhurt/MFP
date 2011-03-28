@@ -7,7 +7,7 @@
     = stylesheet_link_tag "reset", :media => "all"
     = stylesheet_link_tag "stacklayout.css", :media => "all"
     = stylesheet_link_tag "stacklayout_mobile.css", :media => "handheld, only screen and (max-width: 767px)"
-    = stylesheet_link_tag "application"
+    = stylesheet_link_tag "tabs", "application"
 
     /[if lte IE 7]
       = stylesheet_link_tag "stacklayout_lte_ie7.css", :media => "all"
@@ -24,11 +24,11 @@
             %li.active
               %a{:href => "/contacts"} Contacts
             %li 
-              %a Search
+              %a{:href => "#"} Search
             %li 
-              %a Reporting
+              %a{:href => "#"} Reporting
             %li 
-              %a Admin
+              %a{:href => "#"} Admin
 
         .stackContent#flash
           =show_flash
@@ -41,5 +41,5 @@
             %p.stackContent 
               %a{:href => "http://kangaroobox.com", :target => "_blank"} &copy; 2011 KangarooBox, LLC
 
-  = javascript_include_tag "jquery.min","jquery.tablesorter.min","rails"
+  = javascript_include_tag "jquery.min","http://cdn.jquerytools.org/1.2.5/all/jquery.tools.min.js","jquery.tablesorter.min","rails"
   = javascript_include_tag "application"

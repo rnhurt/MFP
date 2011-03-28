@@ -11,4 +11,7 @@ $(function() {
   $('tr[url]').live('click', function() {
     $(window.location).attr('href', $(this).attr('url'));
   });
+
+  // setup ul.tabs to work as tabs for each div directly under div.panes
+  $("ul.tabs").tabs("div.panes > div");
 }); 

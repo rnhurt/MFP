@@ -60,6 +60,12 @@ table th { padding: 4px; }
 table tbody { text-align: left; text-indent: 10px; color: #404040; background-color: #fafafa; }
 table td { padding: 3px 7px 2px 7px; }
 
+table.report thead { background-color: white; color:black; border: none; text-align:left; }
+table.report td { padding: 0px; }
+table.report { font-family:monospace; text-align:left; }
+table.report th:hover { background-color: inherit;}
+table.report tbody tr:hover { background-color: inherit; }
+table.report caption { font-size: 1.5em; padding: 10px; background-color: white;}
 
 /* footer */
 #footer {font-size:0.8em; color:#ccc; background:#333; } 

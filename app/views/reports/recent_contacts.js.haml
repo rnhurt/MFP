@@ -1,3 +1,5 @@
+%stackContent= link_to "Back", reports_url
+
 %table.report.stackContent
   %caption Most Recent Contacts
   %thead
@@ -15,6 +17,3 @@
       %td= contact.dob
       %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
       %td= contact.addresses.first.try(:full_address)
-
-%buttons.stackContent
-  %button.positive= link_to "Back", reports_url

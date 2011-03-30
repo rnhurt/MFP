@@ -1,22 +1,23 @@
-.stack4of5
-  %table.stackContent.tablesorter
-    %thead
-      %tr
-        %th Name
-        %th DoB
-        %th Address
-        %th Race / Gender
+%stackAuto
+  %button.positive= link_to 'Add Contact', new_contact_path
 
-    - @contacts.each do |contact|
-      %tr{ :url => edit_contact_path(contact) }
-        %td= link_to contact.full_name, edit_contact_path(contact)
-        %td= contact.dob
-        %td= contact.addresses.first.try(:full_address)
-        %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
-        -#%td= link_to 'Show', contact
-        -#%td= link_to 'Edit', edit_contact_path(contact)
-        -#%td= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete
+%table.stackContent.tablesorter
+  %thead
+    %tr
+      %th Name
+      %th DoB
+      %th Address
+      %th Race / Gender
 
-.stack1of5
-  .stackContent
-    = link_to 'Add Contact', new_contact_path
+  - @contacts.each do |contact|
+    %tr{ :url => edit_contact_path(contact) }
+      %td= link_to contact.full_name, edit_contact_path(contact)
+      %td= contact.dob
+      %td= contact.addresses.first.try(:full_address)
+      %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
+      -#%td= link_to 'Show', contact
+      -#%td= link_to 'Edit', edit_contact_path(contact)
+      -#%td= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete
+
+
+

@@ -12,23 +12,21 @@
     /[if lte IE 7]
       = stylesheet_link_tag "stacklayout_lte_ie7.css", :media => "all"
 
-
-
   %body#container
     #page
       .stack
         #header.stack
-          %h1#title.stackContent Dingo
+          %h1#title.stackContent= link_to "Indian Hills P.D.", root_url
 
           %ul#nav.stackContent
             %li{:class => controller_name == "contacts" ? "active" : ""}
-              %a{:href => "/contacts"} Contacts
+              = link_to "Contacts", contacts_path
             %li{:class => controller_name == "search" ? "active" : ""}
-              %a{:href => "#"} Search
+              = link_to "Search", search_index_path
             %li{:class => controller_name == "reports" ? "active" : ""}
-              %a{:href => "/reports"} Reporting
+              = link_to "Reports", reports_path
             %li{:class => controller_name == "admin" ? "active" : ""}
-              %a{:href => "#"} Admin
+              = link_to "Admin", admin_index_path
 
         .stackContent#flash
           =show_flash
@@ -39,6 +37,7 @@
         #footer
           .stackAuto
             %p.stackContent 
+              Dingo
               %a{:href => "http://kangaroobox.com", :target => "_blank"} &copy; 2011 KangarooBox, LLC
 
   = javascript_include_tag "jquery.min","http://cdn.jquerytools.org/1.2.5/all/jquery.tools.min.js","jquery.tablesorter.min","rails"

@@ -1,4 +1,13 @@
-%h1.stackContent Reporting
+%buttons.stackContent
+  %h2 Choose your report:
+  %button.positive= link_to "Recent Contacts", report_url("recent_contacts")
+  %button.positive= link_to "5 Most Recent Contacts", report_url("recent_contacts", :q => 5)
+  %button.positive= link_to "25 Most Recent Contacts", report_url("recent_contacts", :q => 25)
+  %button.positive= link_to "50 Most Recent Contacts", report_url("recent_contacts", :q => 50)
+  %button.positive= link_to "10 Most Recent Contacts", report_url("recent_contacts", :q => 10)
+  %button.positive= link_to "Yet Another Report", report_url("recent_contacts")
+  %button.positive= link_to "Yet Another Report2", report_url("recent_contacts")
+  %button.positive= link_to "Yet Another Report3", report_url("recent_contacts")
 
 
 -#.stackContent

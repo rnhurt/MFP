@@ -1,6 +1,6 @@
 $(function() {
   // Make the tables a bit prettier
-  // $('.tablesorter').tablesorter({widgets: ['zebra']});
+  $('.tablesorter').tablesorter({widgets: ['zebra']});
 
   // Make the flash notices a bit prettier
   $('#flash .close').click(function() {

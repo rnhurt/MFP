@@ -15,7 +15,6 @@ class Contact < ActiveRecord::Base
   def full_name
     "#{first_name} #{last_name}"
   end
-
  
   def first_name;   changecase(:first_name); end
   def last_name;    changecase(:last_name); end

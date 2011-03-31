@@ -1,7 +1,8 @@
 class CreateContacts < ActiveRecord::Migration
   def self.up
     create_table :contacts do |t|
-      t.integer :contact_type_id
+      t.integer   :contact_type_id
+      t.datetime  :incident_timestamp
       t.string  :ol_number
       t.integer :ol_state_id
       t.string  :title

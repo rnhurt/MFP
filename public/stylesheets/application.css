@@ -44,11 +44,13 @@ a, a:visited {text-decoration:none; cursor:pointer; color:black;}
 /* forms */
 .field { padding:0px !important; margin:0px !important; }
 label { position:absolute; text-align:right;  margin-top:-10px; text-align:left; font-size:smaller; font-weight:bold; }
-input, textarea, select { width:150px; }
+input, textarea { width:150px; }
+select { width:160px; }
 input { border:1px solid #ccc; padding:4px; -moz-box-shadow:0 0 10px #eee inset; -webkit-box-shadow:0 0 10px #eee inset; }
 select.multi { border: 1px solid red; }
 label.check, label.radio { position:relative; text-align:left; }
-
+fieldset { border:1px solid #ccc; margin-bottom: 10px;}
+legend { padding: 0.2em 0.5em; border:1px solid #ccc; background-color:#ccc; color:white; font-size:80%; text-align:right; font-weight: bold;}
 
 /* BUTTONS */
 .buttons a, .buttons button{display:block; float:left; margin:0 7px 0 0; background-color:#f5f5f5; border:1px solid #dedede; border-top:1px solid #eee;

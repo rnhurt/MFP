@@ -46,7 +46,9 @@ class ContactsController < ApplicationController
 
   private
 
+  # Convert these dates from human readable to real dates/timestamps
   def parse_dates
     params[:contact][:dob] = Chronic.parse(params[:contact][:dob]).to_s if params[:contact][:dob]
+    params[:contact][:incident_timestamp] = Chronic.parse(params[:contact][:incident_timestamp]).to_s if params[:contact][:incident_timestamp]
   end
 end

@@ -4,6 +4,8 @@
 %table.stackContent.tablesorter
   %thead
     %tr
+      %th Date
+      %th Type
       %th Name
       %th DoB
       %th Address
@@ -11,6 +13,8 @@
 
   - @contacts.each do |contact|
     %tr{ :url => edit_contact_path(contact) }
+      %td= contact.incident_timestamp.strftime('%m/%d/%Y')
+      %td= contact.contact_type.name
       %td= link_to contact.full_name, edit_contact_path(contact)
       %td= contact.dob
       %td= contact.addresses.first.try(:full_address)

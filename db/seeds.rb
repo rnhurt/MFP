@@ -135,6 +135,8 @@ type_count = ContactType.count
   addresses = []
   (0..rand(5)).each{|i| addresses << Address.find(rand(100)+1)}
   Contact.create(:contact_type => ContactType.find(rand(type_count)+1),
+    :contact_type       => ContactType.find_by_name(%w[F.I. Warning Citation Arrest Suspect Victim Witness].rand),
+    :incident_timestamp => Date.today - rand(2000000).minutes,
     :first_name => Faker::Name.first_name,
     :last_name  => Faker::Name.last_name,
     :dob        => Date.today - (rand(20000)+3000).days,

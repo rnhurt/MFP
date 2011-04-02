@@ -9,7 +9,7 @@ class Contact < ActiveRecord::Base
   class << self
     def active; where(:active => true); end
     def inactive; where(:active => false); end
-    def recent(lmt = 15); limit(lmt).order("created_at DESC"); end
+    def recent(lmt = 15); limit(lmt).order("incident_timestamp DESC"); end
   end
   
   def full_name

@@ -1,3 +1,14 @@
+- type_counts = {}
+- Contact.count(:all, :group => "contact_type_id").map{|k,v| type_counts[ContactType.find(k).name] = v }
+
+%div.stackContent
+  %stackContent.stack2of4.chart
+    %img{:src => "http://chart.apis.google.com/chart?chxs=0,000000,11.5&chxt=x&chs=460x225&cht=p3&chco=0000FF&chd=t:#{type_counts.values.join(',')}&chl=#{type_counts.keys.join('|')}&chtt=Contacts+by+Type"}
+
+  %stackContent.stack2of4.chart
+    %img{:src => "http://chart.apis.google.com/chart?chs=460x225&cht=lxy&chco=3072F3,FF0000&chds=0,6,0,100,0,95,0,100&chd=t:0,1,2,3,4,5|#{type_counts.values.join(',')}|-1|#{type_counts.values.join(',')}&chdl=#{type_counts.keys.join('|')}&chdlp=b&chls=2,4,0|1&chma=5,5,5,25&chtt=Contacts+Over+Time"}
+
+
 %buttons.stackContent
   %h2 Choose your report:
   %button.positive= link_to "Recent Contacts", report_url("recent_contacts")

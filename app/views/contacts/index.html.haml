@@ -1,5 +1,8 @@
-%stackAuto
-  %button.positive= link_to 'Add Contact', new_contact_path
+.stackContent
+  %button.positive= link_to "Add Contact", new_contact_path
+  = form_tag contacts_path, :method => "get" do
+    =text_field_tag "search", params[:search]
+    =submit_tag "Search by Name", :name => nil
 
 %table.stackContent.tablesorter
   %thead
@@ -11,14 +14,18 @@
       %th Address
       %th Race / Gender
 
-  - @contacts.each do |contact|
-    %tr{ :url => edit_contact_path(contact) }
-      %td= contact.incident_timestamp.strftime('%m/%d/%Y')
-      %td= contact.contact_type.name
-      %td= link_to contact.full_name, edit_contact_path(contact)
-      %td= contact.dob
-      %td= contact.addresses.first.try(:full_address)
-      %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
+  - if @contacts.empty?
+    %tr
+      %td No contacts found
+  - else 
+    - @contacts.each do |contact|
+      %tr{ :url => edit_contact_path(contact) }
+        %td= contact.incident_timestamp.blank? ? "" : contact.incident_timestamp.strftime('%m/%d/%Y')
+        %td= contact.contact_type.name
+        %td= link_to contact.full_name, edit_contact_path(contact)
+        %td= contact.dob
+        %td= contact.addresses.first.try(:full_address)
+        %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
       -#%td= link_to 'Show', contact
       -#%td= link_to 'Edit', edit_contact_path(contact)
       -#%td= link_to 'Destroy', contact, :confirm => 'Are you sure?', :method => :delete

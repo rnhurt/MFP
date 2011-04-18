@@ -20,11 +20,6 @@
 
       .field.stackAuto
         .stackContent
-          = f.label :title
-          = f.text_field :title
-
-      .field.stackAuto
-        .stackContent
           = f.label :first_name
           = f.text_field :first_name
 
@@ -115,5 +110,5 @@
 
     .actions
       = f.submit 'Save'
-      %button= link_to 'Back', contacts_path
+      %button= link_to 'Cancel Changes', contacts_path
 

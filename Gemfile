@@ -31,6 +31,7 @@ group :test do
 end
 
 group :production do
+  gem "faker"   # temporarily needed for Heroku 'demo' app deployment
  # gem "dalli"   # memcached client
  # gem "mysql"
 end

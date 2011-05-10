@@ -1,6 +1,6 @@
 $(function() {
   // Make the tables a bit prettier
-  $('.tablesorter').tablesorter({widgets: ['zebra']});
+  // $('.tablesorter').tablesorter({widgets: ['zebra']});
 
   // Make the flash notices a bit prettier
   $('#flash .close').click(function() {
@@ -11,6 +11,8 @@ $(function() {
   $('tr[url]').live('click', function() {
     $(window.location).attr('href', $(this).attr('url'));
   });
+
+  $( "#accordion" ).accordion({ collapsible: true });
 
   // setup ul.tabs to work as tabs for each div directly under div.panes
   // $("ul.tabs").tabs("div.panes > div");

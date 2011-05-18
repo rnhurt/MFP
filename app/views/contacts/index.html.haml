@@ -1,7 +1,6 @@
 .stackContent
   %button.positive
-    = form_tag new_contact_path, :method => "get" do
-      = submit_tag "Add Contact", :name => nil
+    = link_to "Add Contact", new_contact_path
   = form_tag contacts_path, :method => "get" do
     =text_field_tag "search", params[:search]
     =submit_tag "Search by Name", :name => nil

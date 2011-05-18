@@ -14,7 +14,7 @@ code {font-size:1.5em; color:#ba321c; }
 strong {color:#ba321c; }
 
 /* anchors */
-a, a:visited {text-decoration:none; cursor:pointer; color:black;}
+a, a:visited {text-decoration:nonee; cursor:pointer; color:black;}
 #header a, #header a:visited, #footer a:visited {text-decoration:none; cursor:pointer; color:#999; }
 #header a:hover, a:focus { color:#fff; }
 

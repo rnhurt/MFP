@@ -1,5 +1,5 @@
 .stackContent
-  %button.positive
+  .positive
     = link_to "Add Contact", new_contact_path
   = form_tag contacts_path, :method => "get" do
     =text_field_tag "search", params[:search]
@@ -10,7 +10,9 @@
     - @contacts.each do |contact|
       %h3{class:"gender-#{contact.gender.try(:code)}"} <a href="#">#{contact.full_name}</a>
       .details
-        %p Some details about '#{contact.full_name}'
+        %p 
+          Some details about 
+          = link_to contact.full_name, edit_contact_path(contact)
 
 -#%table.stackContent.tablesorter
 -#  %thead

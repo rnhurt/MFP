@@ -71,7 +71,7 @@
 			"file": "/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
 			"settings":
 			{
-				"buffer_size": 1903,
+				"buffer_size": 1923,
 				"line_ending": "Unix"
 			}
 		},
@@ -90,11 +90,29 @@
 				"buffer_size": 4627,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/home/rnhurt/src/rails/mfp/config/database.yml",
+			"settings":
+			{
+				"buffer_size": 501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rnhurt/src/rails/mfp/Gemfile",
+			"settings":
+			{
+				"buffer_size": 780,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
 	"file_history":
 	[
+		"/home/rnhurt/.local/share/applications/sublime.desktop",
+		"/home/rnhurt/src/rails/mfp/config/environments/production.rb",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/application.css",
 		"/home/rnhurt/src/rails/mfp/app/controllers/contacts_controller.rb",
 		"/home/rnhurt/Downloads/rb_perf",
@@ -294,7 +312,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -330,15 +348,15 @@
 					"file": "/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
 					"settings":
 					{
-						"buffer_size": 1903,
+						"buffer_size": 1923,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								380,
-								380
+								625,
+								625
 							]
 						],
 						"settings":
@@ -406,6 +424,62 @@
 						"zoom_level": 1
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/rnhurt/src/rails/mfp/config/database.yml",
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								501,
+								501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/rnhurt/src/rails/mfp/Gemfile",
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								725,
+								725
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -439,6 +513,18 @@
 		"height": 0,
 		"selected_items":
 		[
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"product",
+				"config/environments/production.rb"
+			],
 			[
 				"application.css",
 				"public/stylesheets/application.css"
@@ -822,10 +908,6 @@
 			[
 				"ie",
 				"public/stylesheets/stacklayout_lte_ie7.css"
-			],
-			[
-				"gem",
-				"Gemfile"
 			],
 			[
 				"gradehelper",

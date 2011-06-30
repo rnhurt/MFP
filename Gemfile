@@ -1,29 +1,26 @@
-source 'http://rubygems.org'
+source "http://rubygems.org"
 
-gem 'rails', '3.1.0.rc4'
-
-# Bundle edge Rails instead:
-# gem 'rails',     :git => 'git://github.com/rails/rails.git'
-
-gem 'sqlite3'
+gem "rails", "3.1.0.rc4"
 
 # Asset template engines
-gem 'sass-rails', "~> 3.1.0.rc"
-gem 'coffee-script'
-gem 'uglifier'
+gem "sass-rails", "~> 3.1.0.rc"
+gem "coffee-script"
+gem "uglifier"
 
+gem "rabl"
 
-
-# Use unicorn as the web server
-# gem 'unicorn'
-
-# Deploy with Capistrano
-# gem 'capistrano'
-
-# To use debugger
-# gem 'ruby-debug19', :require => 'ruby-debug'
+group :development, :test do
+  gem "ruby-debug19"
+  gem "sqlite3-ruby", :require => "sqlite3"
+  gem "thin"
+  gem "hirb"
+  gem "wirble"
+  gem "awesome_print"
+  gem "rspec-rails"
+  gem "faker"
+end
 
 group :test do
   # Pretty printed test output
-  gem 'turn', :require => false
+  gem "turn", :require => false
 end

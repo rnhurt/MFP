@@ -1,0 +1,10 @@
+BLK|Black
+BLU|Blue
+BRO|Brown
+GRN|Green
+GRY|Gray
+HAZ|Hazel
+MAR|Maroon
+MUL|Multicolored
+PNK|Pink
+XXX|Unknown

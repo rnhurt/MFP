@@ -1,0 +1,2 @@
+class VehicleMake < Code
+end

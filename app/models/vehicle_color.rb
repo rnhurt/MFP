@@ -1,0 +1,2 @@
+class VehicleColor < Code
+end

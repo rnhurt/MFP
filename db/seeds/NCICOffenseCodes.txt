@@ -1,0 +1,424 @@
+101|Treason
+102|Treason Misprision
+103|Espionage
+104|Sabotage
+105|Sedition
+106|Selective Service
+199|Sovereignty-Remarks
+201|Military Desertion
+299|Military-Remarks
+301|Illegal Entry
+302|False Citizenship
+303|Smuggling Aliens
+399|Immigration-Remarks
+901|Homicide-Premeditated-Family-Gun
+902|Homicide-Premeditated-Family-Weapon
+903|Homicide-Premeditated-Non-Family-Gun
+904|Homicide-Premeditated-Non-Family-Weapon
+905|Homicide-Premeditated-Public Official-Gun
+906|Homicide-Premeditated-Public Official-Weapon
+907|Homicide-Premeditated-Police Officer-Gun
+908|Homicide-Premeditated-Police Officer-Weapon
+909|Homicide-Negligent Manslaughter-Vehicle
+910|Homicide-Negligent Manslaughter-Weapon
+911|Homicide-Premeditated-Gun
+912|Homicide-Premeditated-Weapon
+913|Homicide-John/Jane Doe-No Warr
+999|Homicide-Remarks
+1001|Kidnap Minor For Ransom
+1002|Kidnap Adult For Ransom
+1003|Kidnap Minor To Sexually Assault
+1004|Kidnap Adult To Sexually Assault
+1005|Kidnap Minor
+1006|Kidnap Adult
+1007|Kidnap Hostage For Escape
+1008|Abduct-No Ransom or Assault
+1009|Kidnap-Hijack Aircraft
+1010|Kidnap Minor-Parental
+1011|Kidnap Minor-Nonparental
+1020|False Imprisonment-Minor-Nonparental
+1021|False Imprisonment-Minor-Parental
+1099|Kidnapping-Remarks
+1101|Rape-Gun
+1102|Rape With Weapon
+1103|Rape-Strongarm
+1104|Sex Assault-Sodomy-Boy-Gun
+1105|Sex Assault-Sodomy-Man-Gun
+1106|Sex Assault-Sodomy-Girl-Gun
+1107|Sex Assault-Sodomy-Woman-Gun
+1108|Sex Assault-Sodomy-Boy-Weapon
+1109|Sex Assault-Sodomy-Man-Weapon
+1110|Sex Assault-Sodomy-Girl-Weapon
+1111|Sex Assault-Sodomy-Woman-Weapon
+1112|Sex Assault-Sodomy-Boy-Strongarm
+1113|Sex Assault-Sodomy-Man-Strongarm
+1114|Sex Assault-Sodomy-Girl-Strongarm
+1115|Sex Assault-Sodomy-Woman-Strongarm
+1116|Stat Rape-No Force
+1117|Sex Assault-Carnal Abuse
+1199|Sex Assault-Remarks
+1201|Robbery-Business-Gun
+1202|Robbery-Business-Weapon
+1203|Robbery-Business-Strongarm
+1204|Robbery-Street-Gun
+1205|Robbery-Street-Weapon
+1206|Robbery-Street-Strongarm
+1207|Robbery-Residence-Gun
+1208|Robbery-Residence-Weapon
+1209|Robbery-Residence-Strongarm
+1210|Forcible Purse Snatching
+1211|Robbery-Banking-Type Inst
+1212|Carjacking-Armed
+1299|Robbery-Remarks
+1301|Aggravated Assault-Family-Gun
+1302|Aggravated Assault-Family-Weapon
+1303|Aggravated Assault-Family-Strongarm
+1304|Aggravated Assault-Non-Familyily-Gun
+1305|Aggravated Assault-Non-Familyily-Weapon
+1306|Aggravated Assault-Non-Familyily-Strongarm
+1307|Aggravated Assault-Public Official-Gun
+1308|Aggravated Assault-Public Offical-Weapon
+1309|Aggravated Assault-Public Off-Strongarm
+1310|Aggravated Assault-Police Officer-Gun
+1311|Aggravated Assault-Police Officer-Weapon
+1312|Aggravated Assault-Police Off-Strongarm
+1313|Simple Assault
+1314|Aggravated Assault-Gun
+1315|Aggravated Assault-Weapon
+1316|Intimidation (includes stalking)
+1399|Assault-Remarks
+1401|Abortional Act on Other
+1402|Abortional Act on Self
+1403|Submission To Abortional Act
+1404|Abortifacient(sell/mfg/deliver)
+1499|Abortion-Remarks
+1601|Threat-Federal Protectees
+1602|Threat-Terrorist/State Offenses
+1701|State/Local-Material Witness
+1702|Federal-Material Witness
+2001|Arson-Business-Endangered Life
+2002|Arson-Residence-Endangered Life
+2003|Arson-Business-Defraud Insurer
+2004|Arson-Residence-Defraud Insurer
+2005|Arson-Business
+2006|Arson-Residence
+2007|Burning Offense-Remarks
+2008|Arson-Public Building-Endangered Life
+2009|Arson-Public Building
+2099|Arson-Remarks
+2101|Extort-Threat Injure Person
+2102|Extort-Threat Damage Property
+2103|Extort-Threat Injure Reputation
+2104|Extort-Threat Person of Crime
+2105|Extort-Threat of Inform of Violence
+2199|Extortion-Remarks
+2201|Burglary-Safe, Vault
+2202|Burglary-Forced Entry-Residence
+2203|Burglary-Forced Entry-Nonresidence
+2204|Burglary-No Forced Entry-Residence
+2205|Burglary-No Forced Entry-Nonresisdence
+2206|Burglary Tools-Possession
+2207|Burlgary-Banking-Type Institution
+2299|Burglary-Remarks
+2301|Pocketpicking
+2302|Purse Snatching-No Force
+2303|Shoplifting
+2304|Larceny-Parts From Vehicle
+2305|Larceny-From Auto
+2306|Larceny-From Shipment
+2307|Larceny-From Coin Machine
+2308|Larceny-From Building
+2309|Larceny-From Yards
+2310|Larceny-From Mails
+2311|Larceny-From Banking-Type Institution
+2312|Larceny-From Interstate Shipment
+2313|Obstruct Correspond (Postal)
+2314|Theft of US Govermentt Property
+2315|Larceny-On US Government Reserve
+2316|Larceny-Postal
+2399|Larceny-Remarks
+2401|Vehicle Theft and Sale
+2402|Vehicle Theft and Strip
+2403|Theft/Use Vehicle Other Crime
+2404|Vehicle Theft
+2405|Vehicle Theft by Bailee
+2406|Receive Stolen Vehicle
+2407|Strip Stolen Vehicle
+2408|Possession of Stolen Vehicle
+2409|Interstate Transp Stolen Vehicle
+2410|Aircraft Theft
+2411|Unauthorized Use of Vehicle-Joy Ride
+2499|Vehicle Theft-Remarks
+2501|Forgery of Checks
+2502|Forgery-Remarks
+2503|Counterfeiting-Remarks
+2504|Passing Forged Documents-Remarks
+2505|Passing Counterfeit-Remarks
+2506|Possess Forged-Remarks
+2507|Possess Counterfeit-Remarks
+2508|Possess Forged/Counterfeit-Tools
+2509|Transport Forged-Remarks
+2510|Transport Counterfeit-Remarks
+2511|Transport Forged/Counterfeit Tools
+2589|Forgery-Remarks
+2599|Counterfeiting-Remarks
+2601|Fraud-Confidence Game
+2602|Fraud-Swindle
+2603|Mail Fraud
+2604|Fraud-Imperson
+2605|Fraud-Illegal Use Credit Cards
+2606|Fraud-Insufficient Funds Checks
+2607|Fraud-False Statement
+2608|Fraud-By Wire
+2609|Fraud and Abuse - Computer
+2699|Fraud-Remarks
+2701|Embezzle-Business Property
+2702|Embezzle-Interstate Shipment
+2703|Embezzle-Banking-Type Institution
+2704|Embezzle-Public Property
+2705|Embezzle-Postal
+2799|Embezzle-Remarks
+2801|Sale of Stolen Property
+2802|Transport Interstate Stolen Prop
+2803|Receive Stolen Property
+2804|Possess Stolen Property
+2805|Conceal Stolen Property
+2899|Stolen Property-Remarks
+2901|Damage Property-Business
+2902|Damage Property-Private
+2903|Damage Property-Public
+2904|Damage Property-Business-With Explosive
+2905|Damage Property-Priatev-With Explosive
+2906|Damage Property-Public-With Explosive
+2999|Damage Property-Remarks
+3501|Hallucinogen-Manufacture
+3502|Hallucinogen-Distribute
+3503|Hallucinogen-Sell
+3504|Hallucinogen-Possession
+3505|Hallucinogen-Remarks
+3510|Heroin-Sell
+3511|Heroin-Smuggle
+3512|Heroin-Possession
+3513|Heroin-Remarks
+3520|Opium/Derivative-Sell
+3521|Opium/Derivative-Smuggle
+3522|Opium/Derivative-Possession
+3523|Opium/Derivative-Remarks
+3530|Cocaine-Sell
+3531|Cocaine-Smuggle
+3532|Cocaine-Possession
+3533|Cocaine-Remarks
+3540|Synthetic Narcotic-Sell
+3541|Synthetic Narcotic-Smuggle
+3542|Synthetic Narcotic-Possession
+3543|Synthetic Narcotic-Remarks
+3550|Narcotic Equipment-Possession
+3560|Marijuana-Sell
+3561|Marijuana-Smuggle
+3562|Marijuana-Possession
+3563|Marijuana-Producing
+3564|Marijuana-Remarks
+3570|Amphetamine-Manufacture
+3571|Amphetamine-Sell
+3572|Amphetamine-Possession
+3573|Amphetamine-Remarks
+3580|Barbiturate-Manufacture
+3581|Barbiturate-Sell
+3582|Barbiturate-Possession
+3583|Barbiturate-Remarks
+3599|Dangerous Drugs-Remarks
+3601|Sex Offense-Against Child-Fondling
+3602|Homosexual Act with Girl
+3603|Homosexual Act with Boy
+3604|Incest with Minor
+3605|Indecent Exposure (to minors and adults)
+3606|Bestiality
+3607|Incest with Adult
+3608|Seduction of Adult
+3609|Homosexual Act with Woman
+3610|Homosexual Act with Man
+3611|Peeping Tom
+3612|Failure To Register As A Sex Offender
+3613|Sex Offender Registration Violation
+3614|Indecent Exposure to Minor
+3615|Indecent Exposure to Adult
+3699|Sex Offense-Remarks
+3700|Obscene Material-Remarks
+3701|Obscene Material-Manufacture
+3702|Obscene Material-Sell
+3703|Obscene Material-Mailing
+3704|Obscene Material-Possession
+3705|Obscene Material-Distribute
+3706|Obscene Material-Transport
+3707|Obscene Communication
+3799|Obscenity-Remarks
+3801|Neglect Family
+3802|Cruelty toward Child
+3803|Cruelty toward Wife
+3804|Bigamy
+3805|Contrib Delinquency Minor
+3806|Neglect Child (includes nonsupport of child)
+3807|Nonpayment of Alimony
+3808|Nonsupport of Parent
+3899|Family Offense-Remarks
+3901|Bookmaking
+3902|Card Game-Operating
+3904|Card Game
+3905|Dice Game-Operating
+3907|Dice Game
+3908|Gambling Device-Possession
+3909|Gambling Device-Transport
+3910|Gambling Device-Not Registered
+3911|Gambling Device
+3912|Gambling Goods-Possession
+3913|Gambling Goods-Transport
+3914|Gambling Goods
+3915|Lottery-Operating
+3916|Lottery-Runner
+3918|Lottery
+3919|Sports Tampering
+3920|Transmit Wager Information
+3921|Establish Gambling Place
+3999|Gambling-Remarks
+4001|Keeping House Ill Fame
+4002|Procure For Prostitute-Pimping(prostitute a minor or adult)
+4003|Commerical Sex-Homosexual Prostitution
+4004|Prostitution
+4005|Frequent House of Ill Fame
+4006|Transport Female-Immorial Purposes
+4007|Procure for Prostitute Who Is a Minor
+4008|Procure for Prostitute Who is an Adult
+4099|Commerical Sex-Remarks
+4101|Liquor-Manufacture
+4102|Liquor-Sell
+4103|Liquor-Transport
+4104|Liquor-Possession
+4199|Liquor-Remarks
+4801|Resisting Officer
+4802|Obstruct Criminal Invest
+4803|Making False Report
+4804|Evidence-Destroying
+4805|Witness-Dissuading
+4806|Witness-Deceiving
+4807|Refusing to Aid Officer
+4808|Compounding Crime
+4809|Unauthorized Communication with Prisoner
+4810|Illegal Arrest
+4811|Crossing Police Lines
+4812|Failure Report Crime
+4813|Failure to Move On
+4899|Obstructing Police-Remarks
+4901|Escape-Remarks
+4902|Flight to Avoid-Remarks
+4903|Aid Prisoner to Escape-Remarks
+4904|Harboring Escapee/Fugitive
+4999|Flight/Escape-Remarks
+5001|Bail-Secured Bond
+5002|Bail-Personal Recognizance
+5003|Perjury
+5004|Perjury-Subornation
+5005|Contempt of Court-Remarks
+5006|Obstructing Justice
+5007|Obstructing Court Order
+5008|Misconduct-Judicial Officer
+5009|Contempt of Congress
+5010|Contempt of Legislature
+5011|Parole Violation-Remarks
+5012|Probation Violation-Remarks
+5013|Condition Release Violation
+5014|Mandatory Release Violation
+5015|Failure to Appear-Remarks
+5016|Violation of a Court Order
+5099|Obstruction-Remarks
+5101|Bribe-Giving
+5102|Bribe-Offering
+5103|Bribe-Receiving
+5104|Bribe-Remarks
+5105|Conflict of Interest
+5106|Gratuity-Giving
+5107|Gratuity-Offering
+5108|Gratuity-Receiving
+5109|Gratuity-Remarks
+5110|Kickback-Giving
+5111|Kickback-Offering
+5112|Kickback-Receiving
+5113|Kickback-Remarks
+5199|Bribery-Remarks
+5201|Altering Ident Weapon-Remarks
+5202|Carry Concealed Weapon-Remarks
+5203|Carrying Prohib Weapon-Remarks
+5204|Explosives-Teaching Use-Remarks
+5205|Explosives-Transporting-Remarks
+5206|Explosives-Using-Remarks
+5207|Incendiary Device-Poss-Remarks
+5208|Incendiary Device-Using-Remarks
+5209|Incendiary Device-Teach-Remarks
+5210|Licensing-Registered Weapon-Remarks
+5211|Explosives-Possessing-Remarks
+5212|Possession of Weapon-Remarks
+5213|Firing Weapon-Remarks
+5214|Selling Weapon-Remarks
+5215|Threat to Bomb-Remarks
+5216|Threat to Burn-Remarks
+5217|Weapon Trafficking
+5299|Weapon Offense-Remarks
+5301|Anarchism
+5302|Riot-Inciting
+5303|Riot-Engaging In
+5304|Riot-Interfere Firearm
+5305|Riot-Interfere Officer
+5306|Riot-Remarks
+5307|Assembly-Unlawful
+5309|Harassing Communication
+5310|Desecrating Flag
+5311|Disorderly Conduct-Remarks
+5399|Public Peace-Remarks
+5401|Hit and Run
+5402|Transporting Dangerous Material
+5403|Driving Under Influence-Drugs
+5404|Driving Under Influence-Liquor
+5499|Traffic Offense-Remarks
+5501|Drugs-Adulterated
+5502|Drugs-Misbranded
+5503|Drugs-Health or Safety
+5510|Food-Adulterated
+5511|Food-Misbranded
+5512|Food-Health or Safety
+5520|Cosmetics-Adulterated
+5521|Cosmetics-Misbranded
+5522|Cosmetics-Health or Safety
+5599|Health-Safety-Remarks
+5699|Civil Rights-Remarks
+5701|Divulge Eavesdrop Information
+5702|Divulge Eavesdrop Order
+5703|Divulge Message Contents
+5704|Eavesdropping-Remarks
+5705|Eavesdrop Equipment-Remarks
+5706|Opening Sealed Communications
+5707|Trespassing-Remarks
+5708|Wiretap-Failure to Report
+5799|Invade Privacy-Remarks
+5801|Smuggle Contraband-Remarks
+5802|Smuggle Contraband to Prisoner-Remarks
+5803|Smuggle to Avoid Duty-Remarks
+5899|Smuggling-Remarks
+5999|Election Laws-Remarks
+6099|Antitrust-Remarks
+6101|Income Tax-Remarks
+6102|Sales Tax-Remarks
+6103|Liquor Tax-Remarks
+6199|Tax Revenue-Remarks
+6201|Conservation-Animals-Remarks
+6202|Conservation-Fish-Remarks
+6203|Conservation-Birds-Remarks
+6204|Conservation-License Stamp-Remarks
+6205|Conservation-Environment-Remarks
+6299|Conservation-Remarks
+6300|Money Laundering-Remarks
+7099|Crimes against Person-Remarks
+7199|Property Crimes-Remarks
+7299|Morals-Decency Crimes-Remarks
+7399|Public Order Crimes-Remarks
+8100|Juvenile Escape From Custody
+8101|Juvenile Abscond-Parole
+8102|Juvenile Abscond-Probation

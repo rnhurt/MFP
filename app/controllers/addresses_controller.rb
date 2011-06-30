@@ -2,7 +2,7 @@ class AddressesController < ApplicationController
   before_filter :parse_dates, :only => [:create, :update]
 
   def index
-    @addresses = Address.recent(5).search(params[:search])
+    @addresses = Address.includes(:region).recent(params[:limit] || 5).search(params[:search])
   end
 
   def show

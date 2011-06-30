@@ -2,8 +2,7 @@ class ContactsController < ApplicationController
   before_filter :parse_dates, :only => [:create, :update]
 
   def index
-    # @contacts = Contact.recent(25).includes(:addresses, :gender, :race, :locations).search(params[:search])
-    @contacts = Contact.recent(5).search(params[:search])
+    @contacts = Contact.includes(:addresses, :gender, :race, :locations, :contact_type).recent(params[:limit] || 5).search(params[:search])
   end
 
   def show

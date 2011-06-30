@@ -1,2 +1,0 @@
-class HairColor < Code
-end

@@ -1,2 +1,0 @@
-class PropertyType < Code
-end

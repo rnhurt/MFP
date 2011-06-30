@@ -1,2 +1,0 @@
-class VehicleColor < Code
-end

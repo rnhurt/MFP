@@ -1,2 +1,0 @@
-class Offense < Code
-end

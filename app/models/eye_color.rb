@@ -1,2 +1,0 @@
-class EyeColor < Code
-end

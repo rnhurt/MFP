@@ -1,6 +1,0 @@
-A|Asian
-B|Black
-I|Am. Indian, Eskimo
-O|Other, multi-racial
-U|Undetermined
-W|White

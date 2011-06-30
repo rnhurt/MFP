@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Mfp::Application.config.secret_token = '3669250a212ae7818a24a556581044693d24f486b7a9b68eb3bdcdc704ba9b8f8d3616a0d0415bacef839d6aec3d4fb63146f82273fe75536782344d635fde96'
+Mfp::Application.config.secret_token = '328ed21e10080bd78ff357522d6911a6006d3225117bb99b92e8641a7294b0c0535a1896bd81ebc5c06010d7ea6e5364aebb50d0bd1fbbd6ec202fea89eacb37'

@@ -60,50 +60,10 @@
 	"buffers":
 	[
 		{
-			"file": "/home/rnhurt/src/rails/mfp/app/views/contacts/index.html.haml",
-			"settings":
-			{
-				"buffer_size": 1338,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
-			"settings":
-			{
-				"buffer_size": 1923,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rnhurt/src/rails/mfp/public/javascripts/application.js",
-			"settings":
-			{
-				"buffer_size": 617,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rnhurt/src/rails/mfp/public/stylesheets/application.css",
-			"settings":
-			{
-				"buffer_size": 4627,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/rnhurt/src/rails/mfp/config/database.yml",
-			"settings":
-			{
-				"buffer_size": 501,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/home/rnhurt/src/rails/mfp/Gemfile",
 			"settings":
 			{
-				"buffer_size": 780,
+				"buffer_size": 733,
 				"line_ending": "Unix"
 			}
 		}
@@ -111,20 +71,22 @@
 	"build_system": "",
 	"file_history":
 	[
-		"/home/rnhurt/.local/share/applications/sublime.desktop",
-		"/home/rnhurt/src/rails/mfp/config/environments/production.rb",
+		"/home/rnhurt/src/rails/mfp/app/views/contacts/index.html.haml",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/application.css",
 		"/home/rnhurt/src/rails/mfp/app/controllers/contacts_controller.rb",
+		"/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
+		"/home/rnhurt/src/rails/mfp/public/javascripts/application.js",
+		"/home/rnhurt/src/rails/mfp/config/database.yml",
+		"/home/rnhurt/src/rails/mfp/Gemfile",
+		"/home/rnhurt/.local/share/applications/sublime.desktop",
+		"/home/rnhurt/src/rails/mfp/config/environments/production.rb",
 		"/home/rnhurt/Downloads/rb_perf",
 		"/home/rnhurt/src/rails/mfp/app/views/contacts/_form.html.haml",
 		"/home/rnhurt/src/rails/mfp/app/models/contact.rb",
-		"/home/rnhurt/src/rails/mfp/app/views/contacts/index.html.haml",
 		"/home/rnhurt/src/rails/mfp/app/controllers/application_controller.rb",
 		"/home/rnhurt/src/rails/mfp/app/models/region.rb",
-		"/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
 		"/home/rnhurt/src/rails/mfp/app/views/reports/index.html.haml",
 		"/home/rnhurt/src/rails/mfp/app/models/contact_type.rb",
-		"/home/rnhurt/src/rails/mfp/public/javascripts/application.js",
 		"/home/rnhurt/src/rails/mfp/app/models/code.rb",
 		"/home/rnhurt/src/rails/mfp/db/seeds.rb",
 		"/home/rnhurt/src/rails/mfp/app/views/contacts/edit.html.haml",
@@ -154,7 +116,6 @@
 		"/home/rnhurt/src/rails/mfp/app/views/contacts/show.html.haml",
 		"/home/rnhurt/src/rails/mfp/lib/email_validator.rb",
 		"/home/rnhurt/src/rails/mfp/lib/date_validator.rb",
-		"/home/rnhurt/src/rails/mfp/Gemfile",
 		"/home/rnhurt/src/rails/mfp/config/application.rb",
 		"/home/rnhurt/src/rails/mfp/public/javascripts/rails.js",
 		"/home/rnhurt/src/rails/mfp/README.md",
@@ -312,161 +273,23 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/rnhurt/src/rails/mfp/app/views/contacts/index.html.haml",
-					"settings":
-					{
-						"buffer_size": 1338,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								300,
-								300
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HAML/HAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
-					"settings":
-					{
-						"buffer_size": 1923,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								625,
-								625
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HAML/HAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/rnhurt/src/rails/mfp/public/javascripts/application.js",
-					"settings":
-					{
-						"buffer_size": 617,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								431,
-								431
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/rnhurt/src/rails/mfp/public/stylesheets/application.css",
-					"settings":
-					{
-						"buffer_size": 4627,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4565,
-								4502
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 683,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/rnhurt/src/rails/mfp/config/database.yml",
-					"settings":
-					{
-						"buffer_size": 501,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								501,
-								501
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/YAML/YAML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "/home/rnhurt/src/rails/mfp/Gemfile",
 					"settings":
 					{
-						"buffer_size": 780,
+						"buffer_size": 733,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								725,
-								725
+								72,
+								72
 							]
 						],
 						"settings":
@@ -516,6 +339,18 @@
 			[
 				"gem",
 				"Gemfile"
+			],
+			[
+				"css",
+				"public/stylesheets/application.css"
+			],
+			[
+				"contact",
+				"app/controllers/contacts_controller.rb"
+			],
+			[
+				"contactindex",
+				"app/views/contacts/index.html.haml"
 			],
 			[
 				"database",
@@ -578,10 +413,6 @@
 				"app/views/layouts/application.html.haml"
 			],
 			[
-				"contact",
-				"app/models/contact.rb"
-			],
-			[
 				"reportinde",
 				"app/views/reports/index.html.haml"
 			],
@@ -600,10 +431,6 @@
 			[
 				"modelcode",
 				"app/models/code.rb"
-			],
-			[
-				"contactindex",
-				"app/views/contacts/index.html.haml"
 			],
 			[
 				"appjs",
@@ -884,10 +711,6 @@
 			[
 				"micrat",
 				"db/migrate/20110326011305_create_contacts.rb"
-			],
-			[
-				"css",
-				"public/stylesheets/application.css"
 			],
 			[
 				"applica",

@@ -1,2 +1,0 @@
-class VehicleModel < Code
-end

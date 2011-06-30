@@ -30,7 +30,7 @@ group :production do
   gem 'therubyracer-heroku', '0.8.1.pre3'
   gem "faker"
   gem "thin"
+  gem "mysql"
 
- # gem "dalli"   # memcached client
- # gem "mysql"
+  # gem "dalli"   # memcached client
 end

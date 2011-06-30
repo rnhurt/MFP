@@ -24,3 +24,12 @@ group :test do
   # Pretty printed test output
   gem "turn", :require => false
 end
+
+group :production do
+  # these gems are temporarily needed for Heroku app deployment
+  gem 'therubyracer-heroku', '0.8.1.pre3'
+  gem "faker"
+
+ # gem "dalli"   # memcached client
+ # gem "mysql"
+end

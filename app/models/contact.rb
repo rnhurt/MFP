@@ -10,11 +10,6 @@ class Contact < ActiveRecord::Base
     def active; where(:active => true); end
     def inactive; where(:active => false); end
     def recent(lmt = 15); limit(lmt).order("incident_timestamp DESC"); end
-
-    # Define the search functionality of this class
-    def search(search)
-      search.blank? ? all : where('first_name LIKE :search OR last_name LIKE :search', {:search => "%#{search}%"})
-    end
   end
   
   # Show the contact's full name
@@ -26,6 +21,14 @@ class Contact < ActiveRecord::Base
   def first_name;   changecase(:first_name); end
   def last_name;    changecase(:last_name); end
 
+  # Define the search functionality of this class
+  def self.search(search)
+    if search
+      where('first_name LIKE :search OR last_name LIKE :search', {:search => "%#{search}%"})
+    else
+      all
+    end
+  end
 
   private
 

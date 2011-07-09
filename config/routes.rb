@@ -1,7 +1,8 @@
 Mfp::Application.routes.draw do
+  resources :reports
   resources :contacts
-  resources :addresses
-  # resources :search
-  # resources :reports
-  # resources :admin
+  resources :search
+  resources :admin
+
+  root :to => "dashboard#index"
 end

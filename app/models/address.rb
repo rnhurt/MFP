@@ -8,11 +8,6 @@ class Address < ActiveRecord::Base
     def active; where(:active => true); end
     def inactive; where(:active => false); end
     def recent(lmt = 15); limit(lmt).order("created_at DESC"); end
-
-    # Define the search functionality of this class
-    def search(search)
-      search.blank? ? all : where('street_name LIKE :search OR city LIKE :search', {:search => "%#{search}%"})
-    end
   end
 
   def street_address

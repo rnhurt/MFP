@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"def",
+				"def: def … end"
+			],
+			[
 				"div",
 				"div"
 			],
@@ -44,10 +48,6 @@
 				"stroke_horizontal_rule"
 			],
 			[
-				"def",
-				"def: def … end"
-			],
-			[
 				"File",
 				"File: File.read(\"..\")"
 			],
@@ -59,30 +59,36 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/home/rnhurt/src/rails/mfp/Gemfile",
-			"settings":
-			{
-				"buffer_size": 733,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"file_history":
 	[
+		"/home/rnhurt/src/rails/mfp/app/models/contact.rb",
+		"/home/rnhurt/src/rails/mfp/app/controllers/contacts_controller.rb",
+		"/home/rnhurt/src/rails/mfp/app/controllers/addresses_controller.rb",
+		"/home/rnhurt/src/rails/mfp/Gemfile",
+		"/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
+		"/home/rnhurt/src/rails/mfp/config/routes.rb",
+		"/home/rnhurt/src/rails/mfp/OLD/config/routes.rb",
+		"/home/rnhurt/src/rails/mfp/config/environments/development.rb",
+		"/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.erb",
+		"/home/rnhurt/src/rails/mfp/app/views/addresses/index.rabl",
+		"/home/rnhurt/src/rails/mfp/app/views/contacts/show.rabl",
+		"/home/rnhurt/src/rails/mfp/OLD/Gemfile",
+		"/home/rnhurt/src/rails/mfp/app/views/addresses/_attributes.rabl",
+		"/home/rnhurt/src/rails/mfp/db/migrate/20110326034513_create_addresses.rb",
+		"/home/rnhurt/src/rails/mfp/app/models/address.rb",
+		"/home/rnhurt/src/rails/mfp/OLD/app/views/contacts/_form.html.haml",
+		"/home/rnhurt/src/rails/mfp/OLD/app/views/contacts/edit.html.haml",
+		"/home/rnhurt/src/rails/mfp/OLD/app/controllers/contacts_controller.rb",
 		"/home/rnhurt/src/rails/mfp/app/views/contacts/index.html.haml",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/application.css",
-		"/home/rnhurt/src/rails/mfp/app/controllers/contacts_controller.rb",
-		"/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.haml",
 		"/home/rnhurt/src/rails/mfp/public/javascripts/application.js",
 		"/home/rnhurt/src/rails/mfp/config/database.yml",
-		"/home/rnhurt/src/rails/mfp/Gemfile",
 		"/home/rnhurt/.local/share/applications/sublime.desktop",
 		"/home/rnhurt/src/rails/mfp/config/environments/production.rb",
 		"/home/rnhurt/Downloads/rb_perf",
 		"/home/rnhurt/src/rails/mfp/app/views/contacts/_form.html.haml",
-		"/home/rnhurt/src/rails/mfp/app/models/contact.rb",
 		"/home/rnhurt/src/rails/mfp/app/controllers/application_controller.rb",
 		"/home/rnhurt/src/rails/mfp/app/models/region.rb",
 		"/home/rnhurt/src/rails/mfp/app/views/reports/index.html.haml",
@@ -96,7 +102,6 @@
 		"/home/rnhurt/src/rails/mfp/app/controllers/reports_controller.rb",
 		"/home/rnhurt/src/other/kangaroobox.com/index.html",
 		"/home/rnhurt/src/rails/mfp/app/views/reports/recent_contacts.html.haml",
-		"/home/rnhurt/src/rails/mfp/config/routes.rb",
 		"/home/rnhurt/src/rails/mfp/app/views/admin/index.html.haml",
 		"/home/rnhurt/src/rails/mfp/app/views/search/index.html.haml",
 		"/home/rnhurt/src/rails/mfp/app/views/reports/recent_contacts.js.haml",
@@ -109,9 +114,7 @@
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/tabs.css",
 		"/home/rnhurt/src/rails/mfp/app/views/reports/_form.html.haml",
 		"/home/rnhurt/src/rails/mfp/db/migrate/20110328011328_create_static_data.rb",
-		"/home/rnhurt/src/rails/mfp/app/models/address.rb",
 		"/home/rnhurt/src/rails/mfp/app/models/static_data.rb",
-		"/home/rnhurt/src/rails/mfp/db/migrate/20110326034513_create_addresses.rb",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/date.css",
 		"/home/rnhurt/src/rails/mfp/app/views/contacts/show.html.haml",
 		"/home/rnhurt/src/rails/mfp/lib/email_validator.rb",
@@ -143,7 +146,6 @@
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/skin_mockup.css",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/stacklayout.css",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/stacklayout_lte_ie7.css",
-		"/home/rnhurt/src/rails/mfp/app/views/layouts/application.html.erb",
 		"/home/rnhurt/src/rails/mfp/public/stylesheets/stacklayout_mobile.css",
 		"/home/rnhurt/Desktop/Dropbox/Public/PalmPre/style.css",
 		"/home/rnhurt/Desktop/Dropbox/Public/PalmPre/index.html",
@@ -174,6 +176,10 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"Contact",
+			"contacts",
+			"contact",
+			"'",
 			"button",
 			"select",
 			"#333",
@@ -254,6 +260,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Address",
+			"addresses",
+			"address",
 			"\"",
 			"Raphael"
 		],
@@ -273,37 +282,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/home/rnhurt/src/rails/mfp/Gemfile",
-					"settings":
-					{
-						"buffer_size": 733,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								72,
-								72
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -337,16 +317,72 @@
 		"selected_items":
 		[
 			[
+				"routes",
+				"OLD/config/routes.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"development",
+				"config/environments/development.rb"
+			],
+			[
+				"layou",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.haml"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"addresses",
+				"app/controllers/addresses_controller.rb"
+			],
+			[
+				"contacts_con",
+				"app/controllers/contacts_controller.rb"
+			],
+			[
+				"contact",
+				"app/models/contact.rb"
+			],
+			[
+				"index.",
+				"app/views/contacts/index.rabl"
+			],
+			[
+				"create_add",
+				"db/migrate/20110326034513_create_addresses.rb"
+			],
+			[
+				"address",
+				"db/migrate/20110326034513_create_addresses.rb"
+			],
+			[
+				"_form",
+				"OLD/app/views/contacts/_form.html.haml"
+			],
+			[
+				"edit",
+				"OLD/app/views/contacts/edit.html.haml"
+			],
+			[
+				"controller",
+				"app/controllers/contacts_controller.rb"
+			],
+			[
 				"gem",
 				"Gemfile"
 			],
 			[
 				"css",
 				"public/stylesheets/application.css"
-			],
-			[
-				"contact",
-				"app/controllers/contacts_controller.rb"
 			],
 			[
 				"contactindex",
@@ -409,10 +445,6 @@
 				"app/controllers/contacts_controller.rb"
 			],
 			[
-				"layou",
-				"app/views/layouts/application.html.haml"
-			],
-			[
 				"reportinde",
 				"app/views/reports/index.html.haml"
 			],
@@ -471,14 +503,6 @@
 			[
 				"recent",
 				"app/views/reports/recent_contacts.html.haml"
-			],
-			[
-				"routes",
-				"config/routes.rb"
-			],
-			[
-				"route",
-				"config/routes.rb"
 			],
 			[
 				"layouapp",
@@ -569,10 +593,6 @@
 				"app/models/region.rb"
 			],
 			[
-				"address",
-				"app/models/address.rb"
-			],
-			[
 				"date.",
 				"public/stylesheets/date.css"
 			],
@@ -611,10 +631,6 @@
 			[
 				"read",
 				"README.md"
-			],
-			[
-				"gemfile",
-				"Gemfile"
 			],
 			[
 				"readme",
@@ -691,10 +707,6 @@
 			[
 				"locations",
 				"db/migrate/20110326204723_create_locations.rb"
-			],
-			[
-				"addresses",
-				"db/migrate/20110326034513_create_addresses.rb"
 			],
 			[
 				"create",

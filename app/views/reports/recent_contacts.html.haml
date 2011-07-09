@@ -1,0 +1,20 @@
+%table.report.stackContent
+  %caption Most Recent Contacts
+  %thead
+    %tr
+      %th DATE<br />=============
+      %th NAME<br />=============
+      %th DOB<br />=============
+      %th RACE / GENDER<br />=============
+      %th ADDRESS<br />=============
+
+  - @contacts.each do |contact|
+    %tr
+      %td= contact.created_at.to_s(:long)
+      %td= contact.full_name
+      %td= contact.dob
+      %td= "#{contact.race.try(:code)} / #{contact.gender.try(:code)}"
+      %td= contact.addresses.first.try(:full_address)
+
+%buttons.stackContent
+  %button.positive= link_to "Back", reports_url

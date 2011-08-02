@@ -8,6 +8,9 @@ class Address < ActiveRecord::Base
     def active; where(:active => true); end
     def inactive; where(:active => false); end
     def recent(lmt = 15); limit(lmt).order("created_at DESC"); end
+    def search(terms)
+      where('street_number LIKE :search OR street_name LIKE :search', {:search => "%#{terms}%"})
+    end
   end
 
   def street_address

@@ -1,46 +1,46 @@
-!!!
-%html
+!!! 5
+%html{:lang => "en"}
   %head
-    %title
-      = "Dingo #{yield :title}"
+    %meta{:charset => "utf-8"}
+    %meta{"http-equiv" => "X-UA-Compatible", :content => "IE=edge,chrome=1"}
+    %meta{:name => "description", :content => ""}
+    %meta{:name => "author", :content => "KangarooBox"}
+    %meta{:name => "viewport", :content => "width=device-width,initial-scale=1"}
+    %title= "Dingo #{yield :title}"
 
     = stylesheet_link_tag "application"
-
     = csrf_meta_tags
 
-  %body#container
-    #page
-      .stack
-        #header.stack
-          %h1#title.stackContent
-            %a{href: root_url}
-              %img{src: "/assets/badge.jpg", :height => "30px"}
-              Indian Hills P.D.
+  %body
+    #wrapper
+      #sidebar
+        %a#large-logo{:href => root_url, :title => "#{yield :title}"}
+          %img{:src => "/assets/small-logo.png"}/
+        
+      #main
+        %h1
+          %a{:href => root_url} Indian Hills P.D.
 
-
-          %ul#nav.stackContent
-            %li{class: controller_name == "contacts" ? "active" : ""}
-              = link_to "Contacts", contacts_path
-            %li{class: controller_name == "search" ? "active" : ""}
-              = link_to "Search", search_index_path
-            %li{class: controller_name == "reports" ? "active" : ""}
-              = link_to "Reports", reports_path
-            %li{class: controller_name == "admin" ? "active" : ""}
-              = link_to "Admin", admin_index_path
+        %ul
+          %li{class: controller_name == "contacts" ? "active" : ""}
+            = link_to "Contacts", contacts_path
+          %li{class: controller_name == "search" ? "active" : ""}
+            = link_to "Search", search_index_path
+          %li{class: controller_name == "reports" ? "active" : ""}
+            = link_to "Reports", reports_path
+          %li{class: controller_name == "admin" ? "active" : ""}
+            = link_to "Admin", admin_index_path
 
         .stackContent#flash
-          =show_flash
+          = show_flash
 
         #content
-          =yield
+          = yield
 
-        #footer
-          .stackAuto
-            %p.stackContent 
-              Dingo
-              %a{href: "http://kangaroobox.com", target: "_blank"} &copy; 2011 KangarooBox, LLC
+    #footer
+      .stackAuto
+        %p.stackContent 
+          Dingo
+          %a{href: "http://kangaroobox.com", target: "_blank"} &copy; 2011 KangarooBox, LLC
 
-  =# javascript_include_tag "jquery.min","http://cdn.jquerytools.org/1.2.5/all/jquery.tools.min.js","jquery.tablesorter.min","rails"
-  = javascript_include_tag "https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js", 
-        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js", "rails"
   = javascript_include_tag "application"

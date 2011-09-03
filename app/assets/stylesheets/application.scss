@@ -1,0 +1,42 @@
+/*
+ * This is a manifest file that'll automatically include all the stylesheets available in this directory
+ * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
+ * the top of the compiled file, but it's generally better to create a new file per style scope.
+ *= require_self
+ *= require_tree . 
+*/
+
+/* resets */
+html {font-size:67.5%;font-family:Georgia, Times New Roman, serif;}
+html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot {margin:0;padding:0;}
+ul, ol, li {list-style-type:none;}
+
+/* colors */
+$navy: #2a3251;
+
+/* mixins */
+@mixin table-cell {display:table-cell;vertical-align:top;}
+
+/* global styles */
+body {display:table;}
+
+#wrapper {display:table-row;}
+
+#sidebar {
+  @include table-cell;
+  width:160px;
+  height:100%;
+  background-color:$navy;
+  -webkit-box-shadow:0 0 10px #333;
+  -moz-box-shadow:0 0 10px #333;
+  box-shadow:0 0 10px #333;
+  #large-logo {
+    display:block;
+    img {margin:0 auto;padding:20px 5px;}
+  }
+}
+
+#main {
+  @include table-cell;
+  #content {padding:20px;}
+}

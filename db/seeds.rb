@@ -112,13 +112,15 @@ end
 puts "done"
 
 
-################
-# TESTING DATA #
-################
+#######################################################
+# TESTING DATA                                        #
+# This should be removed before moving to production  #
+#######################################################
 print "Seeding Addresses..."
 Address.delete_all
 (1..100).each do |r|
-  Address.create(:street_number => Faker::Base.numerify("#####"), 
+  Address.create(:id => r,
+    :street_number => Faker::Base.numerify("#####"), 
     :street_name  => Faker::Address.street_name,
     :city         => Faker::Address.city, 
     :region       => Region.find_by_code(Faker::Address.state_abbr), 
@@ -130,20 +132,25 @@ puts "done"
 
 print "Seeding Contacts..."
 Contact.delete_all
-type_count = ContactType.count
+contact_type_count  = ContactType.count
+address_count       = Address.count
+
 (1..100).each do |r|
+  # Give every contact some address information
   addresses = []
-  (0..rand(5)).each{|i| addresses << Address.find(rand(100)+1)}
-  Contact.create(:contact_type => ContactType.find(rand(type_count)+1),
-    :contact_type       => ContactType.find_by_name(%w[F.I. Warning Citation Arrest Suspect Victim Witness].rand),
+  (0..rand(5)).each{ |i| addresses << Address.find(:first, :offset => (address_count * rand).to_i) }
+
+  # Build the contact...
+  Contact.create(
+    :contact_type       => ContactType.find(:first, :offset => (contact_type_count * rand).to_i),
     :incident_timestamp => Date.today - rand(2000000).minutes,
-    :first_name => Faker::Name.first_name,
-    :last_name  => Faker::Name.last_name,
-    :dob        => Date.today - (rand(20000)+3000).days,
-    :addresses  => addresses,
-    :race       => Race.find_by_code(%w[A B I O U W].rand),
-    :gender     => Gender.find_by_code(%w[M F U].rand),
-    :active     => true
+    :first_name         => Faker::Name.first_name,
+    :last_name          => Faker::Name.last_name,
+    :dob                => Date.today - (rand(20000)+3000).days,
+    :addresses          => addresses,
+    :race               => Race.find_by_code(%w[A B I O U W].rand),
+    :gender             => Gender.find_by_code(%w[M F U].rand),
+    :active             => true
   )
 end
 puts "done"

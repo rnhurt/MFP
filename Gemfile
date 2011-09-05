@@ -12,20 +12,24 @@ end
 
 gem "haml-rails"
 
-group :development, :test do
+group :development do
   gem "ruby-debug19"
-  gem "sqlite3-ruby", :require => "sqlite3"
-  gem "thin"
+  gem "rails-erd"
   gem "hirb"
   gem "wirble"
   gem "awesome_print"
-  gem "rspec-rails"
-  gem "faker"
 end
 
 group :test do
   # Pretty printed test output
   gem "turn", :require => false
+end
+
+group :development, :test do
+  gem "sqlite3-ruby", :require => "sqlite3"
+  gem "thin"
+  gem "rspec-rails"
+  gem "faker"
 end
 
 group :production do

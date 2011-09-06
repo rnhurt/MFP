@@ -1,9 +1,6 @@
 /*
- * This is a manifest file that'll automatically include all the stylesheets available in this directory
- * and any sub-directories. You're free to add application-wide styles to this file and they'll appear at
- * the top of the compiled file, but it's generally better to create a new file per style scope.
  *= require_self
- *= require_tree . 
+ *= require_tree .
 */
 
 /* resets */
@@ -20,23 +17,51 @@ $navy: #2a3251;
 /* global styles */
 body {display:table;}
 
-#wrapper {display:table-row;}
+#wrapper {display:table-row;position:absolute;}
 
 #sidebar {
   @include table-cell;
-  width:160px;
+  width:170px;
   height:100%;
   background-color:$navy;
-  -webkit-box-shadow:0 0 10px #333;
-  -moz-box-shadow:0 0 10px #333;
-  box-shadow:0 0 10px #333;
   #large-logo {
     display:block;
-    img {margin:0 auto;padding:20px 5px;}
+    img {margin:0 auto;padding:20px 10px;}
+  }
+  ul {
+    float:right;
+    li {
+      display:block;
+      position:relative;
+      z-index:900;
+      padding:10px;
+      background-color:#ddd;
+      -webkit-box-shadow:-7px 0 8px #333;
+      -moz-box-shadow:-7px 0 8px #333;
+      box-shadow:-7px 0 8px #333;
+      -webkit-border-radius:6px 0 0 6px;
+      -moz-border-radius:6px 0 0 6px;
+      border-radius:6px 0 0 6px;
+      a {display:block;width:32px;height:32px;text-indent:-10000px;}
+    }
+    li:hover {background-color:#eee;}
+    .contacts a {background:url('/assets/profile.png') no-repeat;}
+    .search a {background:url('/assets/search.png') no-repeat;}
+    .reports a {background:url('/assets/piechart.png') no-repeat;}
+    .admin a {background:url('/assets/modify.png') no-repeat;}
+    .active {z-index:910;background-color:#fff;}
+    .active:hover {background-color:#fff;}
   }
 }
 
 #main {
   @include table-cell;
+  position:relative;
+  z-index:900;
+  background-color:#fff;
+  width:100%;
+  -webkit-box-shadow:0 0 10px #000;
+  -moz-box-shadow:0 0 10px #000;
+  box-shadow:0 0 10px #000;
   #content {padding:20px;}
 }

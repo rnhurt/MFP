@@ -16,31 +16,26 @@
       #sidebar
         %a#large-logo{:href => root_url, :title => "#{yield :title}"}
           %img{:src => "/assets/small-logo.png"}/
+        %ul
+          %li{:class => "contacts#{controller_name == 'contacts' ? ' active' : ''}"}
+            = link_to "Contacts", contacts_path
+          %li{:class => "search#{controller_name == 'search' ? ' active' : ''}"}
+            = link_to "Search", search_index_path
+          %li{:class => "reports#{controller_name == 'reports' ? ' active' : ''}"}
+            = link_to "Reports", reports_path
+          %li{:class => "admin#{controller_name == 'admin' ? ' active' : ''}"}
+            = link_to "Admin", admin_index_path
         
       #main
         %h1
           %a{:href => root_url} Indian Hills P.D.
 
-        %ul
-          %li{class: controller_name == "contacts" ? "active" : ""}
-            = link_to "Contacts", contacts_path
-          %li{class: controller_name == "search" ? "active" : ""}
-            = link_to "Search", search_index_path
-          %li{class: controller_name == "reports" ? "active" : ""}
-            = link_to "Reports", reports_path
-          %li{class: controller_name == "admin" ? "active" : ""}
-            = link_to "Admin", admin_index_path
-
-        .stackContent#flash
-          = show_flash
-
         #content
           = yield
 
     #footer
-      .stackAuto
-        %p.stackContent 
-          Dingo
-          %a{href: "http://kangaroobox.com", target: "_blank"} &copy; 2011 KangarooBox, LLC
+      %p
+        Dingo
+        %a{:href => "http://kangaroobox.com", :target => "_blank"} &copy; 2011 KangarooBox, LLC
 
   = javascript_include_tag "application"

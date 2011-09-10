@@ -21,13 +21,4 @@ class Address < ActiveRecord::Base
     "#{street_address}, #{city} #{region.try(:code)} #{postal_code}"
   end
 
-  def street_name;  changecase(:street_name); end
-  def city;         changecase(:city); end
-
-  private
-
-  # Change the case of the attribute if the user wants to see ALL UPPER CASE
-  def changecase(attribute)
-    (StaticData::upcase && self[attribute]) ? self[attribute].upcase : self[attribute]
-  end
 end

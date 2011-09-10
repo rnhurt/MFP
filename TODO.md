@@ -6,9 +6,10 @@ Please add anything you can think of to the list.
 ## Now
 
 * Design & build the GUI for MFP (Ian)
-  * this probably
-  * has multiple
-  * things under it  :)
+  * finish basic skin for the app (Ian by 9/18/11)
+  * create date/time widget for form entry (Ian by 9/25/11)
+  * create unified search input (Ian by 9/25/11)
+  * enhance search for autocomplete (Ian by 10/2/11)
 * Add multiple sites so that more than one department can use MFP simultaneously.
 * Add user login capability (probably through Devise).
 * Add contact relationships (undirected graphs) (Richard by 9/11/11)

@@ -20,17 +20,16 @@ group :development do
   gem "awesome_print"
 end
 
-group :test do
-  # Pretty printed test output
-  gem "turn", :require => false
-end
 
 group :development, :test do
   gem "sqlite3-ruby", :require => "sqlite3"
-  gem "thin"
+  gem "factory_girl_rails"
   gem "rspec-rails"
   gem "faker"
+  gem "thin"
+  gem "turn", :require => false
 end
+
 
 group :production do
   ### these gems are temporarily needed for Heroku app deployment

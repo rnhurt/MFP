@@ -14,7 +14,7 @@ Please add anything you can think of to the list.
 * Add user login capability (probably through Devise).
 * Add contact relationships (undirected graphs) (Richard by 9/11/11)
 * Appliance
-  * make it boot to base Debian (Richard by 9/11/11)
+  * DONE ~~make it boot to base Debian (Richard by 9/11/11)~~
   * install and configure Puppet client/server (Richard by 9/18/11)
 
 

@@ -15,7 +15,7 @@
     #wrapper
       #sidebar
         %a#large-logo{:href => root_url, :title => "#{yield :title}"}
-          %img{:src => "/assets/small-logo.png"}/
+          %img{:src => "/assets/badge.png"}/
         %ul
           %li{:class => "contacts#{controller_name == 'contacts' ? ' active' : ''}"}
             = link_to "Contacts", contacts_path
@@ -27,8 +27,9 @@
             = link_to "Admin", admin_index_path
         
       #main
-        %h1
-          %a{:href => root_url} Indian Hills P.D.
+        #header
+          %h1
+            %a{:href => root_url} Indian Hills P.D.
 
         #content
           = yield

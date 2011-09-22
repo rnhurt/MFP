@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110328020049) do
+ActiveRecord::Schema.define(:version => 20110919235150) do
 
   create_table "addresses", :force => true do |t|
     t.string   "street_number"
@@ -29,6 +29,14 @@ ActiveRecord::Schema.define(:version => 20110328020049) do
     t.decimal  "latitude",             :precision => 9, :scale => 6
     t.decimal  "longitude",            :precision => 9, :scale => 6
     t.boolean  "active",                                             :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "aliases", :force => true do |t|
+    t.integer  "contact_id"
+    t.string   "name"
+    t.boolean  "active",     :default => true
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -80,6 +88,16 @@ ActiveRecord::Schema.define(:version => 20110328020049) do
     t.string  "phone_number"
     t.string  "email_address"
     t.boolean "active"
+  end
+
+  create_table "relationships", :force => true do |t|
+    t.integer  "relationship_type_id"
+    t.integer  "contact_id"
+    t.integer  "contact_id_target"
+    t.boolean  "is_accepted"
+    t.boolean  "active",               :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
   create_table "reports", :force => true do |t|

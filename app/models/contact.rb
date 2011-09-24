@@ -1,11 +1,11 @@
 class Contact < ActiveRecord::Base
 
-  belongs_to  :contact_type
   belongs_to  :race
   belongs_to  :gender
   has_many    :locations #, :as => :addressable
   has_many    :addresses, :through => :locations
   has_many    :aliases
+  belongs_to  :type,  :class_name => "ContactType", :foreign_key => "contact_type_id"
 
 
   # Let's do some tricky relationship management here.  These relationships allow us to bind Contacts together
@@ -18,7 +18,7 @@ class Contact < ActiveRecord::Base
   has_many :relationships_in, :class_name => "Relationship", :foreign_key => "contact_id_target"
   has_many :relationship_in, :through => :relationships_in, :source => "contact", :foreign_key => "contact_id_target"
   # Build some convenience classes
-  def relations; Relationship.related(self.id); end      
+  def relationships; Relationship.related(self.id); end      
 
 
   class << self

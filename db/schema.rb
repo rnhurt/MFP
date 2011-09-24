@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110919235150) do
+ActiveRecord::Schema.define(:version => 20110924183013) do
 
   create_table "addresses", :force => true do |t|
     t.string   "street_number"
@@ -47,13 +47,6 @@ ActiveRecord::Schema.define(:version => 20110919235150) do
     t.string   "code"
     t.string   "value"
     t.boolean  "active"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "contact_types", :force => true do |t|
-    t.string   "name"
-    t.boolean  "active",     :default => true
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -94,7 +87,6 @@ ActiveRecord::Schema.define(:version => 20110919235150) do
     t.integer  "relationship_type_id"
     t.integer  "contact_id"
     t.integer  "contact_id_target"
-    t.boolean  "is_accepted"
     t.boolean  "active",               :default => true
     t.datetime "created_at"
     t.datetime "updated_at"
@@ -108,6 +100,14 @@ ActiveRecord::Schema.define(:version => 20110919235150) do
   create_table "static_data", :force => true do |t|
     t.string   "name"
     t.string   "value"
+    t.boolean  "active",     :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "types", :force => true do |t|
+    t.string   "type"
+    t.string   "name"
     t.boolean  "active",     :default => true
     t.datetime "created_at"
     t.datetime "updated_at"

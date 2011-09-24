@@ -7,7 +7,14 @@ puts "done"
 print "Seeding contact types..."
 ContactType.delete_all
 %w(F.I. Warning Citation Arrest Suspect Victim Witness).each do |type|
-  ContactType.create(:name => type, :active => true)
+  ContactType.create(:name => type)
+end
+puts "done"
+
+print "Seeding relationship types..."
+RelationshipType.delete_all
+%w(Alias Family Neighbor Gang).each do |type|
+  RelationshipType.create(:name => type)
 end
 puts "done"
 

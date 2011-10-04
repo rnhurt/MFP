@@ -11,6 +11,7 @@ group :assets do
 end
 
 gem "haml-rails"
+gem "sorcery"
 
 group :development do
   gem "ruby-debug19"

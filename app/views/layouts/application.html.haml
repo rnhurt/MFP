@@ -28,8 +28,15 @@
         
       #main
         #header
+          #flash
+            #{flash[:notice]}
+            #{flash[:alert]}
+
           %h1
             %a{:href => root_url} Indian Hills P.D.
+
+          %h1
+            #{current_user.email if current_user}
 
         #content
           = yield

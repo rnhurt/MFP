@@ -4,6 +4,12 @@ StaticData.create(:name => "UPCASE",    :value => true,           :active => tru
 StaticData.create(:name => "SITE_NAME", :value => "Metro County", :active => true)
 puts "done"
 
+print "Seeding users..."
+User.delete_all
+User.create(:email => "admin@example.com", :password => "admin", :first_name => "Admin", :last_name => "User")
+puts "done"
+
+
 print "Seeding contact types..."
 ContactType.delete_all
 %w(F.I. Warning Citation Arrest Suspect Victim Witness).each do |type|

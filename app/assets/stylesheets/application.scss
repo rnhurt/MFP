@@ -46,7 +46,7 @@ body {display:table;}
       background-color:#ddd;
       @include box-shadow(-7px 0 8px #333);
       @include border-radius(6px 0 0 6px);
-      a {display:block;width:32px;height:32px;text-indent:-10000px;}
+      a {display:block;width:64px;height:64px;text-indent:-10000px;}
     }
     li:hover {background-color:#eee;}
     .contacts a {background:url('/assets/profile.png') no-repeat;}

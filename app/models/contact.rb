@@ -5,7 +5,7 @@ class Contact < ActiveRecord::Base
   has_many    :locations #, :as => :addressable
   has_many    :addresses, :through => :locations
   has_many    :aliases
-  belongs_to  :type,  :class_name => "ContactType", :foreign_key => "contact_type_id"
+  belongs_to  :contact_type
 
 
   # Let's do some tricky relationship management here.  These relationships allow us to bind Contacts together

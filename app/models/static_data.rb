@@ -7,11 +7,15 @@ class StaticData < ActiveRecord::Base
   class << self
     def active; where(:active => true); end
     def inactive; where(:active => false); end
-  end
 
-  # Should we display everything in uppercase?
-  def self.upcase
-    @@upcase ||= StaticData.active.find_by_name("UPCASE").value == "f" ? false : true
+    # Should we display everything in uppercase?
+    def upcase?
+      @@upcase ||= StaticData.active.find_by_name("UPCASE").value == "f" ? false : true
+    end
+    
+    # What is the name of this site?
+    def site_name
+      @@site_name ||= StaticData.active.find_by_name("SITE_NAME").value
+    end
   end
-  
 end

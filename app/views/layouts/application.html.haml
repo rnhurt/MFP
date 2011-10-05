@@ -29,14 +29,17 @@
       #main
         #header
           #flash
-            #{flash[:notice]}
-            #{flash[:alert]}
+            = show_flash
 
           %h1
-            %a{:href => root_url} Indian Hills P.D.
+            %a{:href => root_url} #{StaticData.site_name}
 
-          %h1
-            #{current_user.email if current_user}
+          #user_info
+            - if current_user
+              #{current_user.full_name}
+              %a{:href => logout_url} Logout
+            - else
+              %a{:href => login_url} Login
 
         #content
           = yield

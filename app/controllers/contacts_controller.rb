@@ -1,6 +1,4 @@
 class ContactsController < ApplicationController
-  before_filter :parse_dates, :only => [:create, :update]
-
   def index
     # @contacts = Contact.recent(25).includes(:addresses, :gender, :race, :locations).search(params[:search])
     @contacts = Contact.recent(5).search(params[:search])
@@ -45,11 +43,4 @@ class ContactsController < ApplicationController
     redirect_to contacts_url
   end
 
-  private
-
-  # Convert these dates from human readable to real dates/timestamps
-  def parse_dates
-    params[:contact][:dob] = Chronic.parse(params[:contact][:dob]).to_s if params[:contact][:dob]
-    params[:contact][:incident_timestamp] = Chronic.parse(params[:contact][:incident_timestamp]).to_s if params[:contact][:incident_timestamp]
-  end
 end

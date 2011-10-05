@@ -6,4 +6,10 @@ class User < ActiveRecord::Base
   validates_confirmation_of :password
   validates_presence_of :password, :on => :create
   validates :email, :first_name, :last_name, :presence => true, :uniqueness => true
+
+
+  # Show the users full name in a standardized format
+  def full_name
+    "#{first_name} #{last_name}"
+  end
 end

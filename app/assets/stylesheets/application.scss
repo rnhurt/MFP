@@ -4,13 +4,14 @@
 */
 
 /* resets */
-html {font-size:67.5%;font-family:Times New Roman, serif;}
+html {font-size:67.5%;font-family:Times New Roman, serif;height:100%;}
 html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot {margin:0;padding:0;}
 ul, ol, li {list-style-type:none;}
 
 /* colors */
 $navy: #2a3251;
 $powder-blue: #c4e1ff;
+$sky-blue: #0078ff;
 $light-powder-blue: #bfd4e8;
 $lighter-grey: #dddddd;
 $lightest-grey: #eeeeee;
@@ -23,10 +24,11 @@ $lightest-grey: #eeeeee;
 @mixin box-shadow($values) {-webkit-box-shadow:$values;-moz-box-shadow:$values;box-shadow:$values;}
 
 /* global styles */
-body {display:table;}
+body {display:table;height:100%;}
 
-#wrapper {display:table-row;position:absolute;}
+#wrapper {display:table-row;position:relative;min-height:100%;}
 
+/* sidebar styles */
 #sidebar {
   @include table-cell;
   width:170px;
@@ -49,15 +51,16 @@ body {display:table;}
       a {display:block;width:64px;height:64px;text-indent:-10000px;}
     }
     li:hover {background-color:#eee;}
-    .contacts a {background:url('/assets/profile.png') no-repeat;}
-    .search a {background:url('/assets/search.png') no-repeat;}
-    .reports a {background:url('/assets/piechart.png') no-repeat;}
-    .admin a {background:url('/assets/modify.png') no-repeat;}
+    .contacts a {background:url('/assets/handcuffs_64.png') no-repeat;}
+    .search a {background:url('/assets/search_64.png') no-repeat;}
+    .reports a {background:url('/assets/reports_64.png') no-repeat;}
+    .admin a {background:url('/assets/admin_64.png') no-repeat;}
     .active {z-index:910;background-color:#fff;}
     .active:hover {background-color:#fff;}
   }
 }
 
+/* main content area */
 #main {
   @include table-cell;
   position:relative;
@@ -66,21 +69,60 @@ body {display:table;}
   width:100%;
   @include box-shadow(0 0 10px #000);
   #header {overflow:auto;padding:0 0 20px 0;}
-  h1 {
+  h1, #user_info {
     @include sans-serif;
     display:block;
-    float:left;
-    padding:10px;
+    padding:10px 20px;
     background-color:$powder-blue;
-    text-transform:uppercase;
-    font-size:1.6em;
-    @include border-radius(0 0 6px 0);
     a {text-decoration:none;color:$navy;}
     a:hover {text-decoration:underline;}
+  }
+  h1 {
+    float:left;
+    font-size:1.6em;
+    text-transform:uppercase;
+    @include border-radius(0 0 6px 0);
+  }
+  #user_info {
+    float:right;
+    font-size:1.2em;
+    @include border-radius(0 0 0 6px);
+    a {font-weight:bold;text-transform:uppercase;margin-left:30px;}
   }
   #content {padding:20px;}
 }
 
+/* footer */
+#footer {
+  @include sans-serif;
+  background-color:$powder-blue;
+  display:table-row;
+  p.last {@include table-cell;width:100%;padding:10px 20px;text-align:right;}
+}
+
+/* dashboard */
+#dashboard {
+  ul {
+    text-align:center;
+    li {
+      display:inline-block;
+      width:276px;
+      height:276px;
+      @include border-radius(6px);
+      @include box-shadow(0 0 5px #000);
+      background-color:$lightest-grey;
+      margin:0 5px 0 0;
+    }
+    li:hover {@include box-shadow(0 0 5px $sky-blue);}
+    a {display:block;text-indent:-10000px;height:276px;width:276px;}
+    .contacts a {background:url('/assets/handcuffs.png') no-repeat;}
+    .search a {background:url('/assets/search.png') no-repeat;}
+    .reports a {background:url('/assets/reports.png') no-repeat;}
+    .admin a {background:url('/assets/admin.png') no-repeat;}
+  }
+}
+
+/* report table */
 table.report {
   width:100%;
   caption {

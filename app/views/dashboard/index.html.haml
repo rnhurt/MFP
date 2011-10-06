@@ -1,18 +1,4 @@
-=title "Dashboard"
+= title "Dashboard"
 
-%h1.stackContent Dashboard
-
-#column1.stack3of4
-  .stackContent
-    This is some stuff in the big column
-
-#sidebar.stack1of4
-  .stackContent
-    %h3 Column Heading
-    %p This is some stuff in the smaller column
-
-  .stackContent
-    %h3 Another Heading
-    %p Some more stuff in the smaller column
-
-.result
+#dashboard
+  = render :partial => "shared/dashboard_buttons"

@@ -15,6 +15,7 @@ $sky-blue: #0078ff;
 $light-powder-blue: #bfd4e8;
 $lighter-grey: #dddddd;
 $lightest-grey: #eeeeee;
+$pale-yellow: #feffbd;
 
 /* mixins */
 @mixin table-cell {display:table-cell;vertical-align:top;}
@@ -25,8 +26,19 @@ $lightest-grey: #eeeeee;
 
 /* global styles */
 body {display:table;height:100%;}
-
 #wrapper {display:table-row;position:relative;min-height:100%;}
+#flash {
+  @include sans-serif;
+  padding:10px 20px;
+  font-weight:bold;
+  line-height:1.8em;
+  background: $pale-yellow;
+  @include border-radius(0 0 6px 6px);
+  margin: 0 auto;
+  width:400px;
+  text-align:center;
+  display:none;
+}
 
 /* sidebar styles */
 #sidebar {

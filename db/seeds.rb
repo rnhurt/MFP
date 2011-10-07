@@ -1,7 +1,11 @@
+# Constants
+REGION_CODE = "KY"
+
 print "Seeding static data..."
 StaticData.delete_all
-StaticData.create(:name => "UPCASE",    :value => true,           :active => true)
-StaticData.create(:name => "SITE_NAME", :value => "Metro County", :active => true)
+StaticData.create(:name => "UPCASE",       :value => true)
+StaticData.create(:name => "SITE_NAME",    :value => "Metro County")
+StaticData.create(:name => "REGION_CODE",  :value => REGION_CODE)
 puts "done"
 
 print "Seeding users..."
@@ -10,6 +14,8 @@ User.create(:email => "admin@example.com", :password => "admin", :first_name => 
 puts "done"
 
 
+# Dingo specific codes
+############################
 print "Seeding contact types..."
 ContactType.delete_all
 %w(F.I. Warning Citation Arrest Suspect Victim Witness).each do |type|
@@ -24,22 +30,15 @@ RelationshipType.delete_all
 end
 puts "done"
 
+
+# Offical NCIC codes
+############################
 print "Seeding NCIC Region codes..."
 Region.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICRegionCodes.txt")) do |regions|
   regions.read.each_line do |region|
     value, code = region.chomp.split("|")
-    Region.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Race codes..."
-Race.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICRaceCodes.txt")) do |codes|
-  codes.read.each_line do |code_line|
-    code, value = code_line.chomp.split("|")
-    Race.create(:code => code, :value => value, :active => true)
+    Region.create!(:code => code, :value => value)
   end
 end
 puts "done"
@@ -49,67 +48,7 @@ Offense.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICOffenseCodes.txt")) do |ocodes|
   ocodes.read.each_line do |ocode|
     code, value = ocode.chomp.split("|")
-    Offense.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Vehicle Make codes..."
-VehicleMake.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICVehicleMakeCodes.txt")) do |vcodes|
-  vcodes.read.each_line do |vcode|
-    code, value = vcode.chomp.split("|")
-    VehicleMake.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Vehicle Model codes..."
-VehicleModel.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICVehicleModelCodes.txt")) do |codes|
-  codes.read.each_line do |code_line|
-    code, value = code_line.chomp.split("|")
-    VehicleModel.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Eye Color codes..."
-EyeColor.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICEyeColorCodes.txt")) do |codes|
-  codes.read.each_line do |code_line|
-    code, value = code_line.chomp.split("|")
-    EyeColor.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Hair Color codes..."
-HairColor.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICHairColorCodes.txt")) do |codes|
-  codes.read.each_line do |code_line|
-    code, value = code_line.chomp.split("|")
-    HairColor.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Vehicle Color codes..."
-VehicleColor.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICVehicleColorCodes.txt")) do |codes|
-  codes.read.each_line do |code_line|
-    code, value = code_line.chomp.split("|")
-    VehicleColor.create!(:code => code, :value => value, :active => true)
-  end
-end
-puts "done"
-
-print "Seeding NCIC Gender codes..."
-Gender.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICGenderCodes.txt")) do |codes|
-  codes.read.each_line do |code_line|
-    code, value = code_line.chomp.split("|")
-    Gender.create!(:code => code, :value => value, :active => true)
+    Offense.create!(:region_code => REGION_CODE, :code => code, :value => value)
   end
 end
 puts "done"
@@ -119,7 +58,77 @@ PropertyType.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICPropertyTypeCodes.txt")) do |codes|
   codes.read.each_line do |code_line|
     code, value = code_line.chomp.split("|")
-    PropertyType.create!(:code => code, :value => value, :active => true)
+    PropertyType.create!(:region_code => REGION_CODE, :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Race codes..."
+Race.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICRaceCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    Race.create(:region_code => "US", :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Gender codes..."
+Gender.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICGenderCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    Gender.create!(:region_code => "US", :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Vehicle Make codes..."
+VehicleMake.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICVehicleMakeCodes.txt")) do |vcodes|
+  vcodes.read.each_line do |vcode|
+    code, value = vcode.chomp.split("|")
+    VehicleMake.create!(:region_code => "US", :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Vehicle Model codes..."
+VehicleModel.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICVehicleModelCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, abbr, value = code_line.chomp.split("|")
+    VehicleModel.create!(:region_code => "US", :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Vehicle Color codes..."
+VehicleColor.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICVehicleColorCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    VehicleColor.create!(:region_code => "US", :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Eye Color codes..."
+EyeColor.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICEyeColorCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    EyeColor.create!(:region_code => "US", :code => code, :value => value)
+  end
+end
+puts "done"
+
+print "Seeding NCIC Hair Color codes..."
+HairColor.delete_all
+open(File.join(Rails.root, "db", "seeds", "NCICHairColorCodes.txt")) do |codes|
+  codes.read.each_line do |code_line|
+    code, value = code_line.chomp.split("|")
+    HairColor.create!(:region_code => "US", :code => code, :value => value)
   end
 end
 puts "done"

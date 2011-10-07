@@ -44,9 +44,10 @@ ActiveRecord::Schema.define(:version => 20111004000704) do
   create_table "codes", :force => true do |t|
     t.string   "type"
     t.integer  "parent_id"
+    t.string   "region_code"
     t.string   "code"
     t.string   "value"
-    t.boolean  "active"
+    t.boolean  "active",      :default => true
     t.datetime "created_at"
     t.datetime "updated_at"
   end

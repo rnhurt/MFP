@@ -1,9 +1,9 @@
-.stackContent
-  .positive
-    = link_to "Add Contact", new_contact_path
+#search_bar
   = form_tag contacts_path, :method => "get" do
-    =text_field_tag "search", params[:search]
-    =submit_tag "Search by Name", :name => nil
+    = text_field_tag "search", params[:search]
+    = submit_tag "Search by Name", :name => nil
+
+= link_to "Add Contact", new_contact_path
 
 .stackContent
   #accordion

@@ -18,6 +18,10 @@
           %img{:src => "/assets/badge.png"}/
         - unless params[:controller] == "dashboard"
           = render :partial => "shared/dashboard_buttons"
+        #footer
+          %p
+            Dingo&copy; 2011 
+            %a{:href => "http://kangaroobox.com", :target => "_blank"} KangarooBox, LLC
         
       #main
         #header
@@ -33,14 +37,8 @@
 
           #flash
             = show_flash
-
+          
         #content
           = yield
-
-    #footer
-      %p
-      %p.last
-        Dingo&copy; 2011 
-        %a{:href => "http://kangaroobox.com", :target => "_blank"} KangarooBox, LLC
 
   = javascript_include_tag "application"

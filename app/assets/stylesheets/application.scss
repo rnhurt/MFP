@@ -39,10 +39,17 @@ body {display:table;height:100%;}
   text-align:center;
   display:none;
 }
+#search_bar {
+  background:$navy;
+  padding:15px;
+  @include border-radius(6px);
+  #search {width:500px;height:25px;}
+}
 
 /* sidebar styles */
 #sidebar {
   @include table-cell;
+  position:relative;
   width:170px;
   height:100%;
   background-color:$navy;
@@ -69,6 +76,16 @@ body {display:table;height:100%;}
     .admin a {background:url('/assets/admin_64.png') no-repeat;}
     .active {z-index:910;background-color:#fff;}
     .active:hover {background-color:#fff;}
+  }
+  #footer {
+    @include sans-serif;
+    background-color:$powder-blue;
+    position:absolute;
+    bottom:0;
+    left:0;
+    padding:5px;
+    display:table-row;
+    p.last {@include table-cell;width:100%;padding:10px 20px;text-align:right;}
   }
 }
 
@@ -101,19 +118,12 @@ body {display:table;height:100%;}
     @include border-radius(0 0 0 6px);
     a {font-weight:bold;text-transform:uppercase;margin-left:30px;}
   }
-  #content {padding:20px;}
-}
-
-/* footer */
-#footer {
-  @include sans-serif;
-  background-color:$powder-blue;
-  display:table-row;
-  p.last {@include table-cell;width:100%;padding:10px 20px;text-align:right;}
+  #content {padding:0 20px 20px;}
 }
 
 /* dashboard */
 #dashboard {
+  margin-top:20px;
   ul {
     text-align:center;
     li {

@@ -14,20 +14,23 @@
   %body
     #wrapper
       #sidebar
+        %h1
+          %a{:href => root_url} #{StaticData.site_name}
+
         %a#large-logo{:href => root_url, :title => "#{yield :title}"}
           %img{:src => "/assets/badge.png"}/
         - unless params[:controller] == "dashboard"
           = render :partial => "shared/dashboard_buttons"
+
         #footer
           %p
             Dingo&copy; 2011 
             %a{:href => "http://kangaroobox.com", :target => "_blank"} KangarooBox, LLC
         
       #main
+        #header_mini
+          %a{:href => "#", :title => "Expand Header"} Expand
         #header
-          %h1
-            %a{:href => root_url} #{StaticData.site_name}
-
           #user_info
             - if current_user
               #{current_user.full_name}

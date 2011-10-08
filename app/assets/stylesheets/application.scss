@@ -38,6 +38,10 @@ body {display:table;height:100%;}
   width:400px;
   text-align:center;
   display:none;
+  position:fixed;
+  top:0;
+  left:145px;
+  @include box-shadow(0 0 5px #000);
 }
 #search_bar {
   background:$navy;
@@ -53,6 +57,14 @@ body {display:table;height:100%;}
   width:170px;
   height:100%;
   background-color:$navy;
+  h1 {
+    @include sans-serif;
+    display:block;
+    padding:10px 20px;
+    background-color:$powder-blue;
+    a {text-decoration:none;color:$navy;}
+    a:hover {text-decoration:underline;}
+  }
   #large-logo {
     display:block;
     img {margin:0 auto;padding:20px;width:70px;}
@@ -97,20 +109,33 @@ body {display:table;height:100%;}
   background-color:#fff;
   width:100%;
   @include box-shadow(0 0 10px #000);
-  #header {overflow:auto;padding:0 0 20px 0;}
-  h1, #user_info {
+  #header_mini {
+    display:none;
+    position:fixed;
+    top:0;
+    right:0;
+    @include sans-serif;
+    background-color:$powder-blue;
+    padding:5px 10px;
+    @include border-radius(0 0 0 6px);
+    @include box-shadow(0 0 5px #000);
+    a {text-decoration:none;color:$navy;}
+    a:hover {text-decoration:underline;}
+  }
+  #header {
+    overflow:auto;
+    position:fixed;
+    top:0;right:0;
+    padding:0 0 20px 20px;
+  }
+  #user_info {
     @include sans-serif;
     display:block;
     padding:10px 20px;
     background-color:$powder-blue;
     a {text-decoration:none;color:$navy;}
     a:hover {text-decoration:underline;}
-  }
-  h1 {
-    float:left;
-    font-size:1.6em;
-    text-transform:uppercase;
-    @include border-radius(0 0 6px 0);
+    @include box-shadow(0 0 5px #000);
   }
   #user_info {
     float:right;
@@ -126,6 +151,7 @@ body {display:table;height:100%;}
   margin-top:20px;
   ul {
     text-align:center;
+    max-width:600px;
     li {
       display:inline-block;
       width:276px;
@@ -133,7 +159,7 @@ body {display:table;height:100%;}
       @include border-radius(6px);
       @include box-shadow(0 0 5px #000);
       background-color:$lightest-grey;
-      margin:0 5px 0 0;
+      margin:10px;
     }
     li:hover {@include box-shadow(0 0 5px $sky-blue);}
     a {display:block;text-indent:-10000px;height:276px;width:276px;}

@@ -25,7 +25,6 @@ end
 group :development, :test do
   gem "sqlite3-ruby", :require => "sqlite3"
   gem "factory_girl_rails"
-  gem "rspec-rails"
   gem "faker"
   gem "thin"
   gem "turn", :require => false
@@ -35,7 +34,7 @@ end
 group :production do
   ### these gems are temporarily needed for Heroku app deployment
   gem 'therubyracer-heroku', '0.8.1.pre3'
-  gem "faker"
+#  gem "faker"
   gem "thin"
   gem "pg"
   ### these gems are temporarily needed for Heroku app deployment

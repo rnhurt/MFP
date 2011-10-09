@@ -11,14 +11,11 @@
     = stylesheet_link_tag "application"
     = csrf_meta_tags
 
-  %body
-    #wrapper
-      #main
-        #header
-          #flash
-            = show_flash
+  %body#login
+    #flash
+      = show_flash
 
-        #content
-          = yield
+    #login_window
+      = yield
 
   = javascript_include_tag "application"

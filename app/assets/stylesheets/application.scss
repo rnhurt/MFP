@@ -4,8 +4,8 @@
 */
 
 /* resets */
-html {font-size:67.5%;font-family:Times New Roman, serif;height:100%;}
-html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot {margin:0;padding:0;}
+html {font-size:67.5%;font-family:Helvetica, Arial, sans-serif;height:100%;}
+html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot, fieldset {border:0 none;margin:0;padding:0;}
 ul, ol, li {list-style-type:none;}
 
 /* colors */
@@ -19,7 +19,7 @@ $pale-yellow: #feffbd;
 
 /* mixins */
 @mixin table-cell {display:table-cell;vertical-align:top;}
-@mixin sans-serif {font-family:Helvetica, Arial, sans-serif;}
+@mixin serif {font-family:Times New Roman, Georgia, serif;}
 @mixin border($top, $right, $bottom, $left) {border-top:$top;border-right:$right;border-bottom:$bottom;border-left:$left;}
 @mixin border-radius($values) {-webkit-border-radius:$values;-moz-border-radius:$values;border-radius:$values;}
 @mixin box-shadow($values) {-webkit-box-shadow:$values;-moz-box-shadow:$values;box-shadow:$values;}
@@ -28,7 +28,6 @@ $pale-yellow: #feffbd;
 body {display:table;height:100%;}
 #wrapper {display:table-row;position:relative;min-height:100%;}
 #flash {
-  @include sans-serif;
   padding:10px 20px;
   font-weight:bold;
   line-height:1.8em;
@@ -46,8 +45,10 @@ body {display:table;height:100%;}
 #search_bar {
   background:$navy;
   padding:15px;
+  margin-top:20px;
   @include border-radius(6px);
-  #search {width:500px;height:25px;}
+  #search {min-width:480px;height:19px;padding:3px 5px;}
+  .submit_button {padding:3px 10px;height:29px;}
 }
 
 /* login styles */
@@ -57,7 +58,6 @@ body {display:table;height:100%;}
   width:400px;
   margin:15% auto;
   background:#fff;
-  @include sans-serif;
   @include box-shadow(0 0 5px #000);
   @include border-radius(6px);
   h2 {
@@ -68,12 +68,13 @@ body {display:table;height:100%;}
   form {
     padding:20px;
     font-size:1.3em;
-    .field {
+    fieldset {
       position:relative;
       padding:5px;
       label {position:absolute;top:10px;}
       input {position:relative;left:80px;padding:3px 5px;width:200px;}
     }
+    .actions input {width:auto;}
   }
 }
 
@@ -85,7 +86,6 @@ body {display:table;height:100%;}
   height:100%;
   background-color:$navy;
   h1 {
-    @include sans-serif;
     display:block;
     padding:10px 20px;
     background-color:$powder-blue;
@@ -119,7 +119,6 @@ body {display:table;height:100%;}
     .active:hover {background-color:#fff;}
   }
   #footer {
-    @include sans-serif;
     background-color:$powder-blue;
     position:absolute;
     bottom:0;
@@ -144,7 +143,6 @@ body {display:table;height:100%;}
     position:fixed;
     top:0;
     right:0;
-    @include sans-serif;
     background-color:$powder-blue;
     padding:5px 10px;
     @include border-radius(0 0 0 6px);
@@ -159,7 +157,6 @@ body {display:table;height:100%;}
     padding:0 0 20px 20px;
   }
   #user_info {
-    @include sans-serif;
     display:block;
     padding:10px 20px;
     background-color:$powder-blue;
@@ -200,11 +197,30 @@ body {display:table;height:100%;}
   }
 }
 
+/* contacts */
+#contact_index {
+  #index_heading {
+    margin-top:20px;
+    background-color:$powder-blue;
+    padding:15px;
+    @include border-radius(6px);
+    h2 {display:inline-block;margin-right:40px;}
+  }
+  #contacts {
+    margin:15px 15px;
+    .contact {
+      display:inline-block;
+      min-width:290px;
+      padding:7px;
+      h3 {text-transform:uppercase;font-size:1.3em;}
+    }
+  }
+}
+
 /* report table */
 table.report {
   width:100%;
   caption {
-    @include sans-serif;
     @include border-radius(6px 6px 0 0);
     background-color:$light-powder-blue;
     padding:10px;
@@ -212,7 +228,7 @@ table.report {
     text-transform:uppercase;
   }
   thead {
-    th {@include sans-serif;padding:10px;border:1px solid $light-powder-blue;}
+    th {padding:10px;border:1px solid $light-powder-blue;}
   }
   tbody {
     td {padding:10px;text-transform:uppercase;font-size:1.3em;}

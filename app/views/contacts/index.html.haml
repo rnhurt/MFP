@@ -1,18 +1,22 @@
-#search_bar
-  = form_tag contacts_path, :method => "get" do
-    = text_field_tag "search", params[:search]
-    = submit_tag "Search by Name", :name => nil
+#contact_index
+  #search_bar
+    = form_tag contacts_path, :method => "get" do
+      = text_field_tag "search", params[:search], :autofocus => "autofocus"
+      = button_tag "Search by Name", :name => nil, :class => "submit_button"
 
-= link_to "Add Contact", new_contact_path
+  #index_heading
+    %h2 Recent Contacts
+    = link_to "Add Contact", new_contact_path
 
-.stackContent
-  #accordion
+  #contacts
     - @contacts.each do |contact|
-      %h3{class:"gender-#{contact.gender.try(:code)}"} <a href="#">#{contact.full_name}</a>
-      .details
-        %p 
-          Some details about 
-          = link_to contact.full_name, edit_contact_path(contact)
+      .contact
+        %h3{class:"gender-#{contact.gender.try(:code)}"}
+          %a{:href => "#"} #{contact.full_name}
+        .details
+          %p 
+            Some details about 
+            = link_to contact.full_name, edit_contact_path(contact)
 
 -#%table.stackContent.tablesorter
 -#  %thead

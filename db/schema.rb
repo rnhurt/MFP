@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111004000704) do
+ActiveRecord::Schema.define(:version => 20111013013231) do
 
   create_table "addresses", :force => true do |t|
     t.string   "street_number"
@@ -21,11 +21,11 @@ ActiveRecord::Schema.define(:version => 20111004000704) do
     t.integer  "street_direction_id"
     t.integer  "address_type_id"
     t.string   "block"
-    t.string   "city"
-    t.string   "postal_code"
-    t.integer  "region_id"
-    t.integer  "country_id"
     t.string   "crossstreet"
+    t.integer  "municipality_id"
+    t.integer  "district_id"
+    t.string   "postal_code"
+    t.integer  "country_id"
     t.decimal  "latitude",             :precision => 9, :scale => 6
     t.decimal  "longitude",            :precision => 9, :scale => 6
     t.boolean  "active",                                             :default => true
@@ -35,6 +35,16 @@ ActiveRecord::Schema.define(:version => 20111004000704) do
 
   create_table "aliases", :force => true do |t|
     t.integer  "contact_id"
+    t.string   "name"
+    t.boolean  "active",     :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "cities", :force => true do |t|
+    t.string   "code"
+    t.string   "local_code"
+    t.integer  "county_id"
     t.string   "name"
     t.boolean  "active",     :default => true
     t.datetime "created_at"
@@ -75,6 +85,32 @@ ActiveRecord::Schema.define(:version => 20111004000704) do
     t.datetime "updated_at"
   end
 
+  create_table "counties", :force => true do |t|
+    t.string   "code"
+    t.string   "local_code"
+    t.integer  "state_id"
+    t.string   "name"
+    t.boolean  "active",     :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "countries", :force => true do |t|
+    t.string   "code"
+    t.string   "local_code"
+    t.string   "abbreviation"
+    t.string   "name"
+    t.boolean  "active",       :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "districts", :force => true do |t|
+    t.string   "type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "locations", :force => true do |t|
     t.integer "contact_id"
     t.integer "address_id"
@@ -98,9 +134,30 @@ ActiveRecord::Schema.define(:version => 20111004000704) do
     t.datetime "updated_at"
   end
 
+  create_table "states", :force => true do |t|
+    t.string   "code"
+    t.string   "local_code"
+    t.integer  "country_id"
+    t.string   "name"
+    t.string   "abbreviation"
+    t.boolean  "active",       :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "static_data", :force => true do |t|
     t.string   "name"
     t.string   "value"
+    t.boolean  "active",     :default => true
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "street_names", :force => true do |t|
+    t.string   "code"
+    t.string   "local_code"
+    t.integer  "city_id"
+    t.string   "name"
     t.boolean  "active",     :default => true
     t.datetime "created_at"
     t.datetime "updated_at"

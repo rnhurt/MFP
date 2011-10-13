@@ -31,18 +31,44 @@ end
 puts "done"
 
 
-# Offical NCIC codes
+
+# Offical Locale codes
 ############################
-print "Seeding NCIC Region codes..."
-Region.delete_all
-open(File.join(Rails.root, "db", "seeds", "NCICRegionCodes.txt")) do |regions|
-  regions.read.each_line do |region|
-    value, code = region.chomp.split("|")
-    Region.create!(:code => code, :value => value)
+print "Seeding US State codes..."
+State.delete_all
+open(File.join(Rails.root, "db", "seeds", "ANSIStateCodes.txt")) do |states|
+  states.read.each_line do |state|
+    code, abbr, name = state.chomp.split("|")
+    State.create!(:code => code, :abbreviation => abbr, :name => name)
   end
 end
 puts "done"
 
+print "Seeding County Name codes..."
+County.delete_all
+open(File.join(Rails.root, "db", "seeds", "ANSICountyCodes.txt")) do |counties|
+  counties.read.each_line do |county|
+    state_code, code, name = county.chomp.split("|")
+    state_id = State.find_by_name(state_code).id
+    County.create!(:code => code, :name => name, :state_id => state_id)
+  end
+end
+puts "done"
+
+# print "Seeding KY Street Names..."
+# state = StateName.find_by_abbreviation("KY").code
+# StreetName.delete_all
+# open(File.join(Rails.root, "db", "seeds", "StreetNamesKY.txt")) do |streets|
+#   streets.read.each_line do |street|
+#     name, code = street.chomp.split("|")
+#     StreetName.create!(:state_code => state, :county_code => code[0,2], :code => code, :name => name)
+#   end
+# end
+# puts "done"
+
+
+# Offical NCIC codes
+############################
 print "Seeding NCIC Offense codes..."
 Offense.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICOffenseCodes.txt")) do |ocodes|

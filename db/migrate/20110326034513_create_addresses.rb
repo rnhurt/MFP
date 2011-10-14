@@ -10,10 +10,11 @@ class CreateAddresses < ActiveRecord::Migration
       t.string  :block
       t.string  :crossstreet
       
-      t.integer :municipality_id  # Village / Town / City
-      t.integer :district_id      # Province / State / County
-      t.string  :postal_code
       t.integer :country_id
+      t.integer :state_id
+      t.integer :county_id
+      t.integer :city_id
+      t.string  :postal_code
 
       t.decimal :latitude,  :precision => 9, :scale => 6
       t.decimal :longitude, :precision => 9, :scale => 6

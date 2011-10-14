@@ -1,0 +1,8 @@
+124|CA|Canada
+316|GU|Guam
+484|MX|Mexico
+488|MI|Midway Islands
+580|MP|Northern Mariana Islands
+630|PR|Puerto Rico
+840|US|United States
+850|VI|Virgin Islands, U.S.

@@ -1,4 +1,5 @@
 class Code < ActiveRecord::Base
+  belongs_to  :state
 
   class << self
     def active; where(:active => true); end

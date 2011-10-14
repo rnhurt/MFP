@@ -1,70 +1,70 @@
-01|001|Autauga County
-01|003|Baldwin County
-01|005|Barbour County
-01|007|Bibb County
-01|009|Blount County
-01|011|Bullock County
-01|013|Butler County
-01|015|Calhoun County
-01|017|Chambers County
-01|019|Cherokee County
-01|021|Chilton County
-01|023|Choctaw County
-01|025|Clarke County
-01|027|Clay County
-01|029|Cleburne County
-01|031|Coffee County
-01|033|Colbert County
-01|035|Conecuh County
-01|037|Coosa County
-01|039|Covington County
-01|041|Crenshaw County
-01|043|Cullman County
-01|045|Dale County
-01|047|Dallas County
-01|049|DeKalb County
-01|051|Elmore County
-01|053|Escambia County
-01|055|Etowah County
-01|057|Fayette County
-01|059|Franklin County
-01|061|Geneva County
-01|063|Greene County
-01|065|Hale County
-01|067|Henry County
-01|069|Houston County
-01|071|Jackson County
-01|073|Jefferson County
-01|075|Lamar County
-01|077|Lauderdale County
-01|079|Lawrence County
-01|081|Lee County
-01|083|Limestone County
-01|085|Lowndes County
-01|087|Macon County
-01|089|Madison County
-01|091|Marengo County
-01|093|Marion County
-01|095|Marshall County
-01|097|Mobile County
-01|099|Monroe County
-01|101|Montgomery County
-01|103|Morgan County
-01|105|Perry County
-01|107|Pickens County
-01|109|Pike County
-01|111|Randolph County
-01|113|Russell County
-01|115|St. Clair County
-01|117|Shelby County
-01|119|Sumter County
-01|121|Talladega County
-01|123|Tallapoosa County
-01|125|Tuscaloosa County
-01|127|Walker County
-01|129|Washington County
-01|131|Wilcox County
-01|133|Winston County
+01|001|Autauga
+01|003|Baldwin
+01|005|Barbour
+01|007|Bibb
+01|009|Blount
+01|011|Bullock
+01|013|Butler
+01|015|Calhoun
+01|017|Chambers
+01|019|Cherokee
+01|021|Chilton
+01|023|Choctaw
+01|025|Clarke
+01|027|Clay
+01|029|Cleburne
+01|031|Coffee
+01|033|Colbert
+01|035|Conecuh
+01|037|Coosa
+01|039|Covington
+01|041|Crenshaw
+01|043|Cullman
+01|045|Dale
+01|047|Dallas
+01|049|DeKalb
+01|051|Elmore
+01|053|Escambia
+01|055|Etowah
+01|057|Fayette
+01|059|Franklin
+01|061|Geneva
+01|063|Greene
+01|065|Hale
+01|067|Henry
+01|069|Houston
+01|071|Jackson
+01|073|Jefferson
+01|075|Lamar
+01|077|Lauderdale
+01|079|Lawrence
+01|081|Lee
+01|083|Limestone
+01|085|Lowndes
+01|087|Macon
+01|089|Madison
+01|091|Marengo
+01|093|Marion
+01|095|Marshall
+01|097|Mobile
+01|099|Monroe
+01|101|Montgomery
+01|103|Morgan
+01|105|Perry
+01|107|Pickens
+01|109|Pike
+01|111|Randolph
+01|113|Russell
+01|115|St. Clair
+01|117|Shelby
+01|119|Sumter
+01|121|Talladega
+01|123|Tallapoosa
+01|125|Tuscaloosa
+01|127|Walker
+01|129|Washington
+01|131|Wilcox
+01|133|Winston
 02|013|Aleutians East Borough
 02|016|Aleutians West Census Area
 02|020|Anchorage Municipality
@@ -94,1023 +94,1023 @@
 02|275|Wrangell City and Borough
 02|282|Yakutat City and Borough
 02|290|Yukon-Koyukuk Census Area
-04|001|Apache County
-04|003|Cochise County
-04|005|Coconino County
-04|007|Gila County
-04|009|Graham County
-04|011|Greenlee County
-04|012|La Paz County
-04|013|Maricopa County
-04|015|Mohave County
-04|017|Navajo County
-04|019|Pima County
-04|021|Pinal County
-04|023|Santa Cruz County
-04|025|Yavapai County
-04|027|Yuma County
-05|001|Arkansas County
-05|003|Ashley County
-05|005|Baxter County
-05|007|Benton County
-05|009|Boone County
-05|011|Bradley County
-05|013|Calhoun County
-05|015|Carroll County
-05|017|Chicot County
-05|019|Clark County
-05|021|Clay County
-05|023|Cleburne County
-05|025|Cleveland County
-05|027|Columbia County
-05|029|Conway County
-05|031|Craighead County
-05|033|Crawford County
-05|035|Crittenden County
-05|037|Cross County
-05|039|Dallas County
-05|041|Desha County
-05|043|Drew County
-05|045|Faulkner County
-05|047|Franklin County
-05|049|Fulton County
-05|051|Garland County
-05|053|Grant County
-05|055|Greene County
-05|057|Hempstead County
-05|059|Hot Spring County
-05|061|Howard County
-05|063|Independence County
-05|065|Izard County
-05|067|Jackson County
-05|069|Jefferson County
-05|071|Johnson County
-05|073|Lafayette County
-05|075|Lawrence County
-05|077|Lee County
-05|079|Lincoln County
-05|081|Little River County
-05|083|Logan County
-05|085|Lonoke County
-05|087|Madison County
-05|089|Marion County
-05|091|Miller County
-05|093|Mississippi County
-05|095|Monroe County
-05|097|Montgomery County
-05|099|Nevada County
-05|101|Newton County
-05|103|Ouachita County
-05|105|Perry County
-05|107|Phillips County
-05|109|Pike County
-05|111|Poinsett County
-05|113|Polk County
-05|115|Pope County
-05|117|Prairie County
-05|119|Pulaski County
-05|121|Randolph County
-05|123|St. Francis County
-05|125|Saline County
-05|127|Scott County
-05|129|Searcy County
-05|131|Sebastian County
-05|133|Sevier County
-05|135|Sharp County
-05|137|Stone County
-05|139|Union County
-05|141|Van Buren County
-05|143|Washington County
-05|145|White County
-05|147|Woodruff County
-05|149|Yell County
-06|001|Alameda County
-06|003|Alpine County
-06|005|Amador County
-06|007|Butte County
-06|009|Calaveras County
-06|011|Colusa County
-06|013|Contra Costa County
-06|015|Del Norte County
-06|017|El Dorado County
-06|019|Fresno County
-06|021|Glenn County
-06|023|Humboldt County
-06|025|Imperial County
-06|027|Inyo County
-06|029|Kern County
-06|031|Kings County
-06|033|Lake County
-06|035|Lassen County
-06|037|Los Angeles County
-06|039|Madera County
-06|041|Marin County
-06|043|Mariposa County
-06|045|Mendocino County
-06|047|Merced County
-06|049|Modoc County
-06|051|Mono County
-06|053|Monterey County
-06|055|Napa County
-06|057|Nevada County
-06|059|Orange County
-06|061|Placer County
-06|063|Plumas County
-06|065|Riverside County
-06|067|Sacramento County
-06|069|San Benito County
-06|071|San Bernardino County
-06|073|San Diego County
-06|075|San Francisco County
-06|077|San Joaquin County
-06|079|San Luis Obispo County
-06|081|San Mateo County
-06|083|Santa Barbara County
-06|085|Santa Clara County
-06|087|Santa Cruz County
-06|089|Shasta County
-06|091|Sierra County
-06|093|Siskiyou County
-06|095|Solano County
-06|097|Sonoma County
-06|099|Stanislaus County
-06|101|Sutter County
-06|103|Tehama County
-06|105|Trinity County
-06|107|Tulare County
-06|109|Tuolumne County
-06|111|Ventura County
-06|113|Yolo County
-06|115|Yuba County
-08|001|Adams County
-08|003|Alamosa County
-08|005|Arapahoe County
-08|007|Archuleta County
-08|009|Baca County
-08|011|Bent County
-08|013|Boulder County
-08|014|Broomfield County
-08|015|Chaffee County
-08|017|Cheyenne County
-08|019|Clear Creek County
-08|021|Conejos County
-08|023|Costilla County
-08|025|Crowley County
-08|027|Custer County
-08|029|Delta County
-08|031|Denver County
-08|033|Dolores County
-08|035|Douglas County
-08|037|Eagle County
-08|039|Elbert County
-08|041|El Paso County
-08|043|Fremont County
-08|045|Garfield County
-08|047|Gilpin County
-08|049|Grand County
-08|051|Gunnison County
-08|053|Hinsdale County
-08|055|Huerfano County
-08|057|Jackson County
-08|059|Jefferson County
-08|061|Kiowa County
-08|063|Kit Carson County
-08|065|Lake County
-08|067|La Plata County
-08|069|Larimer County
-08|071|Las Animas County
-08|073|Lincoln County
-08|075|Logan County
-08|077|Mesa County
-08|079|Mineral County
-08|081|Moffat County
-08|083|Montezuma County
-08|085|Montrose County
-08|087|Morgan County
-08|089|Otero County
-08|091|Ouray County
-08|093|Park County
-08|095|Phillips County
-08|097|Pitkin County
-08|099|Prowers County
-08|101|Pueblo County
-08|103|Rio Blanco County
-08|105|Rio Grande County
-08|107|Routt County
-08|109|Saguache County
-08|111|San Juan County
-08|113|San Miguel County
-08|115|Sedgwick County
-08|117|Summit County
-08|119|Teller County
-08|121|Washington County
-08|123|Weld County
-08|125|Yuma County
-09|001|Fairfield County
-09|003|Hartford County
-09|005|Litchfield County
-09|007|Middlesex County
-09|009|New Haven County
-09|011|New London County
-09|013|Tolland County
-09|015|Windham County
-10|001|Kent County
-10|003|New Castle County
-10|005|Sussex County
+04|001|Apache
+04|003|Cochise
+04|005|Coconino
+04|007|Gila
+04|009|Graham
+04|011|Greenlee
+04|012|La Paz
+04|013|Maricopa
+04|015|Mohave
+04|017|Navajo
+04|019|Pima
+04|021|Pinal
+04|023|Santa Cruz
+04|025|Yavapai
+04|027|Yuma
+05|001|Arkansas
+05|003|Ashley
+05|005|Baxter
+05|007|Benton
+05|009|Boone
+05|011|Bradley
+05|013|Calhoun
+05|015|Carroll
+05|017|Chicot
+05|019|Clark
+05|021|Clay
+05|023|Cleburne
+05|025|Cleveland
+05|027|Columbia
+05|029|Conway
+05|031|Craighead
+05|033|Crawford
+05|035|Crittenden
+05|037|Cross
+05|039|Dallas
+05|041|Desha
+05|043|Drew
+05|045|Faulkner
+05|047|Franklin
+05|049|Fulton
+05|051|Garland
+05|053|Grant
+05|055|Greene
+05|057|Hempstead
+05|059|Hot Spring
+05|061|Howard
+05|063|Independence
+05|065|Izard
+05|067|Jackson
+05|069|Jefferson
+05|071|Johnson
+05|073|Lafayette
+05|075|Lawrence
+05|077|Lee
+05|079|Lincoln
+05|081|Little River
+05|083|Logan
+05|085|Lonoke
+05|087|Madison
+05|089|Marion
+05|091|Miller
+05|093|Mississippi
+05|095|Monroe
+05|097|Montgomery
+05|099|Nevada
+05|101|Newton
+05|103|Ouachita
+05|105|Perry
+05|107|Phillips
+05|109|Pike
+05|111|Poinsett
+05|113|Polk
+05|115|Pope
+05|117|Prairie
+05|119|Pulaski
+05|121|Randolph
+05|123|St. Francis
+05|125|Saline
+05|127|Scott
+05|129|Searcy
+05|131|Sebastian
+05|133|Sevier
+05|135|Sharp
+05|137|Stone
+05|139|Union
+05|141|Van Buren
+05|143|Washington
+05|145|White
+05|147|Woodruff
+05|149|Yell
+06|001|Alameda
+06|003|Alpine
+06|005|Amador
+06|007|Butte
+06|009|Calaveras
+06|011|Colusa
+06|013|Contra Costa
+06|015|Del Norte
+06|017|El Dorado
+06|019|Fresno
+06|021|Glenn
+06|023|Humboldt
+06|025|Imperial
+06|027|Inyo
+06|029|Kern
+06|031|Kings
+06|033|Lake
+06|035|Lassen
+06|037|Los Angeles
+06|039|Madera
+06|041|Marin
+06|043|Mariposa
+06|045|Mendocino
+06|047|Merced
+06|049|Modoc
+06|051|Mono
+06|053|Monterey
+06|055|Napa
+06|057|Nevada
+06|059|Orange
+06|061|Placer
+06|063|Plumas
+06|065|Riverside
+06|067|Sacramento
+06|069|San Benito
+06|071|San Bernardino
+06|073|San Diego
+06|075|San Francisco
+06|077|San Joaquin
+06|079|San Luis Obispo
+06|081|San Mateo
+06|083|Santa Barbara
+06|085|Santa Clara
+06|087|Santa Cruz
+06|089|Shasta
+06|091|Sierra
+06|093|Siskiyou
+06|095|Solano
+06|097|Sonoma
+06|099|Stanislaus
+06|101|Sutter
+06|103|Tehama
+06|105|Trinity
+06|107|Tulare
+06|109|Tuolumne
+06|111|Ventura
+06|113|Yolo
+06|115|Yuba
+08|001|Adams
+08|003|Alamosa
+08|005|Arapahoe
+08|007|Archuleta
+08|009|Baca
+08|011|Bent
+08|013|Boulder
+08|014|Broomfield
+08|015|Chaffee
+08|017|Cheyenne
+08|019|Clear Creek
+08|021|Conejos
+08|023|Costilla
+08|025|Crowley
+08|027|Custer
+08|029|Delta
+08|031|Denver
+08|033|Dolores
+08|035|Douglas
+08|037|Eagle
+08|039|Elbert
+08|041|El Paso
+08|043|Fremont
+08|045|Garfield
+08|047|Gilpin
+08|049|Grand
+08|051|Gunnison
+08|053|Hinsdale
+08|055|Huerfano
+08|057|Jackson
+08|059|Jefferson
+08|061|Kiowa
+08|063|Kit Carson
+08|065|Lake
+08|067|La Plata
+08|069|Larimer
+08|071|Las Animas
+08|073|Lincoln
+08|075|Logan
+08|077|Mesa
+08|079|Mineral
+08|081|Moffat
+08|083|Montezuma
+08|085|Montrose
+08|087|Morgan
+08|089|Otero
+08|091|Ouray
+08|093|Park
+08|095|Phillips
+08|097|Pitkin
+08|099|Prowers
+08|101|Pueblo
+08|103|Rio Blanco
+08|105|Rio Grande
+08|107|Routt
+08|109|Saguache
+08|111|San Juan
+08|113|San Miguel
+08|115|Sedgwick
+08|117|Summit
+08|119|Teller
+08|121|Washington
+08|123|Weld
+08|125|Yuma
+09|001|Fairfield
+09|003|Hartford
+09|005|Litchfield
+09|007|Middlesex
+09|009|New Haven
+09|011|New London
+09|013|Tolland
+09|015|Windham
+10|001|Kent
+10|003|New Castle
+10|005|Sussex
 11|001|District of Columbia
-12|001|Alachua County
-12|003|Baker County
-12|005|Bay County
-12|007|Bradford County
-12|009|Brevard County
-12|011|Broward County
-12|013|Calhoun County
-12|015|Charlotte County
-12|017|Citrus County
-12|019|Clay County
-12|021|Collier County
-12|023|Columbia County
-12|027|DeSoto County
-12|029|Dixie County
-12|031|Duval County
-12|033|Escambia County
-12|035|Flagler County
-12|037|Franklin County
-12|039|Gadsden County
-12|041|Gilchrist County
-12|043|Glades County
-12|045|Gulf County
-12|047|Hamilton County
-12|049|Hardee County
-12|051|Hendry County
-12|053|Hernando County
-12|055|Highlands County
-12|057|Hillsborough County
-12|059|Holmes County
-12|061|Indian River County
-12|063|Jackson County
-12|065|Jefferson County
-12|067|Lafayette County
-12|069|Lake County
-12|071|Lee County
-12|073|Leon County
-12|075|Levy County
-12|077|Liberty County
-12|079|Madison County
-12|081|Manatee County
-12|083|Marion County
-12|085|Martin County
-12|086|Miami-Dade County
-12|087|Monroe County
-12|089|Nassau County
-12|091|Okaloosa County
-12|093|Okeechobee County
-12|095|Orange County
-12|097|Osceola County
-12|099|Palm Beach County
-12|101|Pasco County
-12|103|Pinellas County
-12|105|Polk County
-12|107|Putnam County
-12|109|St. Johns County
-12|111|St. Lucie County
-12|113|Santa Rosa County
-12|115|Sarasota County
-12|117|Seminole County
-12|119|Sumter County
-12|121|Suwannee County
-12|123|Taylor County
-12|125|Union County
-12|127|Volusia County
-12|129|Wakulla County
-12|131|Walton County
-12|133|Washington County
-13|001|Appling County
-13|003|Atkinson County
-13|005|Bacon County
-13|007|Baker County
-13|009|Baldwin County
-13|011|Banks County
-13|013|Barrow County
-13|015|Bartow County
-13|017|Ben Hill County
-13|019|Berrien County
-13|021|Bibb County
-13|023|Bleckley County
-13|025|Brantley County
-13|027|Brooks County
-13|029|Bryan County
-13|031|Bulloch County
-13|033|Burke County
-13|035|Butts County
-13|037|Calhoun County
-13|039|Camden County
-13|043|Candler County
-13|045|Carroll County
-13|047|Catoosa County
-13|049|Charlton County
-13|051|Chatham County
-13|053|Chattahoochee County
-13|055|Chattooga County
-13|057|Cherokee County
-13|059|Clarke County
-13|061|Clay County
-13|063|Clayton County
-13|065|Clinch County
-13|067|Cobb County
-13|069|Coffee County
-13|071|Colquitt County
-13|073|Columbia County
-13|075|Cook County
-13|077|Coweta County
-13|079|Crawford County
-13|081|Crisp County
-13|083|Dade County
-13|085|Dawson County
-13|087|Decatur County
-13|089|DeKalb County
-13|091|Dodge County
-13|093|Dooly County
-13|095|Dougherty County
-13|097|Douglas County
-13|099|Early County
-13|101|Echols County
-13|103|Effingham County
-13|105|Elbert County
-13|107|Emanuel County
-13|109|Evans County
-13|111|Fannin County
-13|113|Fayette County
-13|115|Floyd County
-13|117|Forsyth County
-13|119|Franklin County
-13|121|Fulton County
-13|123|Gilmer County
-13|125|Glascock County
-13|127|Glynn County
-13|129|Gordon County
-13|131|Grady County
-13|133|Greene County
-13|135|Gwinnett County
-13|137|Habersham County
-13|139|Hall County
-13|141|Hancock County
-13|143|Haralson County
-13|145|Harris County
-13|147|Hart County
-13|149|Heard County
-13|151|Henry County
-13|153|Houston County
-13|155|Irwin County
-13|157|Jackson County
-13|159|Jasper County
-13|161|Jeff Davis County
-13|163|Jefferson County
-13|165|Jenkins County
-13|167|Johnson County
-13|169|Jones County
-13|171|Lamar County
-13|173|Lanier County
-13|175|Laurens County
-13|177|Lee County
-13|179|Liberty County
-13|181|Lincoln County
-13|183|Long County
-13|185|Lowndes County
-13|187|Lumpkin County
-13|189|McDuffie County
-13|191|McIntosh County
-13|193|Macon County
-13|195|Madison County
-13|197|Marion County
-13|199|Meriwether County
-13|201|Miller County
-13|205|Mitchell County
-13|207|Monroe County
-13|209|Montgomery County
-13|211|Morgan County
-13|213|Murray County
-13|215|Muscogee County
-13|217|Newton County
-13|219|Oconee County
-13|221|Oglethorpe County
-13|223|Paulding County
-13|225|Peach County
-13|227|Pickens County
-13|229|Pierce County
-13|231|Pike County
-13|233|Polk County
-13|235|Pulaski County
-13|237|Putnam County
-13|239|Quitman County
-13|241|Rabun County
-13|243|Randolph County
-13|245|Richmond County
-13|247|Rockdale County
-13|249|Schley County
-13|251|Screven County
-13|253|Seminole County
-13|255|Spalding County
-13|257|Stephens County
-13|259|Stewart County
-13|261|Sumter County
-13|263|Talbot County
-13|265|Taliaferro County
-13|267|Tattnall County
-13|269|Taylor County
-13|271|Telfair County
-13|273|Terrell County
-13|275|Thomas County
-13|277|Tift County
-13|279|Toombs County
-13|281|Towns County
-13|283|Treutlen County
-13|285|Troup County
-13|287|Turner County
-13|289|Twiggs County
-13|291|Union County
-13|293|Upson County
-13|295|Walker County
-13|297|Walton County
-13|299|Ware County
-13|301|Warren County
-13|303|Washington County
-13|305|Wayne County
-13|307|Webster County
-13|309|Wheeler County
-13|311|White County
-13|313|Whitfield County
-13|315|Wilcox County
-13|317|Wilkes County
-13|319|Wilkinson County
-13|321|Worth County
-15|001|Hawaii County
-15|003|Honolulu County
-15|005|Kalawao County
-15|007|Kauai County
-15|009|Maui County
-16|001|Ada County
-16|003|Adams County
-16|005|Bannock County
-16|007|Bear Lake County
-16|009|Benewah County
-16|011|Bingham County
-16|013|Blaine County
-16|015|Boise County
-16|017|Bonner County
-16|019|Bonneville County
-16|021|Boundary County
-16|023|Butte County
-16|025|Camas County
-16|027|Canyon County
-16|029|Caribou County
-16|031|Cassia County
-16|033|Clark County
-16|035|Clearwater County
-16|037|Custer County
-16|039|Elmore County
-16|041|Franklin County
-16|043|Fremont County
-16|045|Gem County
-16|047|Gooding County
-16|049|Idaho County
-16|051|Jefferson County
-16|053|Jerome County
-16|055|Kootenai County
-16|057|Latah County
-16|059|Lemhi County
-16|061|Lewis County
-16|063|Lincoln County
-16|065|Madison County
-16|067|Minidoka County
-16|069|Nez Perce County
-16|071|Oneida County
-16|073|Owyhee County
-16|075|Payette County
-16|077|Power County
-16|079|Shoshone County
-16|081|Teton County
-16|083|Twin Falls County
-16|085|Valley County
-16|087|Washington County
-17|001|Adams County
-17|003|Alexander County
-17|005|Bond County
-17|007|Boone County
-17|009|Brown County
-17|011|Bureau County
-17|013|Calhoun County
-17|015|Carroll County
-17|017|Cass County
-17|019|Champaign County
-17|021|Christian County
-17|023|Clark County
-17|025|Clay County
-17|027|Clinton County
-17|029|Coles County
-17|031|Cook County
-17|033|Crawford County
-17|035|Cumberland County
-17|037|DeKalb County
-17|039|De Witt County
-17|041|Douglas County
-17|043|DuPage County
-17|045|Edgar County
-17|047|Edwards County
-17|049|Effingham County
-17|051|Fayette County
-17|053|Ford County
-17|055|Franklin County
-17|057|Fulton County
-17|059|Gallatin County
-17|061|Greene County
-17|063|Grundy County
-17|065|Hamilton County
-17|067|Hancock County
-17|069|Hardin County
-17|071|Henderson County
-17|073|Henry County
-17|075|Iroquois County
-17|077|Jackson County
-17|079|Jasper County
-17|081|Jefferson County
-17|083|Jersey County
-17|085|Jo Daviess County
-17|087|Johnson County
-17|089|Kane County
-17|091|Kankakee County
-17|093|Kendall County
-17|095|Knox County
-17|097|Lake County
-17|099|LaSalle County
-17|101|Lawrence County
-17|103|Lee County
-17|105|Livingston County
-17|107|Logan County
-17|109|McDonough County
-17|111|McHenry County
-17|113|McLean County
-17|115|Macon County
-17|117|Macoupin County
-17|119|Madison County
-17|121|Marion County
-17|123|Marshall County
-17|125|Mason County
-17|127|Massac County
-17|129|Menard County
-17|131|Mercer County
-17|133|Monroe County
-17|135|Montgomery County
-17|137|Morgan County
-17|139|Moultrie County
-17|141|Ogle County
-17|143|Peoria County
-17|145|Perry County
-17|147|Piatt County
-17|149|Pike County
-17|151|Pope County
-17|153|Pulaski County
-17|155|Putnam County
-17|157|Randolph County
-17|159|Richland County
-17|161|Rock Island County
-17|163|St. Clair County
-17|165|Saline County
-17|167|Sangamon County
-17|169|Schuyler County
-17|171|Scott County
-17|173|Shelby County
-17|175|Stark County
-17|177|Stephenson County
-17|179|Tazewell County
-17|181|Union County
-17|183|Vermilion County
-17|185|Wabash County
-17|187|Warren County
-17|189|Washington County
-17|191|Wayne County
-17|193|White County
-17|195|Whiteside County
-17|197|Will County
-17|199|Williamson County
-17|201|Winnebago County
-17|203|Woodford County
-18|001|Adams County
-18|003|Allen County
-18|005|Bartholomew County
-18|007|Benton County
-18|009|Blackford County
-18|011|Boone County
-18|013|Brown County
-18|015|Carroll County
-18|017|Cass County
-18|019|Clark County
-18|021|Clay County
-18|023|Clinton County
-18|025|Crawford County
-18|027|Daviess County
-18|029|Dearborn County
-18|031|Decatur County
-18|033|DeKalb County
-18|035|Delaware County
-18|037|Dubois County
-18|039|Elkhart County
-18|041|Fayette County
-18|043|Floyd County
-18|045|Fountain County
-18|047|Franklin County
-18|049|Fulton County
-18|051|Gibson County
-18|053|Grant County
-18|055|Greene County
-18|057|Hamilton County
-18|059|Hancock County
-18|061|Harrison County
-18|063|Hendricks County
-18|065|Henry County
-18|067|Howard County
-18|069|Huntington County
-18|071|Jackson County
-18|073|Jasper County
-18|075|Jay County
-18|077|Jefferson County
-18|079|Jennings County
-18|081|Johnson County
-18|083|Knox County
-18|085|Kosciusko County
-18|087|LaGrange County
-18|089|Lake County
-18|091|LaPorte County
-18|093|Lawrence County
-18|095|Madison County
-18|097|Marion County
-18|099|Marshall County
-18|101|Martin County
-18|103|Miami County
-18|105|Monroe County
-18|107|Montgomery County
-18|109|Morgan County
-18|111|Newton County
-18|113|Noble County
-18|115|Ohio County
-18|117|Orange County
-18|119|Owen County
-18|121|Parke County
-18|123|Perry County
-18|125|Pike County
-18|127|Porter County
-18|129|Posey County
-18|131|Pulaski County
-18|133|Putnam County
-18|135|Randolph County
-18|137|Ripley County
-18|139|Rush County
-18|141|St. Joseph County
-18|143|Scott County
-18|145|Shelby County
-18|147|Spencer County
-18|149|Starke County
-18|151|Steuben County
-18|153|Sullivan County
-18|155|Switzerland County
-18|157|Tippecanoe County
-18|159|Tipton County
-18|161|Union County
-18|163|Vanderburgh County
-18|165|Vermillion County
-18|167|Vigo County
-18|169|Wabash County
-18|171|Warren County
-18|173|Warrick County
-18|175|Washington County
-18|177|Wayne County
-18|179|Wells County
-18|181|White County
-18|183|Whitley County
-19|001|Adair County
-19|003|Adams County
-19|005|Allamakee County
-19|007|Appanoose County
-19|009|Audubon County
-19|011|Benton County
-19|013|Black Hawk County
-19|015|Boone County
-19|017|Bremer County
-19|019|Buchanan County
-19|021|Buena Vista County
-19|023|Butler County
-19|025|Calhoun County
-19|027|Carroll County
-19|029|Cass County
-19|031|Cedar County
-19|033|Cerro Gordo County
-19|035|Cherokee County
-19|037|Chickasaw County
-19|039|Clarke County
-19|041|Clay County
-19|043|Clayton County
-19|045|Clinton County
-19|047|Crawford County
-19|049|Dallas County
-19|051|Davis County
-19|053|Decatur County
-19|055|Delaware County
-19|057|Des Moines County
-19|059|Dickinson County
-19|061|Dubuque County
-19|063|Emmet County
-19|065|Fayette County
-19|067|Floyd County
-19|069|Franklin County
-19|071|Fremont County
-19|073|Greene County
-19|075|Grundy County
-19|077|Guthrie County
-19|079|Hamilton County
-19|081|Hancock County
-19|083|Hardin County
-19|085|Harrison County
-19|087|Henry County
-19|089|Howard County
-19|091|Humboldt County
-19|093|Ida County
-19|095|Iowa County
-19|097|Jackson County
-19|099|Jasper County
-19|101|Jefferson County
-19|103|Johnson County
-19|105|Jones County
-19|107|Keokuk County
-19|109|Kossuth County
-19|111|Lee County
-19|113|Linn County
-19|115|Louisa County
-19|117|Lucas County
-19|119|Lyon County
-19|121|Madison County
-19|123|Mahaska County
-19|125|Marion County
-19|127|Marshall County
-19|129|Mills County
-19|131|Mitchell County
-19|133|Monona County
-19|135|Monroe County
-19|137|Montgomery County
-19|139|Muscatine County
-19|141|O'Brien County
-19|143|Osceola County
-19|145|Page County
-19|147|Palo Alto County
-19|149|Plymouth County
-19|151|Pocahontas County
-19|153|Polk County
-19|155|Pottawattamie County
-19|157|Poweshiek County
-19|159|Ringgold County
-19|161|Sac County
-19|163|Scott County
-19|165|Shelby County
-19|167|Sioux County
-19|169|Story County
-19|171|Tama County
-19|173|Taylor County
-19|175|Union County
-19|177|Van Buren County
-19|179|Wapello County
-19|181|Warren County
-19|183|Washington County
-19|185|Wayne County
-19|187|Webster County
-19|189|Winnebago County
-19|191|Winneshiek County
-19|193|Woodbury County
-19|195|Worth County
-19|197|Wright County
-20|001|Allen County
-20|003|Anderson County
-20|005|Atchison County
-20|007|Barber County
-20|009|Barton County
-20|011|Bourbon County
-20|013|Brown County
-20|015|Butler County
-20|017|Chase County
-20|019|Chautauqua County
-20|021|Cherokee County
-20|023|Cheyenne County
-20|025|Clark County
-20|027|Clay County
-20|029|Cloud County
-20|031|Coffey County
-20|033|Comanche County
-20|035|Cowley County
-20|037|Crawford County
-20|039|Decatur County
-20|041|Dickinson County
-20|043|Doniphan County
-20|045|Douglas County
-20|047|Edwards County
-20|049|Elk County
-20|051|Ellis County
-20|053|Ellsworth County
-20|055|Finney County
-20|057|Ford County
-20|059|Franklin County
-20|061|Geary County
-20|063|Gove County
-20|065|Graham County
-20|067|Grant County
-20|069|Gray County
-20|071|Greeley County
-20|073|Greenwood County
-20|075|Hamilton County
-20|077|Harper County
-20|079|Harvey County
-20|081|Haskell County
-20|083|Hodgeman County
-20|085|Jackson County
-20|087|Jefferson County
-20|089|Jewell County
-20|091|Johnson County
-20|093|Kearny County
-20|095|Kingman County
-20|097|Kiowa County
-20|099|Labette County
-20|101|Lane County
-20|103|Leavenworth County
-20|105|Lincoln County
-20|107|Linn County
-20|109|Logan County
-20|111|Lyon County
-20|113|McPherson County
-20|115|Marion County
-20|117|Marshall County
-20|119|Meade County
-20|121|Miami County
-20|123|Mitchell County
-20|125|Montgomery County
-20|127|Morris County
-20|129|Morton County
-20|131|Nemaha County
-20|133|Neosho County
-20|135|Ness County
-20|137|Norton County
-20|139|Osage County
-20|141|Osborne County
-20|143|Ottawa County
-20|145|Pawnee County
-20|147|Phillips County
-20|149|Pottawatomie County
-20|151|Pratt County
-20|153|Rawlins County
-20|155|Reno County
-20|157|Republic County
-20|159|Rice County
-20|161|Riley County
-20|163|Rooks County
-20|165|Rush County
-20|167|Russell County
-20|169|Saline County
-20|171|Scott County
-20|173|Sedgwick County
-20|175|Seward County
-20|177|Shawnee County
-20|179|Sheridan County
-20|181|Sherman County
-20|183|Smith County
-20|185|Stafford County
-20|187|Stanton County
-20|189|Stevens County
-20|191|Sumner County
-20|193|Thomas County
-20|195|Trego County
-20|197|Wabaunsee County
-20|199|Wallace County
-20|201|Washington County
-20|203|Wichita County
-20|205|Wilson County
-20|207|Woodson County
-20|209|Wyandotte County
-21|001|Adair County
-21|003|Allen County
-21|005|Anderson County
-21|007|Ballard County
-21|009|Barren County
-21|011|Bath County
-21|013|Bell County
-21|015|Boone County
-21|017|Bourbon County
-21|019|Boyd County
-21|021|Boyle County
-21|023|Bracken County
-21|025|Breathitt County
-21|027|Breckinridge County
-21|029|Bullitt County
-21|031|Butler County
-21|033|Caldwell County
-21|035|Calloway County
-21|037|Campbell County
-21|039|Carlisle County
-21|041|Carroll County
-21|043|Carter County
-21|045|Casey County
-21|047|Christian County
-21|049|Clark County
-21|051|Clay County
-21|053|Clinton County
-21|055|Crittenden County
-21|057|Cumberland County
-21|059|Daviess County
-21|061|Edmonson County
-21|063|Elliott County
-21|065|Estill County
-21|067|Fayette County
-21|069|Fleming County
-21|071|Floyd County
-21|073|Franklin County
-21|075|Fulton County
-21|077|Gallatin County
-21|079|Garrard County
-21|081|Grant County
-21|083|Graves County
-21|085|Grayson County
-21|087|Green County
-21|089|Greenup County
-21|091|Hancock County
-21|093|Hardin County
-21|095|Harlan County
-21|097|Harrison County
-21|099|Hart County
-21|101|Henderson County
-21|103|Henry County
-21|105|Hickman County
-21|107|Hopkins County
-21|109|Jackson County
-21|111|Jefferson County
-21|113|Jessamine County
-21|115|Johnson County
-21|117|Kenton County
-21|119|Knott County
-21|121|Knox County
-21|123|Larue County
-21|125|Laurel County
-21|127|Lawrence County
-21|129|Lee County
-21|131|Leslie County
-21|133|Letcher County
-21|135|Lewis County
-21|137|Lincoln County
-21|139|Livingston County
-21|141|Logan County
-21|143|Lyon County
-21|145|McCracken County
-21|147|McCreary County
-21|149|McLean County
-21|151|Madison County
-21|153|Magoffin County
-21|155|Marion County
-21|157|Marshall County
-21|159|Martin County
-21|161|Mason County
-21|163|Meade County
-21|165|Menifee County
-21|167|Mercer County
-21|169|Metcalfe County
-21|171|Monroe County
-21|173|Montgomery County
-21|175|Morgan County
-21|177|Muhlenberg County
-21|179|Nelson County
-21|181|Nicholas County
-21|183|Ohio County
-21|185|Oldham County
-21|187|Owen County
-21|189|Owsley County
-21|191|Pendleton County
-21|193|Perry County
-21|195|Pike County
-21|197|Powell County
-21|199|Pulaski County
-21|201|Robertson County
-21|203|Rockcastle County
-21|205|Rowan County
-21|207|Russell County
-21|209|Scott County
-21|211|Shelby County
-21|213|Simpson County
-21|215|Spencer County
-21|217|Taylor County
-21|219|Todd County
-21|221|Trigg County
-21|223|Trimble County
-21|225|Union County
-21|227|Warren County
-21|229|Washington County
-21|231|Wayne County
-21|233|Webster County
-21|235|Whitley County
-21|237|Wolfe County
-21|239|Woodford County
+12|001|Alachua
+12|003|Baker
+12|005|Bay
+12|007|Bradford
+12|009|Brevard
+12|011|Broward
+12|013|Calhoun
+12|015|Charlotte
+12|017|Citrus
+12|019|Clay
+12|021|Collier
+12|023|Columbia
+12|027|DeSoto
+12|029|Dixie
+12|031|Duval
+12|033|Escambia
+12|035|Flagler
+12|037|Franklin
+12|039|Gadsden
+12|041|Gilchrist
+12|043|Glades
+12|045|Gulf
+12|047|Hamilton
+12|049|Hardee
+12|051|Hendry
+12|053|Hernando
+12|055|Highlands
+12|057|Hillsborough
+12|059|Holmes
+12|061|Indian River
+12|063|Jackson
+12|065|Jefferson
+12|067|Lafayette
+12|069|Lake
+12|071|Lee
+12|073|Leon
+12|075|Levy
+12|077|Liberty
+12|079|Madison
+12|081|Manatee
+12|083|Marion
+12|085|Martin
+12|086|Miami-Dade
+12|087|Monroe
+12|089|Nassau
+12|091|Okaloosa
+12|093|Okeechobee
+12|095|Orange
+12|097|Osceola
+12|099|Palm Beach
+12|101|Pasco
+12|103|Pinellas
+12|105|Polk
+12|107|Putnam
+12|109|St. Johns
+12|111|St. Lucie
+12|113|Santa Rosa
+12|115|Sarasota
+12|117|Seminole
+12|119|Sumter
+12|121|Suwannee
+12|123|Taylor
+12|125|Union
+12|127|Volusia
+12|129|Wakulla
+12|131|Walton
+12|133|Washington
+13|001|Appling
+13|003|Atkinson
+13|005|Bacon
+13|007|Baker
+13|009|Baldwin
+13|011|Banks
+13|013|Barrow
+13|015|Bartow
+13|017|Ben Hill
+13|019|Berrien
+13|021|Bibb
+13|023|Bleckley
+13|025|Brantley
+13|027|Brooks
+13|029|Bryan
+13|031|Bulloch
+13|033|Burke
+13|035|Butts
+13|037|Calhoun
+13|039|Camden
+13|043|Candler
+13|045|Carroll
+13|047|Catoosa
+13|049|Charlton
+13|051|Chatham
+13|053|Chattahoochee
+13|055|Chattooga
+13|057|Cherokee
+13|059|Clarke
+13|061|Clay
+13|063|Clayton
+13|065|Clinch
+13|067|Cobb
+13|069|Coffee
+13|071|Colquitt
+13|073|Columbia
+13|075|Cook
+13|077|Coweta
+13|079|Crawford
+13|081|Crisp
+13|083|Dade
+13|085|Dawson
+13|087|Decatur
+13|089|DeKalb
+13|091|Dodge
+13|093|Dooly
+13|095|Dougherty
+13|097|Douglas
+13|099|Early
+13|101|Echols
+13|103|Effingham
+13|105|Elbert
+13|107|Emanuel
+13|109|Evans
+13|111|Fannin
+13|113|Fayette
+13|115|Floyd
+13|117|Forsyth
+13|119|Franklin
+13|121|Fulton
+13|123|Gilmer
+13|125|Glascock
+13|127|Glynn
+13|129|Gordon
+13|131|Grady
+13|133|Greene
+13|135|Gwinnett
+13|137|Habersham
+13|139|Hall
+13|141|Hancock
+13|143|Haralson
+13|145|Harris
+13|147|Hart
+13|149|Heard
+13|151|Henry
+13|153|Houston
+13|155|Irwin
+13|157|Jackson
+13|159|Jasper
+13|161|Jeff Davis
+13|163|Jefferson
+13|165|Jenkins
+13|167|Johnson
+13|169|Jones
+13|171|Lamar
+13|173|Lanier
+13|175|Laurens
+13|177|Lee
+13|179|Liberty
+13|181|Lincoln
+13|183|Long
+13|185|Lowndes
+13|187|Lumpkin
+13|189|McDuffie
+13|191|McIntosh
+13|193|Macon
+13|195|Madison
+13|197|Marion
+13|199|Meriwether
+13|201|Miller
+13|205|Mitchell
+13|207|Monroe
+13|209|Montgomery
+13|211|Morgan
+13|213|Murray
+13|215|Muscogee
+13|217|Newton
+13|219|Oconee
+13|221|Oglethorpe
+13|223|Paulding
+13|225|Peach
+13|227|Pickens
+13|229|Pierce
+13|231|Pike
+13|233|Polk
+13|235|Pulaski
+13|237|Putnam
+13|239|Quitman
+13|241|Rabun
+13|243|Randolph
+13|245|Richmond
+13|247|Rockdale
+13|249|Schley
+13|251|Screven
+13|253|Seminole
+13|255|Spalding
+13|257|Stephens
+13|259|Stewart
+13|261|Sumter
+13|263|Talbot
+13|265|Taliaferro
+13|267|Tattnall
+13|269|Taylor
+13|271|Telfair
+13|273|Terrell
+13|275|Thomas
+13|277|Tift
+13|279|Toombs
+13|281|Towns
+13|283|Treutlen
+13|285|Troup
+13|287|Turner
+13|289|Twiggs
+13|291|Union
+13|293|Upson
+13|295|Walker
+13|297|Walton
+13|299|Ware
+13|301|Warren
+13|303|Washington
+13|305|Wayne
+13|307|Webster
+13|309|Wheeler
+13|311|White
+13|313|Whitfield
+13|315|Wilcox
+13|317|Wilkes
+13|319|Wilkinson
+13|321|Worth
+15|001|Hawaii
+15|003|Honolulu
+15|005|Kalawao
+15|007|Kauai
+15|009|Maui
+16|001|Ada
+16|003|Adams
+16|005|Bannock
+16|007|Bear Lake
+16|009|Benewah
+16|011|Bingham
+16|013|Blaine
+16|015|Boise
+16|017|Bonner
+16|019|Bonneville
+16|021|Boundary
+16|023|Butte
+16|025|Camas
+16|027|Canyon
+16|029|Caribou
+16|031|Cassia
+16|033|Clark
+16|035|Clearwater
+16|037|Custer
+16|039|Elmore
+16|041|Franklin
+16|043|Fremont
+16|045|Gem
+16|047|Gooding
+16|049|Idaho
+16|051|Jefferson
+16|053|Jerome
+16|055|Kootenai
+16|057|Latah
+16|059|Lemhi
+16|061|Lewis
+16|063|Lincoln
+16|065|Madison
+16|067|Minidoka
+16|069|Nez Perce
+16|071|Oneida
+16|073|Owyhee
+16|075|Payette
+16|077|Power
+16|079|Shoshone
+16|081|Teton
+16|083|Twin Falls
+16|085|Valley
+16|087|Washington
+17|001|Adams
+17|003|Alexander
+17|005|Bond
+17|007|Boone
+17|009|Brown
+17|011|Bureau
+17|013|Calhoun
+17|015|Carroll
+17|017|Cass
+17|019|Champaign
+17|021|Christian
+17|023|Clark
+17|025|Clay
+17|027|Clinton
+17|029|Coles
+17|031|Cook
+17|033|Crawford
+17|035|Cumberland
+17|037|DeKalb
+17|039|De Witt
+17|041|Douglas
+17|043|DuPage
+17|045|Edgar
+17|047|Edwards
+17|049|Effingham
+17|051|Fayette
+17|053|Ford
+17|055|Franklin
+17|057|Fulton
+17|059|Gallatin
+17|061|Greene
+17|063|Grundy
+17|065|Hamilton
+17|067|Hancock
+17|069|Hardin
+17|071|Henderson
+17|073|Henry
+17|075|Iroquois
+17|077|Jackson
+17|079|Jasper
+17|081|Jefferson
+17|083|Jersey
+17|085|Jo Daviess
+17|087|Johnson
+17|089|Kane
+17|091|Kankakee
+17|093|Kendall
+17|095|Knox
+17|097|Lake
+17|099|LaSalle
+17|101|Lawrence
+17|103|Lee
+17|105|Livingston
+17|107|Logan
+17|109|McDonough
+17|111|McHenry
+17|113|McLean
+17|115|Macon
+17|117|Macoupin
+17|119|Madison
+17|121|Marion
+17|123|Marshall
+17|125|Mason
+17|127|Massac
+17|129|Menard
+17|131|Mercer
+17|133|Monroe
+17|135|Montgomery
+17|137|Morgan
+17|139|Moultrie
+17|141|Ogle
+17|143|Peoria
+17|145|Perry
+17|147|Piatt
+17|149|Pike
+17|151|Pope
+17|153|Pulaski
+17|155|Putnam
+17|157|Randolph
+17|159|Richland
+17|161|Rock Island
+17|163|St. Clair
+17|165|Saline
+17|167|Sangamon
+17|169|Schuyler
+17|171|Scott
+17|173|Shelby
+17|175|Stark
+17|177|Stephenson
+17|179|Tazewell
+17|181|Union
+17|183|Vermilion
+17|185|Wabash
+17|187|Warren
+17|189|Washington
+17|191|Wayne
+17|193|White
+17|195|Whiteside
+17|197|Will
+17|199|Williamson
+17|201|Winnebago
+17|203|Woodford
+18|001|Adams
+18|003|Allen
+18|005|Bartholomew
+18|007|Benton
+18|009|Blackford
+18|011|Boone
+18|013|Brown
+18|015|Carroll
+18|017|Cass
+18|019|Clark
+18|021|Clay
+18|023|Clinton
+18|025|Crawford
+18|027|Daviess
+18|029|Dearborn
+18|031|Decatur
+18|033|DeKalb
+18|035|Delaware
+18|037|Dubois
+18|039|Elkhart
+18|041|Fayette
+18|043|Floyd
+18|045|Fountain
+18|047|Franklin
+18|049|Fulton
+18|051|Gibson
+18|053|Grant
+18|055|Greene
+18|057|Hamilton
+18|059|Hancock
+18|061|Harrison
+18|063|Hendricks
+18|065|Henry
+18|067|Howard
+18|069|Huntington
+18|071|Jackson
+18|073|Jasper
+18|075|Jay
+18|077|Jefferson
+18|079|Jennings
+18|081|Johnson
+18|083|Knox
+18|085|Kosciusko
+18|087|LaGrange
+18|089|Lake
+18|091|LaPorte
+18|093|Lawrence
+18|095|Madison
+18|097|Marion
+18|099|Marshall
+18|101|Martin
+18|103|Miami
+18|105|Monroe
+18|107|Montgomery
+18|109|Morgan
+18|111|Newton
+18|113|Noble
+18|115|Ohio
+18|117|Orange
+18|119|Owen
+18|121|Parke
+18|123|Perry
+18|125|Pike
+18|127|Porter
+18|129|Posey
+18|131|Pulaski
+18|133|Putnam
+18|135|Randolph
+18|137|Ripley
+18|139|Rush
+18|141|St. Joseph
+18|143|Scott
+18|145|Shelby
+18|147|Spencer
+18|149|Starke
+18|151|Steuben
+18|153|Sullivan
+18|155|Switzerland
+18|157|Tippecanoe
+18|159|Tipton
+18|161|Union
+18|163|Vanderburgh
+18|165|Vermillion
+18|167|Vigo
+18|169|Wabash
+18|171|Warren
+18|173|Warrick
+18|175|Washington
+18|177|Wayne
+18|179|Wells
+18|181|White
+18|183|Whitley
+19|001|Adair
+19|003|Adams
+19|005|Allamakee
+19|007|Appanoose
+19|009|Audubon
+19|011|Benton
+19|013|Black Hawk
+19|015|Boone
+19|017|Bremer
+19|019|Buchanan
+19|021|Buena Vista
+19|023|Butler
+19|025|Calhoun
+19|027|Carroll
+19|029|Cass
+19|031|Cedar
+19|033|Cerro Gordo
+19|035|Cherokee
+19|037|Chickasaw
+19|039|Clarke
+19|041|Clay
+19|043|Clayton
+19|045|Clinton
+19|047|Crawford
+19|049|Dallas
+19|051|Davis
+19|053|Decatur
+19|055|Delaware
+19|057|Des Moines
+19|059|Dickinson
+19|061|Dubuque
+19|063|Emmet
+19|065|Fayette
+19|067|Floyd
+19|069|Franklin
+19|071|Fremont
+19|073|Greene
+19|075|Grundy
+19|077|Guthrie
+19|079|Hamilton
+19|081|Hancock
+19|083|Hardin
+19|085|Harrison
+19|087|Henry
+19|089|Howard
+19|091|Humboldt
+19|093|Ida
+19|095|Iowa
+19|097|Jackson
+19|099|Jasper
+19|101|Jefferson
+19|103|Johnson
+19|105|Jones
+19|107|Keokuk
+19|109|Kossuth
+19|111|Lee
+19|113|Linn
+19|115|Louisa
+19|117|Lucas
+19|119|Lyon
+19|121|Madison
+19|123|Mahaska
+19|125|Marion
+19|127|Marshall
+19|129|Mills
+19|131|Mitchell
+19|133|Monona
+19|135|Monroe
+19|137|Montgomery
+19|139|Muscatine
+19|141|O'Brien
+19|143|Osceola
+19|145|Page
+19|147|Palo Alto
+19|149|Plymouth
+19|151|Pocahontas
+19|153|Polk
+19|155|Pottawattamie
+19|157|Poweshiek
+19|159|Ringgold
+19|161|Sac
+19|163|Scott
+19|165|Shelby
+19|167|Sioux
+19|169|Story
+19|171|Tama
+19|173|Taylor
+19|175|Union
+19|177|Van Buren
+19|179|Wapello
+19|181|Warren
+19|183|Washington
+19|185|Wayne
+19|187|Webster
+19|189|Winnebago
+19|191|Winneshiek
+19|193|Woodbury
+19|195|Worth
+19|197|Wright
+20|001|Allen
+20|003|Anderson
+20|005|Atchison
+20|007|Barber
+20|009|Barton
+20|011|Bourbon
+20|013|Brown
+20|015|Butler
+20|017|Chase
+20|019|Chautauqua
+20|021|Cherokee
+20|023|Cheyenne
+20|025|Clark
+20|027|Clay
+20|029|Cloud
+20|031|Coffey
+20|033|Comanche
+20|035|Cowley
+20|037|Crawford
+20|039|Decatur
+20|041|Dickinson
+20|043|Doniphan
+20|045|Douglas
+20|047|Edwards
+20|049|Elk
+20|051|Ellis
+20|053|Ellsworth
+20|055|Finney
+20|057|Ford
+20|059|Franklin
+20|061|Geary
+20|063|Gove
+20|065|Graham
+20|067|Grant
+20|069|Gray
+20|071|Greeley
+20|073|Greenwood
+20|075|Hamilton
+20|077|Harper
+20|079|Harvey
+20|081|Haskell
+20|083|Hodgeman
+20|085|Jackson
+20|087|Jefferson
+20|089|Jewell
+20|091|Johnson
+20|093|Kearny
+20|095|Kingman
+20|097|Kiowa
+20|099|Labette
+20|101|Lane
+20|103|Leavenworth
+20|105|Lincoln
+20|107|Linn
+20|109|Logan
+20|111|Lyon
+20|113|McPherson
+20|115|Marion
+20|117|Marshall
+20|119|Meade
+20|121|Miami
+20|123|Mitchell
+20|125|Montgomery
+20|127|Morris
+20|129|Morton
+20|131|Nemaha
+20|133|Neosho
+20|135|Ness
+20|137|Norton
+20|139|Osage
+20|141|Osborne
+20|143|Ottawa
+20|145|Pawnee
+20|147|Phillips
+20|149|Pottawatomie
+20|151|Pratt
+20|153|Rawlins
+20|155|Reno
+20|157|Republic
+20|159|Rice
+20|161|Riley
+20|163|Rooks
+20|165|Rush
+20|167|Russell
+20|169|Saline
+20|171|Scott
+20|173|Sedgwick
+20|175|Seward
+20|177|Shawnee
+20|179|Sheridan
+20|181|Sherman
+20|183|Smith
+20|185|Stafford
+20|187|Stanton
+20|189|Stevens
+20|191|Sumner
+20|193|Thomas
+20|195|Trego
+20|197|Wabaunsee
+20|199|Wallace
+20|201|Washington
+20|203|Wichita
+20|205|Wilson
+20|207|Woodson
+20|209|Wyandotte
+21|001|Adair
+21|003|Allen
+21|005|Anderson
+21|007|Ballard
+21|009|Barren
+21|011|Bath
+21|013|Bell
+21|015|Boone
+21|017|Bourbon
+21|019|Boyd
+21|021|Boyle
+21|023|Bracken
+21|025|Breathitt
+21|027|Breckinridge
+21|029|Bullitt
+21|031|Butler
+21|033|Caldwell
+21|035|Calloway
+21|037|Campbell
+21|039|Carlisle
+21|041|Carroll
+21|043|Carter
+21|045|Casey
+21|047|Christian
+21|049|Clark
+21|051|Clay
+21|053|Clinton
+21|055|Crittenden
+21|057|Cumberland
+21|059|Daviess
+21|061|Edmonson
+21|063|Elliott
+21|065|Estill
+21|067|Fayette
+21|069|Fleming
+21|071|Floyd
+21|073|Franklin
+21|075|Fulton
+21|077|Gallatin
+21|079|Garrard
+21|081|Grant
+21|083|Graves
+21|085|Grayson
+21|087|Green
+21|089|Greenup
+21|091|Hancock
+21|093|Hardin
+21|095|Harlan
+21|097|Harrison
+21|099|Hart
+21|101|Henderson
+21|103|Henry
+21|105|Hickman
+21|107|Hopkins
+21|109|Jackson
+21|111|Jefferson
+21|113|Jessamine
+21|115|Johnson
+21|117|Kenton
+21|119|Knott
+21|121|Knox
+21|123|Larue
+21|125|Laurel
+21|127|Lawrence
+21|129|Lee
+21|131|Leslie
+21|133|Letcher
+21|135|Lewis
+21|137|Lincoln
+21|139|Livingston
+21|141|Logan
+21|143|Lyon
+21|145|McCracken
+21|147|McCreary
+21|149|McLean
+21|151|Madison
+21|153|Magoffin
+21|155|Marion
+21|157|Marshall
+21|159|Martin
+21|161|Mason
+21|163|Meade
+21|165|Menifee
+21|167|Mercer
+21|169|Metcalfe
+21|171|Monroe
+21|173|Montgomery
+21|175|Morgan
+21|177|Muhlenberg
+21|179|Nelson
+21|181|Nicholas
+21|183|Ohio
+21|185|Oldham
+21|187|Owen
+21|189|Owsley
+21|191|Pendleton
+21|193|Perry
+21|195|Pike
+21|197|Powell
+21|199|Pulaski
+21|201|Robertson
+21|203|Rockcastle
+21|205|Rowan
+21|207|Russell
+21|209|Scott
+21|211|Shelby
+21|213|Simpson
+21|215|Spencer
+21|217|Taylor
+21|219|Todd
+21|221|Trigg
+21|223|Trimble
+21|225|Union
+21|227|Warren
+21|229|Washington
+21|231|Wayne
+21|233|Webster
+21|235|Whitley
+21|237|Wolfe
+21|239|Woodford
 22|001|Acadia Parish
 22|003|Allen Parish
 22|005|Ascension Parish
@@ -1175,1744 +1175,1744 @@
 22|123|West Carroll Parish
 22|125|West Feliciana Parish
 22|127|Winn Parish
-23|001|Androscoggin County
-23|003|Aroostook County
-23|005|Cumberland County
-23|007|Franklin County
-23|009|Hancock County
-23|011|Kennebec County
-23|013|Knox County
-23|015|Lincoln County
-23|017|Oxford County
-23|019|Penobscot County
-23|021|Piscataquis County
-23|023|Sagadahoc County
-23|025|Somerset County
-23|027|Waldo County
-23|029|Washington County
-23|031|York County
-24|001|Allegany County
-24|003|Anne Arundel County
-24|005|Baltimore County
-24|009|Calvert County
-24|011|Caroline County
-24|013|Carroll County
-24|015|Cecil County
-24|017|Charles County
-24|019|Dorchester County
-24|021|Frederick County
-24|023|Garrett County
-24|025|Harford County
-24|027|Howard County
-24|029|Kent County
-24|031|Montgomery County
-24|033|Prince George's County
-24|035|Queen Anne's County
-24|037|St. Mary's County
-24|039|Somerset County
-24|041|Talbot County
-24|043|Washington County
-24|045|Wicomico County
-24|047|Worcester County
+23|001|Androscoggin
+23|003|Aroostook
+23|005|Cumberland
+23|007|Franklin
+23|009|Hancock
+23|011|Kennebec
+23|013|Knox
+23|015|Lincoln
+23|017|Oxford
+23|019|Penobscot
+23|021|Piscataquis
+23|023|Sagadahoc
+23|025|Somerset
+23|027|Waldo
+23|029|Washington
+23|031|York
+24|001|Allegany
+24|003|Anne Arundel
+24|005|Baltimore
+24|009|Calvert
+24|011|Caroline
+24|013|Carroll
+24|015|Cecil
+24|017|Charles
+24|019|Dorchester
+24|021|Frederick
+24|023|Garrett
+24|025|Harford
+24|027|Howard
+24|029|Kent
+24|031|Montgomery
+24|033|Prince George's
+24|035|Queen Anne's
+24|037|St. Mary's
+24|039|Somerset
+24|041|Talbot
+24|043|Washington
+24|045|Wicomico
+24|047|Worcester
 24|510|Baltimore city
-25|001|Barnstable County
-25|003|Berkshire County
-25|005|Bristol County
-25|007|Dukes County
-25|009|Essex County
-25|011|Franklin County
-25|013|Hampden County
-25|015|Hampshire County
-25|017|Middlesex County
-25|019|Nantucket County
-25|021|Norfolk County
-25|023|Plymouth County
-25|025|Suffolk County
-25|027|Worcester County
-26|001|Alcona County
-26|003|Alger County
-26|005|Allegan County
-26|007|Alpena County
-26|009|Antrim County
-26|011|Arenac County
-26|013|Baraga County
-26|015|Barry County
-26|017|Bay County
-26|019|Benzie County
-26|021|Berrien County
-26|023|Branch County
-26|025|Calhoun County
-26|027|Cass County
-26|029|Charlevoix County
-26|031|Cheboygan County
-26|033|Chippewa County
-26|035|Clare County
-26|037|Clinton County
-26|039|Crawford County
-26|041|Delta County
-26|043|Dickinson County
-26|045|Eaton County
-26|047|Emmet County
-26|049|Genesee County
-26|051|Gladwin County
-26|053|Gogebic County
-26|055|Grand Traverse County
-26|057|Gratiot County
-26|059|Hillsdale County
-26|061|Houghton County
-26|063|Huron County
-26|065|Ingham County
-26|067|Ionia County
-26|069|Iosco County
-26|071|Iron County
-26|073|Isabella County
-26|075|Jackson County
-26|077|Kalamazoo County
-26|079|Kalkaska County
-26|081|Kent County
-26|083|Keweenaw County
-26|085|Lake County
-26|087|Lapeer County
-26|089|Leelanau County
-26|091|Lenawee County
-26|093|Livingston County
-26|095|Luce County
-26|097|Mackinac County
-26|099|Macomb County
-26|101|Manistee County
-26|103|Marquette County
-26|105|Mason County
-26|107|Mecosta County
-26|109|Menominee County
-26|111|Midland County
-26|113|Missaukee County
-26|115|Monroe County
-26|117|Montcalm County
-26|119|Montmorency County
-26|121|Muskegon County
-26|123|Newaygo County
-26|125|Oakland County
-26|127|Oceana County
-26|129|Ogemaw County
-26|131|Ontonagon County
-26|133|Osceola County
-26|135|Oscoda County
-26|137|Otsego County
-26|139|Ottawa County
-26|141|Presque Isle County
-26|143|Roscommon County
-26|145|Saginaw County
-26|147|St. Clair County
-26|149|St. Joseph County
-26|151|Sanilac County
-26|153|Schoolcraft County
-26|155|Shiawassee County
-26|157|Tuscola County
-26|159|Van Buren County
-26|161|Washtenaw County
-26|163|Wayne County
-26|165|Wexford County
-27|001|Aitkin County
-27|003|Anoka County
-27|005|Becker County
-27|007|Beltrami County
-27|009|Benton County
-27|011|Big Stone County
-27|013|Blue Earth County
-27|015|Brown County
-27|017|Carlton County
-27|019|Carver County
-27|021|Cass County
-27|023|Chippewa County
-27|025|Chisago County
-27|027|Clay County
-27|029|Clearwater County
-27|031|Cook County
-27|033|Cottonwood County
-27|035|Crow Wing County
-27|037|Dakota County
-27|039|Dodge County
-27|041|Douglas County
-27|043|Faribault County
-27|045|Fillmore County
-27|047|Freeborn County
-27|049|Goodhue County
-27|051|Grant County
-27|053|Hennepin County
-27|055|Houston County
-27|057|Hubbard County
-27|059|Isanti County
-27|061|Itasca County
-27|063|Jackson County
-27|065|Kanabec County
-27|067|Kandiyohi County
-27|069|Kittson County
-27|071|Koochiching County
-27|073|Lac qui Parle County
-27|075|Lake County
-27|077|Lake of the Woods County
-27|079|Le Sueur County
-27|081|Lincoln County
-27|083|Lyon County
-27|085|McLeod County
-27|087|Mahnomen County
-27|089|Marshall County
-27|091|Martin County
-27|093|Meeker County
-27|095|Mille Lacs County
-27|097|Morrison County
-27|099|Mower County
-27|101|Murray County
-27|103|Nicollet County
-27|105|Nobles County
-27|107|Norman County
-27|109|Olmsted County
-27|111|Otter Tail County
-27|113|Pennington County
-27|115|Pine County
-27|117|Pipestone County
-27|119|Polk County
-27|121|Pope County
-27|123|Ramsey County
-27|125|Red Lake County
-27|127|Redwood County
-27|129|Renville County
-27|131|Rice County
-27|133|Rock County
-27|135|Roseau County
-27|137|St. Louis County
-27|139|Scott County
-27|141|Sherburne County
-27|143|Sibley County
-27|145|Stearns County
-27|147|Steele County
-27|149|Stevens County
-27|151|Swift County
-27|153|Todd County
-27|155|Traverse County
-27|157|Wabasha County
-27|159|Wadena County
-27|161|Waseca County
-27|163|Washington County
-27|165|Watonwan County
-27|167|Wilkin County
-27|169|Winona County
-27|171|Wright County
-27|173|Yellow Medicine County
-28|001|Adams County
-28|003|Alcorn County
-28|005|Amite County
-28|007|Attala County
-28|009|Benton County
-28|011|Bolivar County
-28|013|Calhoun County
-28|015|Carroll County
-28|017|Chickasaw County
-28|019|Choctaw County
-28|021|Claiborne County
-28|023|Clarke County
-28|025|Clay County
-28|027|Coahoma County
-28|029|Copiah County
-28|031|Covington County
-28|033|DeSoto County
-28|035|Forrest County
-28|037|Franklin County
-28|039|George County
-28|041|Greene County
-28|043|Grenada County
-28|045|Hancock County
-28|047|Harrison County
-28|049|Hinds County
-28|051|Holmes County
-28|053|Humphreys County
-28|055|Issaquena County
-28|057|Itawamba County
-28|059|Jackson County
-28|061|Jasper County
-28|063|Jefferson County
-28|065|Jefferson Davis County
-28|067|Jones County
-28|069|Kemper County
-28|071|Lafayette County
-28|073|Lamar County
-28|075|Lauderdale County
-28|077|Lawrence County
-28|079|Leake County
-28|081|Lee County
-28|083|Leflore County
-28|085|Lincoln County
-28|087|Lowndes County
-28|089|Madison County
-28|091|Marion County
-28|093|Marshall County
-28|095|Monroe County
-28|097|Montgomery County
-28|099|Neshoba County
-28|101|Newton County
-28|103|Noxubee County
-28|105|Oktibbeha County
-28|107|Panola County
-28|109|Pearl River County
-28|111|Perry County
-28|113|Pike County
-28|115|Pontotoc County
-28|117|Prentiss County
-28|119|Quitman County
-28|121|Rankin County
-28|123|Scott County
-28|125|Sharkey County
-28|127|Simpson County
-28|129|Smith County
-28|131|Stone County
-28|133|Sunflower County
-28|135|Tallahatchie County
-28|137|Tate County
-28|139|Tippah County
-28|141|Tishomingo County
-28|143|Tunica County
-28|145|Union County
-28|147|Walthall County
-28|149|Warren County
-28|151|Washington County
-28|153|Wayne County
-28|155|Webster County
-28|157|Wilkinson County
-28|159|Winston County
-28|161|Yalobusha County
-28|163|Yazoo County
-29|001|Adair County
-29|003|Andrew County
-29|005|Atchison County
-29|007|Audrain County
-29|009|Barry County
-29|011|Barton County
-29|013|Bates County
-29|015|Benton County
-29|017|Bollinger County
-29|019|Boone County
-29|021|Buchanan County
-29|023|Butler County
-29|025|Caldwell County
-29|027|Callaway County
-29|029|Camden County
-29|031|Cape Girardeau County
-29|033|Carroll County
-29|035|Carter County
-29|037|Cass County
-29|039|Cedar County
-29|041|Chariton County
-29|043|Christian County
-29|045|Clark County
-29|047|Clay County
-29|049|Clinton County
-29|051|Cole County
-29|053|Cooper County
-29|055|Crawford County
-29|057|Dade County
-29|059|Dallas County
-29|061|Daviess County
-29|063|DeKalb County
-29|065|Dent County
-29|067|Douglas County
-29|069|Dunklin County
-29|071|Franklin County
-29|073|Gasconade County
-29|075|Gentry County
-29|077|Greene County
-29|079|Grundy County
-29|081|Harrison County
-29|083|Henry County
-29|085|Hickory County
-29|087|Holt County
-29|089|Howard County
-29|091|Howell County
-29|093|Iron County
-29|095|Jackson County
-29|097|Jasper County
-29|099|Jefferson County
-29|101|Johnson County
-29|103|Knox County
-29|105|Laclede County
-29|107|Lafayette County
-29|109|Lawrence County
-29|111|Lewis County
-29|113|Lincoln County
-29|115|Linn County
-29|117|Livingston County
-29|119|McDonald County
-29|121|Macon County
-29|123|Madison County
-29|125|Maries County
-29|127|Marion County
-29|129|Mercer County
-29|131|Miller County
-29|133|Mississippi County
-29|135|Moniteau County
-29|137|Monroe County
-29|139|Montgomery County
-29|141|Morgan County
-29|143|New Madrid County
-29|145|Newton County
-29|147|Nodaway County
-29|149|Oregon County
-29|151|Osage County
-29|153|Ozark County
-29|155|Pemiscot County
-29|157|Perry County
-29|159|Pettis County
-29|161|Phelps County
-29|163|Pike County
-29|165|Platte County
-29|167|Polk County
-29|169|Pulaski County
-29|171|Putnam County
-29|173|Ralls County
-29|175|Randolph County
-29|177|Ray County
-29|179|Reynolds County
-29|181|Ripley County
-29|183|St. Charles County
-29|185|St. Clair County
-29|186|Ste. Genevieve County
-29|187|St. Francois County
-29|189|St. Louis County
-29|195|Saline County
-29|197|Schuyler County
-29|199|Scotland County
-29|201|Scott County
-29|203|Shannon County
-29|205|Shelby County
-29|207|Stoddard County
-29|209|Stone County
-29|211|Sullivan County
-29|213|Taney County
-29|215|Texas County
-29|217|Vernon County
-29|219|Warren County
-29|221|Washington County
-29|223|Wayne County
-29|225|Webster County
-29|227|Worth County
-29|229|Wright County
+25|001|Barnstable
+25|003|Berkshire
+25|005|Bristol
+25|007|Dukes
+25|009|Essex
+25|011|Franklin
+25|013|Hampden
+25|015|Hampshire
+25|017|Middlesex
+25|019|Nantucket
+25|021|Norfolk
+25|023|Plymouth
+25|025|Suffolk
+25|027|Worcester
+26|001|Alcona
+26|003|Alger
+26|005|Allegan
+26|007|Alpena
+26|009|Antrim
+26|011|Arenac
+26|013|Baraga
+26|015|Barry
+26|017|Bay
+26|019|Benzie
+26|021|Berrien
+26|023|Branch
+26|025|Calhoun
+26|027|Cass
+26|029|Charlevoix
+26|031|Cheboygan
+26|033|Chippewa
+26|035|Clare
+26|037|Clinton
+26|039|Crawford
+26|041|Delta
+26|043|Dickinson
+26|045|Eaton
+26|047|Emmet
+26|049|Genesee
+26|051|Gladwin
+26|053|Gogebic
+26|055|Grand Traverse
+26|057|Gratiot
+26|059|Hillsdale
+26|061|Houghton
+26|063|Huron
+26|065|Ingham
+26|067|Ionia
+26|069|Iosco
+26|071|Iron
+26|073|Isabella
+26|075|Jackson
+26|077|Kalamazoo
+26|079|Kalkaska
+26|081|Kent
+26|083|Keweenaw
+26|085|Lake
+26|087|Lapeer
+26|089|Leelanau
+26|091|Lenawee
+26|093|Livingston
+26|095|Luce
+26|097|Mackinac
+26|099|Macomb
+26|101|Manistee
+26|103|Marquette
+26|105|Mason
+26|107|Mecosta
+26|109|Menominee
+26|111|Midland
+26|113|Missaukee
+26|115|Monroe
+26|117|Montcalm
+26|119|Montmorency
+26|121|Muskegon
+26|123|Newaygo
+26|125|Oakland
+26|127|Oceana
+26|129|Ogemaw
+26|131|Ontonagon
+26|133|Osceola
+26|135|Oscoda
+26|137|Otsego
+26|139|Ottawa
+26|141|Presque Isle
+26|143|Roscommon
+26|145|Saginaw
+26|147|St. Clair
+26|149|St. Joseph
+26|151|Sanilac
+26|153|Schoolcraft
+26|155|Shiawassee
+26|157|Tuscola
+26|159|Van Buren
+26|161|Washtenaw
+26|163|Wayne
+26|165|Wexford
+27|001|Aitkin
+27|003|Anoka
+27|005|Becker
+27|007|Beltrami
+27|009|Benton
+27|011|Big Stone
+27|013|Blue Earth
+27|015|Brown
+27|017|Carlton
+27|019|Carver
+27|021|Cass
+27|023|Chippewa
+27|025|Chisago
+27|027|Clay
+27|029|Clearwater
+27|031|Cook
+27|033|Cottonwood
+27|035|Crow Wing
+27|037|Dakota
+27|039|Dodge
+27|041|Douglas
+27|043|Faribault
+27|045|Fillmore
+27|047|Freeborn
+27|049|Goodhue
+27|051|Grant
+27|053|Hennepin
+27|055|Houston
+27|057|Hubbard
+27|059|Isanti
+27|061|Itasca
+27|063|Jackson
+27|065|Kanabec
+27|067|Kandiyohi
+27|069|Kittson
+27|071|Koochiching
+27|073|Lac qui Parle
+27|075|Lake
+27|077|Lake of the Woods
+27|079|Le Sueur
+27|081|Lincoln
+27|083|Lyon
+27|085|McLeod
+27|087|Mahnomen
+27|089|Marshall
+27|091|Martin
+27|093|Meeker
+27|095|Mille Lacs
+27|097|Morrison
+27|099|Mower
+27|101|Murray
+27|103|Nicollet
+27|105|Nobles
+27|107|Norman
+27|109|Olmsted
+27|111|Otter Tail
+27|113|Pennington
+27|115|Pine
+27|117|Pipestone
+27|119|Polk
+27|121|Pope
+27|123|Ramsey
+27|125|Red Lake
+27|127|Redwood
+27|129|Renville
+27|131|Rice
+27|133|Rock
+27|135|Roseau
+27|137|St. Louis
+27|139|Scott
+27|141|Sherburne
+27|143|Sibley
+27|145|Stearns
+27|147|Steele
+27|149|Stevens
+27|151|Swift
+27|153|Todd
+27|155|Traverse
+27|157|Wabasha
+27|159|Wadena
+27|161|Waseca
+27|163|Washington
+27|165|Watonwan
+27|167|Wilkin
+27|169|Winona
+27|171|Wright
+27|173|Yellow Medicine
+28|001|Adams
+28|003|Alcorn
+28|005|Amite
+28|007|Attala
+28|009|Benton
+28|011|Bolivar
+28|013|Calhoun
+28|015|Carroll
+28|017|Chickasaw
+28|019|Choctaw
+28|021|Claiborne
+28|023|Clarke
+28|025|Clay
+28|027|Coahoma
+28|029|Copiah
+28|031|Covington
+28|033|DeSoto
+28|035|Forrest
+28|037|Franklin
+28|039|George
+28|041|Greene
+28|043|Grenada
+28|045|Hancock
+28|047|Harrison
+28|049|Hinds
+28|051|Holmes
+28|053|Humphreys
+28|055|Issaquena
+28|057|Itawamba
+28|059|Jackson
+28|061|Jasper
+28|063|Jefferson
+28|065|Jefferson Davis
+28|067|Jones
+28|069|Kemper
+28|071|Lafayette
+28|073|Lamar
+28|075|Lauderdale
+28|077|Lawrence
+28|079|Leake
+28|081|Lee
+28|083|Leflore
+28|085|Lincoln
+28|087|Lowndes
+28|089|Madison
+28|091|Marion
+28|093|Marshall
+28|095|Monroe
+28|097|Montgomery
+28|099|Neshoba
+28|101|Newton
+28|103|Noxubee
+28|105|Oktibbeha
+28|107|Panola
+28|109|Pearl River
+28|111|Perry
+28|113|Pike
+28|115|Pontotoc
+28|117|Prentiss
+28|119|Quitman
+28|121|Rankin
+28|123|Scott
+28|125|Sharkey
+28|127|Simpson
+28|129|Smith
+28|131|Stone
+28|133|Sunflower
+28|135|Tallahatchie
+28|137|Tate
+28|139|Tippah
+28|141|Tishomingo
+28|143|Tunica
+28|145|Union
+28|147|Walthall
+28|149|Warren
+28|151|Washington
+28|153|Wayne
+28|155|Webster
+28|157|Wilkinson
+28|159|Winston
+28|161|Yalobusha
+28|163|Yazoo
+29|001|Adair
+29|003|Andrew
+29|005|Atchison
+29|007|Audrain
+29|009|Barry
+29|011|Barton
+29|013|Bates
+29|015|Benton
+29|017|Bollinger
+29|019|Boone
+29|021|Buchanan
+29|023|Butler
+29|025|Caldwell
+29|027|Callaway
+29|029|Camden
+29|031|Cape Girardeau
+29|033|Carroll
+29|035|Carter
+29|037|Cass
+29|039|Cedar
+29|041|Chariton
+29|043|Christian
+29|045|Clark
+29|047|Clay
+29|049|Clinton
+29|051|Cole
+29|053|Cooper
+29|055|Crawford
+29|057|Dade
+29|059|Dallas
+29|061|Daviess
+29|063|DeKalb
+29|065|Dent
+29|067|Douglas
+29|069|Dunklin
+29|071|Franklin
+29|073|Gasconade
+29|075|Gentry
+29|077|Greene
+29|079|Grundy
+29|081|Harrison
+29|083|Henry
+29|085|Hickory
+29|087|Holt
+29|089|Howard
+29|091|Howell
+29|093|Iron
+29|095|Jackson
+29|097|Jasper
+29|099|Jefferson
+29|101|Johnson
+29|103|Knox
+29|105|Laclede
+29|107|Lafayette
+29|109|Lawrence
+29|111|Lewis
+29|113|Lincoln
+29|115|Linn
+29|117|Livingston
+29|119|McDonald
+29|121|Macon
+29|123|Madison
+29|125|Maries
+29|127|Marion
+29|129|Mercer
+29|131|Miller
+29|133|Mississippi
+29|135|Moniteau
+29|137|Monroe
+29|139|Montgomery
+29|141|Morgan
+29|143|New Madrid
+29|145|Newton
+29|147|Nodaway
+29|149|Oregon
+29|151|Osage
+29|153|Ozark
+29|155|Pemiscot
+29|157|Perry
+29|159|Pettis
+29|161|Phelps
+29|163|Pike
+29|165|Platte
+29|167|Polk
+29|169|Pulaski
+29|171|Putnam
+29|173|Ralls
+29|175|Randolph
+29|177|Ray
+29|179|Reynolds
+29|181|Ripley
+29|183|St. Charles
+29|185|St. Clair
+29|186|Ste. Genevieve
+29|187|St. Francois
+29|189|St. Louis
+29|195|Saline
+29|197|Schuyler
+29|199|Scotland
+29|201|Scott
+29|203|Shannon
+29|205|Shelby
+29|207|Stoddard
+29|209|Stone
+29|211|Sullivan
+29|213|Taney
+29|215|Texas
+29|217|Vernon
+29|219|Warren
+29|221|Washington
+29|223|Wayne
+29|225|Webster
+29|227|Worth
+29|229|Wright
 29|510|St. Louis city
-30|001|Beaverhead County
-30|003|Big Horn County
-30|005|Blaine County
-30|007|Broadwater County
-30|009|Carbon County
-30|011|Carter County
-30|013|Cascade County
-30|015|Chouteau County
-30|017|Custer County
-30|019|Daniels County
-30|021|Dawson County
-30|023|Deer Lodge County
-30|025|Fallon County
-30|027|Fergus County
-30|029|Flathead County
-30|031|Gallatin County
-30|033|Garfield County
-30|035|Glacier County
-30|037|Golden Valley County
-30|039|Granite County
-30|041|Hill County
-30|043|Jefferson County
-30|045|Judith Basin County
-30|047|Lake County
-30|049|Lewis and Clark County
-30|051|Liberty County
-30|053|Lincoln County
-30|055|McCone County
-30|057|Madison County
-30|059|Meagher County
-30|061|Mineral County
-30|063|Missoula County
-30|065|Musselshell County
-30|067|Park County
-30|069|Petroleum County
-30|071|Phillips County
-30|073|Pondera County
-30|075|Powder River County
-30|077|Powell County
-30|079|Prairie County
-30|081|Ravalli County
-30|083|Richland County
-30|085|Roosevelt County
-30|087|Rosebud County
-30|089|Sanders County
-30|091|Sheridan County
-30|093|Silver Bow County
-30|095|Stillwater County
-30|097|Sweet Grass County
-30|099|Teton County
-30|101|Toole County
-30|103|Treasure County
-30|105|Valley County
-30|107|Wheatland County
-30|109|Wibaux County
-30|111|Yellowstone County
-31|001|Adams County
-31|003|Antelope County
-31|005|Arthur County
-31|007|Banner County
-31|009|Blaine County
-31|011|Boone County
-31|013|Box Butte County
-31|015|Boyd County
-31|017|Brown County
-31|019|Buffalo County
-31|021|Burt County
-31|023|Butler County
-31|025|Cass County
-31|027|Cedar County
-31|029|Chase County
-31|031|Cherry County
-31|033|Cheyenne County
-31|035|Clay County
-31|037|Colfax County
-31|039|Cuming County
-31|041|Custer County
-31|043|Dakota County
-31|045|Dawes County
-31|047|Dawson County
-31|049|Deuel County
-31|051|Dixon County
-31|053|Dodge County
-31|055|Douglas County
-31|057|Dundy County
-31|059|Fillmore County
-31|061|Franklin County
-31|063|Frontier County
-31|065|Furnas County
-31|067|Gage County
-31|069|Garden County
-31|071|Garfield County
-31|073|Gosper County
-31|075|Grant County
-31|077|Greeley County
-31|079|Hall County
-31|081|Hamilton County
-31|083|Harlan County
-31|085|Hayes County
-31|087|Hitchcock County
-31|089|Holt County
-31|091|Hooker County
-31|093|Howard County
-31|095|Jefferson County
-31|097|Johnson County
-31|099|Kearney County
-31|101|Keith County
-31|103|Keya Paha County
-31|105|Kimball County
-31|107|Knox County
-31|109|Lancaster County
-31|111|Lincoln County
-31|113|Logan County
-31|115|Loup County
-31|117|McPherson County
-31|119|Madison County
-31|121|Merrick County
-31|123|Morrill County
-31|125|Nance County
-31|127|Nemaha County
-31|129|Nuckolls County
-31|131|Otoe County
-31|133|Pawnee County
-31|135|Perkins County
-31|137|Phelps County
-31|139|Pierce County
-31|141|Platte County
-31|143|Polk County
-31|145|Red Willow County
-31|147|Richardson County
-31|149|Rock County
-31|151|Saline County
-31|153|Sarpy County
-31|155|Saunders County
-31|157|Scotts Bluff County
-31|159|Seward County
-31|161|Sheridan County
-31|163|Sherman County
-31|165|Sioux County
-31|167|Stanton County
-31|169|Thayer County
-31|171|Thomas County
-31|173|Thurston County
-31|175|Valley County
-31|177|Washington County
-31|179|Wayne County
-31|181|Webster County
-31|183|Wheeler County
-31|185|York County
-32|001|Churchill County
-32|003|Clark County
-32|005|Douglas County
-32|007|Elko County
-32|009|Esmeralda County
-32|011|Eureka County
-32|013|Humboldt County
-32|015|Lander County
-32|017|Lincoln County
-32|019|Lyon County
-32|021|Mineral County
-32|023|Nye County
-32|027|Pershing County
-32|029|Storey County
-32|031|Washoe County
-32|033|White Pine County
+30|001|Beaverhead
+30|003|Big Horn
+30|005|Blaine
+30|007|Broadwater
+30|009|Carbon
+30|011|Carter
+30|013|Cascade
+30|015|Chouteau
+30|017|Custer
+30|019|Daniels
+30|021|Dawson
+30|023|Deer Lodge
+30|025|Fallon
+30|027|Fergus
+30|029|Flathead
+30|031|Gallatin
+30|033|Garfield
+30|035|Glacier
+30|037|Golden Valley
+30|039|Granite
+30|041|Hill
+30|043|Jefferson
+30|045|Judith Basin
+30|047|Lake
+30|049|Lewis and Clark
+30|051|Liberty
+30|053|Lincoln
+30|055|McCone
+30|057|Madison
+30|059|Meagher
+30|061|Mineral
+30|063|Missoula
+30|065|Musselshell
+30|067|Park
+30|069|Petroleum
+30|071|Phillips
+30|073|Pondera
+30|075|Powder River
+30|077|Powell
+30|079|Prairie
+30|081|Ravalli
+30|083|Richland
+30|085|Roosevelt
+30|087|Rosebud
+30|089|Sanders
+30|091|Sheridan
+30|093|Silver Bow
+30|095|Stillwater
+30|097|Sweet Grass
+30|099|Teton
+30|101|Toole
+30|103|Treasure
+30|105|Valley
+30|107|Wheatland
+30|109|Wibaux
+30|111|Yellowstone
+31|001|Adams
+31|003|Antelope
+31|005|Arthur
+31|007|Banner
+31|009|Blaine
+31|011|Boone
+31|013|Box Butte
+31|015|Boyd
+31|017|Brown
+31|019|Buffalo
+31|021|Burt
+31|023|Butler
+31|025|Cass
+31|027|Cedar
+31|029|Chase
+31|031|Cherry
+31|033|Cheyenne
+31|035|Clay
+31|037|Colfax
+31|039|Cuming
+31|041|Custer
+31|043|Dakota
+31|045|Dawes
+31|047|Dawson
+31|049|Deuel
+31|051|Dixon
+31|053|Dodge
+31|055|Douglas
+31|057|Dundy
+31|059|Fillmore
+31|061|Franklin
+31|063|Frontier
+31|065|Furnas
+31|067|Gage
+31|069|Garden
+31|071|Garfield
+31|073|Gosper
+31|075|Grant
+31|077|Greeley
+31|079|Hall
+31|081|Hamilton
+31|083|Harlan
+31|085|Hayes
+31|087|Hitchcock
+31|089|Holt
+31|091|Hooker
+31|093|Howard
+31|095|Jefferson
+31|097|Johnson
+31|099|Kearney
+31|101|Keith
+31|103|Keya Paha
+31|105|Kimball
+31|107|Knox
+31|109|Lancaster
+31|111|Lincoln
+31|113|Logan
+31|115|Loup
+31|117|McPherson
+31|119|Madison
+31|121|Merrick
+31|123|Morrill
+31|125|Nance
+31|127|Nemaha
+31|129|Nuckolls
+31|131|Otoe
+31|133|Pawnee
+31|135|Perkins
+31|137|Phelps
+31|139|Pierce
+31|141|Platte
+31|143|Polk
+31|145|Red Willow
+31|147|Richardson
+31|149|Rock
+31|151|Saline
+31|153|Sarpy
+31|155|Saunders
+31|157|Scotts Bluff
+31|159|Seward
+31|161|Sheridan
+31|163|Sherman
+31|165|Sioux
+31|167|Stanton
+31|169|Thayer
+31|171|Thomas
+31|173|Thurston
+31|175|Valley
+31|177|Washington
+31|179|Wayne
+31|181|Webster
+31|183|Wheeler
+31|185|York
+32|001|Churchill
+32|003|Clark
+32|005|Douglas
+32|007|Elko
+32|009|Esmeralda
+32|011|Eureka
+32|013|Humboldt
+32|015|Lander
+32|017|Lincoln
+32|019|Lyon
+32|021|Mineral
+32|023|Nye
+32|027|Pershing
+32|029|Storey
+32|031|Washoe
+32|033|White Pine
 32|510|Carson City
-33|001|Belknap County
-33|003|Carroll County
-33|005|Cheshire County
-33|007|Coos County
-33|009|Grafton County
-33|011|Hillsborough County
-33|013|Merrimack County
-33|015|Rockingham County
-33|017|Strafford County
-33|019|Sullivan County
-34|001|Atlantic County
-34|003|Bergen County
-34|005|Burlington County
-34|007|Camden County
-34|009|Cape May County
-34|011|Cumberland County
-34|013|Essex County
-34|015|Gloucester County
-34|017|Hudson County
-34|019|Hunterdon County
-34|021|Mercer County
-34|023|Middlesex County
-34|025|Monmouth County
-34|027|Morris County
-34|029|Ocean County
-34|031|Passaic County
-34|033|Salem County
-34|035|Somerset County
-34|037|Sussex County
-34|039|Union County
-34|041|Warren County
-35|001|Bernalillo County
-35|003|Catron County
-35|005|Chaves County
-35|006|Cibola County
-35|007|Colfax County
-35|009|Curry County
-35|011|De Baca County
-35|013|Dona Ana County
-35|015|Eddy County
-35|017|Grant County
-35|019|Guadalupe County
-35|021|Harding County
-35|023|Hidalgo County
-35|025|Lea County
-35|027|Lincoln County
-35|028|Los Alamos County
-35|029|Luna County
-35|031|McKinley County
-35|033|Mora County
-35|035|Otero County
-35|037|Quay County
-35|039|Rio Arriba County
-35|041|Roosevelt County
-35|043|Sandoval County
-35|045|San Juan County
-35|047|San Miguel County
-35|049|Santa Fe County
-35|051|Sierra County
-35|053|Socorro County
-35|055|Taos County
-35|057|Torrance County
-35|059|Union County
-35|061|Valencia County
-36|001|Albany County
-36|003|Allegany County
-36|005|Bronx County
-36|007|Broome County
-36|009|Cattaraugus County
-36|011|Cayuga County
-36|013|Chautauqua County
-36|015|Chemung County
-36|017|Chenango County
-36|019|Clinton County
-36|021|Columbia County
-36|023|Cortland County
-36|025|Delaware County
-36|027|Dutchess County
-36|029|Erie County
-36|031|Essex County
-36|033|Franklin County
-36|035|Fulton County
-36|037|Genesee County
-36|039|Greene County
-36|041|Hamilton County
-36|043|Herkimer County
-36|045|Jefferson County
-36|047|Kings County
-36|049|Lewis County
-36|051|Livingston County
-36|053|Madison County
-36|055|Monroe County
-36|057|Montgomery County
-36|059|Nassau County
-36|061|New York County
-36|063|Niagara County
-36|065|Oneida County
-36|067|Onondaga County
-36|069|Ontario County
-36|071|Orange County
-36|073|Orleans County
-36|075|Oswego County
-36|077|Otsego County
-36|079|Putnam County
-36|081|Queens County
-36|083|Rensselaer County
-36|085|Richmond County
-36|087|Rockland County
-36|089|St. Lawrence County
-36|091|Saratoga County
-36|093|Schenectady County
-36|095|Schoharie County
-36|097|Schuyler County
-36|099|Seneca County
-36|101|Steuben County
-36|103|Suffolk County
-36|105|Sullivan County
-36|107|Tioga County
-36|109|Tompkins County
-36|111|Ulster County
-36|113|Warren County
-36|115|Washington County
-36|117|Wayne County
-36|119|Westchester County
-36|121|Wyoming County
-36|123|Yates County
-37|001|Alamance County
-37|003|Alexander County
-37|005|Alleghany County
-37|007|Anson County
-37|009|Ashe County
-37|011|Avery County
-37|013|Beaufort County
-37|015|Bertie County
-37|017|Bladen County
-37|019|Brunswick County
-37|021|Buncombe County
-37|023|Burke County
-37|025|Cabarrus County
-37|027|Caldwell County
-37|029|Camden County
-37|031|Carteret County
-37|033|Caswell County
-37|035|Catawba County
-37|037|Chatham County
-37|039|Cherokee County
-37|041|Chowan County
-37|043|Clay County
-37|045|Cleveland County
-37|047|Columbus County
-37|049|Craven County
-37|051|Cumberland County
-37|053|Currituck County
-37|055|Dare County
-37|057|Davidson County
-37|059|Davie County
-37|061|Duplin County
-37|063|Durham County
-37|065|Edgecombe County
-37|067|Forsyth County
-37|069|Franklin County
-37|071|Gaston County
-37|073|Gates County
-37|075|Graham County
-37|077|Granville County
-37|079|Greene County
-37|081|Guilford County
-37|083|Halifax County
-37|085|Harnett County
-37|087|Haywood County
-37|089|Henderson County
-37|091|Hertford County
-37|093|Hoke County
-37|095|Hyde County
-37|097|Iredell County
-37|099|Jackson County
-37|101|Johnston County
-37|103|Jones County
-37|105|Lee County
-37|107|Lenoir County
-37|109|Lincoln County
-37|111|McDowell County
-37|113|Macon County
-37|115|Madison County
-37|117|Martin County
-37|119|Mecklenburg County
-37|121|Mitchell County
-37|123|Montgomery County
-37|125|Moore County
-37|127|Nash County
-37|129|New Hanover County
-37|131|Northampton County
-37|133|Onslow County
-37|135|Orange County
-37|137|Pamlico County
-37|139|Pasquotank County
-37|141|Pender County
-37|143|Perquimans County
-37|145|Person County
-37|147|Pitt County
-37|149|Polk County
-37|151|Randolph County
-37|153|Richmond County
-37|155|Robeson County
-37|157|Rockingham County
-37|159|Rowan County
-37|161|Rutherford County
-37|163|Sampson County
-37|165|Scotland County
-37|167|Stanly County
-37|169|Stokes County
-37|171|Surry County
-37|173|Swain County
-37|175|Transylvania County
-37|177|Tyrrell County
-37|179|Union County
-37|181|Vance County
-37|183|Wake County
-37|185|Warren County
-37|187|Washington County
-37|189|Watauga County
-37|191|Wayne County
-37|193|Wilkes County
-37|195|Wilson County
-37|197|Yadkin County
-37|199|Yancey County
-38|001|Adams County
-38|003|Barnes County
-38|005|Benson County
-38|007|Billings County
-38|009|Bottineau County
-38|011|Bowman County
-38|013|Burke County
-38|015|Burleigh County
-38|017|Cass County
-38|019|Cavalier County
-38|021|Dickey County
-38|023|Divide County
-38|025|Dunn County
-38|027|Eddy County
-38|029|Emmons County
-38|031|Foster County
-38|033|Golden Valley County
-38|035|Grand Forks County
-38|037|Grant County
-38|039|Griggs County
-38|041|Hettinger County
-38|043|Kidder County
-38|045|LaMoure County
-38|047|Logan County
-38|049|McHenry County
-38|051|McIntosh County
-38|053|McKenzie County
-38|055|McLean County
-38|057|Mercer County
-38|059|Morton County
-38|061|Mountrail County
-38|063|Nelson County
-38|065|Oliver County
-38|067|Pembina County
-38|069|Pierce County
-38|071|Ramsey County
-38|073|Ransom County
-38|075|Renville County
-38|077|Richland County
-38|079|Rolette County
-38|081|Sargent County
-38|083|Sheridan County
-38|085|Sioux County
-38|087|Slope County
-38|089|Stark County
-38|091|Steele County
-38|093|Stutsman County
-38|095|Towner County
-38|097|Traill County
-38|099|Walsh County
-38|101|Ward County
-38|103|Wells County
-38|105|Williams County
-39|001|Adams County
-39|003|Allen County
-39|005|Ashland County
-39|007|Ashtabula County
-39|009|Athens County
-39|011|Auglaize County
-39|013|Belmont County
-39|015|Brown County
-39|017|Butler County
-39|019|Carroll County
-39|021|Champaign County
-39|023|Clark County
-39|025|Clermont County
-39|027|Clinton County
-39|029|Columbiana County
-39|031|Coshocton County
-39|033|Crawford County
-39|035|Cuyahoga County
-39|037|Darke County
-39|039|Defiance County
-39|041|Delaware County
-39|043|Erie County
-39|045|Fairfield County
-39|047|Fayette County
-39|049|Franklin County
-39|051|Fulton County
-39|053|Gallia County
-39|055|Geauga County
-39|057|Greene County
-39|059|Guernsey County
-39|061|Hamilton County
-39|063|Hancock County
-39|065|Hardin County
-39|067|Harrison County
-39|069|Henry County
-39|071|Highland County
-39|073|Hocking County
-39|075|Holmes County
-39|077|Huron County
-39|079|Jackson County
-39|081|Jefferson County
-39|083|Knox County
-39|085|Lake County
-39|087|Lawrence County
-39|089|Licking County
-39|091|Logan County
-39|093|Lorain County
-39|095|Lucas County
-39|097|Madison County
-39|099|Mahoning County
-39|101|Marion County
-39|103|Medina County
-39|105|Meigs County
-39|107|Mercer County
-39|109|Miami County
-39|111|Monroe County
-39|113|Montgomery County
-39|115|Morgan County
-39|117|Morrow County
-39|119|Muskingum County
-39|121|Noble County
-39|123|Ottawa County
-39|125|Paulding County
-39|127|Perry County
-39|129|Pickaway County
-39|131|Pike County
-39|133|Portage County
-39|135|Preble County
-39|137|Putnam County
-39|139|Richland County
-39|141|Ross County
-39|143|Sandusky County
-39|145|Scioto County
-39|147|Seneca County
-39|149|Shelby County
-39|151|Stark County
-39|153|Summit County
-39|155|Trumbull County
-39|157|Tuscarawas County
-39|159|Union County
-39|161|Van Wert County
-39|163|Vinton County
-39|165|Warren County
-39|167|Washington County
-39|169|Wayne County
-39|171|Williams County
-39|173|Wood County
-39|175|Wyandot County
-40|001|Adair County
-40|003|Alfalfa County
-40|005|Atoka County
-40|007|Beaver County
-40|009|Beckham County
-40|011|Blaine County
-40|013|Bryan County
-40|015|Caddo County
-40|017|Canadian County
-40|019|Carter County
-40|021|Cherokee County
-40|023|Choctaw County
-40|025|Cimarron County
-40|027|Cleveland County
-40|029|Coal County
-40|031|Comanche County
-40|033|Cotton County
-40|035|Craig County
-40|037|Creek County
-40|039|Custer County
-40|041|Delaware County
-40|043|Dewey County
-40|045|Ellis County
-40|047|Garfield County
-40|049|Garvin County
-40|051|Grady County
-40|053|Grant County
-40|055|Greer County
-40|057|Harmon County
-40|059|Harper County
-40|061|Haskell County
-40|063|Hughes County
-40|065|Jackson County
-40|067|Jefferson County
-40|069|Johnston County
-40|071|Kay County
-40|073|Kingfisher County
-40|075|Kiowa County
-40|077|Latimer County
-40|079|Le Flore County
-40|081|Lincoln County
-40|083|Logan County
-40|085|Love County
-40|087|McClain County
-40|089|McCurtain County
-40|091|McIntosh County
-40|093|Major County
-40|095|Marshall County
-40|097|Mayes County
-40|099|Murray County
-40|101|Muskogee County
-40|103|Noble County
-40|105|Nowata County
-40|107|Okfuskee County
-40|109|Oklahoma County
-40|111|Okmulgee County
-40|113|Osage County
-40|115|Ottawa County
-40|117|Pawnee County
-40|119|Payne County
-40|121|Pittsburg County
-40|123|Pontotoc County
-40|125|Pottawatomie County
-40|127|Pushmataha County
-40|129|Roger Mills County
-40|131|Rogers County
-40|133|Seminole County
-40|135|Sequoyah County
-40|137|Stephens County
-40|139|Texas County
-40|141|Tillman County
-40|143|Tulsa County
-40|145|Wagoner County
-40|147|Washington County
-40|149|Washita County
-40|151|Woods County
-40|153|Woodward County
-41|001|Baker County
-41|003|Benton County
-41|005|Clackamas County
-41|007|Clatsop County
-41|009|Columbia County
-41|011|Coos County
-41|013|Crook County
-41|015|Curry County
-41|017|Deschutes County
-41|019|Douglas County
-41|021|Gilliam County
-41|023|Grant County
-41|025|Harney County
-41|027|Hood River County
-41|029|Jackson County
-41|031|Jefferson County
-41|033|Josephine County
-41|035|Klamath County
-41|037|Lake County
-41|039|Lane County
-41|041|Lincoln County
-41|043|Linn County
-41|045|Malheur County
-41|047|Marion County
-41|049|Morrow County
-41|051|Multnomah County
-41|053|Polk County
-41|055|Sherman County
-41|057|Tillamook County
-41|059|Umatilla County
-41|061|Union County
-41|063|Wallowa County
-41|065|Wasco County
-41|067|Washington County
-41|069|Wheeler County
-41|071|Yamhill County
-42|001|Adams County
-42|003|Allegheny County
-42|005|Armstrong County
-42|007|Beaver County
-42|009|Bedford County
-42|011|Berks County
-42|013|Blair County
-42|015|Bradford County
-42|017|Bucks County
-42|019|Butler County
-42|021|Cambria County
-42|023|Cameron County
-42|025|Carbon County
-42|027|Centre County
-42|029|Chester County
-42|031|Clarion County
-42|033|Clearfield County
-42|035|Clinton County
-42|037|Columbia County
-42|039|Crawford County
-42|041|Cumberland County
-42|043|Dauphin County
-42|045|Delaware County
-42|047|Elk County
-42|049|Erie County
-42|051|Fayette County
-42|053|Forest County
-42|055|Franklin County
-42|057|Fulton County
-42|059|Greene County
-42|061|Huntingdon County
-42|063|Indiana County
-42|065|Jefferson County
-42|067|Juniata County
-42|069|Lackawanna County
-42|071|Lancaster County
-42|073|Lawrence County
-42|075|Lebanon County
-42|077|Lehigh County
-42|079|Luzerne County
-42|081|Lycoming County
-42|083|McKean County
-42|085|Mercer County
-42|087|Mifflin County
-42|089|Monroe County
-42|091|Montgomery County
-42|093|Montour County
-42|095|Northampton County
-42|097|Northumberland County
-42|099|Perry County
-42|101|Philadelphia County
-42|103|Pike County
-42|105|Potter County
-42|107|Schuylkill County
-42|109|Snyder County
-42|111|Somerset County
-42|113|Sullivan County
-42|115|Susquehanna County
-42|117|Tioga County
-42|119|Union County
-42|121|Venango County
-42|123|Warren County
-42|125|Washington County
-42|127|Wayne County
-42|129|Westmoreland County
-42|131|Wyoming County
-42|133|York County
-44|001|Bristol County
-44|003|Kent County
-44|005|Newport County
-44|007|Providence County
-44|009|Washington County
-45|001|Abbeville County
-45|003|Aiken County
-45|005|Allendale County
-45|007|Anderson County
-45|009|Bamberg County
-45|011|Barnwell County
-45|013|Beaufort County
-45|015|Berkeley County
-45|017|Calhoun County
-45|019|Charleston County
-45|021|Cherokee County
-45|023|Chester County
-45|025|Chesterfield County
-45|027|Clarendon County
-45|029|Colleton County
-45|031|Darlington County
-45|033|Dillon County
-45|035|Dorchester County
-45|037|Edgefield County
-45|039|Fairfield County
-45|041|Florence County
-45|043|Georgetown County
-45|045|Greenville County
-45|047|Greenwood County
-45|049|Hampton County
-45|051|Horry County
-45|053|Jasper County
-45|055|Kershaw County
-45|057|Lancaster County
-45|059|Laurens County
-45|061|Lee County
-45|063|Lexington County
-45|065|McCormick County
-45|067|Marion County
-45|069|Marlboro County
-45|071|Newberry County
-45|073|Oconee County
-45|075|Orangeburg County
-45|077|Pickens County
-45|079|Richland County
-45|081|Saluda County
-45|083|Spartanburg County
-45|085|Sumter County
-45|087|Union County
-45|089|Williamsburg County
-45|091|York County
-46|003|Aurora County
-46|005|Beadle County
-46|007|Bennett County
-46|009|Bon Homme County
-46|011|Brookings County
-46|013|Brown County
-46|015|Brule County
-46|017|Buffalo County
-46|019|Butte County
-46|021|Campbell County
-46|023|Charles Mix County
-46|025|Clark County
-46|027|Clay County
-46|029|Codington County
-46|031|Corson County
-46|033|Custer County
-46|035|Davison County
-46|037|Day County
-46|039|Deuel County
-46|041|Dewey County
-46|043|Douglas County
-46|045|Edmunds County
-46|047|Fall River County
-46|049|Faulk County
-46|051|Grant County
-46|053|Gregory County
-46|055|Haakon County
-46|057|Hamlin County
-46|059|Hand County
-46|061|Hanson County
-46|063|Harding County
-46|065|Hughes County
-46|067|Hutchinson County
-46|069|Hyde County
-46|071|Jackson County
-46|073|Jerauld County
-46|075|Jones County
-46|077|Kingsbury County
-46|079|Lake County
-46|081|Lawrence County
-46|083|Lincoln County
-46|085|Lyman County
-46|087|McCook County
-46|089|McPherson County
-46|091|Marshall County
-46|093|Meade County
-46|095|Mellette County
-46|097|Miner County
-46|099|Minnehaha County
-46|101|Moody County
-46|103|Pennington County
-46|105|Perkins County
-46|107|Potter County
-46|109|Roberts County
-46|111|Sanborn County
-46|113|Shannon County
-46|115|Spink County
-46|117|Stanley County
-46|119|Sully County
-46|121|Todd County
-46|123|Tripp County
-46|125|Turner County
-46|127|Union County
-46|129|Walworth County
-46|135|Yankton County
-46|137|Ziebach County
-47|001|Anderson County
-47|003|Bedford County
-47|005|Benton County
-47|007|Bledsoe County
-47|009|Blount County
-47|011|Bradley County
-47|013|Campbell County
-47|015|Cannon County
-47|017|Carroll County
-47|019|Carter County
-47|021|Cheatham County
-47|023|Chester County
-47|025|Claiborne County
-47|027|Clay County
-47|029|Cocke County
-47|031|Coffee County
-47|033|Crockett County
-47|035|Cumberland County
-47|037|Davidson County
-47|039|Decatur County
-47|041|DeKalb County
-47|043|Dickson County
-47|045|Dyer County
-47|047|Fayette County
-47|049|Fentress County
-47|051|Franklin County
-47|053|Gibson County
-47|055|Giles County
-47|057|Grainger County
-47|059|Greene County
-47|061|Grundy County
-47|063|Hamblen County
-47|065|Hamilton County
-47|067|Hancock County
-47|069|Hardeman County
-47|071|Hardin County
-47|073|Hawkins County
-47|075|Haywood County
-47|077|Henderson County
-47|079|Henry County
-47|081|Hickman County
-47|083|Houston County
-47|085|Humphreys County
-47|087|Jackson County
-47|089|Jefferson County
-47|091|Johnson County
-47|093|Knox County
-47|095|Lake County
-47|097|Lauderdale County
-47|099|Lawrence County
-47|101|Lewis County
-47|103|Lincoln County
-47|105|Loudon County
-47|107|McMinn County
-47|109|McNairy County
-47|111|Macon County
-47|113|Madison County
-47|115|Marion County
-47|117|Marshall County
-47|119|Maury County
-47|121|Meigs County
-47|123|Monroe County
-47|125|Montgomery County
-47|127|Moore County
-47|129|Morgan County
-47|131|Obion County
-47|133|Overton County
-47|135|Perry County
-47|137|Pickett County
-47|139|Polk County
-47|141|Putnam County
-47|143|Rhea County
-47|145|Roane County
-47|147|Robertson County
-47|149|Rutherford County
-47|151|Scott County
-47|153|Sequatchie County
-47|155|Sevier County
-47|157|Shelby County
-47|159|Smith County
-47|161|Stewart County
-47|163|Sullivan County
-47|165|Sumner County
-47|167|Tipton County
-47|169|Trousdale County
-47|171|Unicoi County
-47|173|Union County
-47|175|Van Buren County
-47|177|Warren County
-47|179|Washington County
-47|181|Wayne County
-47|183|Weakley County
-47|185|White County
-47|187|Williamson County
-47|189|Wilson County
-48|001|Anderson County
-48|003|Andrews County
-48|005|Angelina County
-48|007|Aransas County
-48|009|Archer County
-48|011|Armstrong County
-48|013|Atascosa County
-48|015|Austin County
-48|017|Bailey County
-48|019|Bandera County
-48|021|Bastrop County
-48|023|Baylor County
-48|025|Bee County
-48|027|Bell County
-48|029|Bexar County
-48|031|Blanco County
-48|033|Borden County
-48|035|Bosque County
-48|037|Bowie County
-48|039|Brazoria County
-48|041|Brazos County
-48|043|Brewster County
-48|045|Briscoe County
-48|047|Brooks County
-48|049|Brown County
-48|051|Burleson County
-48|053|Burnet County
-48|055|Caldwell County
-48|057|Calhoun County
-48|059|Callahan County
-48|061|Cameron County
-48|063|Camp County
-48|065|Carson County
-48|067|Cass County
-48|069|Castro County
-48|071|Chambers County
-48|073|Cherokee County
-48|075|Childress County
-48|077|Clay County
-48|079|Cochran County
-48|081|Coke County
-48|083|Coleman County
-48|085|Collin County
-48|087|Collingsworth County
-48|089|Colorado County
-48|091|Comal County
-48|093|Comanche County
-48|095|Concho County
-48|097|Cooke County
-48|099|Coryell County
-48|101|Cottle County
-48|103|Crane County
-48|105|Crockett County
-48|107|Crosby County
-48|109|Culberson County
-48|111|Dallam County
-48|113|Dallas County
-48|115|Dawson County
-48|117|Deaf Smith County
-48|119|Delta County
-48|121|Denton County
-48|123|DeWitt County
-48|125|Dickens County
-48|127|Dimmit County
-48|129|Donley County
-48|131|Duval County
-48|133|Eastland County
-48|135|Ector County
-48|137|Edwards County
-48|139|Ellis County
-48|141|El Paso County
-48|143|Erath County
-48|145|Falls County
-48|147|Fannin County
-48|149|Fayette County
-48|151|Fisher County
-48|153|Floyd County
-48|155|Foard County
-48|157|Fort Bend County
-48|159|Franklin County
-48|161|Freestone County
-48|163|Frio County
-48|165|Gaines County
-48|167|Galveston County
-48|169|Garza County
-48|171|Gillespie County
-48|173|Glasscock County
-48|175|Goliad County
-48|177|Gonzales County
-48|179|Gray County
-48|181|Grayson County
-48|183|Gregg County
-48|185|Grimes County
-48|187|Guadalupe County
-48|189|Hale County
-48|191|Hall County
-48|193|Hamilton County
-48|195|Hansford County
-48|197|Hardeman County
-48|199|Hardin County
-48|201|Harris County
-48|203|Harrison County
-48|205|Hartley County
-48|207|Haskell County
-48|209|Hays County
-48|211|Hemphill County
-48|213|Henderson County
-48|215|Hidalgo County
-48|217|Hill County
-48|219|Hockley County
-48|221|Hood County
-48|223|Hopkins County
-48|225|Houston County
-48|227|Howard County
-48|229|Hudspeth County
-48|231|Hunt County
-48|233|Hutchinson County
-48|235|Irion County
-48|237|Jack County
-48|239|Jackson County
-48|241|Jasper County
-48|243|Jeff Davis County
-48|245|Jefferson County
-48|247|Jim Hogg County
-48|249|Jim Wells County
-48|251|Johnson County
-48|253|Jones County
-48|255|Karnes County
-48|257|Kaufman County
-48|259|Kendall County
-48|261|Kenedy County
-48|263|Kent County
-48|265|Kerr County
-48|267|Kimble County
-48|269|King County
-48|271|Kinney County
-48|273|Kleberg County
-48|275|Knox County
-48|277|Lamar County
-48|279|Lamb County
-48|281|Lampasas County
-48|283|La Salle County
-48|285|Lavaca County
-48|287|Lee County
-48|289|Leon County
-48|291|Liberty County
-48|293|Limestone County
-48|295|Lipscomb County
-48|297|Live Oak County
-48|299|Llano County
-48|301|Loving County
-48|303|Lubbock County
-48|305|Lynn County
-48|307|McCulloch County
-48|309|McLennan County
-48|311|McMullen County
-48|313|Madison County
-48|315|Marion County
-48|317|Martin County
-48|319|Mason County
-48|321|Matagorda County
-48|323|Maverick County
-48|325|Medina County
-48|327|Menard County
-48|329|Midland County
-48|331|Milam County
-48|333|Mills County
-48|335|Mitchell County
-48|337|Montague County
-48|339|Montgomery County
-48|341|Moore County
-48|343|Morris County
-48|345|Motley County
-48|347|Nacogdoches County
-48|349|Navarro County
-48|351|Newton County
-48|353|Nolan County
-48|355|Nueces County
-48|357|Ochiltree County
-48|359|Oldham County
-48|361|Orange County
-48|363|Palo Pinto County
-48|365|Panola County
-48|367|Parker County
-48|369|Parmer County
-48|371|Pecos County
-48|373|Polk County
-48|375|Potter County
-48|377|Presidio County
-48|379|Rains County
-48|381|Randall County
-48|383|Reagan County
-48|385|Real County
-48|387|Red River County
-48|389|Reeves County
-48|391|Refugio County
-48|393|Roberts County
-48|395|Robertson County
-48|397|Rockwall County
-48|399|Runnels County
-48|401|Rusk County
-48|403|Sabine County
-48|405|San Augustine County
-48|407|San Jacinto County
-48|409|San Patricio County
-48|411|San Saba County
-48|413|Schleicher County
-48|415|Scurry County
-48|417|Shackelford County
-48|419|Shelby County
-48|421|Sherman County
-48|423|Smith County
-48|425|Somervell County
-48|427|Starr County
-48|429|Stephens County
-48|431|Sterling County
-48|433|Stonewall County
-48|435|Sutton County
-48|437|Swisher County
-48|439|Tarrant County
-48|441|Taylor County
-48|443|Terrell County
-48|445|Terry County
-48|447|Throckmorton County
-48|449|Titus County
-48|451|Tom Green County
-48|453|Travis County
-48|455|Trinity County
-48|457|Tyler County
-48|459|Upshur County
-48|461|Upton County
-48|463|Uvalde County
-48|465|Val Verde County
-48|467|Van Zandt County
-48|469|Victoria County
-48|471|Walker County
-48|473|Waller County
-48|475|Ward County
-48|477|Washington County
-48|479|Webb County
-48|481|Wharton County
-48|483|Wheeler County
-48|485|Wichita County
-48|487|Wilbarger County
-48|489|Willacy County
-48|491|Williamson County
-48|493|Wilson County
-48|495|Winkler County
-48|497|Wise County
-48|499|Wood County
-48|501|Yoakum County
-48|503|Young County
-48|505|Zapata County
-48|507|Zavala County
-49|001|Beaver County
-49|003|Box Elder County
-49|005|Cache County
-49|007|Carbon County
-49|009|Daggett County
-49|011|Davis County
-49|013|Duchesne County
-49|015|Emery County
-49|017|Garfield County
-49|019|Grand County
-49|021|Iron County
-49|023|Juab County
-49|025|Kane County
-49|027|Millard County
-49|029|Morgan County
-49|031|Piute County
-49|033|Rich County
-49|035|Salt Lake County
-49|037|San Juan County
-49|039|Sanpete County
-49|041|Sevier County
-49|043|Summit County
-49|045|Tooele County
-49|047|Uintah County
-49|049|Utah County
-49|051|Wasatch County
-49|053|Washington County
-49|055|Wayne County
-49|057|Weber County
-50|001|Addison County
-50|003|Bennington County
-50|005|Caledonia County
-50|007|Chittenden County
-50|009|Essex County
-50|011|Franklin County
-50|013|Grand Isle County
-50|015|Lamoille County
-50|017|Orange County
-50|019|Orleans County
-50|021|Rutland County
-50|023|Washington County
-50|025|Windham County
-50|027|Windsor County
-51|001|Accomack County
-51|003|Albemarle County
-51|005|Alleghany County
-51|007|Amelia County
-51|009|Amherst County
-51|011|Appomattox County
-51|013|Arlington County
-51|015|Augusta County
-51|017|Bath County
-51|019|Bedford County
-51|021|Bland County
-51|023|Botetourt County
-51|025|Brunswick County
-51|027|Buchanan County
-51|029|Buckingham County
-51|031|Campbell County
-51|033|Caroline County
-51|035|Carroll County
-51|036|Charles City County
-51|037|Charlotte County
-51|041|Chesterfield County
-51|043|Clarke County
-51|045|Craig County
-51|047|Culpeper County
-51|049|Cumberland County
-51|051|Dickenson County
-51|053|Dinwiddie County
-51|057|Essex County
-51|059|Fairfax County
-51|061|Fauquier County
-51|063|Floyd County
-51|065|Fluvanna County
-51|067|Franklin County
-51|069|Frederick County
-51|071|Giles County
-51|073|Gloucester County
-51|075|Goochland County
-51|077|Grayson County
-51|079|Greene County
-51|081|Greensville County
-51|083|Halifax County
-51|085|Hanover County
-51|087|Henrico County
-51|089|Henry County
-51|091|Highland County
-51|093|Isle of Wight County
-51|095|James City County
-51|097|King and Queen County
-51|099|King George County
-51|101|King William County
-51|103|Lancaster County
-51|105|Lee County
-51|107|Loudoun County
-51|109|Louisa County
-51|111|Lunenburg County
-51|113|Madison County
-51|115|Mathews County
-51|117|Mecklenburg County
-51|119|Middlesex County
-51|121|Montgomery County
-51|125|Nelson County
-51|127|New Kent County
-51|131|Northampton County
-51|133|Northumberland County
-51|135|Nottoway County
-51|137|Orange County
-51|139|Page County
-51|141|Patrick County
-51|143|Pittsylvania County
-51|145|Powhatan County
-51|147|Prince Edward County
-51|149|Prince George County
-51|153|Prince William County
-51|155|Pulaski County
-51|157|Rappahannock County
-51|159|Richmond County
-51|161|Roanoke County
-51|163|Rockbridge County
-51|165|Rockingham County
-51|167|Russell County
-51|169|Scott County
-51|171|Shenandoah County
-51|173|Smyth County
-51|175|Southampton County
-51|177|Spotsylvania County
-51|179|Stafford County
-51|181|Surry County
-51|183|Sussex County
-51|185|Tazewell County
-51|187|Warren County
-51|191|Washington County
-51|193|Westmoreland County
-51|195|Wise County
-51|197|Wythe County
-51|199|York County
+33|001|Belknap
+33|003|Carroll
+33|005|Cheshire
+33|007|Coos
+33|009|Grafton
+33|011|Hillsborough
+33|013|Merrimack
+33|015|Rockingham
+33|017|Strafford
+33|019|Sullivan
+34|001|Atlantic
+34|003|Bergen
+34|005|Burlington
+34|007|Camden
+34|009|Cape May
+34|011|Cumberland
+34|013|Essex
+34|015|Gloucester
+34|017|Hudson
+34|019|Hunterdon
+34|021|Mercer
+34|023|Middlesex
+34|025|Monmouth
+34|027|Morris
+34|029|Ocean
+34|031|Passaic
+34|033|Salem
+34|035|Somerset
+34|037|Sussex
+34|039|Union
+34|041|Warren
+35|001|Bernalillo
+35|003|Catron
+35|005|Chaves
+35|006|Cibola
+35|007|Colfax
+35|009|Curry
+35|011|De Baca
+35|013|Dona Ana
+35|015|Eddy
+35|017|Grant
+35|019|Guadalupe
+35|021|Harding
+35|023|Hidalgo
+35|025|Lea
+35|027|Lincoln
+35|028|Los Alamos
+35|029|Luna
+35|031|McKinley
+35|033|Mora
+35|035|Otero
+35|037|Quay
+35|039|Rio Arriba
+35|041|Roosevelt
+35|043|Sandoval
+35|045|San Juan
+35|047|San Miguel
+35|049|Santa Fe
+35|051|Sierra
+35|053|Socorro
+35|055|Taos
+35|057|Torrance
+35|059|Union
+35|061|Valencia
+36|001|Albany
+36|003|Allegany
+36|005|Bronx
+36|007|Broome
+36|009|Cattaraugus
+36|011|Cayuga
+36|013|Chautauqua
+36|015|Chemung
+36|017|Chenango
+36|019|Clinton
+36|021|Columbia
+36|023|Cortland
+36|025|Delaware
+36|027|Dutchess
+36|029|Erie
+36|031|Essex
+36|033|Franklin
+36|035|Fulton
+36|037|Genesee
+36|039|Greene
+36|041|Hamilton
+36|043|Herkimer
+36|045|Jefferson
+36|047|Kings
+36|049|Lewis
+36|051|Livingston
+36|053|Madison
+36|055|Monroe
+36|057|Montgomery
+36|059|Nassau
+36|061|New York
+36|063|Niagara
+36|065|Oneida
+36|067|Onondaga
+36|069|Ontario
+36|071|Orange
+36|073|Orleans
+36|075|Oswego
+36|077|Otsego
+36|079|Putnam
+36|081|Queens
+36|083|Rensselaer
+36|085|Richmond
+36|087|Rockland
+36|089|St. Lawrence
+36|091|Saratoga
+36|093|Schenectady
+36|095|Schoharie
+36|097|Schuyler
+36|099|Seneca
+36|101|Steuben
+36|103|Suffolk
+36|105|Sullivan
+36|107|Tioga
+36|109|Tompkins
+36|111|Ulster
+36|113|Warren
+36|115|Washington
+36|117|Wayne
+36|119|Westchester
+36|121|Wyoming
+36|123|Yates
+37|001|Alamance
+37|003|Alexander
+37|005|Alleghany
+37|007|Anson
+37|009|Ashe
+37|011|Avery
+37|013|Beaufort
+37|015|Bertie
+37|017|Bladen
+37|019|Brunswick
+37|021|Buncombe
+37|023|Burke
+37|025|Cabarrus
+37|027|Caldwell
+37|029|Camden
+37|031|Carteret
+37|033|Caswell
+37|035|Catawba
+37|037|Chatham
+37|039|Cherokee
+37|041|Chowan
+37|043|Clay
+37|045|Cleveland
+37|047|Columbus
+37|049|Craven
+37|051|Cumberland
+37|053|Currituck
+37|055|Dare
+37|057|Davidson
+37|059|Davie
+37|061|Duplin
+37|063|Durham
+37|065|Edgecombe
+37|067|Forsyth
+37|069|Franklin
+37|071|Gaston
+37|073|Gates
+37|075|Graham
+37|077|Granville
+37|079|Greene
+37|081|Guilford
+37|083|Halifax
+37|085|Harnett
+37|087|Haywood
+37|089|Henderson
+37|091|Hertford
+37|093|Hoke
+37|095|Hyde
+37|097|Iredell
+37|099|Jackson
+37|101|Johnston
+37|103|Jones
+37|105|Lee
+37|107|Lenoir
+37|109|Lincoln
+37|111|McDowell
+37|113|Macon
+37|115|Madison
+37|117|Martin
+37|119|Mecklenburg
+37|121|Mitchell
+37|123|Montgomery
+37|125|Moore
+37|127|Nash
+37|129|New Hanover
+37|131|Northampton
+37|133|Onslow
+37|135|Orange
+37|137|Pamlico
+37|139|Pasquotank
+37|141|Pender
+37|143|Perquimans
+37|145|Person
+37|147|Pitt
+37|149|Polk
+37|151|Randolph
+37|153|Richmond
+37|155|Robeson
+37|157|Rockingham
+37|159|Rowan
+37|161|Rutherford
+37|163|Sampson
+37|165|Scotland
+37|167|Stanly
+37|169|Stokes
+37|171|Surry
+37|173|Swain
+37|175|Transylvania
+37|177|Tyrrell
+37|179|Union
+37|181|Vance
+37|183|Wake
+37|185|Warren
+37|187|Washington
+37|189|Watauga
+37|191|Wayne
+37|193|Wilkes
+37|195|Wilson
+37|197|Yadkin
+37|199|Yancey
+38|001|Adams
+38|003|Barnes
+38|005|Benson
+38|007|Billings
+38|009|Bottineau
+38|011|Bowman
+38|013|Burke
+38|015|Burleigh
+38|017|Cass
+38|019|Cavalier
+38|021|Dickey
+38|023|Divide
+38|025|Dunn
+38|027|Eddy
+38|029|Emmons
+38|031|Foster
+38|033|Golden Valley
+38|035|Grand Forks
+38|037|Grant
+38|039|Griggs
+38|041|Hettinger
+38|043|Kidder
+38|045|LaMoure
+38|047|Logan
+38|049|McHenry
+38|051|McIntosh
+38|053|McKenzie
+38|055|McLean
+38|057|Mercer
+38|059|Morton
+38|061|Mountrail
+38|063|Nelson
+38|065|Oliver
+38|067|Pembina
+38|069|Pierce
+38|071|Ramsey
+38|073|Ransom
+38|075|Renville
+38|077|Richland
+38|079|Rolette
+38|081|Sargent
+38|083|Sheridan
+38|085|Sioux
+38|087|Slope
+38|089|Stark
+38|091|Steele
+38|093|Stutsman
+38|095|Towner
+38|097|Traill
+38|099|Walsh
+38|101|Ward
+38|103|Wells
+38|105|Williams
+39|001|Adams
+39|003|Allen
+39|005|Ashland
+39|007|Ashtabula
+39|009|Athens
+39|011|Auglaize
+39|013|Belmont
+39|015|Brown
+39|017|Butler
+39|019|Carroll
+39|021|Champaign
+39|023|Clark
+39|025|Clermont
+39|027|Clinton
+39|029|Columbiana
+39|031|Coshocton
+39|033|Crawford
+39|035|Cuyahoga
+39|037|Darke
+39|039|Defiance
+39|041|Delaware
+39|043|Erie
+39|045|Fairfield
+39|047|Fayette
+39|049|Franklin
+39|051|Fulton
+39|053|Gallia
+39|055|Geauga
+39|057|Greene
+39|059|Guernsey
+39|061|Hamilton
+39|063|Hancock
+39|065|Hardin
+39|067|Harrison
+39|069|Henry
+39|071|Highland
+39|073|Hocking
+39|075|Holmes
+39|077|Huron
+39|079|Jackson
+39|081|Jefferson
+39|083|Knox
+39|085|Lake
+39|087|Lawrence
+39|089|Licking
+39|091|Logan
+39|093|Lorain
+39|095|Lucas
+39|097|Madison
+39|099|Mahoning
+39|101|Marion
+39|103|Medina
+39|105|Meigs
+39|107|Mercer
+39|109|Miami
+39|111|Monroe
+39|113|Montgomery
+39|115|Morgan
+39|117|Morrow
+39|119|Muskingum
+39|121|Noble
+39|123|Ottawa
+39|125|Paulding
+39|127|Perry
+39|129|Pickaway
+39|131|Pike
+39|133|Portage
+39|135|Preble
+39|137|Putnam
+39|139|Richland
+39|141|Ross
+39|143|Sandusky
+39|145|Scioto
+39|147|Seneca
+39|149|Shelby
+39|151|Stark
+39|153|Summit
+39|155|Trumbull
+39|157|Tuscarawas
+39|159|Union
+39|161|Van Wert
+39|163|Vinton
+39|165|Warren
+39|167|Washington
+39|169|Wayne
+39|171|Williams
+39|173|Wood
+39|175|Wyandot
+40|001|Adair
+40|003|Alfalfa
+40|005|Atoka
+40|007|Beaver
+40|009|Beckham
+40|011|Blaine
+40|013|Bryan
+40|015|Caddo
+40|017|Canadian
+40|019|Carter
+40|021|Cherokee
+40|023|Choctaw
+40|025|Cimarron
+40|027|Cleveland
+40|029|Coal
+40|031|Comanche
+40|033|Cotton
+40|035|Craig
+40|037|Creek
+40|039|Custer
+40|041|Delaware
+40|043|Dewey
+40|045|Ellis
+40|047|Garfield
+40|049|Garvin
+40|051|Grady
+40|053|Grant
+40|055|Greer
+40|057|Harmon
+40|059|Harper
+40|061|Haskell
+40|063|Hughes
+40|065|Jackson
+40|067|Jefferson
+40|069|Johnston
+40|071|Kay
+40|073|Kingfisher
+40|075|Kiowa
+40|077|Latimer
+40|079|Le Flore
+40|081|Lincoln
+40|083|Logan
+40|085|Love
+40|087|McClain
+40|089|McCurtain
+40|091|McIntosh
+40|093|Major
+40|095|Marshall
+40|097|Mayes
+40|099|Murray
+40|101|Muskogee
+40|103|Noble
+40|105|Nowata
+40|107|Okfuskee
+40|109|Oklahoma
+40|111|Okmulgee
+40|113|Osage
+40|115|Ottawa
+40|117|Pawnee
+40|119|Payne
+40|121|Pittsburg
+40|123|Pontotoc
+40|125|Pottawatomie
+40|127|Pushmataha
+40|129|Roger Mills
+40|131|Rogers
+40|133|Seminole
+40|135|Sequoyah
+40|137|Stephens
+40|139|Texas
+40|141|Tillman
+40|143|Tulsa
+40|145|Wagoner
+40|147|Washington
+40|149|Washita
+40|151|Woods
+40|153|Woodward
+41|001|Baker
+41|003|Benton
+41|005|Clackamas
+41|007|Clatsop
+41|009|Columbia
+41|011|Coos
+41|013|Crook
+41|015|Curry
+41|017|Deschutes
+41|019|Douglas
+41|021|Gilliam
+41|023|Grant
+41|025|Harney
+41|027|Hood River
+41|029|Jackson
+41|031|Jefferson
+41|033|Josephine
+41|035|Klamath
+41|037|Lake
+41|039|Lane
+41|041|Lincoln
+41|043|Linn
+41|045|Malheur
+41|047|Marion
+41|049|Morrow
+41|051|Multnomah
+41|053|Polk
+41|055|Sherman
+41|057|Tillamook
+41|059|Umatilla
+41|061|Union
+41|063|Wallowa
+41|065|Wasco
+41|067|Washington
+41|069|Wheeler
+41|071|Yamhill
+42|001|Adams
+42|003|Allegheny
+42|005|Armstrong
+42|007|Beaver
+42|009|Bedford
+42|011|Berks
+42|013|Blair
+42|015|Bradford
+42|017|Bucks
+42|019|Butler
+42|021|Cambria
+42|023|Cameron
+42|025|Carbon
+42|027|Centre
+42|029|Chester
+42|031|Clarion
+42|033|Clearfield
+42|035|Clinton
+42|037|Columbia
+42|039|Crawford
+42|041|Cumberland
+42|043|Dauphin
+42|045|Delaware
+42|047|Elk
+42|049|Erie
+42|051|Fayette
+42|053|Forest
+42|055|Franklin
+42|057|Fulton
+42|059|Greene
+42|061|Huntingdon
+42|063|Indiana
+42|065|Jefferson
+42|067|Juniata
+42|069|Lackawanna
+42|071|Lancaster
+42|073|Lawrence
+42|075|Lebanon
+42|077|Lehigh
+42|079|Luzerne
+42|081|Lycoming
+42|083|McKean
+42|085|Mercer
+42|087|Mifflin
+42|089|Monroe
+42|091|Montgomery
+42|093|Montour
+42|095|Northampton
+42|097|Northumberland
+42|099|Perry
+42|101|Philadelphia
+42|103|Pike
+42|105|Potter
+42|107|Schuylkill
+42|109|Snyder
+42|111|Somerset
+42|113|Sullivan
+42|115|Susquehanna
+42|117|Tioga
+42|119|Union
+42|121|Venango
+42|123|Warren
+42|125|Washington
+42|127|Wayne
+42|129|Westmoreland
+42|131|Wyoming
+42|133|York
+44|001|Bristol
+44|003|Kent
+44|005|Newport
+44|007|Providence
+44|009|Washington
+45|001|Abbeville
+45|003|Aiken
+45|005|Allendale
+45|007|Anderson
+45|009|Bamberg
+45|011|Barnwell
+45|013|Beaufort
+45|015|Berkeley
+45|017|Calhoun
+45|019|Charleston
+45|021|Cherokee
+45|023|Chester
+45|025|Chesterfield
+45|027|Clarendon
+45|029|Colleton
+45|031|Darlington
+45|033|Dillon
+45|035|Dorchester
+45|037|Edgefield
+45|039|Fairfield
+45|041|Florence
+45|043|Georgetown
+45|045|Greenville
+45|047|Greenwood
+45|049|Hampton
+45|051|Horry
+45|053|Jasper
+45|055|Kershaw
+45|057|Lancaster
+45|059|Laurens
+45|061|Lee
+45|063|Lexington
+45|065|McCormick
+45|067|Marion
+45|069|Marlboro
+45|071|Newberry
+45|073|Oconee
+45|075|Orangeburg
+45|077|Pickens
+45|079|Richland
+45|081|Saluda
+45|083|Spartanburg
+45|085|Sumter
+45|087|Union
+45|089|Williamsburg
+45|091|York
+46|003|Aurora
+46|005|Beadle
+46|007|Bennett
+46|009|Bon Homme
+46|011|Brookings
+46|013|Brown
+46|015|Brule
+46|017|Buffalo
+46|019|Butte
+46|021|Campbell
+46|023|Charles Mix
+46|025|Clark
+46|027|Clay
+46|029|Codington
+46|031|Corson
+46|033|Custer
+46|035|Davison
+46|037|Day
+46|039|Deuel
+46|041|Dewey
+46|043|Douglas
+46|045|Edmunds
+46|047|Fall River
+46|049|Faulk
+46|051|Grant
+46|053|Gregory
+46|055|Haakon
+46|057|Hamlin
+46|059|Hand
+46|061|Hanson
+46|063|Harding
+46|065|Hughes
+46|067|Hutchinson
+46|069|Hyde
+46|071|Jackson
+46|073|Jerauld
+46|075|Jones
+46|077|Kingsbury
+46|079|Lake
+46|081|Lawrence
+46|083|Lincoln
+46|085|Lyman
+46|087|McCook
+46|089|McPherson
+46|091|Marshall
+46|093|Meade
+46|095|Mellette
+46|097|Miner
+46|099|Minnehaha
+46|101|Moody
+46|103|Pennington
+46|105|Perkins
+46|107|Potter
+46|109|Roberts
+46|111|Sanborn
+46|113|Shannon
+46|115|Spink
+46|117|Stanley
+46|119|Sully
+46|121|Todd
+46|123|Tripp
+46|125|Turner
+46|127|Union
+46|129|Walworth
+46|135|Yankton
+46|137|Ziebach
+47|001|Anderson
+47|003|Bedford
+47|005|Benton
+47|007|Bledsoe
+47|009|Blount
+47|011|Bradley
+47|013|Campbell
+47|015|Cannon
+47|017|Carroll
+47|019|Carter
+47|021|Cheatham
+47|023|Chester
+47|025|Claiborne
+47|027|Clay
+47|029|Cocke
+47|031|Coffee
+47|033|Crockett
+47|035|Cumberland
+47|037|Davidson
+47|039|Decatur
+47|041|DeKalb
+47|043|Dickson
+47|045|Dyer
+47|047|Fayette
+47|049|Fentress
+47|051|Franklin
+47|053|Gibson
+47|055|Giles
+47|057|Grainger
+47|059|Greene
+47|061|Grundy
+47|063|Hamblen
+47|065|Hamilton
+47|067|Hancock
+47|069|Hardeman
+47|071|Hardin
+47|073|Hawkins
+47|075|Haywood
+47|077|Henderson
+47|079|Henry
+47|081|Hickman
+47|083|Houston
+47|085|Humphreys
+47|087|Jackson
+47|089|Jefferson
+47|091|Johnson
+47|093|Knox
+47|095|Lake
+47|097|Lauderdale
+47|099|Lawrence
+47|101|Lewis
+47|103|Lincoln
+47|105|Loudon
+47|107|McMinn
+47|109|McNairy
+47|111|Macon
+47|113|Madison
+47|115|Marion
+47|117|Marshall
+47|119|Maury
+47|121|Meigs
+47|123|Monroe
+47|125|Montgomery
+47|127|Moore
+47|129|Morgan
+47|131|Obion
+47|133|Overton
+47|135|Perry
+47|137|Pickett
+47|139|Polk
+47|141|Putnam
+47|143|Rhea
+47|145|Roane
+47|147|Robertson
+47|149|Rutherford
+47|151|Scott
+47|153|Sequatchie
+47|155|Sevier
+47|157|Shelby
+47|159|Smith
+47|161|Stewart
+47|163|Sullivan
+47|165|Sumner
+47|167|Tipton
+47|169|Trousdale
+47|171|Unicoi
+47|173|Union
+47|175|Van Buren
+47|177|Warren
+47|179|Washington
+47|181|Wayne
+47|183|Weakley
+47|185|White
+47|187|Williamson
+47|189|Wilson
+48|001|Anderson
+48|003|Andrews
+48|005|Angelina
+48|007|Aransas
+48|009|Archer
+48|011|Armstrong
+48|013|Atascosa
+48|015|Austin
+48|017|Bailey
+48|019|Bandera
+48|021|Bastrop
+48|023|Baylor
+48|025|Bee
+48|027|Bell
+48|029|Bexar
+48|031|Blanco
+48|033|Borden
+48|035|Bosque
+48|037|Bowie
+48|039|Brazoria
+48|041|Brazos
+48|043|Brewster
+48|045|Briscoe
+48|047|Brooks
+48|049|Brown
+48|051|Burleson
+48|053|Burnet
+48|055|Caldwell
+48|057|Calhoun
+48|059|Callahan
+48|061|Cameron
+48|063|Camp
+48|065|Carson
+48|067|Cass
+48|069|Castro
+48|071|Chambers
+48|073|Cherokee
+48|075|Childress
+48|077|Clay
+48|079|Cochran
+48|081|Coke
+48|083|Coleman
+48|085|Collin
+48|087|Collingsworth
+48|089|Colorado
+48|091|Comal
+48|093|Comanche
+48|095|Concho
+48|097|Cooke
+48|099|Coryell
+48|101|Cottle
+48|103|Crane
+48|105|Crockett
+48|107|Crosby
+48|109|Culberson
+48|111|Dallam
+48|113|Dallas
+48|115|Dawson
+48|117|Deaf Smith
+48|119|Delta
+48|121|Denton
+48|123|DeWitt
+48|125|Dickens
+48|127|Dimmit
+48|129|Donley
+48|131|Duval
+48|133|Eastland
+48|135|Ector
+48|137|Edwards
+48|139|Ellis
+48|141|El Paso
+48|143|Erath
+48|145|Falls
+48|147|Fannin
+48|149|Fayette
+48|151|Fisher
+48|153|Floyd
+48|155|Foard
+48|157|Fort Bend
+48|159|Franklin
+48|161|Freestone
+48|163|Frio
+48|165|Gaines
+48|167|Galveston
+48|169|Garza
+48|171|Gillespie
+48|173|Glasscock
+48|175|Goliad
+48|177|Gonzales
+48|179|Gray
+48|181|Grayson
+48|183|Gregg
+48|185|Grimes
+48|187|Guadalupe
+48|189|Hale
+48|191|Hall
+48|193|Hamilton
+48|195|Hansford
+48|197|Hardeman
+48|199|Hardin
+48|201|Harris
+48|203|Harrison
+48|205|Hartley
+48|207|Haskell
+48|209|Hays
+48|211|Hemphill
+48|213|Henderson
+48|215|Hidalgo
+48|217|Hill
+48|219|Hockley
+48|221|Hood
+48|223|Hopkins
+48|225|Houston
+48|227|Howard
+48|229|Hudspeth
+48|231|Hunt
+48|233|Hutchinson
+48|235|Irion
+48|237|Jack
+48|239|Jackson
+48|241|Jasper
+48|243|Jeff Davis
+48|245|Jefferson
+48|247|Jim Hogg
+48|249|Jim Wells
+48|251|Johnson
+48|253|Jones
+48|255|Karnes
+48|257|Kaufman
+48|259|Kendall
+48|261|Kenedy
+48|263|Kent
+48|265|Kerr
+48|267|Kimble
+48|269|King
+48|271|Kinney
+48|273|Kleberg
+48|275|Knox
+48|277|Lamar
+48|279|Lamb
+48|281|Lampasas
+48|283|La Salle
+48|285|Lavaca
+48|287|Lee
+48|289|Leon
+48|291|Liberty
+48|293|Limestone
+48|295|Lipscomb
+48|297|Live Oak
+48|299|Llano
+48|301|Loving
+48|303|Lubbock
+48|305|Lynn
+48|307|McCulloch
+48|309|McLennan
+48|311|McMullen
+48|313|Madison
+48|315|Marion
+48|317|Martin
+48|319|Mason
+48|321|Matagorda
+48|323|Maverick
+48|325|Medina
+48|327|Menard
+48|329|Midland
+48|331|Milam
+48|333|Mills
+48|335|Mitchell
+48|337|Montague
+48|339|Montgomery
+48|341|Moore
+48|343|Morris
+48|345|Motley
+48|347|Nacogdoches
+48|349|Navarro
+48|351|Newton
+48|353|Nolan
+48|355|Nueces
+48|357|Ochiltree
+48|359|Oldham
+48|361|Orange
+48|363|Palo Pinto
+48|365|Panola
+48|367|Parker
+48|369|Parmer
+48|371|Pecos
+48|373|Polk
+48|375|Potter
+48|377|Presidio
+48|379|Rains
+48|381|Randall
+48|383|Reagan
+48|385|Real
+48|387|Red River
+48|389|Reeves
+48|391|Refugio
+48|393|Roberts
+48|395|Robertson
+48|397|Rockwall
+48|399|Runnels
+48|401|Rusk
+48|403|Sabine
+48|405|San Augustine
+48|407|San Jacinto
+48|409|San Patricio
+48|411|San Saba
+48|413|Schleicher
+48|415|Scurry
+48|417|Shackelford
+48|419|Shelby
+48|421|Sherman
+48|423|Smith
+48|425|Somervell
+48|427|Starr
+48|429|Stephens
+48|431|Sterling
+48|433|Stonewall
+48|435|Sutton
+48|437|Swisher
+48|439|Tarrant
+48|441|Taylor
+48|443|Terrell
+48|445|Terry
+48|447|Throckmorton
+48|449|Titus
+48|451|Tom Green
+48|453|Travis
+48|455|Trinity
+48|457|Tyler
+48|459|Upshur
+48|461|Upton
+48|463|Uvalde
+48|465|Val Verde
+48|467|Van Zandt
+48|469|Victoria
+48|471|Walker
+48|473|Waller
+48|475|Ward
+48|477|Washington
+48|479|Webb
+48|481|Wharton
+48|483|Wheeler
+48|485|Wichita
+48|487|Wilbarger
+48|489|Willacy
+48|491|Williamson
+48|493|Wilson
+48|495|Winkler
+48|497|Wise
+48|499|Wood
+48|501|Yoakum
+48|503|Young
+48|505|Zapata
+48|507|Zavala
+49|001|Beaver
+49|003|Box Elder
+49|005|Cache
+49|007|Carbon
+49|009|Daggett
+49|011|Davis
+49|013|Duchesne
+49|015|Emery
+49|017|Garfield
+49|019|Grand
+49|021|Iron
+49|023|Juab
+49|025|Kane
+49|027|Millard
+49|029|Morgan
+49|031|Piute
+49|033|Rich
+49|035|Salt Lake
+49|037|San Juan
+49|039|Sanpete
+49|041|Sevier
+49|043|Summit
+49|045|Tooele
+49|047|Uintah
+49|049|Utah
+49|051|Wasatch
+49|053|Washington
+49|055|Wayne
+49|057|Weber
+50|001|Addison
+50|003|Bennington
+50|005|Caledonia
+50|007|Chittenden
+50|009|Essex
+50|011|Franklin
+50|013|Grand Isle
+50|015|Lamoille
+50|017|Orange
+50|019|Orleans
+50|021|Rutland
+50|023|Washington
+50|025|Windham
+50|027|Windsor
+51|001|Accomack
+51|003|Albemarle
+51|005|Alleghany
+51|007|Amelia
+51|009|Amherst
+51|011|Appomattox
+51|013|Arlington
+51|015|Augusta
+51|017|Bath
+51|019|Bedford
+51|021|Bland
+51|023|Botetourt
+51|025|Brunswick
+51|027|Buchanan
+51|029|Buckingham
+51|031|Campbell
+51|033|Caroline
+51|035|Carroll
+51|036|Charles City
+51|037|Charlotte
+51|041|Chesterfield
+51|043|Clarke
+51|045|Craig
+51|047|Culpeper
+51|049|Cumberland
+51|051|Dickenson
+51|053|Dinwiddie
+51|057|Essex
+51|059|Fairfax
+51|061|Fauquier
+51|063|Floyd
+51|065|Fluvanna
+51|067|Franklin
+51|069|Frederick
+51|071|Giles
+51|073|Gloucester
+51|075|Goochland
+51|077|Grayson
+51|079|Greene
+51|081|Greensville
+51|083|Halifax
+51|085|Hanover
+51|087|Henrico
+51|089|Henry
+51|091|Highland
+51|093|Isle of Wight
+51|095|James City
+51|097|King and Queen
+51|099|King George
+51|101|King William
+51|103|Lancaster
+51|105|Lee
+51|107|Loudoun
+51|109|Louisa
+51|111|Lunenburg
+51|113|Madison
+51|115|Mathews
+51|117|Mecklenburg
+51|119|Middlesex
+51|121|Montgomery
+51|125|Nelson
+51|127|New Kent
+51|131|Northampton
+51|133|Northumberland
+51|135|Nottoway
+51|137|Orange
+51|139|Page
+51|141|Patrick
+51|143|Pittsylvania
+51|145|Powhatan
+51|147|Prince Edward
+51|149|Prince George
+51|153|Prince William
+51|155|Pulaski
+51|157|Rappahannock
+51|159|Richmond
+51|161|Roanoke
+51|163|Rockbridge
+51|165|Rockingham
+51|167|Russell
+51|169|Scott
+51|171|Shenandoah
+51|173|Smyth
+51|175|Southampton
+51|177|Spotsylvania
+51|179|Stafford
+51|181|Surry
+51|183|Sussex
+51|185|Tazewell
+51|187|Warren
+51|191|Washington
+51|193|Westmoreland
+51|195|Wise
+51|197|Wythe
+51|199|York
 51|510|Alexandria city
 51|515|Bedford city
 51|520|Bristol city
@@ -2952,195 +2952,195 @@
 51|820|Waynesboro city
 51|830|Williamsburg city
 51|840|Winchester city
-53|001|Adams County
-53|003|Asotin County
-53|005|Benton County
-53|007|Chelan County
-53|009|Clallam County
-53|011|Clark County
-53|013|Columbia County
-53|015|Cowlitz County
-53|017|Douglas County
-53|019|Ferry County
-53|021|Franklin County
-53|023|Garfield County
-53|025|Grant County
-53|027|Grays Harbor County
-53|029|Island County
-53|031|Jefferson County
-53|033|King County
-53|035|Kitsap County
-53|037|Kittitas County
-53|039|Klickitat County
-53|041|Lewis County
-53|043|Lincoln County
-53|045|Mason County
-53|047|Okanogan County
-53|049|Pacific County
-53|051|Pend Oreille County
-53|053|Pierce County
-53|055|San Juan County
-53|057|Skagit County
-53|059|Skamania County
-53|061|Snohomish County
-53|063|Spokane County
-53|065|Stevens County
-53|067|Thurston County
-53|069|Wahkiakum County
-53|071|Walla Walla County
-53|073|Whatcom County
-53|075|Whitman County
-53|077|Yakima County
-54|001|Barbour County
-54|003|Berkeley County
-54|005|Boone County
-54|007|Braxton County
-54|009|Brooke County
-54|011|Cabell County
-54|013|Calhoun County
-54|015|Clay County
-54|017|Doddridge County
-54|019|Fayette County
-54|021|Gilmer County
-54|023|Grant County
-54|025|Greenbrier County
-54|027|Hampshire County
-54|029|Hancock County
-54|031|Hardy County
-54|033|Harrison County
-54|035|Jackson County
-54|037|Jefferson County
-54|039|Kanawha County
-54|041|Lewis County
-54|043|Lincoln County
-54|045|Logan County
-54|047|McDowell County
-54|049|Marion County
-54|051|Marshall County
-54|053|Mason County
-54|055|Mercer County
-54|057|Mineral County
-54|059|Mingo County
-54|061|Monongalia County
-54|063|Monroe County
-54|065|Morgan County
-54|067|Nicholas County
-54|069|Ohio County
-54|071|Pendleton County
-54|073|Pleasants County
-54|075|Pocahontas County
-54|077|Preston County
-54|079|Putnam County
-54|081|Raleigh County
-54|083|Randolph County
-54|085|Ritchie County
-54|087|Roane County
-54|089|Summers County
-54|091|Taylor County
-54|093|Tucker County
-54|095|Tyler County
-54|097|Upshur County
-54|099|Wayne County
-54|101|Webster County
-54|103|Wetzel County
-54|105|Wirt County
-54|107|Wood County
-54|109|Wyoming County
-55|001|Adams County
-55|003|Ashland County
-55|005|Barron County
-55|007|Bayfield County
-55|009|Brown County
-55|011|Buffalo County
-55|013|Burnett County
-55|015|Calumet County
-55|017|Chippewa County
-55|019|Clark County
-55|021|Columbia County
-55|023|Crawford County
-55|025|Dane County
-55|027|Dodge County
-55|029|Door County
-55|031|Douglas County
-55|033|Dunn County
-55|035|Eau Claire County
-55|037|Florence County
-55|039|Fond du Lac County
-55|041|Forest County
-55|043|Grant County
-55|045|Green County
-55|047|Green Lake County
-55|049|Iowa County
-55|051|Iron County
-55|053|Jackson County
-55|055|Jefferson County
-55|057|Juneau County
-55|059|Kenosha County
-55|061|Kewaunee County
-55|063|La Crosse County
-55|065|Lafayette County
-55|067|Langlade County
-55|069|Lincoln County
-55|071|Manitowoc County
-55|073|Marathon County
-55|075|Marinette County
-55|077|Marquette County
-55|078|Menominee County
-55|079|Milwaukee County
-55|081|Monroe County
-55|083|Oconto County
-55|085|Oneida County
-55|087|Outagamie County
-55|089|Ozaukee County
-55|091|Pepin County
-55|093|Pierce County
-55|095|Polk County
-55|097|Portage County
-55|099|Price County
-55|101|Racine County
-55|103|Richland County
-55|105|Rock County
-55|107|Rusk County
-55|109|St. Croix County
-55|111|Sauk County
-55|113|Sawyer County
-55|115|Shawano County
-55|117|Sheboygan County
-55|119|Taylor County
-55|121|Trempealeau County
-55|123|Vernon County
-55|125|Vilas County
-55|127|Walworth County
-55|129|Washburn County
-55|131|Washington County
-55|133|Waukesha County
-55|135|Waupaca County
-55|137|Waushara County
-55|139|Winnebago County
-55|141|Wood County
-56|001|Albany County
-56|003|Big Horn County
-56|005|Campbell County
-56|007|Carbon County
-56|009|Converse County
-56|011|Crook County
-56|013|Fremont County
-56|015|Goshen County
-56|017|Hot Springs County
-56|019|Johnson County
-56|021|Laramie County
-56|023|Lincoln County
-56|025|Natrona County
-56|027|Niobrara County
-56|029|Park County
-56|031|Platte County
-56|033|Sheridan County
-56|035|Sublette County
-56|037|Sweetwater County
-56|039|Teton County
-56|041|Uinta County
-56|043|Washakie County
-56|045|Weston County
+53|001|Adams
+53|003|Asotin
+53|005|Benton
+53|007|Chelan
+53|009|Clallam
+53|011|Clark
+53|013|Columbia
+53|015|Cowlitz
+53|017|Douglas
+53|019|Ferry
+53|021|Franklin
+53|023|Garfield
+53|025|Grant
+53|027|Grays Harbor
+53|029|Island
+53|031|Jefferson
+53|033|King
+53|035|Kitsap
+53|037|Kittitas
+53|039|Klickitat
+53|041|Lewis
+53|043|Lincoln
+53|045|Mason
+53|047|Okanogan
+53|049|Pacific
+53|051|Pend Oreille
+53|053|Pierce
+53|055|San Juan
+53|057|Skagit
+53|059|Skamania
+53|061|Snohomish
+53|063|Spokane
+53|065|Stevens
+53|067|Thurston
+53|069|Wahkiakum
+53|071|Walla Walla
+53|073|Whatcom
+53|075|Whitman
+53|077|Yakima
+54|001|Barbour
+54|003|Berkeley
+54|005|Boone
+54|007|Braxton
+54|009|Brooke
+54|011|Cabell
+54|013|Calhoun
+54|015|Clay
+54|017|Doddridge
+54|019|Fayette
+54|021|Gilmer
+54|023|Grant
+54|025|Greenbrier
+54|027|Hampshire
+54|029|Hancock
+54|031|Hardy
+54|033|Harrison
+54|035|Jackson
+54|037|Jefferson
+54|039|Kanawha
+54|041|Lewis
+54|043|Lincoln
+54|045|Logan
+54|047|McDowell
+54|049|Marion
+54|051|Marshall
+54|053|Mason
+54|055|Mercer
+54|057|Mineral
+54|059|Mingo
+54|061|Monongalia
+54|063|Monroe
+54|065|Morgan
+54|067|Nicholas
+54|069|Ohio
+54|071|Pendleton
+54|073|Pleasants
+54|075|Pocahontas
+54|077|Preston
+54|079|Putnam
+54|081|Raleigh
+54|083|Randolph
+54|085|Ritchie
+54|087|Roane
+54|089|Summers
+54|091|Taylor
+54|093|Tucker
+54|095|Tyler
+54|097|Upshur
+54|099|Wayne
+54|101|Webster
+54|103|Wetzel
+54|105|Wirt
+54|107|Wood
+54|109|Wyoming
+55|001|Adams
+55|003|Ashland
+55|005|Barron
+55|007|Bayfield
+55|009|Brown
+55|011|Buffalo
+55|013|Burnett
+55|015|Calumet
+55|017|Chippewa
+55|019|Clark
+55|021|Columbia
+55|023|Crawford
+55|025|Dane
+55|027|Dodge
+55|029|Door
+55|031|Douglas
+55|033|Dunn
+55|035|Eau Claire
+55|037|Florence
+55|039|Fond du Lac
+55|041|Forest
+55|043|Grant
+55|045|Green
+55|047|Green Lake
+55|049|Iowa
+55|051|Iron
+55|053|Jackson
+55|055|Jefferson
+55|057|Juneau
+55|059|Kenosha
+55|061|Kewaunee
+55|063|La Crosse
+55|065|Lafayette
+55|067|Langlade
+55|069|Lincoln
+55|071|Manitowoc
+55|073|Marathon
+55|075|Marinette
+55|077|Marquette
+55|078|Menominee
+55|079|Milwaukee
+55|081|Monroe
+55|083|Oconto
+55|085|Oneida
+55|087|Outagamie
+55|089|Ozaukee
+55|091|Pepin
+55|093|Pierce
+55|095|Polk
+55|097|Portage
+55|099|Price
+55|101|Racine
+55|103|Richland
+55|105|Rock
+55|107|Rusk
+55|109|St. Croix
+55|111|Sauk
+55|113|Sawyer
+55|115|Shawano
+55|117|Sheboygan
+55|119|Taylor
+55|121|Trempealeau
+55|123|Vernon
+55|125|Vilas
+55|127|Walworth
+55|129|Washburn
+55|131|Washington
+55|133|Waukesha
+55|135|Waupaca
+55|137|Waushara
+55|139|Winnebago
+55|141|Wood
+56|001|Albany
+56|003|Big Horn
+56|005|Campbell
+56|007|Carbon
+56|009|Converse
+56|011|Crook
+56|013|Fremont
+56|015|Goshen
+56|017|Hot Springs
+56|019|Johnson
+56|021|Laramie
+56|023|Lincoln
+56|025|Natrona
+56|027|Niobrara
+56|029|Park
+56|031|Platte
+56|033|Sheridan
+56|035|Sublette
+56|037|Sweetwater
+56|039|Teton
+56|041|Uinta
+56|043|Washakie
+56|045|Weston
 60|010|Eastern District
 60|020|Manu'a District
 60|030|Rose Island

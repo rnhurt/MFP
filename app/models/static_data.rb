@@ -19,8 +19,8 @@ class StaticData < ActiveRecord::Base
     end
 
     # Where is the this site located?
-    def region_code
-      @@region_code ||= StaticData.active.find_by_name("REGION_CODE").value
+    def state_id
+      @@state_id ||= StaticData.active.find_by_name("STATE_ID").value
     end
   end
 end

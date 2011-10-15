@@ -1,0 +1,1709 @@
+2ND ST                                                      0220102201
+3RD ST                                                      0220102201
+626 LN                                                      0220002200
+A FRAME RD                                                  0220002200
+AA HWY                                                      0220002200
+ABBY DR                                                     0220002200
+ABE ROAR RD                                                 0220002200
+ABE ROAR SPUR RD                                            0220002200
+ACADEMIC PARKWAY                                            0220102201
+ACADEMIC PKWY                                               0220102201
+ACORN LN                                                    0220002200
+ACORN LN                                                    0220202202
+ADAMS HILL RD                                               0220002200
+ADAMS HOLW                                                  0220002200
+ADAMS RD                                                    0220002200
+ADEN RD                                                     0220002200
+ADKINS LOOP                                                 0220002200
+ADKINS RD                                                   0220002200
+AIRPORT DR                                                  0220002200
+AKITA LN                                                    0220002200
+ALDERWOOD CIR                                               0220002200
+ALECIA LN                                                   0220002200
+ALLEN LN                                                    0220002200
+ALLEN RD                                                    0220002200
+ALLEY                                                       0220102201
+ALLEY                                                       0220202202
+ALLIS CHALMERS DR                                           0220002200
+ALPINE HL                                                   0220002200
+AMBASSADOR DR                                               0220002200
+AMBER DR                                                    0220102201
+AMBERWOOD DR                                                0220002200
+ANDREW LN                                                   0220002200
+ANGEL DR                                                    0220002200
+ANTIQUE DR                                                  0220002200
+APPALOOSA DR                                                0220002200
+APPLE AVE                                                   0220202202
+APPLE RD                                                    0220202202
+APPLETREE LN                                                0220002200
+ARABIAN LN                                                  0220002200
+ARDEN DR                                                    0220202202
+ARIELLE DR                                                  0220002200
+ARMORY DR                                                   0220202202
+ARMSTRONG CEMETERY RD                                       0220002200
+ARMSTRONG DR                                                0220202202
+ARMSTRONG ST                                                0220102201
+ARMSTRONG STREET SPUR                                       0220102201
+ARROWHEAD CEMETERY RD                                       0220002200
+ARROWHEAD DR                                                0220002200
+ARROWHEAD PT                                                0220002200
+ARROWWOOD CEMETERY                                          0220002200
+ARVILLA LN                                                  0220002200
+ASBURY BR                                                   0220002200
+ASBURY LN                                                   0220002200
+ASH CEMETERY RD                                             0220002200
+AUSTIN RD                                                   0220002200
+AUTUMN RD                                                   0220002200
+AVIS DR                                                     0220002200
+AYLA DR                                                     0640002200
+B AND B RIDGE                                               0220002200
+B AND H LN                                                  0220002200
+B AND L LN                                                  0220002200
+BAGBY PARK DR                                               0220102201
+BAGBY ST                                                    0220102201
+BAIER RD                                                    0220002200
+BAIERCLIFF RD                                               0220002200
+BAILEY CEMETERY NO1 RD                                      0220002200
+BAILEY HOLLOW                                               0220002200
+BAILEY NO2 CEMETERY RD                                      0220002200
+BAKER CEMETERY RD                                           0220002200
+BAKER ST                                                    0220102201
+BANDS LOOP                                                  0220002200
+BANKER RD                                                   0220002200
+BANTA RD                                                    0220002200
+BAPTIST ST                                                  0220002200
+BARKER CEMETERY RD                                          0220002200
+BARKER DR                                                   0220002200
+BARKER FLATS                                                0220002200
+BARKER FORK                                                 0220002200
+BARKER LN                                                   0220002200
+BARNOTHING RD                                               0220002200
+BARNOTHING ROAD SPUR                                        0220002200
+BARRETT ST                                                  0220102201
+BASIL HOLW                                                  0220002200
+BAUER CEMETERY RD                                           0220002200
+BAUER FRK                                                   0220002200
+BAUER RD                                                    0220002200
+BAYER RD                                                    0220002200
+BAYS RD                                                     0220002200
+BCC CEMETERY RD                                             0220002200
+BEACH ST                                                    0220002200
+BEAR LN                                                     0220002200
+BEAUTY DR                                                   0220102201
+BEAVER CRK                                                  0220002200
+BECKWITH BR                                                 0220002200
+BEECH GRV                                                   0220002200
+BEECH ST                                                    0220102201
+BEETREE FORK                                                0640002200
+BEGO CEMETERY RD                                            0220002200
+BEGO LN                                                     0220002200
+BELLAIRE LN                                                 0220002200
+BELLOW CEMETERY RD                                          0220002200
+BELLS TRACE RD                                              0640002200
+BELLS TRCE                                                  0220002200
+BENTLEY CEMETERY RD                                         0220002200
+BERRY HOLW                                                  0220002200
+BERRY PATCH LOOP                                            0220002200
+BERRYWOOD DR                                                0220002200
+BETHEL RIDGE                                                0220002200
+BEVERLY HILLS DR                                            0220002200
+BFE RD                                                      0220002200
+BIG SINKING RD                                              0220002200
+BIGGS BR                                                    0220002200
+BIGGS CEMETERY RD                                           0220002200
+BIGGS ST                                                    0220002200
+BIGRUN RD                                                   0220002200
+BINION LN                                                   0220002200
+BINION RD                                                   0220002200
+BLACK HAWK RD                                               0220002200
+BLACK HOLW                                                  0220002200
+BLACK LN                                                    0220002200
+BLACK OAK RD                                                0220002200
+BLACKBERRY DR                                               0220002200
+BLACKFOOT LN                                                0220002200
+BLACKSTONE LN                                               0220002200
+BLEVINS DR                                                  0220002200
+BLEVINS HOLW                                                0220002200
+BLEVINS RD                                                  0220002200
+BLOSSOM LN                                                  0220002200
+BLUE BIRD DR                                                0220002200
+BLUE BIRD LN                                                0220002200
+BLUE HALL AVE                                               0220002200
+BLUE HALL RD                                                0220002200
+BLUEBERRY RIDGE                                             0220002200
+BLUEBERRY RIDGE                                             0220202202
+BOAT DOCK RD                                                0220002200
+BOAT RAMP RD                                                0220002200
+BOATHOUSE HL                                                0220002200
+BOBCAT RD                                                   0220002200
+BODY SHOP RD                                                0220002200
+BOGGS CEMETERY RD                                           0220002200
+BOGGS RD                                                    0220002200
+BOND CT                                                     0220002200
+BOND HOLW                                                   0220002200
+BOND LN                                                     0220002200
+BOND ST                                                     0220202202
+BONDS CEMETERY RD                                           0220002200
+BONELICK CIR                                                0220002200
+BOURBON HOLLOW SPUR                                         0220002200
+BOURBON HOLW                                                0220002200
+BOWEN ST                                                    0220102201
+BOWLING DR                                                  0220002200
+BOWLING FLATS                                               0220002200
+BOXWOOD DR                                                  0220002200
+BRADFORD RD                                                 0220002200
+BRADFORD ST                                                 0220102201
+BRADLEY CEMETERY RD                                         0220002200
+BRADLEY HOLW                                                0220002200
+BRAIDEN LN                                                  0220002200
+BRANHAM CEMETERY RD                                         0220002200
+BRANHAM RD                                                  0220002200
+BRIARHILL RD                                                0220002200
+BRICKLAYER ST                                               0220202202
+BRIDGE RD                                                   0220002200
+BRIDGEWOOD DR                                               0220002200
+BRIDLEWOOD HOLW                                             0220002200
+BROOKE LN                                                   0220002200
+BROVMILL LN                                                 0220002200
+BRUCE RD                                                    0220002200
+BRYANT LOOP                                                 0220002200
+BUCK LN                                                     0220002200
+BUCK RD                                                     0220002200
+BUCKEYE LN                                                  0220002200
+BUCKLER LN                                                  0220002200
+BUCKSAW JCT                                                 0220002200
+BUFFALO CRK                                                 0220002200
+BURCHETT DAILEY CEMETERY RD                                 0220002200
+BURGE RD                                                    0220002200
+BURL STURGILL RD                                            0220002200
+BURROW LN                                                   0220002200
+BURTON HL                                                   0220002200
+BURTON LN                                                   0220002200
+BURTON LN                                                   0220102201
+BURTON MEADOWS                                              0220002200
+BUSH LN                                                     0220002200
+BUSH RD                                                     0220002200
+BUTLER CIR                                                  0220202202
+BUTTERNUT RIDGE                                             0220002200
+BYPASS RD                                                   0220002200
+C W STEVENS BLVD                                            0220002200
+C W STEVENS BLVD                                            0220102201
+CABIN CREEK RD                                              0220102201
+CACTUS RD                                                   0220002200
+CAINES LOOP                                                 0220002200
+CALEB POWERS LN                                             0220202202
+CALES RD                                                    0220002200
+CALLIHAN CEMETERY RD                                        0220002200
+CAMP WEBB RD                                                0220002200
+CAMPBELL FORK                                               0220002200
+CAMPBELL HOLW                                               0220002200
+CAMPBELL LN                                                 0220002200
+CAMPBELL RD                                                 0220002200
+CAMPER GROUND DR                                            0220002200
+CANDY CANE DR                                               0220202202
+CANDY LN                                                    0220002200
+CANOE RUN                                                   0220002200
+CANTERBURY FORK                                             0220002200
+CANTERBURY HOLW                                             0220002200
+CANTRELL LN                                                 0220002200
+CARDINAL DR                                                 0220102201
+CARDINAL DRIVE SPUR                                         0220102201
+CARDINAL LN                                                 0220002200
+CARL RD                                                     0220002200
+CAROL MALONE BLVD                                           0220002200
+CARPER RIDGE                                                0220002200
+CARROLL BR                                                  0220002200
+CARROLL CEM RD                                              0220002200
+CARROLL CEMETERY RD                                         0220002200
+CARROLL CIR                                                 0220002200
+CARROLL RD                                                  0220002200
+CARSON LN                                                   0220002200
+CARTER CAVES RD                                             0220002200
+CARTER HOLW                                                 0220002200
+CARTER LN                                                   0220002200
+CARTER RD                                                   0220002200
+CARTER ST                                                   0220102201
+CARVER CEMETERY RD                                          0220002200
+CARVER NO1 CEMETERY RD                                      0220002200
+CARVER NO2 CEMETERY RD                                      0220002200
+CASEY RD                                                    0220002200
+CATRON CEMETERY RD                                          0220002200
+CATTAIL CT                                                  0220002200
+CAUDILL CEMETERY                                            0220002200
+CAVE BR                                                     0220002200
+CAVE LN                                                     0220002200
+CAVELAND DR                                                 0220002200
+CECIL RD                                                    0220002200
+CEDAR RUN RD                                                0220002200
+CEMETERY CT                                                 0220102201
+CEMETERY LN                                                 0220102201
+CEMETERY RD                                                 0220002200
+CEMETERY SPUR                                               0220102201
+CENTER ST                                                   0220202202
+CHALLENGER RD                                               0220002200
+CHAMPION LN                                                 0220202202
+CHAPEL CUT RD                                               0220002200
+CHAPEL CUT SPUR RD                                          0220002200
+CHAPEL LN                                                   0220002200
+CHAPEL RIDGE                                                0220002200
+CHARITY LANE SPUR                                           0220002200
+CHARITY LN                                                  0220002200
+CHARLEY BR                                                  0220002200
+CHARLEY BR                                                  0220202202
+CHEROKEE DR                                                 0220002200
+CHERRY BIRD LN                                              0220002200
+CHERRY BLOSSOM LN                                           0220002200
+CHERRY TREE LN                                              0220002200
+CHERRYWOOD LN                                               0220002200
+CHERYL RODGERS HOLW                                         0220002200
+CHERYL RODGERS SPUR                                         0220202202
+CHESTNUT LN                                                 0220002200
+CHESTNUT ST                                                 0220102201
+CHILI ST                                                    0220202202
+CHIPPEWA LN                                                 0220002200
+CHLOE LN                                                    0220002200
+CHRISTIAN DR                                                0220102201
+CHRISTIE DR                                                 0220102201
+CHRISTOPHER LN                                              0220002200
+CHURCH DR                                                   0220002200
+CHURCH DR                                                   0220102201
+CHURCH LN                                                   0220002200
+CHURCH RIDGE                                                0220002200
+CHURCH SPUR                                                 0220002200
+CHURCH ST                                                   0220102201
+CHURCHCAMP RD                                               0220002200
+CINDY LN                                                    0220002200
+CINNAMON LN                                                 0220002200
+CIRCLE DR                                                   0220102201
+CIRCLE DRIVE SPUR                                           0220002200
+CIRCLE DRIVE TRAILER PARK                                   0220002200
+CLARK CEMETERY RD                                           0220002200
+CLARK HILL AVE                                              0220002200
+CLARK HILL RD                                               0220202202
+CLARK HOLLOW SPUR                                           0220002200
+CLARK HOLW                                                  0220002200
+CLAXON RD                                                   0220002200
+CLAY CP                                                     0220002200
+CLAY DUMP RD                                                0220002200
+CLAY HOLW                                                   0220002200
+CLAY LN                                                     0220002200
+CLEAR VW                                                    0220002200
+CLICK RD                                                    0220002200
+CLIFTY ACRES RD                                             0220002200
+CLIFTY CHURCH RD                                            0220002200
+CLINE BR                                                    0220002200
+CLINE CEMETERY RD                                           0220002200
+CLINE HL                                                    0220002200
+COAL CP                                                     0220002200
+COAL RD                                                     0220002200
+COBBLESTONE RD                                              0220002200
+CODY DR                                                     0220002200
+COLD SPRING RD                                              0220202202
+COLE RD                                                     0220002200
+COLE ROAD NO2                                               0220002200
+COLEN BR                                                    0220002200
+COLLEGE HILL DR                                             0220002200
+COLLEGE HILL DR                                             0220102201
+COLLEGE ST                                                  0220102201
+COLLINS RD                                                  0220002200
+COLLINS ST                                                  0220002200
+COLONEL ST                                                  0220102201
+COLONY LN                                                   0220002200
+COLT DR                                                     0220002200
+COLUMBIA DR                                                 0220002200
+COMET DR                                                    0220202202
+CONDOMINIUM DR                                              0220002200
+CONN LN                                                     0220002200
+COOK CRK                                                    0220002200
+COOKSEY CEMETERY RD                                         0220002200
+COOL WATER TRL                                              0220002200
+COOLEY LN                                                   0220002200
+COOPER CEMETERY RD                                          0220002200
+COOPER LN                                                   0220002200
+COOPER RIDGE                                                0220002200
+COOPER RIDGE                                                0680002200
+COOPER ST                                                   0220002200
+COPLEY LN                                                   0220002200
+COPPERHEAD LN                                               0220002200
+CORY RD                                                     0220002200
+COSTIN DADDY DR                                             0220002200
+COTTAGE DR                                                  0220002200
+COTTONWOOD LN                                               0220002200
+COUGAR LN                                                   0220002200
+COUNTRY DR                                                  0220002200
+COUNTRY OAKS LN                                             0220002200
+COUNTRY VISTA RD                                            0220002200
+COUNTS FORK                                                 0220002200
+COUNTS HOLW                                                 0220002200
+COUNTS LN                                                   0220002200
+COY RD                                                      0220002200
+COZY MEADOWS                                                0220102201
+CRAIG BR                                                    0220002200
+CRAIG CEMETERY RD                                           0220002200
+CRAIG ST                                                    0220202202
+CRANBERRY DR                                                0220002200
+CRAWFORD AVE                                                0220202202
+CREECH RD                                                   0220002200
+CRESCENT LOOP                                               0220002200
+CRESTVIEW ST                                                0220002200
+CRIBBS HILL RD                                              0220002200
+CRIBBS HL                                                   0220002200
+CRICKETT LN                                                 0220002200
+CRIMSON LN                                                  0220002200
+CRISP CEMETERY RD                                           0220002200
+CRISWELL LN                                                 0220002200
+CROMER RD                                                   0220002200
+CROSS BOW ST                                                0220002200
+CROSS ST                                                    0220202202
+CROSSBAR RD                                                 0220002200
+CROW RD                                                     0220002200
+CRUM CEMETERY RD                                            0220002200
+CRUM RD                                                     0220002200
+CRYSTAL CT                                                  0220002200
+CULIE RD                                                    0220002200
+CUMMINS HOLW                                                0220002200
+CUNDIFF RD                                                  0220002200
+CURRY LN                                                    0220002200
+CUTTER DR                                                   0220002200
+D HANSHAW RD                                                0220002200
+D T M RD                                                    0220002200
+DAILEY RD                                                   0220002200
+DAISY LN                                                    0220002200
+DAMRON BR                                                   0220002200
+DAMRON MAYO RD                                              0220002200
+DAMRON ST                                                   0220002200
+DAVEYS HL                                                   0220002200
+DAVEYS RUN                                                  0220002200
+DAVIS DR                                                    0220002200
+DAVIS LN                                                    0220002200
+DAVIS RD                                                    0220002200
+DAWSON BR                                                   0220002200
+DAWSON ST                                                   0220202202
+DAY CEMETERY RD                                             0220002200
+DAY RD                                                      0220002200
+DEAN CEMETERY RD                                            0220002200
+DEAN LOOP                                                   0220002200
+DEBBIE LN                                                   0220002200
+DEBORD CEMETERY RD                                          0220002200
+DEER HOLW                                                   0220002200
+DEERWOOD DR                                                 0220002200
+DEHART LN                                                   0220002200
+DEHART RD                                                   0220002200
+DEMOCRAT HL                                                 0220002200
+DEMPSIE LN                                                  0220002200
+DEPOT AVE                                                   0220102201
+DETOUR RD                                                   0220002200
+DICKERSON RD                                                0220002200
+DILLION RD                                                  0220002200
+DINKENS HOLW                                                0220002200
+DIXIE FORK                                                  0220002200
+DIXIE ST                                                    0220102201
+DOGPATCH LN                                                 0220002200
+DOGWOOD DR                                                  0220002200
+DOGWOOD HOLW                                                0220002200
+DOGWOOD LN                                                  0220002200
+DOLLY AVE                                                   0220202202
+DOLPHIN RD                                                  0220002200
+DONALD KNIPP RD                                             0220002200
+DOUGLAS HOLW                                                0220002200
+DOUGLAS LN                                                  0220002200
+DOVE LN                                                     0220002200
+DR LEWIS LN                                                 0220002200
+DRAGON LN                                                   0220002200
+DRAVENSTOTT CEMETERY RD                                     0220002200
+DRIFTWOOD LN                                                0220102201
+DRY FORK                                                    0220002200
+DRY FORK RD                                                 0220002200
+DRY PRAIRIE RD                                              0220002200
+DRY RIDGE                                                   0220002200
+DUCKEYE RD                                                  0220002200
+DUDLEY BR                                                   0220002200
+DUDLEY RIDGE                                                0220002200
+DUMMITT RIDGE                                               0220002200
+DUSTY LN                                                    0220002200
+DUTCHESS LN                                                 0220002200
+E 2ND ST                                                    0220102201
+E 2ND STREET ALY                                            0220102201
+E 4TH ST                                                    0220102201
+E 5TH ST                                                    0220102201
+E BURTON CEMETERY RD                                        0220002200
+E CRETCHER ST                                               0220002200
+E K MINES BR                                                0220002200
+E K RAILROAD DR                                             0220002200
+E MAIN ST                                                   0220102201
+E MAIN STREET ALY                                           0220102201
+E MAPLE ST                                                  0220002200
+E MAPLE ST                                                  0220102201
+E MIDLAND TRL                                               0220002200
+E MIDLAND TRL                                               0220102201
+E RIVER RD                                                  0220102201
+E STAR HL                                                   0220002200
+E STOVALL LN                                                0220102201
+E SUNSET HL                                                 0220002200
+E T HENDERSON CEMETERY RD                                   0220002200
+E TROUGH CAMP RD                                            0220002200
+E WAUGH RD                                                  0220002200
+E WAUGH RD                                                  0220202202
+EAGLE DR                                                    0220002200
+EAGLE HALL CEMETERY RD                                      0220002200
+EAGLE HALL RD                                               0220002200
+EARN PURNELL CEMETERY RD                                    0220002200
+EASTERLING BR                                               0220002200
+EASTERLING CEMETERY RD                                      0220002200
+EASTLAND DR                                                 0220202202
+EASTPARK DR                                                 0220002200
+EASTVIEW ST                                                 0220002200
+EASTVIEW ST                                                 0220102201
+EASY ST                                                     0220002200
+ECHO RD                                                     0220002200
+EDDIE DEAN RD                                               0220002200
+EDGAR LN                                                    0220002200
+EDISON CEM RD                                               0220002200
+EDISON CEMETERY RD                                          0220002200
+EDISON CT                                                   0220002200
+EDISON LN                                                   0220002200
+EDISON RD                                                   0220002200
+ELAINE RD                                                   0220202202
+ELDRIDGE RD                                                 0220002200
+ELKIN HOLLOW                                                0220002200
+ELM ST                                                      0220102201
+EMERSON RD                                                  0220002200
+EMMIT RD                                                    0220002200
+EMPRESS DR                                                  0220002200
+EMRALD DR                                                   0220002200
+EMRID LN                                                    0220102201
+ENTERPRISE DR                                               0220002200
+ENTERPRISE LN                                               0220002200
+ERIE ST                                                     0220202202
+ERWIN RIDGE                                                 0220002200
+EURY RD                                                     0220002200
+EVANS RD                                                    0220002200
+EVENING DR                                                  0220002200
+EVERMAN CEMETERY RD                                         0220002200
+EVERMAN CHURCH CEMETERY RD                                  0220002200
+EVERMAN ST                                                  0220102201
+EVERMANS CREEK RD                                           0220002200
+EVERMANS CRK                                                0220002200
+EVERMANS LN                                                 0220002200
+FAIRGROUND DR                                               0220102201
+FAIRVIEW HL                                                 0220002200
+FALCON LN                                                   0220002200
+FALLS BR                                                    0220002200
+FALLS LN                                                    0220002200
+FANNIN CEMETERY RD                                          0220002200
+FANNIN FAMILY CEMETERY RD                                   0220002200
+FANNIN HOLW                                                 0220002200
+FARRIS DR                                                   0220002200
+FARRIS LN                                                   0220002200
+FAWN DR                                                     0220002200
+FERN LN                                                     0220002200
+FESTIVAL LN                                                 0220002200
+FIELDS BR                                                   0220002200
+FIGHTING FORK                                               0220002200
+FINCH RIDGE                                                 0220002200
+FIREHOUSE LN                                                0220002200
+FITCH LN                                                    0220002200
+FLANNERY CEMETERY RD                                        0220002200
+FLAT FORK                                                   0220002200
+FLAUGHER RD                                                 0220002200
+FLEMING FORK                                                0220002200
+FLEMING FORK RD                                             0220002200
+FLICKA DR                                                   0220002200
+FONTANA DR                                                  0220002200
+FOREST HLS                                                  0220002200
+FOREST TRL                                                  0220002200
+FORGOTTEN LN                                                0220002200
+FOUR WHEEL DR                                               0220002200
+FOURMILE RD                                                 0220002200
+FOX HUNTERS RD                                              0220002200
+FOX RUN                                                     0220002200
+FOX TRL                                                     0220202202
+FOXFIRE MNTN                                                0220002200
+FRALEY BR                                                   0220002200
+FRALEY MILLER PLZ                                           0220102201
+FRAZIER CEMETERY RD                                         0220002200
+FRAZIER FLAT                                                0220002200
+FRAZIER LN                                                  0220002200
+FRAZIER RD                                                  0220002200
+FREEDOM LN                                                  0220002200
+FRENCH RD                                                   0220002200
+FRIENDS BR                                                  0220002200
+FRIENDSHIP DR                                               0220002200
+FROGTOWN DR                                                 0220002200
+FRONTAGE RD                                                 0220002200
+FRONTAGE ROAD NO2                                           0220002200
+FRYER HOLW                                                  0220002200
+FULTZ FORK                                                  0220002200
+FULTZ FORK SPUR RD                                          0220002200
+FULTZ RD                                                    0220002200
+G AND M LN                                                  0220002200
+GABE CARROLL CEMETERY RD                                    0220002200
+GAINESWAY DR                                                0220102201
+GALAXY LN                                                   0220102201
+GARDEN LN                                                   0220002200
+GARNET DR                                                   0220002200
+GARVIN BR                                                   0220002200
+GARVIN CEMETERY RD                                          0220002200
+GARVIN HILL CEMETERY RD                                     0220002200
+GARVIN RIDGE                                                0220002200
+GARVIN RIDGE SPUR                                           0220002200
+GAS PLANT RD                                                0220002200
+GEE FORK                                                    0220002200
+GEE RD                                                      0220002200
+GEIGER LN                                                   0220002200
+GEORGE WASHINGTON DR                                        0220002200
+GESLING RD                                                  0220002200
+GILBERT RD                                                  0220002200
+GILLIAM CEMETERY NO2 RD                                     0220002200
+GILLIAM CEMETERY RD                                         0220002200
+GILLUM BR                                                   0220002200
+GIMLET CRK                                                  0220002200
+GIMLET LN                                                   0220002200
+GINGER LN                                                   0220002200
+GLANCY FORK                                                 0220002200
+GLOBE HILL CIR                                              0220002200
+GLOBE LN                                                    0220002200
+GLORY LN                                                    0220002200
+GOLDENROD LN                                                0220002200
+GOLLIHUE NO1 CEMETERY RD                                    0220002200
+GOLLIHUE RD                                                 0220002200
+GOODALE RD                                                  0220002200
+GOODAN CEMETERY RD                                          0220002200
+GOODAN CRK                                                  0220002200
+GOODAN RIDGE                                                0220002200
+GOODYEAR DR                                                 0220002200
+GOOSE CRK                                                   0220002200
+GOOSEBERRY LN                                               0220002200
+GOV WM FIELDS LN                                            0220202202
+GOVERNOR FIELDS DR                                          0220002200
+GRAHN FIREHOUSE DR                                          0220002200
+GRAHN RD                                                    0220002200
+GRAHN SCHOOL LOOP                                           0220002200
+GRAHN ST                                                    0220002200
+GRANVILLE LN                                                0220002200
+GRASSY CRK                                                  0220002200
+GRAYSON LAKE PARK RD                                        0220002200
+GREASY CREEK RD                                             0220002200
+GREEN BR                                                    0220002200
+GREEN OAKS DR                                               0220002200
+GREENBRIAR CT                                               0220002200
+GREENBRIAR DR                                               0220002200
+GREENBRIAR RD                                               0220002200
+GREENBRIAR ST                                               0220002200
+GREENHILL CEMETERY RD                                       0220002200
+GREENHILL RD                                                0220002200
+GREENLAND PLZ                                               0220102201
+GREENTREE RD                                                0220002200
+GREGORY HOLW                                                0220002200
+GREGORY WAY                                                 0220002200
+GRIFFITH AVE                                                0220102201
+GRIZZELL RD                                                 0220002200
+GUM BR                                                      0220002200
+GUNPOWDER LN                                                0220002200
+H PORTER NO2 CEMETERY RD                                    0220002200
+HACKBERRY DR                                                0220002200
+HAIGHT ST                                                   0220002200
+HALEY LN                                                    0220002200
+HALFWAY BR                                                  0220002200
+HALFWAY BR                                                  0680002200
+HALL LANE SPUR                                              0220002200
+HALL LN                                                     0220002200
+HALL RD                                                     0220002200
+HALL ST                                                     0220102201
+HALLS FAMILY CEMETERY RD                                    0220002200
+HAM LN                                                      0220002200
+HAMILTON RD                                                 0220002200
+HAMMERTIGHT RD                                              0220002200
+HANEY LN                                                    0220002200
+HANNAH CEM ROAD SPUR                                        0220002200
+HANNAH CEMETERY LN                                          0220002200
+HANNAH CEMETERY RD                                          0220002200
+HANNAH LN                                                   0220002200
+HANSHAW LN                                                  0220002200
+HANSHAW NO1 CEMETERY RD                                     0220002200
+HANSHAW NO2 CEMETERY RD                                     0220002200
+HANSHAW NO3 CEMETERY RD                                     0220002200
+HANSHAW RD                                                  0220002200
+HARDWOOD LN                                                 0220002200
+HARDY BR                                                    0220002200
+HARGETT DR                                                  0220002200
+HARLEY LN                                                   0220002200
+HARMONY DR                                                  0220002200
+HARRIS LN                                                   0220102201
+HARRIS ST                                                   0220202202
+HARVEY BR                                                   0220002200
+HAULK CEMETERY RD                                           0220002200
+HAWK RD                                                     0220002200
+HAWKENSMITH RD                                              0220002200
+HAY DR                                                      0220002200
+HAYGOOD CEMETERY RD                                         0220002200
+HAYWARD RD                                                  0220002200
+HAYWARD ROAD SPUR                                           0220002200
+HAYWOOD DR                                                  0220002200
+HEART FELT DR                                               0220002200
+HEATHER DR                                                  0220002200
+HEAVENLY LN                                                 0220202202
+HEDGE CEMETERY RD                                           0220002200
+HENDERSON BR                                                0220002200
+HENDERSON BR                                                0220202202
+HENDERSON BRANCH CONNECTOR                                  0220002200
+HENDERSON CEMETERY RD                                       0220002200
+HENDERSON NO1 CEMETERY RD                                   0220002200
+HENDERSON NO2 CEMETERY RD                                   0220002200
+HENDERSON RIDGE                                             0220002200
+HENSLEY CT                                                  0220202202
+HERRING LN                                                  0220002200
+HICKORY FLATS                                               0220002200
+HICKORY HOLW                                                0220002200
+HICKORY HTS                                                 0220202202
+HICKORY NUT LN                                              0220002200
+HICKORY ST                                                  0220102201
+HIDDEN LN                                                   0220002200
+HIDEAWAY DR                                                 0220002200
+HIGH COUNTRY HTS                                            0220002200
+HIGNITE DR                                                  0220002200
+HILL FORK                                                   0220002200
+HILL FORK SPUR                                              0220002200
+HILL LN                                                     0220002200
+HILL RD                                                     0220002200
+HILLCREST DR                                                0220102201
+HILLCREST ST                                                0220002200
+HILLMAN HOLW                                                0220002200
+HILLSIDE ST                                                 0220202202
+HILLTOP DR                                                  0220002200
+HILLVIEW CT                                                 0220102201
+HILLVIEW DR                                                 0220102201
+HILTON BR                                                   0220002200
+HILTON CEMETERY RD                                          0220002200
+HITCHENS RD                                                 0220102201
+HITCHINS AVE                                                0220202202
+HITCHINS CIR                                                0220002200
+HITCHINS RD                                                 0220102201
+HOBERT MCGLONE RIDGE                                        0220002200
+HOG BR                                                      0220002200
+HOGSHEAD HOLW                                               0220002200
+HOLBROOK CEMETERY RD                                        0220002200
+HOLBROOK DR                                                 0220002200
+HOLBROOK LN                                                 0220002200
+HOLBROOK RD                                                 0220002200
+HOLCOMB ST                                                  0220102201
+HOLLOWAY RD                                                 0220002200
+HOLLY LN                                                    0220002200
+HOLZ LN                                                     0220002200
+HOMESTEAD DR                                                0220002200
+HONEY LN                                                    0220202202
+HONEYCUTT DR                                                0220002200
+HONEYSUCKLE LN                                              0220202202
+HOOPLAH ALY                                                 0220002200
+HOOTIE LN                                                   0220002200
+HOPE DR                                                     0220002200
+HOPEWOOD DR                                                 0220002200
+HORN LN                                                     0220002200
+HORN RIDGE                                                  0220002200
+HORSESHOE RD                                                0220002200
+HORTON LN                                                   0220002200
+HORTON ST                                                   0220102201
+HOUATTER RD                                                 0220002200
+HOUCK LN                                                    0220002200
+HOUSTON LN                                                  0220002200
+HOWE RD                                                     0220002200
+HOWERTON RD                                                 0220002200
+HUBERT DR                                                   0220002200
+HUCKLEBERRY WAY                                             0220002200
+HUDGINS HL                                                  0220002200
+HUFF AVE                                                    0220102201
+HUFFS LN                                                    0220002200
+HUFFS RUN                                                   0220002200
+HUGGINS CEMETERY RD                                         0220002200
+HUGH ST                                                     0220102201
+HUMMINGBIRD DR                                              0220002200
+HUNTERS RUN                                                 0220102201
+HURRICANE BR                                                0220002200
+HURRICANE FORK                                              0220002200
+HURRICANE HOLLOW RD                                         0220002200
+HURRICANE HOLW                                              0220002200
+HYLTON CEMETERY                                             0220002200
+I64 E                                                       0220002200
+I64 E                                                       0220102201
+I64 E EXIT156 OFF RAMP TO KY2                               0220002200
+I64 E EXIT156 ON RAMP FROM KY2                              0220002200
+I64 E EXIT161 OFF RAMP TO US60                              0220002200
+I64 E EXIT161 ON RAMP FROM US60                             0220002200
+I64 E EXIT172 CROSSOVER KY1                                 0220102201
+I64 E EXIT172 OFF RAMP TO KY1                               0220102201
+I64 E EXIT172 ON RAMP FROM KY1                              0220002200
+I64 E EXIT179 OFF RAMP TO INDUSTRIAL PKWY 67                0220002200
+I64 E EXIT179 ON RAMP FROM INDUSTRIAL PKWY 67               0220002200
+I64 E REST AREA                                             0220002200
+I64 W                                                       0220002200
+I64 W                                                       0220102201
+I64 W EXIT156 OFF RAMP TO KY2                               0220002200
+I64 W EXIT156 ON RAMP FROM KY2                              0220002200
+I64 W EXIT161 OFF RAMP TO US60                              0220002200
+I64 W EXIT161 ON RAMP FROM US60                             0220002200
+I64 W EXIT172 CROSSOVER KY1                                 0220102201
+I64 W EXIT172 OFF RAMP TO KY1                               0220002200
+I64 W EXIT172 ON RAMP FROM KY1                              0220102201
+I64 W EXIT179 OFF RAMP TO INDUSTRIAL PKWY 67                0220002200
+I64 W EXIT179 ON RAMP FROM INDUSTRIAL PKWY 67               0220002200
+I64 W REST AREA                                             0220002200
+INDEPENDENT LN                                              0220002200
+INDIAN HLS                                                  0220002200
+INDUSTRIAL PARK ACCESS RD                                   0220002200
+INGER LN                                                    0220002200
+INTERSTATE DR                                               0220102201
+IRON HL                                                     0220002200
+IRWIN RD                                                    0220002200
+ISAACS CEMETERY RD                                          0220002200
+ISON CEMETERY RD                                            0220002200
+ISON RD                                                     0220002200
+IVY LN                                                      0220002200
+J GILLIAM CEMETERY RD                                       0220002200
+J R JCT                                                     0220002200
+JACKSON LN                                                  0220002200
+JACKSON RD                                                  0220002200
+JACOBS CEMETERY RD                                          0220002200
+JADE DR                                                     0220002200
+JAKES WAY                                                   0220002200
+JAMES CHAPEL RD                                             0220002200
+JAMES HOLW                                                  0220002200
+JAMES LN                                                    0220002200
+JAMES RD                                                    0220002200
+JAMES WEBB CEMETERY RD                                      0220002200
+JANE LN                                                     0220102201
+JARVIS BR                                                   0220002200
+JASMINE LN                                                  0220102201
+JAY LN                                                      0220002200
+JAYBIRD LN                                                  0220002200
+JENKS RD                                                    0220002200
+JENSEN LN                                                   0220002200
+JESSE HOLW                                                  0220002200
+JESSICA LN                                                  0220202202
+JESSIE LN                                                   0220002200
+JOE BR                                                      0220002200
+JOE BRANCH RD                                               0220002200
+JOHN AND THURMA LN                                          0220002200
+JOHN HUNT MORGAN LN                                         0220202202
+JOHNS RUN                                                   0220002200
+JOHNS RUN CEMETERY RD                                       0220002200
+JOHNS RUN CHURCH RD                                         0220002200
+JOHNSON AVE                                                 0220202202
+JOHNSON CEMETERY RD                                         0220002200
+JONES BR                                                    0220002200
+JONES DR                                                    0220002200
+JONES HOLW                                                  0220002200
+JONES MEMORIAL DR                                           0220202202
+JORDAN CEMETERY RD                                          0220002200
+JORDAN CT                                                   0220202202
+JORDAN FORK                                                 0220002200
+JORDAN LN                                                   0220002200
+JORDAN RD                                                   0220002200
+JUSTICE LN                                                  0220002200
+KAREN CIR                                                   0220002200
+KARIE LN                                                    0220002200
+KARS RD                                                     0220002200
+KASEY CT                                                    0220102201
+KATE ST                                                     0220002200
+KATY BR                                                     0220002200
+KEES BR                                                     0220002200
+KEES RD                                                     0220002200
+KEFFER ST                                                   0220102201
+KELLEY DR                                                   0220002200
+KELLI ST                                                    0220202202
+KELLY LN                                                    0220002200
+KEMPER LN                                                   0220102201
+KENTUCKY AVE                                                0220102201
+KENTUCKY AVE                                                0220202202
+KERMIT RD                                                   0220002200
+KEYSTONE DR                                                 0220202202
+KIBBEY ST                                                   0220102201
+KILGORE RD                                                  0220002200
+KIMBLER RD                                                  0220002200
+KING CEMETERY RD                                            0220002200
+KING RD                                                     0220002200
+KISER BR                                                    0220002200
+KISER CEM ROAD NO2                                          0220002200
+KISER CEMETERY RD                                           0220002200
+KISER FORK RD                                               0220002200
+KISER LN                                                    0220002200
+KISER RD                                                    0220002200
+KITCHEN CEM RD                                              0220002200
+KITCHEN CEMETERY RD                                         0220002200
+KITCHEN HOLW                                                0220002200
+KITCHEN LN                                                  0220002200
+KNIPP BR                                                    0220002200
+KOUNS RD                                                    0220002200
+KRESTVIEW DR                                                0220002200
+KRESTVIEW DR                                                0220102201
+KRETZER RD                                                  0220002200
+KY1                                                         0220002200
+KY1 N                                                       0220002200
+KY1 S                                                       0220002200
+KY1024                                                      0220002200
+KY1025                                                      0220002200
+KY1025                                                      0220202202
+KY1122                                                      0220002200
+KY1444                                                      0220002200
+KY1496                                                      0220002200
+KY1555                                                      0220002200
+KY1612                                                      0220002200
+KY1620                                                      0220002200
+KY1626                                                      0220002200
+KY1654                                                      0220002200
+KY1661                                                      0220002200
+KY1662                                                      0220002200
+KY1704                                                      0220002200
+KY1704                                                      0220202202
+KY174                                                       0220002200
+KY1773                                                      0220002200
+KY1910                                                      0220002200
+KY1947                                                      0220002200
+KY1947                                                      0220102201
+KY1959                                                      0220002200
+KY2                                                         0220002200
+KY2                                                         0220202202
+KY2 N                                                       0220002200
+KY207 N                                                     0220002200
+KY207 S                                                     0220002200
+KY2078                                                      0220002200
+KY2078                                                      0220202202
+KY209                                                       0220002200
+KY2527                                                      0220003200
+KY3298                                                      0220002200
+KY396                                                       0220002200
+KY474                                                       0220002200
+KY474                                                       0680002200
+KY486                                                       0220002200
+KY486                                                       0640002200
+KY504                                                       0220010300
+KY59                                                        0220002200
+KY6222                                                      0220002200
+KY6232                                                      0220002200
+KY7                                                         0220002200
+KY7                                                         0220102201
+KY7 N                                                       0220002200
+KY7 S                                                       0220002200
+KY7 S                                                       0220102201
+KY773                                                       0220002200
+KY854                                                       0220002200
+KY955                                                       0220002200
+KY986                                                       0220002200
+L C LN                                                      0220002200
+LABER RD                                                    0220002200
+LAKE STOP RD                                                0220002200
+LAKEPOINT DR                                                0220002200
+LAKEVIEW CIR                                                0220002200
+LAKEWAY PLZ                                                 0220102201
+LAKEWOOD DR                                                 0220002200
+LANDON LN                                                   0220002200
+LANDSCAPE RD                                                0220002200
+LANDSDOWNE AVE                                              0220002200
+LANDSDOWNE AVE                                              0220102201
+LARK SPUR LN                                                0220002200
+LAST RESORT RD                                              0220002200
+LAURA LN                                                    0220002200
+LAURA ST                                                    0220102201
+LAUREL LN                                                   0220002200
+LAVENDER LN                                                 0220002200
+LAWTON LN                                                   0220002200
+LEADINGHAM BR                                               0220002200
+LEADINGHAM CEMETERY RD                                      0220002200
+LEADINGHAM HOLW                                             0220002200
+LEADINGHAM LOOP                                             0220002200
+LEATHERWOOD BR                                              0220002200
+LEATHERWOOD FORK                                            0220002200
+LEM RD                                                      0220002200
+LEMASTER CEMETERY RD                                        0220002200
+LEMASTER LN                                                 0220002200
+LENA RD                                                     0220002200
+LEON RD                                                     0220002200
+LEONARD RD                                                  0220002200
+LESLIE RD                                                   0220002200
+LEWIS HOLW                                                  0220002200
+LEWIS RD                                                    0220002200
+LIBERTY DR                                                  0220002200
+LIBRARY AVE                                                 0220102201
+LICK BRANCH RD                                              0220002200
+LICK FALLS RD                                               0220002200
+LIL GIMLET RD                                               0220002200
+LIL SANDY ACRES LN                                          0220002200
+LIL SINKING RD                                              0220002200
+LILAC LN                                                    0220002200
+LILLIAN AVE                                                 0220202202
+LILY DR                                                     0220002200
+LIMESTONE RD                                                0220002200
+LINCOLN DR                                                  0220002200
+LINDA LN                                                    0220102201
+LINWOOD DR                                                  0220202202
+LITTLE HUFFS RUN                                            0220002200
+LITTLE LN                                                   0220002200
+LITTLE RIVER RD                                             0220002200
+LITTLE SANDY LN                                             0220102201
+LITTLETON RD                                                0220002200
+LOAD TEMPLE RD                                              0220002200
+LOCUST HL                                                   0220002200
+LODGE HALL HL                                               0220002200
+LOG CABIN RD                                                0220002200
+LOGAN CEMETERY RD                                           0220002200
+LOGAN LN                                                    0220002200
+LONG BR                                                     0220002200
+LONG FORK RD                                                0220002200
+LOST CAVERN TRL                                             0220002200
+LOST HLS                                                    0220002200
+LOVE DR                                                     0220002200
+LOVELL RD                                                   0220002200
+LOWE KING CEMETERY RD                                       0220002200
+LOWER ACCESS RD                                             0220002200
+LOWER GRASSY RD                                             0220002200
+LOWER GRASSY ROAD CONNECTOR                                 0220002200
+LUCKY13 DR                                                  0220002200
+LUCY LN                                                     0220002200
+MADDEN DR                                                   0220002200
+MADDEN LN                                                   0220002200
+MADDOX LN                                                   0220002200
+MADDOX TRL                                                  0220002200
+MADISON LN                                                  0220002200
+MAGGARD CEMETERY RD                                         0220002200
+MAGGARD HL                                                  0220002200
+MAGGARD LN                                                  0220002200
+MAGNOLIA LN                                                 0220002200
+MAINTENANCE DR                                              0220002200
+MAJESTIC DR                                                 0220002200
+MALLARD DR                                                  0220002200
+MALONE LN                                                   0220102201
+MAMAW ROSE PL                                               0220102201
+MANDER BAILEY RD                                            0220002200
+MANDOLIN LN                                                 0220002200
+MANNING CEMETERY RD                                         0220002200
+MANNING NO1 CEMETERY RD                                     0220002200
+MANOR LN                                                    0220002200
+MAPLE ST                                                    0220102201
+MAPLEWOOD DR                                                0220102201
+MARCUM RD                                                   0220002200
+MARIGOLD LN                                                 0220002200
+MARIGOLD LN                                                 0220102201
+MARKWELL RD                                                 0220002200
+MARSHALL AVE                                                0220102201
+MARSHALL CEMETERY RD                                        0220002200
+MARSHALL HOLW                                               0220002200
+MARVIN HICKS DR                                             0220002200
+MARY BR                                                     0220002200
+MARY JANE DR                                                0220002200
+MARYANNE LN                                                 0220002200
+MASON CIR                                                   0220202202
+MATTHEW DR                                                  0220002200
+MATTHEW HL                                                  0220002200
+MATTHEW LN                                                  0220002200
+MAUDE RD                                                    0220002200
+MAUK CEMETERY RD                                            0220002200
+MAY CEMETERY RD                                             0220002200
+MCBETH LN                                                   0220002200
+MCCLAVE ST                                                  0220102201
+MCCONNELL BR                                                0220002200
+MCCOY DR                                                    0220002200
+MCCOY RD                                                    0220102201
+MCDANIEL CEMETERY RD                                        0220002200
+MCDAVID BLVD                                                0220102201
+MCDAVID DR                                                  0220002200
+MCDAVID NO1 CEMETERY RD                                     0220002200
+MCDAVID NO2 CEMETERY RD                                     0220002200
+MCGINNIS CEMETERY RD                                        0220002200
+MCGINNIS KISER CEMETERY RD                                  0220002200
+MCGINNIS RD                                                 0220002200
+MCGLONE CRK                                                 0220002200
+MCGLONE LN                                                  0220002200
+MCGUIRE LN                                                  0220002200
+MCGUIRE RD                                                  0220002200
+MCHENRY RD                                                  0220002200
+MCKENZIE LN                                                 0220002200
+MCWHORTER CEMETERY RD                                       0220002200
+MEADOW BR                                                   0220002200
+MEADOW RD                                                   0220002200
+MEADOWBROOK LN                                              0220002200
+MEADOWLARK LN                                               0220002200
+MEADOWVIEW RD                                               0220002200
+MEADOWVIEW RD                                               0220102201
+MEDINA HL                                                   0220002200
+MELODY LN                                                   0220002200
+MEMORIAL CIRCLE NO1                                         0220102201
+MEMORIAL CIRCLE NO2                                         0220102201
+MEMORIAL DR                                                 0220102201
+MEMORIAL PARK DR                                            0220102201
+MEMORIAL PKWY                                               0220102201
+MEMORY DR                                                   0220102201
+MEMORY LN                                                   0220002200
+MENIFEE RD                                                  0220002200
+MENIX RD                                                    0220002200
+MESSER DR                                                   0220002200
+MESSER ROGERS CEMETERY RD                                   0220002200
+MICKEY MANTLE DR                                            0220002200
+MIDDLETON RD                                                0220002200
+MIDLAND AVE                                                 0220002200
+MIDLAND TRL                                                 0220102201
+MILE BR                                                     0220002200
+MILLER LN                                                   0220002200
+MILLER RD                                                   0220002200
+MILLS BR                                                    0220002200
+MILLS BRANCH RD                                             0220202202
+MILLS ST                                                    0220202202
+MIRANDA LN                                                  0220002200
+MISTLETOE RD                                                0220002200
+MISTY LAKE DR                                               0220002200
+MISTY LAKE DRIVE SPUR                                       0220002200
+MISTY MEADOWS                                               0220002200
+MISTY RIDGE                                                 0220002200
+MOBLEY TRL                                                  0220002200
+MOCABEE CREEK RD                                            0220002200
+MOCABEE LN                                                  0220002200
+MOCKINGBIRD LN                                              0220002200
+MONUMENT RD                                                 0220002200
+MOONBEAM DR                                                 0220002200
+MOORE BR                                                    0220002200
+MOPAR DR                                                    0220002200
+MORGAN AVE                                                  0220202202
+MORGAN CEM ROAD NO2                                         0220002200
+MORGAN CEMETERY RD                                          0220002200
+MORGAN CT                                                   0220102201
+MORNING DR                                                  0220002200
+MORRISON LN                                                 0220002200
+MOUNTAIN VW                                                 0220002200
+MT SAVAGE LN                                                0220002200
+MULBERRY LN                                                 0220002200
+MULLINS HL                                                  0220002200
+MULLINS RD                                                  0220002200
+MUSHROOM RD                                                 0220002200
+MUSIC LN                                                    0220002200
+MUSTANG LN                                                  0220002200
+MYRIAH DR                                                   0220002200
+N ANGLIN BR                                                 0220002200
+N CAROL MALONE BLVD                                         0220102201
+N COURT ST                                                  0220102201
+N HILL ST                                                   0220102201
+N HORD ST                                                   0220102201
+N SAND RIDGE                                                0220002200
+NATIONAL AVE                                                0220102201
+NAVAJO TRL                                                  0220002200
+NAZARENE HOLW                                               0220002200
+NEWELL CEMETERY RD                                          0220002200
+NEWSON CEMETERY RD                                          0220002200
+NICHOLAS RD                                                 0220002200
+NICHOLAS RD                                                 0220102201
+NICHOLAS ROAD CT                                            0220102201
+NICHOLAS ROAD SPUR                                          0220002200
+NO1444 SPUR NO2 RD                                          0220002200
+NOEL LN                                                     0220002200
+NORTHSIDE LN                                                0220002200
+NUNN RD                                                     0220002200
+NURSERY DR                                                  0220002200
+OAK CREST DR                                                0220002200
+OAK GROVE CEMETERY RD                                       0220002200
+OAK HILLS CIR                                               0220002200
+OAK HLS                                                     0220002200
+OAK POINT RD                                                0220002200
+OAK ST                                                      0220102201
+OAK ST                                                      0220202202
+OAKLAND CEMETERY RD                                         0220002200
+OAKLAND RIDGE                                               0220002200
+OAKRIDGE AVE                                                0220002200
+OATS HILL CIR                                               0220002200
+OATS HILL RD                                                0220002200
+OFFILL LN                                                   0220002200
+OFFILL LOOP                                                 0220002200
+OKERA RD                                                    0220002200
+OLD FULTZ RD                                                0220002200
+OLD KY 1910                                                 0220002200
+OLD KY 7                                                    0220002200
+OLD KY 773                                                  0220002200
+OLD KY 773 SPUR RD                                          0220002200
+OLD SAW MILL RD                                             0220002200
+OLD SOLDIER RD                                              0220002200
+OLD SOUTHERN LN                                             0220002200
+OLD TOWN BRANCH CONNECTOR                                   0220002200
+OLD TOWN BRANCH RD                                          0220002200
+OLD TOWN BRANCH RD                                          0220102201
+OLD US 60                                                   0220002200
+OLD US 60                                                   0220202202
+OLD WILSON CRK                                              0220002200
+OLIVE HILL FIRE STATION SERVICE RD                          0220202202
+OLIVE HILL MEMORIAL PARK CEMETERY                           0220202202
+OLIVE ST                                                    0220202202
+OLIVER RD                                                   0220002200
+OLLIE RIDGE                                                 0220002200
+ONYX ST                                                     0220102201
+OPOSSUM HOLW                                                0220002200
+ORCHARD AVE                                                 0220202202
+ORCHARD RD                                                  0220002200
+ORCUTT LN                                                   0220002200
+OSBORNE CEMETERY RD                                         0220002200
+OSCAR CEMETERY RD                                           0220002200
+OWEN CEMETERY RD                                            0220002200
+OWENS LN                                                    0220002200
+PACK CEMETERY RD                                            0220002200
+PALM DR                                                     0220002200
+PALOMINO DR                                                 0220002200
+PALOMINO FORK                                               0220002200
+PANSY LN                                                    0220002200
+PARADISE HL                                                 0220102201
+PARADISE HOLW                                               0220002200
+PARADISE VLY                                                0220002200
+PARK ST                                                     0220102201
+PARKER HOLW                                                 0220002200
+PARKER LN                                                   0220002200
+PARKER MEMORIAL DR                                          0220202202
+PARKER RD                                                   0220002200
+PARKVIEW ST                                                 0220202202
+PARSONS NO1 CEMETERY RD                                     0220002200
+PARSONS NO2 CEMETERY RD                                     0220002200
+PAT LN                                                      0220002200
+PATCHWORK LN                                                0220002200
+PATTON CEMETERY RD                                          0220002200
+PATTON DR                                                   0220002200
+PEACEFUL RIVER RD                                           0220102201
+PEACH ST                                                    0220202202
+PEAK LN                                                     0220002200
+PEAK VW                                                     0220102201
+PECAN HOLW                                                  0220002200
+PEFFER DR                                                   0220002200
+PELFREY AVE                                                 0220002200
+PELFREY CEMETERY RD                                         0220002200
+PELFREY NO2 CEMETERY RD                                     0220002200
+PENNINGTON CEMETERY RD                                      0220002200
+PENNINGTON HOLW                                             0220002200
+PENNINGTON LN                                               0220002200
+PENNINGTON RD                                               0220002200
+PENNY LN                                                    0220002200
+PENSON ST                                                   0220002200
+PENSON ST                                                   0220202202
+PEOPLES CT                                                  0220002200
+PERRY LN                                                    0220002200
+PERRY LOOP                                                  0220002200
+PERRY RD                                                    0220002200
+PERRY TABERNACLE RD                                         0220002200
+PEYTON LN                                                   0220002200
+PHILLY DR                                                   0220002200
+PINE DR                                                     0220002200
+PINE GRV                                                    0220002200
+PINE LN                                                     0220002200
+PINE RIDGE DR                                               0220002200
+PINE SPRINGS RD                                             0220002200
+PINEBARK LN                                                 0220002200
+PINEHURST ST                                                0220002200
+PINEVIEW ST                                                 0220102201
+PIPE RD                                                     0220002200
+PIPELINE RD                                                 0220002200
+PITCHED TENT DR                                             0220002200
+PLANTATION DR                                               0220002200
+PLANTATION DR                                               0220102201
+PLEASANT VALLEY AVE                                         0220002200
+PLEASANT VALLEY CEMETERY RD                                 0220002200
+PLEASANT VW                                                 0220002200
+POLKBERRY DR                                                0220002200
+POLLY HOLW                                                  0220002200
+POMEROY ST                                                  0220102201
+POND RD                                                     0220002200
+PONDEROSA DR                                                0220002200
+POP RD                                                      0220002200
+POPE CEMETERY RD                                            0220002200
+POPE HOLW                                                   0220002200
+POPES FORK                                                  0220002200
+POPLAR HTS                                                  0220102201
+PORTER CEMETERY NO1 RD                                      0220002200
+PORTER CEMETERY NO2 RD                                      0220002200
+PORTER CEMETERY NO3 RD                                      0220002200
+PORTER RD                                                   0220002200
+PORTERS NO1 CEMETERY RD                                     0220002200
+POST LN                                                     0220002200
+POST OFFICE AVE                                             0220002200
+POTTERY LN                                                  0220002200
+POWELL HOLLOW RD                                            0220002200
+POWELL HOLW                                                 0220002200
+POWERS ST                                                   0220102201
+PRATER RD                                                   0220002200
+PRESTWICK PT                                                0220002200
+PRICE LOOP                                                  0220002200
+PRICHARD SCHOOL DR                                          0220102201
+PRICHARD ST                                                 0220102201
+PRICHARDS DR                                                0220002200
+PRIMROSE LN                                                 0220002200
+PRINCESS DR                                                 0220002200
+PRIVATE DR                                                  0220002200
+PRIVATE FAMILY CEMETERY RD                                  0220002200
+PRIVATE RD                                                  0220002200
+PROCTOR BR                                                  0220002200
+PROSPERITY HOLW                                             0220002200
+PROVIDENCE RD                                               0220002200
+PSIMER RD                                                   0220002200
+PULLIAM RD                                                  0220002200
+PUMP STATION RD                                             0220002200
+PUMPKIN PATCH RD                                            0220002200
+PURNELL CEMETERY RD                                         0220002200
+QUAIL DR                                                    0220002200
+QUEEN LN                                                    0220002200
+RACCOON LN                                                  0220002200
+RACHEL ST                                                   0220002200
+RACHEL ST                                                   0220202202
+RADIO TOWER RD                                              0220002200
+RAGLAND ST                                                  0220202202
+RAIDER LN                                                   0220002200
+RAILROAD BED                                                0220002200
+RAILROAD ST                                                 0220202202
+RAINTREE LN                                                 0220002200
+RAMBLING RIDGE RD                                           0220002200
+RAMEY BR                                                    0220002200
+RAMEY HOLW                                                  0220002200
+RAMEY RD                                                    0220002200
+RANCH RD                                                    0220002200
+RANDALL RD                                                  0220002200
+RANDY SEXTON CEMETERY RD                                    0220002200
+RANSOM BURCHETT RD                                          0220002200
+RAQUEL BR                                                   0220002200
+RASPBERRY LN                                                0220002200
+RASTORFER RD                                                0220002200
+RATLIFF BR                                                  0220002200
+RATLIFF NO1 CEMETERY RD                                     0220002200
+RATLIFFNO2 CEMETERY RD                                      0220002200
+RATTLESNAKE BR                                              0220002200
+RATTLESNAKE DR                                              0220002200
+RATTLESNAKE FORK                                            0220002200
+RATTLESNAKE RD                                              0220002200
+RATTLESNAKE RIDGE                                           0220002200
+RATTLESNAKE SPUR RD                                         0220002200
+RAYBURN CEMETERY RD                                         0220002200
+RAYBURN LN                                                  0220002200
+RAYBURN ST                                                  0220202202
+RED FOX DR                                                  0220002200
+RED OAK HTS                                                 0220002200
+RED ROSE CIR                                                0220202202
+REDBERRY DR                                                 0220002200
+REDBERRY FORK                                               0220002200
+REDBERRY RUN                                                0220002200
+REDBUD LN                                                   0220002200
+REDSTONE DR                                                 0220002200
+REED RUN                                                    0220002200
+REEDER RD                                                   0220002200
+REESE ST                                                    0220202202
+REEVES BR                                                   0220002200
+REEVES CEMETERY RD                                          0220002200
+REEVES HOLW                                                 0220002200
+REEVES LANE SPUR                                            0220002200
+REEVES LN                                                   0220002200
+REGENCY LOOP                                                0220002200
+REHEBOTH RD                                                 0220002200
+REIDS SHADY LN                                              0220002200
+REMINGTON DR                                                0220002200
+RESIDENCE LN                                                0220002200
+REUBEN RD                                                   0220002200
+REUNION DR                                                  0220002200
+REYNOLDS CEMETERY RD                                        0220002200
+REYNOLDS LN                                                 0220002200
+RICE CEMETERY RD                                            0220002200
+RICE LN                                                     0220002200
+RICHARDS DR                                                 0220002200
+RICHARDSON RD                                               0220002200
+RIDGE RD                                                    0220202202
+RIDGETOP DR                                                 0220002200
+RIDGEWOOD DR                                                0220002200
+RIFFE HOLW                                                  0220002200
+RIGGS CEMETERY RD                                           0220002200
+RIGSBEES RD                                                 0220002200
+RIVER BEND WAY                                              0220002200
+RIVER LN                                                    0220002200
+RIVER RD                                                    0220102201
+RIVERS CEMETERY RD                                          0220002200
+RIVERS LN                                                   0220002200
+RIVERVIEW RD                                                0220002200
+RIVERWOOD DR                                                0220002200
+ROAR CEMETERY RD                                            0220002200
+ROAR DR                                                     0220002200
+ROARK CEMETERY RD                                           0220002200
+ROARK LN                                                    0220002200
+ROBERT AND MARY AVE                                         0220102201
+ROBIN HL                                                    0220002200
+ROBIN RD                                                    0220102201
+ROBIN RUN RD                                                0220002200
+ROBINSON CEMETERY RD                                        0220002200
+ROBINSON ST                                                 0220102201
+ROCK HILL RD                                                0220002200
+ROCK SPRINGS                                                0220002200
+ROCKHOUSE RD                                                0220002200
+ROCKY RD                                                    0220002200
+ROCKY TOP DR                                                0220002200
+ROE CEMETERY RD                                             0220002200
+ROE LN                                                      0220002200
+ROGER PATTON DR                                             0220202202
+ROGERS HOLW                                                 0220002200
+ROSE CEMETERY RD                                            0220002200
+ROSE FORK                                                   0220002200
+ROSE RIDGE                                                  0220006800
+ROSE ST                                                     0220102201
+ROSEBERRY RD                                                0220002200
+ROSS AND MABLE AVE                                          0220202202
+ROSS CHAPEL                                                 0220002200
+ROSS CHAPEL CEMETERY RD                                     0220002200
+ROUND DOG RD                                                0220002200
+RUBY LN                                                     0220002200
+RUGER DR                                                    0220002200
+RUPERT LN                                                   0220102201
+RUPERT ST                                                   0220102201
+RUSSELL CEMETERY RD                                         0220002200
+RUTH ST                                                     0220102201
+S ANGLIN BR                                                 0220002200
+S BOURBON HOLW                                              0220002200
+S CAROL MALONE BLVD                                         0220102201
+S CAROLINA DR                                               0220002200
+S COLD SPRING RD                                            0220202202
+S COURT ST                                                  0220002200
+S COURT ST                                                  0220102201
+S GREEN WAY                                                 0220002200
+S HILL ST                                                   0220102201
+S HORD ST                                                   0220102201
+S NICHOLAS RD                                               0220002200
+S SAND RIDGE                                                0220002200
+S STOVALL LN                                                0220002200
+S VIEW CT                                                   0220102201
+SABLE ST                                                    0220202202
+SALEM RD                                                    0220002200
+SALLEE RD                                                   0220002200
+SALLEE ROAD NO2                                             0220002200
+SALTER RD                                                   0220002200
+SAMANTHA ST                                                 0220202202
+SAMMONS CT                                                  0220202202
+SAMMONS HOLW                                                0220002200
+SAMMONS RD                                                  0220002200
+SAND ROCK RD                                                0220002200
+SANDY HILL DR                                               0220002200
+SANTA CLAUS LN                                              0220202202
+SAP RD                                                      0220002200
+SAPPHIRE DR                                                 0220202202
+SARTAINE CT                                                 0220202202
+SASSAFRAS DR                                                0220002200
+SATELLITE RD                                                0220002200
+SAWGRASS LN                                                 0220102201
+SAWMILL RD                                                  0220002200
+SCARLET OAK BR                                              0220002200
+SCENIC DR                                                   0220202202
+SCHOOLHOUSE HOLW                                            0220002200
+SCOTT BR                                                    0220002200
+SCOTT ST                                                    0220202202
+SEAGRAVES HL                                                0220002200
+SEAGRAVES HOLW                                              0220002200
+SEAGRAVES LN                                                0220002200
+SEDGEWOOD ST                                                0220002200
+SEMINOLE LN                                                 0220002200
+SERENITY LN                                                 0220002200
+SERGENT LN                                                  0220002200
+SERVICE DRIVE NO3                                           0220002200
+SERVICE STATION DR                                          0220002200
+SEXTON CEMETERY RD                                          0220002200
+SEXTON LN                                                   0220002200
+SEYMOUR GARVIN CEMETERY RD                                  0220002200
+SHADOWWOOD DR                                               0220002200
+SHADY LN                                                    0220102201
+SHADY VLY                                                   0220002200
+SHAELYNN ACRS                                               0220002200
+SHAKESPEARE LN                                              0220002200
+SHANNON AVE                                                 0220002200
+SHANNON AVE                                                 0220202202
+SHANTY BR                                                   0220002200
+SHAWHAN LANE SPUR                                           0220002200
+SHAWHAN LN                                                  0220002200
+SHELTON DR                                                  0220002200
+SHEPARD LN                                                  0220002200
+SHERWOOD DR                                                 0220002200
+SHOP BR                                                     0220002200
+SHOP BRANCH RD                                              0220002200
+SHORT LN                                                    0220002200
+SHORT RIDGE                                                 0220002200
+SHORT ST                                                    0220102201
+SHORT ST                                                    0220202202
+SHYROCK RD                                                  0220002200
+SILAS WEBB CEMETERY NO2 RD                                  0220002200
+SILICA BR                                                   0220002200
+SILVER LEAF DR                                              0220002200
+SILVER MINE BR                                              0220002200
+SIMPSON LN                                                  0220002200
+SINKING CRK                                                 0220002200
+SKAGGS LN                                                   0220002200
+SKYLINE LN                                                  0220002200
+SKYVIEW LN                                                  0220002200
+SLEEPY HOLW                                                 0220002200
+SLOAN LN                                                    0220002200
+SMITH BR                                                    0220002200
+SMITH RUN                                                   0220002200
+SMITHS CRK                                                  0220002200
+SMOKEY CRK                                                  0220002200
+SMOKEY HOLW                                                 0220002200
+SMOKEY LAKE LN                                              0220002200
+SMOKEY VLY                                                  0220002200
+SNODGRASS LN                                                0220102201
+SORGHUM DR                                                  0220002200
+SOUTH AVE                                                   0220102201
+SOUTHGATE CT                                                0220102201
+SOUTHPAW LN                                                 0220002200
+SPARKS AVE                                                  0220202202
+SPARKS RD                                                   0220002200
+SPARKS ST                                                   0220202202
+SPARROW LN                                                  0220002200
+SPEAKS ST                                                   0220002200
+SPIRIT LN                                                   0220102201
+SPLENDOR LN                                                 0220002200
+SPRING HILL DR                                              0220002200
+SPRING ST                                                   0220102201
+SPRUCE LN                                                   0220002200
+SQUARE LICK RD                                              0220002200
+SQUIRREL DR                                                 0220002200
+STAFFORD HL                                                 0220002200
+STAFFORD LN                                                 0220002200
+STALLARD CEMETERY RD                                        0220002200
+STAMPER RD                                                  0220002200
+STAN BR                                                     0220002200
+STAPLETON RD                                                0220002200
+STARLING DR                                                 0220002200
+STEELE RD                                                   0220002200
+STEGALL RD                                                  0220002200
+STEVENS CEMETERY RD                                         0220002200
+STEVENS LN                                                  0220002200
+STEWARD BR                                                  0220002200
+STEWART CEMETERY                                            0220002200
+STINSON CREEK RD                                            0220002200
+STINSON RD                                                  0220002200
+STONE LN                                                    0220002200
+STONE ST                                                    0220102201
+STONEWOOD DR                                                0220002200
+STONEYBROOK DR                                              0220002200
+STOVALL LN                                                  0220102201
+STRAWBERRY DR                                               0220002200
+STRING TOWN CIR                                             0220002200
+STRIP JOB RD                                                0220002200
+STUMP RUN RD                                                0220002200
+STURGILL RD                                                 0220002200
+SUBSTATION RD                                               0220002200
+SUGAR CANE HOLW                                             0220002200
+SUGARTREE RD                                                0220002200
+SULFUR SPGS                                                 0220002200
+SULLIVAN CEMETERY RD                                        0220002200
+SUMAC RD                                                    0220002200
+SUNDOWN RD                                                  0220002200
+SUNFLOWER DR                                                0220002200
+SUNNYSIDE DR                                                0220002200
+SUNRISE RD                                                  0220002200
+SUNSET DR                                                   0220002200
+SUNSHINE DR                                                 0220002200
+SUPER EIGHT LN                                              0220102201
+SUTTON RD                                                   0220002200
+SWEENEY RD                                                  0220002200
+SWEET CT                                                    0220002200
+SWEET PEA LN                                                0220002200
+SWEET WATER LN                                              0220002200
+SWEETWATER ST                                               0220002200
+SYCAMORE LN                                                 0220002200
+SYCAMORE ST                                                 0220102201
+SYDNEY LN                                                   0220002200
+SYLVIA DR                                                   0220002200
+T GILLIAM RD                                                0220002200
+TABOR CEMETERY RD                                           0220002200
+TACKETT CEMETERY RD                                         0220002200
+TACKETT LN                                                  0220002200
+TACKETTS DR                                                 0220002200
+TAIRA                                                       0220002200
+TAL RD                                                      0220002200
+TANGER DR                                                   0220002200
+TARK HILL RD                                                0220002200
+TATER KNOB HL                                               0220002200
+TAYLOR BR                                                   0220002200
+TAYLOR HOLW                                                 0220002200
+TEABERRY DR                                                 0220002200
+TENNESSEE AVE                                               0220202202
+TENNYSON LN                                                 0220002200
+TERRY HOLW                                                  0220002200
+THAMER RAYBURN RD                                           0220002200
+THISTLE LN                                                  0220002200
+THOMAS HOLW                                                 0220002200
+THOMAS KING CEMETERY                                        0220002200
+THOMAS LN                                                   0220002200
+THOMPSON LN                                                 0220002200
+THORN BIRD LN                                               0220002200
+THREE PINE CIR                                              0220002200
+THRU WAY                                                    0220002200
+THURMAN BR                                                  0220002200
+TICK RIDGE                                                  0220002200
+TICK RIDGE FORK                                             0220002200
+TICK RIDGE FORK                                             0320002200
+TIERNEY CT                                                  0220202202
+TIGER LN                                                    0220002200
+TIMBER RIDGE                                                0220002200
+TIMBER WOLF DR                                              0220002200
+TIMBERWOOD DR                                               0220002200
+TIMMS RD                                                    0220002200
+TIMMS ROAD SPUR                                             0220002200
+TINY BUSH LN                                                0220002200
+TITUS LEVI LOOP                                             0220002200
+TOBACCO RD                                                  0220002200
+TOJO RD                                                     0220002200
+TOM T HALL BLVD                                             0220202202
+TOMO NO2 RD                                                 0220002200
+TOMO RD                                                     0220002200
+TOWER DR                                                    0220002200
+TOWN AND COUNTY LN                                          0220202202
+TOWN HOUSE DR                                               0220102201
+TOWNSEND AVE                                                0220102201
+TRACE RD                                                    0220002200
+TRAILER ALY                                                 0220102201
+TRAILER DR                                                  0220002200
+TRAILER LINE LN                                             0220102201
+TREAP LN                                                    0220002200
+TRECIA LN                                                   0220102201
+TRIANGLE LN                                                 0220002200
+TRINITY DR                                                  0220002200
+TRUCK LN                                                    0220102201
+TRUCK STOP LN                                               0220002200
+TRUMBO HILL CEMETERY CIR                                    0220002200
+TRUMBO RD                                                   0220002200
+TULIP DR                                                    0220002200
+TULIP LN                                                    0220002200
+TUNNEL HILL RD                                              0220002200
+TUNNEL HILL SPUR RD                                         0220002200
+TWILIGHT DR                                                 0220002200
+TWIN ST                                                     0220002200
+TYGART ST                                                   0220202202
+TYGARTS BTM                                                 0220002200
+TYGARTS CREEK FORK                                          0220002200
+TYGARTS CREEK RD                                            0220002200
+TYGARTS CREEK ROAD CONNECTOR                                0220002200
+UNDERWOOD CEMETERY RD                                       0220002200
+UNDERWOOD LN                                                0220002200
+UNDERWOOD RD                                                0220002200
+UPPER GRASSY RD                                             0220002200
+UPPER HEART CEMETERY RD                                     0220002200
+UPPER SMOKEY RD                                             0220002200
+US60                                                        0220002200
+US60                                                        0220102201
+US60 E                                                      0220002200
+US60 E                                                      0220102201
+US60 W                                                      0220002200
+V BEAR LN                                                   0220002200
+VALANDINGHAM DR                                             0220002200
+VALENTINE LN                                                0220102201
+VALLEY LN                                                   0220002200
+VALLEYVIEW RD                                               0220002200
+VANHOOSE CEMETERY RD                                        0220002200
+VELL LN                                                     0220002200
+VICTORIA WAY                                                0220102201
+VICTORY LN                                                  0220002200
+VILLA DR                                                    0220002200
+VINCENT HOLW                                                0220002200
+VINCENT RD                                                  0220002200
+VINEWOOD LN                                                 0220002200
+VIOLET DR                                                   0220102201
+VIRGINIA AVE                                                0220202202
+VISTA VW                                                    0220002200
+VISTA VW                                                    0220102201
+W 2ND STREET ALY                                            0220102201
+W BRINEGAR RD                                               0220002200
+W BROOK DR                                                  0220202202
+W C GILBERT RD                                              0220002200
+W CARTER DR                                                 0220202202
+W CRETCHER ST                                               0220002200
+W MAIN ST                                                   0220102201
+W STAR HL                                                   0220002200
+W STOVALL LN                                                0220102201
+W SUNSET HL                                                 0220002200
+W TOM T HALL BLVD                                           0220202202
+W TROUGH CAMP RD                                            0220002200
+WADDELL BR                                                  0220002200
+WADDELL CEMETERY RD                                         0220002200
+WAGON WHEEL CEMETERY RD                                     0220002200
+WALKER CEMETERY RD                                          0220002200
+WALKER RD                                                   0220002200
+WALL ST                                                     0220002200
+WALL ST                                                     0220202202
+WALLACE HL                                                  0220002200
+WALNUT DR                                                   0220102201
+WALNUT GRV                                                  0220006800
+WALNUT LN                                                   0220002200
+WALNUT SPRGS                                                0220002200
+WALTERS LN                                                  0220002200
+WARRIOR DR                                                  0220002200
+WARRIOR DR                                                  0220202202
+WATER AVE                                                   0220202202
+WATER PLANT RD                                              0220002200
+WATER TANK RD                                               0220002200
+WATERFALL CRK                                               0220002200
+WATERSIDE DR                                                0220002200
+WATKINS LN                                                  0220002200
+WATSON CEMETERY SPUR RD                                     0220002200
+WATSON NO2 CEMETERY RD                                      0220002200
+WAUGH CEMETERY RD                                           0220002200
+WEBB CEMETERY RD                                            0220002200
+WEBB CIR                                                    0220002200
+WEBB LAKE DR                                                0220002200
+WEBB LN                                                     0220002200
+WEBB RIDGE                                                  0220006800
+WEBB ST                                                     0220002200
+WEBB ST                                                     0220202202
+WELLS BR                                                    0220002200
+WELLS NO1 CEMETERY RD                                       0220002200
+WELLS RD                                                    0220002200
+WHISPERING WDS                                              0220002200
+WHITE LOOP                                                  0220002200
+WHITE LOOP NO2                                              0220002200
+WHITE OAK DR                                                0220002200
+WHITE PINE DR                                               0220002200
+WHITE PINE HOLW                                             0220002200
+WHITE RD                                                    0220002200
+WHITEHOUSE HOLW                                             0220002200
+WHITETAIL LN                                                0220002200
+WHITT ST                                                    0220202202
+WICKER HOLLOW RD                                            0220002200
+WICKER HOLW                                                 0220002200
+WILBURN CEMETERY RD                                         0220002200
+WILCOX DR                                                   0220002200
+WILCOX RD                                                   0220002200
+WILDCAT DR                                                  0220102201
+WILDCAT DR                                                  0220202202
+WILDFLOWER DR                                               0220102201
+WILDWOOD LN                                                 0220002200
+WILLARD SCHOOL AVE                                          0220002200
+WILLIAMS CEMETERY                                           0220002200
+WILLIAMS CREEK CIR                                          0220002200
+WILLIAMS CRK                                                0220002200
+WILLIAMS LN                                                 0220002200
+WILLIS ST                                                   0220102201
+WILLOW DR                                                   0220002200
+WILLOW DR                                                   0220102201
+WILSON BR                                                   0220002200
+WILSON CEMETERY RD                                          0220002200
+WILSON CREEK RD                                             0220002200
+WINDBURN LN                                                 0220002200
+WINDING WAY LN                                              0220002200
+WINDY CRK                                                   0220002200
+WINTER HAVEN LN                                             0220002200
+WK LN                                                       0220002200
+WOLF CRK                                                    0220002200
+WOLF RD                                                     0220002200
+WOLFPEN CEMETERY RD                                         0220002200
+WOMACK RD                                                   0220102201
+WOMSTEAD DR                                                 0220002200
+WOODCHIP LN                                                 0220002200
+WOODCREST DR                                                0220102201
+WOODLAND CT                                                 0220002200
+WOODLAND DR                                                 0220002200
+WOODLAND HTS                                                0220002200
+WOODLAND WAY                                                0220002200
+WOODLAND WAY                                                0220102201
+WOODMILL DR                                                 0220002200
+WOODROCK DR                                                 0220002200
+WOODROW RD                                                  0220002200
+WOODS DR                                                    0220102201
+WOODSIDE ST                                                 0220202202
+WOODVILLE LOOP                                              0220002200
+WOODVILLE RD                                                0220002200
+WOODVILLE RD                                                0220102201
+WOODY LN                                                    0220002200
+WREN LN                                                     0220002200
+WRIGHT BR                                                   0220002200
+YELLOW BIRD LN                                              0220002200
+YELLOWSTONE DR                                              0220002200
+ZEIGLER CIR                                                 0220002200
+ZEIGLER LN                                                  0220002200
+ZORNES BR                                                   0220002200

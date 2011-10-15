@@ -1,0 +1,1042 @@
+1ST ALY                                                     0140201402
+1ST AVE                                                     0140301403
+1ST ST                                                      0140101401
+1ST ST                                                      0140201402
+1ST ST                                                      0140301403
+2ND ALY                                                     0140201402
+2ND ST                                                      0140001400
+2ND ST                                                      0140101401
+2ND ST                                                      0140301403
+3RD ST                                                      0140101401
+3RD ST                                                      0140201402
+3RD ST                                                      0140301403
+3RD STREET APARTMENTS                                       0140101401
+4179 LN                                                     0140001400
+4TH ST                                                      0140201402
+4TH ST                                                      0140301403
+5TH ST                                                      0140201402
+5TH ST                                                      0140301403
+6TH ST                                                      0140201402
+6TH ST                                                      0140301403
+7TH ST                                                      0140201402
+8TH ST                                                      0140201402
+A H WILSON LN                                               0140001400
+A J DAVIDSON RD                                             0140001400
+ADCOX RD                                                    0140001400
+AIRPORT RD                                                  0140001400
+AIRPORT RD                                                  0140101401
+ALDRIDGE LN                                                 0140001400
+ALEXANDER ACRES LN                                          0140001400
+ALEXANDRIA DR                                               0140001400
+ALFRED WOODS RD                                             0140001400
+ALLEN BALLMAN LN                                            0140001400
+ALLEN RHODES LN                                             0140001400
+ALLEN RHODES SPUR RD                                        0140001400
+ALLGOOD RD                                                  0140001400
+ALLIE BROWN EAST RD                                         0140001400
+ALLIE BROWN WEST RD                                         0140001400
+ALLISON WAY                                                 0140301403
+AMMONS CHURCH RD                                            0140001400
+AMMONS STEPHENSPORT RD                                      0140001400
+AMMONS STEPHENSPORT SPUR RD                                 0140001400
+ANDREW LN                                                   0140001400
+ANNIE WHITWORTH RD                                          0140001400
+ANSEL HORSLEY RD                                            0140001400
+ANSEL HORSLEY SPUR RD                                       0140001400
+APARTMENTS                                                  0140101401
+ARMES LN                                                    0140001400
+ARMES PAYNE RD                                              0140001400
+ARMES SHREWSBURY RD                                         0140001400
+ARTHUR CARMAN RD                                            0140001400
+ARTHUR MOORE RD                                             0140001400
+ASARCO RD                                                   0140001400
+ASHBY ST                                                    0140301403
+ASHLEY DR                                                   0140101401
+ASKIN SPUR RD                                               0140001400
+ATER HEIGHTS RD                                             0140001400
+ATWELL TAUL RD                                              0140001400
+ATWOOD LN                                                   0140001400
+ATWOOD SPUR RD                                              0140001400
+AXTEL CIRCLE LOOP                                           0140001400
+BALLARD SMITH RD                                            0140001400
+BALLMAN FARM RD                                             0140001400
+BALLMAN MCCOY RD                                            0140001400
+BALLPARK RD                                                 0140101401
+BANK ST                                                     0140101401
+BARR GREENWELL RD                                           0140001400
+BARR MOUNTAIN RD                                            0140001400
+BARR SIMMONS LN                                             0140001400
+BASHAM ALLEN RD                                             0140001400
+BASIN SPRING BEWLEYVILLE RD                                 0140001400
+BASIN SPRINGS FARM RD                                       0140001400
+BEARD ST                                                    0140101401
+BEAUCHAMP ALEXANDER RD                                      0140001400
+BEAUCHAMP SPUR RD                                           0140001400
+BEAVIN DR                                                   0140001400
+BELL SCHOOLHOUSE LN                                         0140001400
+BENHAM SMITH RD                                             0140001400
+BENNETT CEMETERY RD                                         0140001400
+BENNETT DR                                                  0140101401
+BENNETT LN                                                  0140101401
+BENTWOOD DR                                                 0140001400
+BERNARD FLOOD RD                                            0140001400
+BERRY HEIGHTS RD                                            0140001400
+BERRY LN                                                    0140001400
+BETHEL CEMETERY RD                                          0140001400
+BETTY LN                                                    0140001400
+BEWLEYVILLE BIG SPRING RD                                   0140001400
+BEWLEYVILLE ROSETTA RD                                      0140001400
+BIFF LN                                                     0140001400
+BIG MEADOWS LN                                              0140001400
+BILL DECKER LN                                              0140001400
+BILL OREILLY LN                                             0140001400
+BILL OREILLY LN                                             0140101401
+BILL RHODES LOOP                                            0140001400
+BILLY MINGUS LN                                             0140001400
+BILLY TUCKER LN                                             0140001400
+BISHOP ST                                                   0140001400
+BISHOP ST                                                   0140301403
+BLACK HAWK RD                                               0140001400
+BLACK LICK CHURCH LN                                        0140001400
+BLACK LICK CREEK RD                                         0140001400
+BLACKHILLS LN N                                             0140001400
+BLACKHILLS LN S                                             0140001400
+BLAIR LASLEY RD                                             0140001400
+BLANCETT LAKE RD                                            0140101401
+BLUE BIRD LN                                                0140001400
+BLUE DR                                                     0140001400
+BLUE FORK LN                                                0140001400
+BLUE LN                                                     0140001400
+BOARD CEMETERY RD                                           0140001400
+BOBBY HAYNES RD                                             0140001400
+BOBBY JOE BROWN RD                                          0140001400
+BOMAR ST                                                    0140101401
+BOWER BURKS RD                                              0140001400
+BOWLING AVE                                                 0140001400
+BOWLING LN                                                  0140001400
+BRAMBLETT RD                                                0140001400
+BRANDENBURG IRVINGTON RD                                    0140001400
+BRANDENBURG ST                                              0140201402
+BRECKWOOD DR                                                0140101401
+BRIDGE RD                                                   0140001400
+BRIER FIELDS LN                                             0140001400
+BRIER FIELDS SPUR RD                                        0140001400
+BROADWAY ST                                                 0140101401
+BROOKSHIRE LN                                               0140001400
+BROWN FARM RD                                               0140001400
+BROWN JARBOE RD                                             0140001400
+BROWN OWEN LN                                               0140001400
+BROWNS HIDEAWAY LN                                          0140001400
+BRUINGTON LN                                                0140001400
+BRUMFIELD RD                                                0140001400
+BRUNER CEMETERY RD                                          0140001400
+BRUNER VALLEY RD                                            0140001400
+BURCH BURNETTE RD                                           0140001400
+BURNS LN                                                    0140101401
+BURTON DOWELL RD                                            0140001400
+BURTON HUFF RD                                              0140001400
+BUTLER CONKWRIGHT RD                                        0140001400
+BUTLER HOBBS RD                                             0140001400
+BUTLER HOBBS RD                                             0140101401
+CALVART RD                                                  0140001400
+CALVERT CHURCH RD                                           0140001400
+CAMBRONS POINT RD                                           0140001400
+CAMERON LN                                                  0140001400
+CAMP GREEN SHORES RD                                        0140001400
+CAMPSITE AREA NO4 RD                                        0140001400
+CAMPSITE AREA NO4 SPUR                                      0140001400
+CANARY LN                                                   0140001400
+CANE RUN RD                                                 0140001400
+CANNONS POINT RD                                            0140001400
+CAPLAN ST                                                   0140101401
+CARDINAL DR                                                 0140001400
+CARL NEWBY RD                                               0140001400
+CARL SHERRON RD                                             0140001400
+CARLA AVENUE CONNECTOR                                      0140001400
+CARMAN CEMETERY RD                                          0140001400
+CARMAN RD                                                   0140001400
+CARMEN RD                                                   0140001400
+CAROLYN LN                                                  0140101401
+CARSON AVE                                                  0140201402
+CART MANNING CROSSING RD                                    0140001400
+CARTER BASHAM LN                                            0140001400
+CARWILE CRITCHELOW SPUR RD                                  0140001400
+CARWILE RD                                                  0140001400
+CAVE HEIGHTS RD                                             0140001400
+CAVE HEIGHTS SPUR RD                                        0140001400
+CAVE HOLLOW LN                                              0140001400
+CAVE RUN DR                                                 0140001400
+CAVE SPRINGS CONNECTOR RD                                   0140001400
+CAVE SPRINGS DR                                             0140001400
+CAVE SPRINGS LOOP RD                                        0140001400
+CAVE SPRINGS RD                                             0140001400
+CECIL GREENWELL LN                                          0140001400
+CEDAR CT                                                    0140001400
+CEDAR HILL CEMETERY RD                                      0140001400
+CEDAR LN                                                    0140001400
+CENTER ST                                                   0140201402
+CENTER ST                                                   0140301403
+CENTERVIEW ROUGH RIVER RD                                   0140001400
+CHAMBLISS CIR                                               0140001400
+CHAMBLISS CIR                                               0140101401
+CHAMBLISS DR                                                0140001400
+CHAMBLISS DR                                                0140101401
+CHAPIN LN                                                   0140001400
+CHARLES BRUINGTON RD                                        0140001400
+CHARLES LUCAS RD                                            0140001400
+CHENAULT RD                                                 0140001400
+CHENAULT SCHOOL RD                                          0140001400
+CHEROKEE TRL                                                0140001400
+CHEROKEE VALLEY LN                                          0140001400
+CHERRY ST                                                   0140101401
+CHERRY ST                                                   0140201402
+CHESTER HAYNES RD                                           0140001400
+CHESTER THURMAN RD                                          0140001400
+CHESTNUT ST                                                 0140201402
+CHESTNUT ST                                                 0140301403
+CHURCH OF GOD DYER RD                                       0140001400
+CIRCLE DR                                                   0140101401
+CIRCLE K RANCH RD                                           0140001400
+CLARIDGE ST                                                 0140201402
+CLARK BARR RD                                               0140001400
+CLEMENTS LN                                                 0140001400
+CLINTON HOUK LN                                             0140001400
+CLINTWOOD DR                                                0140001400
+CLORA KIPER RD                                              0140001400
+CLOVER CREEK COVE RD                                        0140001400
+CLOVER LN                                                   0140201402
+CLOVER RD                                                   0140001400
+CLOVERDALE DRIVE ESTS                                       0140001400
+CLOVERPORT CEMETERY RD                                      0140201402
+CLOVERPORT MCQUADY RD                                       0140001400
+CLOVERPORT MCQUADY RD                                       0140201402
+CLOVERPORT SAND AND GRAVEL RD                               0140201402
+COBBLERS KNOB RD                                            0140001400
+CODY LN                                                     0140101401
+COLEMAN DOWELL LN                                           0140001400
+COLLEGE ST                                                  0140301403
+COMPTON DR                                                  0140001400
+CONN MATTINGLY RD                                           0140001400
+CONSTANTINE DUNCAN VALLEY RD                                0140001400
+CONSTANTINE FAIRFIELD RD                                    0140001400
+CONSTANTINE VERTRESS RD                                     0140001400
+COOK CEMETERY RD                                            0140001400
+COOK RIDGE RD                                               0140001400
+COOPER LN                                                   0140001400
+COTTONWOOD DR                                               0140201402
+COUNTRY CT                                                  0140001400
+COUNTRY CT                                                  0140101401
+COUNTRY LIVING LN                                           0140001400
+COUNTRY MEADOWS LN                                          0140001400
+COUNTRY MEADOWS LN                                          0140101401
+COURT SQ                                                    0140101401
+CREEK RUN LOOP RD                                           0140101401
+CREEK RUN RD                                                0140101401
+CREEK ST                                                    0140201402
+CRITCHELOW FARM LN                                          0140001400
+CRITCHELOW RD                                               0140001400
+CROSS LN                                                    0140301403
+CUSTER CEMETERY RD                                          0140001400
+CUSTER ROBERTS HOLLOW RD                                    0140001400
+D ADKINS RD                                                 0140001400
+D C MOORMAN RD                                              0140001400
+D HARPER RD                                                 0140001400
+D LUCAS RD                                                  0140001400
+D SQUIRES RD                                                0140001400
+D TOBIN RD                                                  0140001400
+DAN BENNETT RD                                              0140001400
+DAN SQUIRE RD                                               0140001400
+DAVE MATTHEWS RD                                            0140001400
+DEBBIE LN                                                   0140301403
+DEER TRAIL RD                                               0140001400
+DEJARNETTE RD                                               0140001400
+DELMAR POLLOCK RD                                           0140001400
+DENTS BRIDGE RD                                             0140001400
+DEWEY LN                                                    0140201402
+DICKERSON LN                                                0140001400
+DIECK LN                                                    0140001400
+DITTO RD                                                    0140001400
+DOCILE DR                                                   0140101401
+DOE RUN LN                                                  0140001400
+DONALD JARBOE CUTOFF RD                                     0140001400
+DONALD JARBOE LN                                            0140001400
+DONNIE POOLE LN                                             0140001400
+DOWELL LN                                                   0140001400
+DRAKES DR                                                   0140001400
+DRANE HOCKENBERRY LN                                        0140001400
+DRISCOLL WAY LN                                             0140001400
+DROWSY DR                                                   0140001400
+DRUM NORTON RD                                              0140001400
+DRY VALLEY CHURCH CONNECTOR RD                              0140001400
+DRY VALLEY CHURCH RD                                        0140001400
+DUGAN LOOP                                                  0140001400
+DUGAN TRAILER PARK                                          0140101401
+DUNAWAY LN                                                  0140001400
+DUNCAN VALLEY EAST RD                                       0140001400
+DUNCAN VALLEY RD                                            0140001400
+DUNN DUNCAN LN                                              0140001400
+DUTSCHKE LN                                                 0140001400
+DUTSCHKE MILL RD                                            0140001400
+DWAYNE NORTON RD                                            0140001400
+DYER CEMETERY RD                                            0140001400
+E 4TH ST                                                    0140101401
+E 4TH STREET APARTMENTS                                     0140101401
+E 5TH ST                                                    0140101401
+E 6TH ST                                                    0140101401
+E 7TH ST                                                    0140101401
+E B KENNEDY RD                                              0140001400
+E CAROLINE ST                                               0140301403
+E HUSTON ST                                                 0140201402
+E KY86                                                      0140001400
+E MAIN ST                                                   0140201402
+E MAPLE ST                                                  0140301403
+E W HAYES LN                                                0140001400
+EARL MOORMAN RD                                             0140001400
+EASY LN                                                     0140001400
+EASY ST                                                     0140001400
+EDGAR BASHAM RD                                             0140001400
+EDGEMONT RD                                                 0140301403
+ELDER RD                                                    0140001400
+ELI CANNON LN                                               0140001400
+ELLIOT DR                                                   0140201402
+ELLIOTT CEMETERY RD                                         0140001400
+ELLIOTT RD                                                  0140001400
+ELM HILL LN                                                 0140001400
+ELM LN                                                      0140001400
+ELM ST                                                      0140101401
+ELM ST                                                      0140201402
+ELVIS YOUNG RD                                              0140001400
+ELZA TUCKER LN                                              0140001400
+ELZA TUCKER RD                                              0140001400
+EMMA MORRIS RD                                              0140001400
+END OF THE RAINBOW RD                                       0140001400
+EPHESUS CEMETERY RD                                         0140001400
+EPHESUS CHURCH LOOP                                         0140001400
+EPHESUS CHURCH RD                                           0140001400
+FAIRFIELD BURAS RD                                          0140001400
+FAIRFIELD HUDSON RD                                         0140001400
+FAIRGROUNDS RD                                              0140101401
+FAIRVIEW DR                                                 0140101401
+FALLS OF ROUGH SPUR RD                                      0140001400
+FENTRESS HIDEOUT RD                                         0140001400
+FENTRESS HIDEOUT SPUR RD                                    0140001400
+FENTRESS LN                                                 0140001400
+FENTRESS VILLAGE RD                                         0140001400
+FENTRESS VILLAGE SPUR RD                                    0140001400
+FERNWOOD DR                                                 0140001400
+FERRY ST                                                    0140201402
+FFA DR                                                      0140101401
+FINLEY AND NORTON RD                                        0140001400
+FINLEY BUTLER LN                                            0140001400
+FINLEY DOWELL RD                                            0140001400
+FLINT ISLAND RD                                             0140001400
+FLINT RUN RD                                                0140001400
+FLOOD RD                                                    0140001400
+FLOYD RICHARDS LN                                           0140001400
+FOGGY BOTTOM LN                                             0140001400
+FORT HILL LN                                                0140101401
+FRANK CT                                                    0140001400
+FRANK FARM LN                                               0140001400
+FRANK NEWMAN RD                                             0140001400
+FRANKLIN ST                                                 0140201402
+FRED PHILLIPS DR                                            0140101401
+FREEDOM CHURCH RD                                           0140001400
+FRENCH MYERS RD                                             0140001400
+FRENCH ST                                                   0140201402
+FRONT ST                                                    0140201402
+G R PARKS RD                                                0140001400
+G SMALLWOOD RD                                              0140001400
+G TATE RD                                                   0140001400
+G WILSON RD                                                 0140001400
+GANNAWAY RD                                                 0140001400
+GARFIELD CEMETERY RD                                        0140001400
+GARFIELD WOODROW RD                                         0140001400
+GEORGE HARDIN RD                                            0140001400
+GILBERT BLAIR RD                                            0140001400
+GILBERT NORTON RD                                           0140001400
+GLEN DEAN CEMETERY RD                                       0140001400
+GLEN DEAN FALLS OF ROUGH RD                                 0140001400
+GLEN DEAN MCQUADY RD                                        0140001400
+GLEN DEAN NO1 RD                                            0140001400
+GLEN DEAN NO2 RD                                            0140001400
+GLEN NASH LN                                                0140001400
+GLENVIEW RD                                                 0140001400
+GOODMAN LN                                                  0140001400
+GORDON ROBERTS RD                                           0140001400
+GOSHEN BAPTIST CHURCH RD                                    0140001400
+GRADY FRYMIRE RD                                            0140001400
+GRADY FRYMIRE SPUR RD                                       0140001400
+GRAHAM CIR                                                  0140001400
+GRAND AVE                                                   0140301403
+GREEN SHORE CIR                                             0140001400
+GREENWOOD LN                                                0140001400
+GREG MOORE RD                                               0140001400
+GREG ROACH RD                                               0140001400
+GROVER BIDDLE RD                                            0140001400
+GUSTON BEWLEYVILLE RD                                       0140001400
+H AND J LN                                                  0140001400
+H BOARD RD                                                  0140001400
+H J MILBURN RD                                              0140001400
+H R LUCAS RD                                                0140001400
+HAGAN DENNIS RD                                             0140001400
+HAIR CEMETERY RD                                            0140001400
+HAPPY VALLEY LN                                             0140001400
+HARDIN LN                                                   0140001400
+HARDIN MILLS RD N                                           0140001400
+HARDIN MILLS SOUTH RD                                       0140001400
+HARDIN SPRINGS RD                                           0140001400
+HARDIN ST                                                   0140101401
+HARDINSBURG HARTFORD RD                                     0140001400
+HARLAN ALLEN RD                                             0140001400
+HARLEY MORGAN RD                                            0140001400
+HARNED CEMETERY RD                                          0140001400
+HARNED LOCUST HILL RD                                       0140001400
+HARNED ST                                                   0140001400
+HARNED WEST VIEW RD                                         0140001400
+HAROLD LUCAS RD                                             0140001400
+HARRIS RD                                                   0140001400
+HARTFORD CROSSING RD                                        0140001400
+HARTLEY LOOP                                                0140001400
+HAYCRAFT RD                                                 0140001400
+HAYDEN FENTRESS RD                                          0140001400
+HAYNES CEMETERY RD                                          0140001400
+HAYNES DUGAN RD                                             0140001400
+HECKMAN LN                                                  0140001400
+HELM LEWIS RD                                               0140001400
+HENDRICK NEWMAN RD                                          0140001400
+HENRY DOTSON RD                                             0140001400
+HENRY HENNING RD                                            0140001400
+HENRY HENNING SPUR RD                                       0140001400
+HENRY ST                                                    0140001400
+HERBERT CARMAN RD                                           0140001400
+HERMAN CLAYCOMB RD                                          0140001400
+HERMAN HOWARD LN                                            0140001400
+HERSHEL ARMES LN                                            0140001400
+HICKERSON CEMETERY LN                                       0140001400
+HICKORY HILL LN                                             0140101401
+HICKORY LN                                                  0140001400
+HIDDEN VALLEY RD                                            0140001400
+HIDDEN VALLEY SPUR NO1 RD                                   0140001400
+HIDDEN VALLEY SPUR RD                                       0140001400
+HIGH BURNIE LN                                              0140001400
+HIGH KNOB LN                                                0140001400
+HIGH PLAINS RD                                              0140001400
+HIGH ST                                                     0140101401
+HIGH ST                                                     0140301403
+HILL ST                                                     0140301403
+HILLCREST RD                                                0140001400
+HILLSIDE DR                                                 0140101401
+HILLSIDE DR                                                 0140201402
+HILLVIEW DR                                                 0140001400
+HILLVIEW DR                                                 0140301403
+HINTON HILLS RD                                             0140001400
+HINTON HILLS SPUR RD                                        0140001400
+HINTON RD                                                   0140001400
+HOBBS RD                                                    0140001400
+HOLIDAY BEACH LOOP LEFT RD                                  0140001400
+HOLIDAY BEACH LOOP RIGHT RD                                 0140001400
+HOLIDAY BEACH RD                                            0140001400
+HOLT RD                                                     0140001400
+HOME PLACE LN                                               0140101401
+HOMER ALDRIDGE RD                                           0140001400
+HOMESTEAD LN                                                0140001400
+HOOK NEWMAN LIGHTFOOT LN                                    0140001400
+HOOKS LN                                                    0140001400
+HOOKS LN                                                    0140101401
+HOOKS RD                                                    0140001400
+HOPEWELL CHURCH RD                                          0140001400
+HORNBACK FARM LN                                            0140001400
+HORNBACK MILL RD                                            0140001400
+HORNBACK MILL SPUR RD                                       0140001400
+HORSLEY CEMETERY RD                                         0140001400
+HORSLEY CHAPEL RD                                           0140001400
+HORSLEY LN                                                  0140001400
+HORSLEY RIDGE LN                                            0140001400
+HOUK RD                                                     0140001400
+HOWARD HENDRICK LN                                          0140001400
+HOWARD LN                                                   0140001400
+HOWARD ST                                                   0140101401
+HOWARD TUCKER RD                                            0140001400
+HUDSON ST                                                   0140201402
+HUSTON ST                                                   0140201402
+INDIAN HILL CIR                                             0140001400
+INDUSTRIAL PARK LN                                          0140101401
+IRON ORE HILL RD                                            0140001400
+IRON ORE HILL SPUR RD                                       0140001400
+IRVINGTON BEWLEYVILLE RD                                    0140001400
+IRVINGTON HEIGHTS LN                                        0140001400
+J A ANTHONY RD                                              0140001400
+J AND D LN                                                  0140001400
+J AND L FRANK RD                                            0140001400
+J B BALL RD                                                 0140001400
+J DUNCAN LN                                                 0140001400
+J E HAYNES RD                                               0140001400
+J HALL RD                                                   0140001400
+J KING LN                                                   0140001400
+J M MERCER CAMPSITE RD                                      0140001400
+J R ALEXANDER RD                                            0140001400
+J R HAYCRAFT RD                                             0140001400
+J S G SMART LN                                              0140001400
+JACK CHAPPELL RD                                            0140001400
+JACK GALLOWAY LN                                            0140001400
+JACK GALLOWAY RD                                            0140001400
+JACK MONARCH RD                                             0140001400
+JACKSON DR                                                  0140001400
+JACKSON SCHOOL RD                                           0140001400
+JAKE HORSLEY RD                                             0140001400
+JAMES BRUNER LN                                             0140001400
+JARBOE CEMETERY RD                                          0140001400
+JARBOE RD                                                   0140001400
+JASPER BRUCE RD                                             0140001400
+JAYS LN                                                     0140001400
+JERRY BALLMAN RD                                            0140001400
+JESS HOSKINSON RD                                           0140001400
+JESS HOSKINSON SPUR RD                                      0140001400
+JESSE F BERRY RD                                            0140001400
+JESSE PRIEST RD                                             0140001400
+JEWELL LOOP                                                 0140001400
+JIM BOB MATTINGLY RD                                        0140001400
+JIM CAMP RD                                                 0140001400
+JIM SPENCER RD                                              0140001400
+JIMMIE ROBERSON LN                                          0140001400
+JOE HAYCRAFT RD                                             0140001400
+JOE HOWELL RD                                               0140001400
+JOE MATTINGLY RD                                            0140001400
+JOE MEADORS RD                                              0140001400
+JOHN DRANE LN                                               0140001400
+JOHN KENNEDY RD                                             0140001400
+JOHN MORRIS RD                                              0140001400
+JOHN TAUL LN                                                0140001400
+JOHNATHAN RD                                                0140001400
+JOHNSON LN                                                  0140001400
+JOHNSON ST                                                  0140301403
+JOLLY ADKINS LN                                             0140001400
+JOLLY BOWLDS RD                                             0140001400
+JOLLY CEMETERY RD                                           0140001400
+JOLLY FARM RD                                               0140001400
+JOLLY LN                                                    0140001400
+JORDAN RD                                                   0140001400
+JT AUBREY LN                                                0140001400
+KEENAN DR                                                   0140101401
+KEG BRANCH RD                                               0140001400
+KEITH HART RD                                               0140001400
+KENNEDY LN                                                  0140001400
+KENNETH MOORE RD                                            0140001400
+KENNETH SCOTT JUNIOR LN                                     0140001400
+KENNETH SCOTT RD                                            0140001400
+KENNY SMALLWOOD LN                                          0140001400
+KENTUCKY HOLLOW LN                                          0140001400
+KENTUCKY ST                                                 0140301403
+KIM WAY                                                     0140301403
+KINGSWOOD CEMETERY RD                                       0140001400
+KINGSWOOD LAKE RD                                           0140001400
+KINGSWOOD MATTINGLY SCHOOL RD                               0140001400
+KINGSWOOD ORCHARD RD                                        0140001400
+KINGSWOOD ORCHARD SPUR RD                                   0140001400
+KIPER RD                                                    0140001400
+KIPER ST                                                    0140001400
+KIPER WHITWORTH LN                                          0140001400
+KIPER WHITWORTH RD                                          0140001400
+KIRK GLEN DEAN RD                                           0140001400
+KIRK LOOP RD                                                0140001400
+KRIBCHISM RD                                                0140001400
+KY 259 AND KY 232 CONNECTOR RD                              0140001400
+KY1073                                                      0140001400
+KY110                                                       0140001400
+KY1238                                                      0140001400
+KY1401                                                      0140001400
+KY144 E                                                     0140001400
+KY144 N                                                     0140001400
+KY2199                                                      0140001400
+KY2201                                                      0140001400
+KY232                                                       0140001400
+KY259                                                       0140001400
+KY259 N                                                     0140001400
+KY261 N                                                     0140001400
+KY261 N                                                     0140101401
+KY261 S                                                     0140001400
+KY376                                                       0140001400
+KY401                                                       0140001400
+KY477                                                       0140001400
+KY690                                                       0140001400
+KY737                                                       0140001400
+KY79 S                                                      0140001400
+KY823                                                       0140001400
+KY886                                                       0140001400
+KY941                                                       0140001400
+KY992                                                       0140001400
+KY992                                                       0140101401
+L M BASHAM RD                                               0140001400
+L M BASHAM RD                                               0140201402
+L SWINK RD                                                  0140001400
+LAKE FORREST DR                                             0140001400
+LAKE HAVEN LOOP                                             0140001400
+LAKE OF THE WOODS RD                                        0140001400
+LAKE SIDE DR                                                0140101401
+LAKE ST                                                     0140101401
+LAKE ST                                                     0140301403
+LAKE VIEW LN                                                0140001400
+LAKE VISTA LN                                               0140001400
+LAKERIDGE RD                                                0140101401
+LAKESHORE DR                                                0140101401
+LAKESIDE NORTH RD                                           0140001400
+LAKESIDE SOUTH RD                                           0140001400
+LAMAR RYAN RD                                               0140001400
+LASLEY DR                                                   0140101401
+LAUREL BRANCH POINT LN                                      0140001400
+LAUREL BRANCH RD                                            0140001400
+LAWRENCE ESKRIDGE RD                                        0140001400
+LEE LUCAS RD                                                0140001400
+LEE MILLER RD                                               0140001400
+LEGRANDE LN                                                 0140001400
+LEISURE LN                                                  0140001400
+LEITCHFIELD RD                                              0140101401
+LEO BOWLDS LN                                               0140001400
+LEROY JARBOE RD                                             0140001400
+LIGHTHOUSE RD                                               0140001400
+LIGHTHOUSE RD                                               0140101401
+LITTLE BEAR LN                                              0140001400
+LOCUST ST                                                   0140101401
+LOCUST ST                                                   0140201402
+LODIBURG RAYMOND RD                                         0140001400
+LODIBURG RD                                                 0140001400
+LODIBURG UNION STAR RD                                      0140001400
+LON DOWELL RD                                               0140001400
+LONG VALLEY ESTATES RD                                      0140001400
+LONNIE HAYNES RD                                            0140001400
+LONNIE HAYNES SPUR RD                                       0140001400
+LOOKOUT TOWER RD                                            0140001400
+LOST RUN LN                                                 0140001400
+LUCAS DRANE EAST RD                                         0140001400
+LUCAS MOORE LN                                              0140001400
+LUCIAN DENNIS LN                                            0140001400
+LULA MAE POOLE LN                                           0140001400
+LUM KENNEDY RD                                              0140001400
+LUNEY RD                                                    0140001400
+LUNEY RD                                                    0140301403
+LYNCH FINCHUM LN                                            0140001400
+LYNN ST                                                     0140201402
+LYNN STULL RD                                               0140001400
+LYONS CEMETERY RD                                           0140001400
+LYONS DAUGHTERY RD                                          0140001400
+M DAVIS RD                                                  0140001400
+M H DOWELL RD                                               0140001400
+M HOUK LN                                                   0140001400
+M J MCCOLLUM RD                                             0140001400
+M SMITH RD                                                  0140001400
+MACEDONIA CHURCH RD                                         0140001400
+MACY LN                                                     0140001400
+MAIN ST                                                     0140101401
+MAPLE LN                                                    0140001400
+MAPLE LOOP                                                  0140001400
+MAPLE ST                                                    0140201402
+MARCUS WHITTLER RD                                          0140001400
+MARKS RIDGE RD                                              0140001400
+MARKS RIDGE WEST RD                                         0140001400
+MARR CEMETERY RD                                            0140001400
+MARR CEMETERY SPUR RD                                       0140001400
+MATT LN                                                     0140001400
+MATTINGLY FLATS RD                                          0140001400
+MATTINGLY TAR FORK RD                                       0140001400
+MATTLINGLY THURMAN RD                                       0140001400
+MATTOX DR                                                   0140001400
+MATTOX SPUR RD                                              0140001400
+MAY IRBY LN                                                 0140001400
+MAY IRBY LN                                                 0140201402
+MAY LN                                                      0140001400
+MCCOY LN                                                    0140001400
+MCCOY ROFF RD                                               0140001400
+MCDOLE LN                                                   0140001400
+MCDONALD LN                                                 0140001400
+MCGARY FARM RD                                              0140001400
+MCMANAWAY LN                                                0140001400
+MCQUADY AXTEL RD                                            0140001400
+MCQUADY LN                                                  0140001400
+MEADOR LN                                                   0140001400
+MEADOW CT                                                   0140001400
+MEADOW CT                                                   0140101401
+MEADOW DR                                                   0140301403
+MEADOW LAKE LN                                              0140001400
+MEADOW LN                                                   0140001400
+MEADOW SPRINGS RD                                           0140001400
+MEADOW VIEW LOOP                                            0140001400
+MEADOWVIEW LN                                               0140001400
+MERCER BEND RD                                              0140001400
+MERCER CAMPSITE RD                                          0140001400
+MERCER LN                                                   0140101401
+MERCER TRAILER CT                                           0140101401
+MERLE ALLEN LN                                              0140001400
+MICHELLE WAY                                                0140301403
+MIKE SMITH RD                                               0140001400
+MILLER LN                                                   0140001400
+MILLS CAMPSITE RD                                           0140001400
+MILLS CAMPSITE SPUR RD                                      0140001400
+MINGUS LN                                                   0140001400
+MONARCH HOME RD                                             0140001400
+MONARCH LN                                                  0140001400
+MONARCH LN                                                  0140101401
+MONOHAN RD                                                  0140001400
+MOOK CENTERVIEW RD                                          0140001400
+MOOK RD                                                     0140001400
+MOOLEYVILLE LOOP NO1 RD                                     0140001400
+MOOLEYVILLE LOOP NO2 RD                                     0140001400
+MOORE OWENS RD                                              0140001400
+MOORMAN AVE                                                 0140301403
+MORA PULLEN RD                                              0140001400
+MORNING DR                                                  0140101401
+MORRIS NEWTON RD                                            0140001400
+MORSEY RD                                                   0140001400
+MORTON BROWN RD                                             0140001400
+MT MERINO CEMETERY RD                                       0140001400
+MT ZION CHURCH RD                                           0140001400
+N 1ST AVE                                                   0140301403
+N 2ND ST                                                    0140301403
+N 3RD ST                                                    0140301403
+N 4TH ST                                                    0140301403
+N 5TH ST                                                    0140301403
+N BRECKINRIDGE ST                                           0140101401
+N CENTER ST                                                 0140201402
+N ELM ST                                                    0140201402
+N KY79                                                      0140001400
+N PARK ST                                                   0140201402
+N POPLAR ST                                                 0140201402
+N TOWER ST                                                  0140101401
+N WOODLAWN AVE                                              0140301403
+NANCY BUTLER LN                                             0140001400
+NANNIE AMMONS RD                                            0140001400
+NELSON BOARD RD                                             0140001400
+NELSON HAYNES CEMETERY RD                                   0140001400
+NEW BETHEL RD                                               0140001400
+NEWBY LN                                                    0140001400
+NICHOLS CEMETERY LN                                         0140001400
+NORTON RD                                                   0140001400
+NUNLEY LN                                                   0140001400
+O ALEXANDER RD                                              0140001400
+O B SEVERS RD                                               0140001400
+O L NORTON RD                                               0140001400
+OAK LN                                                      0140001400
+OAK ST                                                      0140001400
+OAK ST                                                      0140101401
+OAK ST                                                      0140201402
+OAK ST                                                      0140301403
+OAK TREE TRAIL LN                                           0140001400
+OBRYAN RD                                                   0140001400
+ODONAGHUE GLENN LN                                          0140001400
+ODONOGHUE RD                                                0140001400
+OLD AXTEL RD                                                0140001400
+OLD CLARK RD                                                0140001400
+OLD CLOVERPORT HOLT RD                                      0140001400
+OLD FALLS OF ROUGH RD                                       0140001400
+OLD GLEN DEAN AXTEL LN                                      0140001400
+OLD GLEN DEAN AXTEL RD                                      0140001400
+OLD HARDINSBURG IRVINGTON RD                                0140001400
+OLD HUDSON CEMETERY RD                                      0140001400
+OLD KIRK AXTEL RD                                           0140001400
+OLD KY 259 RD                                               0140001400
+OLD RAILROAD RD                                             0140001400
+OLD RAILROAD ST E                                           0140001400
+OLD RAILROAD ST W                                           0140001400
+OLD SAMPLE RD                                               0140001400
+OLD SEREE MOOK RD                                           0140001400
+OLD SEREE WESTVIEW RD                                       0140001400
+OLD SHILO RD                                                0140001400
+OLD STONEY FORK LN                                          0140001400
+OLD UNION STAR CONNECTOR RD                                 0140001400
+OLD UNION STAR RD                                           0140001400
+OLD US 60                                                   0140001400
+OLD US 60                                                   0140101401
+OLD US 60 CONNECTOR NO2 RD                                  0140001400
+OLD US 60 CONNECTOR RD                                      0140001400
+OLD US 60 LOOP RD                                           0140001400
+OLD US 60 RD                                                0140001400
+OMER ADKINS RD                                              0140001400
+ORCHARD DR                                                  0140001400
+ORCHARD VIEW LN                                             0140001400
+OREILLY RD                                                  0140001400
+OREILLY TATE RD                                             0140001400
+OVA A WRIGHT RD                                             0140001400
+OVA DRANE LN                                                0140001400
+OWEN BASHAM LN                                              0140001400
+PARK ALY                                                    0140101401
+PARK AVE                                                    0140301403
+PARK ST                                                     0140201402
+PARKVIEW DR                                                 0140001400
+PARKWAY DR                                                  0140301403
+PARR RD                                                     0140001400
+PATE CEMETERY RD                                            0140001400
+PATRIOTS LNDG                                               0140001400
+PATRIOTS TRAIL LN                                           0140001400
+PATRIOTS WAY LN                                             0140001400
+PAUL ALEXANDER RD                                           0140001400
+PAUL FARM LN                                                0140001400
+PAUL LN                                                     0140001400
+PAULETTE WAY                                                0140001400
+PAULINE LN                                                  0140001400
+PAYNE LN                                                    0140001400
+PEARL ST                                                    0140301403
+PERCY TRENT RD                                              0140001400
+PERSIMMON FLATS LN                                          0140001400
+PERSIMMON FLATS RD                                          0140001400
+PETE NASH LN                                                0140001400
+PETER CAVE RD                                               0140001400
+PHILLIPS LN                                                 0140001400
+PICNIC LN                                                   0140101401
+PIERCE MILL CONSTANTINE RD                                  0140001400
+PILE AND FORD RD                                            0140001400
+PILE AND FORD SPUR RD                                       0140001400
+PILE FORD NORTH RD                                          0140001400
+PILOT RIDGE RD                                              0140001400
+PINE RIDGE CT                                               0140001400
+PINE RIDGE LN                                               0140001400
+PINE RIDGE RD                                               0140001400
+PLAINVIEW DR                                                0140101401
+PLEASANT VALLEY RD                                          0140001400
+PLEASANT VALLEY ROAD SPUR                                   0140001400
+POLK LN                                                     0140001400
+POLK LN                                                     0140201402
+POPLAR LN                                                   0140001400
+POPLAR ST                                                   0140201402
+POPULAR LN                                                  0140001400
+PRATHER HOLLOW RHODELIA RD                                  0140001400
+PRICE LN                                                    0140001400
+PRINCE OF WALES CEMETERY RD                                 0140001400
+PROCTOR HAYNES RD                                           0140001400
+QUAIL RUN RD                                                0140101401
+QUIGGINS RD                                                 0140001400
+RAILROAD LN                                                 0140001400
+RAINBOW GARDENS RD                                          0140001400
+RAINBOW GARDENS SPUR RD                                     0140001400
+RAINBOW KNOB RD                                             0140001400
+RALPH ROSE RD                                               0140001400
+RANDALL SWINK RD                                            0140001400
+RAY ASHLEY LN                                               0140001400
+RAY BELL RD                                                 0140001400
+RAY BENNETT LN                                              0140001400
+RAYMOND BUTLER RD                                           0140001400
+REYNOLDS RD                                                 0140001400
+RHODES CAMP RD                                              0140001400
+RHODES FARM LN                                              0140001400
+RICE CEMETERY RD                                            0140001400
+RICHARD MOORE RD                                            0140001400
+RICHARDSON LN                                               0140001400
+RIVER BEND RD                                               0140001400
+ROBBINS BRUINGTON LN                                        0140001400
+ROBBINS LN                                                  0140001400
+ROBBINS SCHOOLHOUSE LN                                      0140001400
+ROBERT DOTSON LN                                            0140001400
+ROBERT SQUIRES RD                                           0140001400
+ROBERTS HOLLOW NORTH RD                                     0140001400
+ROBERTS HOLLOW RD N                                         0140001400
+ROBERTSON DR                                                0140201402
+ROCKVALE DEMPSTER RD                                        0140001400
+ROCKY HILL LN                                               0140001400
+ROFF DR                                                     0140001400
+ROFF LAKE LN                                                0140001400
+ROFF LAKE SPUR RD                                           0140001400
+ROLLING STONE ACRES RD                                      0140001400
+ROLLING STONE ACRES SPUR RD                                 0140001400
+RONNIE MATTINGLY RD                                         0140001400
+ROSE AVE                                                    0140001400
+ROSETTA CORNERS RD                                          0140001400
+ROSETTA DENTS BRIDGE RD                                     0140001400
+ROSETTA DR                                                  0140001400
+ROSETTA FORK RD                                             0140001400
+ROUGH HOUSE DR                                              0140001400
+ROUGH RIVER RESORT RD                                       0140001400
+RUPPERT ASKINS RD                                           0140001400
+RUSSELBURG LN                                               0140001400
+RYANS CREST LN                                              0140001400
+S BRECKINRIDGE ST                                           0140101401
+S C LESLIE RD                                               0140001400
+S KENTUCKY ST                                               0140301403
+S PARK ST                                                   0140201402
+S PYLES RD                                                  0140001400
+S TOWER ST                                                  0140101401
+SAM DOWELL RD                                               0140001400
+SAM MOORMAN LN                                              0140001400
+SAMPSON LN                                                  0140001400
+SAND AND GRAVEL RD                                          0140201402
+SAND KNOB CEMETERY RD                                       0140001400
+SAND KNOB RD                                                0140001400
+SAND ROCK PASS RD                                           0140001400
+SANDY BEACH CUTOFF RD                                       0140001400
+SANDY BEACH DR                                              0140001400
+SANDY BEACH LN                                              0140001400
+SCHNEIDER RD                                                0140001400
+SCHOOL RD                                                   0140001400
+SCHOOL ST                                                   0140101401
+SCOTT LN                                                    0140201402
+SEAN WAY                                                    0140001400
+SEATON HANKS RD                                             0140001400
+SEMINOLE ESTATES RD                                         0140001400
+SEREE ST                                                    0140001400
+SEVEN OAKS PL                                               0140001400
+SEWSBURY RD                                                 0140001400
+SHELBY MATTINGLY RD                                         0140001400
+SHELLEY RD                                                  0140001400
+SHELMAN CEMETERY RD                                         0140001400
+SHERMAN TAUL RD                                             0140001400
+SHERWOOD LN                                                 0140001400
+SHORT RD                                                    0140001400
+SHORT ST                                                    0140101401
+SHOT POUCH CREEK RD                                         0140001400
+SILAS MILLER LN                                             0140001400
+SIMPSON HARPE LN                                            0140001400
+SKILMAN MONARCH LN                                          0140001400
+SKYLINE LN                                                  0140001400
+SMILEY BASHAM RD                                            0140001400
+SMITH LN                                                    0140001400
+SMITH RD                                                    0140001400
+SOMERSET KNOB LN                                            0140001400
+SPOTTED FAWN LN                                             0140001400
+SPRING DR                                                   0140001400
+SPRING ST                                                   0140301403
+SQUIRES FARM RD                                             0140001400
+ST CLAIR RD                                                 0140001400
+ST CLAIR SPUR RD                                            0140001400
+ST MARYS CHURCH RD                                          0140001400
+STANLEY GRAY RD                                             0140001400
+STEPHENSPORT LOOP RD                                        0140001400
+STERRETT LN                                                 0140001400
+STEVENSON RD                                                0140001400
+STIFF DEHAVEN RD                                            0140001400
+STIFF RD                                                    0140001400
+STILLWELL RD                                                0140001400
+STINNETT TAUL RD                                            0140001400
+STONE HILL FORD RD                                          0140001400
+STONE HILL RD                                               0140101401
+STYLES PILE RD                                              0140001400
+SUMNER LN                                                   0140001400
+SUNSET DR                                                   0140101401
+SWAN LAKE ESTATES RD                                        0140001400
+SWAN LAKE ESTATES SPUR                                      0140001400
+T BENNETT LN                                                0140001400
+T ROBERTSON LN                                              0140001400
+T SMITH LN                                                  0140001400
+TABOR HOLLOW RD                                             0140001400
+TABOR RD                                                    0140001400
+TANGLEWOOD RD                                               0140001400
+TAR SPRINGS RD                                              0140001400
+TARFORK EASTON RD                                           0140001400
+TAW NE MARA FARM RD                                         0140001400
+TELLER HAYCRAFT LN                                          0140001400
+TELLER HAYCRAFT SPUR RD                                     0140001400
+TERRY BOARD LN                                              0140001400
+TERRY LN                                                    0140201402
+THE CLIFFS PKWY                                             0140001400
+THOMAS ROBERTS RD                                           0140001400
+THORNHILL ESTATES LN                                        0140001400
+THORNHILL RD                                                0140001400
+THUNDER LN                                                  0140001400
+TICE MCCOY LN                                               0140001400
+TICK RIDGE RD                                               0140001400
+TIFFANY ESTATES LN                                          0140001400
+TIMBERCREST DR                                              0140001400
+TIMBERCREST LN                                              0140001400
+TIMBERCREST POINT LN                                        0140001400
+TIMBERLAKE DR                                               0140001400
+TIVITT RD                                                   0140001400
+TOM CRITCHELOW RD                                           0140001400
+TRENT LN                                                    0140001400
+TRILOGY LN                                                  0140101401
+TRIPPLET HORSLEY RD                                         0140001400
+TUCKER CEMETERY RD                                          0140001400
+TUCKER HIGGS RD                                             0140001400
+TUCKER HIGGS SPUR RD                                        0140001400
+TUCKER HOLMES RD                                            0140001400
+TUCKER RD                                                   0140001400
+TUCKER SCHOOL RD                                            0140001400
+TUG HOWARD RD                                               0140001400
+TULES CREEK LOOP RD                                         0140001400
+TULES CREEK RD                                              0140001400
+TULES LANDING RD                                            0140001400
+TULES LANDING SHORES RD                                     0140001400
+TULES RD                                                    0140101401
+U ROBERTSON RD                                              0140001400
+UNION ST                                                    0140301403
+UNION STAR RD                                               0140001400
+UNION STAR ST                                               0140001400
+US 60 MOBILE HOME PARK                                      0140101401
+US 60 MOBILE HOME PARK CIR                                  0140101401
+US60                                                        0140001400
+US60                                                        0140101401
+US60                                                        0140201402
+US60                                                        0140301403
+US60 BUS                                                    0140001400
+US60 BUS                                                    0140201402
+US60 W                                                      0140001400
+VALLEY LN                                                   0140001400
+VALLEY ST                                                   0140301403
+VALLEY TER                                                  0140301403
+VALLEY TER CONNECTOR                                        0140301403
+VALLEY VIEW ST                                              0140301403
+VANZANT TICK RIDGE RD                                       0140001400
+VERDEN ST                                                   0140201402
+VERNON CARMAN RD                                            0140001400
+VICKIE WAY                                                  0140001400
+VIRGINIA ROBINSON RD                                        0140001400
+W 3RD ST                                                    0140101401
+W 4TH ST                                                    0140101401
+W 5TH ST                                                    0140101401
+W 6TH ST                                                    0140101401
+W BUTLER RD                                                 0140001400
+W C SMITH RD                                                0140001400
+W CAROLINE ST                                               0140301403
+W HUSTON ST                                                 0140201402
+W KY144                                                     0140001400
+W MAIN ST                                                   0140201402
+W MAPLE ST                                                  0140301403
+W R BANDY RD                                                0140001400
+W R OWEN RD                                                 0140001400
+WALNUT GROVE CHURCH RD                                      0140001400
+WALNUT ST                                                   0140101401
+WALNUT ST                                                   0140201402
+WALNUT ST                                                   0140301403
+WATERTOWER RD                                               0140001400
+WEATHER HOLT DR                                             0140201402
+WEBB RD                                                     0140001400
+WEBSTER BASIN SPRINGS RD                                    0140001400
+WEBSTER CHURCH RD                                           0140001400
+WEBSTER CLIFTON MILLS RD                                    0140001400
+WEBSTER WAY RD                                              0140001400
+WEE SPRINGS RD                                              0140001400
+WELLS RD                                                    0140001400
+WESLEY ALLEN RD                                             0140001400
+WEST RD                                                     0140001400
+WEST ST                                                     0140201402
+WESTVIEW DR                                                 0140001400
+WESTVIEW DRIVE CUTOFF                                       0140001400
+WHEATLEY HENDRICK LN                                        0140001400
+WHIPPOORWILL LN                                             0140001400
+WHISPERING OAKS CUT OFF RD                                  0140001400
+WHISPERING OAKS RD                                          0140001400
+WHITE OAK HILL RD                                           0140001400
+WHITE RD                                                    0140001400
+WHITE SMITH RD                                              0140001400
+WHITETAIL LN                                                0140001400
+WHITFILL LN                                                 0140001400
+WHITWORTH LN                                                0140001400
+WHITWORTH LOCKARD RD                                        0140001400
+WILDFLOWER LN                                               0140001400
+WILLARD DUPIN RD                                            0140001400
+WILLARD LN                                                  0140001400
+WILLARD ROYALTY RD                                          0140001400
+WILLIAM TAUL RD                                             0140001400
+WILLIAMS RD                                                 0140001400
+WILLIE SIMMONS RD                                           0140001400
+WILLIS JONES RD                                             0140001400
+WILLOUGHBY ST                                               0140101401
+WILLOW LANE CONNECTOR                                       0140201402
+WILLOW LN                                                   0140201402
+WILSON LANE SPUR                                            0140001400
+WILSON LN                                                   0140001400
+WILSON PL                                                   0140001400
+WILSON WILDERNESS RD                                        0140001400
+WOOD LN                                                     0140101401
+WOODHAVEN RD                                                0140001400
+WOODLAWN AVE                                                0140301403
+WOODLAWN TRAILER PARK DR                                    0140301403
+WOODS CEMETERY RD                                           0140001400
+WOODSIDE CT                                                 0140001400
+WOODSIDE LN                                                 0140101401
+YOUNG AVE                                                   0140301403

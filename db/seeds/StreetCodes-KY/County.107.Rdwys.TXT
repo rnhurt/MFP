@@ -1,0 +1,616 @@
+1ST AVE E                                                   1070010700
+1ST AVE W                                                   1070010700
+2ND AVE E                                                   1070010700
+2ND AVE W                                                   1070010700
+3RD AVE E                                                   1070010700
+3RD AVE W                                                   1070010700
+A C HOLLAND RD                                              1070010700
+ADAIRVILLE RD                                               1070010700
+ADAMS RD                                                    1070010700
+AKIN AVE                                                    1070110701
+ALBERT ELLIOTT RD                                           1070010700
+ALLEN RD                                                    1070010700
+ALLEY                                                       1070110701
+AMY WAY                                                     1070110701
+ANAND DR                                                    1070110701
+ANDREWS RD                                                  1070010700
+AUSBROOKS RD                                                1070010700
+AUSTIN DR                                                   1070110701
+AUTUMN LN                                                   1070010700
+AUTUMN OAKS DR                                              1070110701
+B HUGHES RD                                                 1070010700
+BANK LN                                                     1070110701
+BARNES SCHOOL RD                                            1070010700
+BARNHILL RD                                                 1070010700
+BARRETT LN                                                  1070110701
+BEECH ST                                                    1070110701
+BELL ST                                                     1070110701
+BEN RULEY RD                                                1070010700
+BENNINGTON PL                                               1070110701
+BILL W RD                                                   1070010700
+BLACKJACK RD                                                1070010700
+BLACKJACK RD                                                1070110701
+BLOOMFIELD DR                                               1070110701
+BLUEDOOR CHURCH RD                                          1070010700
+BLUEGRASS RD                                                1070010700
+BLUEGRASS RD                                                1070110701
+BOAT RAMP RD                                                1070010700
+BOBBY BENNETT RD                                            1070010700
+BOWLING GREEN RD                                            1070010700
+BRACKEN PRICES MILL RD                                      1070010700
+BRAZZELL RD                                                 1070010700
+BRECKENRIDGE ST                                             1070110701
+BRENTMORE DR                                                1070110701
+BREVARD ST                                                  1070110701
+BREWER RD                                                   1070010700
+BRIANS BLVD                                                 1070010700
+BRICK ST                                                    1070110701
+BRIGGS AVE                                                  1070110701
+BRIGHT LN                                                   1070010700
+BRIZENDINE RD                                               1070010700
+BROADWAY                                                    1070010700
+BROOKHAVEN RD                                               1070110701
+BROOKS AVE                                                  1070110701
+BROOKVIEW DR                                                1070110701
+BROOKVIEW DRIVE SPUR                                        1070110701
+BROWN RD                                                    1070010700
+BRYANT ST                                                   1070110701
+BUNCH RD                                                    1070010700
+BURNLEY SAW MILL RD                                         1070010700
+C BUTTS RD                                                  1070010700
+CAL HARRIS RD                                               1070010700
+CALVERT RD                                                  1070010700
+CAR WASH LN                                                 1070110701
+CARDINAL ST                                                 1070110701
+CARDINAL TRAILER PARK                                       1070010700
+CARL GORE RD                                                1070010700
+CARPENTER RD                                                1070010700
+CARR RD                                                     1070010700
+CARTER RD                                                   1070010700
+CASSETTY RD                                                 1070010700
+CAUDILL RD                                                  1070010700
+CEDAR BLUFF RD                                              1070010700
+CEMETERY ST                                                 1070110701
+CENTRAL AVE                                                 1070110701
+CHAMPION ST                                                 1070110701
+CHANDLER RD                                                 1070010700
+CHANEY RD                                                   1070010700
+CHAPMAN ST                                                  1070110701
+CHARLES CARDWELL RD                                         1070010700
+CHERRY ST                                                   1070110701
+CHESTER MANN RD                                             1070010700
+CHESTNUT ST                                                 1070110701
+CHURCH ALY                                                  1070110701
+CHURCH ST                                                   1070110701
+CIRCLE DR                                                   1070110701
+CLAIRE AVE                                                  1070110701
+CLAIRE AVENUE SPUR                                          1070110701
+CLARK ST                                                    1070010700
+CLAY SMITH RD                                               1070010700
+CLAY STARKS RD                                              1070010700
+CLEARVIEW DR                                                1070110701
+CLIFFORD PEART RD                                           1070010700
+COATES SUBDIVISION RD                                       1070010700
+COLONIAL DR                                                 1070110701
+COLSON ORCHARD RD                                           1070010700
+COMMERCE ST                                                 1070110701
+COOMES LN                                                   1070010700
+COTTAGE LN                                                  1070110701
+COUNTRYVIEW                                                 1070010700
+COUNTY LOOP RD                                              1070010700
+CRAFT RD                                                    1070010700
+CRAIG ST                                                    1070110701
+CREEKBEND RD                                                1070010700
+CREEKSIDE DR                                                1070110701
+CREEKWOOD DR                                                1070010700
+CRESTMORE DR                                                1070110701
+CRESTMORE DRIVE LOOP                                        1070110701
+CRESTVIEW RD                                                1070010700
+CROPPER RD                                                  1070010700
+CROW AVE                                                    1070010700
+D AND H CT                                                  1070110701
+DARRELL AVE                                                 1070110701
+DAVIS DR                                                    1070110701
+DAWSON DR                                                   1070110701
+DEPOT ST                                                    1070110701
+DEREK DR                                                    1070110701
+DEREK DRIVE CONNECTOR                                       1070110701
+DEW DROP DR                                                 1070010700
+DINWIDDIE RD                                                1070010700
+DITMORE FORD RD                                             1070010700
+DITMORE FORD RD                                             1070110701
+DIXON LN                                                    1070010700
+DOGWOOD DR                                                  1070110701
+DON PENDLETON RD                                            1070010700
+DOW DR                                                      1070110701
+DRAKE AVE                                                   1070110701
+DRAKE RD                                                    1070010700
+DRAPER RD                                                   1070010700
+DREW BROOKE DR                                              1070010700
+DUERS MILL RD                                               1070010700
+DUNCAN ST                                                   1070110701
+DUNN ST                                                     1070110701
+E BRIDGE RD                                                 1070010700
+E CEDAR ST                                                  1070010700
+E CEDAR ST                                                  1070110701
+E COOK RD                                                   1070010700
+E KENTUCKY AVE                                              1070110701
+E MADISON ST                                                1070110701
+E WASHINGTON ST                                             1070110701
+EAGLE DR                                                    1070010700
+EAST ST                                                     1070110701
+EDDINGS RD                                                  1070010700
+EDGAR ST                                                    1070110701
+EDGEWOOD DR                                                 1070110701
+EDISON RD                                                   1070010700
+ELLIOTT RD                                                  1070010700
+ELLIS RD                                                    1070010700
+ELM ST                                                      1070110701
+ELMORE GREGORY RD                                           1070010700
+EMILIN LN                                                   1070110701
+EUBANKS FORD RD                                             1070010700
+EVANS RD                                                    1070010700
+EWING HALCOMB RD                                            1070010700
+FAIRBROOK AVE                                               1070110701
+FAIRVIEW AVE                                                1070110701
+FAIRWAY DR                                                  1070110701
+FAIRWAY RD                                                  1070010700
+FEDERAL ST                                                  1070110701
+FILTER PLANT RD                                             1070110701
+FINN ST                                                     1070110701
+FITZGERALD CT                                               1070010700
+FLAT ROCK RD                                                1070010700
+FORSHEE RD                                                  1070010700
+FRANKLIN AVE                                                1070110701
+FRANKLIN MOBILE HOMES TRAILOR PARK ENTRANCE                 1070110701
+FRANKLIN MOBILE HOMES TRAILOR PARK ROW NO1                  1070110701
+FRANKLIN MOBILE HOMES TRAILOR PARK ROW NO2                  1070110701
+FRANKLIN MOBILE HOMES TRAILOR PARK ROW NO3                  1070110701
+FRANKLIN MOBILE HOMES TRAILOR PARK ROW NO4                  1070110701
+FRANKLIN SIMPSON COUNTY PARK NO1                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO10                           1070110701
+FRANKLIN SIMPSON COUNTY PARK NO2                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO3                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO4                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO5                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO6                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO7                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO8                            1070110701
+FRANKLIN SIMPSON COUNTY PARK NO9                            1070110701
+FREASLANDS WAY                                              1070010700
+FREMONT LN                                                  1070010700
+FULTON KITCHENS RD                                          1070010700
+G VAUGHN RD                                                 1070010700
+GEDDES RD                                                   1070010700
+GEORGE LITTLE RD                                            1070010700
+GEORGE TAYLOR RD                                            1070010700
+GILBERT PIRKLE RD                                           1070010700
+GLENDALE RD                                                 1070110701
+GLOBAL AVE                                                  1070110701
+GOLD CITY RD                                                1070010700
+GOSNELL RD                                                  1070010700
+GRACE RD                                                    1070010700
+GRANDVIEW DR                                                1070110701
+GRAVES RD                                                   1070010700
+GREEN ST                                                    1070110701
+GREENLAWN CEMETERY                                          1070110701
+GREENLAWN CEMETERY NO1                                      1070110701
+GREENLAWN CEMETERY NO11                                     1070110701
+GREENLAWN CEMETERY NO12                                     1070110701
+GREENLAWN CEMETERY NO13                                     1070110701
+GREENLAWN CEMETERY NO14                                     1070110701
+GREENLAWN CEMETERY NO15                                     1070110701
+GREENLAWN CEMETERY NO2                                      1070110701
+GREENLAWN CEMETERY NO3                                      1070110701
+GREENLAWN CEMETERY NO4                                      1070110701
+GREENLAWN CEMETERY NO5                                      1070110701
+GREENLAWN CEMETERY NO6                                      1070110701
+GREENLAWN CEMETERY NO7                                      1070110701
+GREENLAWN CEMETERY NO8                                      1070110701
+GREENLAWN CEMETERY NO9                                      1070110701
+GREENLAWN CEMTERY NO10                                      1070110701
+GREENWOOD DR                                                1070110701
+GREGORY RD                                                  1070010700
+GROVES LN                                                   1070010700
+GROVES RD                                                   1070010700
+H ROBERTSON RD                                              1070010700
+HACK BROWN RD                                               1070010700
+HALCOMB AVE                                                 1070110701
+HALCOMB RD                                                  1070010700
+HALL LEFFEW RD                                              1070010700
+HAMPTON CIR                                                 1070110701
+HARBOR CT                                                   1070110701
+HARDING RD                                                  1070110701
+HARDISON RD                                                 1070010700
+HAROLD JERNIGAN RD                                          1070010700
+HARRIS LN                                                   1070010700
+HARRIS RD                                                   1070010700
+HARRIS SCHOOL RD                                            1070010700
+HASTINGS RD                                                 1070010700
+HATCHER RD                                                  1070010700
+HATTER RD                                                   1070010700
+HAWTHORNE ST                                                1070010700
+HAYNER RD                                                   1070010700
+HEDGEWOOD DR                                                1070110701
+HENDRICKS RD                                                1070010700
+HENDRICKS ST                                                1070110701
+HENRY ST                                                    1070110701
+HENSON RD                                                   1070010700
+HERSCHEL HENDERSON RD                                       1070010700
+HICKMAN MILL                                                1070010700
+HICKORY FLAT GOLD CITY RD                                   1070010700
+HICKORY FLAT RAPIDS RD                                      1070010700
+HICKORY FLAT RD                                             1070010700
+HILDEGARD AVE                                               1070110701
+HILLCREST DR                                                1070110701
+HOBDY RD                                                    1070010700
+HOLLAND BROTHERS RD                                         1070010700
+HOLLY CT                                                    1070010700
+HOLLY HILLS RD                                              1070010700
+HOLLY TREE CT                                               1070010700
+HONEYSUCKLE RD                                              1070010700
+HORSEMANS LN                                                1070010700
+HOSPITAL ENTRANCE NO1                                       1070110701
+HOSPITAL ENTRANCE NO2                                       1070110701
+HOSPITAL PARKING NO1                                        1070110701
+HOSPITAL PARKING NO2                                        1070110701
+HOUSE ST                                                    1070110701
+HOWARD HALL RD                                              1070010700
+HUDSPETH AVE                                                1070110701
+HUFF ST                                                     1070110701
+HUGHES RD                                                   1070010700
+HUMPHREY RD                                                 1070010700
+HUNTERS CROSSING                                            1070010700
+HUNTERS XING                                                1070010700
+I65 N                                                       1070010700
+I65 N                                                       1070110701
+I65 N EXIT2 CROSSOVER US31W                                 1070110701
+I65 N EXIT2 OFF RAMP TO US31W                               1070110701
+I65 N EXIT2 ON RAMP FROM US31W                              1070110701
+I65 N EXIT6 OFF RAMP TO KY100                               1070110701
+I65 N EXIT6 ON RAMP FROM KY100                              1070110701
+I65 N REST AREA1 CAR LANE                                   1070010700
+I65 N REST AREA1 OFF RAMP                                   1070010700
+I65 N REST AREA1 ON RAMP                                    1070010700
+I65 N REST AREA1 TRUCK LANE                                 1070010700
+I65 N WEIGH STATION4                                        1070010700
+I65 S                                                       1070010700
+I65 S                                                       1070110701
+I65 S EXIT2 CROSSOVER US31W                                 1070110701
+I65 S EXIT2 OFF RAMP TO US31W                               1070110701
+I65 S EXIT2 ON RAMP FROM US31W                              1070110701
+I65 S EXIT6 OFF RAMP TO KY100                               1070110701
+I65 S EXIT6 ON RAMP FROM KY100                              1070110701
+INDUSTRIAL BYP                                              1070010700
+INDUSTRIAL BYP                                              1070110701
+INDUSTRIAL DR                                               1070110701
+IRIS DR                                                     1070110701
+J L FARMER RD                                               1070010700
+J WARREN RD                                                 1070010700
+JACK FERGUSON RD                                            1070010700
+JACKSON ST                                                  1070110701
+JAMES ST                                                    1070010700
+JEFFERSON ST                                                1070110701
+JENKINS RD                                                  1070010700
+JENNY LOCKE RUN                                             1070010700
+JEPSON LOOP                                                 1070010700
+JOE MCCOY RD                                                1070010700
+JOHN J JOHNSON AVE                                          1070110701
+JOHNS LOOP RD                                               1070010700
+JOHNSON ST                                                  1070110701
+KENNEDY LN                                                  1070110701
+KENNETH UTLEY DR                                            1070110701
+KENNY PERRY DR                                              1070010700
+KERRY CT                                                    1070110701
+KING ST                                                     1070110701
+KINNARD RD                                                  1070010700
+KIRBY RD                                                    1070010700
+KITCHENS RD                                                 1070010700
+KUMMER RD                                                   1070010700
+L CAUDILL RD                                                1070010700
+LAKE SPRING RD                                              1070010700
+LAMB DR                                                     1070110701
+LANER RD                                                    1070110701
+LARUE ST                                                    1070110701
+LAUREL DR                                                   1070110701
+LAWRENCE RD                                                 1070010700
+LAWRENCE ST                                                 1070110701
+LEGION DR                                                   1070110701
+LEMON ST                                                    1070110701
+LEO BINION RD                                               1070010700
+LEO THOMPSON RD                                             1070010700
+LEON ST                                                     1070110701
+LES CAUDILL RD                                              1070010700
+LIBERTY ST                                                  1070110701
+LIBRARY ALY                                                 1070110701
+LICK CREEK RD                                               1070010700
+LILLARD RD                                                  1070010700
+LINCOLN PARK                                                1070110701
+LOCUST GROVE RD                                             1070010700
+LOCUST ST                                                   1070110701
+LOGAN CT                                                    1070110701
+LOGAN LN                                                    1070110701
+LONE OAK DR                                                 1070110701
+LONGVIEW DR                                                 1070110701
+LOVING CHAPEL RD                                            1070010700
+LYNN WAY                                                    1070010700
+LYNNWOOD DR                                                 1070110701
+MACEDONIA RD                                                1070010700
+MACEDONIA RD                                                1070110701
+MACEDONIA SPUR RD                                           1070010700
+MALLORY RD                                                  1070010700
+MAPLE ST                                                    1070110701
+MAPLELEAF                                                   1070110701
+MARK ST                                                     1070110701
+MARTHA OLIVER N RD                                          1070010700
+MARTHA OLIVER RD                                            1070010700
+MARY ADAMS RD                                               1070010700
+MASSEY RD                                                   1070010700
+MAST RD                                                     1070010700
+MAUDE ALEXANDER RD                                          1070010700
+MAYES LN                                                    1070110701
+MCCLENDON RD                                                1070110701
+MCDOWELL AVE                                                1070110701
+MCGEE RD                                                    1070010700
+MCGOODWIN AVE                                               1070110701
+MCKENDREE CHAPEL LOOP RD                                    1070010700
+MCKENDREE CHAPEL RD                                         1070010700
+MEADOR RD                                                   1070010700
+MEADOWLAWN DR                                               1070110701
+MEMORIAL DR                                                 1070110701
+MENNONITE CHURCH RD                                         1070010700
+MIDDLETON CIR                                               1070010700
+MIDDLETON RD                                                1070010700
+MILLER POND RD                                              1070110701
+MILLER ST                                                   1070110701
+MILLIKEN CHAPEL RD                                          1070010700
+MILLIKEN LN                                                 1070010700
+MILLWOOD DR                                                 1070110701
+MIMOSA DR                                                   1070110701
+MINNICKS JOHNSON RD                                         1070010700
+MOLLY AVE                                                   1070010700
+MONTAGUE ST                                                 1070110701
+MONTEREY DR                                                 1070010700
+MOODY RD                                                    1070010700
+MOORE AVE                                                   1070110701
+MORGANTOWN RD                                               1070010700
+MORGANTOWN RD                                               1070110701
+MORRIS DUFF RD                                              1070010700
+MORRIS ST                                                   1070110701
+N COLLEGE ST                                                1070110701
+N FAIRWAY RD                                                1070010700
+N HARRIS RD                                                 1070010700
+N HIGH ST                                                   1070110701
+N MAIN ST                                                   1070010700
+N MAIN ST                                                   1070110701
+N RAILROAD ST                                               1070110701
+NASHVILLE RD                                                1070010700
+NASHVILLE RD                                                1070110701
+NEELY RD                                                    1070010700
+NEOSHEO PRICES MILL RD                                      1070010700
+NEOSHEO RD                                                  1070010700
+NEW SALEM RD                                                1070010700
+NICKLAUS LN                                                 1070010700
+NORTH POINTE DR                                             1070110701
+NORTH ST                                                    1070110701
+OAK HILLS LN                                                1070010700
+OAK LANE SPUR                                               1070110701
+OAK LN                                                      1070110701
+OAK RIDGE LN                                                1070010700
+OAKLAND CT                                                  1070110701
+OAKMORE DR                                                  1070110701
+OAKTREE LN                                                  1070110701
+OGLES AVE                                                   1070110701
+OLD COUNTY FARM RD                                          1070010700
+OLD KY 100                                                  1070010700
+OLD KY 73                                                   1070010700
+OLD US 31W                                                  1070010700
+OLD ZION CHURCH RD                                          1070010700
+ORANGE ST                                                   1070110701
+OXMORE DR                                                   1070110701
+P J CT                                                      1070110701
+PAGE DR                                                     1070110701
+PALMER LN                                                   1070010700
+PARADISE SCHOOL RD                                          1070010700
+PARKWAY DR                                                  1070110701
+PATTON RD                                                   1070010700
+PEA RIDGE ST                                                1070110701
+PEACH ST                                                    1070110701
+PEBBLES AVE                                                 1070110701
+PEDEN MILL RD                                               1070010700
+PEDEN MILL RD                                               1070110701
+PELHAM ST                                                   1070110701
+PEPPER RD                                                   1070010700
+PEPPER ST                                                   1070110701
+PERDUE FARMS RD                                             1070010700
+PERDUE RD                                                   1070010700
+PEYTON LN                                                   1070110701
+PHILLIPS RD                                                 1070010700
+PHILLIPS ST                                                 1070110701
+PILOT KNOB RD                                               1070010700
+PINE RIDGE TRAILER PARK                                     1070010700
+PINE ST                                                     1070110701
+PLEASANT HILL RD                                            1070010700
+PLEASANT VALLEY RD                                          1070110701
+POOLE AVE                                                   1070110701
+POPLAR ST                                                   1070110701
+PORTLAND AVE                                                1070110701
+POWELL AVE                                                  1070110701
+PRICES MILL LOOP                                            1070010700
+PRIDE OF FORTUNE                                            1070110701
+PRIVATE ROAD NO1                                            1070010700
+QUAIL RIDGE RD                                              1070010700
+QUICK DRAW DR                                               1070110701
+R DISON RD                                                  1070010700
+R WILLIAMS RD                                               1070010700
+RAILROAD ST W                                               1070110701
+RAINBOW DR                                                  1070110701
+RAINES DR                                                   1070010700
+RAPIDS RD                                                   1070010700
+RAPIDS RD                                                   1070110701
+RAWLS AVE                                                   1070110701
+RAWLS AVENUE EXT                                            1070110701
+RAY YOUNG RD                                                1070010700
+REAMES DIXON RD                                             1070010700
+REASONOVER DR                                               1070110701
+RED DORRIS RD                                               1070010700
+REDBUD DR                                                   1070110701
+REDROCK RD                                                  1070110701
+REDWOOD DR                                                  1070110701
+REEDER SCHOOL RD                                            1070010700
+REEVES RD                                                   1070010700
+REID RD                                                     1070010700
+RICKEL AVE                                                  1070110701
+ROARK RD                                                    1070010700
+ROBBINS RD                                                  1070010700
+ROBERTS RD                                                  1070010700
+ROBERTSON RD                                                1070010700
+ROBEY BETHEL GROVE RD                                       1070010700
+ROBEY CEMETERY RD                                           1070010700
+ROBEY ST                                                    1070110701
+RODGERS RD                                                  1070010700
+RODGERS RD                                                  1070110701
+ROGERS AVE                                                  1070110701
+ROLLING ROAD DR                                             1070110701
+ROOSEVELT AVE                                               1070110701
+ROSE AVE                                                    1070110701
+ROSEWOOD DR                                                 1070110701
+ROUND POND CHURCH RD                                        1070010700
+RUSSELL ST                                                  1070110701
+RUSSELLVILLE GALLATIN RD                                    1070010700
+RUSSELLVILLE RD                                             1070010700
+RUTHERFORD AVE                                              1070010700
+RUTHERFORD RD                                               1070010700
+RYAN ST                                                     1070110701
+S COLLEGE ST                                                1070110701
+S COLLEGE STREET SPUR                                       1070110701
+S FAIRWAY RD                                                1070010700
+S HIGH ST                                                   1070110701
+S MAIN ST                                                   1070010700
+S MAIN ST                                                   1070110701
+S PRUITT RD                                                 1070010700
+S RAILROAD ST                                               1070110701
+S S CASSIDY RD                                              1070010700
+SADDLER FORD RD                                             1070010700
+SALEM LN                                                    1070010700
+SALEM RD                                                    1070010700
+SALMONS BLACKJACK RD                                        1070010700
+SALMONS CHURCH RD                                           1070010700
+SAM HOLLINS RD                                              1070010700
+SARA WAY                                                    1070010700
+SARVER ST                                                   1070110701
+SCHWEIZER RD                                                1070010700
+SCOTLAND AVE                                                1070110701
+SCOTTSVILLE RD                                              1070010700
+SCOTTSVILLE RD                                              1070110701
+SEAN DR                                                     1070010700
+SENG AVE                                                    1070110701
+SHARON DR                                                   1070110701
+SHERWOOD DR                                                 1070110701
+SIMPSONS ST                                                 1070110701
+SISKE RD                                                    1070010700
+SKERRITT ST                                                 1070010700
+SLIM HALL RD                                                1070010700
+SLOSS RD                                                    1070010700
+SNIDER LN                                                   1070110701
+SOUTH ST                                                    1070110701
+SOUTH WINGO RD                                              1070010700
+SPEARS AVE                                                  1070110701
+SPENCE LN                                                   1070010700
+SPORTSMAN LAKE RD                                           1070010700
+SPOUT SPRINGS RD                                            1070010700
+SPOUT SPRINGS SPUR RD                                       1070010700
+SPRINGFIELD RD                                              1070010700
+STANLEY LN                                                  1070010700
+STATE ST                                                    1070110701
+STEELE RD                                                   1070010700
+STEELE RD                                                   1070110701
+STEPHENS HILL RD                                            1070010700
+STEVENSON RD                                                1070010700
+STEWART AVE                                                 1070110701
+STINSON RD                                                  1070010700
+STONE RD                                                    1070010700
+STRAWBERRY LN                                               1070110701
+STRINGER RD                                                 1070010700
+SULPHUR SPRINGS RD                                          1070010700
+SUNNYSIDE DR                                                1070110701
+SUNSET CIR                                                  1070110701
+SYCAMORE LN                                                 1070110701
+T COOK RD                                                   1070010700
+TAYLOR DR                                                   1070110701
+TAYLOR LN                                                   1070110701
+TEMPERANCE RD                                               1070010700
+THOMAS DR                                                   1070110701
+TIMBERLANE DR                                               1070110701
+TODD ST                                                     1070110701
+TOMMY COOK RD                                               1070010700
+TRAILER PARK NO1                                            1070010700
+TRAILER PARK NO2                                            1070010700
+TRAILER PARK NO3                                            1070010700
+TROTTER LN                                                  1070110701
+TUCK RD                                                     1070010700
+TULIP DR                                                    1070110701
+TULIP LN                                                    1070110701
+TURNER FORD RD                                              1070010700
+TURNER THACKER RD                                           1070010700
+TURNERTOWN RD                                               1070010700
+TYLER ST                                                    1070110701
+TYREE CHAPEL RD                                             1070010700
+TYREE CHAPEL ROAD SPUR                                      1070010700
+UHLS RD                                                     1070010700
+UPPER PRICES MILL RD                                        1070010700
+V F W RD                                                    1070110701
+VALENTINE AVE                                               1070010700
+VALLEY RIDGE RD                                             1070110701
+VALLEYVIEW DR                                               1070110701
+VANARADALL RD                                               1070010700
+VANCES MILL RD                                              1070010700
+VANTREASE RD                                                1070010700
+VAUGHN RD                                                   1070010700
+VILLAGE DR                                                  1070110701
+VONDA VW                                                    1070010700
+W CEDAR ST                                                  1070110701
+W CHERRY ST                                                 1070110701
+W KENTUCKY AVE                                              1070110701
+W MADISON ST                                                1070010700
+W MADISON ST                                                1070110701
+W WASHINGTON ST                                             1070110701
+WALKER RD                                                   1070010700
+WALKER ST                                                   1070110701
+WALL ST                                                     1070110701
+WALNUT LN                                                   1070010700
+WALNUT ST                                                   1070110701
+WASHINGTON WAY                                              1070110701
+WATER ST                                                    1070110701
+WEBB RD                                                     1070010700
+WEST ST                                                     1070110701
+WESTBOROUGH CT                                              1070110701
+WESTERN DR                                                  1070110701
+WESTFIELD LN                                                1070010700
+WESTLAND AVE                                                1070110701
+WESTVIEW DR                                                 1070110701
+WESTWOODS DR                                                1070110701
+WHISPERING HILLS NO1                                        1070010700
+WHITE OAK LN                                                1070010700
+WHITESIDE FORD RD                                           1070010700
+WIDENER CIR                                                 1070010700
+WILBURN DEASY RD                                            1070010700
+WILDCAT WAY                                                 1070110701
+WILL PAYNE RD                                               1070010700
+WILLIAMS RD                                                 1070010700
+WILLIAMSBURG RD                                             1070110701
+WILLOW LN                                                   1070110701
+WILSON WAY                                                  1070010700
+WILSON WILLIAMS RD                                          1070010700
+WINDY CIRCLE RD                                             1070010700
+WINDY CIRCLE ROAD EXTENSION                                 1070010700
+WINGO RD                                                    1070010700
+WINSTON LN                                                  1070010700
+WITT RD                                                     1070010700
+WITT RD                                                     1070110701
+WITTLAND DR                                                 1070110701
+WOODLAND DR                                                 1070110701
+WOODMONT CIR                                                1070110701
+YOKLEY ST                                                   1070110701
+YORK ST                                                     1070110701
+YOUNG RD                                                    1070010700

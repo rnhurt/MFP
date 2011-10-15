@@ -3,7 +3,7 @@ class CreateStreetNames < ActiveRecord::Migration
     create_table :street_names do |t|
       t.string    :code
       t.string    :local_code
-      t.integer   :city_id
+      t.integer   :county_id
       t.string    :name
 
       t.boolean   :active, :default => true

@@ -1,0 +1,706 @@
+AARONS LOOP                                                 0230002300
+ABES PLAZA                                                  0230102301
+ABNER HILL RD                                               0230002300
+ADAMS CEMETERY RD                                           0230002300
+ADAMS ST                                                    0230102301
+ALFORD GARRETT RD                                           0230002300
+ALFORD RD                                                   0230002300
+ALICE ROY RD                                                0230002300
+ALLEN CEMETERY RD                                           0230002300
+ALLEN CREEK RD                                              0230002300
+ALLEN RD                                                    0230002300
+ALLEN ST                                                    0230102301
+ALLEY WAY                                                   0230102301
+AMERICAS WAY                                                0230002300
+AMOS WOODRUM RD                                             0230002300
+ANN RD                                                      0230002300
+ANTIOCH CHURCH RD                                           0230002300
+ANTIOCH RD                                                  0230002300
+APOSTOLIC RIDGE RD                                          0230002300
+ARNOLD HALE RD                                              0230002300
+ASHLEY DR                                                   0230002300
+AUSTIN LN                                                   0230002300
+B M RD                                                      0230002300
+BACKWOODS WAY                                               0230002300
+BAILEY RD                                                   0230002300
+BALDOCK CONNECTOR RD                                        0230002300
+BARGER DR                                                   0230002300
+BARK RIDGE RD                                               0230002300
+BARNETTS CREEK RD                                           0230002300
+BARRY ST                                                    0230102301
+BARTLE DR                                                   0230002300
+BARTLE HEIGHTS                                              0230102301
+BARTON COVE                                                 0230002300
+BASIL ROY DR                                                0230002300
+BASIL ROY SPUR RD                                           0230002300
+BASTIN CREEK RD                                             0230002300
+BEARD CEMETERY RD                                           0230002300
+BEASLEY RD                                                  0230002300
+BEE LEE CV                                                  0230002300
+BEE LEE RD                                                  0230002300
+BEE LEE SPUR RD                                             0230002300
+BEECH FLAT RD                                               0230002300
+BEECH ST                                                    0230102301
+BEECH TREE LN                                               0230002300
+BELDON AVE                                                  0230102301
+BELIEVERS LN                                                0230102301
+BENNIE NOEL RD                                              0230002300
+BERTRAM RD                                                  0230002300
+BETHANY LN                                                  0230002300
+BETHELRIDGE RD                                              0230002300
+BIG WINDY RD                                                0230002300
+BILL BROWN RD                                               0230002300
+BILLY TURPIN RD                                             0230002300
+BLACK LICK RD                                               0230002300
+BLACK RIDGE RD                                              0230002300
+BLACKBERRY LN                                               0230002300
+BLEVINS RD                                                  0230002300
+BLUE BANK RD                                                0230002300
+BOB GODBEY RD                                               0230002300
+BOBBY ALLEN RD                                              0230002300
+BOLT LN                                                     0230102301
+BOWMAN TRL                                                  0230002300
+BRADSHAW ST                                                 0230002300
+BRATCHER HOLLOW RD                                          0230002300
+BRINSON PLACE                                               0230002300
+BROCK RD                                                    0230002300
+BROOK DR                                                    0230002300
+BROOKVIEW DR                                                0230102301
+BROUGHTON HILLS DR                                          0230102301
+BROWN CT                                                    0230102301
+BROWN RIDGE RD                                              0230002300
+BRUSH CREEK RD                                              0230002300
+BRUSHY BRANCH RD                                            0230002300
+BRYANT RIDGE HILL RD                                        0230002300
+BRYANT RIDGE RD                                             0230002300
+BUCK BRANCH RD                                              0230002300
+BUCK RD                                                     0230002300
+BULL RUN RD                                                 0230002300
+BUTCHER ST                                                  0230102301
+BUTCHERTOWN RD                                              0230002300
+BUTTON KNOB RD                                              0230002300
+BUTTON KNOB SPUR RD                                         0230002300
+BYRD RIDGE RD                                               0230002300
+BYRD RIDGE SPUR RD                                          0230002300
+C ELLIOTT RD                                                0230002300
+CAIN RD                                                     0230002300
+CALE BROWN RD                                               0230002300
+CALHOUN CREEK RD                                            0230002300
+CALVARY RIDGE RD                                            0230002300
+CALVIN BROWN RD                                             0230002300
+CAMPBELLS LN                                                0230002300
+CAMPBELLS LN                                                0230102301
+CAMPBELLSVILLE ST                                           0230102301
+CANEY FORK CREEK RD                                         0230002300
+CANEY FORK RD                                               0230002300
+CANNON DR                                                   0230102301
+CANNON RD                                                   0230002300
+CANOE CREEK RD                                              0230002300
+CARLOS WESLEY RD                                            0230002300
+CARMAN CREEK RD                                             0230002300
+CARMAN CREEK SPUR RD                                        0230002300
+CARMICLE ST                                                 0230102301
+CARPENTERS CREEK RD                                         0230002300
+CARR SASSER RD                                              0230002300
+CASEY CREEK CONNECTOR RD                                    0230002300
+CASEY CREEK RD                                              0230002300
+CASEY DR                                                    0230102301
+CASTLE ROCK DR                                              0230002300
+CAUDILL RD                                                  0230002300
+CEDAR CREEK RD                                              0230002300
+CEDAR HILL RD                                               0230002300
+CHARLES BROWN RD                                            0230002300
+CHAZ CIR                                                    0230002300
+CHELF RIDGE RD                                              0230002300
+CHERRY LN                                                   0230002300
+CHESTNUT DR                                                 0230002300
+CHESTNUT LEVEL RD                                           0230002300
+CLARK RD                                                    0230002300
+CLARKSON RD                                                 0230002300
+CLAY ATWOOD RD                                              0230002300
+CLEAR BRANCH RD                                             0230002300
+CLEARY RD                                                   0230002300
+CLIFFORD EMERSON RD                                         0230002300
+CLOVERDALE LN                                               0230002300
+CLYDE BELL RD                                               0230002300
+CLYDE MCDONALD RD                                           0230002300
+COAL PIT RD                                                 0230002300
+COCHRAN RD                                                  0230002300
+COFFEY RD                                                   0230002300
+COFFMAN BRANCH RD                                           0230002300
+COLLEGE ST                                                  0230102301
+COMBEST RD                                                  0230002300
+COMBEST ST                                                  0230102301
+COMBS RD                                                    0230002300
+COMBS SPUR RD                                               0230002300
+CONNER AVE                                                  0230102301
+CONTOWN RD                                                  0230002300
+COPPAGE RD                                                  0230002300
+CORINTH CHURCH RD                                           0230002300
+COURTHOUSE SQ                                               0230102301
+COWDEN ST                                                   0230102301
+COY MASON RD                                                0230002300
+CRAVENS HOLLOW                                              0230002300
+CREEK RD                                                    0230002300
+CRESTON WATERTOWER RD                                       0230002300
+CRESTON WATERTOWER SPUR                                     0230002300
+CROCKETT RD                                                 0230002300
+CRUTCHER LN                                                 0230002300
+CUNDIFF RD                                                  0230002300
+CURTIS LONG DR                                              0230002300
+DAVIDS DR                                                   0230002300
+DAVIDSON RD                                                 0230002300
+DAVIS DR                                                    0230002300
+DEANY VANNOY RD                                             0230002300
+DEBBIE RD                                                   0230102301
+DEERFIELD LN                                                0230002300
+DEFEVERS RD                                                 0230002300
+DELP RD                                                     0230002300
+DELP RD N                                                   0230002300
+DENSON RD                                                   0230002300
+DENTON ELMORE RD                                            0230002300
+DERRINGER RD                                                0230002300
+DEWEY MILLER RD                                             0230002300
+DILLON ST                                                   0230102301
+DOE CREEK SPUR RD                                           0230002300
+DOG TROT RD                                                 0230002300
+DOGWALK ST                                                  0230002300
+DOGWOOD DR                                                  0230002300
+DOGWOOD GAP RD                                              0230002300
+DONNAS WAY                                                  0230002300
+DONOVAN DR                                                  0230002300
+DOVE RD                                                     0230002300
+DRY CREEK RD                                                0230002300
+DRY FORK RD                                                 0230002300
+DRY RIDGE RD                                                0230002300
+DUG HILL RD                                                 0230002300
+DUNNVILLE FIRE DEPARTMENT RD                                0230002300
+DURHAM CIR                                                  0230002300
+DURHAM RD                                                   0230002300
+DURHAMS PARK                                                0230002300
+E BRUSHY BRANCH                                             0230002300
+E DOE CREEK RD                                              0230002300
+E PUMPKIN CHAPEL RD                                         0230002300
+E PUMPKIN CHAPEL SPUR                                       0230002300
+E SHARP HOLLOW RD                                           0230002300
+E TURNER RD                                                 0230002300
+E YOSEMITE RD                                               0230002300
+EAGLE POINT DR                                              0230002300
+EARL WARNER RD                                              0230002300
+EAST FORK RD                                                0230002300
+ED WITT RD                                                  0230002300
+EDITH LUTTRELL RD                                           0230002300
+EGYPT CREEK RD                                              0230002300
+ELDER CEMETERY RD                                           0230002300
+ELIXIR SPRINGS RD                                           0230002300
+ELK CAVE BRANCH RD                                          0230002300
+ELLIOTT ACRES RD                                            0230002300
+ELLIOTT ST                                                  0230002300
+ELLIS LN                                                    0230002300
+ELLISON RD                                                  0230002300
+ELM DR                                                      0230002300
+ELMER BERNARD RD                                            0230002300
+ELMER CORNER RD                                             0230002300
+ELMORE HILL RD                                              0230002300
+ELMORE HOLLOW RD                                            0230002300
+ELSIE COMBS RD                                              0230002300
+EMERSON RD                                                  0230002300
+ERNEST LAWLESS RD                                           0230002300
+ESCO ADKINS RD                                              0230002300
+ESTELLE LN                                                  0230002300
+EUNICE RD                                                   0230002300
+EUNICE SPUR RD                                              0230002300
+EVERETT YORK RD                                             0230002300
+EWING RIDGE RD                                              0230002300
+EZRA WALL RD                                                0230002300
+FAIR CEMETERTY RD                                           0230002300
+FAIR ST                                                     0230102301
+FAIRWAY VIEW DR                                             0230002300
+FAULKNER RD                                                 0230002300
+FERNDALE LN                                                 0230002300
+FINIS BEASLEY RD                                            0230002300
+FISHING CREEK RD                                            0230002300
+FLATWOODS DR                                                0230002300
+FORREST DR                                                  0230002300
+FORREST HINES RD                                            0230002300
+FOSTER RD                                                   0230002300
+FOSTER ST                                                   0230102301
+FOSTER STREET EXT                                           0230102301
+FREYS CREEK RD                                              0230002300
+FRIENDSHIP HOLLOW                                           0230002300
+FRIENDSHIP LOOP                                             0230002300
+GABEHART ST                                                 0230002300
+GADBERRY LN                                                 0230002300
+GALILEAN HOME RD                                            0230002300
+GARNER ST                                                   0230102301
+GARRETT LN                                                  0230002300
+GENE LYNN RD                                                0230002300
+GEORGE BRANCH RD                                            0230002300
+GERALD BUIS RD                                              0230002300
+GLEN EMERSON LN                                             0230002300
+GLEN RICHARDSON RD                                          0230002300
+GLOVER CEMETERY RD                                          0230002300
+GODBEY RD                                                   0230002300
+GODSEY DR                                                   0230002300
+GOODIN RD                                                   0230002300
+GOOSE CREEK RD                                              0230002300
+GORDON LICK RD                                              0230002300
+GOSSER RIDGE RD                                             0230002300
+GOSSER ST                                                   0230102301
+GRADY LUTTRELL RD                                           0230002300
+GRANT RD                                                    0230002300
+GRANT RICHARDSON RD                                         0230002300
+GREEN POND RIDGE RD                                         0230002300
+GREEN RIVER VALLEY RD                                       0230002300
+GREEN ST                                                    0230102301
+GREEN VALLEY RD                                             0230002300
+GREEN VALLEY RD S                                           0230002300
+GRIFFIN ST                                                  0230102301
+GRIFFITH RIDGE RD                                           0230002300
+GRITTON ST                                                  0230102301
+GROVE RIDGE RD                                              0230002300
+GUM LICK RD                                                 0230002300
+GUSTY BRANCH RD                                             0230002300
+H BASTIN RD                                                 0230002300
+HAFLEY BRANCH RD                                            0230002300
+HAGGARD DR                                                  0230002300
+HALL RD                                                     0230002300
+HALON YOUNG RD                                              0230002300
+HAMILTON RD                                                 0230002300
+HAMM RD                                                     0230002300
+HARPERS WAY                                                 0230002300
+HARRIS LN                                                   0230002300
+HASTE RD                                                    0230002300
+HATFIELD RD                                                 0230002300
+HATTER RD                                                   0230002300
+HAYES HOLLOW RD                                             0230002300
+HEATHER LN                                                  0230002300
+HENSLEY LN                                                  0230002300
+HENSON CREEK RD                                             0230002300
+HENSON RIDGE RD                                             0230002300
+HESTEL EWING RD                                             0230002300
+HICKMAN CREEK RD                                            0230002300
+HICKORY RUN RD                                              0230002300
+HICKS RD                                                    0230002300
+HIDDEN VALLEY DR                                            0230002300
+HIDE AWAY DR                                                0230002300
+HIGH POINT RD                                               0230002300
+HIGH RIDGE RD                                               0230002300
+HIGH RIDGE SPUR                                             0230002300
+HILL BRANCH RD                                              0230002300
+HILL RIDGE RD                                               0230002300
+HILLTOP DR                                                  0230002300
+HITES CREEK RD                                              0230002300
+HOBART LN                                                   0230002300
+HOBART PHILLIPPE RD                                         0230002300
+HOLLIS JUDD RD                                              0230002300
+HOLLY HOCK DR                                               0230002300
+HOPEWELL RD                                                 0230002300
+HOPEWELL SPUR RD                                            0230002300
+HOSKIN ST                                                   0230102301
+HOWARD VAUGHT RD                                            0230002300
+HOWE HOLLOW RD                                              0230002300
+HUFF RD                                                     0230002300
+HUMMINGBIRD LN                                              0230002300
+HURRICANE RIDGE RD                                          0230002300
+HUSTONVILLE ST                                              0230102301
+INDIAN CREEK RD                                             0230002300
+INDUSTRIAL RD                                               0230002300
+IVEN GODBEY RD                                              0230002300
+JACKIE DR                                                   0230002300
+JACKIE HOLLOW RD                                            0230002300
+JACKIE HOLLOW SPUR                                          0230002300
+JACKTOWN SCHOOL RD                                          0230002300
+JAY ST                                                      0230102301
+JESSE RODGERS LN                                            0230002300
+JESSE RODGERS LN                                            0230102301
+JIM BLAND RD                                                0230002300
+JIM BROWN RD                                                0230002300
+JIM LEE RD                                                  0230002300
+JIMMY COMBS RD                                              0230002300
+JIMMY SALYERS RD                                            0230002300
+JOCKEY ST                                                   0230102301
+JODIE THOMAS RD                                             0230002300
+JOE HENSON RD                                               0230002300
+JOE WRIGHT RD                                               0230002300
+JOEY PATTERSON RD                                           0230002300
+JOHN PATTERSON RD                                           0230002300
+JOHN PRICE RD                                               0230002300
+JOHN TERRY RD                                               0230002300
+JOHNSON CHAPEL RD                                           0230002300
+JONATHAN FORK RD                                            0230002300
+JONES RD                                                    0230002300
+JOSHUA LN                                                   0230002300
+JR CLARK RD                                                 0230002300
+JUNIOR MURPHY RD                                            0230002300
+JUNIOR MURPHY SPUR RD                                       0230002300
+KEITH WOLFORD RD                                            0230002300
+KETTLE CREEK RD                                             0230002300
+KIDDS STORE LOOP RD                                         0230002300
+KING CEMETERY                                               0230002300
+KY1547                                                      0230002300
+KY1676                                                      0230002300
+KY1859                                                      0230002300
+KY198                                                       0230002300
+KY206                                                       0230002300
+KY49                                                        0230002300
+KY49                                                        0230102301
+KY501 S                                                     0230002300
+KY551                                                       0230002300
+KY698                                                       0230002300
+KY70                                                        0230002300
+KY70 BUS                                                    0230002300
+KY70 E                                                      0230002300
+KY70 E                                                      0230102301
+KY70 W                                                      0230002300
+KY78                                                        0230002300
+KY80                                                        0230002300
+KY817                                                       0230002300
+KY837 N                                                     0230002300
+KY837 S                                                     0230002300
+KY906                                                       0230002300
+KY910                                                       0230002300
+LAKE LIBERTY ST                                             0230002300
+LAKE LIBERTY ST                                             0230102301
+LAKE SALLY ANNIE                                            0230002300
+LANE BRANCH RD                                              0230002300
+LANE RD                                                     0230002300
+LANHAM CEMETERY                                             0230002300
+LANHAMTOWN RD                                               0230002300
+LARRY MCDONALD RD                                           0230002300
+LAWHORN CEMETERY RD                                         0230002300
+LAWHORN DR                                                  0230002300
+LAY RD                                                      0230002300
+LEE GRAHAM RD                                               0230002300
+LEE RD                                                      0230002300
+LEON COLEMAN RD                                             0230002300
+LEONARD LN                                                  0230002300
+LESLIE COMBS RD                                             0230002300
+LEWELLEN RD                                                 0230002300
+LEWIS AVE                                                   0230002300
+LIBERTY MANOR LN                                            0230102301
+LIBERTY SQUARE                                              0230102301
+LINDSAY RD                                                  0230002300
+LINNIE RHEBER RD                                            0230002300
+LITTLE SOUTH RD                                             0230002300
+LIZZIE WELLS LN                                             0230002300
+LOGAN POINT                                                 0230002300
+LONG BRANCH RD                                              0230002300
+LONG HOLLOW RD                                              0230002300
+LOOP RD                                                     0230002300
+LOWER BRUSH CREEK RD                                        0230002300
+LOWER GREEN POND RD                                         0230002300
+LUTTRELL RD                                                 0230002300
+LUTTRELLS CREEK RD                                          0230002300
+LYNN ST                                                     0230002300
+MADDOX CEMETERY RD                                          0230002300
+MALONE CEMETERY RD                                          0230002300
+MAMIE PRICE RD                                              0230002300
+MAPLE AVE                                                   0230102301
+MAPLE HILL RD                                               0230002300
+MARGARET LN                                                 0230002300
+MARTIN RD                                                   0230002300
+MARTINS CREEK RD                                            0230002300
+MARVIN WAHL RD                                              0230002300
+MATHERLY RD                                                 0230002300
+MAXEY VALLEY RD                                             0230002300
+MAZIES CT                                                   0230002300
+MCANELLY BRANCH RD                                          0230002300
+MCANINCH ST                                                 0230102301
+MCBEATH RD                                                  0230002300
+MCCANN BRANCH RD                                            0230002300
+MCDONALD RD                                                 0230002300
+MCGINNIS LN                                                 0230002300
+MEADOW DR                                                   0230002300
+MEANS RD                                                    0230002300
+MEECE ST                                                    0230002300
+MELVIN MEEKS RD                                             0230002300
+MEMORY DR                                                   0230002300
+MERRITT RIDGE RD                                            0230002300
+MICHAEL DR                                                  0230002300
+MIDDLEBURG ST                                               0230102301
+MIKES PARK                                                  0230002300
+MIKES RD                                                    0230002300
+MILL DAM RD                                                 0230002300
+MINORS BRANCH RD                                            0230002300
+MONTGOMERY ST                                               0230102301
+MORGIE DR                                                   0230002300
+MOXLEY RD                                                   0230002300
+MULLINS RD                                                  0230002300
+MURPHY BRANCH RD                                            0230002300
+MURPHY CEMETERY RD                                          0230002300
+MURPHY VALLEY RD                                            0230002300
+MURPHY WOLFORD RD                                           0230002300
+MYRTLE DR                                                   0230002300
+N HATFIELD RD                                               0230002300
+N MIKE MERRITT RD                                           0230002300
+N WALLACE WILKINSON BLVD                                    0230002300
+N WALLACE WILKINSON BLVD                                    0230102301
+NAPIER ST                                                   0230102301
+NEFF RD                                                     0230002300
+NICHOLAS DR                                                 0230002300
+NICHOLS RD                                                  0230002300
+NOE RD                                                      0230002300
+NORRIS RD                                                   0230002300
+NORTHCUT ST                                                 0230102301
+NUBBIN RIDGE RD                                             0230002300
+OAK HILL RD                                                 0230002300
+OAK SPUR LN                                                 0230102301
+OB THOMAS RD                                                0230002300
+OB WILSON RD                                                0230002300
+OFFICE ST                                                   0230102301
+OLD BELL HILL RD                                            0230002300
+OLD COLUMBIA RD                                             0230002300
+OLD COUNTRY RD                                              0230002300
+OLD KY 1742                                                 0230002300
+OLD US 127 LOOP                                             0230002300
+OLD WATER PLANT RD                                          0230102301
+OLD WOODS CREEK RD                                          0230002300
+OLIVER BASTIN RD                                            0230002300
+ONSBY RD                                                    0230002300
+ORCHARD LN                                                  0230002300
+ORCHID DR                                                   0230002300
+OSCAR ELLIS RD                                              0230002300
+OTIS TERRY RD                                               0230002300
+OVERSTREET RD                                               0230002300
+OWENS BRANCH RD                                             0230002300
+PARTON RD                                                   0230002300
+PATSY RIFFE RD                                              0230002300
+PATTEN MILLS LN                                             0230002300
+PATTERSON RD                                                0230002300
+PAW PAW CREEK RD                                            0230002300
+PEAVEY RD                                                   0230002300
+PECK PIKE                                                   0230002300
+PEE DEE CREEK RD                                            0230002300
+PENDLETON RD                                                0230002300
+PENN BRANCH RD                                              0230002300
+PENNS STORE RD                                              0230002300
+PERRY DR                                                    0230002300
+PETTYJOHN ST                                                0230102301
+PEYTON BRANCH RD                                            0230002300
+PEYTON CEMETERY RD                                          0230002300
+PEYTON RIDGE RD                                             0230002300
+PHELPS RD                                                   0230002300
+PHILLIP DEAN LN                                             0230002300
+PHILLIPPE RD                                                0230002300
+PHILLIPPE SPUR RD                                           0230002300
+PHILLIPS RD                                                 0230002300
+PHILLIPS ST                                                 0230102301
+PINE GROVE RD                                               0230002300
+PINE KNOB LN                                                0230002300
+PINKERTON PL                                                0230002300
+PITTMAN RD                                                  0230002300
+POFF EMERSON RD                                             0230002300
+POFF RD                                                     0230002300
+POND SCHOOL RD                                              0230002300
+POODLE DOO RD                                               0230002300
+POPLAR HILL RD                                              0230002300
+POPLAR HOLLOW                                               0230002300
+POPLAR SPRINGS RD                                           0230002300
+POPPLEWELL ST                                               0230102301
+PORTER RD                                                   0230002300
+POSSUM TROT RD                                              0230002300
+POST OFFICE ST                                              0230102301
+PRICE CREEK RD                                              0230002300
+PRUITT LN                                                   0230002300
+PUNCHEON CAMP RD                                            0230002300
+PUNCHEON LOOP RD                                            0230002300
+QUINCY BASTIN RD                                            0230002300
+RABBIT RUN RD                                               0230002300
+RAGGED RIDGE RD                                             0230002300
+RAINES RD                                                   0230002300
+RAINWATER RD                                                0230002300
+RALPH EVANS RD                                              0230002300
+RANCE CAIN RD                                               0230002300
+RANDOLPH RD                                                 0230002300
+RANDOLPH ST                                                 0230102301
+RANEY CEMETERY RD                                           0230002300
+RANEY RD                                                    0230002300
+RAYBORN HILL RD                                             0230002300
+RAYMOND NOEL RD                                             0230002300
+RED BUD RD                                                  0230002300
+RED HILL RD                                                 0230002300
+REECE PHELPS RD                                             0230002300
+REGINA DR                                                   0230002300
+REID RD                                                     0230002300
+REYNOLDS CREEK RD                                           0230002300
+REYNOLDS CREEK SPUR                                         0230002300
+RIDDLE RD                                                   0230002300
+RIDGECREST DR                                               0230002300
+RIDGEFIELD DR                                               0230002300
+RIDGEVIEW DR                                                0230002300
+RIFFE CREEK RD                                              0230002300
+RIFFE CREEK SCHOOL RD                                       0230002300
+RIVER RD                                                    0230002300
+RIVERDALE DR                                                0230102301
+RIVERDALE LN                                                0230102301
+RIVERVIEW DR                                                0230102301
+ROBERTS LOOP                                                0230002300
+ROBERTS RD                                                  0230002300
+ROBERTSTOWN RD                                              0230002300
+ROBIN DR                                                    0230002300
+ROCK LICK RD                                                0230002300
+RODGERS RD                                                  0230002300
+ROLEY RD                                                    0230002300
+ROLLING HILLS RD                                            0230002300
+RONALD CLEMENTS RD                                          0230002300
+RONALD EVANS RD                                             0230002300
+RONNIE WESLEY RD                                            0230002300
+ROUGH RIDGE RD                                              0230002300
+ROUGH RIDGE SPUR RD                                         0230002300
+ROUSE BRANCH RD                                             0230002300
+ROWE RD                                                     0230002300
+ROY RD                                                      0230002300
+ROYS MILL RD                                                0230002300
+RUBARTS RD                                                  0230002300
+RULE ST                                                     0230102301
+RUSH BRANCH RD                                              0230002300
+RUSSELL DR                                                  0230002300
+RUSSELL HUDSON LOOP                                         0230002300
+RUTH RANDOLPH RD                                            0230002300
+RUTH RD                                                     0230002300
+S BROWN RIDGE RD                                            0230002300
+S CARPENTER CREEK RD                                        0230002300
+S COLLEGE ST                                                0230002300
+S D GOOCH RD                                                0230002300
+S DURHAM RD                                                 0230002300
+S HATFIELD RD                                               0230002300
+S MIKE MERRITT RD                                           0230002300
+S WALLACE WILKINSON BLVD                                    0230102301
+S WALNUT HILL RD                                            0230002300
+SALYERS CEMETERY RD                                         0230002300
+SAM BLACK LOOP RD                                           0230002300
+SAM BLACK RD                                                0230002300
+SAM TUCKER RD                                               0230002300
+SAND KNOB RD                                                0230002300
+SANDERS ST                                                  0230102301
+SANDUSKY ST                                                 0230102301
+SAVANNAS WAY                                                0230002300
+SCANLON DR                                                  0230102301
+SCHERRER RD                                                 0230002300
+SCHOOL HOUSE RD                                             0230002300
+SCOTT RD                                                    0230002300
+SCOTTS CHAPEL RD                                            0230002300
+SEARS RD                                                    0230002300
+SEGAL WESLEY AVE                                            0230102301
+SHADY DR                                                    0230002300
+SHADY GROVE LN                                              0230002300
+SHADY HILL DR                                               0230102301
+SHANNON DR                                                  0230002300
+SHARP HOLLOW DR                                             0230002300
+SHARP HOLLOW DR                                             0230102301
+SHARP RD                                                    0230002300
+SHEEPSKIN RD                                                0230002300
+SHEPHERD RD                                                 0230002300
+SHOEHAMMER RD                                               0230002300
+SHOEMAKER RD                                                0230002300
+SHOOPMAN RD                                                 0230002300
+SHOP HILL RD                                                0230002300
+SHOP HILL SPUR RD                                           0230002300
+SHORT TOWN RD                                               0230002300
+SHUCKS CREEK RD                                             0230002300
+SHUGARS HILL RD                                             0230002300
+SHUT IN RD                                                  0230002300
+SIMPSON CEMETERY RD                                         0230002300
+SIMS BRANCH RD                                              0230002300
+SINGLETON DR                                                0230002300
+SLATE HILL RD                                               0230002300
+SLOAN FORK RD                                               0230002300
+SMITH RD                                                    0230002300
+SMITH ST                                                    0230102301
+SNAKE RIDGE RD                                              0230002300
+SNOW RD                                                     0230002300
+SOPHIA LYNN RD                                              0230002300
+SOPHIA LYNN SPUR                                            0230002300
+SOUTH FORK CHURCH RD                                        0230002300
+SOUTH FORK CREEK RD                                         0230002300
+SOUTH FORK RIDGE RD                                         0230002300
+SPRING HILL RD                                              0230002300
+ST BERNARD ST                                               0230002300
+STATHAM RD                                                  0230002300
+STEVENS RD                                                  0230002300
+STREEVAL RD                                                 0230002300
+STRONG BRANCH RD                                            0230002300
+STUBBLEFIELD RD                                             0230002300
+SULPHUR RUN RD                                              0230002300
+SUMMERS RD                                                  0230002300
+SUNSET POINTE                                               0230002300
+SWEENEY ST                                                  0230002300
+SWEENEY ST                                                  0230102301
+SYLVESTER RD                                                0230002300
+T ROGERS EAST RD                                            0230002300
+TARTER RD                                                   0230002300
+TARTERS MILL RD                                             0230002300
+TAYLOR RD                                                   0230002300
+TAYLOR ST                                                   0230102301
+TENNESSEE RIDGE RD                                          0230002300
+TERRELL LN                                                  0230002300
+TERRY LOOP                                                  0230002300
+THOMAS RIDGE RD                                             0230002300
+THOMAS RIDGE SPUR RD                                        0230002300
+THOMPSON RD                                                 0230002300
+TOM GODBEY RD                                               0230002300
+TOMMY CLARK RD                                              0230002300
+TOMMY LAND RD                                               0230002300
+TONY ROY LN                                                 0230002300
+TRACE FORK RD                                               0230002300
+TRAMMEL ST                                                  0230102301
+TREASURE BARN RD                                            0230002300
+TROUTSTREAM RD                                              0230002300
+TURKEY CREEK RD                                             0230002300
+TURNER RIDGE RD                                             0230002300
+TWIN OAKS RD                                                0230002300
+UPPER BRUSH CREEK RD                                        0230002300
+US127                                                       0230002300
+US127                                                       0230102301
+VALLARD GOODE RD                                            0230002300
+VALLEY VIEW DR                                              0230002300
+VAUGHN RD                                                   0230002300
+VAUGHT RIDGE RD                                             0230002300
+VEST RD                                                     0230002300
+VIA SAN MIGUEL LN                                           0230002300
+VICTORY RD                                                  0230002300
+VIEW POINT RD                                               0230002300
+W DOE CREEK RD                                              0230002300
+W POPLAR HOLLOW RD                                          0230002300
+WALL KNOB RD                                                0230002300
+WALL ST                                                     0230102301
+WALLS CEMETERY RD                                           0230002300
+WALNUT HILL RD                                              0230002300
+WALTER HUFF RD                                              0230002300
+WARE RD                                                     0230002300
+WATER TOWER HILL RD                                         0230002300
+WATER TOWER HILL RD N                                       0230002300
+WATSON CHAPEL RD                                            0230002300
+WEDDLE DR                                                   0230002300
+WEDDLE ST                                                   0230102301
+WESLEY RD                                                   0230002300
+WESTWOOD DR                                                 0230002300
+WHEELER WOODS RD                                            0230002300
+WHEELER WOODS SPUR RD                                       0230002300
+WHIPP AVE                                                   0230102301
+WHISPERING OAKS LN                                          0230002300
+WHITE OAK SCHOOL RD                                         0230002300
+WILHOUN DR                                                  0230002300
+WILKERSON RD                                                0230002300
+WILLIAM HATTER RD                                           0230002300
+WILLIAMS RD                                                 0230002300
+WILLIE CLEMENTS RD                                          0230002300
+WILLOW DR                                                   0230002300
+WILLOW SPRINGS RD                                           0230002300
+WILSON RD                                                   0230002300
+WILSON RIDGE PARK                                           0230002300
+WILSON RIDGE RD                                             0230002300
+WIMP CRAVENS RD                                             0230002300
+WINDING RIDGE RD                                            0230002300
+WINDSOR P O RD                                              0230002300
+WINDSOR RD                                                  0230002300
+WOLFORD AVE                                                 0230102301
+WOODLAND WAY                                                0230002300
+WOODRUM RIDGE RD                                            0230002300
+WOODRUM RIDGE RD                                            0230102301
+WOODS CREEK RD                                              0230002300
+WORSHIP CENTER RD                                           0230002300
+YATES RD                                                    0230002300
+YORK RD                                                     0230002300
+ZACHARY LN                                                  0230002300

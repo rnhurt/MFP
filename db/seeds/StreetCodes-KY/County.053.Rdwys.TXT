@@ -1,0 +1,367 @@
+ABELL RD                                                    0530005300
+ALLEY                                                       0530105301
+ANGULAR ST                                                  0530105301
+ARCHEY RD                                                   0530005300
+ARMBRUSTER RD                                               0530005300
+ARRINGTON RD                                                0530005300
+BACKMAN RD                                                  0530005300
+BAILEY ST                                                   0530105301
+BAKER RD                                                    0530005300
+BALTIC RD                                                   0530005300
+BALTIMORE RD                                                0530005300
+BARBER RD                                                   0530005300
+BARCLAY ST                                                  0530105301
+BEARD RD                                                    0530005300
+BEASLEY RD                                                  0530005300
+BECK RD                                                     0530005300
+BERRY RD                                                    0530005300
+BERRYHILL RD                                                0530005300
+BERT RD                                                     0530005300
+BEST RD                                                     0530005300
+BETHEL RD                                                   0530005300
+BINFORD RD                                                  0530005300
+BIZZLE RD                                                   0530005300
+BLACK RD                                                    0530005300
+BLAIR ST                                                    0530105301
+BLUFF RD                                                    0530005300
+BLUMEMBURG RD                                               0530005300
+BOAZ CHAPEL RD                                              0530005300
+BOLIN LN                                                    0530105301
+BONE RD                                                     0530005300
+BOSTICK RD                                                  0530005300
+BOTTERY RD                                                  0530005300
+BOWDEN ST                                                   0530105301
+BRENT RD                                                    0530005300
+BRIDGE RD                                                   0530005300
+BROWN DR                                                    0530105301
+BROWN RD                                                    0530005300
+BRUMMAL RD                                                  0530005300
+BRUSH CREEK RD                                              0530005300
+BUGG RD                                                     0530005300
+BURCHAM RD                                                  0530005300
+BURGESS RD                                                  0530005300
+BURKETT RD                                                  0530005300
+BYASSEE RD                                                  0530005300
+BYERS RD                                                    0530005300
+BYRD RD                                                     0530005300
+CAGLE RD                                                    0530005300
+CALBERT RD                                                  0530005300
+CALLAHAN RD                                                 0530005300
+CALTHORN RD                                                 0530005300
+CAMBELL RD                                                  0530005300
+CANNON RD                                                   0530005300
+CARTER RD                                                   0530005300
+CASEY RD                                                    0530005300
+CHALMERS RD                                                 0530005300
+CHAMPION RD                                                 0530005300
+CHARLOTTE DR                                                0530105301
+CHATHEM ST                                                  0530305303
+CHURCH ST                                                   0530105301
+CIRCLE RD                                                   0530005300
+CLAYTON DR                                                  0530105301
+CLIFF DR                                                    0530305303
+CLIFTON RD                                                  0530005300
+CLINTON HL                                                  0530105301
+COATES RD                                                   0530005300
+COLE LN                                                     0530105301
+COLLINS RD                                                  0530005300
+CONNER RD                                                   0530005300
+COOLEY RD                                                   0530005300
+COOPER RD                                                   0530005300
+CORNERS RD                                                  0530005300
+COSBY RD                                                    0530005300
+COURTNEY RD                                                 0530005300
+COX RD                                                      0530005300
+CR1141                                                      0530005300
+CRAIG LN                                                    0530105301
+CRESTVIEW DR                                                0530005300
+CROOKS RD                                                   0530005300
+CRUME AVE                                                   0530105301
+CUNNINGHAM DR                                               0530105301
+DAVIS RD                                                    0530005300
+DEAN RD                                                     0530005300
+DENNIS RD                                                   0530005300
+DEWEESE RD                                                  0530005300
+DICK RD                                                     0530005300
+DILLARD RD                                                  0530005300
+DIXON RD                                                    0530005300
+DODSON RD                                                   0530005300
+DOGWOOD LN                                                  0530305303
+DREW RD                                                     0530005300
+DUDEK RD                                                    0530005300
+DUNCAN RD                                                   0530005300
+DUNLORA LN                                                  0530105301
+E CLAY ST                                                   0530105301
+E CRESAP ST                                                 0530105301
+E DEPOT ST                                                  0530105301
+E HOOVER PKWY                                               0530305303
+E JACKSON ST                                                0530105301
+E MOORE ST                                                  0530105301
+E NORTH ST                                                  0530105301
+E TIPTON ST                                                 0530305303
+EDGAR RD                                                    0530005300
+ELLEGOOD RD                                                 0530004200
+ELM ST                                                      0530105301
+EMERSON RD                                                  0530005300
+ERNESTINE RD                                                0530005300
+ESTES RD                                                    0530005300
+EVANS LN                                                    0530005300
+EZELL LN                                                    0530105301
+FARLEE RD                                                   0530005300
+FORESTRY RD                                                 0530005300
+FREEMAN RD                                                  0530005300
+GEST ST                                                     0530305303
+GIN RD                                                      0530005300
+GLIDEWELL RD                                                0530005300
+GOODGION RD                                                 0530005300
+GRANGER RD                                                  0530005300
+GREG RD                                                     0530005300
+GRIFFIN RD                                                  0530005300
+GRIMMITT RD                                                 0530005300
+GROGAN RD                                                   0530005300
+GRUBBS RD                                                   0530005300
+GWYNN RD                                                    0530005300
+HALES RD                                                    0530005300
+HANCOCK RD                                                  0530005300
+HARMONY RD                                                  0530005300
+HARPER RD                                                   0530005300
+HARRY RD                                                    0530005300
+HASTINGS RD                                                 0530005300
+HATCH RD                                                    0530005300
+HELEN ST                                                    0530105301
+HENLEY CT                                                   0530105301
+HENLEY RD                                                   0530005300
+HICKERSON RD                                                0530005300
+HICKMAN COUNTY LINE RD                                      0530004200
+HICKMAN RD                                                  0530005300
+HICKS RD                                                    0530005300
+HILLHAVEN RD                                                0530005300
+HODGE RD                                                    0530005300
+HOLDER RD                                                   0530005300
+HOODENPYLE                                                  0530005300
+HOPKINS DR                                                  0530105301
+HORN ST                                                     0530305303
+HOSKINS RD                                                  0530005300
+HOUSE RD                                                    0530005300
+HOWELL RD                                                   0530005300
+HUMPHREYS RD                                                0530005300
+HUTCHIN RD                                                  0530005300
+INMAN RD                                                    0530005300
+ISLAND RD                                                   0530005300
+JACKSON CHAPEL RD                                           0530005300
+JACKSON RD                                                  0530005300
+JAMES RD                                                    0530005300
+JC9003 N                                                    0530005300
+JC9003 S                                                    0530005300
+JERRY RD                                                    0530005300
+JEWELL RD                                                   0530005300
+JOHN RD                                                     0530005300
+JONES RD                                                    0530005300
+KALER RD                                                    0530005300
+KANE ST                                                     0530105301
+KELLY RD                                                    0530005300
+KIMBELL RD                                                  0530005300
+KIMBRO ST                                                   0530105301
+KOUGH RD                                                    0530005300
+KY1037                                                      0530005300
+KY1070                                                      0530005300
+KY1218                                                      0530005300
+KY1219                                                      0530005300
+KY123 E                                                     0530005300
+KY123 W                                                     0530005300
+KY123 W                                                     0530305303
+KY1283                                                      0530004200
+KY129                                                       0530005300
+KY1300 S                                                    0530005300
+KY1301                                                      0530005300
+KY1362                                                      0530005300
+KY1475                                                      0530005300
+KY1529 E                                                    0530005300
+KY1529 W                                                    0530005300
+KY1540                                                      0530005300
+KY1686                                                      0530005300
+KY1686 E                                                    0530005300
+KY1698                                                      0530005300
+KY1708                                                      0530005300
+KY1748                                                      0530005300
+KY1757                                                      0530305303
+KY1772                                                      0530005300
+KY1825                                                      0530005300
+KY1826                                                      0530005300
+KY2206                                                      0530005300
+KY2208                                                      0530005300
+KY2209                                                      0530005300
+KY239                                                       0530005300
+KY2569                                                      0530005300
+KY2570                                                      0530005300
+KY2571                                                      0530005300
+KY288                                                       0530005300
+KY3061                                                      0530005300
+KY307 N                                                     0530005300
+KY307 S                                                     0530005300
+KY3142                                                      0530105301
+KY575 N                                                     0530005300
+KY58 E                                                      0530005300
+KY58 W                                                      0530005300
+KY58 W                                                      0530305303
+KY703 E                                                     0530005300
+KY780                                                       0530005300
+KY780                                                       0530105301
+KY781                                                       0530005300
+KY80                                                        0530005300
+KY80 W                                                      0530005300
+KY80 W                                                      0530305303
+KY808                                                       0530005300
+KY924                                                       0530005300
+KY94 E                                                      0530005300
+KY944 S                                                     0530005300
+LADD RD                                                     0530005300
+LAINE RD                                                    0530005300
+LAKE RD                                                     0530005300
+LATHAM RD                                                   0530005300
+LATTA LN                                                    0530005300
+LEWIS LN                                                    0530005300
+LOCK RD                                                     0530005300
+LOGERS RD                                                   0530005300
+MARTIN RD                                                   0530005300
+MATHIS RD                                                   0530005300
+MAYFIELD RD                                                 0530105301
+MCCLANAHAN DR                                               0530005300
+MCCLURE RD                                                  0530005300
+MCMORRIS ST                                                 0530105301
+MCWHORTER RD                                                0530005300
+MEADOW LN                                                   0530105301
+MILLS DR                                                    0530105301
+MILLS RD                                                    0530005300
+MORGANTI RD                                                 0530005300
+MORRIS RD                                                   0530005300
+MOSIER RD                                                   0530005300
+MOSS DR                                                     0530105301
+MOSS RD                                                     0530005300
+MOULTRIE RD                                                 0530005300
+MOUNTJOY RD                                                 0530002000
+MULLINS RD                                                  0420005300
+MURCHERSON RD                                               0530005300
+MURPHY POND RD                                              0530005300
+N COLLEGE ST                                                0530105301
+N JEFFERSON ST                                              0530105301
+N WASHINGTON ST                                             0530105301
+N WATERFIELD DR                                             0530105301
+NICHOLS RD                                                  0530005300
+O'NEAL RD                                                   0530005300
+OBION CHURCH RD                                             0530005300
+OBION RD                                                    0530005300
+ORCHARD DR                                                  0530005300
+OWENS LN                                                    0530005300
+PADGETT DR                                                  0530105301
+PARK RD                                                     0530005300
+PAWLAK RD                                                   0530005300
+PECAN DR                                                    0530105301
+PEERY RD                                                    0530005300
+PHARIS RD                                                   0530005300
+PILLOW RD                                                   0530005300
+PIPER DR                                                    0530005300
+PIPER DR                                                    0530105301
+PITTMAN RD                                                  0530005300
+POLK CIR                                                    0530305303
+POND RD                                                     0530005300
+POOLE RD                                                    0530005300
+POWELL RD                                                   0530005300
+PRUITT RD                                                   0530005300
+PUCKETT RD                                                  0530005300
+PYLE RD                                                     0530005300
+RADFORD RD                                                  0530005300
+RAILROAD ST                                                 0530105301
+RASH RD                                                     0530005300
+RAY GIBSON RD                                               0530005300
+REBIEL RD                                                   0530005300
+REED RD                                                     0530005300
+REILLY RD                                                   0530005300
+RESIN RD                                                    0530005300
+RICHARD RD                                                  0530005300
+RICHMOND DR                                                 0530105301
+RINGO DR                                                    0530105301
+RITA RD                                                     0530005300
+RIVER RD                                                    0530005300
+RIVERSIDE DR                                                0530005300
+ROCK SPRINGS RD                                             0530005300
+ROGER RD                                                    0530005300
+RONEY RD                                                    0530005300
+ROOK RD                                                     0530005300
+ROSCOE RD                                                   0530004200
+ROSE RD                                                     0530005300
+RUSHING RD                                                  0530005300
+RUSHTON RD                                                  0530005300
+RUSSELL RD                                                  0530005300
+S COLLEGE ST                                                0530105301
+S JEFFERSON ST                                              0530105301
+S WASHINGTON ST                                             0530105301
+S WATERFIELD DR                                             0530105301
+SAMS RD                                                     0530005300
+SAMUEL ST                                                   0530105301
+SAMUELS RD                                                  0530005300
+SAND RD                                                     0530005300
+SANDCREEK RD                                                0530005300
+SANDERS RD                                                  0530005300
+SARAH RD                                                    0530005300
+SARTEN RD                                                   0530005300
+SATTERFIELD RD                                              0530005300
+SCHWARTZ RD                                                 0530005300
+SHADY LN                                                    0530005300
+SHILOH CHURCH RD                                            0530005300
+SHORT ST                                                    0530105301
+SIMON RD                                                    0530005300
+SNEED RD                                                    0530005300
+SPICER RD                                                   0530005300
+SPRAGGS RD                                                  0530005300
+SPRING HILL RD                                              0530005300
+SPRING ST                                                   0530105301
+ST DENNIS RD                                                0530005300
+STANLEY RD                                                  0530005300
+STEPHENS RD                                                 0530005300
+STONE RD                                                    0530005300
+STROUD RD                                                   0530005300
+SUBLETTE RD                                                 0530005300
+SWEEZY RD                                                   0530005300
+SYCAMORE DR                                                 0530105301
+TAYLOR RD                                                   0530005300
+THURMAN RD                                                  0530005300
+TITSWORTH RD                                                0530005300
+TOMMY RD                                                    0530005300
+TUCKER RD                                                   0530005300
+US45                                                        0530005300
+US51                                                        0530005300
+US51 N                                                      0530005300
+US51 S                                                      0380005300
+US51 S                                                      0530005300
+US51 S                                                      0530105301
+VIA RD                                                      0530005300
+VINE ST                                                     0530105301
+VIVRETTE RD                                                 0530005300
+W CLAY ST                                                   0530105301
+W CRESAP ST                                                 0530105301
+W DEPOT ST                                                  0530105301
+W HOOVER PKWY                                               0530305303
+W JACKSON ST                                                0530105301
+W MOORE ST                                                  0530105301
+W NORTH ST                                                  0530105301
+W SOUTH ST                                                  0530105301
+W TIPTON ST                                                 0530305303
+WADE RD                                                     0530005300
+WALKER RD                                                   0530005300
+WALKER ST                                                   0530105301
+WALL RD                                                     0530005300
+WATER ST                                                    0530105301
+WATSON RD                                                   0530005300
+WATTS RD                                                    0530005300
+WEBB LN                                                     0530105301
+WEBB RD                                                     0530005300
+WHITLOCK RD                                                 0530005300
+WILEY RD                                                    0530005300
+WILKINS RD                                                  0530005300
+WILLETT RD                                                  0530005300
+WILLIAMS RD                                                 0530005300
+WILSON HILL RD                                              0530005300
+WILSON RD                                                   0530005300
+WOLF RD                                                     0530005300
+WOOTEN RD                                                   0530005300

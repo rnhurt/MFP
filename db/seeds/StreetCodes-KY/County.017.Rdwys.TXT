@@ -1,0 +1,739 @@
+AARON DR                                                    0170201702
+ADAMSON RD                                                  0170001700
+AIRPORT RD                                                  0170101701
+AKERS AVE                                                   0170101701
+ALEXANDER RD                                                0170001700
+ALISE CT                                                    0170101701
+ALLEN RD                                                    0170001700
+ALLEN ST                                                    0170101701
+ALLEY NO1                                                   0170101701
+ALLEY NO10                                                  0170101701
+ALLEY NO11                                                  0170101701
+ALLEY NO12                                                  0170101701
+ALLEY NO13                                                  0170101701
+ALLEY NO14                                                  0170101701
+ALLEY NO15                                                  0170101701
+ALLEY NO16                                                  0170101701
+ALLEY NO19                                                  0170101701
+ALLEY NO2                                                   0170101701
+ALLEY NO20                                                  0170101701
+ALLEY NO21                                                  0170101701
+ALLEY NO3                                                   0170101701
+ALLEY NO4                                                   0170101701
+ALLEY NO5                                                   0170101701
+ALLEY NO6                                                   0170101701
+ALLEY NO7                                                   0170101701
+ALLEY NO8                                                   0170101701
+ALLEY NO9                                                   0170101701
+ALLLEY NO19                                                 0170101701
+ALSOBROOK RD                                                0170001700
+AMON LISANBY RD                                             0170001700
+AMON LISANBY SPUR RD                                        0170001700
+ANDREW MERRICK RD                                           0170001700
+APACHE DR                                                   0170101701
+ARCHERY CLUB RD                                             0170001700
+ARCHIE ORTT RD                                              0170001700
+ASHER CEMETERY RD                                           0170001700
+BAKER CEMETERY RD                                           0170001700
+BAKER HILL RD                                               0170101701
+BAKER RD                                                    0170001700
+BAKER ST                                                    0170101701
+BALDWIN AVE                                                 0170101701
+BARNES CEMETERY RD                                          0170001700
+BARRETT RD                                                  0170001700
+BATTLE CREEK RD                                             0170001700
+BAYSHORE DR                                                 0170001700
+BECKNER LN                                                  0170001700
+BECKNER LN                                                  0170101701
+BEECH GROVE CHURCH RD                                       0170001700
+BELL ST                                                     0170101701
+BELT RD                                                     0170001700
+BEN CARTER RD                                               0170001700
+BERNARD JONES RD                                            0170001700
+BESHEAR LN                                                  0170101701
+BETHANY CHURCH LN                                           0170001700
+BETHANY CHURCH RD                                           0170001700
+BETHANY PLACE RD                                            0170001700
+BETHLEHEM CEMETERY RD                                       0170001700
+BETTY FORD SPUR                                             0170001700
+BEVERLY LN                                                  0170101701
+BILL CRAVENS RD                                             0170001700
+BLACK CREEK RD                                              0170001700
+BLACKBURN CHURCH RD                                         0170001700
+BLACKBURN ST                                                0170101701
+BLACKHAWK RD                                                0170011100
+BLUE SPRINGS CHURCH LOOP RD                                 0170001700
+BLUE SPRINGS RD                                             0170001700
+BLUEGRASS ST                                                0170101701
+BOARD RD                                                    0170001700
+BOBBY GILL RD                                               0170001700
+BOBBY WILLIAMS RD                                           0170001700
+BOGLE RD                                                    0170001700
+BOITNOTT FORD RD                                            0170001700
+BOND CEMETERY RD                                            0170001700
+BOOKER LAKE RD                                              0170001700
+BRADFORD LN                                                 0170001700
+BRENNAN DR                                                  0170101701
+BRIARFIELD RD                                               0170001700
+BRIGHT HILL RD                                              0170001700
+BRIGHT LIFE LN                                              0170001700
+BROCKMEYER ST                                               0170201702
+BROWN HILL RD                                               0170001700
+BROWN RD                                                    0170001700
+BRUMMETT DR                                                 0170101701
+BUCK RD                                                     0170001700
+BUCKNER CEMETERY RD                                         0170001700
+BUGGS BRANCH RD                                             0170001700
+BULLOCK RD                                                  0170001700
+BUTLER RD                                                   0170001700
+BYRD LN                                                     0170001700
+BYRON RIDGE RD                                              0170001700
+CADIZ RD                                                    0170001700
+CADIZ ST                                                    0170101701
+CALDWELL CHAPEL RD                                          0170001700
+CALVERT RD                                                  0170001700
+CALVERT ST                                                  0170101701
+CANNON RD                                                   0170001700
+CANTERBURY CT                                               0170101701
+CANTRELL DR                                                 0170101701
+CARDINAL LN                                                 0170101701
+CARDINAL LN                                                 0170201702
+CARNER HILL RD                                              0170001700
+CASH DR                                                     0170101701
+CASSIDY AVE                                                 0170201702
+CECIL SIGLER RD                                             0170001700
+CECILE DR                                                   0170101701
+CEDAR CREEK RD                                              0170101701
+CEDAR HILL CEMEMTERY NO1 ST                                 0170101701
+CEDAR HILL CEMETERY STREET NO2                              0170101701
+CEDAR HILL CEMETERY STREET NO3                              0170101701
+CEDAR HILL CEMETERY STREET NO4                              0170101701
+CEDAR HILL CEMETERY STREET NO5                              0170101701
+CEDAR HILL CEMETERY STREET NO6                              0170101701
+CEDAR HILL CEMETERY STREET NO7                              0170101701
+CEDAR HILL CEMETERY STREET NO8                              0170101701
+CEMETERY RD                                                 0170101701
+CENTENNIAL DR                                               0170101701
+CENTER ST                                                   0170101701
+CHAMP BAKER RD                                              0170001700
+CHARITY LN                                                  0170001700
+CHARLES MCCONNELL RD                                        0170001700
+CHARLES ST                                                  0170201702
+CHARLIE HARPER RD                                           0170001700
+CHELSEY ST                                                  0170201702
+CHERRY HILL RD                                              0170001700
+CHERRY LN                                                   0170101701
+CHERRY ST                                                   0170101701
+CHILDRESS RD                                                0170001700
+CHRISTIAN CHURCH RD                                         0170001700
+CHRISTOPHER RD                                              0170001700
+CITIZENS CT                                                 0170101701
+CLARK RD                                                    0170001700
+CLAXTON RD                                                  0170001700
+CLIFT CEMETERY RD                                           0170001700
+CLIFTON ALY                                                 0170201702
+CLINTON PERRY RD                                            0170001700
+CLINTON PERRY SPUR                                          0170001700
+CLYDE COLEMAN RD                                            0170001700
+COBB SPUR RD                                                0170001700
+COLEMAN CRIDER RD                                           0170001700
+COLONIAL CT                                                 0170101701
+COOPER CIR                                                  0170101701
+COOPER ST                                                   0170101701
+COPELAND RD                                                 0170001700
+CORDIE FRIAR RD                                             0170001700
+COREY LN                                                    0170001700
+CORNERSTONE CEMETERY RD                                     0170001700
+COTTON RD                                                   0170001700
+COUNTRY CLUB LN                                             0170101701
+COUNTRY LN                                                  0170101701
+COX ST                                                      0170101701
+CRAIG CEMETERY RD                                           0170001700
+CRAVENS RD                                                  0170001700
+CRAYNE CEMETERY RD                                          0170001700
+CRESWELL CHURCH RD N                                        0170001700
+CRESWELL CHURCH RD S                                        0170001700
+CRESWELL RD                                                 0170001700
+CRIDER DULANEY RD                                           0170001700
+CRIDER RD                                                   0170001700
+CRIDER SPUR RD                                              0170001700
+CRISP RD                                                    0170001700
+CROMWELL CEMETERY RD                                        0170001700
+CROSSROADS CHURCH RD                                        0170001700
+CRUCE RD                                                    0170001700
+CUMBERLAND DR                                               0170101701
+CUMMINS RD                                                  0170001700
+CUNNINGHAM FLETCHER RD                                      0170001700
+D R ADAMS RD                                                0170001700
+DALTON RD                                                   0170001700
+DARNELL ST                                                  0170101701
+DAVID JONES RD                                              0170001700
+DAVID MERRICK RD                                            0170001700
+DAWSON RD                                                   0170001700
+DAWSON RD                                                   0170101701
+DEARING CEMETERY RD                                         0170001700
+DEARING CEMETERY SPUR                                       0170001700
+DEBOE RD                                                    0170001700
+DEERFIELD DR                                                0170101701
+DENNY PURDY RD                                              0170001700
+DENNY PURDY ROAD SPUR                                       0170001700
+DEPOT ST                                                    0170101701
+DOGWOOD LN                                                  0170101701
+DOLLAR RD                                                   0170001700
+DOLLAR ST                                                   0170101701
+DONAHUE RD                                                  0170001700
+DONALDSON RD                                                0170001700
+DORROH ST                                                   0170201702
+DOWELL DR                                                   0170101701
+DOWN ST                                                     0170101701
+DRENNAN RD                                                  0170001700
+DRIPPING SPRINGS RD                                         0170001700
+DRY FORK RD                                                 0170001700
+DULANEY LOOP RD                                             0170001700
+DUNBAR RD                                                   0170001700
+DUNNING RD                                                  0170001700
+E BALD KNOB RD                                              0170001700
+E COURT SQ                                                  0170101701
+E CRIDER ST                                                 0170201702
+E DYCUS AVE                                                 0170201702
+E GRAHAM ST                                                 0170201702
+E GREEN ST                                                  0170101701
+E LEGION DR                                                 0170101701
+E LOCUST ST                                                 0170101701
+E MAIN ST                                                   0170101701
+E MARKET ST                                                 0170101701
+E PIERSON ST                                                0170201702
+E SANDRA DR                                                 0170101701
+E SHELBY ST                                                 0170201702
+E SHEPARDSON ST                                             0170101701
+E WASHINGTON ST                                             0170101701
+E WHITE SULPHUR RD                                          0170001700
+E WILSON ST                                                 0170201702
+E WYATT ST                                                  0170201702
+E YOUNG ST                                                  0170101701
+EAGON ST                                                    0170101701
+EASY ST                                                     0170001700
+ECHO VALLEY RD                                              0170001700
+ED CAMPBELL RD                                              0170001700
+ED HILL RD                                                  0170001700
+EDDY CREEK CHURCH RD                                        0170001700
+EDWARDS RD                                                  0170001700
+EDWARDS ST                                                  0170101701
+ELLIS DR                                                    0170101701
+EMMETT ST                                                   0170101701
+ENON RD                                                     0170001700
+ETHRIDGE DR                                                 0170101701
+ETHRIDGE RD                                                 0170001700
+EUREKA RD                                                   0170001700
+EVANS MILL RD                                               0170001700
+FAIRVIEW CEMETERY RD                                        0170001700
+FAIRVIEW CHURCH RD                                          0170001700
+FAITH AVE                                                   0170101701
+FARMER ST                                                   0170101701
+FARMERSVILLE RD                                             0170001700
+FELKER CEMETERY RD                                          0170001700
+FLATROCK BLUFF RD                                           0170001700
+FLATROCK LOOP RD                                            0170001700
+FLYNNS FERRY RD                                             0170001700
+FONTAINE RD                                                 0170101701
+FORTNER DR                                                  0170101701
+FOWLER LN                                                   0170001700
+FOWLER RIDGE RD                                             0170001700
+FOX MEADOW RD                                               0170001700
+FRALICK HOLLOW CEMETERY RD                                  0170001700
+FRALICK HOLLOW RD                                           0170001700
+FRANK WALPERT RD                                            0170001700
+FRANK WALPERT SPUR RD                                       0170001700
+FRANKLIN RD                                                 0170001700
+FREDONIA QUARRY RD                                          0170001700
+FRIENDSHIP RD                                               0170001700
+FROGS LN                                                    0170001700
+FRONTAGE RD                                                 0170001700
+G C CRENSHAW RD                                             0170001700
+GAIL RD                                                     0170001700
+GALLOWAY RD                                                 0170001700
+GARDEN ACRES                                                0170101701
+GARNER ST                                                   0170201702
+GARRETT ST                                                  0170101701
+GENSEAL RD                                                  0170001700
+GEORGE GRAY RD                                              0170001700
+GOOD ST                                                     0170101701
+GOODAKER CEMETERY RD                                        0170001700
+GOODSPRINGS RD                                              0170001700
+GOSCHE HOLLOW RD                                            0170001700
+GRACE CT                                                    0170101701
+GRACE ST                                                    0170101701
+GRANDVIEW DR                                                0170201702
+GRAPEVINE DR                                                0170101701
+GREENBERRY HILL RD                                          0170001700
+GREY RD                                                     0170001700
+GROOM ST                                                    0170101701
+GROOMS CEMETERY RD                                          0170001700
+GROOMS LN                                                   0170001700
+GROOMS LN                                                   0170101701
+GROVE ST                                                    0170201702
+GUESS RD                                                    0170001700
+GUILL RD                                                    0170001700
+GUMLICK RD                                                  0170001700
+GUY BELL RD                                                 0170001700
+H HAILE RD                                                  0170001700
+H L HOLEMAN RD                                              0170001700
+H L LADD RD                                                 0170001700
+HAILE SPUR RD                                               0170001700
+HAMPS TRL                                                   0170001700
+HANEY DR                                                    0170001700
+HARDY MILL RD                                               0170001700
+HARMONY CHURCH RD                                           0170001700
+HARPENDING RD                                               0170001700
+HARPER CEMETERY RD                                          0170001700
+HARRISON ST                                                 0170101701
+HARTIGAN RD                                                 0170001700
+HARVEY LN                                                   0170101701
+HAWTHORNE ST                                                0170101701
+HAY RD                                                      0170001700
+HAYES AVE                                                   0170101701
+HAYES SPRING RD                                             0170001700
+HAZEL RD                                                    0170001700
+HENRY PHELPS RD                                             0170001700
+HERRON RD                                                   0170001700
+HESTER DR                                                   0170101701
+HIDDEN MEADOW LN                                            0170001700
+HILL CEMETERY RD                                            0170001700
+HILL CREST DR                                               0170101701
+HILLCREST DR                                                0170001700
+HILLSIDE DR                                                 0170001700
+HILLVIEW CT                                                 0170101701
+HILLVIEW DR                                                 0170101701
+HOLEMAN HILL RD                                             0170001700
+HOLEMAN ST                                                  0170101701
+HOLLOWELL RD                                                0170001700
+HOLLY LN                                                    0170101701
+HOLMES COOK RD                                              0170001700
+HOOKS RD                                                    0170001700
+HOOKS SPUR                                                  0170001700
+HOPE LN                                                     0170101701
+HOPKINSVILLE RD                                             0170001700
+HOPKINSVILLE RD                                             0170101701
+HOPKINSVILLE ST                                             0170101701
+HOPSON RD                                                   0170001700
+HOSPITAL DR                                                 0170101701
+HUDGINS RD                                                  0170001700
+HUGH YATES RD                                               0170001700
+HUGHES RD                                                   0170001700
+HULKER RD                                                   0170001700
+I24 E                                                       0170001700
+I24 E EXIT56 CROSSOVER KY139                                0170001700
+I24 E EXIT56 OFF RAMP TO KY139                              0170001700
+I24 E EXIT56 ON RAMP FROM KY139                             0170001700
+I24 W                                                       0170001700
+I24 W EXIT56 CROSSOVER KY139                                0170001700
+I24 W EXIT56 OFF RAMP TO KY139                              0170001700
+I24 W EXIT56 ON RAMP FROM KY139                             0170001700
+INDUSTRIAL PARK AVE                                         0170101701
+INDUSTRY LN                                                 0170101701
+INVERNESS CIR                                               0170101701
+ISLAND COVE LN                                              0170001700
+ISLAND COVE RD                                              0170001700
+J B LEWIS RD                                                0170001700
+J C CRAFTON RD                                              0170001700
+J D BUGG RD                                                 0170001700
+JACKSON RD                                                  0170001700
+JACOB DR                                                    0170101701
+JACOB LN                                                    0170001700
+JAKE HOLLOW RD                                              0170001700
+JAMES CEMETERY RD                                           0170001700
+JANE NICHOLS CEMETERY RD                                    0170001700
+JEFF WATSON RD                                              0170001700
+JENKINS RD                                                  0170001700
+JESSIE WALDRUM RD                                           0170001700
+JILL DR                                                     0170101701
+JIM STEVENS RD                                              0170001700
+JO JONES RD                                                 0170001700
+JO JONES RD                                                 0170101701
+JO JONES SPUR RD                                            0170001700
+JOE VANHOOSER RD                                            0170001700
+JOEL NICHOLS RD                                             0170001700
+JONES AVE                                                   0170201702
+JONES KEENEY RD                                             0170001700
+JONES RD                                                    0170001700
+KEEL RD                                                     0170001700
+KEENEY CEMETERY RD                                          0170001700
+KENNETH WINN RD                                             0170001700
+KENTUCKY AVE                                                0170101701
+KENTUCKY AVENUE CONNECTOR                                   0170101701
+KIMBERLY LN                                                 0170101701
+KOEBEL RD                                                   0170001700
+KY126                                                       0170001700
+KY1272                                                      0170001700
+KY128                                                       0170001700
+KY139                                                       0170001700
+KY139 S                                                     0170001700
+KY1451                                                      0170001700
+KY2621                                                      0170001700
+KY293 N                                                     0170001700
+KY293 N                                                     0170101701
+KY506                                                       0170001700
+KY514                                                       0170001700
+KY672                                                       0170001700
+KY70                                                        0170001700
+KY70 N                                                      0170001700
+KY902 E                                                     0170001700
+KY902 E                                                     0170201702
+KY902 W                                                     0170001700
+KY902 W                                                     0170201702
+KY903                                                       0170001700
+KY91                                                        0170001700
+KYLE RD                                                     0170001700
+L R CROW RD                                                 0170001700
+LAKE ST                                                     0170101701
+LAKESHORE DR                                                0170101701
+LAKESHORE RD                                                0170001700
+LAKEVIEW RD                                                 0170001700
+LAKEVIEW RD                                                 0170101701
+LAKEWOOD DR                                                 0170001700
+LAKEWOOD RD                                                 0170001700
+LAMB RD                                                     0170001700
+LANCE NICHOLS CEMETERY RD                                   0170001700
+LANDER ST                                                   0170101701
+LEECH HILL CEMETERY RD                                      0170001700
+LEECH ST                                                    0170101701
+LEMON RD                                                    0170001700
+LEVI DUNNING RD                                             0170001700
+LEWISTOWN CHURCH RD                                         0170001700
+LIBERTY LN                                                  0170101701
+LILLARD WATSON RD                                           0170001700
+LINDA RD                                                    0170001700
+LINTON WAY                                                  0170101701
+LINWOOD ST                                                  0170101701
+LISANBY POINT RD                                            0170001700
+LITTLEFIELD RD                                              0170001700
+LITTLEJOHN RD                                               0170001700
+LIVINGSTON CEMETERY RD                                      0170001700
+LONGBREAK RD                                                0170001700
+MADISON PL                                                  0170001700
+MADISONVILLE ST                                             0170101701
+MAGNOLIA LN                                                 0170101701
+MAHAN RD                                                    0170001700
+MANOR DR                                                    0170101701
+MANUS RD                                                    0170001700
+MAPLE AVE                                                   0170101701
+MAPLEWOOD LN                                                0170101701
+MARION RD                                                   0170001700
+MARION RD                                                   0170101701
+MARION RD                                                   0170201702
+MARKHAM RD                                                  0170001700
+MARTIN RD                                                   0170001700
+MARTINS DR                                                  0170001700
+MASHBURN RD                                                 0170001700
+MASONIC DR                                                  0170101701
+MATT RICH RD                                                0170001700
+MCGOLDRICK RD                                               0170001700
+MCGOODWIN AVE                                               0170101701
+MCGOODWIN COURT CONNECTOR                                   0170101701
+MCGOODWIN CT                                                0170101701
+MCGOWAN RD                                                  0170001700
+MCGOWAN STATION RD                                          0170001700
+MCGREGOR CEMETERY RD                                        0170001700
+MCINTOSH LN                                                 0170001700
+MCLIN ST                                                    0170101701
+MEADOW LN                                                   0170001700
+MEADOWBROOK DR                                              0170101701
+MEADOWLARK DR                                               0170001700
+MEADOWS CEMETERY RD                                         0170001700
+MECHANIC ST                                                 0170101701
+MELANIE LANE SPUR                                           0170001700
+MELANIE LN                                                  0170001700
+MELANIE LN                                                  0170101701
+MERRICK RD                                                  0170001700
+MICBETH DR                                                  0170101701
+MIDDLE ST                                                   0170101701
+MIDWAY RD                                                   0170001700
+MILL BLUFF RD                                               0170001700
+MILLER ST                                                   0170201702
+MITCHELL RD                                                 0170001700
+MITCHELL ST                                                 0170101701
+MOHAWK DR                                                   0170101701
+MOORE RD                                                    0170001700
+MORGAN HILL RD                                              0170001700
+MORRIS AVE                                                  0170101701
+MORSE CEMETERY RD                                           0170001700
+MT HEBRON CHURCH RD                                         0170001700
+MT LEBANON CHURCH RD                                        0170001700
+MUIRFIELD DR                                                0170101701
+MUIRFIELD DRIVE CONNECTOR                                   0170101701
+MURRAY LN                                                   0170101701
+N CAVE ST                                                   0170101701
+N CHESTNUT ST                                               0170101701
+N DARBY ST                                                  0170101701
+N DONNIVAN ST                                               0170101701
+N EAGLE ST                                                  0170101701
+N FRANKLIN ST                                               0170101701
+N HARRISON ST                                               0170101701
+N HAWTHORNE ST                                              0170101701
+N HIGHLAND AVE                                              0170101701
+N JEFFERSON ST                                              0170101701
+N MCNARY ST                                                 0170101701
+N MITCHELL ST                                               0170101701
+N PLUM ST                                                   0170101701
+N SEMINARY ST                                               0170101701
+N THOMPSON RD                                               0170001700
+NABB SCHOOL RD                                              0170001700
+NANCY DR                                                    0170101701
+NEEDMORE RD                                                 0170001700
+NELLIE BOARD RD                                             0170001700
+NELSON LN                                                   0170001700
+NICHOLS RD                                                  0170001700
+NICHOLS ST                                                  0170101701
+NOBLE DR                                                    0170101701
+NOEL SMILEY RD                                              0170001700
+NORMAN CEMETERY RD                                          0170001700
+NORTHFIELD DR                                               0170101701
+OAK DR                                                      0170101701
+OAK HILL RD                                                 0170001700
+OAK RIDGE RD                                                0170001700
+OAK ST                                                      0170101701
+OLD COBB RD                                                 0170001700
+OLD CONNECTOR RD                                            0170001700
+OLD FREDONIA RD                                             0170001700
+OLD FREDONIA RD                                             0170101701
+OLD MADISONVILLE RD                                         0170001700
+OLD MADISONVILLE RD                                         0170101701
+OLD MEXICO RD                                               0170001700
+OLD MEXICO RD                                               0170201702
+OLD RAILROAD BED RD                                         0170001700
+OLD WHEATLEY LN                                             0170001700
+OLD WILSON BRIDGE RD                                        0170001700
+OLD WILSON WAREHOUSE RD                                     0170001700
+OLDHAM RD                                                   0170001700
+OLNEY SPUR RD                                               0170001700
+ORANGE RD                                                   0170001700
+OTIS SHERIDAN RD                                            0170001700
+OTTER POND RD                                               0170001700
+P GOODWIN RD                                                0170001700
+P'POOL DR                                                   0170101701
+PARK AVE                                                    0170101701
+PARKWAY DR                                                  0170101701
+PENNIE LN                                                   0170001700
+PENNROYAL FARM RD                                           0170001700
+PENNYRILE VALLEY DR                                         0170101701
+PERRY CEMETERY RD                                           0170001700
+PETES PATH PATH                                             0170001700
+PHELPS CEMETERY RD                                          0170001700
+PHILLIP DR                                                  0170001700
+PHILLIPS ST                                                 0170101701
+PIDCOCK RD                                                  0170001700
+PIDCOCK SPUR RD                                             0170001700
+PINEY CREEK RD                                              0170001700
+PIRATES DR                                                  0540205402
+PLEASANT HILL RD                                            0170001700
+PLEASANT VALLEY RD                                          0170001700
+PLYMOUTH PL                                                 0170101701
+POOL CEMETERY RD                                            0170001700
+POOL SCHOOL RD                                              0170001700
+PPOOL RD                                                    0170001700
+PRINCE CT                                                   0170101701
+PRINCE ST                                                   0170101701
+PRINCETON OLNEY RD                                          0170001700
+QUAIL DR                                                    0170001700
+QUEEN ANN CT                                                0170101701
+R WHITE RD                                                  0170001700
+RAILROAD LAKE RD                                            0170001700
+RAILROAD LAKE RD                                            0170101701
+RAILROAD LN                                                 0170001700
+RALPHS TRCE                                                 0170001700
+RAMEY JOHNSTON RD                                           0170001700
+RATLIFF ST                                                  0170101701
+RAY MARTIN RD                                               0170001700
+RAY RD                                                      0170001700
+RED HILL RD                                                 0170001700
+REDBUD TRL                                                  0170001700
+REDDEN DOCK RD                                              0170001700
+RICE AVE                                                    0170201702
+RIDGE RD                                                    0170001700
+ROBERTS RD                                                  0170001700
+ROBIN RD                                                    0170101701
+ROCKSPRINGS RD                                              0170001700
+ROCKSPRINGS RD                                              0170101701
+ROSE AVE                                                    0170101701
+ROSE ST                                                     0170101701
+ROTTWEILER LN                                               0170001700
+ROTTWEILER SPUR                                             0170001700
+ROWLAND CEMETERY RD                                         0170001700
+RUCKER RD                                                   0170001700
+RUFUS RD                                                    0170001700
+RUSTIN RD                                                   0170001700
+RUTH AVE                                                    0170101701
+S CAVE ST                                                   0170101701
+S CHESTNUT ST                                               0170101701
+S DARBY ST                                                  0170101701
+S DONNIVAN DR                                               0170101701
+S HARRISON ST                                               0170101701
+S HIGHLAND AVE                                              0170101701
+S HILL RD                                                   0170001700
+S JEFFERSON ST                                              0170001700
+S JEFFERSON ST                                              0170101701
+S MCNARY ST                                                 0170101701
+S PLUM ST                                                   0170101701
+S SEMINARY ST                                               0170101701
+S THOMPSON RD                                               0170001700
+SANDLICK CONNECTOR                                          0170101701
+SANDLICK RD                                                 0170001700
+SANDLICK RD                                                 0170101701
+SANDWICH CIR                                                0170101701
+SCARBERRY CEMETERY RD                                       0170001700
+SCOTT CEMETERY RD                                           0170001700
+SCOTTSBURG RD                                               0170001700
+SEWAGE DISPOSAL RD                                          0170101701
+SHADY GROVE LN                                              0170001700
+SHADY GROVE RD                                              0170001700
+SHADY GROVE SPUR                                            0170001700
+SHADY LANE RD                                               0170001700
+SHELBY LAMB RD                                              0170001700
+SHELTON RD                                                  0170001700
+SHERILL RD                                                  0170001700
+SHORT NO70 RD                                               0170001700
+SILVER STAR SCHOOL RD                                       0170001700
+SIMS RD                                                     0170001700
+SKINFRAME CREEK RD                                          0170001700
+SKYLINE CT                                                  0170101701
+SKYLINE DR                                                  0170101701
+SLATON RD                                                   0170001700
+SLUSSER RD                                                  0170001700
+SMILEY LN                                                   0170001700
+SMILEY RD                                                   0170001700
+SMILEY SPUR RD                                              0170001700
+SMITH CEMETERY RD                                           0170001700
+SMITH RD                                                    0170001700
+SPRIG CT                                                    0170101701
+ST ANDREWS CIR                                              0170101701
+ST PAUL SCHOOL DR                                           0170101701
+STALLINS RD                                                 0170001700
+STEGAR DR                                                   0170101701
+STEGAR ST                                                   0170101701
+STEPHANIE LN                                                0170001700
+STEPHEN BAKER RD                                            0170001700
+STEPHENS RD                                                 0170001700
+STEVENS AVE                                                 0170101701
+STEWART LN                                                  0170001700
+STEWARTS LN                                                 0170001700
+STONE ST                                                    0170101701
+SUGAR CREEK CHURCH RD                                       0170001700
+SYCAMORE DR                                                 0170001700
+SYCAMORE LN                                                 0170101701
+TANDY RD                                                    0170001700
+TAYLOE BEND RD                                              0170001700
+TERI DR                                                     0170101701
+THOMAS BOND RD                                              0170001700
+THOMAS RD                                                   0170001700
+THOMASON RD                                                 0170001700
+TOSH CEMETERY RD                                            0170001700
+TOWERY BRIDGE RD                                            0170001700
+TOWERY CEMETERY RD                                          0170001700
+TRAINING CENTER DR                                          0170101701
+TRAVIS RD                                                   0170001700
+TRAYLOR RD                                                  0170001700
+TRAYLOR ST                                                  0170101701
+TROON DR                                                    0170101701
+TRUSTY RD                                                   0170001700
+TULIP ST                                                    0170101701
+TURLEY RD                                                   0170001700
+TURNBURY DR                                                 0170101701
+TYLER RD                                                    0170001700
+TYLER ST                                                    0170101701
+TYRIE RD                                                    0170001700
+TYSH RD                                                     0170001700
+TYSON RD                                                    0170001700
+UNION GROVE SCHOOL RD                                       0170001700
+UNIVERSITY DR                                               0170101701
+US62                                                        0170101701
+US62 W                                                      0170001700
+US62 W                                                      0170101701
+US641 S                                                     0170001700
+US641 S                                                     0170201702
+VANHOOSER DR                                                0170101701
+VARMINT TRACE RD                                            0170101701
+VETERANS DR                                                 0170101701
+VICTOR HILLYARD RD                                          0170001700
+VINE ST                                                     0170101701
+VINSON FARM RD                                              0170001700
+VIOLET LOOP                                                 0170101701
+VIVIAN DR                                                   0170101701
+VOCATIONAL SCHOOL RD                                        0170101701
+W BALD KNOB RD                                              0170001700
+W COURT SQ                                                  0170101701
+W CRIDER ST                                                 0170201702
+W DYCUS AVE                                                 0170201702
+W GRAHAM ST                                                 0170201702
+W GREEN ST                                                  0170101701
+W LEGION ST                                                 0170101701
+W LOCUST ST                                                 0170101701
+W MAIN ST                                                   0170101701
+W MARKET ST                                                 0170101701
+W PIERSON ST                                                0170201702
+W S HUNSAKER RD                                             0170001700
+W SANDRA DR                                                 0170101701
+W SHELBY ST                                                 0170201702
+W SHEPARDSON ST                                             0170101701
+W WASHINGTON ST                                             0170101701
+W WHITE SULPHUR RD                                          0170001700
+W WILSON ST                                                 0170201702
+W WYATT ST                                                  0170201702
+W YOUNG CIR                                                 0170101701
+W YOUNG ST                                                  0170101701
+WALLACE FORK RD                                             0170001700
+WALLONIA RD                                                 0170001700
+WALMART DR                                                  0170101701
+WALNUT HILL RD                                              0170001700
+WALNUT LN                                                   0170101701
+WATSON RD                                                   0170001700
+WAYNE MCGOWAN RD                                            0170001700
+WEAVER LN                                                   0170001700
+WEBSTER RD                                                  0170001700
+WEBSTER SPUR RD                                             0170001700
+WEST FORK RD                                                0170001700
+WHITE SCHOOL RD                                             0170001700
+WHITE ST                                                    0170101701
+WHITETAIL HOLLOW RD                                         0170001700
+WIGGINGTON LN                                               0170001700
+WIGGINGTON LN                                               0170201702
+WILDS CEMETERY RD                                           0170001700
+WILDWOOD PT                                                 0170001700
+WILLARD DR                                                  0170101701
+WILLIAMS RD                                                 0170001700
+WILLIAMSON CEMETERY RD                                      0170001700
+WILLOW LN                                                   0170101701
+WILLOW ST                                                   0170201702
+WINCHESTER AVE                                              0170101701
+WK9001 E                                                    0170001700
+WK9001 E EXIT12 OFF RAMP TO KY91                            0170001700
+WK9001 E EXIT12 OFF RAMP TO KY91 N                          0170001700
+WK9001 E EXIT12 OFF RAMP TO KY91 S                          0170001700
+WK9001 E EXIT12 ON RAMP FROM KY91                           0170001700
+WK9001 E EXIT12 ON RAMP FROM KY91 N                         0170101701
+WK9001 E EXIT12 ON RAMP FROM KY91 S                         0170101701
+WK9001 E EXIT13 OFF RAMP TO KY293                           0170001700
+WK9001 E EXIT13 OFF RAMP TO KY293 N                         0170101701
+WK9001 E EXIT13 OFF RAMP TO KY293 S                         0170101701
+WK9001 E EXIT13 ON RAMP FROM KY293                          0170001700
+WK9001 E EXIT13 ON RAMP FROM KY293 N                        0170101701
+WK9001 E EXIT13 ON RAMP FROM KY293 S                        0170101701
+WK9001 W                                                    0170001700
+WK9001 W EXIT12 OFF RAMP TO KY91                            0170001700
+WK9001 W EXIT12 OFF RAMP TO KY91 N                          0170101701
+WK9001 W EXIT12 OFF RAMP TO KY91 S                          0170101701
+WK9001 W EXIT12 ON RAMP FROM KY91                           0170001700
+WK9001 W EXIT12 ON RAMP FROM KY91 N                         0170001700
+WK9001 W EXIT12 ON RAMP FROM KY91 S                         0170101701
+WK9001 W EXIT13 OFF RAMP TO KY293                           0170001700
+WK9001 W EXIT13 OFF RAMP TO KY293 N                         0170001700
+WK9001 W EXIT13 OFF RAMP TO KY293 S                         0170001700
+WK9001 W EXIT13 ON RAMP FROM KY293                          0170001700
+WK9001 W EXIT13 ON RAMP FROM KY293 N                        0170001700
+WK9001 W EXIT13 ON RAMP FROM KY293 S                        0170001700
+WOOD LANE NO2                                               0170001700
+WOOD LN                                                     0170001700
+WOOD ST                                                     0170101701
+WOODLAWN CT                                                 0170101701
+WYLIE OLIVER RD                                             0170001700
+WYNN RD                                                     0170001700
+YOUNG CEMETERY RD                                           0170001700

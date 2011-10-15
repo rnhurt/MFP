@@ -1,0 +1,656 @@
+1ST ST                                                      1200012000
+1ST ST                                                      1200212002
+2ND ST                                                      1200012000
+2ND ST                                                      1200212002
+3RD ST                                                      1200012000
+AACHEN WAY                                                  1200012000
+ABBEY ALY                                                   1200112001
+ABBEY RD                                                    1200112001
+ABERDEEN RD                                                 1200012000
+ADENA CT                                                    1200112001
+ADENA TRCE                                                  1200112001
+AIKEN RD                                                    1200012000
+ALTAMONT CT                                                 1200012000
+AMSDEN AVE                                                  1200112001
+ANGELL AVE                                                  1200112001
+ANGELL HAVEN CT                                             1200112001
+ANN ST                                                      1200112001
+ANN ST                                                      1200212002
+APPLE RD                                                    1200012000
+ARBOR MEADOW CT                                             1200012000
+ARBOR MEADOW WAY                                            1200012000
+ARBOR PLACE DR                                              1200112001
+ARROWHEAD SPRINGS LN                                        1200012000
+ASHBY CIR                                                   1200012000
+ASHBY CT                                                    1200012000
+ASHGROVE RD                                                 1200012000
+ASHLEY PL                                                   1200012000
+ASHMORE AVE                                                 1200112001
+AVENUE OF CHAMPIONS                                         1200112001
+BAKER ST                                                    1200112001
+BALL DR                                                     1200112001
+BALSAM CT                                                   1200012000
+BARROWAY LN                                                 1200112001
+BARTON VILLAGE RD                                           1200012000
+BAYBERRY RD                                                 1200012000
+BAYBERRY SPUR NO1                                           1200012000
+BAYBERRY SPUR NO2                                           1200012000
+BAYBERRY SPUR NO3                                           1200012000
+BEACON HILL DR                                              1200112001
+BEASLEY RD                                                  1200112001
+BEAVER PARK                                                 1200012000
+BEECH CT                                                    1200012000
+BEECH ST                                                    1200112001
+BELL AVE                                                    1200112001
+BELL CT                                                     1200112001
+BELLVIEW AVE                                                1200112001
+BERGER RD                                                   1200012000
+BERLIN DR                                                   1200012000
+BERRY AVE                                                   1200112001
+BETTY CT                                                    1200112001
+BG9002 E                                                    1200012000
+BG9002 E EXIT68 OFF RAMP TO KY33                            1200012000
+BG9002 E EXIT68 ON RAMP FROM KY33                           1200012000
+BG9002 E EXIT68 ON RAMP FROM KY33 S                         1200012000
+BG9002 E EXIT72 CROSSOVER US60                              1200012000
+BG9002 E EXIT72 RAMP TO US60 E                              1200012000
+BG9002 W                                                    1200012000
+BG9002 W EXIT68 OFF RAMP TO KY33                            1200012000
+BG9002 W EXIT68 OFF RAMP TO KY33 N                          1200012000
+BG9002 W EXIT68 OFF RAMP TO KY33 S                          1200012000
+BG9002 W EXIT68 ON RAMP FROM KY33                           1200012000
+BG9002 W EXIT68 ON RAMP FROM KY33 N                         1200012000
+BG9002 W EXIT68 ON RAMP FROM KY33 S                         1200012000
+BG9002 W EXIT72 ON RAMP FROM US60 E                         1200012000
+BG9002 W EXIT72 ON RAMP FROM US60 W                         1200012000
+BIG SINK EXT                                                1200012000
+BIG SINK RD                                                 1200012000
+BIG SINK RD                                                 1200112001
+BIRCH DR                                                    1200012000
+BLACKBURN CT                                                1200112001
+BLACKHAWK CIR                                               1200012000
+BLUE SPRUCE CT                                              1200012000
+BLUEGRASS RD                                                1200012000
+BOLD CT                                                     1200012000
+BOONEDALE LN                                                1200012000
+BOOTS GREGORY RD                                            1200012000
+BOSTON DR                                                   1200112001
+BOWMAN RD                                                   1200012000
+BOWMAR ST                                                   1200112001
+BRADLEY ST                                                  1200212002
+BRAMPTON PL                                                 1200012000
+BRECKENRIDGE DR                                             1200112001
+BRECKENRIDGE DRIVE CONNECTOR                                1200112001
+BRIARWOOD RD                                                1200012000
+BROADWAY ST                                                 1200112001
+BROOKLYN RD                                                 1200012000
+BROWNS MILL RD                                              1200012000
+BRUSHY RUN N                                                1200012000
+BRUSHY RUN RD                                               1200012000
+BRYANWOOD DR                                                1200112001
+BUCK RUN RD                                                 1200012000
+BUFFALO TRCE                                                1200112001
+BUNTON RD                                                   1200012000
+CABINHILL LN                                                1200012000
+CAMBRIDGE CT                                                1200012000
+CAMDEN AVE                                                  1200112001
+CANONERO WAY                                                1200012000
+CARDINAL AVE                                                1200112001
+CARLI CT                                                    1200012000
+CARPENTER PIKE                                              1200012000
+CARRIAGE LANE CT                                            1200212002
+CARRIAGE LN                                                 1200212002
+CARTER CT                                                   1200012000
+CARTER LN                                                   1200012000
+CASTLE CT                                                   1200012000
+CASTLE DR                                                   1200012000
+CEDAR GROVE LN                                              1200012000
+CEDAR LAKE RD                                               1200012000
+CEDAR LAKE ROAD CONNECTOR                                   1200012000
+CEDAR LAKE SPUR                                             1200012000
+CEDAR RIDGE LN                                              1200012000
+CENTER DR                                                   1200112001
+CHARLES LN                                                  1200112001
+CHARLIE LN                                                  1200212002
+CHARMAC RD                                                  1200012000
+CHENAULT ALY                                                1200112001
+CHENEY RD                                                   1200112001
+CHERRY HILL CT                                              1200112001
+CHESTNUT LN                                                 1200012000
+CHINOE RD                                                   1200112001
+CHURCH RD                                                   1200012000
+CHURCH ST                                                   1200112001
+CHURCH ST                                                   1200212002
+CIRCLE DR                                                   1200012000
+CITATION CIR                                                1200012000
+CLEAR CREEK LN                                              1200012000
+CLEVELAND AVE                                               1200112001
+CLIFTON RD                                                  1200012000
+CLIFTON RD                                                  1200112001
+CLUB LN                                                     1200012000
+COACH STATION RD                                            1200012000
+COACH STATION RD                                            1200212002
+COLCHESTER DR                                               1200012000
+COLONY DR                                                   1200012000
+COOPER RD                                                   1200012000
+COTTAGE GARDEN LN                                           1200212002
+COTTAGE GRV                                                 1200212002
+COURT ST                                                    1200112001
+COX HOWARD RD                                               1200012000
+CRABAPPLE RD                                                1200012000
+CRAIGS CREEK RD                                             1200012000
+CROSSFIELD DR                                               1200112001
+CROSSKEY RD                                                 1200112001
+CROWN CT                                                    1200012000
+CULPEPPER ALY                                               1200112001
+CULPEPPER CT                                                1200112001
+CUMMINGS FERRY RD                                           1200012000
+CURD RD                                                     1200012000
+CURRY CT                                                    1200112001
+CURRY PLACE DR                                              1200012000
+CYPRESS RD                                                  1200012000
+DALE AVE                                                    1200012000
+DALE AVE                                                    1200112001
+DALTON CIR                                                  1200012000
+DAN CT                                                      1200112001
+DAN DR                                                      1200112001
+DAVISTOWN RD                                                1200012000
+DEBRA ST                                                    1200112001
+DEER HAVEN                                                  1200012000
+DEER HAVEN DR                                               1200012000
+DEERFIELD DR                                                1200012000
+DELANEY FERRY EXT                                           1200012000
+DELANEY FERRY RD                                            1200012000
+DELANEY WAY                                                 1200012000
+DEPOT ST                                                    1200112001
+DERBY CT                                                    1200012000
+DOGWOOD CT                                                  1200012000
+DONCASTER RD                                                1200012000
+DOUGLAS AVE                                                 1200112001
+DOVE PARK                                                   1200012000
+DRAKE LNDG                                                  1200012000
+DRY RIDGE RD                                                1200012000
+DUCHESS CT                                                  1200012000
+DUCKERS RD                                                  1200012000
+DUDLEY ST                                                   1200212002
+DUELL DR                                                    1200112001
+DUKE CT                                                     1200012000
+DUNCAN RD                                                   1200012000
+DUNDEE CT                                                   1200012000
+DUNROVEN RD                                                 1200012000
+DYLAN PL                                                    1200112001
+E BINDERTON PL                                              1200012000
+E BRUEN ST                                                  1200212002
+E CROSS ST                                                  1200212002
+E DOMINO CT                                                 1200012000
+E EAGLE DR                                                  1200012000
+E GREEN ST                                                  1200112001
+E HIGGINS ST                                                1200212002
+E HUNTERTOWN COMM                                           1200012000
+E LEESTOWN PIKE                                             1200012000
+E LEESTOWN PIKE                                             1200212002
+E MAIN ST                                                   1200212002
+E NORTH ST                                                  1200112001
+E SCOTTS FERRY RD                                           1200012000
+E STEPHENS ST                                               1200212002
+EAGLE CREST DR                                              1200012000
+EDGAR LN                                                    1200012000
+EDMONDSING                                                  1200112001
+EIRE LN                                                     1200012000
+ELIZABETH ST                                                1200112001
+ELKTON PL                                                   1200212002
+ELLISTON LN                                                 1200012000
+ELM CORNER RD                                               1200012000
+ELM ST                                                      1200012000
+ELM ST                                                      1200112001
+ELM STREET HTS                                              1200112001
+ELMWOOD DR                                                  1200012000
+EMERSON DR                                                  1200112001
+ENDOFTHE LN                                                 1200012000
+EUREKA DR                                                   1200012000
+EUREKA RD                                                   1200012000
+FALCON RD                                                   1200012000
+FALLING SPRINGS BLVD                                        1200112001
+FAYWOOD LN                                                  1200012000
+FIELD OF DREAMS                                             1200112001
+FIELDING DR                                                 1200112001
+FIELDVIEW DR                                                1200112001
+FINTVILLE RD                                                1200012000
+FISHER ST                                                   1200212002
+FISHERS MILL RD                                             1200012000
+FLINT RIDGE                                                 1200112001
+FORAKER RD                                                  1200012000
+FORDS MILL RD                                               1200012000
+FORREST CT                                                  1200012000
+FOXBOROUGH CT                                               1200012000
+FOXCHASE CT                                                 1200012000
+FOXHOUND CT                                                 1200012000
+FOXTAIL RD                                                  1200012000
+FRANCISCO LN                                                1200212002
+FRANKFORT RD                                                1200012000
+FRANKFORT RD                                                1200112001
+FRANKFORT ST                                                1200112001
+FRANKLIN RD                                                 1200012000
+GAFFNEY CT                                                  1200012000
+GARNETT CT                                                  1200112001
+GASTINEAU LN                                                1200012000
+GAYBOURNE WAY                                               1200012000
+GAYLAND DR                                                  1200212002
+GEORGETOWN RD                                               1200012000
+GEORGETOWN RD                                               1200212002
+GEORGIA ST                                                  1200112001
+GERMANY RD                                                  1200012000
+GLENEAGLES WAY                                              1200012000
+GLENHAVEN DR                                                1200012000
+GLENNS BRANCH RD                                            1200012000
+GLENNS CIR                                                  1200012000
+GORMLEY DR                                                  1200112001
+GRAINGER LN                                                 1200012000
+GRANDUCCI ALY                                               1200112001
+GRANGER LN                                                  1200012000
+GRASSY SPRINGS RD                                           1200012000
+GRAY HAWK CT                                                1200012000
+GRAY ST                                                     1200112001
+GREEN ROCK LN                                               1200012000
+GREENTREE RD                                                1200012000
+GREGORY CT                                                  1200112001
+GRIERS CREEK RD                                             1200012000
+GUN CLUB RD                                                 1200012000
+HAGGIN LN                                                   1200012000
+HANLEY LN                                                   1200012000
+HANOVER CT                                                  1200012000
+HANOVER DR                                                  1200012000
+HARMONY RD                                                  1200012000
+HARPERS LN                                                  1200012000
+HAWTHORNE CT                                                1200012000
+HEATHER WAY                                                 1200012000
+HEDDEN RD                                                   1200012000
+HEDDINGTON CT                                               1200012000
+HELMS DEEP                                                  1200112001
+HELMSLEY LN                                                 1200112001
+HENTON CT                                                   1200112001
+HERITAGE CT                                                 1200012000
+HERITAGE RD                                                 1200012000
+HIDDENAWAY LN                                               1200012000
+HIFNER RD                                                   1200012000
+HIGH ST                                                     1200112001
+HIGHLAND AVE                                                1200112001
+HIGHVIEW DR                                                 1200112001
+HIGHVIEW DR                                                 1200212002
+HILL GAIL WAY                                               1200012000
+HILL TOP RD                                                 1200012000
+HILLARY TER                                                 1200012000
+HILLCREST DR                                                1200112001
+HIPPE AGEE RD                                               1200012000
+HOPE LN                                                     1200012000
+HOWARD CT                                                   1200112001
+HUNTER CT                                                   1200012000
+HUNTERS RIDGE DR                                            1200012000
+HUNTERTOWN RD                                               1200012000
+HUNTERTOWN RD                                               1200112001
+I64 E                                                       1200012000
+I64 E EXIT61 CAR LANE                                       1200012000
+I64 E EXIT61 OFF RAMP                                       1200012000
+I64 E EXIT61 ON RAMP                                        1200012000
+I64 E EXIT61 TRUCK LANE                                     1200012000
+I64 E EXIT65 OFF RAMP TO KY341                              1200012000
+I64 E EXIT65 OFF RAMP TO KY341                              1200212002
+I64 E EXIT65 ON RAMP FROM KY341                             1200012000
+I64 TURN AROUND60                                           1200012000
+I64 TURN AROUND65                                           1200012000
+I64 W                                                       1200012000
+I64 W EXIT61 CAR LANE                                       1200012000
+I64 W EXIT61 OFF RAMP                                       1200012000
+I64 W EXIT61 ON RAMP                                        1200012000
+I64 W EXIT61 TRUCK LANE                                     1200012000
+I64 W EXIT65 OFF RAMP TO KY341                              1200012000
+I64 W EXIT65 OFF RAMP TO KY341                              1200212002
+I64 W EXIT65 ON RAMP FROM KY341                             1200012000
+INDIAN MOUND ALY                                            1200112001
+INTERNATIONAL EQUINE CENTER RD                              1200012000
+JACKSON ST                                                  1200112001
+JANET ST                                                    1200112001
+JOHN WEBER RD                                               1200012000
+JOHNSON ST                                                  1200212002
+JOHNSTON LN                                                 1200012000
+JONES LN                                                    1200012000
+JUNIPER DR                                                  1200012000
+KAY AVE                                                     1200112001
+KEENE TROY PIKE                                             1200012000
+KENTUCKY AVE                                                1200112001
+KEOKUK CT                                                   1200012000
+KIDDS MILL RD                                               1200012000
+KILMER DR                                                   1200112001
+KINGSWAY DR                                                 1200112001
+KNEELAND CT                                                 1200012000
+KUHLMAN BLVD                                                1200112001
+KUHLMAN CT                                                  1200012000
+KUHLMAN DR                                                  1200012000
+KUHLMAN LOOP                                                1200012000
+KY2865                                                      1200012000
+KY2865 CROSSOVER                                            1200012000
+LACEFIELD ST                                                1200212002
+LAKEVIEW CT                                                 1200012000
+LAKEVIEW DR                                                 1200012000
+LAKEWOOD CIR                                                1200012000
+LAKEWOOD LN                                                 1200012000
+LANARK PL                                                   1200012000
+LANE CIR                                                    1200112001
+LANSING LN                                                  1200012000
+LAUREL CV                                                   1200012000
+LAUREL WAY                                                  1200012000
+LAUREL WAY SPUR                                             1200012000
+LAVAL HTS                                                   1200112001
+LEXINGTON RD                                                1200012000
+LEXINGTON RD                                                1200112001
+LEXINGTON ST                                                1200112001
+LILLARDS FERRY RD                                           1200012000
+LINDEN CIR                                                  1200112001
+LINDEN DR                                                   1200112001
+LITTLE TURTLE TRL                                           1200012000
+LOCUST GROVE LN                                             1200012000
+LOCUST GROVE WAY                                            1200012000
+LONNIE LN                                                   1200112001
+LOWER CLIFTON RD                                            1200012000
+LOY ST                                                      1200112001
+LUCAS LN                                                    1200012000
+LUPREESE LN                                                 1200012000
+LYN CT                                                      1200012000
+LYNNWOOD CT                                                 1200012000
+LYNNWOOD DR                                                 1200012000
+M L KING CT                                                 1200112001
+M L KING JR BLVD                                            1200112001
+MACEY AVE                                                   1200112001
+MACEY BLVD                                                  1200112001
+MACK ST                                                     1200112001
+MAGNOLIA CIR                                                1200012000
+MAIDEN LN                                                   1200112001
+MALLARD PARK                                                1200012000
+MAPLE AVE                                                   1200112001
+MAPLE ST                                                    1200112001
+MARCELLA DR                                                 1200112001
+MARILYN AVE                                                 1200112001
+MARKHAM DR                                                  1200112001
+MARSAILLES RD                                               1200012000
+MARSAILLES RD                                               1200112001
+MARTIN DR                                                   1200012000
+MARTIN ST                                                   1200212002
+MCCONNELL DR                                                1200112001
+MCCOWANS FERRY ALY                                          1200112001
+MCCOWANS FERRY RD                                           1200012000
+MCCOWANS FERRY RD                                           1200112001
+MCCRACKEN PIKE                                              1200012000
+MCDAVID DR                                                  1200112001
+MCDONALD DR                                                 1200112001
+MCFALL LN                                                   1200012000
+MCGEE RD                                                    1200012000
+MCKINNEY AVE                                                1200212002
+MEADOW LN                                                   1200112001
+MEADOWS LN                                                  1200012000
+MEREWOOD DR                                                 1200112001
+MERRYWOOD DR                                                1200212002
+METHODIST HOME                                              1200012000
+MIDWAY CLG                                                  1200212002
+MIDWAY COLLEGE RD                                           1200212002
+MIDWAY RD                                                   1200012000
+MIDWAY STATION N                                            1200212002
+MIDWAY STATION S                                            1200212002
+MILDRED ST                                                  1200112001
+MILITARY PIKE                                               1200012000
+MILL RD                                                     1200212002
+MILLION LN                                                  1200012000
+MILLVILLE BRIDGE RD                                         1200012000
+MILNER RD                                                   1200012000
+MINARY AVE                                                  1200112001
+MISTY LN                                                    1200012000
+MITCHELL LN                                                 1200012000
+MOLLY ST                                                    1200112001
+MONTAGUE RD                                                 1200012000
+MONTGOMERY AVE                                              1200112001
+MOORES MILL RD                                              1200012000
+MORGAN ST                                                   1200112001
+MUFFIN ST                                                   1200212002
+MUNDYS LANDING RD                                           1200012000
+MURRAY ST                                                   1200112001
+N BRAND ST                                                  1200212002
+N GRATZ ST                                                  1200212002
+N LOCUST ST                                                 1200112001
+N MAIN ST                                                   1200112001
+N TURNER ST                                                 1200212002
+N WINTER CT                                                 1200212002
+N WINTER ST                                                 1200012000
+N WINTER ST                                                 1200212002
+NANCY ST                                                    1200112001
+NEW CUT RD                                                  1200012000
+NEWTON ST                                                   1200012000
+NEWTON ST                                                   1200212002
+NORMANDY CIR                                                1200012000
+NORMANDY RD                                                 1200012000
+NORTH ST                                                    1200112001
+NORTHAMPTON CT                                              1200012000
+NORTHRIDGE DR                                               1200212002
+NORTHSIDE DR                                                1200012000
+NORTHSIDE DR                                                1200212002
+NOTTINGHAM DR                                               1200012000
+OAK HILL CIR                                                1200012000
+OAK HILL CT                                                 1200012000
+OAK HILL LN                                                 1200012000
+OAK ST                                                      1200012000
+OAK ST                                                      1200112001
+OAK ST                                                      1200212002
+OLD CLIFTON EXT                                             1200012000
+OLD CLIFTON RD                                              1200012000
+OLD CRAIGS CREEK RD                                         1200012000
+OLD DRY RIDGE RD                                            1200012000
+OLD FRANKFORT PIKE                                          1200012000
+OLD HICKORY LN                                              1200112001
+OLD SCOUT PL                                                1200012000
+OLD SCOUT PL OTH                                            1200012000
+OLD TOWNE WALK                                              1200212002
+OLD VERSAILLES RD                                           1200012000
+OMEGA LN                                                    1200012000
+OREGON RD                                                   1200012000
+OSPREY CT                                                   1200012000
+OTTER CT                                                    1200012000
+OXFORD RD                                                   1200012000
+PADDOCK DR                                                  1200012000
+PADDOCK DR                                                  1200112001
+PAIGE CT                                                    1200112001
+PANDY ST                                                    1200112001
+PARK PL                                                     1200112001
+PARK ST                                                     1200112001
+PARKSIDE CT                                                 1200012000
+PAT AVE                                                     1200112001
+PATTERSON LN                                                1200012000
+PATTERSON RD                                                1200012000
+PAULS MILL RD                                               1200012000
+PAYNES DEPOT RD                                             1200012000
+PAYNES MILL RD                                              1200012000
+PEACHTREE RD                                                1200012000
+PENNY ALY                                                   1200112001
+PENNY LN                                                    1200112001
+PHEASANT LN                                                 1200012000
+PINCKARD PIKE                                               1200012000
+PINE GROVE RD                                               1200012000
+PINETREE RD                                                 1200012000
+PINTAIL CT                                                  1200012000
+PINTO RD                                                    1200012000
+PISGAH PIKE                                                 1200012000
+PISGAH STATION RD                                           1200012000
+POCAHONTAS TRL                                              1200012000
+POINCIANA CT                                                1200012000
+POPLAR CIR                                                  1200012000
+POPLAR ST                                                   1200012000
+POPLAR ST                                                   1200112001
+POWHATAN TRL                                                1200012000
+PRESTON CT                                                  1200112001
+PRINCESS CIR                                                1200112001
+PROVIDENCE ALY                                              1200112001
+PROVIDENCE RD                                               1200112001
+QUAIL RUN RD                                                1200012000
+QUEENSWAY DR                                                1200112001
+RABBIT CREEK BED AND BREAKFAST                              1200012000
+RAVEN RD                                                    1200012000
+RAVEN RD                                                    1200112001
+RAVENWOOD RD                                                1200012000
+RED OAK TRL                                                 1200012000
+RED WING CT                                                 1200012000
+REDBUD CT                                                   1200012000
+REGENT CT                                                   1200012000
+REGENT RD                                                   1200012000
+RICHARD ALLEN WAY                                           1200112001
+RICHARDSON ST                                               1200212002
+RIDGE RD                                                    1200112001
+RIDGE VIEW ALY                                              1200112001
+RIDGE VIEW RD                                               1200112001
+RIDGEWOOD DR                                                1200112001
+RIVA RIDGE RD                                               1200012000
+RIVER MOUNTAIN LN                                           1200012000
+ROAN RD                                                     1200012000
+ROBERTS RD                                                  1200012000
+ROCKY HILLS LN                                              1200012000
+ROSE BAY RD                                                 1200012000
+ROSE BUD RD                                                 1200012000
+ROSE HILL AVE                                               1200112001
+ROSE LN                                                     1200012000
+ROSE RIDGE RD                                               1200012000
+ROSEWOOD DR                                                 1200012000
+ROYAL RIDGE CT                                              1200012000
+RUMSEY CIR                                                  1200112001
+RUSSELL AVE                                                 1200112001
+RUSSELL CT                                                  1200112001
+RUTH ROACH WAY                                              1200212002
+RUTTER RD                                                   1200112001
+RYLEY CT                                                    1200112001
+RYNE CT                                                     1200112001
+S BRAND ST                                                  1200212002
+S GRATZ ST                                                  1200212002
+S HILL RD                                                   1200012000
+S HILL RD                                                   1200112001
+S LOCUST ST                                                 1200112001
+S MAIN ST                                                   1200112001
+S RUSSELL AVE                                               1200112001
+S STOURBRIDGE RD                                            1200112001
+S TURNER ST                                                 1200212002
+S WINTER ST                                                 1200212002
+SABLE AVE                                                   1200112001
+SARAH BLAKE LN                                              1200012000
+SCARBOROUGH DR                                              1200012000
+SCARBOROUGH DR                                              1200112001
+SCHOBERTH ST                                                1200112001
+SCHOOL HOUSE RD                                             1200112001
+SCOTTS FERRY RD                                             1200012000
+SCOTTS WAY                                                  1200012000
+SEA HERO RUN                                                1200012000
+SECRETARIAT CIR                                             1200012000
+SELLERS MILL RD                                             1200012000
+SELMA ST                                                    1200112001
+SEQUOYA TRL                                                 1200012000
+SETH DR                                                     1200112001
+SETTI PLACE RD                                              1200012000
+SHADY LN                                                    1200012000
+SHANNON RUN RD                                              1200012000
+SHARON ST                                                   1200212002
+SHAW AVE                                                    1200112001
+SHAW CT                                                     1200112001
+SHAWNEE CT                                                  1200012000
+SHEFFIELD DR                                                1200012000
+SHEPHERDS TRCE                                              1200012000
+SHERMANS CRES                                               1200112001
+SHETLAND RD                                                 1200012000
+SHIRE BLVD                                                  1200112001
+SHOREACRES RD                                               1200012000
+SHOTWELL LN                                                 1200012000
+SHRYOCKS FERRY RD                                           1200012000
+SILVER MAPLE CT                                             1200012000
+SIMMONS ST                                                  1200112001
+SMITH ST                                                    1200212002
+SOPER ST                                                    1200112001
+SOUTH DR                                                    1200112001
+SOUTHLAND DR                                                1200112001
+SPRING CT                                                   1200112001
+SPRING RUN RD                                               1200112001
+SPRING STATION RD                                           1200012000
+SPRING STATION RD                                           1200212002
+ST CLAIR ST                                                 1200112001
+STANDISH PL                                                 1200212002
+STARKS ST                                                   1200212002
+STEELE RD                                                   1200012000
+STOURBRIDGE CT                                              1200112001
+STOURBRIDGE RD                                              1200112001
+STOUT AVE                                                   1200112001
+SUGAR HILL RD                                               1200012000
+SUGARTREE LANE CIR                                          1200112001
+SUGARTREE LN                                                1200112001
+SUGARTREE PARK                                              1200112001
+SUNNY VIEW LN                                               1200012000
+SWEETBAY CT                                                 1200012000
+SYCAMORE PKWY                                               1200012000
+TALON CT                                                    1200112001
+TANNER ALY                                                  1200112001
+TECUMSEH TRL                                                1200012000
+THOMAS LN                                                   1200112001
+TILFORD ALY                                                 1200112001
+TIM TAM TRL                                                 1200012000
+TINCHER DR                                                  1200012000
+TINCHER DR                                                  1200112001
+TOWNE WALK CT                                               1200212002
+TROON CT                                                    1200012000
+TROY PIKE                                                   1200012000
+TROY PIKE                                                   1200112001
+TROY RD                                                     1200012000
+TURRET CT                                                   1200012000
+TURRET DR                                                   1200012000
+TUSCAN WAY                                                  1200112001
+TWEED CT                                                    1200012000
+TYRONE PIKE                                                 1200012000
+TYRONE PIKE                                                 1200112001
+UNITED DR                                                   1200112001
+US60 BUS                                                    1200112001
+VENETIAN WAY                                                1200012000
+VERSAILLES BYP                                              1200112001
+VERSAILLES RD                                               1200012000
+VIRGINIA AVE                                                1200112001
+W BINDERTON PL                                              1200012000
+W BRUEN ST                                                  1200212002
+W CROSS ST                                                  1200212002
+W DOMINO CT                                                 1200012000
+W EAGLE DR                                                  1200012000
+W GREEN ST                                                  1200112001
+W HIGGINS ST                                                1200212002
+W HUNTERTOWN COMM                                           1200012000
+W LEESTOWN PIKE                                             1200012000
+W MAIN ST                                                   1200212002
+W STEPHENS ST                                               1200212002
+WALNUT ST                                                   1200112001
+WALNUT ST                                                   1200212002
+WARFIELD ST                                                 1200212002
+WARWICK CT                                                  1200012000
+WATER ST                                                    1200112001
+WATTS FERRY RD                                              1200012000
+WAUSAU PL                                                   1200212002
+WEISENBERGER MILL RD                                        1200012000
+WELLS LN                                                    1200012000
+WESTGATE CT                                                 1200012000
+WESTRIDGE CT                                                1200012000
+WESTVIEW DR                                                 1200112001
+WESTWOOD CT                                                 1200012000
+WIL ROSE LN                                                 1200012000
+WILDWOOD DR                                                 1200012000
+WILL PKWY                                                   1200112001
+WILLIAMS LN                                                 1200012000
+WILLOW CT                                                   1200012000
+WILSON AVE                                                  1200112001
+WINTERBERRY CT                                              1200012000
+WINTON RD                                                   1200012000
+WOODBURN HALL DR                                            1200012000
+WOODFORD ST                                                 1200112001
+WOODFORD VILLAGE DR                                         1200112001
+WOODLAKE RD                                                 1200012000
+WOODLARK RD                                                 1200012000
+WOODLAWN DR                                                 1200112001
+WOODSON DR                                                  1200112001
+WOODY STEPHENS BLVD                                         1200212002
+WOOLDRIDGE LN                                               1200112001
+YELLOW JACKET DR                                            1200112001
+YORKSHIRE CT                                                1200012000

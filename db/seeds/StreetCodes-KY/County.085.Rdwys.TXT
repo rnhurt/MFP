@@ -1,0 +1,664 @@
+A H BOSTON RD                                               0850008500
+A HAVEN PL                                                  0850008500
+A WHITLOW RD                                                0850008500
+ADRIANNA LN                                                 0850008500
+ALBERT HUBBARD RD                                           0850008500
+ALBERT MORGAN RD                                            0850008500
+ALENE SMITH RD                                              0850008500
+ALEX JEFFRIES RD                                            0850008500
+ALVIN LONDON RD                                             0850008500
+AMBULANCE CIR                                               0850108501
+AMOS PL                                                     0850108501
+ANDERSON HOLLOW RD                                          0850008500
+ANDERSON PERKINS RD                                         0850008500
+ANDREW SAVAGE RD                                            0850008500
+ANTHONY YOUNG RD                                            0850008500
+ANTIOCH CHURCH RD                                           0850008500
+APPLE GROVE RD                                              0850008500
+ATWELL RD                                                   0850008500
+AUSTIN RD                                                   0850008500
+AUTUMN LN                                                   0850108501
+AVERY SHAW RD                                               0850008500
+BAKER ST                                                    0850108501
+BALD HILL RD                                                0850008500
+BARLOW LN                                                   0850008500
+BARLOW RD                                                   0850008500
+BARRY STEELE RD                                             0850008500
+BARTON CHILDERS RD                                          0850008500
+BARTON DEVORE RD                                            0850008500
+BEAUCHAMP ST                                                0850108501
+BEECHVILLE RD                                               0850008500
+BENNETT RD                                                  0850008500
+BENNETT RIDGE EAST RD                                       0850008500
+BERNARD HODGES RD                                           0850008500
+BERNICE LEE RD                                              0850008500
+BERTHA PITCOCK RD                                           0850008500
+BETHEL CHURCH RD                                            0850008500
+BETTY SPARKMAN RD                                           0850008500
+BIG JACK RD                                                 0850008500
+BILL COOKSEY RD                                             0850008500
+BILL JOE YOUNG RD                                           0850008500
+BILL MOORE RD                                               0850008500
+BILL PEDIGO RD                                              0850008500
+BILL POYNTER RD                                             0850008500
+BILLINGSLEY RD                                              0850008500
+BILLINGSLY RD                                               0850008500
+BILLY HURT RD                                               0850008500
+BILLY JOE POWELL RD                                         0850008500
+BILLY LONDON RD                                             0850008500
+BILLY SPARKS RD                                             0850008500
+BLACK DOT RD                                                0850008500
+BLEVINS RD                                                  0850008500
+BLEVINS SPUR                                                0850008500
+BLUE SPRING PENNINGTON RD                                   0850008500
+BOBBY MCCANDLESS RD                                         0850008500
+BOWLING PARK                                                0850108501
+BOWMAN ESTATES RD                                           0850008500
+BOX LUTZKE LN                                               0850008500
+BRAD BELL RD                                                0850008500
+BRAGG RD                                                    0850008500
+BRANSTETTER PARK RD                                         0850008500
+BRANSTETTER RD                                              0850008500
+BREEDING RD                                                 0850008500
+BRIDGEPORT RD                                               0850008500
+BRIDGEWATER HEIGHTS RD                                      0850008500
+BRIDGEWATER HEIGHTS RD                                      0850108501
+BRIDGEWATER MEMORIAL PARK RD                                0850008500
+BRITT RD                                                    0850008500
+BRONSTON HOWARD RD                                          0850008500
+BUCK HILL CEMETERY RD                                       0850008500
+BUCK WILLIAMS RD                                            0850008500
+BURDETT RD                                                  0850008500
+BURKESVILLE RD                                              0850008500
+BUSHONG LN                                                  0850108501
+BYRD LN                                                     0850008500
+C FAULKNER RD                                               0850008500
+C FAULKNER SPUR                                             0850008500
+CABIN RD                                                    0850008500
+CALVIN PERKINS RD                                           0850008500
+CAME A LONG WAY                                             0850008500
+CANDY WALTON RD                                             0850008500
+CARL BLAYDES RD                                             0850008500
+CASEY FORK COOK RD                                          0850008500
+CASSADAY ST                                                 0850108501
+CASSADY CEMETERY RD                                         0850008500
+CASTLE RIDGE DR                                             0850108501
+CAVE RIDGE NEW LIBERTY RD                                   0850008500
+CAWTHORN CEMETERY RD                                        0850008500
+CECIL BRANSTETTER RD                                        0850008500
+CECIL FROEDGE RD                                            0850008500
+CECIL SMITH RD                                              0850008500
+CEDAR FLAT CEMETERY RD                                      0850008500
+CEDAR FLATS CURTIS RD                                       0850008500
+CEDAR FLATS LOOP                                            0850008500
+CEDAR HILL RD                                               0850008500
+CEDAR LN                                                    0850008500
+CEDAR TOP CHURCH RD                                         0850008500
+CEDAR TOP LITTLE BARREN RIV RD                              0850008500
+CEMETERY RD                                                 0850008500
+CENTER CRAIL HOPE RD                                        0850008500
+CENTER PEGGYVILLE RD                                        0850008500
+CENTER ST                                                   0850108501
+CENTER THREE SPRINGS RD                                     0850008500
+CHAPMAN RD                                                  0850008500
+CHARTER CREEK SUBTLE RD                                     0850008500
+CHASTEEN SIMONE RD                                          0850008500
+CHEROKEE TRL                                                0850008500
+CHESS JESSIE RD                                             0850008500
+CHEYANNE DR                                                 0850008500
+CHICKEN RUN RUN                                             0850008500
+CHRIS HARPER RD                                             0850008500
+CLACK CEMETERY RD                                           0850008500
+CLARENCE HARPER RD                                          0850008500
+CLAUDE JONES RD                                             0850008500
+CLAY LICK ACRES RD                                          0850008500
+CLEO HUNLEY RD                                              0850008500
+CLIFTON SMITH RD                                            0850008500
+CLINT MCCANDLESS                                            0850008500
+CLYDE CROSS RD                                              0850008500
+CLYDE MORAN RD                                              0850008500
+CODY TRENT RD                                               0850008500
+COLUMBIA RD                                                 0850008500
+COMBS MOSS RD                                               0850008500
+COOMER RD                                                   0850008500
+COPAS RIDGE LN                                              0850008500
+COPAS RIDGE RD                                              0850008500
+CORA RD                                                     0850008500
+CORBETT SHIRLEY RD                                          0850008500
+CORK GASCON RD                                              0850008500
+COTE RD                                                     0850008500
+COTTON RD                                                   0850008500
+COUNTRYWAY ESTATES RD                                       0850008500
+COUNTY LAKE RD                                              0850008500
+CRAIG RD                                                    0850008500
+CRAIL HOPE RD                                               0850008500
+CREASY CEMETERY RD                                          0850008500
+CRENSHAW CASSADY RD                                         0850008500
+CYCLONE RD                                                  0850008500
+DA RANCO DR                                                 0850108501
+DAIRY LN                                                    0850008500
+DALTON HODGES RD                                            0850008500
+DANNY GRIDER LN                                             0850008500
+DANNY GRIDER RD                                             0850008500
+DARANCO DR                                                  0850108501
+DATIJA LN                                                   0850008500
+DEAN ROWE RD                                                0850008500
+DEER CREEK DR                                               0850108501
+DELK BRANCH RD                                              0850008500
+DEMON MARTIN RD                                             0850008500
+DEMUMBRUM LN                                                0850008500
+DEMUMBRUM LN                                                0850108501
+DENZEL LONDON RD                                            0850008500
+DENZIL PARKE RD                                             0850008500
+DEPP RD                                                     0850008500
+DIAL ST                                                     0850108501
+DOGWOOD FORREST RD                                          0850008500
+DON LYLE RD                                                 0850008500
+DONALD HURT RD                                              0850008500
+DOWELL CEMETERY RD                                          0850008500
+DR EVANS RD                                                 0850008500
+DRIPPING SPRINGS BRAGG RD                                   0850008500
+DRIPPING SPRINGS CHURCH RD                                  0850008500
+DRY FORK RD                                                 0850008500
+DUDLEY LN                                                   0850008500
+DUDLEY RD                                                   0850008500
+DUNHAM ST                                                   0850108501
+DYER RD                                                     0850008500
+E HAMILTON ST                                               0850108501
+E KINO RD                                                   0850008500
+E STOCKTON ST                                               0850108501
+EARL HURT RD                                                0850008500
+EARL SHIVES RD                                              0850008500
+EAST FORK CHURCH RD                                         0850008500
+EAST FORK RD                                                0850008500
+EAST ST                                                     0850108501
+ECG RD                                                      0850008500
+ECHO RD                                                     0850008500
+ED TURNER RD                                                0850008500
+EDDIE HARBISON RD                                           0850008500
+EDDIE WALKER RD                                             0850008500
+EDGAR FORD RD                                               0850008500
+EDGAR SMITH RD                                              0850008500
+EDWARDS RD                                                  0850008500
+EDWIN WILLIAMS RD                                           0850008500
+ELBERT BLAYDES RD                                           0850008500
+ELBERT CLARK RD                                             0850008500
+ELBERT FIELDS RD                                            0850008500
+ELBERT PAYNE RD                                             0850008500
+ELDON RINESS RD                                             0850008500
+ELLIS ESTES RD                                              0850008500
+ELMORE ST                                                   0850108501
+ELROY DAVIS RD                                              0850008500
+ELSON BLYTHE RD                                             0850008500
+EMORY LN                                                    0850008500
+ENGLAND ST                                                  0850108501
+ENOS BELL RD                                                0850008500
+ENRICHMENT CENTER RD                                        0850108501
+ERNEST WILLIAMS RD                                          0850008500
+ERNIE ENGLAND RD                                            0850008500
+ERNIE FERRELL RD                                            0850008500
+EUGENE LYNN RD                                              0850008500
+FAIRGROUNDS ST                                              0850108501
+FANCHER RD                                                  0850008500
+FARLEY RD                                                   0850008500
+FAWN RIDGE DR                                               0850008500
+FERGUSON RD                                                 0850008500
+FERN ST                                                     0850108501
+FERRIS CREEK RD                                             0850008500
+FIREHOUSE LN                                                0850008500
+FIRKINS CEMETERY RD                                         0850008500
+FISHBACK LN                                                 0850008500
+FLETCHER RD                                                 0850008500
+FLOWERS RD                                                  0850008500
+FOUNDATION CHURCH RD                                        0850008500
+FOUNDATION MITCHELL RD                                      0850008500
+FOWLER BROWN RD                                             0850008500
+FRANK GIBSON RD                                             0850008500
+FRANK LESTER RD                                             0850008500
+FRANKLIN RD                                                 0850008500
+FRASER ST                                                   0850108501
+FRAZIER RD                                                  0850008500
+FRED PAGE RD                                                0850008500
+FRED RAY RD                                                 0850008500
+FREEDOM LN                                                  0850008500
+FREES RD                                                    0850008500
+FRICK RD                                                    0850008500
+FROEDGE DUBRE RD                                            0850008500
+FUDGE CEMETERY RD                                           0850008500
+GAIL DR                                                     0850108501
+GAPHILL CEMETERY RD                                         0850008500
+GARMON RD                                                   0850008500
+GARY BELL RD                                                0850008500
+GENESIS RD                                                  0850008500
+GENEVA JESSIE RD                                            0850008500
+GENTRY CEMETERY RD                                          0850008500
+GENTRY RD                                                   0850008500
+GEORGE LYNN RD                                              0850008500
+GEORGE SLINKER RD                                           0850008500
+GIBSON HOLLOW RD                                            0850008500
+GIBSON ST                                                   0850108501
+GLASGOW RD                                                  0850008500
+GLASGOW RD                                                  0850108501
+GLASGOW ST                                                  0850108501
+GLEN FINN RD                                                0850008500
+GLEN SHAW RD                                                0850008500
+GOFF RD                                                     0850008500
+GOOD FOLKS RD                                               0850008500
+GOOD LUCK BEAUMONT RD                                       0850008500
+GOODLUCK CHURCH RD                                          0850008500
+GORDON BRANCH RD                                            0850008500
+GOT MILK RD                                                 0850008500
+GRANVILLE SEXTON RD                                         0850008500
+GREEN TREE RD                                               0850008500
+GREEN VALLEY RD                                             0850008500
+GREENSBURG RD                                               0850008500
+GREENSBURG RD                                               0850108501
+GREENSBURG ST                                               0850108501
+GRIDER ST                                                   0850108501
+GRISSOM CIR                                                 0850108501
+GROCE RD                                                    0850008500
+GUY STARK RD                                                0850008500
+GUY YOUNG RD                                                0850008500
+H G PERKINS RD                                              0850008500
+H L HARPER RD                                               0850008500
+HANK CLEMMONS RD                                            0850008500
+HAPPY ACRES RD                                              0850008500
+HARBISON RD                                                 0850008500
+HARLEY RD                                                   0850008500
+HAROLD PAULL RD                                             0850008500
+HAROLD POYNTER RD                                           0850008500
+HARPER RD                                                   0850008500
+HARPER WALLACE RD                                           0850008500
+HARRIS ST                                                   0850108501
+HARRISON BOWLES RD                                          0850008500
+HARVEY CEMETERY RD                                          0850008500
+HARVEY HURT RD                                              0850008500
+HARVEY HURT RD                                              0850108501
+HARVEY WHITE CEMETERY RD                                    0850008500
+HAWK CEMETERY RD                                            0850008500
+HERBERT HODGES RD                                           0850008500
+HERMAN ESTES RD                                             0850008500
+HICKORY HOLLOW RD                                           0850008500
+HICKORY HOLLOW SPUR RD                                      0850008500
+HICKORY RIDGE RD                                            0850008500
+HIDDEN OAKS RD                                              0850008500
+HIGH ST                                                     0850108501
+HIGHLAND RD                                                 0850008500
+HILL ST                                                     0850108501
+HILLTOP VIEW RD                                             0850008500
+HISEVILLE CENTER RD                                         0850008500
+HITCHENS RD                                                 0850008500
+HOLIDAY HILL RD                                             0850008500
+HOLLAND CEMETERY RD                                         0850008500
+HOLLAND GARRETT RD                                          0850008500
+HOMER FROEDGE RD                                            0850008500
+HOMER WHITE LN                                              0850008500
+HORNET AVE                                                  0850108501
+HOWARD COFFEY RD                                            0850008500
+HOWARD COFFEY RD                                            0850108501
+HUBBARD CEMETERY RD                                         0850008500
+HURT HOLLOW RD                                              0850008500
+INDUSTRIAL DR                                               0850008500
+INDUSTRIAL DR                                               0850108501
+IRON MOUNTAIN RD                                            0850008500
+J B FERGUSON RD                                             0850008500
+J BELL RD                                                   0850008500
+J L BLAYDES RD                                              0850008500
+JACK CHANEY RD                                              0850008500
+JACK SHAW RD                                                0850008500
+JACK SPARKS RD                                              0850008500
+JACKIE NASH RD                                              0850008500
+JAMES GRISSOM RD                                            0850008500
+JAMES H YOUNG RD                                            0850008500
+JAMES SHOOPMAN RD                                           0850008500
+JAMES ST                                                    0850108501
+JASPER BRAGG RD                                             0850008500
+JEFFERIES CEMETERY RD                                       0850008500
+JELLICO RD                                                  0850008500
+JENNINGS RD                                                 0850008500
+JESSIE CEMETERY RD                                          0850008500
+JESSIE SHAW RD                                              0850008500
+JIM M PAIGE RD                                              0850008500
+JIMMY ATWELL RD                                             0850008500
+JIMMY HUBBARD RD                                            0850008500
+JIMMY HUMPHREY RD                                           0850008500
+JIMMY REECE RD                                              0850008500
+JIMS HILL RD                                                0850008500
+JOE ACREE RD                                                0850008500
+JOE BOWLES RD                                               0850008500
+JOE FIELDS RD                                               0850008500
+JOE HAMILTON RD                                             0850008500
+JOE STEPHENS RD                                             0850008500
+JOE W BRAGG RD                                              0850008500
+JOHN FIELDS RD                                              0850008500
+JOHN GILPIN RD                                              0850008500
+JOHN HURT RD                                                0850008500
+JOHN RAY RD                                                 0850008500
+JOHNSON RD                                                  0850008500
+JOLLY BUTLER RD                                             0850008500
+JONES RD                                                    0850008500
+JR CAFFEE RD                                                0850008500
+JR HARPER RD                                                0850008500
+JUDD RD                                                     0850008500
+JUNIOR IRWIN RD                                             0850008500
+JUSTIN RD                                                   0850008500
+KARAN DR                                                    0850108501
+KELTNER NELSON RD                                           0850008500
+KELTNER RD                                                  0850008500
+KEN POYNTER RD                                              0850008500
+KENNETH FIELDS RD                                           0850008500
+KENNETH WILSON RD                                           0850008500
+KESSLER RIDGE RD                                            0850008500
+KIDD RD                                                     0850008500
+KINNAIRD BROWN RD                                           0850008500
+KNIPP RD                                                    0850008500
+KNOB LICK BLUE SPRINGS RD                                   0850008500
+KNOB LICK RD                                                0850008500
+KNOB LICK WISDOM RD                                         0850008500
+LAKEVIEW DR                                                 0850008500
+LAKEVIEW RD                                                 0850008500
+LANES END RD                                                0850008500
+LANGKABEL RD                                                0850008500
+LARRY COOKSEY RD                                            0850008500
+LARRY HOPE RD                                               0850008500
+LARRY HURT RD                                               0850008500
+LAWRENCE ENGLAND RD                                         0850008500
+LEMMON RD                                                   0850008500
+LEMMON ROAD CONNECTOR                                       0850008500
+LENDELL SHIRLEY RD                                          0850008500
+LENORA BIRGE RD                                             0850008500
+LENVILLE BRYANT RD                                          0850008500
+LEONARD FERGUSON RD                                         0850008500
+LES NICKOLS RD                                              0850008500
+LEWIS A CLEMMONS RD                                         0850008500
+LINNCON ST                                                  0850108501
+LITTLE CRITTER RD                                           0850008500
+LN9008 E                                                    0850008500
+LN9008 E EXIT27 CROSSOVER US68                              0850008500
+LN9008 E EXIT27 OFF RAMP TO US68                            0850008500
+LN9008 E EXIT27 OFF RAMP TO US68 E                          0850008500
+LN9008 E EXIT27 OFF RAMP TO US68 W                          0850008500
+LN9008 E EXIT27 ON RAMP FROM US68                           0850008500
+LN9008 E EXIT27 ON RAMP FROM US68 E                         0850008500
+LN9008 E EXIT27 ON RAMP FROM US68 W                         0850008500
+LN9008 W                                                    0850008500
+LN9008 W EXIT27 CROSSOVER US68                              0850008500
+LN9008 W EXIT27 OFF RAMP TO US68                            0850008500
+LN9008 W EXIT27 OFF RAMP TO US68 E                          0850008500
+LN9008 W EXIT27 OFF RAMP TO US68 W                          0850008500
+LN9008 W EXIT27 ON RAMP FROM US68                           0850008500
+LN9008 W EXIT27 ON RAMP FROM US68 E                         0850008500
+LN9008 W EXIT27 ON RAMP FROM US68 W                         0850008500
+LOCUST GROVE CHURCH RD                                      0850008500
+LONE OAK RD                                                 0850008500
+LONE STAR CHURCH RD                                         0850008500
+LONE STAR RIDGE RD                                          0850008500
+LONNIE GLASS RD                                             0850008500
+LONNIE MILLER RD                                            0850008500
+LORA LN                                                     0850008500
+LOUIS FREE RD                                               0850008500
+LOVE KNOB RD                                                0850008500
+LOVE ST                                                     0850108501
+LYRON ESTES RD                                              0850008500
+M PERKINS RD                                                0850008500
+MACKEY ST                                                   0850108501
+MAGIC EMMITT RD                                             0850008500
+MAIN ST                                                     0850008500
+MAJESTIC DR                                                 0850108501
+MAJESTIC SPUR                                               0850108501
+MAPLEHILL CHURCH RD                                         0850008500
+MAPLEWOOD LN                                                0850008500
+MARTIN CEMETERY RD                                          0850008500
+MARTIN PRUITT RD                                            0850008500
+MCCANDLESS COOMER RD                                        0850008500
+MCCOY WITTY RD                                              0850008500
+MCWHORTER RD                                                0850008500
+MEADOW DR                                                   0850008500
+MELL CORK RD                                                0850008500
+MELL RIDGE RD                                               0850008500
+MELTON RD                                                   0850008500
+MERRILL RD                                                  0850008500
+MILAM CLARK RD                                              0850008500
+MILLER ST                                                   0850108501
+MILTON DOWNS RD                                             0850008500
+MISTY LANE RD                                               0850008500
+MITCHELL EDWARDS RD                                         0850008500
+MITCHELL ERVIN RD                                           0850008500
+MITCHELL FRANKLIN CEMETERY RD                               0850008500
+MITCHELL LONDON RD                                          0850008500
+MOCCASIN SCHOOL RD                                          0850008500
+MOORE SPRINGS CEMETERY RD                                   0850008500
+MORRIS RD                                                   0850008500
+MOSBY RIDGE RD                                              0850008500
+MT MORIAH RD                                                0850008500
+MULE PULL TRL                                               0850008500
+MUNCIE CT                                                   0850108501
+MURRELL ST                                                  0850108501
+MUSE RD                                                     0850008500
+MYRTIE FORREST RD                                           0850008500
+N 1ST ST                                                    0850108501
+N MAIN ST                                                   0850108501
+N METCALFE SCHOOL RD                                        0850008500
+NEEPER RD                                                   0850008500
+NEFF C HURT RD                                              0850008500
+NEVILLE CEMETERY RD                                         0850008500
+NEW LIBERTY BIG MEADOW RD                                   0850008500
+NICHOLAS RD                                                 0850008500
+NITA DR                                                     0850108501
+NOBOB SUMMER SHADE RD                                       0850008500
+NODE RD                                                     0850008500
+NORA ST                                                     0850108501
+NORVIN HURT RD                                              0850008500
+NUNNALLY RD                                                 0850008500
+O BARTLEY RD                                                0850008500
+O PAGE RD                                                   0850008500
+OAK ST                                                      0850108501
+ODELL VANZANT RD                                            0850008500
+OLD BURKSVILLE RD                                           0850008500
+OLD CALLAHAN SCHOOL RD                                      0850008500
+OLD COLUMBIA ST                                             0850108501
+OLD FUDGE CEMETERY RD                                       0850008500
+OLD GLASGOW RD                                              0850008500
+OLD GLASGOW RD                                              0850108501
+OLD GOODSON CHURCH RD                                       0850008500
+OLD RANDOLPH SCHOOL RD                                      0850008500
+OLD TRACE RD                                                0850008500
+ORIS LN                                                     0850108501
+OTHA GARRETT RD                                             0850008500
+OWEN JUDD RD                                                0850008500
+OWEN PULLIAM RD                                             0850008500
+P A HERSHEY RD                                              0850008500
+PACE RD                                                     0850008500
+PAGE RD                                                     0850008500
+PARADISE LN                                                 0850008500
+PARK ST                                                     0850108501
+PATTY WADE RD                                               0850008500
+PAUL BEARD RD                                               0850008500
+PAUL JESSIE RD                                              0850008500
+PAUL JONES RD                                               0850008500
+PAUL STEEN RD                                               0850008500
+PECKERWOOD RIDGE RD                                         0850008500
+PEDIGO LN                                                   0850008500
+PENNY LN                                                    0850008500
+PERKINS RD                                                  0850108501
+PETERBUILT RD                                               0850008500
+PHELPS DUNHAM RD                                            0850008500
+PHELPS LN                                                   0850008500
+PHIL HARLOW RD                                              0850008500
+PHILLIP WHITLOW RD                                          0850008500
+PINE HILL RD                                                0850008500
+PINE LN                                                     0850008500
+PINEWOOD PL                                                 0850108501
+PIRATES WAY                                                 0850008500
+PITCOCK RD                                                  0850008500
+PLEASANT GROVE RD                                           0850008500
+PLEASANT VALLEY CHURCH RD                                   0850008500
+PLEASANT VIEW RD                                            0850008500
+POINT VIEW RD                                               0850008500
+PONDEROSA RD                                                0850008500
+PORTER HASH RD                                              0850008500
+POWELL RD                                                   0850008500
+R HASH RD                                                   0850008500
+RADFORD MARTIN RD                                           0850008500
+RAINBOW LN                                                  0850008500
+RALPH EDWARDS RD                                            0850008500
+RALPH EDWARDS RD                                            0850108501
+RALPH ESTES RD                                              0850008500
+RANDOLPH GOOD LUCK RD                                       0850008500
+RANDOLPH RD                                                 0850008500
+RANDOLPH ST                                                 0850108501
+RANDOLPH SUMMER SHADE RD                                    0850008500
+RANSUM RD                                                   0850008500
+RATLIFF MITCHELL RD                                         0850008500
+RAY NORMAN RD                                               0850008500
+RAYME LN                                                    0850008500
+RAYMOND BROWN RD                                            0850008500
+RAYMOND HARLAN RD                                           0850008500
+REECE HURT RD                                               0850008500
+REECE RD                                                    0850008500
+RICHARDSON RD                                               0850008500
+RICHARDSON SPUR RD                                          0850008500
+RICHEY COFFEY RD                                            0850008500
+RIVER RD                                                    0850008500
+RIVER RD                                                    0850108501
+ROBERT BIRGE RD                                             0850008500
+ROBERT CRENSHAW RD                                          0850008500
+ROBERT CRENSHAW SPUR                                        0850008500
+ROBERT EDWARDS RD                                           0850008500
+ROBERT MITCHELL SPUR                                        0850008500
+ROBERT SCOTT RD                                             0850008500
+ROBERT WILSON RD                                            0850008500
+ROBERTS RD                                                  0850008500
+ROBERTSON SHAW RD                                           0850008500
+ROCKLAND MILLS RD                                           0850008500
+ROCKY TOP RD                                                0850008500
+ROGERS CREEK RD                                             0850008500
+ROGERS ST                                                   0850108501
+ROGUE MOUNTAIN RD                                           0850008500
+ROLLIN BLAYDES RD                                           0850008500
+ROLLIN GARRETT RD                                           0850008500
+ROLLIN HARBISON RD                                          0850008500
+ROLLIN HARBISON SPUR                                        0850008500
+ROMINES RD                                                  0850008500
+RONNIE MILLER LN                                            0850108501
+ROSEWOOD DR                                                 0850008500
+ROY BLYTHE RD                                               0850008500
+ROY GRIDER RD                                               0850008500
+ROY JEFFERIES RD                                            0850008500
+ROY LEE HUMES RD                                            0850008500
+RUSSELL REECE RD                                            0850008500
+RUSSELL SMITH RD                                            0850008500
+S 1ST ST                                                    0850108501
+S MAIN ST                                                   0850008500
+S MAIN ST                                                   0850108501
+SAM WHITE RD                                                0850008500
+SANDSTONE LN                                                0850008500
+SARTIN DR                                                   0850008500
+SAVOYARD PARK RD                                            0850008500
+SAW MILL RD                                                 0850008500
+SCOTT CEMETERY RD                                           0850008500
+SCOTT DR                                                    0850108501
+SCOTT RIDGE RD                                              0850008500
+SCOTTYS ROCK QUARRY RD                                      0850008500
+SERENITY LN                                                 0850008500
+SEVEN SPRINGS CHURCH RD                                     0850008500
+SEXTON FARM RD                                              0850008500
+SEXTON FARM ROAD NO2                                        0850008500
+SHADY GROVE WHICKERVILLE RD                                 0850008500
+SHADY RIDGE LN                                              0850008500
+SHAW CREEK RD                                               0850008500
+SHELLEY RD                                                  0850008500
+SHERFEY RD                                                  0850008500
+SHERWOOD LN                                                 0850108501
+SHERWOOD SPUR                                               0850108501
+SHIRLEY ST                                                  0850108501
+SHIRLEYVILLE RD                                             0850008500
+SHIVE RD                                                    0850008500
+SHORT ST                                                    0850108501
+SILVER CHARM LN                                             0850008500
+SIMPSON RD                                                  0850008500
+SIMS RD                                                     0850008500
+SKYLINE DR                                                  0850108501
+SLAYTER RD                                                  0850008500
+SLINKER LN                                                  0850008500
+SLINKER RD                                                  0850008500
+SMITH CEMETERY RD                                           0850008500
+SMITH GERALDS RD                                            0850008500
+SMITH GERALDS SPUR                                          0850008500
+SMITH LN                                                    0850108501
+SOCIETY HILL RD                                             0850008500
+SOGGY BOTTOM RD                                             0850008500
+SPARKS RD                                                   0850008500
+SPRADLIN RD                                                 0850008500
+SPRING ST                                                   0850108501
+STANLEY SYRA RD                                             0850008500
+STEPHEN B SMITH RD                                          0850008500
+STEPHENS CT                                                 0850008500
+STERLING GILBERT RD                                         0850008500
+STEVEN B SMITH RD                                           0850008500
+STORY RD                                                    0850008500
+SUBTLE GARRETT CREEK RD                                     0850008500
+SUBTLE RD                                                   0850008500
+SULPHER WELL METHODIST CHURCH RD                            0850008500
+SULPHUR WELL CENTER RD                                      0850008500
+SULPHUR WELL COUNTY PARK RD                                 0850008500
+SULPHUR WELL KNOB LICK RD                                   0850008500
+SULPHUR WELL METHODIST CHURCH RD                            0850008500
+SUMMER SHADE CHURCH RD                                      0850008500
+SUMMER SHADE RD                                             0850008500
+SUMMERMONT CIR                                              0850008500
+SUMMIT DR                                                   0850008500
+SUN VALLEY CIR                                              0850108501
+SUNNY RIDGE LN                                              0850008500
+SUNSET DR                                                   0850108501
+T JEFFRIES RD                                               0850008500
+TARTER JESSIE RD                                            0850008500
+TEDDY RAY RD                                                0850008500
+TEDDY RAY RD                                                0850108501
+THOMAS PENNINGTON RD                                        0850008500
+THOMPSON ST                                                 0850108501
+THURMAN SEXTON RD                                           0850008500
+THURMAN SMITH RD                                            0850008500
+TIMMY CIRCLE RD                                             0850008500
+TIMMY HUBBARD RD                                            0850008500
+TOBACCO RD                                                  0850008500
+TOBY HILL RD                                                0850008500
+TOM HOLLEY RD                                               0850008500
+TOM NANCE RD                                                0850008500
+TOMMY SCROGGY RD                                            0850008500
+TOMPKINSVILLE RD                                            0850008500
+TRAVIS BROWN RD                                             0850008500
+TREE TOP DR                                                 0850108501
+TRINITY LN                                                  0850008500
+TUG CLARK RD                                                0850008500
+TUNEY GERALDS RD                                            0850008500
+TURKEY TROT LN                                              0850008500
+TURTLE WALK                                                 0850008500
+TWIN PEAKS DR                                               0850008500
+VOTECH RD                                                   0850108501
+W CURTIS RD                                                 0850008500
+W HAMILTON ST                                               0850108501
+W STOCKTON ST                                               0850108501
+WALKER RD                                                   0850008500
+WATER TOWER RD                                              0850008500
+WATSON RD                                                   0850008500
+WAYNE POYNTER RD                                            0850008500
+WENDELL HURT RD                                             0850008500
+WENDELL SHIRLEY RD                                          0850008500
+WEST END LN                                                 0850008500
+WHITE CEMETERY RD                                           0850008500
+WHITLOW RD                                                  0850008500
+WILBUR GLASS RD                                             0850008500
+WILL DAVIS RD                                               0850008500
+WILLIAM JUDD RD                                             0850008500
+WILLIAM K SMITH RD                                          0850008500
+WILLIAM WHITE RD                                            0850008500
+WILLIAM YATES RD                                            0850008500
+WILSON CIR                                                  0850108501
+WILSON CT                                                   0850108501
+WINNIE BLAYDES RD                                           0850008500
+WISDOM RD                                                   0850008500
+WISTER WALLACE RD                                           0850008500
+WOOD ERVIN RD                                               0850008500
+WOODS RD                                                    0850008500
+YATES CEMETERY RD                                           0850008500

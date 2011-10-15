@@ -1,0 +1,329 @@
+2ND ST                                                      0120401204
+3RD ST                                                      0120401204
+ACCESS ROAD VERIZON                                         0120001200
+ADRIAN DR                                                   0120001200
+ANDERSON LN                                                 0120001200
+APPLE RIDGE RD                                              0120001200
+ASBURY RD                                                   0120001200
+AUGUSTA BERLIN RD                                           0120001200
+AUGUSTA CHATHAM RD                                          0120001200
+AUGUSTA CHATHAM RD                                          0120101201
+AUGUSTA MINERVA RD                                          0120001200
+AUGUSTA MINERVA RD                                          0120101201
+BADGER RD                                                   0120001200
+BEE RUN NO 2 RD                                             0120001200
+BELMONT RD                                                  0120001200
+BESSIE LN                                                   0120001200
+BIG BUCK RD                                                 0120001200
+BIG RUN SALEM RIDGE RD                                      0120001200
+BILL WILSON RD                                              0120001200
+BISCHOFF LN                                                 0120001200
+BLADESTON DR                                                0120001200
+BLUE STUMP LN                                               0120001200
+BLUEBERRY RDG                                               0120001200
+BLUEGRASS ESTATES                                           0120001200
+BRACKEN CREEK CT                                            0120101201
+BRACKEN CREEK DR                                            0120101201
+BRACKEN HILLS DR                                            0120001200
+BRACKEN ST                                                  0120101201
+BRADFORD RD                                                 0120001200
+BRIDGEVILLE LN                                              0120001200
+BRIDGEVILLE RD                                              0120001200
+BRIDGEVILLE RD                                              0120301203
+BROCK RD                                                    0120001200
+BROOKSVILLE CHATHAM RD                                      0120001200
+BROOKSVILLE GERMANTOWN RD                                   0120001200
+BROOKSVILLE GERMANTOWN RD                                   0120301203
+BROOKSVILLE POWERSVILLE RD                                  0120001200
+BROWNINGS CORNER RD                                         0120001200
+CANNON RD                                                   0120001200
+CASE RIDGE                                                  0120001200
+CEDAR FORKS RIDGE LN                                        0120001200
+CEMETERY HL                                                 0120101201
+CHANEY RD                                                   0120001200
+CHAPEL AVE                                                  0120101201
+CHATHAM LN                                                  0120001200
+CHATHAM RDG                                                 0120001200
+CHERRY ALY                                                  0120101201
+CIGAR LN                                                    0120001200
+CLARK RIDGE RD                                              0120001200
+CLARKS LN                                                   0120001200
+COCHRAN DR                                                  0120001200
+CONRAD RD                                                   0120001200
+COOK RIDGE RD                                               0120001200
+COOPER LN                                                   0120001200
+COOPER ST                                                   0120201202
+CORLIS AVE                                                  0120201202
+COURTS HILL RD                                              0120001200
+COX LN                                                      0120001200
+CUMMINSVILLE BERLIN RD                                      0120001200
+D GRUELL RD                                                 0120001200
+D HOWARD RD                                                 0120001200
+D MAINS RD                                                  0120001200
+DANAHE RD                                                   0120001200
+DAY HILL RD                                                 0120001200
+DEAN DR                                                     0120001200
+DELANEY RD                                                  0120001200
+DIAMOND RIDGE                                               0120001200
+DON GALLOWAY DR                                             0120001200
+DON GALLOWAY DR                                             0120201202
+DOVER RD                                                    0120001200
+DOYLES LN                                                   0120001200
+DRIVEWAY                                                    0120001200
+DUTCH RIDGE RD                                              0120001200
+E 2ND ST                                                    0120101201
+E 4TH ST                                                    0120101201
+E AUGUSTA CHATHAM RD                                        0120001200
+E GILLESPIE LN                                              0120001200
+E HEATHER RENEE FRENCH BLVD                                 0120101201
+E MARY INGLES HWY                                           0120001200
+E MCNUTT DR                                                 0120001200
+E MIAMI ST                                                  0120201202
+E PALMER DR                                                 0120001200
+E RIVERSIDE DR                                              0120101201
+E WOOLCOTT RD                                               0120001200
+EDEN RIDGE LN                                               0120001200
+EDEN RIDGE RD                                               0120001200
+ELIZABETH ST                                                0120101201
+ELIZABETH ST                                                0120201202
+ELLIS LN                                                    0120101201
+ELMER LEE JONES RD                                          0120001200
+EMMONS LN                                                   0120001200
+FARM RD                                                     0120001200
+FEAGAN RIDGE RD                                             0120001200
+FERRY RAMP                                                  0120101201
+FERRY ST                                                    0120101201
+FLORENCE LN                                                 0120001200
+FORDS AVE                                                   0120001200
+FOREST HILLS RD                                             0120001200
+FOSTER AVE                                                  0120401204
+FOSTER CHAPEL RD                                            0120010100
+FOSTER RD                                                   0120001200
+FRANKFORT ST                                                0120101201
+FRANKFORT ST                                                0120201202
+FREEDOM LN                                                  0120001200
+FRENCH RD                                                   0120001200
+FRONKS LN                                                   0120001200
+GALBRAITH RD                                                0120001200
+GARRETT AVE                                                 0120201202
+GARRETT LN                                                  0120001200
+GARRISON RD                                                 0120001200
+GIBSON DR                                                   0120201202
+GIBSON LN                                                   0120001200
+GILLESPIE LN                                                0120001200
+GOOSE RIDGE RD                                              0120001200
+GRANDVIEW DR                                                0120001200
+GRIGSON RD                                                  0120001200
+GROVERS RUN RD                                              0120001200
+HACKETT RIDGE                                               0120001200
+HACKETT RIDGE FARM                                          0120001200
+HACKETT RIDGE FARM RD                                       0120001200
+HALEY RIDGE RD                                              0120001200
+HALL RD                                                     0120001200
+HAMERS DR                                                   0120001200
+HAMILTON AVE                                                0120101201
+HAMILTON RD                                                 0120001200
+HANNAH DR                                                   0120001200
+HARGETTS LN                                                 0120001200
+HAWKINS ALY                                                 0120101201
+HERITAGE DR                                                 0120001200
+HESTER RD                                                   0120001200
+HILL AND DALE LN                                            0120301203
+HILLSDALE RD                                                0120001200
+HOLTS CREEK RD                                              0120001200
+HOOK LN EXT                                                 0120001200
+HOWELL DR                                                   0120201202
+HUMMINGBIRD LN                                              0120001200
+ILER RD                                                     0120001200
+JACOBS RD                                                   0120001200
+JEFFERSON ST                                                0120201202
+JENNETT RD                                                  0120001200
+JESSE MOORE RD                                              0120001200
+JETT ESTATES CIR                                            0120001200
+JETT ESTATES LN                                             0120001200
+JETT ESTATES LOOP RD                                        0120001200
+JETT RD                                                     0120001200
+JIM WILSON RD                                               0120001200
+JOHNSVILLE FOSTER RD                                        0120001200
+JONES DR                                                    0120001200
+JOYCE WAY                                                   0120001200
+JUDE LN                                                     0120001200
+JUSTICE DR                                                  0120001200
+KABLER MILL RD                                              0120001200
+KALB LN                                                     0120001200
+KATY LN                                                     0120001200
+KELLY RIDGE                                                 0120001200
+KENNON RD                                                   0120001200
+KINGS RIDGE                                                 0120001200
+KY ROUTE 19                                                 0120001200
+KY ROUTE 19                                                 0120201202
+KY539                                                       0120001200
+LAKE LN                                                     0120001200
+LAMONDA RD                                                  0120001200
+LANG LN                                                     0120001200
+LENOXBURG FOSTER RD                                         0120001200
+LENOXBURG FOSTER RD                                         0120401204
+LIBERTY DR                                                  0120001200
+LICKING ESTATES                                             0120001200
+LICKING ESTATES RD                                          0120001200
+LINCOLN AVE                                                 0120201202
+LINVILLE LN                                                 0120001200
+LOCKMIER RD                                                 0120001200
+LOCUST CREEK DR                                             0120001200
+LOCUST CREEK PARK RD                                        0120001200
+LOCUST CREEK SPUR                                           0120001200
+LOCUST ST                                                   0120201202
+LONAKER LN                                                  0120001200
+LONE OAK                                                    0120001200
+LONG STRETCH RD                                             0120001200
+LYNN LN                                                     0120001200
+MADISON ST                                                  0120201202
+MAIN ST                                                     0120101201
+MAIN ST                                                     0120401204
+MALONEY RD                                                  0120001200
+MARSHALL RD                                                 0120001200
+MARTIN CARL RD                                              0120001200
+MASTIN LN                                                   0120001200
+MATTOX RD                                                   0120001200
+MCCANE LN                                                   0120001200
+MCCARTY RD                                                  0120001200
+MCCARTY RIDGE RD                                            0120001200
+MCCLANAHAN RD                                               0120001200
+MCKINNEY RD                                                 0120001200
+MCNAMARA LN                                                 0120001200
+MEYERS RD                                                   0120001200
+MICHAELS LN                                                 0120001200
+MICHELE DR                                                  0120001200
+MILFORD LOOP                                                0120001200
+MILFORD RD                                                  0120001200
+MINERVA DR                                                  0120101201
+MINI FARMS RD                                               0120001200
+MONSON RD                                                   0120001200
+MOORE RD                                                    0120001200
+MOORE RD                                                    0490001200
+MORAN RD                                                    0120001200
+MT ZION RD                                                  0120001200
+N AA HWY                                                    0120001200
+N BLUEGRASS RD                                              0120001200
+N HILTON LN                                                 0120001200
+N HOOK LN                                                   0120001200
+N SHADY LN                                                  0120001200
+N WILLOW ST                                                 0120201202
+NEAVE MILFORD RD                                            0120001200
+NEAVE RIDGE RD                                              0120001200
+NEW HOPE SPUR                                               0120001200
+NEW ZION RD                                                 0120001200
+NEWELLS DR                                                  0120001200
+OAKLAND RD                                                  0120001200
+OLD  WILLOW CREEK                                           0120001200
+OLD 19                                                      0120001200
+OLD BIG RUN SALEM RD                                        0120001200
+OLD CARNTOWN RD                                             0120001200
+OLD CARNTOWN RD N                                           0120001200
+OLD DOVER RD                                                0120001200
+OLD KY 19 NO 2 RD                                           0120001200
+OLD KY 19 NO 3 RD                                           0120001200
+OLD KY 19 NO 4 RD                                           0120001200
+OLD KY 19 NO4 CONNECTOR RD                                  0120001200
+OLD OAKLAND RD                                              0120001200
+OLD PEA RIDGE RD                                            0120001200
+OLD SALEM RIDGE RD                                          0120001200
+PARINA RD                                                   0120001200
+PARK ST                                                     0120101201
+PARKVIEW ST                                                 0120101201
+PARSLEY DR                                                  0120201202
+PEA RIDGE RD                                                0120001200
+PERKINS RD                                                  0120001200
+PERKINS RIDGE RD                                            0120001200
+PERSIMMON ST                                                0120201202
+PINE VIEW LN                                                0120001200
+PLEASANT RIDGE SUBDIVISION                                  0120001200
+PLEASANT ST                                                 0120101201
+POWELL ST                                                   0120201202
+POWERSVILLE HARRISON CO RD                                  0120001200
+POWERSVILLE HARRISON CO RD                                  0490001200
+POWERSVILLE WILLOW RD                                       0120001200
+RESERVOIR LN                                                0120001200
+RICE RD                                                     0120001200
+RILEY MILL RD                                               0120001200
+RIVERTON RD                                                 0120001200
+ROCK RD                                                     0120001200
+ROCKY RIDGE                                                 0120001200
+RUF RD                                                      0120001200
+RUSTIC RIDGE LN                                             0120001200
+S AA HWY                                                    0120001200
+S BLUEGRASS RD                                              0120001200
+S HIGGINSPORT RD                                            0120001200
+S HILTON LN                                                 0120001200
+S HOOK LN                                                   0120001200
+S KENNON RD                                                 0120001200
+S SHADY LN                                                  0120001200
+S WILLOW ST                                                 0120201202
+SALEM RIDGE RD                                              0120001200
+SANTA FE RD                                                 0120001200
+SEMINARY AVE                                                0120101201
+SHEP LN                                                     0120001200
+SHOFSTALL ALY                                               0120101201
+SHOFSTALL RD                                                0120001200
+SILVEY RD                                                   0120001200
+SIMONS LN                                                   0120001200
+SNAG CREEK RD                                               0120001200
+SPARKS RD                                                   0120001200
+STUMP RD                                                    0120001200
+SUNSET RIDGE                                                0120001200
+SYCAMORE ST                                                 0120101201
+TALLNER RD                                                  0120001200
+TANNERY ALY                                                 0120101201
+THOMPSON RIDGE RD                                           0120001200
+TOADVINE RD                                                 0120001200
+TONI MAC LN                                                 0120001200
+TONYS TRAIL RD                                              0120001200
+TRUEAX RD                                                   0120001200
+TRUEAX RD                                                   1010001200
+TURTLE CREEK RD                                             0120001200
+UNION CHAPEL RD                                             0120001200
+UPPER ALY                                                   0120101201
+UPPER PITY CRK                                              0120001200
+UPPER WILLOW CREEK RD                                       0120001200
+VALLEY HIGH DR                                              0120001200
+VALLEY HIGH LN                                              0120001200
+VALLEY VIEW DR                                              0120001200
+VERMILLION RD                                               0120001200
+VINEYARD CT                                                 0120101201
+W 2ND ST                                                    0120101201
+W 4TH ST                                                    0120101201
+W AUGUSTA CHATHAM RD                                        0120001200
+W GILLESPIE LN                                              0120001200
+W HEATHER RENEE FRENCH BLVD                                 0120101201
+W MARY INGLES HWY                                           0120001200
+W MARY INGLES HWY                                           0120101201
+W MARY INGLES HWY                                           0120401204
+W MCNUTT DR                                                 0120001200
+W MIAMI ST                                                  0120201202
+W PALMER DR                                                 0120001200
+W RIVERSIDE DR                                              0120101201
+W WOOLCOTT RD                                               0120001200
+WAGEL RD                                                    0120001200
+WALCOTT JOHNSVILLE RD                                       0120001200
+WALLACE RD                                                  0120001200
+WALLIN AVE                                                  0120201202
+WALTON PIKE                                                 0120001200
+WARE LN                                                     0120001200
+WATER ST                                                    0120101201
+WATER ST                                                    0120301203
+WAYNE B MCGEE DR                                            0120301203
+WELLSBURG RD                                                0120001200
+WELLSBURG WALCOTT RD                                        0120001200
+WESTERN HILLS RD                                            0120001200
+WILLIAMS RD                                                 0120001200
+WILLIAMS ST                                                 0120101201
+WILLOW CREEK                                                0120001200
+WILLOW LENOXBURG RD                                         0120001200
+WILLOW NEAVE RD                                             0120001200
+WINKLE RD                                                   0120001200
+WOODLAND ACRES LN                                           0120001200
+WOODLAND ACRES RD                                           0120001200
+WOODWARD AVE                                                0120201202
+WOODWARD RD                                                 0120001200
+WORTHINGTON RD                                              0120001200
+WRANGLING RUN RD                                            0120001200

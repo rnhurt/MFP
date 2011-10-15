@@ -1,0 +1,531 @@
+1ST AVE                                                     0280002800
+1ST ST                                                      0280002800
+1ST ST                                                      0280102801
+2ND ST                                                      0280102801
+3RD ST                                                      0280002800
+4TH ST                                                      0280002800
+5TH ST                                                      0280002800
+A H CLEMENT RD                                              0280002800
+A T CRIDER RD                                               0280002800
+ADAM ST                                                     0280102801
+ADAMSON LN                                                  0280002800
+AIRPORT RD                                                  0280002800
+ALDRIDGE RD                                                 0280002800
+ALLEN CRIDER RD                                             0280002800
+ALLEN LN                                                    0280002800
+ALLEY NO1                                                   0280102801
+ALLEY NO2                                                   0280102801
+ALLIE BROWN RD                                              0280002800
+AMOS RD                                                     0280002800
+ANDY WRIGHT RD                                              0280002800
+ARLEEN ST                                                   0280102801
+ASBRIDGE CEMETERY RD                                        0280002800
+AUNT JANE TABERNACLE RD                                     0280002800
+AUTUMN LN                                                   0280002800
+AUTUMN LN                                                   0280102801
+AXEL CREEK RD                                               0280002800
+B A ALVIS RD                                                0280002800
+BAKER CEMETERY RD                                           0280002800
+BAKER HOLLOW RD                                             0280002800
+BAKER LN                                                    0280002800
+BARKLEY RD                                                  0280002800
+BARNETT CHAPEL RD                                           0280002800
+BARNETT FORD RD                                             0280002800
+BARTHEL CROWELL RD                                          0280002800
+BEACHY RD                                                   0280002800
+BEAGLE DR                                                   0280002800
+BELLS MINE RD                                               0280002800
+BELT LN                                                     0280002800
+BELT WATSON RD                                              0280002800
+BILL HILLYARD RD                                            0280002800
+BILL SMITH RD                                               0280002800
+BLACKBERRY LN                                               0280002800
+BLACKBIRD LN                                                0280102801
+BLACKBURN CHURCH RD                                         0280002800
+BLACKBURN ST                                                0280102801
+BLACKFORD CHURCH RD                                         0280002800
+BLAKE LN                                                    0280002800
+BLUEBIRD LN                                                 0280002800
+BLUEBIRD RD                                                 0280002800
+BLUEJAY LN                                                  0280002800
+BOAT RAMP SPUR                                              0280002800
+BOBBY HILLYARD RD                                           0280002800
+BOSTICK LN                                                  0280002800
+BRIARWOOD DR                                                0280102801
+BRIDWELL LOOP                                               0280002800
+BRIDWELL LOOP                                               0280102801
+BROADWAY ST                                                 0280002800
+BROOK ST                                                    0280102801
+BROOK STREET EXT                                            0280102801
+BROOKCLIFF ST                                               0280102801
+BROWN MINES RD                                              0280002800
+BROWN RD                                                    0280002800
+BROWNS SCHOOL RD                                            0280002800
+BRUSHY LN                                                   0280002800
+BUTTER RD                                                   0280002800
+C A FOWLER RD                                               0280002800
+CABIN LN                                                    0280002800
+CAIN RD                                                     0280002800
+CALDWELL SPRINGS RD                                         0280002800
+CAMPBELL LN                                                 0280002800
+CAMPGROUND SPUR                                             0280002800
+CANEY FORK RD                                               0280002800
+CAROL CROFT RD                                              0280002800
+CARR ST                                                     0280102801
+CASSIDY AVE                                                 0280102801
+CATBIRD LN                                                  0280002800
+CATTLE DR                                                   0280002800
+CAVE SPRINGS RD                                             0280002800
+CECIL CROFT RD                                              0280002800
+CEDAR DR                                                    0280002800
+CEDAR ST                                                    0280102801
+CENTRAL ALY                                                 0280102801
+CHADD ST                                                    0280102801
+CHAMPION RD                                                 0280002800
+CHANDLER FARM RD                                            0280002800
+CHAPEL HILL RD                                              0280002800
+CHAPEL HILL RD                                              0280102801
+CHAPPELL RD                                                 0280002800
+CHARLES MCCONNELL RD                                        0280002800
+CHARLIE MAY RD                                              0280002800
+CHERRY ST                                                   0280102801
+CHICKADEE LN                                                0280002800
+CHIPPS DR                                                   0280102801
+CHURCH AVE                                                  0280002800
+CHURCH DR                                                   0280002800
+CHURCH ST                                                   0280002800
+CHURCH ST                                                   0280102801
+CIRCLE DR                                                   0280102801
+CLARK ST                                                    0280102801
+CLAUDE BELT RD                                              0280002800
+CLAYLICK CREEK RD                                           0280002800
+CLAYLICK RD                                                 0280002800
+CLUB DR                                                     0280102801
+COLEMAN RD                                                  0280002800
+COLLIE BROWN RD                                             0280002800
+COLLINS RD                                                  0280002800
+COLUMBIA MINE RD                                            0280002800
+CONWAY DR                                                   0280102801
+COOK RD                                                     0280002800
+COOL SPRINGS RD                                             0280002800
+COON CEMETERY RD                                            0280002800
+COPPERAS SPRINGS RD                                         0280002800
+COTTAGE LN                                                  0280102801
+COTTON PATCH RD                                             0280002800
+COUNTRY CLUB DR                                             0280102801
+COUNTRY DR                                                  0280102801
+COUNTRY SHED LN                                             0280002800
+COUNTRY VIEW DR                                             0280002800
+COURT ST                                                    0280102801
+COWANS STORE RD                                             0280002800
+COY WATSON RD                                               0280002800
+CRAYNE CEMETERY RD                                          0280002800
+CREEK ST                                                    0280102801
+CREEKSIDE CIR                                               0280102801
+CRITTENDEN DR                                               0280102801
+CROFT ALY                                                   0280002800
+CROOKED CREEK CHURCH RD                                     0280002800
+CROSS CREEK RD                                              0280002800
+CROWELL CEMETERY RD                                         0280002800
+CUNNINGHAM RD                                               0280002800
+D N SPURRIER RD                                             0280002800
+DAMRON RD                                                   0280002800
+DANIEL SPUR RD                                              0280002800
+DAVENPORT MINES RD                                          0280002800
+DAWN DR                                                     0280002800
+DEER CREEK CHURCH RD                                        0280002800
+DEER TRACE RD                                               0280002800
+DICK JONES RD                                               0280002800
+DOGWOOD DR                                                  0280002800
+DON LAWRENCE RD                                             0280002800
+DONALD WINDERS RD                                           0280002800
+DOVE LN                                                     0280002800
+DRAKE ST                                                    0280102801
+DREW MAYNARD RD                                             0280002800
+DRY BRANCH RD                                               0280002800
+DUMP RD                                                     0280002800
+DUNCAN CEMETERY RD                                          0280002800
+DYCUS RD                                                    0280002800
+DYCUSBURG CEMETERY RD                                       0280002800
+E BELLVILLE ST                                              0280102801
+E CARLISLE ST                                               0280102801
+E CENTRAL AVE                                               0280102801
+E CRUCE LN                                                  0280102801
+E DEPOT ST                                                  0280102801
+E ELM ST                                                    0280102801
+E GUM ST                                                    0280102801
+E MOUND PARK AVE                                            0280102801
+E TOWN FERRY RD                                             0280002800
+EAGLE EYE LN                                                0280002800
+EAGLE MINE RD                                               0280002800
+EARL ARFLACK RD                                             0280002800
+EARL HURST RD                                               0280002800
+EARL PATMOR RD                                              0280002800
+EASLEY RD                                                   0280002800
+ECHO VALLEY RD                                              0280002800
+ELBERT KIRK RD                                              0280002800
+ELEMENTARY CIR                                              0280002800
+EMERY STEVENS RD                                            0280002800
+EMMAUS CHURCH RD                                            0280002800
+EMMAUS CHURCH SPUR RD                                       0280002800
+ENON CHURCH RD                                              0280002800
+FALCON DR                                                   0280002800
+FIELD WAY                                                   0280002800
+FINCH LN                                                    0280002800
+FISHTRAP RD                                                 0280002800
+FLANNERY RD                                                 0280002800
+FLOYD TURLEY RD                                             0280002800
+FORDS FERRY RD                                              0280002800
+FORDS FERRY RD                                              0280102801
+FOREST GROVE RD                                             0280002800
+FOWLER RD                                                   0280002800
+FRANCES RD                                                  0280002800
+FRANK BELT RD                                               0280002800
+FRANK HILL RD                                               0280002800
+FRANKLIN MINE RD                                            0280002800
+FRAZER RD                                                   0280002800
+FREEDOM CHURCH RD                                           0280002800
+FRITTS RD                                                   0280002800
+FRITZ LN                                                    0280002800
+G O WELDON RD                                               0280002800
+GARDNER LN                                                  0280002800
+GENE SIMPSON RD                                             0280002800
+GLENDALE CHURCH RD                                          0280002800
+GORMAN POND RD                                              0280002800
+GORMAN RIDGE RD                                             0280002800
+GREENWELL LN                                                0280002800
+GREGORY LN                                                  0280002800
+GREGORY RD                                                  0280002800
+GUESS DR                                                    0280102801
+GUESS RD                                                    0280002800
+GUGGENHEIM RD                                               0280002800
+GUM CREEK RD                                                0280002800
+GUTHREY BROWNING RD                                         0280002800
+GUY HODGE RD                                                0280002800
+GUY THURMOND RD                                             0280002800
+HARMON DR                                                   0280102801
+HARRIS RD                                                   0280002800
+HARRISON HOLLOW RD                                          0280002800
+HART ST                                                     0280102801
+HASTING LN                                                  0280002800
+HAWK LN                                                     0280102801
+HEBRON CHURCH RD                                            0280002800
+HENRY RD                                                    0280002800
+HERMAN TRAVIS RD                                            0280002800
+HICKORY HILLS AVE                                           0280102801
+HICKORY VALLEY RD                                           0280002800
+HIGGINS RD                                                  0280002800
+HIGH RD                                                     0280002800
+HIGHLAND CIR                                                0280102801
+HILLCREST DR                                                0280102801
+HILLSIDE DR                                                 0280002800
+HILLTOP DR                                                  0280002800
+HOLLEY MINES RD                                             0280002800
+HOOD QUARRY RD                                              0280002800
+HOODS CEMETERY RD                                           0280002800
+HOOTEN RD                                                   0280002800
+HOOVER SPUR RD                                              0280002800
+HOWERTON RD                                                 0280002800
+HUGHES RD                                                   0280002800
+HUMPHREY LN                                                 0280002800
+HUNT RD                                                     0280002800
+HURRICANE CHURCH RD                                         0280002800
+INDUSTRIAL DR                                               0280102801
+IRMA WHITE RD                                               0280002800
+J T MAY RD                                                  0280002800
+JACK CAMPBELL RD                                            0280002800
+JACK DODSON RD                                              0280002800
+JACKSON SCHOOL RD                                           0280002800
+JACKSON ST                                                  0280102801
+JAMES CONGER RD                                             0280002800
+JARVIS ST                                                   0280102801
+JEFF CLEMENTS RD                                            0280002800
+JENT NUNN RD                                                0280002800
+JESSIE GOBIN RD                                             0280002800
+JIM FRED MILLS DR                                           0280102801
+JIMMIE STALLIONS RD                                         0280002800
+JOHN TRAVIS RD                                              0280002800
+JOYCE RD                                                    0280002800
+JP HOWERTON RD                                              0280002800
+JUST A MERE RD                                              0280002800
+KEELING ST                                                  0280102801
+KEMPER RD                                                   0280002800
+KEN SPAR RD                                                 0280002800
+KENNEDY SPRINGS RD                                          0280002800
+KEVIL ST                                                    0280102801
+KIRK BLUFF NORTH RD                                         0280002800
+KIRK BLUFF SOUTH RD                                         0280002800
+KITTY KING RD                                               0280002800
+KY1077                                                      0280002800
+KY120                                                       0280002800
+KY132                                                       0280002800
+KY135                                                       0280002800
+KY139                                                       0280002800
+KY1668                                                      0280002800
+KY1901                                                      0280002800
+KY1917                                                      0280002800
+KY2123                                                      0280002800
+KY2132                                                      0280002800
+KY295                                                       0280002800
+KY297                                                       0280002800
+KY365                                                       0280002800
+KY387                                                       0280002800
+KY506                                                       0280002800
+KY654 N                                                     0280002800
+KY654 S                                                     0280002800
+KY70                                                        0280002800
+KY723 N                                                     0280002800
+KY723 S                                                     0280002800
+KY838 W                                                     0280002800
+KY855 N                                                     0280002800
+KY855 S                                                     0280002800
+KY902                                                       0280002800
+KY91                                                        0280102801
+KY91 N                                                      0280002800
+KY91 N                                                      0280102801
+LAFAYETTE HEIGHTS                                           0280002800
+LAKE GEORGE DR                                              0280002800
+LAKE LN                                                     0280002800
+LAKEVIEW DR                                                 0280002800
+LANE RD                                                     0280002800
+LARK LOOP                                                   0280002800
+LARPING SPRING RD                                           0280002800
+LELAND AVE                                                  0280102801
+LELAND CT                                                   0280102801
+LESTER RD                                                   0280002800
+LEVIAS RD                                                   0280002800
+LEVIAS RIDGE RD                                             0280002800
+LEWIS CROFT RD                                              0280002800
+LEWIS ST                                                    0280102801
+LILLY DALE RD                                               0280002800
+LINDA KAY LN                                                0280002800
+LITTLE ACRES RD                                             0280002800
+LIVINGSTON HILLS RD                                         0280002800
+LLOYD RD                                                    0280002800
+LONE STAR RD                                                0280002800
+LONG BRANCH RD                                              0280002800
+LOOP RD                                                     0280002800
+LOVE CEMETERY RD                                            0280002800
+LOW WATER RD                                                0280002800
+LOWER PARK DR                                               0280102801
+LOYD WILLIAMS RD                                            0280002800
+LUCK ST                                                     0280102801
+LYNN RD                                                     0280002800
+M A TRUITT RD                                               0280002800
+M A TRUITT ROAD EXT                                         0280002800
+MAIN LAKE RD                                                0280002800
+MAPLEVIEW LN                                                0280102801
+MARCH OLIVER RD                                             0280002800
+MARION RD                                                   0280002800
+MARKHAM LN                                                  0280002800
+MARVEL ST                                                   0280102801
+MATOON LOOP                                                 0280002800
+MATTHEW CEMETERY RD                                         0280002800
+MAXWELL ST                                                  0280102801
+MAYNARD RD                                                  0280002800
+MCMICAN RD                                                  0280002800
+MEADOW CREEK RD                                             0280002800
+MEADOW DR                                                   0280102801
+MELTON RD                                                   0280002800
+MEXICO CEMETERY RD                                          0280002800
+MEXICO RD                                                   0280002800
+MIDWAY RD                                                   0280002800
+MILL RD                                                     0280002800
+MILL RD                                                     0280102801
+MILLIE PEEK RD                                              0280002800
+MOCKINGBIRD LN                                              0280102801
+MONROE BUTLER RD                                            0280002800
+MONROE HARRIS RD                                            0280002800
+MONROE WESMOLAND RD                                         0280002800
+MOORE SPRINGS RD                                            0280002800
+MOORE ST                                                    0280002800
+MOORE ST                                                    0280102801
+MORNINGSIDE DR                                              0280102801
+MT ZION CHURCH RD                                           0280002800
+N CLAY ST                                                   0280102801
+N COLLEGE ST                                                0280102801
+N MAIN ST                                                   0280102801
+N MAPLE ST                                                  0280102801
+N WALKER ST                                                 0280102801
+N WELDON ST                                                 0280002800
+N WELDON ST                                                 0280102801
+N YANDELL ST                                                0280102801
+NELSON RD                                                   0280002800
+NESBITT HOLLOW RD                                           0280002800
+NEW HICKORY ST                                              0280102801
+NEW SALEM RD                                                0280002800
+NEW UNION CHURCH RD                                         0280002800
+NICHOLS AVE                                                 0280102801
+NIPPER RD                                                   0280002800
+NORMAN RD                                                   0280002800
+NUNN SWITCH RD                                              0280002800
+O B MCDANIELS RD                                            0280002800
+O'NEAL HOLLOW RD                                            0280002800
+OAK HILL DR                                                 0280102801
+OAK RD                                                      0280002800
+OAK ST                                                      0280102801
+OAKLEY AVE                                                  0280002800
+OLD DAM NO50 LOOP                                           0280002800
+OLD FORDS FERRY RD                                          0280002800
+OLD JIM MINES RD                                            0280002800
+OLD MORGANFIELD RD                                          0280002800
+OLD MORGANFIELD RD                                          0280102801
+OLD PINEY RD                                                0280102801
+OLD SALEM RD                                                0280102801
+OLD SHADY GROVE RD                                          0280102801
+OLIVE BRANCH CEMETERY RD                                    0280002800
+OLLIE PEEK RD                                               0280002800
+ORB TAYLOR RD                                               0280002800
+ORCHARD ST                                                  0280002800
+ORIOLE DR                                                   0280102801
+OWENS RD                                                    0280002800
+OWENS ROAD SPUR                                             0280002800
+PADDY'S BLUFF RD                                            0280002800
+PANTHER HOLLOW RD                                           0280002800
+PARIS CEMETERY RD                                           0280002800
+PENN DR                                                     0280002800
+PERRYMAN RD                                                 0280002800
+PHIN CROFT RD                                               0280002800
+PICKERING HILL RD                                           0280002800
+PIERCE ST                                                   0280102801
+PIGEON DR                                                   0280002800
+PILOT'S KNOB CEMETERY RD                                    0280002800
+PINE ST                                                     0280102801
+PINEY CEMETERY RD                                           0280002800
+PINEY FORK SCHOOL RD                                        0280002800
+PLEASANT GROVE RD                                           0280002800
+PLEASANT HILL RD                                            0280002800
+POLK DR                                                     0280002800
+POLK HILL RD                                                0280002800
+POND RD                                                     0280002800
+POPLAR ST                                                   0280102801
+PORTER RD                                                   0280002800
+PROVIDENCE RD                                               0280002800
+QUAIL HILL RD                                               0280002800
+QUAIL LN                                                    0280002800
+QUARRY RD                                                   0280002800
+QUEEN CT                                                    0280102801
+RABBIT RUN RD                                               0280002800
+RAILEY RD                                                   0280002800
+RAILROAD AVE                                                0280002800
+RAY LN                                                      0280002800
+RAY PEEK RD                                                 0280002800
+RED RD                                                      0280002800
+REDBIRD CT                                                  0280102801
+REITERS VIEW RD                                             0280002800
+REPTON CEMETERY RD                                          0280002800
+RIDGE RD                                                    0280002800
+RIVER DR                                                    0280002800
+ROBERT CONNER RD                                            0280002800
+ROBERTS RD                                                  0280002800
+ROBERTSON RD                                                0280002800
+ROCHESTER AVE                                               0280102801
+ROE WAFFORD RD                                              0280002800
+ROOSTER LN                                                  0280002800
+ROSE BUD HILL RD                                            0280002800
+ROSEBUD CHURCH RD                                           0280002800
+ROY STINNETT RD                                             0280002800
+RUDD ST                                                     0280102801
+RUDOLPH CHANDLER RD                                         0280002800
+RUNYAN RD                                                   0280002800
+RUSHINGS COVE                                               0280002800
+RUSSELL JONES RD                                            0280002800
+S CLAY ST                                                   0280102801
+S COLLEGE ST                                                0280102801
+S MAIN ST                                                   0280102801
+S RAILEY RD                                                 0280002800
+S WALKER ST                                                 0280102801
+S WELDON ST                                                 0280102801
+S YANDELL ST                                                0280102801
+SADIE MORGAN RD                                             0280002800
+SCHOOL AVE                                                  0280002800
+SCHOOL ST                                                   0280102801
+SEELEY LN                                                   0280102801
+SEVEN SPRINGS CHURCH RD                                     0280002800
+SHADY GROVE LN                                              0280002800
+SHADY LN                                                    0280102801
+SIDNEY MCNEELEY RD                                          0280002800
+SILICA POND RD                                              0280102801
+SILOEM CHURCH RD                                            0280002800
+SIMENS LN                                                   0280002800
+SIMPSON LN                                                  0280002800
+SISCO CEMETERY RD                                           0280002800
+SPRING ST                                                   0280002800
+STALLION DR                                                 0280002800
+STALLIONS INGRAM RD                                         0280002800
+STARLING LN                                                 0280002800
+STEVENS DR                                                  0280002800
+STINNETT RD                                                 0280002800
+STONE RD                                                    0280002800
+STURGIS RD                                                  0280102801
+SUGAR GROVE CHURCH RD                                       0280002800
+SULPHUR SPRINGS CEMETERY RD                                 0280002800
+SUMMERS MINE RD                                             0280002800
+SUMMIT DR                                                   0280102801
+SUNSET DR                                                   0280102801
+TABOR RD                                                    0280002800
+TANGLEWOOD DR                                               0280102801
+TEMPLETON RD                                                0280002800
+TERRACE DR                                                  0280102801
+TODD ALY                                                    0280002800
+TOM GREEN RD                                                0280002800
+TOM HILL RD                                                 0280002800
+TOM JOHNSON RD                                              0280002800
+TOM MINNER RD                                               0280002800
+TOSH CEMETERY RD                                            0280002800
+TOWERY RD                                                   0280002800
+TRADEWATER BOTTOMS RD                                       0280002800
+TRADEWATER SOUTH RD                                         0280002800
+TRADEWATER VALLEY RD                                        0280002800
+TRAVIS CEMETERY RD                                          0280002800
+TRAVIS ST                                                   0280102801
+TRIBUNE TOWER RD                                            0280002800
+TRUITT RD                                                   0280002800
+TRUMAN HIGHFIL RD                                           0280002800
+TURKEY KNOB RD                                              0280002800
+TWIN LAKES DR                                               0280002800
+TYNER RD                                                    0280002800
+TYNERS CHAPEL RD                                            0280002800
+UNDERDOWN CEMETERY RD                                       0280002800
+UNDERDOWN CEMETERY SPUR                                     0280002800
+US60 E                                                      0280002800
+US60 W                                                      0280002800
+US641                                                       0280002800
+VALLEY RD                                                   0280002800
+VIEW RD                                                     0280002800
+W BELLVILLE ST                                              0280102801
+W CARLISLE ST                                               0280102801
+W CENTRAL AVE                                               0280102801
+W CRUCE LN                                                  0280102801
+W DEPOT ST                                                  0280102801
+W E NEWCOM RD                                               0280002800
+W ELM ST                                                    0280102801
+W GUM ST                                                    0280102801
+W MOUND PARK AVE                                            0280102801
+WALKER LN                                                   0280002800
+WALNUT ST                                                   0280002800
+WALNUT ST                                                   0280102801
+WATER ST                                                    0280002800
+WATSON CEMETERY RD                                          0280002800
+WATSON ST                                                   0280102801
+WELDON RD                                                   0280002800
+WESTON CEMETERY RD                                          0280002800
+WESTON RD                                                   0280002800
+WHIPPORWILL DR                                              0280002800
+WHIPPORWILL DR                                              0280102801
+WHITE RD                                                    0280002800
+WIGGINGTON RD                                               0280002800
+WILLARD EASLEY RD                                           0280002800
+WILLIAM CURNEL RD                                           0280002800
+WILLIAMSON RD                                               0280002800
+WILSON DR                                                   0280002800
+WILSON DR                                                   0280102801
+WILSON FARM RD                                              0280002800
+WINLOW BRANCH RD                                            0280002800
+WOLF CREEK RD                                               0280002800
+WORKMAN RD                                                  0280002800
+WRING GRIMES RD                                             0280002800
+YANDELL MINES RD                                            0280002800
+YODER RD                                                    0280002800
+YOUTH CAMP RD                                               0280002800
+ZION CEMETERY RD                                            0280002800

@@ -1,0 +1,407 @@
+ADMINISTRATION RD                                           0040000400
+ALBERT HOOK RD                                              0040000400
+ALLEN LN                                                    0040000400
+ALLEN ST                                                    0040000400
+AMY LYNN DR                                                 0040000400
+ANTIOCH CHURCH RD                                           0040000400
+APPERSON RD                                                 0040400404
+ARMSTRONG LN                                                0040000400
+ASPEN AVE                                                   0040300403
+BABB LN                                                     0040000400
+BALL PARK LN                                                0040000400
+BALLARD COUNTY HIGH SCHOOL RD                               0040000400
+BALLARD LN                                                  0040000400
+BALLARD ST                                                  0040000400
+BALLARD TER                                                 0040200402
+BANDANA RD                                                  0040000400
+BARLOW RD                                                   0040000400
+BATTS RD                                                    0040000400
+BAULCKIM LN                                                 0040000400
+BEECH GROVE RD                                              0040000400
+BEECH GROVE RD                                              0040100401
+BEECHWOOD ST                                                0040300403
+BELL LN                                                     0040000400
+BENO LN                                                     0040000400
+BERRY LN                                                    0040000400
+BERTHA FREEMAN RD                                           0040000400
+BETHEL CHURCH RD                                            0040000400
+BETHLEHEM CHURCH RD                                         0040000400
+BILL HOLT RD                                                0040000400
+BILL MOORE RD                                               0040000400
+BILLS CORNER LN                                             0040000400
+BISCAYNE DR                                                 0040300403
+BLANDVILLE RD                                               0040000400
+BLANDVILLE RD                                               0040300403
+BLANDVILLE RD                                               0040600406
+BOB LN                                                      0040000400
+BOBBY HOOK LN                                               0040000400
+BOHANANS LN                                                 0040000400
+BONDRANT RD                                                 0040000400
+BONDURANT RD                                                0040000400
+BOONE CROSSING DRIVE PVT                                    0040000400
+BORDEN RD                                                   0040000400
+BOULTON LN                                                  0040000400
+BRADFORD RD                                                 0040000400
+BRITTON DR                                                  0040000400
+BROADWAY                                                    0040100401
+BROADWAY                                                    0040200402
+BROADWAY                                                    0040300403
+BROOKING RD                                                 0040000400
+BROOKS LN                                                   0040000400
+BRYAN AVE                                                   0040400404
+BRYANT DR                                                   0040200402
+BRYON AVE                                                   0040400404
+BUCHANAN RD                                                 0040000400
+BUCK RD                                                     0040000400
+C HOLT LN                                                   0040000400
+C R LANIER RD                                               0040000400
+CACHE ISLAND LN                                             0040000400
+CAIRO RD                                                    0040000400
+CANE CREEK CIR                                              0040000400
+CANE CREEK CIRCLE SPUR                                      0040000400
+CASE RD                                                     0040100401
+CASSANDRA BLVD                                              0040000400
+CEDAR ST                                                    0040300403
+CELLA LN                                                    0040000400
+CEMETERY HILL RD                                            0040100401
+CEREDO RD                                                   0040000400
+CHARLES AVE                                                 0040000400
+CHARLES LN                                                  0040000400
+CHESTNUT ST                                                 0040300403
+CHILDRESS RD                                                0040000400
+CHURCH ST                                                   0040200402
+CIRCLE DR                                                   0040200402
+CLAY ST                                                     0040200402
+CLYDE ELROD AVE                                             0040400404
+COLLEGE DR                                                  0040000400
+COLLEGE TER                                                 0040200402
+COLONY HOUSE DR                                             0040200402
+COLVIN LAKE RD                                              0040000400
+COONTRAIL RD                                                0040000400
+COOPERFEILD LN                                              0040000400
+COUNTRY CLUB EST                                            0040000400
+COUNTY FARM RD                                              0040000400
+COUNTY LINE RD                                              0040000400
+COURT ST                                                    0040100401
+CREWS RD                                                    0040000400
+CRISWELL RD                                                 0040000400
+CROSSETT RD                                                 0040000400
+CROSSOVER                                                   0040100401
+CRYSTAL LAKE RD                                             0040000400
+CUMBERLAND ST                                               0040100401
+CUNNINGHAM RD                                               0040000400
+CURTIS RD                                                   0040000400
+CYPRESS LN                                                  0040300403
+DAVIS RD                                                    0040000400
+DEERFIELD RD                                                0040000400
+DENNIS LN                                                   0040000400
+DOWDY HL                                                    0040000400
+DR DUNBAR LN                                                0040100401
+DYNAMITE RD                                                 0040000400
+E 1ST ST                                                    0040300403
+E 2ND ST                                                    0040300403
+E 3RD ST                                                    0040300403
+E 4TH ST                                                    0040000400
+E 4TH ST                                                    0040300403
+E 5TH ST                                                    0040300403
+E 6TH ST                                                    0040300403
+E BLANKS RD                                                 0040000400
+E CAIRO RD                                                  0040000400
+E CLARKLINE RD                                              0040000400
+E JOHNSON DR                                                0040000400
+E KENTUCKY DR                                               0040300403
+E WALNUT ST                                                 0040000400
+EAGLE RD                                                    0040000400
+EARNEST LN                                                  0040000400
+ED SMITH RD                                                 0040000400
+EDWARDS RD                                                  0040000400
+ELM LN                                                      0040000400
+ENTRANCE RD                                                 0040000400
+FARMER ST                                                   0040200402
+FERREN LANDING RD                                           0040000400
+FISHLAKE RD                                                 0040000400
+FLOURNOY RD                                                 0040000400
+FONDAW RD                                                   0040000400
+FOREST ST                                                   0040300403
+FRASER RD                                                   0040000400
+FREDRICK LN                                                 0040100401
+FREEDOM BLVD                                                0040000400
+FREEDOM BLVD                                                0040400404
+FREEMAN RD                                                  0040000400
+GAGE RD                                                     0040000400
+GAGE RD                                                     0040400404
+GEVEDEN DR                                                  0040000400
+GIBSON RD                                                   0040000400
+GOBEL AVE                                                   0040400404
+GOOSE HAVEN LN                                              0040000400
+GORDON LN                                                   0040000400
+GRAHAM AVE                                                  0040400404
+GRAVEL PIT DR                                               0040100401
+GRAVES LN                                                   0040000400
+GRAY RD                                                     0040000400
+GREEN ST                                                    0040100401
+GREENLAWN AVE                                               0040200402
+GRIFFIN ST                                                  0040300403
+GUM CORNER RD                                               0040000400
+HAMBURG RD                                                  0040000400
+HAMILTON RD                                                 0040000400
+HANCOCK RD                                                  0040000400
+HARRIS LN                                                   0040000400
+HARTMAN LN                                                  0040000400
+HAZELWOOD RD                                                0040000400
+HENRY RD                                                    0040000400
+HERSHEL JONES RD                                            0040000400
+HESTER SULLIVAN LN                                          0040000400
+HICKORY ST                                                  0040300403
+HINKLEVILLE RD                                              0040000400
+HINKLEVILLE RD                                              0040300403
+HODGE RD                                                    0040000400
+HOLLOWAY LANDING RD                                         0040000400
+HOLLOWAY LANDING RD                                         0040200402
+HOOK RD                                                     0040000400
+HOUSE RD                                                    0040000400
+HUGHES RD                                                   0040000400
+ILLINOIS ST                                                 0040100401
+IMPALA DR                                                   0040300403
+INDUSTRIAL AVE                                              0040100401
+INGLESIDE RD                                                0040000400
+J PACE RD                                                   0040000400
+JACK ROSS LN                                                0040000400
+JIM IRELAND RD                                              0040000400
+JOHNSON DR                                                  0040400404
+JOHNSON RD                                                  0040000400
+JONES RD                                                    0040000400
+JONI LN                                                     0040000400
+JOPPA LANDING RD                                            0040000400
+K C DUNN RD                                                 0040000400
+K THOMAS LN                                                 0040000400
+KANIPE RD                                                   0040000400
+KELLY BRANCH RD                                             0040000400
+KENDELL THOMAS CUTOFF                                       0040000400
+KENDELL THOMAS LN                                           0040000400
+KENTUCKY AVE                                                0040000400
+KENTUCKY AVE                                                0040400404
+KENWOOD DR                                                  0040300403
+KEVIL RD                                                    0040000400
+KING RD                                                     0040000400
+KNIGHT RD                                                   0040000400
+LA CENTER RD                                                0040000400
+LAKE DR                                                     0040200402
+LAP ROLLINGS RD                                             0040000400
+LARRY LN                                                    0040000400
+LEASETOWN RD                                                0040000400
+LEE ST                                                      0040100401
+LEIGH LN                                                    0040000400
+LIBERTY DR                                                  0040000400
+LIBERTY RD                                                  0040000400
+LIBERTY ST                                                  0040200402
+LINDA CIR                                                   0040100401
+LISA DR                                                     0040100401
+LOCUST ST                                                   0040300403
+LOT ST                                                      0040100401
+LOVELACEVILLE CEMETERY LN                                   0040000400
+LOVELACEVILLE RD                                            0040000400
+MALIBU DR                                                   0040300403
+MALLOY LN                                                   0040000400
+MAPLE ST                                                    0040300403
+MARROW RD                                                   0040000400
+MARTIN RD                                                   0040000400
+MARVIN RD                                                   0040000400
+MATTIE DR                                                   0040100401
+MAYFIELD RD                                                 0040000400
+MAYNOR LN                                                   0040000400
+MAYO LN                                                     0040000400
+MAYOLO AVE                                                  0040000400
+MCCAULEY LN                                                 0040000400
+MEMORIAL DR                                                 0040000400
+MEYERS RD                                                   0040000400
+MICHAEL ST                                                  0040000400
+MILL ST                                                     0040200402
+MILLER RD                                                   0040000400
+MILLS ST                                                    0040000400
+MISSOURI ST                                                 0040100401
+MITCHEL LAKE DR                                             0040000400
+MITCHELL LAKE RD                                            0040000400
+MONKEY EYEBROW RD                                           0040000400
+MONROE DR                                                   0040000400
+MONROE ST                                                   0040200402
+MOORE RD                                                    0040000400
+MORNING MEADOWS LN                                          0040000400
+MORRIS TER                                                  0040200402
+MOSS RD                                                     0040000400
+MOSSTOWN RD                                                 0040000400
+MOUND ST                                                    0040000400
+MT PLEASANT RD                                              0040000400
+MYERS RD                                                    0040000400
+N 1ST ST                                                    0040100401
+N 1ST ST                                                    0040200402
+N 1ST ST                                                    0040400404
+N 2ND ST                                                    0040100401
+N 2ND ST                                                    0040200402
+N 3RD ST                                                    0040100401
+N 3RD ST                                                    0040200402
+N 4TH ST                                                    0040100401
+N 4TH ST                                                    0040200402
+N 5TH ST                                                    0040100401
+N 5TH ST                                                    0040200402
+N 6TH ST                                                    0040100401
+N 6TH ST                                                    0040200402
+N 7TH ST                                                    0040100401
+N 7TH ST                                                    0040200402
+N 8TH ST                                                    0040100401
+N 9TH ST                                                    0040100401
+N 9TH ST                                                    0040200402
+N ADKINS DIXON RD                                           0040000400
+N BALLARD CHURCH RD                                         0040000400
+N BROADWAY                                                  0040000400
+N FUQUA RD                                                  0040000400
+N GARRETT RD                                                0040000400
+N KIRKMAN RD                                                0040000400
+N RUDOLPH RD                                                0040000400
+N UNION ST                                                  0040000400
+NEEDMORE RD                                                 0040000400
+NEW HOPE CHURCH RD                                          0040000400
+NEW LIBERTY CHURCH RD                                       0040000400
+NEW LIBERTY CHURCH RD                                       0040400400
+NEW YORK RD                                                 0040000400
+NEW YORK RD                                                 0040600406
+NON UNION GATE RD                                           0040000400
+NUCKOLLS AVE                                                0040400404
+OAK GROVE CHURCH RD                                         0040000400
+OAK ST                                                      0040300403
+OGDEN COLVIN CIR                                            0040000400
+OGDEN LANDING RD                                            0040000400
+OHIO ST                                                     0040100401
+OLDHAM RD                                                   0040000400
+OLIVE ST                                                    0040300403
+ORCHARD ST                                                  0040000400
+OSCAR RD                                                    0040000400
+OSCAR RD                                                    0040200402
+OWEN DR                                                     0040000400
+PACE LN                                                     0040000400
+PADUCAH RD                                                  0040000400
+PADUCAH RD                                                  0040200402
+PALMORE LN                                                  0040000400
+PARK AVE                                                    0040200402
+PARKVIEW DR                                                 0040300403
+PAT HARRIS RD                                               0040000400
+PEPPER DR                                                   0040600406
+PEYTON RD                                                   0040000400
+PHELPS RD                                                   0040000400
+PHELPS RD                                                   0730000400
+PHILLIPS DR                                                 0040100401
+PIGEON ST                                                   0040600406
+PIN OAK LN                                                  0040000400
+PINE LN                                                     0040000400
+PINE ST                                                     0040300403
+POGUE ST                                                    0040200402
+POWELL RD                                                   0040000400
+PURCELL RD                                                  0040000400
+RACE TRACK LN                                               0040000400
+RANDY WILLIAMS LN                                           0040000400
+RAYMOND RD                                                  0040000400
+REDFERN LN                                                  0040000400
+REFUGE RD                                                   0040000400
+REID RD                                                     0040000400
+RICHARD BURNLEY AVE                                         0040000400
+RICHARD BURNLEY AVE                                         0040400404
+RICHARDSON LN                                               0040000400
+RIVER CIR                                                   0040000400
+RIVER CIR                                                   0040100401
+RIVER DR                                                    0040100401
+ROBERTSON DR                                                0040200402
+ROBEY RD                                                    0040000400
+ROETTGER DR                                                 0040000400
+ROSS CROSSING RD                                            0040000400
+S 10TH ST                                                   0040100401
+S 1ST ST                                                    0040000400
+S 1ST ST                                                    0040200402
+S 1ST ST                                                    0040400404
+S 2ND ST                                                    0040200402
+S 4TH ST                                                    0040100401
+S 4TH ST                                                    0040200402
+S 5TH ST                                                    0040100401
+S 5TH ST                                                    0040200402
+S 6TH ST                                                    0040000400
+S 6TH ST                                                    0040100401
+S 6TH ST                                                    0040200402
+S 7TH ST                                                    0040100401
+S 7TH ST                                                    0040200402
+S 8TH ST                                                    0040200402
+S 9TH ST                                                    0040100401
+S ADKINS DIXON RD                                           0040000400
+S BROADWAY                                                  0040000400
+S FUQUA RD                                                  0040000400
+S GARRETT RD                                                0040000400
+S KIRKMAN RD                                                0040000400
+S MAPLE TER                                                 0040200402
+S RUDOLPH RD                                                0040000400
+S UNION ST                                                  0040000400
+SALLIE CRICE RD                                             0040000400
+SARA LN                                                     0040000400
+SCOTT LN                                                    0040000400
+SHARP LN                                                    0040000400
+SHELBY RD                                                   0040000400
+SHEPPARD LN                                                 0040000400
+SHEPPARD RD                                                 0040000400
+SHORT ST                                                    0040200402
+SLATER RD                                                   0040000400
+SMOKEY RD                                                   0040000400
+SPRING ST                                                   0040600406
+STAFFORD RD                                                 0040000400
+STAHL RD                                                    0040000400
+STEEL RD                                                    0040000400
+STEVE DENTON RD                                             0040000400
+STEVENS ST                                                  0040000400
+STEWART RD                                                  0040000400
+STONE CORNER RD                                             0040000400
+STOUGH LN                                                   0040000400
+SUMMERS LN                                                  0040000400
+SUNSET CT                                                   0040300403
+SWAN LAKE RD                                                0040000400
+SWAN LAKE ROAD CIR                                          0040000400
+TABOR RD                                                    0040000400
+TENNESSEE ST                                                0040100401
+TERRELL RD                                                  0040000400
+THREE OAKS LN                                               0040000400
+THROGMORTON RD                                              0040000400
+TOT WALDON DR                                               0040000400
+TURNER LANDING RD                                           0040000400
+TURNER LN                                                   0040000400
+UNION CONSTRUCTION GATE RD                                  0040000400
+UPSHAW LN                                                   0040000400
+US51                                                        0040100401
+VAUGHN RD                                                   0040000400
+VETERANS AVE                                                0040000400
+VFW                                                         0040000400
+VFW                                                         0040300403
+VFW RD                                                      0040000400
+VOCATIONAL SCHOOL RD                                        0040000400
+W 1ST ST                                                    0040300403
+W 2ND ST                                                    0040300403
+W 3RD ST                                                    0040300403
+W 4TH ST                                                    0040300403
+W 5TH ST                                                    0040300403
+W 6TH ST                                                    0040300403
+W BLANKS RD                                                 0040000400
+W CLARKLINE RD                                              0040000400
+W JOHNSON DR                                                0040000400
+W KENTUCKY DR                                               0040000400
+W KENTUCKY DR                                               0040300403
+W WALNUT ST                                                 0040000400
+WALL ST                                                     0040200402
+WALLACE AVE                                                 0040400404
+WALLACE RD                                                  0040000400
+WALNUT ST                                                   0040300403
+WAYSIDE INN RD                                              0040000400
+WESTVACO RD                                                 0040000400
+WICKLIFFE RD                                                0040000400
+WILDLIFE LODGE RD                                           0040000400
+WILLOW DR                                                   0040300403
+WILSON LN                                                   0040000400
+WISCONSIN ST                                                0040100401
+WOODLAND DR                                                 0040000400
+WOODVILLE RD                                                0040000400
+WREN RD                                                     0040000400
+WYATT AVE                                                   0040400404
+YATES LN                                                    0040000400

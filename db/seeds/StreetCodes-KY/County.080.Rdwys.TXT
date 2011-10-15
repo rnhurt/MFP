@@ -1,0 +1,444 @@
+2ND ST                                                      0800008000
+3RD ST                                                      0800008000
+A ST                                                        0800008000
+AARON ST                                                    0800008000
+ABB'S LN                                                    0800008000
+ABE CABIN FORK RD                                           0800008000
+AGNESS DR                                                   0800008000
+ALBERT PINSON RD                                            0800008000
+ALEXS PL                                                    0800008000
+ANDYS LN                                                    0800008000
+ARLEN LN                                                    0800108001
+ASHLOG BRANCH RD                                            0800008000
+AUDREY ST                                                   0800008000
+AYSCUE HOLW                                                 0800008000
+BABE DELONG RD                                              0800008000
+BAILEY RD                                                   0800008000
+BEAGLE DR                                                   0800008000
+BEATRICE LOOP                                               0800108001
+BERTHA HALE LN                                              0800008000
+BIG ANDY RD                                                 0800008000
+BIG BRANCH RD                                               0800008000
+BIG CROOKED RD                                              0800008000
+BIG ELK CHURCH                                              0800008000
+BIG LICK BRANCH RD                                          0800008000
+BIG MUD LICK RD                                             0800008000
+BIG PETER CAVE RD                                           0800008000
+BIG SANDY REGIONAL AIRPORT                                  0800008000
+BILL MAYNARD BRIDGE                                         0800008000
+BILL STEPP BR                                               0800008000
+BLACK SNAKE DR                                              0800008000
+BLACKBERRY RD                                               0800008000
+BLACKBURN LN                                                0800008000
+BLANCH GOBLE DR                                             0800008000
+BLEVINS LOOP                                                0800008000
+BOB HOLW                                                    0800008000
+BONE HOLLOW RD                                              0800008000
+BOONE BR                                                    0800008000
+BOOTH LN                                                    0800008000
+BOW TIE RD                                                  0800008000
+BOWENTOWN                                                   0800008000
+BOYD AND WARD RD                                            0800008000
+BRADLEY LN                                                  0800008000
+BRANDON PL                                                  0800008000
+BREWER ADKINS LN                                            0800008000
+BUCK BRANCH RD                                              0800008000
+BUD CLINE RD                                                0800008000
+C AND M RD                                                  0800008000
+CAIN PL                                                     0800108001
+CAKE LN                                                     0800008000
+CALF CREEK RD                                               0800008000
+CALLOWAY RD                                                 0800008000
+CAMP B RD                                                   0800008000
+CAMP BR                                                     0800008000
+CANE ST                                                     0800108001
+CANEY CEMETERY RD                                           0800008000
+CANEY FORK RD                                               0800008000
+CARDINAL ESTATE RD                                          0800008000
+CARLENE HUNT DR                                             0800008000
+CARLOS WEBB                                                 0800008000
+CARTER BR                                                   0800008000
+CASSADY AVE                                                 0800108001
+CASSIUS MOORE RD                                            0800008000
+CASTLE BR                                                   0800008000
+CASTLE BRANCH RD                                            0800008000
+CEDAR LN                                                    0800008000
+CEMETERY                                                    0800008000
+CHAFFIN EST                                                 0800008000
+CHAFFINS PLACE                                              0800008000
+CHAPMAN BTM                                                 0800008000
+CHAPMAN LN                                                  0800008000
+CHARLES LN                                                  0800008000
+CHARLIE BROWN RD                                            0800008000
+CHARLIE CLINE                                               0800008000
+CHARLIE MAYNARD RD                                          0800008000
+CLAY FORK                                                   0800008000
+CLAY MOORE                                                  0800008000
+CLINIC ACCESS RD                                            0800008000
+CLYDE DAVIS DR                                              0800008000
+CLYDE PERRY RD                                              0800008000
+COLD WATER RD                                               0800008000
+COLEMAN RD                                                  0800008000
+COLLIER RD                                                  0800008000
+COLLINS BRANCH RD                                           0800008000
+COLLINS CREEK RD                                            0800008000
+COLLINS CRK                                                 0800208002
+COLUMBUS PREECE RD                                          0800008000
+COOK DR                                                     0800008000
+COON BRANCH RD                                              0800008000
+COUNTY LINE RD                                              0800008000
+COURT ST                                                    0800108001
+CREEKWOOD EST                                               0800008000
+CROOKED RUN RD                                              0800008000
+CRUM BRANCH LEFT FORK RD                                    0800008000
+CRUM BRANCH OF TURKEY                                       0800008000
+CRUM BRANCH RIGHT FORK RD                                   0800008000
+CUMBO RD                                                    0800008000
+DANIELS RD                                                  0800008000
+DAVELLA                                                     0800008000
+DAVELLA RD                                                  0800008000
+DAVIS BRANCH MIDDLEFORK RD                                  0800008000
+DAVIS BRANCH RD                                             0800008000
+DEAN CASTLE BR                                              0800008000
+DEMPSY HOLLOW RD                                            0800008000
+DEMPSY HOUSING                                              0800008000
+DEMPSY HOUSING NO2                                          0800008000
+DEMPSY HOUSING NO3                                          0800008000
+DEMPSY HOUSING NO4                                          0800008000
+DEWEY JUDE RD                                               0800008000
+DICK FANNIN LN                                              0800008000
+DINGESS RD                                                  0800008000
+DOG POUND RD                                                0800008000
+DOGWOOD HTS                                                 0800008000
+DRY FORK LN                                                 0800008000
+DUTY BRANCH RD                                              0800008000
+DYE BTM                                                     0800008000
+ED EVANS BRIDGE                                             0800008000
+ED EVANS RD                                                 0800008000
+ED MOORE LN                                                 0800008000
+EDEN LN                                                     0800008000
+EDGAR SETSER DR                                             0800008000
+ELEMENTARY DR                                               0800008000
+ELI CRUM LN                                                 0800008000
+ELIZABETH CASSADY RD                                        0800008000
+EMILY RD                                                    0800008000
+ESTIL PENIX DR                                              0800008000
+EVANS HILL RD                                               0800008000
+EVANS PL                                                    0800008000
+EVERETT LN                                                  0800008000
+FANNY CLARK DR                                              0800008000
+FANNY CLARK RD                                              0800008000
+FERGESON ST                                                 0800008000
+FIREHOUSE LN                                                0800208002
+FLAT HOLW                                                   0800008000
+FLETCHER BR                                                 0800008000
+FLETCHER JUDE CEMETERY                                      0800008000
+FLOYD ST                                                    0800208002
+FLUTY LICK                                                  0800008000
+FORD PL                                                     0800008000
+FRALEY DR                                                   0800008000
+FRANCIS CT                                                  0800008000
+FROGPOND HOLW                                               0800008000
+GASOLINE ALY                                                0800008000
+GAUZE HOLW                                                  0800008000
+GAYLE CARTER RD                                             0800008000
+GEORGE MAYNARD BRIDGE                                       0800008000
+GLEN WEBB DR                                                0800008000
+GLENN RD                                                    0800008000
+GOLDEN RD                                                   0800008000
+GOLDEN ROD RD                                               0800008000
+GORDON HOLLOW RD                                            0800008000
+GORDON MAYNARD RD                                           0800008000
+GOSPEL LIGHT                                                0800008000
+GRACIE LN                                                   0800008000
+GREEN BOTTOMS                                               0800108001
+GROUNDHOG HOLLOW RD                                         0800208002
+GROUNDHOG RD                                                0800208002
+GUYTON RD                                                   0800008000
+H ALY                                                       0800008000
+HALE AVE                                                    0800008000
+HALLS BRANCH RD                                             0800008000
+HAMMOND LOOP                                                0800008000
+HAND MAUL                                                   0800008000
+HAPPY HOLW                                                  0800008000
+HARDINVILLE RD                                              0800008000
+HARRY HORN PL                                               0800008000
+HARVEY HORN DR                                              0800008000
+HARVEY LN                                                   0800008000
+HELEN MILLS RD                                              0800008000
+HICKMAN RD                                                  0800008000
+HILL TOP RD                                                 0800008000
+HILLCREST BRANCH RD                                         0800008000
+HILLCREST LN                                                0800008000
+HIMMERVILLE ST                                              0800008000
+HINKLE CEMETERY RD                                          0800008000
+HINKLE LOOP                                                 0800008000
+HINKLE VLY                                                  0800008000
+HOLLYBUSH RD                                                0800008000
+HOLTY RD                                                    0800008000
+HONEYBRANCH INDUSTRIAL PARK RD                              0800008000
+HORSE BRANCH RD                                             0800008000
+HOWARD DR                                                   0800008000
+HOWARD MAYNARD DR                                           0800008000
+HOWELL PL                                                   0800008000
+HOWELL ST                                                   0800208002
+HOWETT AVE                                                  0800008000
+HUCKLEBERRY RDG                                             0800008000
+HUNTERS LANE NO2                                            0800008000
+HUNTERS LN                                                  0800008000
+INEZ MIDDLE SCHOOL                                          0800108001
+INEZ WARFIELD RD                                            0800008000
+INEZ WARFIELD RD                                            0800208002
+IRVING DR                                                   0800008000
+IVORY LN                                                    0800008000
+JACK CASSIDY RD                                             0800008000
+JACK ENDICOTT                                               0800008000
+JACKIE WHITT RD                                             0800008000
+JAKES PL                                                    0800008000
+JAMES LN                                                    0800008000
+JARRELL BRANCH RD                                           0800008000
+JARRETT TRAILER PARK                                        0800008000
+JAY HINKLE DR                                               0800008000
+JAY HINKLE RD                                               0800008000
+JAYS LN                                                     0800008000
+JEFF JUDE RD                                                0800008000
+JOE BRANCH RD                                               0800008000
+JOE FLETCHER RD                                             0800008000
+JOHN C CASSIDY                                              0800008000
+JOHNNY MOLLETT RD                                           0800008000
+JOHNSONTOWN                                                 0800008000
+JONES FORK RD                                               0800008000
+JORDAN HOLW                                                 0800008000
+JOYCE LN                                                    0800008000
+JR OSENDOTT LN                                              0800008000
+JUDE HOLLOW RD                                              0800008000
+JUSTIN DR                                                   0800008000
+KED FLETCHER                                                0800008000
+KELL LN                                                     0800008000
+KENNEDY DR                                                  0800108001
+KENNETH JUDE BRIDGE                                         0800008000
+KENNEY DR                                                   0800008000
+KENNY DAVIS                                                 0800008000
+KIRK PL                                                     0800008000
+KIRK PLZ                                                    0800008000
+KY1224                                                      0800008000
+KY1439                                                      0800008000
+KY1714                                                      0800008000
+KY2031                                                      0800008000
+KY2032                                                      0800008000
+KY292                                                       0800008000
+KY3                                                         0800008000
+KY3                                                         0800108001
+KY3 S                                                       0800008000
+KY3411                                                      0800008000
+KY3412                                                      0800008000
+KY3413                                                      0800008000
+KY40                                                        0800008000
+KY40                                                        0800108001
+KY40                                                        0800208002
+KY645                                                       0800008000
+KY645 S                                                     0800008000
+LACKEY BRANCH RD                                            0800008000
+LAURA LN                                                    0800008000
+LEES WAY                                                    0800008000
+LEFT FORK CALF CREEK RD                                     0800008000
+LEFT FORK DAVIS BR                                          0800008000
+LEFT FORK OF NATHAN GOBLE RD                                0800008000
+LEFT FORK VENTERS BR                                        0800008000
+LEON BUSKIRK                                                0800008000
+LEWIS PRESTON RD                                            0800008000
+LICK BRANCH RD                                              0800008000
+LICK BRANCH TURKEY CREEK RD                                 0800008000
+LISA PARSLEY BRIDGE                                         0800008000
+LITTLE BILL MAYNARD RD                                      0800008000
+LITTLE BLACKLOG RD                                          0800008000
+LITTLE ELK OF HODE                                          0800008000
+LITTLE LAUREL CRK                                           0800008000
+LITTLE LICK BRANCH RD                                       0800008000
+LITTLE MUD LICK RD                                          0800008000
+LITTLE PETER CAVE RD                                        0800008000
+LOCUST CT                                                   0800008000
+LONG BRANCH RD                                              0800008000
+LOWER CARTER BR                                             0800008000
+LOWER MOORE CEMETERY                                        0800008000
+LOWER POPALAR FORK RD                                       0800008000
+LOWER SALTWELL                                              0800008000
+LOWER WOLF BR                                               0800008000
+LUSTER LN                                                   0800008000
+MAC PINSON DR                                               0800008000
+MAIN ALPHA BR                                               0800008000
+MANSION HL                                                  0800008000
+MAPLE DR                                                    0800008000
+MARCUMTOWN                                                  0800008000
+MARTIN COUNTY LAKE RD                                       0800008000
+MARY DR                                                     0800008000
+MARY ELLEN LN                                               0800008000
+MAUDE RD                                                    0800108001
+MAYNARD CEMETERY RD                                         0800208002
+MAYNARD DR                                                  0800008000
+MAYNARD LN                                                  0800008000
+MCCOY DR                                                    0800008000
+MCGINNIS BRANCH RD                                          0800008000
+MCGINNIS CEMETERY                                           0800008000
+MCGINNIS LN                                                 0800008000
+MCGINNIS RD                                                 0800008000
+MEADOW LARK LN                                              0800008000
+MEADOWS LN                                                  0800008000
+MEGAN LN                                                    0800008000
+MELVAN RD                                                   0800008000
+MIDDLE FORK OF WOLF CREEK RD                                0800008000
+MIDDLE FORK OF WOLF RD                                      0800008000
+MILO RD                                                     0800008000
+MILO SUBDIVISION RD                                         0800008000
+MOLLETT BR                                                  0800008000
+MONTGOMERY LN                                               0800008000
+MOORE BRANCH RD                                             0800008000
+MT STERLING                                                 0800008000
+MUDFORD                                                     0800008000
+MUDLICK RD                                                  0800008000
+MULLET BRANCH RD                                            0800008000
+MUNCY RD                                                    0800008000
+MURPHYS LN                                                  0800008000
+MURRAY RD                                                   0800008000
+MUSIC LN                                                    0800008000
+NATHAN PL                                                   0800008000
+NEWBERRY LN                                                 0800108001
+NEWSOME RD                                                  0800008000
+NICHOLS ST                                                  0800108001
+NO2 KIRK PLZ                                                0800008000
+OAKIE DR                                                    0800008000
+OLD KY 3 RD                                                 0800008000
+OLE BLUE DR                                                 0800008000
+OLIVENE DR                                                  0800008000
+ORVILLE RD                                                  0800008000
+OSBORNETOWN RD                                              0800008000
+OTTO DR                                                     0800008000
+PARSONS BRANCH RD                                           0800008000
+PATRICK LN                                                  0800008000
+PAUL STEPP DR                                               0800008000
+PEMBERTON LN                                                0800008000
+PENIX DR                                                    0800108001
+PETER CAVE BRANCH OF MIDDLE FORK RD                         0800008000
+PETER CAVE BRANCH OF ROCKCASTLE RD                          0800008000
+PHILLIP COVE HOLW                                           0800008000
+PHOEBE TRACE RD                                             0800008000
+PIGEON ROOST                                                0800008000
+PILGRIM                                                     0800008000
+PINE TREE RD                                                0800008000
+PINE VW                                                     0800008000
+PLEASANT VLY                                                0800008000
+PONDEROSA DR                                                0800008000
+POPLAR THICKET RD                                           0800008000
+PREECE HILL RD                                              0800008000
+PREECE RD                                                   0800008000
+PRESTON BR                                                  0800008000
+PRESTON BR                                                  0800108001
+PRESTON LN                                                  0800008000
+RADIO TOWER RD                                              0800108001
+RALPH MOORE LN                                              0800008000
+RALPH WILLIAMS RD                                           0800008000
+RATLIFF TOWN RD                                             0800008000
+RAY MARCUM                                                  0800008000
+RAY MARCUM RD                                               0800008000
+RAYLEE LN                                                   0800008000
+REBECCA ST                                                  0800008000
+RED BUD RD                                                  0800008000
+RED OAK DR                                                  0800008000
+REDS TRAIL                                                  0800008000
+REPUBLICAN DR                                               0800008000
+RESERVOIR RD                                                0800008000
+RIGHT FORK                                                  0800008000
+RIGHT FORK OF LITTLE LAUREL CREEK                           0800008000
+RIGHT FORK OF LITTLE LICK RD                                0800008000
+RIGHT FORK OF MARKUM HALLOW RD                              0800008000
+RIGHT FORK OF WILLIAMS BRANCH RD                            0800008000
+RIGHT FORK SPUR OF LITTLE ELK RD                            0800008000
+RIVERSIDE APARTMENTS                                        0800008000
+ROBERTS RD                                                  0800008000
+ROBINSON SCOTT CEMETERY                                     0800008000
+ROBINSON TRAILER PARK                                       0800108001
+ROCKHOUSE MILLS RD                                          0800008000
+ROCKHOUSE RD                                                0800008000
+ROCKY BRANCH RD                                             0800008000
+ROGER MOORE RD                                              0800008000
+ROSEMARY BLACKBURN LN                                       0800008000
+RUNYON DR                                                   0800008000
+RUSH SLONE                                                  0800008000
+RUSSEL GOBLE LN                                             0800008000
+RUSSELL WORKMAN RD                                          0800008000
+SALLEE RD                                                   0800008000
+SALLY JUDE LN                                               0800008000
+SALTWELL CEMETERY RD                                        0800008000
+SAMMONS LN                                                  0800008000
+SAND PLANT CURVE                                            0800008000
+SANDLICK RD                                                 0800008000
+SAWMILL RD                                                  0800008000
+SAWMILL ROAD NO2                                            0800008000
+SETSER BRANCH RD                                            0800008000
+SETSER RD                                                   0800008000
+SHADLE FLETCHER LN                                          0800008000
+SHEPARD LN                                                  0800008000
+SHERRILL SPENCE RD                                          0800008000
+SHIRLEY MOORE                                               0800008000
+SHORT ST                                                    0800008000
+SKYVIEW RD                                                  0800008000
+SMITH CEMETARY                                              0800008000
+SMITH RD                                                    0800008000
+SPEEDWAY LN                                                 0800008000
+SPENCE BR                                                   0800008000
+SPLIT ROCK HOLLOW RD                                        0800008000
+SPRING BR                                                   0800008000
+SPRUCE PINE FORK RD                                         0800008000
+STATON HOLW                                                 0800008000
+STEPP BR                                                    0800008000
+STEPP BRANCH BTM                                            0800008000
+STEPP CEMETERY RD                                           0800008000
+STEPP HOMEPLACE RD                                          0800008000
+SUNSET LN                                                   0800008000
+SWEETWATER BRANCH RD                                        0800008000
+SYCAMORE ESTATE RD                                          0800008000
+TAYLOR DR                                                   0800008000
+TAYLORS CT                                                  0800008000
+THICKETY FORK RD                                            0800008000
+THURMAN MOOR CEMETERY RD                                    0800008000
+TIPPLE RD                                                   0800208002
+TOM EVANS LN                                                0800008000
+TOMAHAWK ESTATE RD                                          0800008000
+TOMMY FLETCHER RD                                           0800008000
+TRACE FORK RD                                               0800008000
+TRACE RIDGE RD                                              0580008000
+TRAILER PARK                                                0800108001
+TRAVIS PL                                                   0800008000
+TROY DUSTINS PL                                             0800008000
+TUNNEL RD                                                   0800008000
+TURKEY CRK                                                  0800008000
+TURKEY CRK                                                  0800108001
+TWIN BR                                                     0800008000
+UNION RD                                                    0800008000
+UNNAMED RD                                                  0800008000
+UPPER ALPHA BR                                              0800008000
+UPPER FLUTY LICK                                            0800008000
+VANCE HOLW                                                  0800008000
+VENTERS BRANCH RD                                           0800008000
+VIRGIL MOORE RD                                             0800008000
+W POPLAR RD                                                 0800008000
+WALNUT DR                                                   0800008000
+WARDS TRAILER PARK RD                                       0800008000
+WARFIELD                                                    0800008000
+WARFIELD                                                    0800208002
+WARFIELD CEMETARY                                           0800208002
+WARFIELD ELEMENTARY LOOP                                    0800008000
+WARFIELD ELEMENTARY RD                                      0800008000
+WARFIELD MIDDLE SCHOOL                                      0800208002
+WEBB HOLLOW RD                                              0800008000
+WEBVILLE LN                                                 0800008000
+WHITE OAK RD                                                0800008000
+WHITE RD                                                    0800008000
+WICKERFIELD RD                                              0800108001
+WILDCAT BRANCH RD                                           0800008000
+WILLIAMS BRANCH RD                                          0800008000
+WILLIS DIALS RD                                             0800008000
+WILLIS MOORE DR                                             0800008000
+WOODY JUDE RD                                               0800008000
+WOOTEN RD                                                   0800008000
+YOUNG EST                                                   0800008000

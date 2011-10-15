@@ -1,0 +1,882 @@
+ADELE RD                                                    0880008800
+ADKINS CEMETERY NO1 RD                                      0880008800
+ADKINS SLOAN BRANCH RD                                      0880008800
+AIRPORT WAY                                                 0880108801
+AL WHITT RD                                                 0880008800
+ALFRED DR                                                   0880008800
+ALLEN COX RD                                                0880008800
+ALLEN DAY RD                                                0880008800
+ANDERSON LN                                                 0880108801
+ANGLE CEMETERY RD                                           0880008800
+ANTLER RD                                                   0880008800
+ARCHIE WATKINS RD                                           0880008800
+ARMSTRONG RD                                                0880008800
+ARTHUR CONLEY RD                                            0880008800
+ASA KEMPLIN RD                                              0880008800
+ASHLEY KELLEY RD                                            0880008800
+ASTOR FRALEY RD                                             0880008800
+BACK HOLLAND CEMETERY RD                                    0880008800
+BACK RD                                                     0880008800
+BAILEY LN                                                   0880108801
+BAILEY RD                                                   0880008800
+BALL HEIGHTS RD                                             0880008800
+BANKS CEMETERY RD                                           0880008800
+BARBER LN                                                   0880108801
+BARBER RD                                                   0880008800
+BARKER BRANCH RD                                            0880008800
+BARNETT RIDGE RD                                            0880008800
+BASSEY DULIN RD                                             0880008800
+BAYS BEND RD                                                0880008800
+BAYS BEND SPUR                                              0880008800
+BEAR BR                                                     0880008800
+BEAR BRANCH RD                                              0880008800
+BEAR CREEK RD                                               0880008800
+BELLAMY CT                                                  0880108801
+BENTLEY CEMETERY RD                                         0880008800
+BERTIE HAMMONDS RD                                          0880008800
+BETHEL CHAPEL RD                                            0880008800
+BIG BRANCH RD                                               0880008800
+BIG LICK RD                                                 0880008800
+BIG MANDY LN                                                0880008800
+BIG MANDY RD                                                0880008800
+BIG STAFF BR                                                0880008800
+BILL F LACY CEMETERY RD                                     0880008800
+BILL FANNIN RD                                              0880008800
+BILL JONES RD                                               0880008800
+BILL LEWIS RD                                               0880008800
+BILL MAY RD                                                 0880008800
+BILL MURPHY RD                                              0880008800
+BILL SMITH RD                                               0880008800
+BISHOP BENTON RD                                            0880008800
+BISHOP CEMETERY RD                                          0880008800
+BLACKENHOUSE RD                                             0880008800
+BLACKWATER RD                                               0880008800
+BLAIR RIDGE RD                                              0880008800
+BLAIR ST                                                    0880108801
+BLAIRS CEMETERY RD                                          0880008800
+BLAIRS MILL RD                                              0880008800
+BLANKENSHIP RD                                              0880008800
+BLAZE RD                                                    0880008800
+BLEVINS RD                                                  0880008800
+BLUE BIRD RD                                                0880008800
+BOLDENS BRANCH RD                                           0880008800
+BOLDENS BRANCH SPUR                                         0880008800
+BOLIN BRANCH RD                                             0880008800
+BOLIN RIDGE RD                                              0880008800
+BOYDS RD                                                    0880008800
+BRADLEY LN                                                  0880008800
+BRANCH ST                                                   0880108801
+BROADWAY ST                                                 0880108801
+BROOKS CEMETERY RD                                          0880008800
+BROOKS LN                                                   0880108801
+BROOKSIDE LN                                                0880008800
+BROWN CEMETERY RD                                           0880008800
+BROWN LN                                                    0880008800
+BROWN LN                                                    0880108801
+BRUSHY FORK CEMETERY RD                                     0880008800
+BRUSHY FORK RD                                              0880008800
+BRYANT FORK RD                                              0880008800
+BUCK BALL RD                                                0880008800
+BUCK BRANCH RD                                              0880008800
+BUCK DR                                                     0880008800
+BUCKET RD                                                   0880008800
+BUCKHART CEMETERY RD                                        0880008800
+BUCKNER BRANCH RD                                           0880008800
+BURCHETT FLAT RD                                            0880008800
+BURCHWELL LN                                                0880008800
+BUSHROD RD                                                  0880008800
+BUSKIRK RD                                                  0880008800
+BUTCH RD                                                    0880008800
+BYRD CEMETERY RD                                            0880008800
+CABIN CREEK RD                                              0880008800
+CALLAHAN RD                                                 0880008800
+CAMP BRANCH RD                                              0880008800
+CAMPGROUND RD                                               0880008800
+CANTRELL RD                                                 0880008800
+CARL FANNIN RD                                              0880008800
+CARPENTER BR                                                0880008800
+CARPENTER BRANCH SPUR RD                                    0880008800
+CARVER PL                                                   0880108801
+CASKEY CEMETERY NO1 RD                                      0880008800
+CASKEY CEMETERY NO2 RD                                      0880008800
+CASKEY FORK RD                                              0880008800
+CASKEY LOOP                                                 0880108801
+CASSITY CEMETERY RD                                         0880008800
+CASTLE BRANCH RD                                            0880008800
+CAUDILL RD                                                  0880008800
+CECIL BRANCH RD                                             0880008800
+CEDAR RD                                                    0880008800
+CEDAR RD                                                    0880108801
+CEDARCREST LN                                               0880008800
+CEMETERY HL                                                 0880008800
+CEMETERY NO1                                                0880008800
+CEMETERY NO2                                                0880008800
+CEMETERY NO3                                                0880008800
+CENTERVILLE RD                                              0880008800
+CHALMER BENTON RD                                           0880008800
+CHANEY RD                                                   0880008800
+CHARLES BLACK DR                                            0880008800
+CHESTER BRANCH RD                                           0880008800
+CHILDERS RD                                                 0880008800
+CHURCH LN                                                   0880008800
+CINDAS CREEK                                                0880008800
+CIRCLE DR                                                   0880108801
+CLARENCE DR                                                 0880008800
+CLARENCE HOPKINS RD                                         0880008800
+CLARENCE ONEAL RD                                           0880008800
+CLAY COLLINS CEMETERY RD                                    0880008800
+CLETIS DR                                                   0880008800
+CLIFF VIEW RD                                               0880008800
+CLIFFORD KEETON CEMETERY RD                                 0880008800
+CLINTON HOWARD DR                                           0880008800
+CLINTON HOWARD RD                                           0880008800
+CODY DR                                                     0880008800
+CODY LN                                                     0880008800
+COFFEE CREEK RD                                             0880008800
+COFFIE                                                      0880008800
+COLE LOOP                                                   0880108801
+COLLEGE ST                                                  0880108801
+COLLETT LN                                                  0880008800
+COLLINS RD                                                  0880008800
+COMBS RD                                                    0880008800
+CONLEY BR                                                   0880008800
+CONLEY BRANCH RD                                            0880008800
+CONLEY CEMETERY RD                                          0880008800
+CONSTITUTION RD                                             0880008800
+CONTRARY FORK                                               0880008800
+COON CREEK LN                                               0880008800
+COON CREEK RD                                               0880008800
+COON RUN RD                                                 0880008800
+COOPER CEMETERY RD                                          0880008800
+COOPER SAYLERS FORD RD                                      0880008800
+CORNETT CEMETERY                                            0880008800
+CORNETTS CEMETERY RD                                        0880008800
+COTTLE BEND RD                                              0880008800
+COTTLE CEMETERY NO3 RD                                      0880008800
+COTTLE CEMETERY NO4 RD                                      0880008800
+COTTLE LOOP                                                 0880108801
+COUGAR ST                                                   0880108801
+COUNTY GARAGE RD                                            0880008800
+COURT ST                                                    0880108801
+COW BRANCH RD                                               0880008800
+COX CEMETERY NO1 RD                                         0880008800
+CR1445                                                      0880008800
+CR1459                                                      0880008800
+CR1467                                                      0880008800
+CRAFT CEMETERY RD                                           0880008800
+CRAFT CT                                                    0880108801
+CRAFT RD                                                    0880008800
+CRESTVIEW DR                                                0880108801
+CROCKETT SCHOOL RD                                          0880008800
+CROOKED BEECH BR                                            0880008800
+CRUEY RD                                                    0880008800
+CURRYS RD                                                   0880008800
+D MONTGOMERY CEMETERY RD                                    0880008800
+DACLAR RD                                                   0880008800
+DAISY KNOB RD                                               0880108801
+DALE EARNHARDT DR                                           0880008800
+DALE HAMMOND RD                                             0880008800
+DANIEL BOONE NATIONAL FOREST BOAT RAMP NO26                 0880008800
+DANIEL LN                                                   0880008800
+DANNY MCKENZIE RD                                           0880008800
+DARRELL BLACK RD                                            0880008800
+DARRIS SMITH RD                                             0880008800
+DAVIS LN                                                    0880108801
+DAWSON CEMETERY RD                                          0880008800
+DAY BRANCH RD                                               0880008800
+DAY HOLW                                                    0880008800
+DEBORDE RD                                                  0880008800
+DEDMAN BRANCH RD                                            0880008800
+DEEP CREEK LN                                               0880008800
+DEEP CREEK RD                                               0880008800
+DEER TRACK WAY                                              0880108801
+DEHART RD                                                   0880008800
+DEMUND RD                                                   0880008800
+DENNISTON RD                                                0880008800
+DEVILS FORK RD                                              0880008800
+DEWARD ADAMS LN                                             0880008800
+DILLARD KEETON RD                                           0880008800
+DITNEY RIDGE RD                                             0880008800
+DIXIE LN                                                    0880108801
+DOC ADKINS CEMETERY RD                                      0880008800
+DOC ISON RD                                                 0880008800
+DOC MURPHY RD                                               0880008800
+DOGWOOD LN                                                  0880108801
+DON COLLIER RD                                              0880008800
+DRAGWAY CT                                                  0880108801
+DRY BRANCH RD                                               0880008800
+DUCK CREEK RD                                               0880008800
+DYE LN                                                      0880108801
+DYER BRANCH RD                                              0880008800
+E MAYTOWN RD                                                0880008800
+E RIVER RD                                                  0880008800
+EARL REED DR                                                0880008800
+EATON RD                                                    0880008800
+ED ELAM RD                                                  0880008800
+ED WHITT LN                                                 0880008800
+ED WHITT RD                                                 0880008800
+EDMOND LEWIS CEMETERY RD                                    0880008800
+ELAM BRANCH RD                                              0880008800
+ELAM CEMETERY NO3 RD                                        0880008800
+ELAM CEMETERY RD                                            0880008800
+ELAM CHURCH CEMETERY RD                                     0880008800
+ELAM LANE RD                                                0880008800
+ELAM ST                                                     0880108801
+ELISHA SMITH RD                                             0880008800
+ELK FORK CROSSING RD                                        0880008800
+ELLIOTT CT                                                  0880108801
+ELLIS DR                                                    0880008800
+ELM LOG RD                                                  0880008800
+ENGLE CEMETERY RD                                           0880008800
+EULAS RD                                                    0880008800
+EVA BRANCH RD                                               0880008800
+EVANS LN                                                    0880008800
+FAIR GROUND RD                                              0880008800
+FAIRCHILD RD                                                0880008800
+FAIRCHILDS CEMETERY RD                                      0880008800
+FAIRGROUND ACCESS RD                                        0880008800
+FAITH HILLS CHURCH RD                                       0880008800
+FANNIN CEMETERY                                             0880008800
+FANNIN CEMETERY RD                                          0880008800
+FANNIN RD                                                   0880008800
+FARRELL FUGETT RD                                           0880008800
+FERGUSON BRANCH RD                                          0880008800
+FERGUSON CEMETERY RD                                        0880008800
+FIELDS CEMETERY RD                                          0880008800
+FINCH RD                                                    0880008800
+FORREST LN                                                  0880108801
+FRANK BLEVINS RD                                            0880008800
+FRANK SMITH RD                                              0880008800
+FRED RATLIFF RD                                             0880008800
+FREDERICK LN                                                0880108801
+FREDRICK LANE SPUR RD                                       0880008800
+FREDRICK LANE SPUR RD                                       0880108801
+FRENCH LN                                                   0880008800
+FROG HOLLOW SPUR RD                                         0880008800
+FUGETT CEMETERY RD                                          0880008800
+FULTZ DR                                                    0880008800
+FYFFE BRANCH RD                                             0880008800
+FYFFE CT                                                    0880108801
+GALLOW HOLLOW RD                                            0880108801
+GAMBILL BR                                                  0880008800
+GAMBILL RD                                                  0880008800
+GARDNER DR                                                  0880108801
+GARY BOLIN RD                                               0880008800
+GB ALLEN CEMETERY RD                                        0880008800
+GENE LYKINS                                                 0880008800
+GENE LYKINS RD                                              0880008800
+GEORGE HAMMOND RD                                           0880008800
+GEORGE LITTERAL RD                                          0880008800
+GEVEDON BRANCH RD                                           0880008800
+GILLIAM BRANCH RD                                           0880008800
+GIRL SCOUT CAMP DR                                          0880008800
+GLEN BALL RD                                                0880008800
+GLEN LAWSON RD                                              0880008800
+GLENN AVE                                                   0880108801
+GOAD CEMETERY                                               0880008800
+GOBLE WALLIN RD                                             0880008800
+GOLF COURSE RD                                              0880008800
+GORDON FORD RD                                              0880008800
+GOSE BRANCH RD                                              0880008800
+GRAHAM RD                                                   0880008800
+GRAMPUS BRANCH RD                                           0880008800
+GRANDDADDY KNOB RD                                          0880008800
+GRASSY CREEK RD                                             0880008800
+GRASSY LICK CEMETERY                                        0880008800
+GRAY BRANCH RD                                              0880008800
+GREASY CREEK RD                                             0880008800
+GREEN BRIAR RD                                              0880008800
+GREENHOUSE RD                                               0880008800
+GRIFFITH BRANCH RD                                          0880008800
+GRIFFY BRANCH RD                                            0880008800
+GULLETT ST                                                  0880108801
+H B PL                                                      0880108801
+H SEXTON CEMETERY RD                                        0880008800
+HAGER DAVIS RD                                              0880008800
+HALL RD                                                     0880008800
+HAMMOND DR                                                  0880008800
+HANEY BR                                                    0880008800
+HANEY FORK RD                                               0880008800
+HAROLD LYKINS RD                                            0880008800
+HAROLD ROSE RD                                              0880008800
+HARPER BRANCH RD                                            0880008800
+HARRIS CT                                                   0880108801
+HASLEY FORK                                                 0880008800
+HATTON RD                                                   0880008800
+HATTON SPUR RD                                              0880008800
+HAVENS BRANCH RD                                            0880008800
+HAVENS DR                                                   0880008800
+HAVENS FORK                                                 0880008800
+HAVENS FORK SPUR RD                                         0880008800
+HAVENS LN                                                   0880008800
+HAVENS RD                                                   0880008800
+HELTON ST                                                   0880108801
+HENRY ROSS RD                                               0880008800
+HENRY ST                                                    0880108801
+HENRY WRIGHT RD                                             0880008800
+HENSLY RD                                                   0880008800
+HENSON BR                                                   0880008800
+HENSON HL                                                   0880008800
+HICKORY LN                                                  0880108801
+HICKORY RD                                                  0880008800
+HIDDEN VALLEY RD                                            0880008800
+HIGGINS CEMETERY RD                                         0880008800
+HILL TOP LN                                                 0880008800
+HILL TOP RD                                                 0880008800
+HILL VIEW CT                                                0880108801
+HILLBILLY RD                                                0880008800
+HILLS RD                                                    0880008800
+HOBERT HELTON DR                                            0880008800
+HOG BR                                                      0880008800
+HOLBROOK DR                                                 0880008800
+HOLBROOK LN                                                 0880008800
+HOLBROOK RD                                                 0880008800
+HOLBROOKS CEMETERY RD                                       0880008800
+HOLIDAY                                                     0880008800
+HOLIDAY CEMETERY RD                                         0880008800
+HOLLAND RD                                                  0880008800
+HOLLOW LN                                                   0880108801
+HOLLOW POPLAR RD                                            0880008800
+HOLLY CAMP RD                                               0880008800
+HOMER GEVEDON RD                                            0880008800
+HONEYMOON HOLLER RD                                         0880008800
+HOOKPOLE RD                                                 0880008800
+HOOTEN HOLLOW RD                                            0880008800
+HOOVER LN                                                   0880008800
+HOOVER TRIPLETT RD                                          0880008800
+HORSE SHOE RD                                               0880008800
+HORSESHOE HOLLOW RD                                         0880008800
+HOSS WILLIAMS RD                                            0880008800
+HOT MIX RD                                                  0880008800
+HOWARD BR                                                   0880008800
+HOWARD CEMETERY RD                                          0880008800
+HOWARD DR                                                   0880008800
+HOWARDS CEMETERY RD                                         0880008800
+HOWELL RD                                                   0880008800
+HUNT RD                                                     0880008800
+HUNTER LN                                                   0880008800
+HUTCHINSON LN                                               0880008800
+HUTCHINSON RD                                               0880108801
+IKE FERGUSON CEMETERY RD                                    0880008800
+IKE FERGUSON RD                                             0880008800
+ILA LN                                                      0880108801
+INDEX RD                                                    0880008800
+INDIAN CREEK RD                                             0880008800
+ISON RD                                                     0880008800
+IVAN CASSITY RD                                             0880008800
+IVAN FUGETT RD                                              0880008800
+IWANNA LOOP                                                 0880008800
+JAMES BROOKS RD                                             0880008800
+JAMES BROOKS ROAD SPUR                                      0880008800
+JAMES MANNING DR                                            0880008800
+JESSIE SMITH RD                                             0880008800
+JIMMY ADKINS RD                                             0880008800
+JOE JENKINS RD                                              0880008800
+JOE JENKINS SPUR                                            0880008800
+JOE LN                                                      0880008800
+JOHN BROWN RD                                               0880008800
+JOHN C BENTON RD                                            0880008800
+JOHN HAMMONS RD                                             0880008800
+JOHN WHITT RD                                               0880008800
+JOHN WILL STACY DR                                          0880008800
+JOHNNY DAVIS RD                                             0880008800
+JOHNS BRANCH RD                                             0880008800
+JOHNSON CASKEY CEMETERY RD                                  0880008800
+JOHNSON CEMETERY RD                                         0880008800
+JOHNSON HILL RD                                             0880108801
+JOHNSON VALLEY LN                                           0880008800
+JONES BRANCH RD                                             0880008800
+JONES CEMETERY RD                                           0880008800
+JONES CREEK RD                                              0880008800
+JR STEVENS BR                                               0880008800
+JUNE CREEK RD                                               0880008800
+JUNIOR CONLEY RD                                            0880008800
+JUSTICE LN                                                  0880008800
+KADEN DR                                                    0880008800
+KATHY WALTER RD                                             0880008800
+KEETON AVE                                                  0880108801
+KEETON BRANCH RD                                            0880008800
+KEETON HEIGHTS RD                                           0880108801
+KEETON SPUR RD                                              0880008800
+KELLACEY FALLS RD                                           0880008800
+KELLACEY RD                                                 0880008800
+KELLER LN                                                   0880108801
+KENDALL HILL RD                                             0880008800
+KENNARD CEMETERY NO2 RD                                     0880008800
+KENNARD CEMETERY RD                                         0880008800
+KENNY COTTLE RD                                             0880008800
+KERSEY RD                                                   0880008800
+KIDD CEMETERY NO4 RD                                        0880008800
+KIMBLER RD                                                  0880008800
+KIWANIS PL                                                  0880108801
+KNOCKING CAVE RD                                            0880008800
+KRISTEN LANE SPUR                                           0880008800
+KRISTEN LN                                                  0880008800
+KY1000                                                      0880008800
+KY1002                                                      0880008800
+KY1010                                                      0880008800
+KY1081                                                      0880008800
+KY1161                                                      0880008800
+KY1162                                                      0880008800
+KY134                                                       0880008800
+KY1569                                                      0830008800
+KY1614                                                      0880008800
+KY1715                                                      0880008800
+KY172                                                       0880008800
+KY172                                                       0880108801
+KY191                                                       0880008800
+KY191                                                       0880108801
+KY1950                                                      0880008800
+KY2023                                                      0880008800
+KY2027                                                      0880008800
+KY203                                                       0880008800
+KY205                                                       0880008800
+KY3036                                                      0880008800
+KY3333                                                      0880008800
+KY3345                                                      0880008800
+KY364                                                       0880008800
+KY437                                                       0880008800
+KY519                                                       0880008800
+KY589                                                       0880008800
+KY650                                                       0880008800
+KY7                                                         0880008800
+KY705                                                       0880008800
+KY706                                                       0880008800
+KY711                                                       0880008800
+KY772                                                       0880008800
+KY844                                                       0880008800
+KY882                                                       0880008800
+KY9009                                                      0880008800
+KY9009 E EXIT60 ON RAMP FROM KY134                          0880008800
+KY9009 W EXIT60 OFF RAMP TO KY134                           0880008800
+KY946                                                       0880008800
+KY976                                                       0880008800
+L SMITH CEMETERY RD                                         0880008800
+LACY CEMETERY RD                                            0880008800
+LACY CREEK CHURCH RD                                        0880008800
+LACY CREEK RD                                               0880008800
+LANE RD                                                     0880008800
+LAURA SMITH RD                                              0880008800
+LAUREL FORK RD                                              0880008800
+LEACH LN                                                    0880008800
+LEACH RD                                                    0880008800
+LEE ROARK RD                                                0880008800
+LEES LN                                                     0880008800
+LEFT FORK OF HOG BRANCH RD                                  0880008800
+LEFT FORK OF RUSH BRANCH RD                                 0880008800
+LEFT LAUREL FORK RD                                         0880008800
+LEFT VEST RD                                                0880008800
+LEISURE BRANCH RD                                           0880008800
+LENVILLE PERRY RD                                           0880008800
+LEONARD HAVENS RD                                           0880008800
+LEWIS CEMETERY NO1 RD                                       0880008800
+LEWIS CEMETERY NO3 RD                                       0880008800
+LEWIS CEMETERY RD                                           0880008800
+LEWIS ST                                                    0880108801
+LIBERTY HEIGHTS CT                                          0880108801
+LIBERTY LN                                                  0880008800
+LIBERTY RD                                                  0880008800
+LIBERTY RD                                                  0880108801
+LIBERTY ST                                                  0880008800
+LICK BRANCH RD                                              0880008800
+LICK BRANCH SPUR RD                                         0880008800
+LINDA GAYLE DR                                              0880008800
+LITTLE CANEY BR                                             0880008800
+LLEWELLIN RD                                                0880008800
+LONG BRANCH RD                                              0880008800
+LONG DRIVEWAY                                               0880008800
+LONG RD                                                     0880008800
+LONG RIDGE RD                                               0880008800
+LONG RIDGE SPUR RD                                          0880008800
+LONNIE WRIGHT RD                                            0880008800
+LOST CREEK BOAT RAMP RD                                     0580008800
+LOST CREEK RD                                               0880008800
+LOST CREEK SPUR RD                                          0880008800
+LOUIE WHITT RD                                              0880008800
+LOVELESS CEMETERY RD                                        0880008800
+LOWE HOLLOW RD                                              0880008800
+LOWER DIXON RD                                              0880008800
+LOWER NICKELL BR                                            0880008800
+LOWER RIGHT FORK BEAR BRANCH RD                             0880008800
+LOWER SAND LICK RD                                          0880008800
+LUCKY RD                                                    0880008800
+LYKINS CEMETERY RD                                          0880008800
+LYKINS CEMETERY ROAD NO2                                    0880008800
+LYKINS LOOP                                                 0880008800
+LYKINS SPUR RD                                              0880008800
+M WHITT RD                                                  0880008800
+MACK FORK RD                                                0880008800
+MAIN ST                                                     0880108801
+MALONE RD                                                   0880008800
+MANFORD YOUNG RD                                            0880008800
+MANLEY LN                                                   0880008800
+MAPLE CT                                                    0880108801
+MAPLE LN                                                    0880008800
+MARION COLLINS RD                                           0880008800
+MARION COLLINS SPUR RD                                      0880008800
+MARY PACK CEMETERY                                          0880008800
+MASTERS RD                                                  0880008800
+MAUK RIDGE RD                                               0880008800
+MAXWELL GUNNELS RD                                          0880008800
+MAY BRANCH RD                                               0880008800
+MAY CEMETERY RD                                             0880008800
+MAYFLOWER HOLLOW RD                                         0880008800
+MAYS RD                                                     0880008800
+MCCLAIN RD                                                  0880008800
+MCCLAIN WAY                                                 0880108801
+MCCLANAHAN HL                                               0880008800
+MCCLURE RD                                                  0880008800
+MCCLURE SPUR RD                                             0880008800
+MCCLURG RD                                                  0880008800
+MCCOY RD                                                    0880008800
+MCKENZIE RD                                                 0880008800
+MCKINNEY RD                                                 0880008800
+MEDICAL CIR                                                 0880108801
+MEETING HOUSE BR                                            0880008800
+MEETING HOUSE RD                                            0880008800
+MELODY CIR                                                  0880108801
+MELODY CIRCLE CT                                            0880108801
+MELVIN RD                                                   0880008800
+MEMORIAL GARDENS RD                                         0880008800
+MEMORY HILL LN                                              0880008800
+MERLE ADKINS RD                                             0880008800
+MILLER LN                                                   0880108801
+MINE FORK RD                                                0580008800
+MINE FORK RD                                                0880008800
+MINE FORK SPUR RD                                           0880008800
+MINEY LN                                                    0880108801
+MINOR RD                                                    0880008800
+MOCKINGBIRD DR                                              0880108801
+MOCKINGBIRD HL                                              0880008800
+MOCKINGBIRD SPUR                                            0880008800
+MONIE COLLINS DR                                            0880008800
+MONTGOMERY RD                                               0880008800
+MOORE RD                                                    0880008800
+MORGAN COUNTY SCHOOLS                                       0880108801
+MORGAN ST                                                   0880108801
+MORRIS CEMETARY RD                                          0880008800
+MORTICA RD                                                  0880008800
+MOUNTAIN VIEW RD                                            0880008800
+MUDDY BRANCH RD                                             0880008800
+MULLINS CEMETERY RD                                         0880008800
+MULLINS RD                                                  0880008800
+MUNICIPAL WAY                                               0880108801
+MURPHY FORK RD                                              0880008800
+MURRAY HATTON RD                                            0880008800
+MURRAY ST                                                   0880108801
+NATURE DR                                                   0880008800
+NAVAJO TRL                                                  0880108801
+NEAL RD                                                     0880008800
+NEAL RD                                                     0880108801
+NEICE SAWMILL RD                                            0880008800
+NEICE SAWMILL SPUR                                          0880008800
+NEW CUMMER RD                                               0880008800
+NEWSOME RD                                                  0880008800
+NEWT P COX FAMILY CEMETERY                                  0880008800
+NEWT WHITT RD                                               0880008800
+NICHOLS CEMETERY RD                                         0880008800
+NICKELL BR                                                  0880008800
+NICKELL ST                                                  0880108801
+NIPPER DR                                                   0880008800
+NOAH MANNS RD                                               0880008800
+NOBLE FORK RD                                               0880008800
+NORMAN ST                                                   0880108801
+O WAGERS RD                                                 0880008800
+OAK CT                                                      0880108801
+OAKLEY CEMETERY RD                                          0880008800
+OAKWOOD LN                                                  0880108801
+OCONNORS RD                                                 0880008800
+OKLA FERGUSON RD                                            0880008800
+OLD ELAM RD                                                 0880008800
+OLD GRASSY CEMETERY ROAD A                                  0880008800
+OLD GRASSY CEMETERY ROAD B                                  0880008800
+OLD GRASSY CUT                                              0880008800
+OLD HOUSE BRANCH RD                                         0880008800
+OLD HOUSE RD                                                0880008800
+OLD KY 172                                                  0880008800
+OLD KY 519 RD                                               0880008800
+OLD KY 7 CONNECTOR RD                                       0880008800
+OLD MILL PARK LN                                            0880108801
+OLD SHOE RD                                                 0880008800
+OLD US 460 NO1 RD                                           0880008800
+OLD US 460 NO2 RD                                           0880008800
+OLDFIELD CEMETERY RD                                        0880008800
+OLDFIELD DR                                                 0880008800
+OLDFIELD LN                                                 0880008800
+ONEY RD                                                     0880008800
+OPEN FORK RD                                                0880008800
+OPOSSUM RIDGE RD                                            0880008800
+ORVILLE HENRY RD                                            0880008800
+OSBORNE LN                                                  0880008800
+OSCAR LN                                                    0880008800
+OSCAR LN                                                    0880108801
+PACK LN                                                     0880008800
+PACKS BRANCH RD                                             0880008800
+PAINT VALLEY CEMETERY RD                                    0880008800
+PARADISE LN                                                 0880008800
+PARK DR                                                     0880108801
+PARK HILL BLVD                                              0880108801
+PARKWAY RD                                                  0880008800
+PARLEY CATTRELL RD                                          0880008800
+PASTURE FORK                                                0880008800
+PAT HOSKINS RD                                              0880008800
+PATOKER BRANCH RD                                           0880008800
+PATOKER RD                                                  0880008800
+PATRICK CEMETERY                                            0880008800
+PATRICK CEMETERY RD                                         0880008800
+PATRICK RD                                                  0880008800
+PATRICK ROAD SPUR                                           0880008800
+PATTON CEMETERY RD                                          0880008800
+PAUL BOLIN CEMETERY RD                                      0880008800
+PAUL CASKEY RD                                              0880008800
+PAUL RD                                                     0880008800
+PAULINA BR                                                  0880008800
+PAULINA SPUR                                                0880008800
+PEDDLER GAP RD                                              0880008800
+PEDDLER ST                                                  0880108801
+PELFREY BRANCH RD                                           0880008800
+PELFREY CEMETERY RD                                         0880008800
+PELFREY FORK RD                                             0880008800
+PERKINS CEMETERY RD                                         0880008800
+PERKINS HILL RD                                             0880008800
+PERKINS HOLW                                                0880008800
+PERRY CEMETERY RD                                           0880008800
+PERRY DR                                                    0880008800
+PERRY LN                                                    0880108801
+PERRY RD                                                    0880008800
+PETE ADAMS RD                                               0880008800
+PETER CAVE RD                                               0880008800
+PEYTON CEMETERY NO1 RD                                      0880008800
+PEYTON LN                                                   0880008800
+PEYTON RIDGE RD                                             0880008800
+PEYTON SCHOOLHOUSE RD                                       0880008800
+PEYTON SPUR RD                                              0880008800
+PHILLIPS CEMETERY RD                                        0880008800
+PHILS BR                                                    0880008800
+PHIPPS FORK RD                                              0880008800
+PIERATT RD                                                  0880008800
+PINE ACRES LN                                               0880108801
+PINE GROVE LN                                               0880108801
+PINE RIDGE RD                                               0880008800
+PINE ST                                                     0880108801
+PINEY BRANCH RD                                             0880008800
+PLEASANT HOLW                                               0880008800
+PLEASANT RUN RD                                             0880008800
+PLEASANT VIEW LN                                            0880008800
+POND RD                                                     0880008800
+POOR BOYS RD                                                0880008800
+POPLAR CT                                                   0880108801
+POSSUM RIDGE RD                                             0880008800
+POTTER PL                                                   0880108801
+POYNTER LN                                                  0880108801
+PRATER RD                                                   0880008800
+PRESBYTERIAN RD                                             0880008800
+PRESTONSBURG ST                                             0880108801
+PRICY CREEK RD                                              0880008800
+PRIVATE DR                                                  0880008800
+PRIVATE DR                                                  0880108801
+PRIVATE DRIVE NO1                                           0880008800
+PRIVATE DRIVE OFF NEAL LN                                   0880008800
+PRIVATE DRIVEWAY                                            0880008800
+PRIVATE OFF DUCK CREEK                                      0880008800
+PRIVATE RD                                                  0880008800
+PRIVATE ROAD NO1                                            0880008800
+PRIVATE ROAD NO3                                            0880008800
+PROFITT BRANCH RD                                           0880008800
+QUAILS RUN LN                                               0880108801
+RAILROAD FORK                                               0880008800
+RALEIGH ALLEN RD                                            0880008800
+RALEIGH ALLEN SPUR RD                                       0880008800
+RANEY LYKINS RD                                             0880008800
+RAY HOLBROOK RD                                             0880008800
+REBER RD                                                    0880008800
+RED BIRD RD                                                 0880008800
+REDWINE RD                                                  0880008800
+REED LN                                                     0880108801
+REED MURPHY RD                                              0880008800
+REVIS LN                                                    0880008800
+REVIS RD                                                    0880008800
+RIDGE VIEW CT                                               0880108801
+RIGHT FORK FREDRICK LN                                      0880108801
+RIGHT FORK OF BIG MANDY RD                                  0880008800
+RIGHT FORK OF BIRCH BRANCH RD                               0880008800
+RIGHT FORK OF BOLIN BRANCH RD                               0880008800
+RIGHT FORK OF PASTURE BRANCH RD                             0880008800
+RIGHT FORK OF PELFREY RD                                    0880008800
+RIVER RD                                                    0880008800
+RIVER RD                                                    0880108801
+RIVERSIDE DR                                                0880108801
+RIVERVIEW DR                                                0880108801
+ROAD TO JUSTICE                                             0880108801
+ROAD TO SUCCESS                                             0880108801
+ROBERT POTTER RD                                            0880008800
+ROBERT STACY RD                                             0880008800
+ROBIN RD                                                    0880008800
+ROBIN SPUR                                                  0880008800
+ROBINSON BRANCH RD                                          0880008800
+ROCE BRANCH RD                                              0880008800
+ROCKHOUSE BRANCH RD                                         0880008800
+ROCKHOUSE RD                                                0880008800
+ROCKY BRANCH RD                                             0880008800
+ROCKY RD                                                    0880008800
+ROD AND STAFF LOOP                                          0880008800
+ROD B ADAMS RD                                              0880008800
+ROE BRANCH RD                                               0880008800
+ROOSEVELT DR                                                0880108801
+ROSE ST                                                     0880108801
+ROSEBERRY LN                                                0880008800
+ROSEBERRY RD                                                0880008800
+ROSEWOOD LN                                                 0880008800
+ROY CANTRELL RD                                             0880008800
+RUBE BR                                                     0880008800
+RUBE WOODS RD                                               0880008800
+RUBE WOODS SPUR RD                                          0880008800
+RUBY EASTERLING RD                                          0880008800
+RUPE DR                                                     0880108801
+RUSH BRANCH RD                                              0880008800
+RUSH BRANCH SPUR RD                                         0880008800
+RUSSELL BROWN RD                                            0880008800
+RUSSELL COX HOLLOW RD                                       0880008800
+RUSSELL LEWIS RD                                            0880008800
+RUTH AVE                                                    0880108801
+S SAWMILL RD                                                0880008800
+SALEM CEMETERY RD                                           0880008800
+SALEM CHURCH RD                                             0880008800
+SALYER CEMETERY                                             0880108801
+SAM DUNN RD                                                 0880008800
+SAM LITTERAL RD                                             0880008800
+SANDFORD MOUNTAIN                                           0880008800
+SARGENT CEMETERY NO1 RD                                     0880008800
+SARGENT CEMETERY RD                                         0880008800
+SAW MILL RD                                                 0880008800
+SAWMILL RD                                                  0880008800
+SCOTT CAROL RD                                              0880008800
+SELLERS BRANCH RD                                           0880008800
+SEWELL HAMILTON FORD RD                                     0880008800
+SHADY HOLLOW RD                                             0880008800
+SHADY LN                                                    0880008800
+SHADY PINES RD                                              0880008800
+SHEETS RD                                                   0880008800
+SHEPHARD RD                                                 0880008800
+SHOP BRANCH RD                                              0880008800
+SHORT BRANCH RD                                             0880008800
+SHORT ST                                                    0880108801
+SILVER HILL RD                                              0880008800
+SILVERHILL LACY RD                                          0880008800
+SKYLINE DR                                                  0880108801
+SMITH DR                                                    0880008800
+SMITH LN                                                    0880108801
+SMITH RD                                                    0880008800
+SMITHS RD                                                   0880008800
+SNAKE DEN RD                                                0880008800
+SORGHUM LN                                                  0880108801
+SPARKS BRANCH RD                                            0880008800
+SPAWS CREEK RD                                              0880008800
+SPENCER DR                                                  0880008800
+SPENCER RD                                                  0880008800
+SPLITWOOD BRANCH RD                                         0880008800
+SPRING BRANCH RD                                            0880008800
+SR CITIZEN PL                                               0880108801
+STACY ST                                                    0880108801
+STAMPER LN                                                  0880008800
+STAMPER RD                                                  0880008800
+STANLEY NIPPER RD                                           0880008800
+STEELE BRANCH RD                                            0880008800
+STEELE RD                                                   0880008800
+STICK BRANCH RD                                             0880008800
+STINGY FORK RD                                              0880008800
+STINSON BR                                                  0880008800
+STRAIGHT CREEK RD                                           0880008800
+STRONG BRANCH RD                                            0880008800
+SUGAR CAMP RD                                               0880008800
+SUGAR MAPLE LN                                              0880108801
+SUMMER LN                                                   0880008800
+SUNNY SIDE LN                                               0880108801
+TABERNACLE RD                                               0880008800
+TESTERMAN CEMETERY RD                                       0880008800
+THORNSBERRY RD                                              0880008800
+THURMAN WRIGHT HL                                           0880008800
+TIFFANY LN                                                  0880008800
+TOWER HILL RD                                               0880108801
+TOWER RD                                                    0880008800
+TOWNHOUSE CT                                                0880108801
+TOWNHOUSE LN                                                0880108801
+TRACE FORK RD                                               0880008800
+TREE NURSERY RD                                             0880008800
+TRIMBLE ST                                                  0880108801
+TROOPER LN                                                  0880108801
+TURNER ST                                                   0880108801
+TURPENTINE BRANCH RD                                        0880008800
+UNIVERSITY DR                                               0880108801
+UPPER LONG BR                                               0880008800
+UPPER NICKELL BR                                            0880008800
+UPPER PLEASANT RUN RD                                       0880008800
+UPPER SAND LICK RD                                          0880008800
+US460                                                       0880008800
+US460 E                                                     0880008800
+US460 W                                                     0880008800
+VANCE CT                                                    0880108801
+VEST BRANCH RD                                              0880008800
+VEST CT                                                     0880108801
+VETERINARIAN LN                                             0880008800
+VIC ELAM RD                                                 0880008800
+VICTOR HOLBROOK BR                                          0880008800
+VIEW DR                                                     0880008800
+VIRGINIA DR                                                 0880008800
+VIRGINIA LN                                                 0880008800
+W MAIN ST                                                   0880108801
+W MAYTOWN RD                                                0880011900
+WAGERS RD                                                   0880008800
+WALNUT RD                                                   0880008800
+WALNUT ST                                                   0880008800
+WALTER BR                                                   0880008800
+WALTER SMITH RD                                             0880008800
+WALTERS CEMETERY RD                                         0880008800
+WAR CREEK RD                                                0880008800
+WEBB RD                                                     0880008800
+WEDDINGTON RD                                               0880008800
+WELLS HILL LN                                               0880108801
+WELLS HL                                                    0880108801
+WELLS STATION BR                                            0880008800
+WENDELL CT                                                  0880108801
+WENDELL SMITH RD                                            0880008800
+WHEEL RIM CHURCH RD                                         0880008800
+WHEEL RIM RD                                                0880008800
+WHEELER RD                                                  0880008800
+WHEELER ST                                                  0880108801
+WHITE OAK BR                                                0880008800
+WHITES BRANCH RD                                            0880008800
+WHITNEY LN                                                  0880008800
+WHITT RD                                                    0880008800
+WHITTS CEMETERY RD                                          0880008800
+WIDOW BRANCH RD                                             0880008800
+WIDOW ST                                                    0880008800
+WILDCAT LN                                                  0880008800
+WILDERS RD                                                  0880008800
+WILL TOMS SARGENT RD                                        0880008800
+WILLIAM LINES RD                                            0880008800
+WILLIAMS ST                                                 0880108801
+WILLIE ADKINS RD                                            0880008800
+WILSON FORK RD                                              0880008800
+WILSON PRATER RD                                            0880008800
+WINDING STAIRS RD                                           0880008800
+WINDY ACRES DR                                              0880008800
+WINDY RIDGE RD                                              0880008800
+WINGO LN                                                    0880008800
+WOODROW ADKINS RD                                           0880008800
+WOODRUFF CANTREL RD                                         0880008800
+WOODRUFF CANTRELL RD                                        0880008800
+WOODSBEND BOYS CAMP RD                                      0880008800
+WOODSBEND CEMETERY RD                                       0880008800
+WOODSBEND RD                                                0880008800
+WOODSIDE LN                                                 0880008800
+WOODY CANTRELL RD                                           0880008800
+WRIGHT CEMETERY RD                                          0880008800
+WRIGHT LN                                                   0880008800
+WRIGHT RD                                                   0880008800
+WRIGLEY RD                                                  0880008800
+WYCK SMITH RD                                               0880008800
+YEARLING BRANCH RD                                          0880008800
+YOCUM RD                                                    0880008800
+YOCUM ROAD CONNECTOR                                        0880008800
+ZAG RD                                                      0880008800

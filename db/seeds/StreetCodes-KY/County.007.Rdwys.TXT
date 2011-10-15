@@ -1,0 +1,1598 @@
+12TH ST                                                     0070000700
+14TH ST                                                     0070100701
+15TH STREET EXT                                             0070100701
+17TH ST                                                     0070100701
+18TH ST                                                     0070100701
+22ND ST                                                     0070100701
+23RD ST                                                     0070100701
+25TH ST                                                     0070100701
+29TH ST                                                     0070100701
+2ND ST                                                      0070200702
+33RD ST                                                     0070100701
+36TH ST                                                     0070100701
+37TH ST                                                     0070100701
+3RD ST                                                      0070200702
+41ST ST                                                     0070100701
+42ND ST                                                     0070000700
+42ND ST                                                     0070100701
+42ND STREET SPUR                                            0070100701
+43RD ST                                                     0070100701
+44TH ST                                                     0070100701
+45TH ST                                                     0070100701
+46TH ST                                                     0070000700
+46TH ST                                                     0070100701
+4TH ST                                                      0070200702
+5TH ST                                                      0070200702
+6TH ST                                                      0070100701
+6TH ST                                                      0070200702
+7TH ST                                                      0070100701
+8TH ST                                                      0070100701
+9TH ST                                                      0070100701
+A J CROLEY RD                                               0070000700
+ABBEY CT                                                    0070000700
+ABE HOSKINS RD                                              0070000700
+ABERDEEN ST                                                 0070100701
+ABNER LN                                                    0070000700
+ACCESS RD                                                   0070000700
+ADA BROWN RD                                                0070000700
+ADA LAWSON RD                                               0070000700
+ADKINS LN                                                   0070100701
+AIRPORT DRIVE WAY                                           0070100701
+AIRPORT RD                                                  0070100701
+AKERS LN                                                    0070000700
+ALABAMA AVE                                                 0070200702
+ALBERT MAIDEN RD                                            0070000700
+ALBERT OSBORNE LN                                           0070000700
+ALEXANDRIA DR                                               0070000700
+ALLEN RD                                                    0070000700
+ALLEY NO1                                                   0070100701
+ALLEY NO11                                                  0070100701
+ALLEY NO12                                                  0070100701
+ALPINE RD                                                   0070100701
+ALVA MIRACLE RD                                             0070000700
+ALVA SAYLOR LN                                              0070000700
+ALVIE MIRACLE LN                                            0070000700
+AMBLESIDE DR                                                0070000700
+AMER RAY HENRY RD                                           0070000700
+ANDERSON LN                                                 0070000700
+ANDREW MIRACLE RD                                           0070000700
+ANDREW SAYLOR RD                                            0070000700
+ANGEL NNORTH LN                                             0070000700
+ANGELA GOODIN RD                                            0070000700
+ANN ST                                                      0070000700
+ANTLER RIDGE RD                                             0070000700
+APPLE BLOSSOM BRANCH RD                                     0070000700
+APPOLO FUELS RD                                             0070000700
+ARCADE HILL RD                                              0070000700
+ARCADE HILL RIGHT RD                                        0070000700
+ARCHER DR                                                   0070100701
+ARJAY BRYANT SPUR                                           0070000700
+ARJAY ELEMENTARY SCHOOL RD                                  0070000700
+ARJAY HILL RD                                               0070000700
+ARJAY SAWMILL HILL RD                                       0070000700
+ARJAY SMITH LOOP                                            0070000700
+ARLIN HILLS RD                                              0070100701
+ARMADALE AVE                                                0070100701
+ARNETT CEMETERY RD                                          0070000700
+ARNOLD LAWSON LN                                            0070000700
+ARTHUR HEIGHTS                                              0070100701
+ASHBURY AVE                                                 0070100701
+ASHER CEMETERY RD                                           0070000700
+ASHER SAWMILL RD                                            0070000700
+AUNT EMILY CEMETERY RD                                      0070000700
+AVLIE BUELL RD                                              0070000700
+AVONDALE RD                                                 0070100701
+AYERS ST                                                    0070000700
+AYLEBURY AVE                                                0070100701
+AZZLEE WILSON HOLLOW RD                                     0070000700
+B P BROWN RD                                                0070000700
+BAIN CEMETERY RD                                            0070000700
+BAKER BRANCH RD                                             0070000700
+BAKER GOODIN LN                                             0070000700
+BAKER HILL CEMETERY RD                                      0070000700
+BAKER HILL RD                                               0070000700
+BAKER LN                                                    0070000700
+BAKER RD                                                    0070000700
+BALKAN BROWNINGS CREEK CUT THRU RD                          0070000700
+BALKAN CEMETERY RD                                          0070000700
+BALKAN RD                                                   0070000700
+BALMORAL RD                                                 0070100701
+BARBARA RUTHERFORD RD                                       0070000700
+BARBER SHOP RD                                              0070000700
+BARNETT RD                                                  0070000700
+BAYS HILL RD                                                0070000700
+BEA MASON LN                                                0070000700
+BEANS FORK RD                                               0070000700
+BEANS FORK RD                                               0070100701
+BEANS FORK SCHOOL RD                                        0070000700
+BEAR HOPPER RD                                              0070000700
+BEAVER DAM RD                                               0070000700
+BECKYS BR                                                   0070000700
+BEE BRANCH RD                                               0070000700
+BEECH GROVE RD                                              0070000700
+BEECH RD                                                    0070000700
+BEECH TREE RD                                               0070000700
+BELCHER RD                                                  0070000700
+BELL BRANCH RD                                              0070000700
+BELL COUNTY COAL CORPORATION RD                             0070000700
+BELL JELLICO BRANCH RD                                      0070000700
+BELL RD                                                     0070100701
+BELL SMITH LN                                               0070000700
+BELLA GARDENS RD                                            0070000700
+BELLA GARDENS SPUR                                          0070000700
+BELLWOOD RD                                                 0070100701
+BELT LINE RD                                                0070000700
+BELT LINE RD                                                0070100701
+BENNETT FORK CHURCH RD                                      0070000700
+BENNETT LOOP                                                0070000700
+BENNY RD                                                    0070000700
+BERTHA SLUSHER RD                                           0070000700
+BESSIE GAMBREL RD                                           0070000700
+BEVERLY LN                                                  0070000700
+BIG OAK LANE WILLIAM BAKER LANE                             0070000700
+BILL BLACK RD                                               0070000700
+BILL BRANCH RD                                              0070000700
+BILL HOSKINS RD                                             0070000700
+BILL LYNCH LN                                               0070000700
+BILL MCGEORGE RD                                            0070000700
+BILL MIRACLE RD                                             0070000700
+BILL WILDER RD                                              0070000700
+BILLINGS LOOP                                               0070000700
+BILLY CROLEY RD                                             0070000700
+BILLY GOAT HILL RD                                          0070000700
+BILLY PATTERSON LN                                          0070000700
+BILLY PERKINS LN                                            0070000700
+BIMBOS HILL RD                                              0070000700
+BINGHAM GAP RD                                              0070000700
+BINGHAM HOLLOW LN                                           0070000700
+BINGHAM HOLLOW RD                                           0070000700
+BINGHAM LN                                                  0070000700
+BINGHAMTOWN RD                                              0070000700
+BIRD BRANCH RD                                              0070000700
+BLACKLICK BRANCH RD                                         0070000700
+BLACKMOUNT SCHOOL RD                                        0070000700
+BLACKSNAKE BRANCH RD                                        0070000700
+BLAKEMAN DR                                                 0070100701
+BLAKLEY LN                                                  0070100701
+BLANCHE CEMETERY RD                                         0070000700
+BLANTON RUTHERFORD RD                                       0070000700
+BLEDSOLE LN                                                 0070000700
+BLEVENS LN                                                  0070000700
+BLEVINS LN                                                  0070000700
+BLOOMSBURY AVE                                              0070100701
+BLUE HOLLOW RD                                              0070000700
+BLUE HOLLW CEMETERY RD                                      0070000700
+BLUE RIDGE CHURCH RD                                        0070000700
+BOBBY HELTON SPUR                                           0070000700
+BOBBY MOORE LN                                              0070000700
+BOBBY STURGEL RD                                            0070000700
+BOBBY TAYLOR RD                                             0070000700
+BOSS BINGHAM HOLLOW RD                                      0070000700
+BOWS HOLLOW RD                                              0070000700
+BOWS LN                                                     0070000700
+BRADFORD LOOP                                               0070000700
+BRADFORD ROAD RIGHT EXT                                     0070000700
+BRADFORD TOWN RD                                            0070000700
+BRADFORD TOWN RIGHT RD                                      0070000700
+BRADFORDTOWN SPUR                                           0070000700
+BRADSHAW LN                                                 0070000700
+BRANHAM LANE SPUR                                           0070000700
+BRANHAM RD                                                  0070000700
+BRANHAM RD                                                  0070100701
+BRATCHER CEMETERY RD                                        0070000700
+BREAST WORKS HILL RD                                        0070200702
+BRENTWOOD RD                                                0070100701
+BRITT ROSE RD                                               0070000700
+BRITT WILDER RD                                             0070000700
+BROCK HOLLOW CEMETERY                                       0070000700
+BROCK HOLLOW RD                                             0070000700
+BROCK HOLLOW SPUR                                           0070000700
+BROCK RD                                                    0070000700
+BROCK RICE CEMETERY RD                                      0070000700
+BROCK ROARK RD                                              0070000700
+BROCK SAWMILL HILL RD                                       0070000700
+BROOKS DR                                                   0070000700
+BROOKS LOOP                                                 0070000700
+BROOKS RD                                                   0070000700
+BROWN HILL RD                                               0070000700
+BROWN RD                                                    0070000700
+BROWN SLUSHER RD                                            0070000700
+BROWNING HILL RD                                            0070000700
+BROWNING LOOP                                               0070000700
+BROWNING LOOP SPUR                                          0070000700
+BROWNING SPUR                                               0070000700
+BROWNING TRAILER PARK LOOP                                  0070000700
+BROWNING WATER TANK RD                                      0070000700
+BRUSH CREEK FUSON CEMETERY RD                               0070000700
+BRYANT HILL RD                                              0070000700
+BRYANT HILL SPUR                                            0070000700
+BRYANT LN                                                   0070000700
+BUB SAYLOR HOLLOW BRANCH RD                                 0070000700
+BUCK HENDRICKSON RD                                         0070000700
+BUCK LN                                                     0070000700
+BUELL CEMETERY RD                                           0070000700
+BUELL HILL RD                                               0070000700
+BUELL LAWSON RD                                             0070000700
+BUELL ST                                                    0070100701
+BUELLS CEMETERY RD                                          0070000700
+BUFFALO CREEK RD                                            0070000700
+BULLINS LN                                                  0070000700
+BURCHFIELD LN                                               0070000700
+BURNETT DR                                                  0070000700
+BUTCHER ST                                                  0070100701
+CALDWELL CEMETERY RD                                        0070000700
+CALDWELL LEFT FORK RD                                       0070000700
+CALDWELL LN                                                 0070000700
+CALLEBS LN                                                  0070000700
+CALLOWAY CEMETERY RD                                        0070000700
+CALLOWAY RD E                                               0070000700
+CAMP BRANCH RD                                              0070000700
+CAMPBELL RD                                                 0070000700
+CAMPBELL RIDGE RD                                           0070000700
+CANNON CREEK LAKE HILL RD                                   0070000700
+CANTERBURY AVE                                              0070100701
+CAPPS HILL RD                                               0070000700
+CARA LN                                                     0070000700
+CARDINAL RD                                                 0070000700
+CAREY LN                                                    0070000700
+CARL GIVENS RD                                              0070000700
+CARMACK LN                                                  0070000700
+CARMONY ST                                                  0070100701
+CARROLL BRANCH RD                                           0070000700
+CARROLL HOLLOW RD                                           0070000700
+CARROLL HOLLOW RIGHT FORK RD                                0070000700
+CARTER BLOCK HOLLOW RD                                      0070000700
+CARTER BRANCH RD                                            0070000700
+CARY HOLLOW RD                                              0070000700
+CARY HOLLOW SPUR                                            0070000700
+CASEY LN                                                    0070100701
+CASSIE FUSON RD                                             0070000700
+CASTLEFORD WAY                                              0070000700
+CATALPA ST                                                  0070200702
+CAVE HOLLOW LN                                              0070000700
+CAWOOD LN                                                   0070100701
+CAWOOD RD                                                   0070100701
+CECIL PARTIN LN                                             0070000700
+CECIL SLUSHER LN                                            0070000700
+CEDAR ST                                                    0070200702
+CEMETERY HOLW                                               0070100701
+CENSURE AVE                                                 0070100701
+CENTENIAL CHURCH RD                                         0070000700
+CENTERS BRANCH RD                                           0070000700
+CHAINED ROCK LOOKOUT RD                                     0070000700
+CHANDA LN                                                   0070000700
+CHAPEL SPRINGS RD                                           0070000700
+CHARLES BOATRIGHT LN                                        0070000700
+CHARLES COLLETT RD                                          0070000700
+CHARLES GIBSON RD                                           0070000700
+CHARLES MOSLEY RD                                           0070000700
+CHARLES THOMPSON RD                                         0070000700
+CHARLES WILSON RD                                           0070000700
+CHARLIE GREEN LN                                            0070000700
+CHARLIE JACKSON RD                                          0070000700
+CHARLIE SMITH LN                                            0070000700
+CHARLIE SMITH RD                                            0070000700
+CHASTEEN LN                                                 0070000700
+CHASTEEN LN                                                 0070100701
+CHENOA CEMETERY RD                                          0070000700
+CHEROKEE ST                                                 0070100701
+CHERRY ST                                                   0070000700
+CHERRY ST                                                   0070100701
+CHERRY ST                                                   0070200702
+CHERRYPIE ALY                                               0070200702
+CHESLEY MIRACLE RD                                          0070000700
+CHESNEY ST                                                  0070000700
+CHESTER AVE                                                 0070100701
+CHESTER MIRACLE RD                                          0070000700
+CHESTLE POWERS RD                                           0070000700
+CHEVIOT WAY                                                 0070000700
+CHICHESTER AVE                                              0070100701
+CHLOE LN                                                    0070000700
+CHRISTA DR                                                  0070000700
+CHRISTIAN LN                                                0070000700
+CHURCH HILL RD                                              0070000700
+CHURCH OF THE FIRST BORN RD                                 0070000700
+CHURCH RD S                                                 0070000700
+CHURCH ST                                                   0070000700
+CHURCH STREET HL                                            0070000700
+CIRENCESTER AVE                                             0070100701
+CLARA ASHER LN                                              0070000700
+CLARENCE BAYS RD                                            0070000700
+CLARENCE BROCK LN                                           0070000700
+CLARENCE SMITH LN                                           0070000700
+CLARK RD                                                    0070000700
+CLAUDE FUSON RD                                             0070000700
+CLAUDE RUTHERFORD RD                                        0070000700
+CLAUDES HOLLOW RD                                           0070000700
+CLAY PARTIN RD                                              0070000700
+CLEAR CREEK CEMETERY RD                                     0070000700
+CLIFFORD HOSKINS RD                                         0070000700
+CLOUSE TAYLOR LN                                            0070000700
+CLOVER LEAF LN                                              0070000700
+CLYDE BAKER RD                                              0070000700
+CLYDE MIRACLE RD                                            0070000700
+CLYDE WOODS RD                                              0070000700
+COAL ACRES LN                                               0070100701
+COAL STONE BRANCH RD                                        0070000700
+COALWOOD RD                                                 0070100701
+COALWOOD ROAD SPUR1                                         0070100701
+COALWOOD ROAD SPUR2                                         0070100701
+COALWOOD ROAD SPUR3                                         0070100701
+COBB KNOBB RD                                               0070000700
+COLLETT LN                                                  0070000700
+COLLINS RD                                                  0070000700
+CONDIE MIRACLE ROAD EXTENSION SPUR                          0070000700
+CONDY MIRACLE RD                                            0070000700
+CORUM HOLLOW RD                                             0070000700
+COTHBURY AVE                                                0070100701
+COTTON CENTERS RD                                           0070000700
+COUNTRY CLUB DR                                             0070100701
+COWANS BRANCH RD                                            0070000700
+COWDEN SUBDV N                                              0070100701
+COWDEN SUBDV S                                              0070100701
+COX HOLLOW RD                                               0070000700
+COX LN                                                      0070000700
+COX TOWN RD                                                 0070000700
+CRACKER BOX CHURCH RD                                       0070000700
+CREE LN                                                     0070000700
+CREECH HOLLOW RD                                            0070000700
+CREECH HOLLOW SPUR                                          0070000700
+CRISP RD                                                    0070000700
+CROCKETT LN                                                 0070000700
+CROSS LN                                                    0070000700
+CUBBAGE CEMETERY RD                                         0070000700
+CUBBAGE LEFT RD                                             0070000700
+CUMBERLAND WOODS APARTMENTS                                 0070100701
+CYNTHIA GREEN RD                                            0070000700
+CYPRESS AVE                                                 0070200702
+CYPRESS ST                                                  0070200702
+DAIGE RD                                                    0070000700
+DALEWOOD RD                                                 0070100701
+DALTON RD                                                   0070000700
+DAN ASHER RD                                                0070000700
+DAN THOMPSON RD                                             0070000700
+DANIEL HOSKINS RD                                           0070000700
+DANNY HATFIELD LN                                           0070000700
+DANSBURY AVE                                                0070100701
+DAUGHERTY RD                                                0070000700
+DAVID HARRIS HILL RD                                        0070000700
+DAVID MIRACLE RD                                            0070000700
+DAVID RICE RD                                               0070000700
+DAVIDSON LN                                                 0070000700
+DAVIS BIRD TRL                                              0070000700
+DAVIS OXENDINE HOLLOW RD                                    0070000700
+DAWSON LN                                                   0070000700
+DAY LN                                                      0070100701
+DEAD END                                                    0070100701
+DEAN HILL DR                                                0070200702
+DEAN HILL RD                                                0070000700
+DEAN SAWMILL RD                                             0070000700
+DEFEVERS LN                                                 0070000700
+DELMAR ST                                                   0070100701
+DELTA GAS RD                                                0070000700
+DELTA GAS ROAD SPUR                                         0070000700
+DENNIS MIRACLE RD                                           0070000700
+DEWEY EVANS RD                                              0070000700
+DEWEY THOMPSON RD                                           0070000700
+DICKIE JACKSON RD                                           0070000700
+DILLARDS LN                                                 0070000700
+DIXIE LN                                                    0070100701
+DIXON RD                                                    0070000700
+DJ HILL RD                                                  0070000700
+DOE XING                                                    0070000700
+DOGWOOD TRAIL EXTENSION                                     0070000700
+DOGWOOD TRL                                                 0070000700
+DOLAN BAIRD RD                                              0070000700
+DON GREEN RD                                                0070000700
+DONALD BUELL RD                                             0070000700
+DONALD FUGATE RD                                            0070000700
+DONCASTER AVE                                               0070100701
+DONNIE BROCK LN                                             0070000700
+DONNIE CARNS RD                                             0070000700
+DONNIE HOSKINS RD                                           0070000700
+DORCHESTER AVE                                              0070100701
+DORIS CARROLL LN                                            0070000700
+DORTON BRANCH CEMETERY RD                                   0070000700
+DORTON BRANCH RD                                            0070000700
+DORTON BRANCH RD                                            0070200702
+DORTON LN                                                   0070000700
+DORTON RD                                                   0070000700
+DOVE LN                                                     0070000700
+DOZIER LN                                                   0070000700
+DR HENSLEY RD                                               0070000700
+DRIVEWAY                                                    0070000700
+DUNCAN LN                                                   0070000700
+DUNCAN LN                                                   0070100701
+DUNLAP HILL LOOP                                            0070000700
+DUNLAP HILL LOOP                                            0070100701
+DUNLAP HILL RD                                              0070100701
+DUNLAP HOLLOW RD                                            0070000700
+DUNLAP HOLLOW RD                                            0070100701
+E 9TH ST                                                    0070100701
+E AMESBURY AVE                                              0070100701
+E AND K COLLETT LN                                          0070000700
+E ARJAY CHURCH LN                                           0070000700
+E CUMBERLAND AVE                                            0070100701
+E DONCASTER AVE                                             0070100701
+E HUNLEY RD                                                 0070000700
+E PINEVILLE CHURCH RD                                       0070000700
+E PUBLIC LANDS RD                                           0070000700
+E SAILOR LN                                                 0070000700
+E W MIRACLE RD                                              0070000700
+EALYS ST                                                    0070000700
+EAN LN                                                      0070000700
+EARL ALLEN RD                                               0070000700
+EARL CEMETERY RD                                            0070000700
+EARL CEMETERY RD                                            0070100701
+EARL LN                                                     0070100701
+EARL MIRACLE CONNECTOR RD                                   0070000700
+EARL MIRACLE RD                                             0070000700
+EAST BROWNING LN                                            0070000700
+EAST JELICO SLUSHER LOOP                                    0070000700
+EBB BAILEY RD                                               0070000700
+ED HOSKINS RD                                               0070000700
+ED MCFAFFEE RD                                              0070000700
+ED MEGAFFEE RD                                              0070000700
+ED VANCE LN                                                 0070000700
+EDGEWOOD RD                                                 0070100701
+ELAM LN                                                     0070000700
+ELIZABETH HELTON RD                                         0070000700
+ELLENWOOD RD                                                0070100701
+ELLIE BAILEY RD                                             0070000700
+ELLIOT LN                                                   0070000700
+ELLIOT RD                                                   0070000700
+ELLIOTT MOUNTAIN RD                                         0070000700
+ELLIOTT MOUNTAIN RIGHT FORK RD                              0070000700
+ELMER PARTIN                                                0070000700
+ELMWOOD RD                                                  0070100701
+ELY LN                                                      0070100701
+EMILY DR                                                    0070000700
+EMMITT BARNETT RD                                           0070000700
+ENGLEWOOD RD                                                0070100701
+ENNISMORE DR                                                0070000700
+ENVIRONMENTAL SCHOOL RD                                     0070000700
+ERIC MILLER RD                                              0070000700
+ERNEST BROWNING ST                                          0070000700
+ERNEST BROWNING ST                                          0070100701
+ERNEST SLUSHER RD                                           0070000700
+ERNEST WOODWARD RD                                          0070000700
+ERNIE MASON RD                                              0070000700
+ESTILL HUBBARD RD                                           0070000700
+ETHEL HOBBS LN                                              0070000700
+EVANS DR                                                    0070000700
+EVANS DR                                                    0070100701
+EVANS LN                                                    0070000700
+EVANS LN                                                    0070100701
+EVELEN GOODIN LN                                            0070000700
+EVERETT MONEY RD                                            0070000700
+EVERETT TAYLOR RD                                           0070000700
+EVERLY LANE SPUR                                            0070000700
+EVERLY LN                                                   0070000700
+EWELL HOSKINS CEMETERY RD                                   0070000700
+EWELL LAWSON RD                                             0070000700
+EXTER AVE                                                   0070100701
+FAIRVIEW LN                                                 0070100701
+FAIRVIEW RD                                                 0070100701
+FAIRVIEW SUBDIVISION RD                                     0070100701
+FAITH TEMPLE CHURCH RD                                      0070000700
+FARMERS SUPPLY INCORPORATED RD                              0070000700
+FAYE MIRACLE RD                                             0070000700
+FEE LN                                                      0070100701
+FERN LAKE RD                                                0070000700
+FERNDALE ACRES RD                                           0070000700
+FERNDALE APARTMENTS RD                                      0070000700
+FERNDALE APARTMENTS SPUR                                    0070000700
+FIELDS STEET RD                                             0070000700
+FIR ST                                                      0070200702
+FISH MILLS LN                                               0070000700
+FISHER ASHER RD                                             0070000700
+FLEATWOOD RD                                                0070100701
+FLORA HOLLAND LN                                            0070000700
+FLORENCE BROCK DR                                           0070000700
+FLOSSIE COX RD                                              0070000700
+FLOYD CUPP RD                                               0070000700
+FONDE CHRISTIAN ACADEMY RD                                  0070000700
+FORD LAWSON RD                                              0070000700
+FOREST ACRES RD                                             0070000700
+FOREST ST                                                   0070200702
+FORESTER RD                                                 0070000700
+FOUR MILE COUNTY RD                                         0070000700
+FOURMILE LEFT FORK MOORE CREEK RD                           0070000700
+FOURMILE RIGHT FORK WHITE MOUNTAIN RD                       0070000700
+FOURMILE RUN RD                                             0070000700
+FOURMILE RUN RD                                             0070100701
+FOX HOLE RD                                                 0070000700
+FRAKES DAYCARE RD                                           0070000700
+FRANK SALMON RD                                             0070000700
+FRASURE RD                                                  0070000700
+FRED GREGORY RD                                             0070000700
+FREDDIE BAKER RD                                            0070000700
+FREDDIE JOHNSON LN                                          0070000700
+FREDERECK HILL RD                                           0070000700
+FREEMAN LN                                                  0070000700
+FULSON LANE HL                                              0070000700
+FURNACE RD                                                  0070100701
+FUSHON CHAPEL RD                                            0070000700
+FUSON HILL LN                                               0070000700
+FUSON HOLLOW RD                                             0070000700
+FUSON RD                                                    0070000700
+FUSON RISNER RD                                             0070000700
+FUSTUN LOOP                                                 0070000700
+GABE HOWARD RD                                              0070000700
+GAMBREL LN                                                  0070000700
+GAP HOLLOW RD                                               0070000700
+GARFIELD D ROBBINS RD                                       0070000700
+GARNET LOOP                                                 0070000700
+GAS WELL RD                                                 0070000700
+GASOLINE ALLEY RD                                           0070000700
+GENERAL ROBBINS RD                                          0070000700
+GENT LN                                                     0070100701
+GEORGE ANN DR                                               0070100701
+GEORGE ANN LEFT DR                                          0070100701
+GEORGE BAKER RD                                             0070000700
+GEORGE BROOKS RD                                            0070000700
+GEORGE BYRD ST                                              0070100701
+GEORGE DONNA LEWIS RD                                       0070000700
+GEORGE FROST RD                                             0070000700
+GEORGE NEAL HILL RIGHT RD                                   0070000700
+GEORGE NEIL HILL RD                                         0070000700
+GEORGE PARTIN LN                                            0070000700
+GEORGE TUTTLE RD                                            0070000700
+GEORGIA AVE                                                 0070200702
+GERALDEN JOHNSON RD                                         0070000700
+GIBSON CEMETERY RD                                          0070000700
+GIBSON HILL RD                                              0070000700
+GIBSON HILL RD                                              0070200702
+GIBSON RD                                                   0070000700
+GILBERT LN                                                  0070000700
+GIVENS COAL RD                                              0070000700
+GIVENS TRAILER PARK RD                                      0070000700
+GLENBORO RD                                                 0070000700
+GLENBORO RD                                                 0070100701
+GLENN GAMBREL RD                                            0070000700
+GLENWOOD PARK RD                                            0070100701
+GLOUCESTER AVE                                              0070100701
+GOBBLERS KNOB                                               0070000700
+GODSAY RD                                                   0070000700
+GOLDEN HILL RD                                              0070000700
+GOLDEN LN                                                   0070000700
+GOLDEY WILSON RD                                            0070000700
+GOODIN CEMETERY RD                                          0070000700
+GOODIN QUILLEN CEMETERY RD                                  0070000700
+GORDAN LN S                                                 0070000700
+GORDAN LN S                                                 0070100701
+GORDON ST                                                   0070100701
+GRACIE COLLITT RD                                           0070000700
+GRAMBREL LN                                                 0070000700
+GRANT HELTON RD                                             0070000700
+GRANT HUNTER RD                                             0070000700
+GRAVES LOOP                                                 0070000700
+GRAY JACKSON RD                                             0070000700
+GRAY LN                                                     0070000700
+GREEN BERRY LN                                              0070000700
+GREEN CAMP LEFT FORK RD                                     0070000700
+GREEN CAMP RD                                               0070000700
+GREEN HOSKINS RD                                            0070000700
+GREEN LN                                                    0070000700
+GREEN ST                                                    0070100701
+GREENBRIAR HOLLOW RD                                        0070000700
+GREENBRIAR TRAILER PARK DR                                  0070000700
+GREENE CEMETERY RD                                          0070000700
+GREENE FARM LN                                              0070000700
+GREENHILL CEMETERY                                          0070100701
+GREENHILL CEMETERY A                                        0070100701
+GREENHILL CEMETERY B                                        0070100701
+GREENWOOD RD                                                0070100701
+GRIFFIN RD                                                  0070000700
+GROUND HOG HOLLOW RD                                        0070000700
+GULLEY LN                                                   0070000700
+GUM SPRINGS RD                                              0070100701
+GUMWOOD                                                     0070100701
+GUSTY PARTIN RD                                             0070000700
+GUY LANE LEFT FORK                                          0070000700
+GUY LANE RIGHT FORK                                         0070000700
+GUY LN                                                      0070000700
+H AND H MINOR LN                                            0070000700
+H B PARTIN LN                                               0070000700
+H L GREGORY RD                                              0070000700
+HALEY LN                                                    0070000700
+HALL HOLLOW CEMETERY RD                                     0070000700
+HALL HOLLOW RD                                              0070000700
+HALLS RD                                                    0070000700
+HAMLET LN                                                   0070000700
+HAMLIN HILL RD                                              0070000700
+HAMLIN LN                                                   0070100701
+HAMPTON CT                                                  0070000700
+HAMPTON LN                                                  0070000700
+HAMPTONSHIRE LN                                             0070000700
+HAPPY HOLLOW APARTMENTS                                     0070100701
+HAPPY HOLLOW HILL RD                                        0070000700
+HAPPY HOLLOW LEFT FORK RD                                   0070000700
+HAPPY HOLLOW RD                                             0070000700
+HAPPY HOLLOW RD                                             0070100701
+HARBELL HEIGHTS RD                                          0070000700
+HARBELL RD                                                  0070000700
+HARBIN HILL RD                                              0070000700
+HARKIN RD                                                   0070000700
+HARLAN COUNTY LINE CEMETERY RD                              0070000700
+HARMONY HTS                                                 0070000700
+HAROLD COLLETT LN                                           0070000700
+HARRIS HILL LEFT FORK RD                                    0070000700
+HARRIS HILL LN                                              0070000700
+HARRIS HILL RD                                              0070000700
+HART LN                                                     0070000700
+HARVILLE RD                                                 0070000700
+HATFIELD LN                                                 0070000700
+HAWK LN                                                     0070000700
+HAYWOOD DR                                                  0070100701
+HAZEL PARTIN RD                                             0070000700
+HB WILDER LN                                                0070000700
+HEADY FUSON RD                                              0070000700
+HEBREW CEMETERY RD                                          0070100701
+HELTON LOOP                                                 0070000700
+HELTON RANCH RD                                             0070000700
+HELTON RD                                                   0070000700
+HEMBREE LN                                                  0070000700
+HEMLOCK HILL RD                                             0070000700
+HEMLOCK HOLLOW RD                                           0070000700
+HEN WILDER BRANCH RD                                        0070000700
+HEN WILDER BRANCH SPUR                                      0070000700
+HENDERSON CEMETERY RD                                       0070000700
+HENDERSON CHURCH RD                                         0070000700
+HENDERSON GROVE CEMETERY RD                                 0070000700
+HENDERSON SETTLEMENT HOLW                                   0070000700
+HENDERSON SETTLEMENT LOOP                                   0070000700
+HENDRICKSON HILL CEMETERY RD                                0070000700
+HENDRICKSON HILL RD                                         0070000700
+HENSLEY DR                                                  0070000700
+HENSLEY LN                                                  0070000700
+HERBERT MIDDLETON LOOP                                      0070000700
+HERBIE BROCK RD                                             0070000700
+HESTLE BROCK RD                                             0070000700
+HICKMAN DR                                                  0070000700
+HICKMAN RD                                                  0070000700
+HIDDEN ACRES LN                                             0070100701
+HIDDEN ACRES SPUR                                           0070100701
+HIGH POINT RD                                               0070000700
+HIGH ST                                                     0070100701
+HIGHLAND AVE                                                0070200702
+HIGHLAND DR                                                 0070000700
+HIGHLAND DR                                                 0070100701
+HIGNITE HOLLOW RD                                           0070000700
+HINKS HTS DR                                                0070100701
+HOBART GARNETT RD                                           0070000700
+HODGES RD                                                   0070000700
+HOLLIFIELD LN                                               0070000700
+HOLLY ST                                                    0070200702
+HOLLYWOOD LOOP                                              0070100701
+HOLMES LN                                                   0070000700
+HOME RUN RD                                                 0070000700
+HOME RUN RD                                                 0070100701
+HOMER BROCK RD                                              0070000700
+HOMER GREEN RD                                              0070000700
+HONDA STORE RD                                              0070100701
+HONEYCUTT LN                                                0070000700
+HONEYCUTT RD                                                0070000700
+HOPE LN                                                     0070000700
+HOPPER RD                                                   0070100701
+HORIZON ESTS                                                0070000700
+HORIZON ESTS W                                              0070000700
+HORN PURSIFULL RD                                           0070000700
+HORSESHOE DR                                                0070200702
+HOSKINS HILL RD                                             0070000700
+HOSKINS LOOP                                                0070000700
+HOSKINS LOOP SPUR                                           0070000700
+HOUSTON MARACLE LN                                          0070000700
+HOWARD AND BLEVINS RD                                       0070000700
+HOWARD CEMETERY LOOP                                        0070000700
+HOWARD CEMETERY RD                                          0070000700
+HOWARD DR                                                   0070000700
+HOWARD HILL LOOP                                            0070000700
+HOWARD HILL RD                                              0070000700
+HOWARD LN                                                   0070000700
+HOWERTON LN                                                 0070000700
+HUBBARD HOLLOW RD                                           0070000700
+HUFFMAN RD                                                  0070000700
+HUGHETT LN                                                  0070000700
+HUNTER HOLLOW RD                                            0070000700
+HURST CEMETERY RD E                                         0070000700
+HURST CEMETERY RD W                                         0070100701
+HURST HOLLOW RD                                             0070000700
+HURST HOLLOW SPUR                                           0070000700
+HURST LN                                                    0070000700
+HURST MOUNTAIN RD                                           0070000700
+HURST RD                                                    0070100701
+ILCHESTER AVE                                               0070100701
+IN STATE PARK                                               0070000700
+INGRAM BRANCH RD                                            0070000700
+INNMOND RD                                                  0070000700
+IRONWOOD RD                                                 0070100701
+ISAACS RD                                                   0070000700
+IVA AVE                                                     0070100701
+J B BAIRD RD                                                0070000700
+J M CUPP RD                                                 0070000700
+J MILTONS RESTAURANT AND BP STATION S                       0070100701
+JACK HALL RD                                                0070000700
+JACK POWERS RD                                              0070000700
+JACK POWERS SPUR                                            0070000700
+JACK SMITH LN                                               0070000700
+JACKIE TAYLOR RD                                            0070000700
+JACKLIN HELTON RD                                           0070000700
+JACKSON CEMETERY RD                                         0070000700
+JACKSON DR                                                  0070000700
+JACKSON HILL RD                                             0070000700
+JACKSON LN                                                  0070000700
+JACKSON MARKET LOOP                                         0070000700
+JACKSON RD                                                  0070000700
+JADEN LN                                                    0070000700
+JAKE HOWARD RD                                              0070000700
+JAKE HOWARD SPUR                                            0070000700
+JAMES BLEVINS LN                                            0070000700
+JAMES CALDWELL LEFT RD                                      0070000700
+JAMES HOSKINS RD                                            0070000700
+JAMES MIRACLE RD                                            0070000700
+JAMES MIRACLE SPUR                                          0070000700
+JAMES PAYNE RD                                              0070000700
+JASON TAYLOR RD                                             0070000700
+JEFFERS LN                                                  0070000700
+JENNIE BRANCH RD                                            0070000700
+JENSON CEMETERY RD                                          0070000700
+JENSON CHURCH RD                                            0070000700
+JENSON HOLLOW LEFT RD                                       0070000700
+JENSON HOLLOW RD                                            0070000700
+JENSON HOLLOW RIGHT RD                                      0070000700
+JEROME CALDWELL RD                                          0070000700
+JERRY LEE RD                                                0070000700
+JESSE ADKINS LN                                             0070000700
+JIM BROCK RD                                                0070000700
+JIM HOLLOW RD                                               0070000700
+JIM THOMPSON RD                                             0070000700
+JIM WILDER RD                                               0070000700
+JOBIE COLLETT RD                                            0070000700
+JOE BEV RD                                                  0070000700
+JOE CARROLL HOLLOW RD                                       0070000700
+JOE E DELL RD                                               0070000700
+JOE JONES RD                                                0070000700
+JOE SAYLOR RD                                               0070000700
+JOE SIMPSON RD                                              0070000700
+JOES LN                                                     0070000700
+JOHN BAILEY RD                                              0070000700
+JOHN HOLLOW FARM RD                                         0070000700
+JOHN PARTIN RD                                              0070000700
+JOHN SIZEMORE RD                                            0070000700
+JOHN TAYLOR RD                                              0070000700
+JOHN TYLER LN                                               0070000700
+JOHNNY JACKSON CEMETERY RD                                  0070000700
+JOHNNY JACKSON LN                                           0070000700
+JOHNS CIR                                                   0070000700
+JOHNSON CEMETERY RD                                         0070000700
+JOHNSON CEMETERY RD                                         0070100701
+JONES AVE                                                   0070000700
+JONES AVE                                                   0070200702
+JONES CEMETERY LN                                           0070000700
+JONES HOLLOW RD                                             0070000700
+JONES LEWIS LN                                              0070000700
+JONES RD                                                    0070000700
+JONES WILSON LN                                             0070000700
+JORDAN BRANCH RD                                            0070000700
+JOY OTIS MIRACLE RD                                         0070000700
+JUDGE HOSKINS RD                                            0070000700
+JUELITA MIRACLE LN                                          0070000700
+JUNIOR BAKER RD                                             0070000700
+JUNIOR NEWBY RD                                             0070000700
+JUNIOR SMITH LN                                             0070000700
+K DEAN RD                                                   0070000700
+KARRON LN                                                   0070000700
+KAY LN                                                      0070000700
+KELLEY HOWARD LN                                            0070000700
+KELLY PARTIN RD                                             0070000700
+KELSEY LN                                                   0070000700
+KEN MCGEORGE LN                                             0070000700
+KENNETH HOSKINS RD                                          0070000700
+KENNETH JACKSON RD                                          0070000700
+KENTUCKY AVE                                                0070100701
+KENTUCKY RIDGE STATE FOREST RD                              0070000700
+KENTUCKY TENNESSEE ALY                                      0070200702
+KENVIR ALY                                                  0070200702
+KENWOOD RD                                                  0070100701
+KERRI BROOK RD                                              0070000700
+KETTLE ISLAND BRANCH RD                                     0070000700
+KILLION HURST RD                                            0070100701
+KIM LN                                                      0070100701
+KINCADE LN                                                  0070000700
+KING ROARK RD                                               0070000700
+KINGSBURY DR                                                0070100701
+KNOT HOLE LEFT RD                                           0070000700
+KNOT HOLE LN                                                0070000700
+KNOT HOLE RD                                                0070000700
+KNOT HOLE RIGHT RD                                          0070000700
+KNUCKLES CHRISTOPHER LN                                     0070000700
+KNUCKLES HAMMONTREE RD                                      0070000700
+KNUCKLES LN                                                 0070000700
+KROLEY CEMETERY RD                                          0070000700
+KU DRIVE WAY                                                0070000700
+KY1344                                                      0070000700
+KY1491                                                      0070000700
+KY1534                                                      0070000700
+KY1595 N                                                    0070000700
+KY1595 S                                                    0070000700
+KY188                                                       0070000700
+KY190                                                       0070000700
+KY2011                                                      0070000700
+KY2013                                                      0070000700
+KY2014                                                      0070000700
+KY2077                                                      0070000700
+KY217                                                       0070000700
+KY221                                                       0070000700
+KY225                                                       0070000700
+KY3085                                                      0070000700
+KY3482                                                      0070000700
+KY3483                                                      0070000700
+KY3484                                                      0070000700
+KY3485                                                      0070000700
+KY535                                                       0070000700
+KY66                                                        0070000700
+KY72                                                        0070000700
+KY74                                                        0070000700
+KY92                                                        0070000700
+KY987 E                                                     0070000700
+KY987 W                                                     0070000700
+KY988                                                       0070000700
+L D SAYLOR RD                                               0070000700
+LAKE HILL RD                                                0070100701
+LAKE VIEW LN                                                0070000700
+LAKE VW LN                                                  0070000700
+LAMBERT DR                                                  0070000700
+LANGFORD LOWE RD                                            0070000700
+LARCH AVE                                                   0070200702
+LARKIN JACKSON RD                                           0070000700
+LARRY BEVERLY RD                                            0070000700
+LARRY MESSER LN                                             0070000700
+LASLEY HILL RD                                              0070000700
+LAUREL FORD RD                                              0070000700
+LAUREL HILL CHURCH RD                                       0070000700
+LAUREL LAKES RD                                             0070000700
+LAUREL SPRINGS RD                                           0070000700
+LAUREL ST                                                   0070000700
+LAUREL ST                                                   0070200702
+LAUREL WOOD DR                                              0070100701
+LAUREN LN                                                   0070000700
+LAW BRANCH RD                                               0070000700
+LAWRENCE CALDWELL RD                                        0070000700
+LAWRENCE HATFIELD LN                                        0070000700
+LAWRENCE HOSKINS RD                                         0070000700
+LAWRENCE LINGAR RD                                          0070000700
+LAWS RD                                                     0070000700
+LAWSON CEMETERY RD                                          0070000700
+LAWSON MIDWAY RD                                            0070000700
+LAWSON TURKEY CREEK RD                                      0070000700
+LB EVANS RD                                                 0070000700
+LEAFWOOD RD                                                 0070100701
+LEAMON LEE RD                                               0070000700
+LEDFORD NEAL RD                                             0070000700
+LEE ACRES RD                                                0070000700
+LEE ACRES TRAILER PARK DR                                   0070000700
+LEE CEMETERY RD                                             0070000700
+LEE COX CEMETERY RD                                         0070000700
+LEE DAVIS RD                                                0070000700
+LEE HATFIELD RD                                             0070000700
+LEE RD                                                      0070000700
+LEE SMITH RD                                                0070000700
+LEES LN                                                     0070000700
+LEFEVERS HILL RD                                            0070000700
+LEFT FORK OF THE REDBIRD RD                                 0070000700
+LEMAY RD                                                    0070000700
+LEONARD HOLMES LN                                           0070000700
+LEONARD WILLIAMS LN                                         0070000700
+LESTER SAYLOR HILL RD                                       0070000700
+LEVI BRANCH RD                                              0070000700
+LEVI TAYLOR RD                                              0070000700
+LEWIS DR                                                    0070000700
+LEWIS LN                                                    0070100701
+LICK FORK RD                                                0070000700
+LIGE BARNETT LN                                             0070000700
+LILY FUSON RD                                               0070000700
+LIMESTONE BRANCH RD                                         0070000700
+LISA LN                                                     0070000700
+LITTLE CLEAR CREEK RD                                       0070000700
+LITTLE CLEAR CREEK ROAD EXT                                 0070000700
+LITTLE CREEK RD                                             0070000700
+LITTLE GAP HILL RD                                          0070000700
+LITTLE TUNNEL LEFT RD                                       0070000700
+LIZZIE PARTIN RD                                            0070000700
+LLOYD FEE RD                                                0070000700
+LN HILL RD                                                  0070000700
+LOG MILL RD                                                 0070000700
+LOGAN CORPORATION                                           0070100701
+LOGGING RD                                                  0070000700
+LONE JACK SCHOOL RD                                         0070000700
+LONE JACK TRAILER PARK RD                                   0070000700
+LONG BRANCH RD                                              0070000700
+LONG BRANCH RIGHT FORK RD                                   0070000700
+LONG HOLLOW RD                                              0070000700
+LONG ST                                                     0070000700
+LONG TRACK RD                                               0070000700
+LONGWOOD RD                                                 0070100701
+LORENE BROCK RD                                             0070000700
+LORES SMITH RD                                              0070000700
+LOST RD                                                     0070000700
+LOTHBURY AVE                                                0070100701
+LOVEDAY LN                                                  0070000700
+LOW ASH HOLLOW RD                                           0070000700
+LOW ASH HOLLOW SPUR                                         0070000700
+LOWER CHRISTY RD                                            0070000700
+LOWER GIBSON LN                                             0070100701
+LUCY GAMBREL RD                                             0070000700
+LUCY PHILPOT RD                                             0070000700
+LUKE HELTON LOOP                                            0070000700
+LUKE WOODWARD LN                                            0070000700
+LUTHER ADKINS LN                                            0070000700
+LYNNWOOD TER                                                0070200702
+LYNWOOD AVE                                                 0070100701
+LYONS LN                                                    0070000700
+M HOSKINS RD                                                0070000700
+MACK AVE                                                    0070100701
+MACKEY SMITH CEMETERY RD                                    0070000700
+MADISON LANE SPUR                                           0070000700
+MADISON LN                                                  0070000700
+MADISON LN E                                                0070000700
+MAGNUT HOLLOW RD                                            0070000700
+MAIDEN LN                                                   0070000700
+MAIDEN NO3 CEMETERY RD                                      0070000700
+MAIN HOLLOW RD                                              0070000700
+MANCHESTER AVE                                              0070100701
+MANDY NAPIER RD                                             0070000700
+MANDY NAPIER SPUR                                           0070000700
+MAPLE ST                                                    0070200702
+MARCUM LN                                                   0070000700
+MARIE COWAN RD                                              0070000700
+MARTHA BROWN RD                                             0070000700
+MARTHA LOCK BROCK RD                                        0070000700
+MARTIN RD                                                   0070000700
+MARY BOATRIGHT RD                                           0070000700
+MARY MASON RD                                               0070000700
+MARY ST                                                     0070000700
+MARYS LN                                                    0070000700
+MASON & HURST RD                                            0070000700
+MASON LN                                                    0070000700
+MASON LN                                                    0070100701
+MATHEL CHURCH RD                                            0070000700
+MATHEL RIGHT FORK RD                                        0070000700
+MAX WELLINGTON HTS                                          0070100701
+MAXINE LEWIS RD                                             0070000700
+MAXWELL LN                                                  0070000700
+MAYES CARNES RD                                             0070100701
+MAYNARD DR                                                  0070000700
+MCCLOUD HARRIS RD                                           0070000700
+MCCRAKEN DR                                                 0070200702
+MCCULLOUGH CEMETERY RD                                      0070000700
+MCFAFFEE CEMETERY RD                                        0070000700
+MCGAFFIE LOOP                                               0070000700
+MCGEORGE CEMETERY RD                                        0070000700
+MCGEORGE DR                                                 0070000700
+MCGEORGE LANE SPUR                                          0070000700
+MCGEORGE LEFT SPUR                                          0070000700
+MCGEORGE LN                                                 0070000700
+MCPHERSON ST                                                0070100701
+MEADOW BRANCH RD                                            0070000700
+MEADOW LN                                                   0070100701
+MEDLEY LN                                                   0070100701
+MELVIN BEVERLY LN                                           0070000700
+MELVIN BOLTON LN                                            0070000700
+MEREDITH LN                                                 0070100701
+MESSER LN                                                   0070000700
+METCALF LN                                                  0070000700
+MEYERS LN                                                   0070000700
+MIDDLESBORO CEMETERY                                        0070100701
+MIDDLETON LOOP                                              0070000700
+MILE BRANCH RD                                              0070000700
+MILL CREEK CEMETERY RD                                      0070000700
+MILL CREEK RD                                               0070000700
+MILLER LOOP                                                 0070000700
+MILLER RD                                                   0070000700
+MILLS HUNTER RD                                             0070000700
+MILLS WALNUT LN                                             0070000700
+MINK LN                                                     0070000700
+MINOR RD                                                    0070000700
+MINTON HOUSTON LN                                           0070100701
+MIRACLE CEMETERY RD                                         0070000700
+MIRACLE DR                                                  0070000700
+MIRACLE EAST RD                                             0070000700
+MIRACLE FARM RD                                             0070000700
+MIRACLE HILL RD                                             0070000700
+MIRACLE LN                                                  0070000700
+MO GREEN RD                                                 0070000700
+MO GREEN SPUR                                               0070000700
+MOCKINGBIRD HOLLOW RD                                       0070000700
+MOCKINGBIRD JACKSON CEMETERY RD                             0070000700
+MONA ST                                                     0070200702
+MONEY LN                                                    0070000700
+MONROE ST                                                   0070200702
+MONTGOMERY LN                                               0070100701
+MOORE HALL RD                                               0070000700
+MOORE LANE SPUR                                             0070000700
+MORGAN HOLLOW RD                                            0070000700
+MORGAN MACEY LN                                             0070000700
+MORRIS ST                                                   0070200702
+MOSLEY LN                                                   0070000700
+MOSSIE LN                                                   0070000700
+MUD LICK BRANCH RD                                          0070000700
+MUD LICK RD                                                 0070000700
+MUD LICK RD                                                 0070100701
+MUD LICK SPUR                                               0070000700
+MULLINS RD                                                  0070000700
+MURRAY LN                                                   0070000700
+McCABE LN                                                   0070000700
+N 10TH ST                                                   0070100701
+N 11TH ST                                                   0070100701
+N 12TH                                                      0070000700
+N 12TH                                                      0070100701
+N 12TH ST                                                   0070000700
+N 12TH ST                                                   0070100701
+N 15TH ST                                                   0070100701
+N 16TH ST                                                   0070100701
+N 19TH ST                                                   0070100701
+N 20TH ST                                                   0070100701
+N 21ST ST                                                   0070100701
+N 24TH ST                                                   0070100701
+N 26TH ST                                                   0070100701
+N 27TH ST                                                   0070100701
+N 28TH ST                                                   0070100701
+N 29TH ST                                                   0070100701
+N 31ST ST                                                   0070100701
+N 34TH ST                                                   0070100701
+N 35TH ST                                                   0070100701
+N 38TH ST                                                   0070100701
+N 39TH ST                                                   0070100701
+N COAL COMPANY RD                                           0070000700
+N CUMBERLAND AVE                                            0070200702
+N GLENWOOD PARK RD                                          0070100701
+N GORDON LN                                                 0070100701
+N KENTUCKY AVE                                              0070200702
+N PARK AVE                                                  0070200702
+N PETERSBOROUGH AVE                                         0070100701
+N ROBERT L MADON                                            0070000700
+N ROBERT L MADON                                            0070200702
+N WOOD EST                                                  0070100701
+NAIEPER LN                                                  0070200702
+NANCE DURHAM RD                                             0070000700
+NAPER LN                                                    0070000700
+NAPIER DR                                                   0070100701
+NAPIER LN                                                   0070000700
+NATHANIEL JOHNSON RD                                        0070000700
+NATURES LN                                                  0070100701
+NEAL RD                                                     0070000700
+NED GIBSON RD                                               0070000700
+NEKODA DR                                                   0070000700
+NELSON LN                                                   0070000700
+NELSON LN                                                   0070100701
+NELSON SIZEMORE RD                                          0070000700
+NELSON WILDER RD                                            0070000700
+NEVADA HURST RD                                             0070000700
+NEW COAL COMPANY RD                                         0070000700
+NEW ROAD SANTAS PLACE RD                                    0070000700
+NEWTON BRANCH RD                                            0070000700
+NEWTOWN RD                                                  0070000700
+NEWVINE CEMETERY RD                                         0070000700
+NICHOLAS RD                                                 0070000700
+NOETOWN RD                                                  0070100701
+NORRIS KELLEY RD                                            0070000700
+NORWOOD RD                                                  0070100701
+NOTTINGHAM DR                                               0070000700
+NUCKLES LN                                                  0070000700
+NUNNLEY HILL RD                                             0070000700
+NUTWOOD RD                                                  0070100701
+OAK HL                                                      0070100701
+OAK ST                                                      0070000700
+OAK ST                                                      0070200702
+OAKNUT ALY                                                  0070200702
+OAKWOOD RD                                                  0070100701
+OAT FIELD BRANCH RD                                         0070000700
+OLD BELL HIGH LOOP                                          0070000700
+OLD BELL HIGH RD                                            0070000700
+OLD BLACKMONT CHURCH RD                                     0070000700
+OLD BUCKEYE SCHOOL RD                                       0070000700
+OLD COUNTRY LN                                              0070000700
+OLD COW FORK CHURCH RD                                      0070000700
+OLD CROSS RD                                                0070000700
+OLD FERNDALE LN                                             0070000700
+OLD HORSEFORD HOLLOW RD                                     0070000700
+OLD HOUSE BRANCH RD                                         0070000700
+OLD HOUSE BRANCH SPUR                                       0070000700
+OLD JENSON HOLOW RD                                         0070000700
+OLD KY 221 CEMETERY RD                                      0070000700
+OLD KY 66 LN                                                0070000700
+OLD LIBERTY CHURCH RD                                       0070000700
+OLD MOCKINGBIRD LN                                          0070000700
+OLD PINEVILLE PIKE                                          0070000700
+OLD PINEVILLE PIKE                                          0070100701
+OLD SCHOOL LEFT RD                                          0070000700
+OLD SCHOOL RD                                               0070000700
+OLD SHENOA RD                                               0070000700
+OLD US 25 LOOP                                              0070000700
+OLD WILSON LN                                               0070100701
+OLD Y HOLLOW RD                                             0070000700
+ONKST DR                                                    0070000700
+ONZIE STEWERT RD                                            0070000700
+ORR HILL RD                                                 0070000700
+OSBORNE RD                                                  0070000700
+OSCAR JACKSON RD                                            0070000700
+OSCAR PHIPPS RD                                             0070000700
+OSCAR SMITH RD                                              0070000700
+OTT BROCK FIELDS RD                                         0070000700
+OTT TOLLIVER RD                                             0070000700
+OVERBY EVANS RD                                             0070000700
+OWENS HILL RD                                               0070000700
+OWL HOLLOW RD                                               0070000700
+PAGE SCHOOL RD                                              0070000700
+PARKER LN                                                   0070100701
+PARKS PHELPS LN                                             0070000700
+PARROT LAKE B RD                                            0070000700
+PARROT LAKE RD                                              0070000700
+PARROT LAKE ROAD RIGHT SPUR                                 0070000700
+PARROTT LN                                                  0070000700
+PARTIN BRANCH RD                                            0070000700
+PARTIN LAKE                                                 0070000700
+PARTIN LOOP                                                 0070000700
+PARTIN MASON CEMETERY RD                                    0070000700
+PARTIN RD                                                   0070000700
+PARTIN RIDGE CEMETERY RD                                    0070000700
+PARTIN RIDGE RD                                             0070000700
+PARTIN SAWMILL RD                                           0070000700
+PARTINS LN                                                  0070000700
+PAT ST                                                      0070000700
+PATTERSON BRANCH RD                                         0070000700
+PATTERSON HILL RD                                           0070000700
+PATTERSON RD                                                0070000700
+PAUL ELLIOTT LN                                             0070000700
+PAULA DR                                                    0070000700
+PAULA DRIVE RIGHT FORK RD                                   0070000700
+PAULS PL                                                    0070000700
+PAYNES LN                                                   0070000700
+PEACE DR                                                    0070000700
+PEACH BLOSSOM RD                                            0070000700
+PEANUT GORDON LN                                            0070000700
+PEANUT GORDON LN                                            0070100701
+PEARL V BROCK LN                                            0070000700
+PEARLY VIEW RD                                              0070100701
+PETRA LN                                                    0070000700
+PEYTON LN                                                   0070000700
+PHALEN BARTLEY RD                                           0070000700
+PHIL GIBSON RD                                              0070000700
+PHILPOT LN                                                  0070000700
+PHIPPS KIRKLAND RD                                          0070000700
+PICADILLY CT                                                0070000700
+PICKERINE CEMETERY RD                                       0070000700
+PILLON RD                                                   0070000700
+PINE BRANCH RD                                              0070000700
+PINE MOUNTAIN CIR                                           0070000700
+PINE MOUNTAIN ESTATE RD                                     0070000700
+PINE MOUNTAIN LODGE CIR                                     0070000700
+PINE MOUNTAIN LODGE DR                                      0070000700
+PINE MOUNTAIN STATE PARK RD                                 0070000700
+PINE MOUNTAIN STATE PARK RD W                               0070000700
+PINE ST                                                     0070000700
+PINE ST                                                     0070200702
+PINE TREE RD                                                0070000700
+PINEWOOD LN                                                 0070100701
+PINEY GIBSON LN                                             0070000700
+PINNACLE DR                                                 0070100701
+PINNACLE VIEW RD                                            0070000700
+PINNACLE VIEW RD                                            0070100701
+PITMANS CREEK RD                                            0070000700
+PLUM ST                                                     0070200702
+POLAR BEAR AVE                                              0070100701
+POLLY BLEVINS RD                                            0070000700
+POLLY HOLLOW LEFT FORK RD                                   0070000700
+POLLY HOLLOW LEFT FORK RD                                   0070100701
+POLLY HOLLOW MIDDLE FORK RD                                 0070000700
+POLLY HOLLOW RIGHT FORK RD                                  0070000700
+POLLY HOLLOW RIGHT FORK RD                                  0070100701
+POLLY LN                                                    0070000700
+POMEROY CTR                                                 0070000700
+POORDUE LN                                                  0070000700
+POPS LN                                                     0070000700
+PORTER MAIDEN RD                                            0070000700
+POST OFFICE RD                                              0070000700
+POTTER RD                                                   0070000700
+POWELL HOWARD RD                                            0070000700
+PRATER LN                                                   0070100701
+PRICE LN                                                    0070000700
+PRICE LN                                                    0070100701
+PRIVATE 28 RD                                               0070000700
+PROFFITT HILL RD                                            0070000700
+PROSPECT AVE                                                0070200702
+PROSPECT RD                                                 0070100701
+PRUDEN RD                                                   0070000700
+PUBLIC LANDS RD                                             0070000700
+QUARRY RD                                                   0070200702
+QUEENSBURY HTS RD                                           0070100701
+QUEENSBURY RD                                               0070100701
+QUILLEN LN                                                  0070000700
+R DUNN RD                                                   0070000700
+R E NORTH LN                                                0070000700
+R WILLIAMS LN                                               0070000700
+RABON EVANS RD                                              0070000700
+RADER LN                                                    0070000700
+RALIEGH PARTIN RD                                           0070000700
+RALPH FUSON RD                                              0070000700
+RALPH MAZE LN                                               0070000700
+RALPH PARTIN RD                                             0070000700
+RAMSEY LN                                                   0070000700
+RANEY BRANCH RD                                             0070000700
+RAVENWOOD RD                                                0070100701
+RAY LANGFORD LN                                             0070000700
+RAY MAE RD                                                  0070000700
+RAY SIZEMORE RD                                             0070000700
+RAYMOND PARTIN RD                                           0070000700
+RAYMOND SAMPSON LN                                          0070000700
+REBEL LN                                                    0070000700
+RED GREGORY RD                                              0070000700
+RED HILL SWANNER RD                                         0070000700
+RED HOWARD LN                                               0070000700
+RED OAK CHURCH RD                                           0070100701
+RED WILSON RD                                               0070000700
+REED RD                                                     0070000700
+REESE BLVD                                                  0070000700
+RENDY LEE RD                                                0070000700
+RENEGALE DR                                                 0070100701
+RENFRO LN                                                   0070000700
+RENT LAWSON RD                                              0070000700
+RHODES CEMETERY RD                                          0070000700
+RHODES LN                                                   0070000700
+RICE HILL RD                                                0070000700
+RICE LAWSON HILL RD                                         0070000700
+RICE RD                                                     0070000700
+RICHARD ASHER RD                                            0070000700
+RICHARD PARTIN CEMETERY RD                                  0070000700
+RIDGE RD                                                    0070000700
+RIDGEWOOD CIR                                               0070200702
+RILEY PARTIN RD                                             0070000700
+RISNER PEACE LN                                             0070000700
+RIVA SAYLOR LN                                              0070000700
+RIVER RD                                                    0070000700
+RL MIRACLE RD                                               0070000700
+ROAD KING ST                                                0070000700
+ROARK HILL RD                                               0070000700
+ROBBINS HILL RD                                             0070000700
+ROBBINS HILL SHEPPARD LN                                    0070000700
+ROBBINS LN                                                  0070000700
+ROBBINS TURNER RD                                           0070000700
+ROBERT HOSKINS CEMETERY RD                                  0070000700
+ROBERT PHILYAW RD                                           0070000700
+ROBERTSON LN                                                0070100701
+ROBINS ACRES RD                                             0070000700
+ROCHESTER AVE                                               0070100701
+ROCHESTER LANE AND PARKER AVENUE                            0070100701
+ROCKHOUSE BRANCH CEMETERY RD                                0070000700
+ROCKY BRANCH RD                                             0070000700
+RODGERS LN                                                  0070000700
+ROGER HUNTER RD                                             0070000700
+ROGER JOHNSON DR                                            0070000700
+ROGERS LN                                                   0070000700
+ROGERS RD                                                   0070000700
+ROSE RD                                                     0070000700
+ROSEVELT MARSEE RD                                          0070000700
+ROTH CAMP CHURCH RD                                         0070000700
+ROTH CAMP RD                                                0070000700
+ROXIE GIBSON RD                                             0070000700
+ROY FRANCE GROCERY HILL RD                                  0070000700
+ROY PARTIN RD                                               0070000700
+RT LN                                                       0070000700
+RUE JACKSON BRANCH RD                                       0070000700
+RUFUS MASON RD                                              0070000700
+RUNION LN                                                   0070000700
+RUSSELL                                                     0070100701
+RUSSELL LN                                                  0070000700
+RUSSELL LN                                                  0070100701
+S 10TH ST                                                   0070100701
+S 11TH ST                                                   0070100701
+S 12TH                                                      0070000700
+S 12TH                                                      0070100701
+S 12TH ST                                                   0070000700
+S 12TH ST                                                   0070100701
+S 13TH ST                                                   0070100701
+S 15TH ST                                                   0070100701
+S 16TH ST                                                   0070100701
+S 17TH ST                                                   0070100701
+S 19TH ST                                                   0070100701
+S 20TH ST                                                   0070100701
+S 21ST ST                                                   0070100701
+S 24TH ST                                                   0070100701
+S 26TH ST                                                   0070100701
+S 27TH ST                                                   0070100701
+S 27TH STREET EXT                                           0070100701
+S 28TH ST                                                   0070100701
+S 29TH ST                                                   0070100701
+S 30TH ST                                                   0070100701
+S 31ST ST                                                   0070100701
+S 32ND ST                                                   0070100701
+S 34TH ST                                                   0070100701
+S 35TH ST                                                   0070000700
+S 35TH ST                                                   0070100701
+S 38TH ST                                                   0070000700
+S 38TH ST                                                   0070100701
+S 39TH ST                                                   0070100701
+S 8TH ST                                                    0070100701
+S COAL COMPANY RD                                           0070000700
+S KENTUCKY AVE                                              0070200702
+S PARK AVE                                                  0070200702
+S PETERSBOROUGH AVE                                         0070100701
+S ROBERT L MADON                                            0070200702
+S WALNUT ST                                                 0070200702
+SALISBURY AVE                                               0070100701
+SAM LAWSON RD                                               0070000700
+SAM LOW BRANCH RD                                           0070000700
+SAMPSON HILL RD                                             0070000700
+SAMS MOUNTAIN RD                                            0070000700
+SAMUEL HARRIS RD                                            0070000700
+SAND QUARRY RD                                              0070000700
+SANDRA HENDRICKSON LN                                       0070000700
+SANDY ROCK RD                                               0070000700
+SARA DUFF RD                                                0070000700
+SAUL PITTMAN CEMETERY RD                                    0070000700
+SAWMILL LN                                                  0070000700
+SAYLOR HOLLOW RD                                            0070000700
+SAYLOR LOOP                                                 0070000700
+SCHOOL HOUSE DR                                             0070100701
+SCHOOL LOOP                                                 0070100701
+SCOTT HOLLOW RD                                             0070000700
+SCOTT LN                                                    0070000700
+SETTLES LN                                                  0070000700
+SEVEN SISTERS RD                                            0070000700
+SEWAGE TREATMENT PLANT RD                                   0070000700
+SHACKELFORD LOOP                                            0070000700
+SHACKLEFORD LN                                              0070000700
+SHADY HILL LN                                               0070000700
+SHARP RD                                                    0070000700
+SHARPS CEMETERY                                             0070100701
+SHEILA CALDWELL RD                                          0070000700
+SHELBY LN                                                   0070000700
+SHENANDOAH LN                                               0070000700
+SHERRY LN                                                   0070000700
+SHERWOOD RD                                                 0070100701
+SHILLALAH DR                                                0070000700
+SHILLALAH SPUR                                              0070000700
+SHIRLEY FUSON RD                                            0070000700
+SHOOT MATCH FLAT RD                                         0070000700
+SHORT BRANCH RD                                             0070000700
+SHORT LN                                                    0070000700
+SHORT ST                                                    0070100701
+SHULTZ HTS                                                  0070100701
+SILCOX LN                                                   0070100701
+SILER LN                                                    0070100701
+SIMMS FORK CEMETERY RD                                      0070000700
+SIMPSON HILL RD                                             0070000700
+SIMS FORK RD                                                0070000700
+SIXITY SIX SMITH LOOP                                       0070000700
+SIXTY SIX WATER TANK RD                                     0070000700
+SKIPPER RD                                                  0070000700
+SLEEPY HOLLOW RD                                            0070000700
+SLUSHER CEMETERY RD                                         0070000700
+SLUSHER LOOP                                                0070000700
+SLUSHER LOOP MIDDLE                                         0070000700
+SLUSHER PATTERSON RD                                        0070000700
+SLUSHER RD                                                  0070000700
+SMITH BRANCH RD                                             0070000700
+SMITH CEMETERY RD                                           0070000700
+SMITH HILL RD                                               0070000700
+SMITH HOLLOW LEFT RD                                        0070000700
+SMITH LN                                                    0070000700
+SMITH LOOP                                                  0070000700
+SMITH RD                                                    0070000700
+SNELLING LN                                                 0070000700
+SOL CALDWELL RD                                             0070000700
+SOL CALDWELL RIGHT RD                                       0070000700
+SOUTHEAST TECH DR                                           0070100701
+SPADE ACRES DR                                              0070000700
+SPADE ACRES DR                                              0070100701
+SPARKS LN                                                   0070100701
+SPARKS RD                                                   0070000700
+SPARTOR LOOP                                                0070000700
+SPEED WILDER RD                                             0070000700
+SPRING HOLLOW RD                                            0070000700
+SPRUCE ST                                                   0070200702
+STATE HWY GARAGE RD                                         0070000700
+STEVENS BRANCH RD                                           0070000700
+STEVENS LN                                                  0070000700
+STEWART BRANCH RD                                           0070000700
+STEWART BRANCH RD                                           0070200702
+STEWERT RD                                                  0070000700
+STIGAL LN                                                   0070000700
+STONE RD                                                    0070000700
+STONE RD                                                    0070200702
+STONE RIDGE RD                                              0070000700
+STONEHENGE WAY                                              0070000700
+STONEY FORK CHURCH RD                                       0070000700
+STONEY FORK LN                                              0070100701
+STONEY FORK POST OFFICE LOOP                                0070000700
+SUE BROWN RD                                                0070000700
+SUGARCAMP BRANCH RD                                         0070000700
+SUMMIT DR                                                   0070100701
+SUMMIT DR                                                   0070200702
+SUNNY LANE HL                                               0070000700
+SUNNY LN                                                    0070000700
+SUTTY BRANCH RD                                             0070000700
+SWALLOW LANE SPUR                                           0070000700
+SWALLOW RD                                                  0070000700
+SWANSON RD                                                  0070000700
+SWANSON ROAD SPUR                                           0070000700
+SYCAMORE ST                                                 0070200702
+T BAKER RD                                                  0070000700
+TACKETT HILL CEMETERY RD                                    0070000700
+TACKY HILL RD                                               0070000700
+TADCASTER RD                                                0070100701
+TALL OAK TRL                                                0070000700
+TANYARD LOOP                                                0070000700
+TAYLOR CEMETERY RD                                          0070000700
+TAYLOR HILL RD                                              0070000700
+TAYLOR HILL SPUR                                            0070000700
+TAYLOR LN                                                   0070000700
+TAYLOR LOOP                                                 0070000700
+TENNESSEE AVE                                               0070000700
+TENNESSEE AVE                                               0070200702
+TERRI LN                                                    0070000700
+TERRY LEE PARTIN JR RD                                      0070000700
+THAXTED LN                                                  0070000700
+THE RD                                                      0070100701
+THOMPSON CEMETERY RD                                        0070000700
+THOMPSON LN                                                 0070100701
+THORNABY RIDGEWAY                                           0070000700
+THORNABY RIDGEWAY RD                                        0070000700
+TIM BROCK RD                                                0070000700
+TIN CAN HOLLOW RD                                           0070000700
+TIPTON HILL RD                                              0070000700
+TITAN TIPPLE RD                                             0070000700
+TIWANI RIDGE RD                                             0070000700
+TODD GOODIN CEMETERY RD                                     0070000700
+TODD PARTIN RD                                              0070000700
+TOMMY SMITH PARK LOOP                                       0070000700
+TOMMY SMITH TRAILER PARK RD                                 0070000700
+TONY LAWSON RD                                              0070000700
+TRACY BRANCH RD                                             0070000700
+TRACY BRANCH RD                                             0070200702
+TRACY BRANCH RD                                             1180000700
+TRACY RIDGE RD                                              0070000700
+TRACY RIDGE RD                                              0070100701
+TRAILER PARK                                                0070100701
+TRAVELS ON COUNTY LINE RD                                   0070004800
+TREECE LN                                                   0070100701
+TROY BAKER RD                                               0070000700
+TROY MASON RD                                               0070000700
+TUGGLESVILLE HILL RD                                        0070000700
+TUGGLESVILLE LEFT RD                                        0070000700
+TUNNEL HOLLOW RD                                            0070000700
+TUNNEL HOLLOW RD                                            0070100701
+TURKEY CREEK RD                                             0070000700
+TURNER CHURCH RD                                            0070000700
+TURNER HILL RD                                              0070000700
+TURNER LN                                                   0070000700
+TURNER LN                                                   0070100701
+TURNER SMITH LN                                             0070000700
+TWIN ACRES DR                                               0070100701
+TWIN FAWN TRL                                               0070000700
+UNCLE CHARLIE RD                                            0070000700
+UNDERWOOD CEMETERY RD                                       0070000700
+UPLAND CHURCH CEMETERY RD                                   0070000700
+UPLAND CHURCH RD                                            0070000700
+UPPER CHRISTY RD                                            0070000700
+UPPER DUNCAN LN                                             0070100701
+UPPER GIBSON RD                                             0070100701
+US119                                                       0070000700
+US25E N                                                     0070000700
+US25E S                                                     0070000700
+VALLEY LN                                                   0070000700
+VALLEY RD                                                   0070000700
+VALLEY RD                                                   0070200702
+VAN JOHNSON RD                                              0070000700
+VANOVER LN                                                  0070000700
+VARILLA LOOP                                                0070000700
+VARILLA RD                                                  0070000700
+VAUGHN LN                                                   0070000700
+VENADO DR                                                   0070000700
+VERDA SAYLOR LN                                             0070100701
+VERNON COLLICK LANE SPUR                                    0070000700
+VERNON COLLICK LN                                           0070000700
+VERNON JACKSON LN                                           0070000700
+VERTA YOUNG RD                                              0070000700
+VIEWMOUNT AVE                                               0070100701
+VIRGIE BROCK RD                                             0070000700
+VIRGIL GIBSON RD                                            0070000700
+VIRGIL JACKSON DR                                           0070000700
+VIRGINIA AVE                                                0070100701
+VIRGINIA AVE                                                0070200702
+W 20TH ST                                                   0070100701
+W ARJAY CHURCH LN                                           0070000700
+W CUMBERLAND AVE                                            0070000700
+W CUMBERLAND AVE                                            0070100701
+W EXETER AVE                                                0070100701
+W M MIRACLE LN                                              0070000700
+W PARKER LN                                                 0070100701
+W PUBLIC LANDS RD                                           0070000700
+WAGON HOLLOW RD                                             0070000700
+WAGONER LANE SPUR                                           0070000700
+WAGONER LN                                                  0070000700
+WALLSEND HOLLOW CEMETERY                                    0070000700
+WALLSEND HOLLOW CEMETERY                                    0070200702
+WALLSEND HOLLOW RD                                          0070000700
+WALLSEND HOLLOW RD                                          0070200702
+WALNUT LN                                                   0070000700
+WALNUT ST                                                   0070200702
+WALTERS DR                                                  0070000700
+WARD LN                                                     0070000700
+WARREN RD                                                   0070000700
+WARREN TRAILER CT                                           0070000700
+WATER TANK RD                                               0070000700
+WATSON LN                                                   0070100701
+WATTS RD                                                    0070000700
+WAYLOND SMITH LN                                            0070000700
+WAYNE LN                                                    0070000700
+WEBB LN                                                     0070100701
+WELCH LN                                                    0070100701
+WELDING SHOP RD                                             0070000700
+WELLINGTON CT                                               0070000700
+WELLINGTON DR                                               0070000700
+WELLS CAMP RD                                               0070000700
+WESLEY MADON RD                                             0070000700
+WEST END GRADE SCHOOL RD                                    0070100701
+WEST END MIDDLE RD                                          0070100701
+WEST END RD                                                 0070100701
+WHIPPORWILL LN                                              0070000700
+WHITE CHURCH LEFT FORK RD                                   0070000700
+WHITE CHURCH RIGHT FORK RD                                  0070000700
+WHITE MOUNTAIN RD                                           0070000700
+WHITE TAIL PT                                               0070000700
+WHITEHEAD WARICK RD                                         0070000700
+WHITNEY LN                                                  0070000700
+WIESER BRANCH LEFT FORK RD                                  0070000700
+WIESER BRANCH RD                                            0070000700
+WILDCAT LN                                                  0070000700
+WILDER CEMETERY RD                                          0070000700
+WILDER EVANS RD                                             0070000700
+WILDER HILL RD                                              0070000700
+WILDERNESS TRL                                              0070000700
+WILDERNESS TRL                                              0070200702
+WILDWOOD RD                                                 0070100701
+WILDWOOD TRAIL SPUR                                         0070000700
+WILDWOOD TRAL RD                                            0070000700
+WILEY CALDWELL RD                                           0070000700
+WILIAMS FORK MIDDLE FORK RD                                 0070000700
+WILLIAM MARSEE RD                                           0070000700
+WILLIAMS BRANCH LEFT FORK RD                                0070000700
+WILLIAMS BRANCH RIGHT FORK RD                               0070000700
+WILLIE HATFIELD RD                                          0070000700
+WILLIE NORTH RD                                             0070000700
+WILLIS LN                                                   0070000700
+WILLIS RD                                                   0070000700
+WILLOW LN                                                   0070100701
+WILLOW ST                                                   0070100701
+WILSON HOLLOW RD                                            0070000700
+WILSON LN                                                   0070000700
+WILSON LOOP                                                 0070000700
+WILSON MIRACLE CEMETERY RD                                  0070000700
+WILSON RD                                                   0070100701
+WINCHESTER AVE                                              0070100701
+WINDEMERE DR                                                0070000700
+WINKLER RD                                                  0070000700
+WINSTON GREGORY RD                                          0070000700
+WINTER DR                                                   0070000700
+WOLFPEN BRANCH CEMETERY RD                                  0070000700
+WOLFPEN BRANCH RD                                           0070000700
+WOMBLES LINGAR RD                                           0070000700
+WOODLAND TRL                                                0070000700
+WOODS LN N                                                  0070000700
+WOODS LN S                                                  0070000700
+WOODWARD LN                                                 0070000700
+WORCESTER AVE                                               0070100701
+WYATT LN                                                    0070000700
+YAVONE SMITH LN                                             0070000700
+YEARYS CEMETERY                                             0070100701
+YELLOW BRANCH RD                                            0070000700
+YELLOW ROOT HOLLOW RD                                       0070000700
+YESTOWN RD                                                  0070000700
+YESTOWN RD                                                  0070100701
+YOAKUM LN                                                   0070100701
+YORK BRANCH RD                                              0070000700
+YORKSHIRE CT                                                0070000700
+YOUNG LN                                                    0070000700
+ZEEK SMITH RD                                               0070000700

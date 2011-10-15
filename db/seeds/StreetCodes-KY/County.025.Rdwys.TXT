@@ -1,0 +1,915 @@
+1ST ST                                                      0250102501
+2ND ST                                                      0250102501
+3RD ST                                                      0250102501
+4TH ST                                                      0250102501
+5TH ST                                                      0250102501
+6TH ST                                                      0250102501
+7TH ST                                                      0250102501
+A ST                                                        0250102501
+ABBEYWOOD CT                                                0250102501
+ABBEYWOOD DR                                                0250102501
+ABERDEEN LN                                                 0250002500
+ABNER LN                                                    0250002500
+ACADIA WAY                                                  0250002500
+ADA LN                                                      0250102501
+ADAMS LN                                                    0250002500
+AGAWAM RD                                                   0250002500
+AL FAN CT                                                   0250102501
+ALABAMA ST                                                  0250102501
+ALBANY CT                                                   0250002500
+ALBANY LN                                                   0250002500
+ALENE CT                                                    0250102501
+ALLAN PL                                                    0250002500
+ALMOND CT                                                   0250102501
+ALMOND ST                                                   0250102501
+AMIENS BLVD                                                 0250002500
+AMSTER GROVE CT                                             0250002500
+AMSTER GROVE RD                                             0250002500
+ANDOVER DR                                                  0250102501
+APACHE TRL                                                  0250102501
+APPLE ST                                                    0250102501
+APRIL WAY                                                   0250102501
+ARBOR CT                                                    0250102501
+ARLINGTON RD                                                0250102501
+ARROWHEAD LN                                                0250002500
+ASCOT AVE                                                   0250102501
+ASCOT CIR                                                   0250102501
+ASH DR                                                      0250002500
+ASHER LN                                                    0250002500
+ASHFORD DR                                                  0250102501
+ASHLAND AVE                                                 0250102501
+ASHLEY DR                                                   0250102501
+ASHTON OAK WAY                                              0250102501
+ASPEN LN                                                    0250002500
+ATHENS BOONESBORO RD                                        0250002500
+ATRIUM PL                                                   0250102501
+AUBREY LN                                                   0250102501
+AUGUSTA DR                                                  0250002500
+AUTUMN CT                                                   0250002500
+B L T WAY                                                   0250002500
+BAESLER LN                                                  0250002500
+BAILEY LN                                                   0250002500
+BAIT ST                                                     0250102501
+BAKER CT                                                    0250002500
+BALDWIN AVE                                                 0250102501
+BANANA DR                                                   0250102501
+BARLOW DR                                                   0250102501
+BARNES DR                                                   0250102501
+BARTRAM CT                                                  0250102501
+BASIN SPRINGS RD                                            0250002500
+BAY HILL CT                                                 0250102501
+BAY HILL DR                                                 0250102501
+BAYBERRY LN                                                 0250102501
+BEAU DR                                                     0250002500
+BEAUMONT PL                                                 0250102501
+BECKNER ST                                                  0250102501
+BECKNERVILLE RD                                             0250002500
+BECKWOOD LN                                                 0250002500
+BECKWOOD RD                                                 0250002500
+BEECH SPRINGS LN                                            0250002500
+BEECHWOOD LN                                                0250002500
+BEL AIR DR                                                  0250102501
+BELLBROOK LN                                                0250102501
+BELLS ALY                                                   0250102501
+BELMONT AVE                                                 0250102501
+BENDER LN                                                   0250002500
+BENTBROOK CT                                                0250002500
+BENTON RD                                                   0250002500
+BERRY CT                                                    0250102501
+BIG STONER RD                                               0250002500
+BLAIR AVE                                                   0250102501
+BLAIR CT                                                    0250102501
+BLAKEMORE LN                                                0250002500
+BLUEBERRY LN                                                0250002500
+BLUEBIRD LN                                                 0250002500
+BOB O LINK DR                                               0250002500
+BOBWHITE LN                                                 0250002500
+BON HAVEN AVE                                               0250102501
+BOND CT                                                     0250102501
+BONNIE BROOK LN                                             0250102501
+BOONE AVE                                                   0250102501
+BOONERIDGE LN                                               0250002500
+BOONESBORO RD                                               0250002500
+BOTTS CT                                                    0250002500
+BOULDER LN                                                  0250002500
+BOUVART CIR                                                 0250002500
+BRACKEN CT                                                  0250002500
+BRANCH LN                                                   0250002500
+BRANDENBURG RD                                              0250002500
+BREEZE HILL DR                                              0250102501
+BRENTWOOD DR                                                0250102501
+BRIARWOOD LN                                                0250102501
+BRIDGEVIEW LN                                               0250002500
+BRINEGAR LN                                                 0250002500
+BRINK AVE                                                   0250102501
+BRISTOL PL                                                  0250102501
+BROOK VIEW CT                                               0250002500
+BROOKS PLACE WAY                                            0250102501
+BROOKSHIRE LN                                               0250002500
+BROWNING LN                                                 0250002500
+BROWNLAND WAY                                               0250102501
+BRUTON RICHARDS ALY                                         0250102501
+BRYANT ALY                                                  0250102501
+BUCKINGHAM LN                                               0250102501
+BUCKNER ST                                                  0250102501
+BUFFALO TRCE                                                0250102501
+BULLION BLVD                                                0250102501
+BUNKER HILL DR                                              0250002500
+BURTON AVE                                                  0250102501
+BUSHWOOD CT                                                 0250002500
+BUSHWOOD LANE SPUR                                          0250002500
+BUSHWOOD LN                                                 0250002500
+BYBEE RD                                                    0250002500
+BYPASS RD                                                   0250002500
+BYPASS RD                                                   0250102501
+BYRD AVE                                                    0250102501
+C G STEPHENSON DR                                           0250102501
+CABIN CREEK HTS                                             0250002500
+CABIN CREEK RD                                              0250002500
+CALLOWAY ST                                                 0250102501
+CALLOWAY WHITE RD                                           0250002500
+CALMES BLVD                                                 0250002500
+CAMDEN DR                                                   0250102501
+CAMELOT DR                                                  0250102501
+CANARY LN                                                   0250102501
+CANDLEWOOD DR                                               0250102501
+CANEWOOD DR                                                 0250102501
+CANVASBACK LN                                               0250002500
+CARDINAL LN                                                 0250002500
+CARLA LN                                                    0250002500
+CAROL RD                                                    0250102501
+CAROLINA AVE                                                0250102501
+CARTER AVE                                                  0250002500
+CASA LANDA WAY                                              0250002500
+CATHERINE DR                                                0250002500
+CAUDILL DR                                                  0250002500
+CEDAR CT                                                    0250102501
+CEDAR DR                                                    0250102501
+CEMETERY RD                                                 0250002500
+CENTER DR                                                   0250002500
+CENTRAL AVE                                                 0250102501
+CHANDALAND LN                                               0250002500
+CHAPLIN AVE                                                 0250102501
+CHARDONNAY CT                                               0250002500
+CHATHAM PL                                                  0250102501
+CHAUCER CT                                                  0250102501
+CHELSEA WAY                                                 0250102501
+CHEROKEE CT                                                 0250002500
+CHEROKEE DR                                                 0250002500
+CHERRY ST                                                   0250102501
+CHICADEE LN                                                 0250002500
+CHURCH ALY                                                  0250102501
+CHURCHILL DR                                                0250102501
+CITATION CT                                                 0250102501
+CLARE DR                                                    0250002500
+CLARMONT GARDENS                                            0250002500
+CLAY ST                                                     0250102501
+CLEVELAND AVE                                               0250102501
+CLIFTON CT                                                  0250002500
+CLINTONVILLE RD                                             0250002500
+CLUBHOUSE DR                                                0250002500
+COFFEE SPRINGS LN                                           0250002500
+COLBY HILLS CIR                                             0250002500
+COLBY HILLS DR                                              0250002500
+COLBY RD                                                    0250002500
+COLBY RD                                                    0250102501
+COLBY RIDGE BLVD                                            0250102501
+COLE RD                                                     0250002500
+COLLEGE ST                                                  0250102501
+COLONIAL PARK DR                                            0250002500
+COMBS FERRY RD                                              0250002500
+CONCORD AVE                                                 0250102501
+CONNIE LN                                                   0250102501
+CONSTITUTION DR                                             0250002500
+COOK AVE                                                    0250002500
+COOK AVE                                                    0250102501
+CORINNE CT                                                  0250102501
+CORK AVE                                                    0250002500
+CORLEY LN                                                   0250002500
+CORPORATE DR                                                0250102501
+COTTMAN LN                                                  0250002500
+COUNTRY CLUB CT                                             0250102501
+COUNTRY CLUB DR                                             0250102501
+COURT ST                                                    0250102501
+CRAWFORD AVE                                                0250102501
+CRAWFORD CT                                                 0250102501
+CREECH LN                                                   0250002500
+CREEKPATH DR                                                0250002500
+CREEKSIDE LANE SPUR                                         0250002500
+CREEKSIDE LN                                                0250002500
+CRESCENT AVE                                                0250102501
+CRESTVIEW LN                                                0250102501
+CRICKET LN                                                  0250102501
+CROCKETT CT                                                 0250102501
+CROCUS CT                                                   0250002500
+CROSS BROOK CT                                              0250102501
+CROSS BROOK LN                                              0250102501
+CROWE RIDGE RD                                              0250002500
+CROXTON WAY                                                 0250102501
+CRUTCHER LN                                                 0250002500
+CUNNINGHAM LN                                               0250002500
+CUSTER CT                                                   0250102501
+CYPRESS CT                                                  0250002500
+DALE DR                                                     0250102501
+DALLAS ALY                                                  0250102501
+DAMON CT                                                    0250002500
+DARBY TRCE                                                  0250002500
+DAVID LN                                                    0250002500
+DAVIS LN                                                    0250002500
+DAYTONA DR                                                  0250102501
+DEBBIA DR                                                   0250002500
+DEERLICK LN                                                 0250002500
+DELAPLAIN RD                                                0250002500
+DENNY AVE                                                   0250102501
+DEPOT ST                                                    0250102501
+DEVONSHIRE CT                                               0250002500
+DEVONSHIRE DR                                               0250002500
+DIXIANA DR                                                  0250002500
+DIXIE ST                                                    0250102501
+DIXON WAY                                                   0250102501
+DOE RUN LN                                                  0250002500
+DOGWOOD LN                                                  0250002500
+DONALDSON RD                                                0250002500
+DORSET LN                                                   0250102501
+DOUGLAS CT                                                  0250102501
+DOVER CT                                                    0250102501
+DRY FORK CREEK RD                                           0250002500
+DRY FORK RD                                                 0250002500
+DUBUY DR                                                    0250102501
+DUCLAIR DR                                                  0250002500
+DUDLEY ST                                                   0250102501
+DUVALL AVE                                                  0250002500
+DYKES LN                                                    0250002500
+E BROADWAY ST                                               0250002500
+E BROADWAY ST                                               0250102501
+E CLARK DR                                                  0250102501
+E FULTON RD                                                 0250102501
+E HICKMAN ST                                                0250102501
+E LEXINGTON AVE                                             0250102501
+E ROBINSON CT                                               0250102501
+E WASHINGTON ST                                             0250102501
+EAGLE ALY                                                   0250102501
+EAGLE CREST RIDGE                                           0250002500
+EARLY DR                                                    0250102501
+EARLYMEADE DR                                               0250102501
+EASTRIDGE DR                                                0250002500
+ECTON RD                                                    0250002500
+EDD LN                                                      0250002500
+EDGEMONT AVE                                                0250102501
+EDGEWOOD DR                                                 0250102501
+EDISON CT                                                   0250002500
+EDUCATIONAL PLAZA DR                                        0250102501
+ELF CT                                                      0250102501
+ELIZABETH ST                                                0250002500
+ELIZABETH ST                                                0250102501
+ELKIN STATION RD                                            0250002500
+ELM ST                                                      0250102501
+EMBS RD                                                     0250002500
+ENGLISH MISS CT                                             0250102501
+ENTERPRISE DR                                               0250102501
+EPPERSON RD                                                 0250002500
+ESSEX CT                                                    0250102501
+ESTES DR                                                    0250102501
+EUCLID AVE                                                  0250102501
+EVANS ST                                                    0250102501
+FAIR AVE                                                    0250102501
+FAIRFAX DR                                                  0250002500
+FAIRHOLME WAY                                               0250002500
+FAIRHOLME WAY                                               0250102501
+FAIRVIEW AVE                                                0250102501
+FAIRWOOD LN                                                 0250102501
+FARRIS REDDING LN                                           0250002500
+FERN CT                                                     0250002500
+FERRY RD                                                    0250002500
+FIELDSTONE WAY                                              0250002500
+FINLEY RD                                                   0250102501
+FITCH AVE                                                   0250102501
+FLANAGAN ST                                                 0250102501
+FLANAGAN STATION RD                                         0250002500
+FLOYD CLAY DR                                               0250102501
+FLYNN AVE                                                   0250102501
+FONTAINE BLVD                                               0250002500
+FORD HAMPTON RD                                             0250002500
+FORD RD                                                     0250002500
+FOREST AVE                                                  0250102501
+FOREST CT                                                   0250102501
+FORSYTHIA CT                                                0250002500
+FORSYTHIA LN                                                0250002500
+FORTUNE DR                                                  0250102501
+FOSTER AVE                                                  0250102501
+FOUR MILE RD                                                0250002500
+FOX LN                                                      0250102501
+FOX QUISENBERRY RD                                          0250002500
+FOXBORO CT                                                  0250002500
+FOXGLOVE CT                                                 0250002500
+FOXGLOVE LN                                                 0250002500
+FRANCIS LN                                                  0250002500
+FRANKLIN AVE                                                0250102501
+FREEDOM WAY                                                 0250002500
+FRENCH AVE                                                  0250102501
+FRITO LN                                                    0250102501
+FRONTIER WAY                                                0250102501
+GADWALL LN                                                  0250002500
+GALLAHADION CT                                              0250102501
+GARNER ST                                                   0250102501
+GARY CT                                                     0250102501
+GAWTHROP DR                                                 0250002500
+GAY EVANS RD                                                0250002500
+GAY RD                                                      0250002500
+GAY ST                                                      0250102501
+GENERAL LN                                                  0250002500
+GENTRY LN                                                   0250002500
+GEORGE CT                                                   0250002500
+GEORGIA ST                                                  0250102501
+GERONIMO CT                                                 0250102501
+GILBERT CT                                                  0250002500
+GILBERT CT N                                                0250002500
+GILVIN LN                                                   0250002500
+GINGER CT                                                   0250102501
+GIST DR                                                     0250102501
+GLENWAY RD                                                  0250002500
+GOLDIE AVE                                                  0250102501
+GOLDWING RD                                                 0250002500
+GOOLMAN RD                                                  0250002500
+GOOSE CREEK LN                                              0250002500
+GOOSE CREEK RD                                              0250002500
+GOOSEY RD                                                   0250002500
+GOSHEN RD                                                   0250002500
+GRANT ALY                                                   0250102501
+GRAVES ST                                                   0250102501
+GREEN ALY                                                   0250102501
+GREENING LN                                                 0250002500
+GREENWAY DR                                                 0250002500
+GREGORY LN                                                  0250002500
+GRIMES MILL RD                                              0250002500
+HACKBERRY CIR                                               0250002500
+HAMILTON ST                                                 0250102501
+HAMPTON AVE                                                 0250102501
+HAMPTON PL                                                  0250102501
+HANCOCK VALLEY DR                                           0250002500
+HANOVER CT                                                  0250102501
+HANOVER DR                                                  0250102501
+HARKINS DR                                                  0250002500
+HARKINS DR                                                  0250102501
+HARNEY DR                                                   0250002500
+HARRIS DR                                                   0250002500
+HARROD DR                                                   0250102501
+HART AVE                                                    0250102501
+HARVARD DR                                                  0250002500
+HAWTHORNE DR                                                0250102501
+HAYS ST                                                     0250102501
+HEATHER LN                                                  0250002500
+HEDGES STATION RD                                           0250002500
+HELMS WAY                                                   0250102501
+HEMLOCK RD                                                  0250102501
+HERITAGE PL                                                 0250102501
+HEWLETT CT                                                  0250102501
+HIAWATHA TRL                                                0250102501
+HIBISCUS LN                                                 0250002500
+HICKORY LN                                                  0250002500
+HIDDEN GROVE LN                                             0250002500
+HIDDEN HILLS WAY                                            0250102501
+HIDEAWAY LN                                                 0250002500
+HILL ST                                                     0250102501
+HILLCREST DR                                                0250002500
+HILLTOP DR                                                  0250002500
+HODGKINS ALY                                                0250102501
+HOLIDAY CIR                                                 0250102501
+HOLIDAY RD                                                  0250102501
+HOLLOW RD                                                   0250002500
+HOLLY AVE                                                   0250102501
+HOLLYHOCK CT                                                0250002500
+HONEYSUCKLE CT                                              0250002500
+HONEYSUCKLE LN                                              0250002500
+HOOD AVE                                                    0250102501
+HOOTENTOWN LN                                               0250002500
+HOPKINS LN                                                  0250102501
+HORTON LN                                                   0250002500
+HOWARD CREEK RD                                             0250002500
+HOWARD DR                                                   0250002500
+HUBBARD RD                                                  0250102501
+HUD RD                                                      0250002500
+HUGHES AVE                                                  0250102501
+HULS AVE                                                    0250102501
+HUMMINGBIRD RD                                              0250002500
+HUNTERS REST LN                                             0250002500
+I64 E                                                       0250002500
+I64 E                                                       0250102501
+I64 E EXIT101 OFF RAMP TO US60                              0250002500
+I64 E EXIT101 ON RAMP FROM US60                             0250002500
+I64 E EXIT94 CROSSOVER KY627 BYP                            0250002500
+I64 E EXIT94 OFF RAMP TO KY627 BYP                          0250002500
+I64 E EXIT94 OFF RAMP TO KY627 BYP S                        0250002500
+I64 E EXIT94 ON RAMP FROM KY627 BYP                         0250002500
+I64 E EXIT94 ON RAMP FROM KY627 BYP N                       0250002500
+I64 E EXIT96 CROSSOVER KY627                                0250102501
+I64 E EXIT96 OFF RAMP TO KY627                              0250102501
+I64 E EXIT96 OFF RAMP TO KY627 N                            0250102501
+I64 E EXIT96 OFF RAMP TO KY627 S                            0250102501
+I64 E EXIT96 ON RAMP FROM KY627                             0250102501
+I64 E EXIT96 ON RAMP FROM KY627 N                           0250102501
+I64 E EXIT96 ON RAMP FROM KY627 S                           0250102501
+I64 E REST AREA                                             0250002500
+I64 TURN AROUND102                                          0250002500
+I64 TURN AROUND90                                           0250002500
+I64 TURN AROUND99                                           0250002500
+I64 W                                                       0250002500
+I64 W                                                       0250102501
+I64 W EXIT101 OFF RAMP TO US60                              0250002500
+I64 W EXIT101 ON RAMP FROM US60                             0250002500
+I64 W EXIT94 CROSSOVER KY627 BYP                            0250002500
+I64 W EXIT94 OFF RAMP TO KY627 BYP                          0250002500
+I64 W EXIT94 OFF RAMP TO KY627 BYP N                        0250002500
+I64 W EXIT94 ON RAMP FROM KY627 BYP                         0250002500
+I64 W EXIT94 ON RAMP FROM KY627 BYP S                       0250002500
+I64 W EXIT96 ON RAMP FROM KY627 N                           0250102501
+I64 W EXIT96 ON RAMP FROM KY627 S                           0250102501
+I64 W EXIT96A OFF RAMP TO KY627 N                           0250102501
+I64 W EXIT96A OFF RAMP TO KY627 S                           0250102501
+INDIAN CREEK RD                                             0250002500
+INTERSTATE DR                                               0250102501
+INVERNESS LN                                                0250002500
+IRONWORKS RD                                                0250002500
+IRVINE RD                                                   0250002500
+IRVINE RD                                                   0250102501
+IVY LN                                                      0250102501
+J N T WAY                                                   0250002500
+JACKSON FERRY RD                                            0250002500
+JACKSON ST                                                  0250102501
+JAMESON WAY                                                 0250002500
+JEAN CT                                                     0250102501
+JEFFERSON ST                                                0250102501
+JESSE JAMES LN                                              0250002500
+JETT DR                                                     0250102501
+JOE GILLIAM ST                                              0250102501
+JOHNSON ST                                                  0250002500
+JONES NURSERY RD                                            0250002500
+JOUETT POINT LN                                             0250002500
+JUDY ANN CT                                                 0250102501
+JUDY PIKE                                                   0250002500
+JUSTICE DR                                                  0250002500
+KENTUCKY ST                                                 0250102501
+KERRY DR                                                    0250002500
+KIDDVILLE RD                                                0250002500
+KILLARNEY DR                                                0250002500
+KIMBERLY DR                                                 0250002500
+KIRT DR                                                     0250002500
+KITTISON DR                                                 0250102501
+KIWI DR                                                     0250102501
+KRISTINA LN                                                 0250002500
+KROGER LN                                                   0250102501
+KY9000 E                                                    0250002500
+KY9000 TURN AROUND4                                         0250002500
+KY9000 TURN AROUND8                                         0250002500
+KY9000 W                                                    0250002500
+L AND E JUNCTION RD                                         0250002500
+LAFAYETTE BLVD                                              0250002500
+LAKEVIEW DR                                                 0250102501
+LAKEWOOD LN                                                 0250002500
+LAMOND RUELLE                                               0250002500
+LANA LN                                                     0250102501
+LARRY CT                                                    0250002500
+LASALLE CT                                                  0250002500
+LASALLE DR                                                  0250002500
+LATIMORE RD                                                 0250002500
+LAURA DR                                                    0250002500
+LEANN LN                                                    0250002500
+LEDFORD LN                                                  0250002500
+LEE ST                                                      0250102501
+LEONARD AVE                                                 0250102501
+LESLIE DR                                                   0250002500
+LETTIE LN                                                   0250002500
+LEXINGTON RD                                                0250002500
+LEXINGTON RD                                                0250102501
+LIBERTY LN                                                  0250002500
+LILLIES FERRY RD                                            0250002500
+LINCOLN ST                                                  0250102501
+LINDBERG AVE                                                0250102501
+LINDEN AVE                                                  0250102501
+LINDEN LN                                                   0250102501
+LINDSEY CT                                                  0250102501
+LISLE LN                                                    0250102501
+LISLETOWN CT                                                0250002500
+LISLETOWN LN                                                0250002500
+LISLETOWN TRL                                               0250002500
+LITTLE STONER RD                                            0250002500
+LOCUST DR                                                   0250102501
+LOCUST GROVE RD                                             0250002500
+LOG LICK RD                                                 0250002500
+LOGAN LICK RD                                               0250002500
+LONG AVE                                                    0250102501
+LONG BRANCH RD                                              0250002500
+LOUIS CT                                                    0250002500
+LUCY CT                                                     0250102501
+LULBEGRUD RD                                                0250002500
+LYNDA CT                                                    0250002500
+LYNDALE DR                                                  0250002500
+LYNNWAY DR                                                  0250002500
+LYON DR                                                     0250002500
+MACK ALY                                                    0250102501
+MACKAY AVE                                                  0250102501
+MADISON AVE                                                 0250102501
+MAGNOLIA ST                                                 0250102501
+MAHAN CT                                                    0250002500
+MAHAN DR                                                    0250002500
+MAHAN DR                                                    0250102501
+MALLARD LN                                                  0250002500
+MALLORY LN                                                  0250102501
+MANOR DR                                                    0250102501
+MARKET ST                                                   0250102501
+MARQUIS CT                                                  0250002500
+MARSEILLE BLVD                                              0250002500
+MARTINS CT                                                  0250102501
+MARY WAY                                                    0250002500
+MARYLAND AVE                                                0250102501
+MCCANN DR                                                   0250102501
+MCCLURE RD                                                  0250002500
+MCCORMICK DR                                                0250102501
+MCCULLOUGH LN                                               0250002500
+MCDOWELL DR                                                 0250002500
+MCKINLEY LN                                                 0250002500
+MEADOW ST                                                   0250102501
+MEADOWBROOK DR                                              0250102501
+MEANS LN                                                    0250002500
+MELBOURNE ST                                                0250102501
+MEMORIAL PARK                                               0250102501
+MEMORY CT                                                   0250002500
+MEMORY LN                                                   0250002500
+MERRITT LN                                                  0250002500
+MIDWAY RD                                                   0250002500
+MILLER HUNT RD                                              0250002500
+MILWOOD DR                                                  0250102501
+MIMOSA DR                                                   0250002500
+MINA STATION RD                                             0250002500
+MOBERLY LN                                                  0250002500
+MOCKINGBIRD VALLEY RD                                       0250102501
+MONET BLVD                                                  0250002500
+MONROE AVE                                                  0250102501
+MORGAN CT                                                   0250002500
+MORGUSON LN                                                 0250002500
+MORNING GLORY CT                                            0250002500
+MORRIS RD                                                   0250002500
+MOSS CT                                                     0250002500
+MOUNDALE AVE                                                0250102501
+MOUNDALE CT                                                 0250102501
+MOUNTAIN VIEW LN                                            0250002500
+MT STERLING RD                                              0250002500
+MT VERNON DR                                                0250002500
+MUDDY CREEK RD                                              0250002500
+MUIR LN                                                     0250002500
+MULLINS LN                                                  0250002500
+MUNCHS CORNER                                               0250002500
+MURPHYS RUN                                                 0250002500
+MUTUAL AVE                                                  0250102501
+N BLOOMFIELD RD                                             0250102501
+N BURNS AVE                                                 0250102501
+N HIGHLAND ST                                               0250102501
+N MAIN ST                                                   0250102501
+N MAPLE ST                                                  0250102501
+N MIDDLETOWN RD                                             0250002500
+NAVAJO TRL                                                  0250102501
+NELSON AVE                                                  0250102501
+NEST EGG RD                                                 0250002500
+NEW ST                                                      0250102501
+NEWCASTLE LN                                                0250102501
+NICK LN                                                     0250002500
+NOBLE KING CT                                               0250102501
+NONE KNOWN                                                  0250102501
+NORTH CT                                                    0250102501
+NORTHERN AVE                                                0250102501
+NORTHRIDGE RD                                               0250002500
+NUNNELLY CT                                                 0250102501
+OAK ST                                                      0250102501
+OGDEN CT                                                    0250102501
+OIL SPRINGS RD                                              0250002500
+OLD BOONESBORO NORTH RD                                     0250002500
+OLD BOONESBORO RD                                           0250002500
+OLD BOTTOM RD                                               0250102501
+OLD GARDEN CT                                               0250102501
+OLD IRONWORKS RD                                            0250002500
+OLD KY 89 RD                                                0250002500
+OLD LOG LICK RD                                             0250002500
+OLD MUDDY CREEK RD                                          0250002500
+OLD PARIS PIKE                                              0250102501
+OLD REVILO RD                                               0250002500
+OLD REVILO ROAD CONNECTOR                                   0250002500
+OLD ROCKWELL RD                                             0250002500
+OLD RUCKERVILLE RD                                          0250002500
+OLD STONE CHURCH RD                                         0250002500
+OLD TWO MILE RD                                             0250002500
+OLDE POTOMAC AVE                                            0250102501
+OLIVER ST                                                   0250102501
+ORANGE AVE                                                  0250102501
+ORCHID CT                                                   0250002500
+OREO DR                                                     0250102501
+OVERLOOKING DR                                              0250002500
+OXFORD DR                                                   0250102501
+PAISLEY CT                                                  0250002500
+PARIS RD                                                    0250002500
+PARIS RD                                                    0250102501
+PARK AVE                                                    0250102501
+PARKWAY RD                                                  0250002500
+PATIO ST                                                    0250102501
+PATRICK LN                                                  0250002500
+PATTON LN                                                   0250002500
+PEACHTREE LN                                                0250002500
+PEAR CT                                                     0250102501
+PEARL ST                                                    0250102501
+PEDRO WAY                                                   0250102501
+PENCE LN                                                    0250002500
+PENDLETON ST                                                0250102501
+PEPPER ALY                                                  0250102501
+PEPPERWOOD CT                                               0250102501
+PERKINS ST                                                  0250102501
+PHILLIPS CT                                                 0250102501
+PILOT RIDGE LN                                              0250002500
+PILOT VIEW RD                                               0250002500
+PINE RIDGE RD                                               0250002500
+PINTAIL LN                                                  0250002500
+PIONEER DR                                                  0250102501
+PLANTATIONS DR                                              0250102501
+PLEASANT HILL LN                                            0250002500
+POCAHONTAS TRL                                              0250102501
+POPLAR DR                                                   0250102501
+PORTER CT                                                   0250002500
+POTOMAC DR                                                  0250002500
+POWE DR                                                     0250102501
+PRESCOTT LN                                                 0250102501
+PRETTY RUN RD                                               0250002500
+PREWITT LN                                                  0250002500
+PRIMROSE LN                                                 0250002500
+PRINCETON DR                                                0250002500
+PRIVACY LN                                                  0250002500
+PROFESSIONAL AVE                                            0250102501
+PROVIDENCE LN                                               0250002500
+PUEBLO CT                                                   0250102501
+QUAIL RIDGE RD                                              0250002500
+QUISENBERRY LN                                              0250002500
+R W T WAY                                                   0250002500
+RABBITTOWN RD                                               0250002500
+RAILROAD LN                                                 0250002500
+RAINTREE PL                                                 0250102501
+RALSTON LN                                                  0250002500
+RAMEAU CIR                                                  0250002500
+RATLIFF CT                                                  0250102501
+RAVEN CT                                                    0250102501
+RECTOR LN                                                   0250002500
+RED RIVER RD                                                0250002500
+REDBUD LN                                                   0250102501
+REDWING DR                                                  0250002500
+REDWING DR                                                  0250102501
+REDWOOD CT                                                  0250102501
+REGAN DR                                                    0250102501
+REIMS CT                                                    0250002500
+REIMS DR                                                    0250002500
+RENICK STATION RD                                           0250002500
+RESERVOIR CT                                                0250002500
+RESERVOIR LN                                                0250002500
+REVILO RD                                                   0250002500
+REX CT                                                      0250002500
+RICKARD LN                                                  0250002500
+RIDGEWAY DR                                                 0250102501
+RIGHT ANGLE RD                                              0250002500
+RITZ CT                                                     0250102501
+RIVERBEND LN                                                0250002500
+ROBB CT                                                     0250102501
+ROBERT CT                                                   0250002500
+ROBYN DR                                                    0250002500
+ROCKWELL RD                                                 0250002500
+ROCKWELL ROAD CONNECTOR                                     0250002500
+ROCKY TOP CT                                                0250002500
+ROCKY TOP LN                                                0250002500
+ROLLING HILLS LN                                            0250002500
+ROLLING HILLS LN                                            0250102501
+ROSE ACRE LN                                                0250002500
+ROSE DR                                                     0250002500
+ROSE DR                                                     0250102501
+ROSE MARY DR                                                0250102501
+ROSEBUD LN                                                  0250002500
+ROWLAND AVE                                                 0250102501
+ROYAL BLUSH CT                                              0250102501
+ROYAL OAK DR                                                0250102501
+RUNNYMEADE DR                                               0250102501
+RUPARD LN                                                   0250002500
+RUSSELL LN                                                  0250002500
+RYANS MILL RD                                               0250002500
+S BLOOMFIELD RD                                             0250102501
+S BURNS AVE                                                 0250102501
+S HAMPTON AVE                                               0250102501
+S HIGHLAND ST                                               0250102501
+S MAIN ST                                                   0250102501
+S MAPLE ST                                                  0250102501
+SALEM AVE                                                   0250002500
+SANDLEWOOD POINTE                                           0250102501
+SANDRA DR                                                   0250002500
+SARAH CT                                                    0250002500
+SAXON CT                                                    0250102501
+SCHOLLSVILLE RD                                             0250002500
+SCHOOLHOUSE LN                                              0250002500
+SEABOARD ST                                                 0250102501
+SEMINOLE TRL                                                0250102501
+SENECA DR                                                   0250002500
+SETTLERS LN                                                 0250002500
+SEWELL SHOP RD                                              0250002500
+SHADY HILL LN                                               0250002500
+SHADY LN                                                    0250102501
+SHALAMAR RUE                                                0250002500
+SHANAHAN LN                                                 0250002500
+SHANNON CT                                                  0250002500
+SHAWNEE TRL                                                 0250002500
+SHEFFIELD WAY                                               0250102501
+SHELLEY DR                                                  0250102501
+SHERWOOD CT                                                 0250102501
+SHOPPERS DR                                                 0250102501
+SHOPPERS VILLAGE PLZ                                        0250102501
+SHORT ST                                                    0250102501
+SIDWELL CT                                                  0250002500
+SIDWELL LN                                                  0250002500
+SIE SHEARER RD                                              0250002500
+SILVERTON WAY                                               0250102501
+SIMBA CT                                                    0250102501
+SIR BARTON WAY                                              0250102501
+SIR EDWARD CT                                               0250102501
+SIR WALTER LN                                               0250002500
+SKYLARK DR                                                  0250002500
+SKYLARK DR                                                  0250102501
+SKYLINE DR                                                  0250002500
+SMITH AVE                                                   0250102501
+SNOW CREEK RD                                               0250002500
+SNOWDEN DR                                                  0250102501
+SNOWFALL DR                                                 0250102501
+SOUTH CT                                                    0250102501
+SOUTHERN CT                                                 0250102501
+SOUTHWIND DR                                                0250002500
+SPENCER LN                                                  0250002500
+SPICER RD                                                   0250002500
+SPRING RIDGE WAY                                            0250002500
+SPRING ST                                                   0250102501
+SPRING VALLEY DR                                            0250002500
+SPRINGMIST LN                                               0250102501
+SPRUCE CT                                                   0250102501
+STACEY DR                                                   0250002500
+STAMPER DR                                                  0250102501
+STEEPLETOP LN                                               0250002500
+STEFANIE CT                                                 0250102501
+STERLING ST                                                 0250102501
+STEVE CIR                                                   0250002500
+STEVE CT                                                    0250002500
+STEVENSON HTS                                               0250102501
+STEVENSON ST                                                0250102501
+STEWARTS MILL RD                                            0250002500
+STONECREST RD                                               0250002500
+STONER EPHESUS RD                                           0250002500
+STONEY BROOK DR                                             0250002500
+STRATFORD GLEN DR                                           0250102501
+STRATTON LN                                                 0250002500
+STRODE STATION CIR                                          0250102501
+STURBRIDGE LN                                               0250102501
+SUGAR RIDGE RD                                              0250002500
+SULPHUR WELL RD                                             0250002500
+SUMMERHILL WAY                                              0250002500
+SUNDOWN LN                                                  0250002500
+SUNSET HTS                                                  0250102501
+SURREY CT                                                   0250102501
+SUSAN CT                                                    0250102501
+SYCAMORE ST                                                 0250102501
+SYDNEY CT                                                   0250102501
+SYLVANIA AVE                                                0250102501
+TALBOTT AVE                                                 0250102501
+TANGLERIDGE LN                                              0250002500
+TARTAN CT                                                   0250002500
+TAULBEE LN                                                  0250002500
+TAYLOR AVE                                                  0250102501
+TEAKWOOD CT                                                 0250102501
+TEAL LN                                                     0250002500
+TECH DR                                                     0250102501
+TERRY DR                                                    0250002500
+THE RIDINGS                                                 0250002500
+THE WOODS LN                                                0250002500
+THERESE DR E                                                0250002500
+THERESE DR W                                                0250002500
+THOMAS LN                                                   0250002500
+THOMSON STATION RD                                          0250002500
+THOROUGHBRED PLZ                                            0250102501
+TIERNEY WAY                                                 0250002500
+TIMS ALY                                                    0250102501
+TIN PAN ALY                                                 0250102501
+TODDS RD                                                    0250002500
+TOWER LN                                                    0250002500
+TRAPP GOFFS CORNER RD                                       0250002500
+TREEHAVEN DR                                                0250002500
+TREMONT LN                                                  0250102501
+TRUE LN                                                     0250002500
+TURKEY CREEK LN                                             0250002500
+TWIN FORK CT                                                0250002500
+TWIN FORK LN                                                0250002500
+TWO MILE RD                                                 0250002500
+TWO MILE RD                                                 0250102501
+TYLER BANKS CT                                              0250102501
+TYRA CT                                                     0250002500
+UPPER ST                                                    0250102501
+VALENTINE CT                                                0250102501
+VALLEY CT                                                   0250002500
+VALLEY DR                                                   0250002500
+VAN METER RD                                                0250002500
+VAN METER RD                                                0250102501
+VANOVER WAY                                                 0250002500
+VAUGHN LN                                                   0250002500
+VAUGHT CT                                                   0250102501
+VAUGHT RD                                                   0250102501
+VENABLE RD                                                  0250002500
+VERNA DR                                                    0250002500
+VICTORY AVE                                                 0250102501
+VIENNA RD                                                   0250002500
+VILLAGE CT                                                  0250102501
+VILLAGE DR                                                  0250102501
+VINE ST                                                     0250102501
+VIRGINIA AVE                                                0250102501
+W BROADWAY ST                                               0250102501
+W CLARK DR                                                  0250102501
+W FULTON RD                                                 0250102501
+W HICKMAN ST                                                0250102501
+W LEXINGTON AVE                                             0250102501
+W ROBINSON CT                                               0250102501
+W WASHINGTON ST                                             0250102501
+WABASH AVE                                                  0250102501
+WADES MILL RD                                               0250002500
+WAINSCOTT AVE                                               0250102501
+WALDO ALY                                                   0250102501
+WALKER AVE                                                  0250102501
+WALL ST                                                     0250102501
+WALLE DR                                                    0250102501
+WALNUT ST                                                   0250102501
+WARNER LN                                                   0250002500
+WASHINGTON SQ                                               0250102501
+WATERCREST CIR                                              0250002500
+WATERCREST WAY                                              0250002500
+WATERWORKS RD                                               0250002500
+WATTS RD                                                    0250002500
+WAVELAND AVE                                                0250102501
+WAYCROSS DR                                                 0250002500
+WAYLAND DR                                                  0250002500
+WAYMARK CT                                                  0250002500
+WAYNE CT                                                    0250002500
+WAYSIDE CT                                                  0250002500
+WEBER VALLEY LN                                             0250002500
+WELLINGTON WAY                                              0250102501
+WELLS RD                                                    0250002500
+WESTCHESTER DR                                              0250002500
+WESTERN AVE                                                 0250102501
+WESTMEADE DR                                                0250002500
+WESTSIDE DR                                                 0250102501
+WESTWOOD DR                                                 0250102501
+WEXFORD DR                                                  0250002500
+WHEELER AVE                                                 0250102501
+WHIRLAWAY DR                                                0250102501
+WHITE CIR                                                   0250102501
+WHITE CONKWRIGHT RD                                         0250002500
+WHITE TURLEY RD                                             0250002500
+WHITNEY CT                                                  0250102501
+WIGEON CT                                                   0250002500
+WILCOX LN                                                   0250002500
+WILLIAMSBURG DR                                             0250002500
+WILLOW DR                                                   0250102501
+WILLOWBROOK RD                                              0250102501
+WILLS RUPARD RD                                             0250002500
+WILSON LN                                                   0250102501
+WINCHESTER BYP                                              0250002500
+WINCHESTER BYP                                              0250102501
+WINCHESTER CEMETERY RD                                      0250102501
+WINCHESTER CEMETERY RD E                                    0250102501
+WINCHESTER CEMETERY RD N                                    0250102501
+WINCHESTER CEMETERY RD S                                    0250102501
+WINCHESTER CEMETERY ROAD A                                  0250102501
+WINCHESTER CEMETERY ROAD C                                  0250102501
+WINCHESTER CEMETERY ROAD D                                  0250102501
+WINCHESTER CEMETERY ROAD E                                  0250102501
+WINCHESTER CEMETERY ROAD F                                  0250102501
+WINCHESTER CEMETERY ROAD G                                  0250102501
+WINCHESTER CEMETERY ROAD H                                  0250102501
+WINCHESTER CEMETERY ROAD J                                  0250102501
+WINCHESTER CEMETERY ROAD K                                  0250102501
+WINCHESTER CEMETERY ROAD L                                  0250102501
+WINCHESTER CEMETERY ROAD M                                  0250102501
+WINCHESTER CEMETERY ROAD P                                  0250102501
+WINCHESTER CEMETERY ROAD Q                                  0250102501
+WINCHESTER CEMETERY ROAD R                                  0250102501
+WINCHESTER PLZ                                              0250102501
+WINCHESTER SOCCER RD                                        0250102501
+WINDRIDGE DR                                                0250102501
+WINDSOR DR                                                  0250102501
+WINDY CT                                                    0250002500
+WINDY LN                                                    0250002500
+WINN AVE                                                    0250102501
+WINTERBERRY CIR                                             0250102501
+WINTERBERRY DR                                              0250102501
+WMU ACCESS RD                                               0250102501
+WOODBINE CT                                                 0250102501
+WOODDUCK CT                                                 0250002500
+WOODFORD DR                                                 0250002500
+WOODLAND DR                                                 0250102501
+XANTIPPA LN                                                 0250002500
+YEISER RD                                                   0250002500
+YORKTOWNE CT                                                0250002500
+YORKTOWNE DR                                                0250002500
+YUCCA CT                                                    0250002500

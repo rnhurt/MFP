@@ -1,0 +1,1607 @@
+10TH ST                                                     0100001000
+10TH ST                                                     0100101001
+10TH ST                                                     0100201002
+11TH ST                                                     0100001000
+11TH ST                                                     0100101001
+11TH ST                                                     0100201002
+13TH ST                                                     0100001000
+13TH ST                                                     0100101001
+13TH ST                                                     0100201002
+14TH ST                                                     0100101001
+15TH ST                                                     0100101001
+15TH ST                                                     0100201002
+16TH ST                                                     0100101001
+17TH ST                                                     0100101001
+18TH ST                                                     0100101001
+18TH ST                                                     0100201002
+19TH ST                                                     0100101001
+19TH ST                                                     0100201002
+1ST CIRCLE PROSPECT                                         0100101001
+1ST ST                                                      0100001000
+20TH ST                                                     0100101001
+20TH ST                                                     0100201002
+21ST ST                                                     0100101001
+21ST ST                                                     0100201002
+22ND ST                                                     0100101001
+22ND ST                                                     0100201002
+23RD ST                                                     0100101001
+23RD ST                                                     0100201002
+23RD STREET CONNECTOR                                       0100201002
+24TH ST                                                     0100101001
+24TH ST                                                     0100201002
+25TH ST                                                     0100101001
+25TH ST                                                     0100201002
+26TH ST                                                     0100101001
+26TH ST                                                     0100201002
+27TH ST                                                     0100101001
+27TH ST                                                     0100201002
+28TH ST                                                     0100101001
+28TH ST                                                     0100201002
+29TH ST                                                     0100101001
+29TH ST                                                     0100201002
+2ND CIRCLE PROSPECT                                         0100101001
+2ND ST                                                      0100001000
+30TH ST                                                     0100101001
+30TH ST                                                     0100201002
+31ST ST                                                     0100101001
+32ND ST                                                     0100101001
+32ND ST                                                     0100201002
+33RD ALY                                                    0100201002
+33RD ST                                                     0100101001
+33RD ST                                                     0100201002
+34TH ST                                                     0100101001
+34TH ST                                                     0100201002
+35TH ALY                                                    0100201002
+35TH ST                                                     0100001000
+35TH ST                                                     0100101001
+35TH ST                                                     0100201002
+36TH ST                                                     0100201002
+36TH STREET SPUR                                            0100201002
+37TH ST                                                     0100201002
+38TH ST                                                     0100201002
+38TH STREET SPUR                                            0100201002
+39TH ST                                                     0100101001
+3RD CIRCLE PROSPECT                                         0100101001
+3RD ST                                                      0100001000
+40TH ST                                                     0100101001
+41ST ST                                                     0100101001
+42ND ST                                                     0100101001
+43RD ST                                                     0100101001
+44TH ST                                                     0100101001
+46TH ST                                                     0100101001
+47TH ST                                                     0100101001
+48TH ST                                                     0100101001
+49TH ST                                                     0100101001
+4H CENTER RD                                                0100001000
+4TH ST                                                      0100001000
+52ND ST                                                     0100101001
+53RD ST                                                     0100101001
+55TH ST                                                     0100001000
+55TH ST                                                     0100101001
+5TH ST                                                      0100001000
+6TH ST                                                      0100101001
+7TH ST                                                      0100101001
+8TH ST                                                      0100101001
+9TH ST                                                      0100101001
+A E LEWIS ST                                                0100001000
+AARON RD                                                    0100001000
+ACKLEY AVE                                                  0100101001
+ACORN ST                                                    0100101001
+ACTCS ROBERTS DRIVE FRONT                                   0100001000
+ACTCS ROBERTS DRIVE LOOP                                    0100001000
+ADAM LN                                                     0100001000
+ADAMS AVE                                                   0100101001
+ADAMS DR                                                    0100001000
+ADAMS ROSEBUD TRAILER PARK                                  0100101001
+ADAMS ROSEBUD TRAILER PARK SPUR                             0100101001
+ADDINGTON CIR                                               0100001000
+ADDINGTON RD                                                0100001000
+ADKINS DR                                                   0100001000
+ADMIRAL DEWEY LN                                            0100001000
+ADOLPHUS ST                                                 0100101001
+AKERS DR                                                    0100001000
+AKERS ST                                                    0100101001
+ALEXANDER PL                                                0100101001
+ALGONQUIN AVE                                               0100101001
+ALLEN CT                                                    0100001000
+ALLEY                                                       0100101001
+ALLEY                                                       0100201002
+ALLEY BR                                                    0100001000
+ALMOND RD                                                   0100001000
+ALPHA ST                                                    0100101001
+ALTAMONT DR                                                 0100101001
+AMBER LN                                                    0100001000
+ANGEL LN                                                    0100001000
+ANGELA DR                                                   0100001000
+ANNE ST                                                     0100201002
+ANTHANY DR                                                  0100001000
+APPLE BLOSSOM LN                                            0100101001
+APPLE LN                                                    0100001000
+APPLEWOOD DR                                                0100001000
+ARMCO BLVD                                                  0100001000
+ARMCO PARK                                                  0100001000
+ARMCO PARK CIRCLE                                           0100001000
+ARMCO PARK CONNECTOR                                        0100001000
+ARMCO PARK DR                                               0100001000
+ARMCO RD                                                    0100001000
+ARMCO ROAD SPUR                                             0100101001
+ARNETT DR                                                   0100001000
+ARNETT LN                                                   0100001000
+ARROWHEAD DR                                                0100001000
+ART COMPLEX CT                                              0100101001
+ARTHUR RD                                                   0100001000
+ARTHUR ST                                                   0100101001
+ASHBY CONNECTOR                                             0100001000
+ASHBY DR                                                    0100001000
+ASHLAND AVE                                                 0100101001
+ASHLAND CEMETERY                                            0100101001
+ASHLAND MALL                                                0100101001
+ASHWOOD CT                                                  0100101001
+ASHWOOD DR                                                  0100101001
+ASHWORTH ST                                                 0100101001
+ATLANTA DR                                                  0100001000
+AUBURN AVE                                                  0100101001
+AVERY ST                                                    0100101001
+AZALEA DR                                                   0100001000
+AZALEA DR                                                   0100101001
+BADGETT LN                                                  0100001000
+BAER ST                                                     0100101001
+BALDRIDGE CT                                                0100001000
+BALLARD ST                                                  0100101001
+BALTIMORE AVE                                               0100001000
+BANBURY RD                                                  0100101001
+BARBEQUE RD                                                 0100001000
+BARBEQUE RD                                                 0100201002
+BARBEQUE SPUR RD                                            0100001000
+BARBER RD                                                   0100101001
+BARBIE CT                                                   0100001000
+BARNHART LN                                                 0100001000
+BARNOTHING RD                                               0100001000
+BARTLETT ST                                                 0100101001
+BARTON CT                                                   0100101001
+BATH AVE                                                    0100101001
+BAUGESS DR                                                  0100001000
+BAYBERRY DR                                                 0100001000
+BAYBERRY DR                                                 0100101001
+BAYES HL                                                    0100001000
+BAYLESS HL                                                  0100001000
+BEAR CREEK RD                                               0100001000
+BECKETT ST                                                  0100101001
+BEECH ST                                                    0100101001
+BEECHWOOD AVE                                               0100101001
+BELFORD ST                                                  0100101001
+BELL ST                                                     0100101001
+BELLEFONTE PRINCESS RD                                      0100001000
+BELLEFONTE RD                                               0100001000
+BELLEFONTE SPRINGS DR                                       0100001000
+BELMONT ST                                                  0100101001
+BENTMORE DR                                                 0100001000
+BERRY AVE                                                   0100001000
+BERRY ST                                                    0100101001
+BERTHA DR                                                   0100001000
+BETHEL LANE CONNECTOR                                       0100001000
+BETHEL LN                                                   0100001000
+BEVERLY BLVD                                                0100101001
+BIG RUN TRCE                                                0100001000
+BILLUPS DR                                                  0100001000
+BIRCH ST                                                    0100101001
+BIRNAMWOOD DR                                               0100101001
+BLACK LEG HOLW                                              0100001000
+BLACKBERRY CT                                               0100001000
+BLACKBURN AVE                                               0100101001
+BLAZER BLVD                                                 0100101001
+BLEVINS ST                                                  0100101001
+BLUE RIBBON DR                                              0100001000
+BOB LN                                                      0100001000
+BOB MCCOULOUGH DR                                           0100101001
+BOB MCCULLOUGH DR                                           0100001000
+BOLTS FORK                                                  0100001000
+BONANZA DR                                                  0100001000
+BONNIE LN                                                   0100001000
+BOONE ST                                                    0100101001
+BOOTH QUILLEN RD                                            0100001000
+BOWLING CEMETERY                                            0100001000
+BOWLING DR                                                  0100001000
+BOY SCOUT RD                                                0100101001
+BOYD ST                                                     0100001000
+BOYD ST                                                     0100101001
+BOYD STREET ALLEY                                           0100101001
+BRADLEY CT                                                  0100101001
+BRADLEY DR                                                  0100001000
+BRADLEY DR                                                  0100101001
+BRADLEY LN                                                  0100001000
+BRADLEY ST                                                  0100101001
+BRAMBLE DR                                                  0100001000
+BRANDYWINE DR                                               0100001000
+BRENDA DR                                                   0100101001
+BRENDA ST                                                   0100101001
+BRETT DR                                                    0100001000
+BREWER RD                                                   0100001000
+BRIARWOOD DR                                                0100001000
+BRINGHAM RD                                                 0100001000
+BROAD ST                                                    0100101001
+BROADWAY DR                                                 0100001000
+BROADWAY ST                                                 0100201002
+BRODY LN                                                    0100001000
+BROOKS DR                                                   0100001000
+BROOKS RD                                                   0100001000
+BROOKWOOD CT                                                0100001000
+BROOM ST                                                    0100101001
+BROTHERS CT                                                 0100001000
+BROWN HILL DR                                               0100001000
+BROWN LN                                                    0100001000
+BROWN ST                                                    0100101001
+BRUCE DR                                                    0100101001
+BRYAN DR                                                    0100001000
+BRYAN ST                                                    0100101001
+BUCKHAVEN CT                                                0100001000
+BUENA VISTA DR                                              0100001000
+BURCHETT BR                                                 0100001000
+BURKE LN                                                    0100001000
+BURNAUGH HTS                                                0100001000
+BUSH LN                                                     0100001000
+BUSH ST                                                     0100101001
+BUTLER ST                                                   0100001000
+BUTTERNUT LN                                                0100001000
+BYBEE RD                                                    0100001000
+BYRNE ST                                                    0100101001
+C C DR                                                      0100001000
+CABELL ST                                                   0100001000
+CABELL ST                                                   0100101001
+CACTUS ST                                                   0100101001
+CADENS WAY                                                  0100001000
+CAIN ST                                                     0100001000
+CALDWELL LN                                                 0100001000
+CALLAHAN RD                                                 0100001000
+CALLAHAN RIDGE                                              0100001000
+CALVIN ST                                                   0100101001
+CAMELOT DR                                                  0100001000
+CAMISA CT                                                   0100001000
+CAMPBELL ST                                                 0100101001
+CAMPBELLS BR                                                0100001000
+CANNON DR                                                   0100001000
+CANNONSBURG RD                                              0100001000
+CANTERBURY CT                                               0100101001
+CANTRELL LN                                                 0100001000
+CANTRELL ST                                                 0100101001
+CARDINAL DR                                                 0100001000
+CARDINAL LN                                                 0100001000
+CARDINAL RD                                                 0100001000
+CARL PERKINS DR                                             0100101001
+CARLA DR                                                    0100001000
+CARLISLE DR                                                 0100001000
+CAROLINE DR                                                 0100001000
+CAROLYN ST                                                  0100101001
+CARR ST                                                     0100101001
+CARRIAGE CT                                                 0100001000
+CARRIAGE GATE RD                                            0100001000
+CARRIAGE GATE RD                                            0100101001
+CARRIAGE HILL CT                                            0100001000
+CARRIAGE HILL DR                                            0100001000
+CARROLL ST                                                  0100101001
+CARRYBACK DR                                                0100001000
+CARTER AVE                                                  0100101001
+CARTWRIGHT RD                                               0100001000
+CARTY RD                                                    0100001000
+CATLETTS CRK                                                0100001000
+CECIL AVE                                                   0100001000
+CECIL AVENUE CONNECTOR                                      0100001000
+CEDAR DR                                                    0100001000
+CEDAR HILL DR                                               0100001000
+CEDAR HILL ESTATE CT                                        0100001000
+CEDAR KNOLL DR                                              0100001000
+CEDAR POINT CIR                                             0100001000
+CEDAR POINT CONNECTOR                                       0100001000
+CEDAR POINT CT                                              0100001000
+CEDAR ST                                                    0100101001
+CEMETERY RD                                                 0100201002
+CENTER ST                                                   0100201002
+CENTRAL AVE                                                 0100101001
+CENTRAL PKWY                                                0100101001
+CHADWICK CREEK RD                                           0100001000
+CHADWICK ST                                                 0100101001
+CHALUPA DR                                                  0100001000
+CHANDLER DR                                                 0100001000
+CHANEY LN                                                   0100001000
+CHARLES ST                                                  0100101001
+CHASE LN                                                    0100001000
+CHATTEROI ST                                                0100101001
+CHATTIN DR                                                  0100101001
+CHEEK AVE                                                   0100001000
+CHEER ST                                                    0100101001
+CHEROKEE AVE                                                0100101001
+CHERRINGTON ST                                              0100101001
+CHERRY LN                                                   0100001000
+CHERRY ST                                                   0100101001
+CHERRYWOOD CT                                               0100101001
+CHERRYWOOD DR                                               0100001000
+CHESHIRE LN                                                 0100001000
+CHESSIE DR                                                  0100001000
+CHESTNUT AVE                                                0100101001
+CHESTNUT CT                                                 0100101001
+CHESTNUT DR                                                 0100101001
+CHESTNUT HILL DR                                            0100101001
+CHESTNUT ST                                                 0100201002
+CHEYENNE ST                                                 0100001000
+CHICKASAW CT                                                0100001000
+CHINN ST                                                    0100101001
+CHIPPEWA ST                                                 0100001000
+CHRISTINA CONNECTOR DR                                      0100001000
+CHRISTINA DR                                                0100001000
+CHRISTINE AVE                                               0100001000
+CHRISTY LN                                                  0100001000
+CHRISTY ST                                                  0100101001
+CHUCK NEWKIRK LN                                            0100001000
+CHUCK WOOLERY BLVD                                          0100101001
+CIRCLEVIEW ST                                               0100101001
+CLARA ST                                                    0100001000
+CLARA ST                                                    0100101001
+CLARK ST                                                    0100001000
+CLARK ST                                                    0100101001
+CLAY JACK RD                                                0100001000
+CLAY ST                                                     0100101001
+CLAY STREET ALLEY                                           0100101001
+CLEMENTS DR                                                 0100101001
+CLEVELAND ST                                                0100101001
+CLIFTON PT                                                  0100001000
+CLINE DR                                                    0100001000
+CLINTON ST                                                  0100101001
+CLOVER LN                                                   0100001000
+COALTON CEMETERY RD                                         0100001000
+COBB FORK                                                   0100001000
+COBURN AVE                                                  0100101001
+COGAN ST                                                    0100101001
+COLLEGE DR                                                  0100101001
+COLLIER RD                                                  0100001000
+COLLINS LN                                                  0100001000
+COLLINS RD                                                  0100001000
+COLONY PT                                                   0100101001
+COLUMBIA PKWY                                               0100101001
+COMFORT LN                                                  0100001000
+COMMANCHE DR                                                0100001000
+COMMERCE DR                                                 0100001000
+COMMERCE PARK                                               0100001000
+COMMERCE PIKE                                               0100001000
+CONDIT ST                                                   0100101001
+COOKSEY LN                                                  0100001000
+COPLEY RD                                                   0100001000
+CORDIAL DR                                                  0100101001
+CORPORATE COURT NO2                                         0100101001
+CORPORATE CT                                                0100101001
+COUNTRY BROOKE DR                                           0100001000
+COUNTRY CLUB CT                                             0100101001
+COUNTRY CLUB DR                                             0100001000
+COUNTRYSIDE DR                                              0100001000
+COUNTRYVIEW DR                                              0100001000
+COUNTY RD                                                   0100001000
+COURT OF THREE SISTERS                                      0100001000
+COURT ST                                                    0100101001
+COURT ST                                                    0100201002
+COURTYARD                                                   0100101001
+CRAFT ST                                                    0100101001
+CRANCE CT                                                   0100001000
+CRANCE RD                                                   0100001000
+CRAWFORD ST                                                 0100001000
+CRAWFORD ST                                                 0100101001
+CREEKBEND DR                                                0100001000
+CREEKSIDE DR                                                0100001000
+CRESCENT ST                                                 0100101001
+CREST ST                                                    0100101001
+CRESTON PL                                                  0100101001
+CRESTVIEW AVE                                               0100101001
+CRESTVIEW DR                                                0100001000
+CRIDER DR                                                   0100001000
+CRIDER LN                                                   0100001000
+CRITTENDEN DR                                               0100101001
+CROOKS ST                                                   0100101001
+CROSS ST                                                    0100001000
+CRUM ST                                                     0100101001
+CRYSLIP RD                                                  0100001000
+CRYSTAL LAKE DR                                             0100001000
+CUMBERLAND AVE                                              0100101001
+CURTIS CT                                                   0100001000
+CYPRESS CT                                                  0100101001
+CYPRESS ST                                                  0100101001
+CYRUS DR                                                    0100001000
+DAL RAY DR                                                  0100001000
+DALE RENEE TRAILER PARK DR                                  0100001000
+DALE RENEE TRAILER PARK DRIVE EXT                           0100001000
+DALE ST                                                     0100101001
+DALTON AVE                                                  0100001000
+DALTON CT                                                   0100001000
+DALTON RD                                                   0100001000
+DANA DR                                                     0100001000
+DANIELS CT                                                  0100001000
+DANIELS FORK                                                0100001000
+DANIELS ST                                                  0100101001
+DANNY LYNN DR                                               0100001000
+DAPHNE CT                                                   0100101001
+DAVIS BR                                                    0100001000
+DAVIS RD                                                    0100001000
+DAWES ST                                                    0100101001
+DAWES STREET CONNECTOR                                      0100101001
+DAWSON LN                                                   0100001000
+DEAL LN                                                     0100001000
+DEBBIE CT                                                   0100001000
+DEBOARD ST                                                  0100001000
+DEBORAH CT                                                  0100001000
+DEBORD HILL RD                                              0100101001
+DEBRA LYNN LN                                               0100001000
+DEE CT                                                      0100001000
+DEER PARK DR                                                0100001000
+DEERFIELD DR                                                0100001000
+DELAWARE ST                                                 0100101001
+DENNISON LN                                                 0100001000
+DEVON LN                                                    0100001000
+DEVORE ST                                                   0100101001
+DEWEY DR                                                    0100001000
+DIANE DR                                                    0100001000
+DICKERSON CEMETERY LOOP                                     0100001000
+DICKERSON CEMETERY RD                                       0100001000
+DICKERSON RD                                                0100001000
+DIEDERICH DR                                                0100001000
+DINIACO CT                                                  0100101001
+DINKLE DELL ST                                              0100201002
+DIPPER DR                                                   0100001000
+DIVISION ST                                                 0100101001
+DIXON LN                                                    0100001000
+DIXON ST                                                    0100101001
+DOG FORK LAUREL                                             0100001000
+DOG RIDGE                                                   0100001000
+DOGWOOD CT                                                  0100001000
+DON RD                                                      0100001000
+DONALD ST                                                   0100001000
+DONNA CT                                                    0100101001
+DONNA DR                                                    0100001000
+DONTA RD                                                    0100001000
+DORCLIFF HTS                                                0100001000
+DOUGLAS ST                                                  0100101001
+DOYLE ST                                                    0100001000
+DOZERMAN DR                                                 0100001000
+DUCO CT                                                     0100101001
+DUKE ST                                                     0100101001
+DUNBAR CT                                                   0100001000
+DUNN HILL DR                                                0100001000
+DURBIN FARM RD                                              0100001000
+DURBIN RD                                                   0100001000
+DYSARD HILL SPUR                                            0100101001
+DYSARD HL                                                   0100101001
+DYSARD ST                                                   0100101001
+E ARMCO PARK LOOP                                           0100001000
+E CALVIN ST                                                 0100001000
+E DONNA DR                                                  0100001000
+E EUCLID AVE                                                0100101001
+E FERGUSON ST                                               0100101001
+E GRIFFITH DR                                               0100001000
+E GROVE ST                                                  0100101001
+E HOLT ST                                                   0100101001
+E JACKSON ST                                                0100001000
+E JEPSON ST                                                 0100101001
+E JOHNSON RD                                                0100001000
+E RIDGE RD                                                  0100101001
+E THOMPSON RD                                               0100001000
+E WILLIAMS DR                                               0100001000
+E WILLIAMS DRIVE CONNECTOR                                  0100001000
+EADS RD                                                     0100001000
+EAGLE CROSSING CT                                           0100001000
+EAGLE DR                                                    0100001000
+EAGLE LN                                                    0100001000
+EARL ST                                                     0100101001
+EAST ST                                                     0100101001
+EASTVIEW CT                                                 0100001000
+ECOQUEST LN                                                 0100001000
+EDEN PL                                                     0100101001
+EDGEWOOD AVE                                                0100101001
+EDGEWOOD DR                                                 0100001000
+EDISON LN                                                   0100001000
+ELAM ST                                                     0100101001
+ELIZABETH CT                                                0100001000
+ELIZABETH ST                                                0100001000
+ELK ST                                                      0100101001
+ELKINS ST                                                   0100101001
+ELLIE MAY DR                                                0100001000
+ELLINGTON CT                                                0100001000
+ELLINGTON RUN CT                                            0100001000
+ELLINGTON RUN RD                                            0100001000
+ELLIOT AVE                                                  0100101001
+ELM ST                                                      0100101001
+ELMWOOD AVE                                                 0100101001
+ELOISE ST                                                   0100101001
+ELTON AVE                                                   0100101001
+ELTURA ST                                                   0100101001
+ELWOOD DR                                                   0100101001
+EMERSON ST                                                  0100101001
+EMERY ST                                                    0100101001
+EMILY ST                                                    0100001000
+EMITT DR                                                    0100001000
+ENGLEWOOD AVE                                               0100101001
+EPPERSON ST                                                 0100101001
+ERA DR                                                      0100001000
+ERNESTINE ST                                                0100101001
+ESTER CT                                                    0100001000
+ESTER ST                                                    0100101001
+EUCLID AVE                                                  0100101001
+EVANS DR                                                    0100001000
+EVANS ST                                                    0100101001
+EVANS STREET WESTWOOD                                       0100001000
+EVERGREEN DR                                                0100001000
+EVES CT                                                     0100101001
+EWING DR                                                    0100001000
+EXECUTIVE DR                                                0100001000
+FAIR FRANZ DR                                               0100101001
+FAIR HILL DR                                                0100001000
+FAIRFAX DR                                                  0100101001
+FAIRLAWN CT                                                 0100001000
+FAIRLAWN DR                                                 0100001000
+FAIRVIEW AVE                                                0100001000
+FAIRWAY DR                                                  0100001000
+FANNIN DR                                                   0100101001
+FANNIN HOLW                                                 0100001000
+FANNIN LN                                                   0100001000
+FAULKNER RD                                                 0100001000
+FAULKNER ROAD SPUR                                          0100001000
+FEDERAL CIR                                                 0100001000
+FELLOWSHIP CT                                               0100001000
+FELLOWSHIP DR                                               0100001000
+FELTY RD                                                    0100001000
+FERGUSON DR                                                 0100101001
+FERGUSON RD                                                 0100001000
+FERGUSON RD                                                 0100101001
+FERGUSON ST                                                 0100101001
+FERGUSUN ST                                                 0100101001
+FERRY ST                                                    0100101001
+FIELDS AVE                                                  0100001000
+FIELDS AVENUE CONNECTOR                                     0100001000
+FIRE TRAINING TOWER RD                                      0100101001
+FISCHEL ST                                                  0100101001
+FISH HATCHERY RD                                            0100001000
+FISHER CT                                                   0100101001
+FITCH RD                                                    0100001000
+FLEMING CT                                                  0100001000
+FLEMING CT                                                  0100101001
+FLORENCE ST                                                 0100101001
+FLORIDA ST                                                  0100101001
+FLOYD ST                                                    0100101001
+FLYING J RD                                                 0100001000
+FLYING J ROA NO2 CROSSOVER                                  0100001000
+FLYING J ROAD NO2                                           0100001000
+FOOTHILLS CT                                                0100101001
+FORD RD                                                     0100001000
+FORD ST                                                     0100101001
+FOREST AVE                                                  0100101001
+FOREST CT                                                   0100101001
+FORESTDALE CT                                               0100001000
+FORESTDALE RD                                               0100001000
+FORESTVIEW DR                                               0100101001
+FORGEY ST                                                   0100101001
+FOSSON ST                                                   0100001000
+FOUR MILE RD                                                0100001000
+FOUR WHEEL DR                                               0100001000
+FOWLER LN                                                   0100201002
+FOX CT                                                      0100001000
+FOX DR                                                      0100001000
+FOX RUN RD                                                  0100001000
+FRANKIE ST                                                  0100101001
+FRANKLIN ST                                                 0100101001
+FRANKS DR                                                   0100001000
+FRANZ CIR                                                   0100101001
+FRANZ CT                                                    0100101001
+FREDERICK ST                                                0100101001
+FRENCH BROAD ST                                             0100001000
+FRIEL CT                                                    0100001000
+FRIEL CT                                                    0100101001
+FRIEL DR                                                    0100001000
+FRIENDSHIP CT                                               0100001000
+FRIENDSHIP RD                                               0100001000
+FRIENDSHIP RD                                               0100101001
+FRONT ST                                                    0100101001
+FRONT ST                                                    0100201002
+FRYER CT                                                    0100001000
+GAIL DR                                                     0100001000
+GALLAHER DR                                                 0100101001
+GALLOWAY ST                                                 0100101001
+GARDEN CT                                                   0100101001
+GARDEN LN                                                   0100001000
+GARFIELD AVE                                                0100101001
+GARNET RD                                                   0100001000
+GARTIN AVE                                                  0100101001
+GARTRELL CT                                                 0100101001
+GARTRELL ST                                                 0100101001
+GARVER RD                                                   0100101001
+GEIGER LN                                                   0100101001
+GEIGER ST                                                   0100101001
+GEORGIA DR                                                  0100001000
+GERTRUDE RAMEY LN                                           0100001000
+GIBBS CT                                                    0100101001
+GIBSON RD                                                   0100001000
+GILLUM ST                                                   0100001000
+GLENDALE DR                                                 0100001000
+GLENN ST                                                    0100101001
+GLENVIEW DR                                                 0100001000
+GLENVIEW DRIVE CONNECTOR                                    0100001000
+GLORIA AVE                                                  0100101001
+GOLDEN GATE HL                                              0100001000
+GOLDEN ROD DR                                               0100001000
+GOLDIE CT                                                   0100001000
+GRACE ST                                                    0100101001
+GRANDE VISTA CT                                             0100001000
+GRANDVIEW DR                                                0100101001
+GRANDVIEW DR                                                0100201002
+GRANDVIEW LAKE RD                                           0100001000
+GRANT ST                                                    0100101001
+GRAYDON DR                                                  0100001000
+GRAYDON DRIVE LOOP                                          0100001000
+GRAYDON HEIGHTS DR                                          0100001000
+GREEN SPRINGER RD                                           0100001000
+GREEN VALLEY DR                                             0100001000
+GREENBRIAR RD                                               0100101001
+GREENFIELD RD                                               0100001000
+GREENHILL RD                                                0100001000
+GREENTREE CT                                                0100001000
+GREENUP AVE                                                 0100101001
+GREENUP ST                                                  0100201002
+GREENWAY CT                                                 0100101001
+GREENWAY RD                                                 0100101001
+GREGORY DR                                                  0100001000
+GRIFFITH ST                                                 0100101001
+GROVE ST                                                    0100101001
+GUM ALY                                                     0100101001
+GUSSLER ST                                                  0100101001
+HACK ESTEP CT                                               0100001000
+HACKER DR                                                   0100101001
+HACKWORTH ST                                                0100101001
+HAGAN CT                                                    0100101001
+HAGER ST                                                    0100101001
+HALBERT ST                                                  0100101001
+HALEE LN                                                    0100001000
+HALL RD                                                     0100001000
+HALL RIDGE RD                                               0100001000
+HAMILTON AVE                                                0100001000
+HAMPTON DR                                                  0100001000
+HAMPTON HILLS CT                                            0100101001
+HAMPTON ST                                                  0100101001
+HANCOCK ST                                                  0100101001
+HAPPY DR                                                    0100001000
+HAPPY HILL CT                                               0100001000
+HAPPY RIDGE                                                 0100001000
+HARDEMAN DR                                                 0100001000
+HARLAN ST                                                   0100101001
+HARMON LN                                                   0100001000
+HARRIS RD                                                   0100001000
+HARRIS ST                                                   0100201002
+HARRISON ST                                                 0100101001
+HARROD ST                                                   0100101001
+HART ST                                                     0100101001
+HATCHERY RD                                                 0100001000
+HATFIELD ST                                                 0100001000
+HAYES CT                                                    0100001000
+HAYWOOD AVE                                                 0100101001
+HEARTHSTONE CT                                              0100001000
+HEARTHSTONE DR                                              0100001000
+HEARTHSTONE LN                                              0100001000
+HELTON CT                                                   0100001000
+HENDERSON ST                                                0100101001
+HERBERT C ROSS DR                                           0100001000
+HERITAGE HTS                                                0100001000
+HERMAN AVE                                                  0100101001
+HI CARBON RD                                                0100001000
+HICKMAN ST                                                  0100101001
+HICKORY CT                                                  0100001000
+HICKORY ESTATES DR                                          0100001000
+HICKORY ESTS                                                0100001000
+HICKORY HILLS DR                                            0100001000
+HICKORY RIDGE DR                                            0100101001
+HICKORY ST                                                  0100101001
+HICKORY ST                                                  0100201002
+HICKS CT                                                    0100001000
+HICKS RD                                                    0100001000
+HIDDEN ACRES                                                0100001000
+HIDDEN VALLEY DR                                            0100001000
+HIGH PARK ST                                                0100001000
+HIGH POINT CT                                               0100001000
+HIGH ST                                                     0100001000
+HIGH ST                                                     0100101001
+HIGH VIEW DR                                                0100001000
+HIGH WATER RD                                               0100001000
+HIGHLAND AVE                                                0100001000
+HIGHLAND AVE                                                0100101001
+HIGHLAND PARK DR                                            0100001000
+HIGHLAWN AVE                                                0100101001
+HIGHWAY ST                                                  0100101001
+HILINE DR                                                   0100001000
+HILL AVE                                                    0100001000
+HILL ST                                                     0100001000
+HILLCREST CT                                                0100001000
+HILLCREST DR                                                0100001000
+HILLCREST RD                                                0100101001
+HILLS LN                                                    0100001000
+HILTON ALY                                                  0100101001
+HILTON AVE                                                  0100101001
+HILTON CT                                                   0100101001
+HINTON ST                                                   0100101001
+HOENIG DR                                                   0100001000
+HOGSTEN DR                                                  0100101001
+HOLBROOK RD                                                 0100001000
+HOLLOW RD                                                   0100001000
+HOLLY CT                                                    0100001000
+HOLLY HILL CT                                               0100001000
+HOLT ST                                                     0100101001
+HONEYSUCKLE LN                                              0100201002
+HOOD ST                                                     0100001000
+HOOD ST                                                     0100101001
+HOODS CREEK PIKE                                            0100001000
+HOODS CREEK PIKE                                            0100101001
+HOOVER ST                                                   0100101001
+HORN ST                                                     0100001000
+HORNE ST                                                    0100101001
+HORSLEY LN                                                  0100001000
+HOUSTON AVE                                                 0100001000
+HOUSTON ST                                                  0100001000
+HOWARD CORBIN LN                                            0100001000
+HOWARD DR                                                   0100001000
+HUCKLEBERRY ST                                              0100201002
+HUFF HOLLOW RD                                              0100001000
+HULTZ RD                                                    0100001000
+HUNT ST                                                     0100101001
+HUNTER CT                                                   0100101001
+HUNTER RD                                                   0100001000
+HURRICANE RD                                                0100001000
+HURRICANE ROAD ASHLAND                                      0100101001
+HYMAN AVE                                                   0100101001
+I64 E                                                       0100001000
+I64 E EXIT181 CROSSOVER US60                                0100001000
+I64 E EXIT181 OFF RAMP TO US60                              0100001000
+I64 E EXIT185 CROSSOVER FROM KY180 E                        0100001000
+I64 E EXIT185 CROSSOVER TO KY180 W                          0100001000
+I64 E EXIT185 OFF RAMP TO KY180                             0100001000
+I64 E EXIT185 OFF RAMP TO KY180 E                           0100001000
+I64 E EXIT185 ON RAMP FROM KY180                            0100001000
+I64 E EXIT191 CROSSOVER US23                                0100001000
+I64 E EXIT191 OFF RAMP TO US23                              0100001000
+I64 E EXIT191 ON RAMP FROM US23                             0100001000
+I64 W                                                       0100001000
+I64 W EXIT181 CROSSOVER US60                                0100001000
+I64 W EXIT181 ON RAMP FROM US60                             0100001000
+I64 W EXIT185 CROSSOVER KY180                               0100001000
+I64 W EXIT185 OFF RAMP TO KY180                             0100001000
+I64 W EXIT185 OFF RAMP TO KY180 E                           0100001000
+I64 W EXIT185 ON RAMP FROM KY180                            0100001000
+I64 W EXIT191 CROSSOVER US23                                0100001000
+I64 W EXIT191 OFF RAMP TO US23                              0100001000
+I64 W EXIT191 ON RAMP FROM US23                             0100001000
+ICE DAM HOLW                                                0100201002
+IKE CT                                                      0100001000
+IKE PATTON DR                                               0100001000
+INCO RD                                                     0100001000
+INDIAN TRAIL SPUR                                           0100001000
+INDIAN TRL                                                  0100001000
+INDUSTRIAL PARKWAY                                          0100001000
+IOWA ST                                                     0100001000
+IOWA ST                                                     0100101001
+IOWA STREET SPUR                                            0100101001
+IRELAND ST                                                  0100101001
+IRENE ST                                                    0100001000
+IRISH OAKS DR                                               0100101001
+IROQUOIS AVE                                                0100101001
+IVY CREEK                                                   0100001000
+IVYWOOD DR                                                  0100001000
+J LYNN LN                                                   0100001000
+JACKS FORK                                                  0100001000
+JACKSON AVE                                                 0100101001
+JAMES CT                                                    0100101001
+JAMIE DAWN RD                                               0100001000
+JANA LN                                                     0100001000
+JANE HILL RD                                                0100001000
+JARED CT                                                    0100001000
+JARVIS LN                                                   0100001000
+JARVIS RD                                                   0100001000
+JASON RD                                                    0100001000
+JAYS CT                                                     0100001000
+JEFFERSON ST                                                0100101001
+JEFFREY CT                                                  0100001000
+JENKINS ST                                                  0100101001
+JEPSON ST                                                   0100101001
+JERI CT                                                     0100001000
+JEWELL ST                                                   0100101001
+JOE MARCUM RD                                               0100001000
+JOE WELLS RD                                                0100001000
+JOEL ST                                                     0100101001
+JOHN MARY LANE SPUR                                         0100001000
+JOHN MARY LN                                                0100001000
+JOHNDA DR                                                   0100001000
+JOHNSON AVE                                                 0100001000
+JOHNSON AVE                                                 0100101001
+JOHNSON CT                                                  0100001000
+JOHNSON PL                                                  0100001000
+JOHNSON ST                                                  0100001000
+JOHNSONS FORK                                               0100001000
+JOMAR RD                                                    0100001000
+JONES AVE                                                   0100101001
+JORDAN DR                                                   0100001000
+JOY LN                                                      0100001000
+JUDY LN                                                     0100001000
+JULA LN                                                     0100001000
+JUNE DR                                                     0100001000
+JUNKYARD BLVD                                               0100001000
+KANSAS ST                                                   0100101001
+KAT LN                                                      0100001000
+KATELYN LN                                                  0100001000
+KATHERINE CT                                                0100001000
+KAVANAUGH RD                                                0100001000
+KEETON CT                                                   0100001000
+KEETON DR                                                   0100001000
+KELLY CT                                                    0100001000
+KELLY DR                                                    0100001000
+KELLYS CIR                                                  0100001000
+KEMP ST                                                     0100101001
+KENDALL LANE CONNECTOR                                      0100001000
+KENDALL LN                                                  0100001000
+KENNEY ST                                                   0100101001
+KENT DR                                                     0100001000
+KENTON ST                                                   0100101001
+KENTUCKY AVE                                                0100101001
+KENTUCKY POWER CIR                                          0100001000
+KENTUCKY ST                                                 0100001000
+KENVIEW DR                                                  0100001000
+KENZIE DR                                                   0100001000
+KEVIN ST                                                    0100001000
+KEWIN ST                                                    0100101001
+KILDEE DR                                                   0100001000
+KILGORE DR                                                  0100101001
+KILLEN DR                                                   0100001000
+KIMBERLY CT                                                 0100101001
+KING RICHARD CT                                             0100101001
+KINKEAD ST                                                  0100101001
+KIRBY FLATS RD                                              0100001000
+KIRK ST                                                     0100101001
+KIRKWOOD DR                                                 0100001000
+KISER LN                                                    0100001000
+KLAIBER LN                                                  0100001000
+KNOWLEDGE DR                                                0100001000
+KOREAN WAR MEMORIAL BLVD                                    0100101001
+KOUNS RD                                                    0100001000
+KOUNS ROAD SPUR                                             0100001000
+KY1654                                                      0100001000
+KY168                                                       0100001000
+KY168                                                       0100101001
+KY168                                                       0100201002
+KY180                                                       0100001000
+KY3                                                         0100001000
+KY5                                                         0100001000
+KY716                                                       0100001000
+KY854                                                       0100001000
+KYLE CT                                                     0100001000
+LADOKA ST                                                   0100101001
+LAKE BONITA RD                                              0100001000
+LAKE DR                                                     0100001000
+LAKE MARY CAROL RD                                          0100001000
+LAKEVIEW DR                                                 0100001000
+LAKEWOOD VILLAGE DR                                         0100001000
+LAKIN DR                                                    0100001000
+LANDEN HTS                                                  0100001000
+LANE ST                                                     0100001000
+LANSDOWNE DR                                                0100101001
+LANSDOWNE SPUR                                              0100101001
+LARAMIE TRL                                                 0100001000
+LARK ALY                                                    0100201002
+LARK ST                                                     0100201002
+LAUREL AVE                                                  0100001000
+LAUREL HAVEN CT                                             0100001000
+LAUREL RIDGE                                                0100001000
+LAVERNE CT                                                  0100001000
+LAWHORN DR                                                  0100001000
+LAWRENCE AVE                                                0100101001
+LAWSON RD                                                   0100001000
+LEAF CT                                                     0100101001
+LEE CT                                                      0100001000
+LEE ST                                                      0100001000
+LEENOLA DR                                                  0100001000
+LEFFINGWELL CT                                              0100101001
+LEFT FORK DURBIN RD                                         0100001000
+LEIGHWOOD CT                                                0100101001
+LEIGHWOOD DR                                                0100101001
+LEROY LN                                                    0100001000
+LESTER LN                                                   0100001000
+LEWIS AVE                                                   0100101001
+LEWIS DR                                                    0100001000
+LEWIS LN                                                    0100001000
+LEWIS LN                                                    0100101001
+LEXINGTON AVE                                               0100101001
+LIBERTY ST                                                  0100101001
+LINCOLN AVE                                                 0100101001
+LINDA CIR                                                   0100001000
+LINDA DR                                                    0100001000
+LINDA LN                                                    0100001000
+LINDEN RD                                                   0100101001
+LINDZEY RD                                                  0100001000
+LITTERAL HL                                                 0100001000
+LITTLE GARNER RD                                            0100001000
+LOCK AVE                                                    0100201002
+LOCKWOOD DR                                                 0100001000
+LOCKWOOD RD                                                 0100001000
+LOCUST AVE                                                  0100101001
+LODGE LN                                                    0100001000
+LOGAN ST                                                    0100101001
+LONE OAK DR                                                 0100001000
+LONG BR                                                     0100001000
+LONG ST                                                     0100101001
+LOOKOUT ST                                                  0100101001
+LORRAINE ST                                                 0100101001
+LOTUS ST                                                    0100101001
+LOUISA HTS                                                  0100201002
+LOUISA RD                                                   0100001000
+LOUISA RD                                                   0100201002
+LOUISA ST                                                   0100201002
+LOUISA STREET CONNECTOR                                     0100201002
+LOUISE DR                                                   0100001000
+LOWE GEHRINGER RD                                           0100001000
+LOWER ROSE HILL MAUSOLEUM DR                                0100101001
+LOWMAN DR                                                   0100101001
+LUCILLE ST                                                  0100101001
+LULU ST                                                     0100101001
+LUTE CT                                                     0100001000
+LYDIA ST                                                    0100101001
+LYNN AVE                                                    0100001000
+LYNNHAVEN CT                                                0100101001
+LYNNWOOD AVE                                                0100101001
+LYNNWOOD CT                                                 0100001000
+LYNNWOOD DR                                                 0100001000
+LYONS LN                                                    0100101001
+MACKENZIE CT                                                0100001000
+MACKEY LN                                                   0100001000
+MADGE ST                                                    0100101001
+MADISON LN                                                  0100001000
+MADISON ST                                                  0100101001
+MAGGARD ST                                                  0100001000
+MAGNOLIA CT                                                 0100001000
+MAID MARION CT                                              0100101001
+MAIN ST                                                     0100001000
+MAIN ST                                                     0100101001
+MAIN STREET WESTWOOD RD                                     0100001000
+MALL RD                                                     0100101001
+MANNA ESTATES DR                                            0100001000
+MANOR DR                                                    0100001000
+MANSBACH RD                                                 0100001000
+MANTZ ST                                                    0100101001
+MAPLE AVE                                                   0100101001
+MAPLE CT                                                    0100001000
+MAPLE LEAF CIR                                              0100001000
+MAPLE LEAF RD                                               0100001000
+MARCIA ST                                                   0100101001
+MARCUM ST                                                   0100001000
+MARGARET ST                                                 0100001000
+MARGARETTE ST                                               0100101001
+MARSH HILL CT                                               0100001000
+MARSH HILL DR                                               0100001000
+MARTIN LUTHER KING BLVD                                     0100001000
+MARTIN LUTHER KING BLVD                                     0100101001
+MARTIN V DR                                                 0100001000
+MARUSHI LN                                                  0100201002
+MARY CAROL CONNECTOR                                        0100001000
+MARY CAROL RD                                               0100001000
+MARY CT                                                     0100001000
+MARY ELLEN RD                                               0100001000
+MARY LEWIS DR                                               0100001000
+MARYLAND CT                                                 0100101001
+MARYLAND PKWY                                               0100101001
+MASON ST                                                    0100101001
+MATTHEW TRL                                                 0100001000
+MAXWELL AVE                                                 0100101001
+MAY CT                                                      0100101001
+MAY ST                                                      0100101001
+MAYNARD ST                                                  0100101001
+MAYO PLAZA                                                  0100101001
+MAYO TRL                                                    0100001000
+MCCLELLAND ST                                               0100101001
+MCCLURE ST                                                  0100001000
+MCCLURE ST                                                  0100101001
+MCCOMIS DR                                                  0100001000
+MCCONNEL DR                                                 0100001000
+MCCONNELL RD                                                0100001000
+MCCONNELL ST                                                0100001000
+MCCORMICK DR                                                0100001000
+MCCOWAN RD                                                  0100001000
+MCCULLOUGH ST                                               0100101001
+MCDOWELL ST                                                 0100101001
+MCGUIRE DR                                                  0100001000
+MCGUIRE ST                                                  0100101001
+MCGURK ST                                                   0100101001
+MCKENZIE DR                                                 0100001000
+MCKNIGHT ST                                                 0100001000
+MCKNIGHT ST                                                 0100101001
+MCKNIPP DR                                                  0100101001
+MCSORLEY CT                                                 0100001000
+MEADE SPRINGER RD                                           0100001000
+MEADOW LN                                                   0100001000
+MEADOWBROOK DR                                              0100001000
+MEADOWLARK CT                                               0100001000
+MEADOWLARK DR                                               0100001000
+MEADOWLARK LN                                               0100001000
+MEADOWLARK SPUR RD                                          0100001000
+MEADOWVIEW LN                                               0100001000
+MEADWOOD HTS                                                0100001000
+MEDCALF RD                                                  0100001000
+MEEKS DR                                                    0100001000
+MEENACH DR                                                  0100001000
+MELODY LN                                                   0100001000
+MEMOSA DR                                                   0100001000
+MEREDITH DR                                                 0100001000
+MESA DR                                                     0100001000
+MIAMI RD                                                    0100001000
+MIDDLETON LN                                                0100001000
+MIDDLETOWN AVE                                              0100001000
+MIDLAND CT                                                  0100001000
+MIDLAND TRAIL NO3 RD                                        0100001000
+MIDLAND TRAIL RD                                            0100001000
+MIDLAND TRL                                                 0100001000
+MIDWAY RD                                                   0100001000
+MILE BR                                                     0100001000
+MILL ST                                                     0100101001
+MILLER RD                                                   0100001000
+MILLER ST                                                   0100101001
+MILLS BLVD                                                  0100001000
+MILTON AVE                                                  0100001000
+MINDY JANE CT                                               0100101001
+MINDY JANE DR                                               0100101001
+MINES RD                                                    0100001000
+MINNS ST                                                    0100001000
+MISTY LANE RUSH                                             0100001000
+MISTY LN                                                    0100001000
+MITCHELL ST                                                 0100201002
+MOCKINGBIRD TRAIL SPUR                                      0100001000
+MOCKINGBIRD TRL                                             0100001000
+MOEGLING DR                                                 0100101001
+MOEGLING SPUR RD                                            0100101001
+MOLESBURGER RD                                              0100001000
+MONROE ST                                                   0100101001
+MONT ST                                                     0100001000
+MONTAGUE ST                                                 0100101001
+MONTGOMERY AVE                                              0100101001
+MOORE BR                                                    0100001000
+MOORE HOLW                                                  0100001000
+MOORE ST                                                    0100101001
+MOPAR CT                                                    0100001000
+MORGAN AVE                                                  0100101001
+MORNINGSIDE DR                                              0100101001
+MORRIS DR                                                   0100001000
+MORSE HOLW                                                  0100201002
+MOUND ST                                                    0100101001
+MOUNTAIN VIEW DR                                            0100001000
+MUDDY BR                                                    0100001000
+MUNCY ST                                                    0100101001
+MUSIC BR                                                    0100001000
+MUSIC SPUR RD                                               0100001000
+MUSSER LN                                                   0100001000
+N BIG RUN RD                                                0100001000
+N COMPTON DR                                                0100001000
+N CROSS ST                                                  0100001000
+N FORTY RD                                                  0100001000
+N MOCKINGBIRD TRL                                           0100001000
+NANCY CT                                                    0100101001
+NAPLES RD                                                   0100001000
+NEAL RD                                                     0100001000
+NEAL ST                                                     0100201002
+NEEDMORE HOLW                                               0100001000
+NEKIRK CT                                                   0100001000
+NEKIRK RD                                                   0100001000
+NERVIE ST                                                   0100101001
+NEVADA ST                                                   0100101001
+NEW BUCKLEY RD                                              0100001000
+NEW HAMPSHIRE DR                                            0100001000
+NEW RD                                                      0100001000
+NEW RIDGE RD                                                0100001000
+NEW VISTA DR                                                0100001000
+NEWMAN ST                                                   0100101001
+NEWSOME AVE                                                 0100001000
+NICHOLS CT                                                  0100101001
+NICHOLS PL                                                  0100101001
+NICHOLS PLACE EXT                                           0100101001
+NICHOLS ST                                                  0100101001
+NO6232                                                      0100001000
+NOLTE ST                                                    0100101001
+NORTH ST                                                    0100101001
+NORTHVIEW CT                                                0100001000
+NORTHVIEW RD                                                0100101001
+NORWOOD AVE                                                 0100101001
+NOTTINGHAM CT                                               0100101001
+NUNLEY CT                                                   0100001000
+OAK ALY                                                     0100101001
+OAK FOREST LN                                               0100001000
+OAK HILL DR                                                 0100001000
+OAK HILL LN                                                 0100001000
+OAK HOLLOW DR                                               0100101001
+OAK LAWN CT                                                 0100101001
+OAK ST                                                      0100101001
+OAK ST                                                      0100201002
+OAK TERRACE DR                                              0100001000
+OAKDALE CT                                                  0100001000
+OAKLAND AVE                                                 0100201002
+OAKLEAF CT                                                  0100001000
+OAKLEY ST                                                   0100001000
+OAKMONT CT                                                  0100001000
+OAKVIEW RD                                                  0100101001
+OAKWOOD CIR                                                 0100101001
+OHARA DR                                                    0100001000
+OHIO ST                                                     0100001000
+OLD 13TH ST                                                 0100101001
+OLD BUCKLEY RD                                              0100001000
+OLD ORCHARD DR                                              0100101001
+OLD PRINCESS RD                                             0100001000
+OLD STAGE RD                                                0100101001
+OLD SUMMITT RD                                              0100001000
+OLD TRACE RD                                                0100001000
+OLD US 23                                                   0100001000
+OLD US 23 SPUR                                              0100001000
+OLYMPIC DR                                                  0100101001
+ONEAL DR                                                    0100001000
+ORLANDO DR                                                  0100001000
+OVERLOOK CIR                                                0100001000
+OVERLOOK DR                                                 0100001000
+OWENS LN                                                    0100001000
+OXCART HILL DR                                              0100001000
+OXCART RD                                                   0100001000
+PACKARD ST                                                  0100101001
+PADDLE CRK                                                  0100001000
+PAIGE DR                                                    0100001000
+PALMER ST                                                   0100101001
+PAMELA DR                                                   0100001000
+PANCHOT CT                                                  0100001000
+PANOLA ST                                                   0100201002
+PARADISE HL                                                 0100001000
+PARADISE LN                                                 0100001000
+PARK LANE SPUR                                              0100001000
+PARK LN                                                     0100001000
+PARK PLACE CT                                               0100001000
+PARK ST                                                     0100101001
+PARK ST                                                     0100201002
+PARKVIEW DR                                                 0100001000
+PARTRIDGE LN                                                0100001000
+PAT POINT                                                   0100001000
+PATRICIA ST                                                 0100101001
+PATRICK RD                                                  0100001000
+PATTERSON ST                                                0100101001
+PATTON DR                                                   0100001000
+PATTON ST                                                   0100101001
+PATTY LN                                                    0100001000
+PAUL COFFEE BLVD                                            0100001000
+PAYNE ST                                                    0100101001
+PEACEFUL RDG                                                0100001000
+PEACHTREE RD                                                0100101001
+PEACOCK DR                                                  0100101001
+PEACOCK RD                                                  0100101001
+PEARMAN CT                                                  0100001000
+PEMBROKE PL                                                 0100001000
+PEN OAK DR                                                  0100001000
+PENIX ST                                                    0100001000
+PETERSON BR                                                 0100001000
+PHELPS AVE                                                  0100101001
+PICKLESIMER DR                                              0100001000
+PIERCE ST                                                   0100101001
+PIGEON ROOST RD                                             0100001000
+PIKE ST                                                     0100101001
+PIN OAK DR                                                  0100001000
+PINE ACRES CT                                               0100001000
+PINE ACRES DR                                               0100001000
+PINE FOREST DR                                              0100001000
+PINE ST                                                     0100001000
+PINE ST                                                     0100201002
+PINE TERRACE CT                                             0100001000
+PINE TERRACE DR                                             0100001000
+PINE TREE CT                                                0100001000
+PINE VALLEY DR                                              0100001000
+PINECREST DR                                                0100001000
+PINEHAVEN DR                                                0100101001
+PINEHILL DR                                                 0100001000
+PINEHURST EST                                               0100001000
+PINETREE CT                                                 0100101001
+PINEVIEW CT                                                 0100001000
+PINEY PT                                                    0100001000
+PIQUA ST                                                    0100001000
+PITINO CT                                                   0100101001
+PLEASANT AVE                                                0100101001
+PLEASANT VALLEY DR                                          0100001000
+PLUM ST                                                     0100101001
+PLUM ST                                                     0100201002
+POLLARD RD                                                  0100101001
+PONDEROSA CT                                                0100001000
+PONDEROSA DR                                                0100001000
+PONDEROSA RIDGE                                             0100001000
+PONDVIEW CT                                                 0100001000
+PONDVIEW NO2 RD                                             0100001000
+PONDVIEW SPUR                                               0100001000
+POPLAR AVE                                                  0100101001
+POPLAR DR                                                   0100001000
+POPLAR ST                                                   0100101001
+POPPY LN                                                    0100001000
+PORTER DR                                                   0100001000
+PORTER RD                                                   0100001000
+POTTER ST                                                   0100001000
+POWELL ST                                                   0100101001
+POWERS RD                                                   0100101001
+PRESIDENTIAL DR                                             0100001000
+PRICE BR                                                    0100001000
+PRICE ST                                                    0100001000
+PRICHARD CT                                                 0100001000
+PRICHARD DR                                                 0100001000
+PRICHARD ST                                                 0100001000
+PRICHARD ST                                                 0100101001
+PRIMROSE LN                                                 0100001000
+PRINCELAND DR                                               0100001000
+PRINCELAND HEIGHTS CT                                       0100001000
+PRINCELAND SPUR                                             0100001000
+PRIVATE 28 RD                                               0100001000
+PRIVATE NO107 DR                                            0100001000
+PRIVATE RD                                                  0100001000
+PRIVATE ROAD NO20                                           0100001000
+PRIVATE ROAD NO28 CT                                        0100001000
+PRIVATE UNKNOWN RD                                          0100001000
+PROSPECT AVE                                                0100101001
+PROSPECT PL                                                 0100101001
+PROVIDENCE DR                                               0100101001
+PUTNAM ST                                                   0100101001
+QUEEN RD                                                    0100001000
+QUEEN ST                                                    0100001000
+QUEEN ST                                                    0100101001
+RACE ST                                                     0100201002
+RACHELS WAY                                                 0100001000
+RACHET DR                                                   0100001000
+RADIO PARK RD                                               0100001000
+RADIO PARK RD                                               0100201002
+RAILROAD ST                                                 0100101001
+RAILROAD ST                                                 0100201002
+RAINTREE CT                                                 0100101001
+RAKES LN                                                    0100001000
+RALEIGH DR                                                  0100001000
+RAMEY ESTEPP HOME RD                                        0100001000
+RAMEY ST                                                    0100101001
+RANCH CT                                                    0100101001
+RANCH RD                                                    0100101001
+RANDY DR                                                    0100101001
+RATTLESNAKE RDG                                             0100001000
+RAY DR                                                      0100001000
+RAY ST                                                      0100101001
+RAYBURN RD                                                  0100101001
+REBECCA AVE                                                 0100001000
+REBECCA LYNN DR                                             0100001000
+REBEL RD                                                    0100001000
+RED FOX DR                                                  0100001000
+RED MAPLE RIDGE CT                                          0100001000
+REDBUD CT                                                   0100001000
+REDBUD DR                                                   0100001000
+REEVES BLVD                                                 0100101001
+REFFITT DR                                                  0100001000
+REIKERT DR                                                  0100001000
+RENFRO DR                                                   0100001000
+RENFRO ST                                                   0100101001
+REO ST                                                      0100101001
+RHONDA CT                                                   0100001000
+RICE LN                                                     0100001000
+RICHARDSON RD                                               0100101001
+RICHLAND COURT SPUR                                         0100001000
+RICHLAND CT                                                 0100001000
+RIDGEWAY AVE                                                0100101001
+RIDGEWAY CT                                                 0100001000
+RIDGEWAY DR                                                 0100101001
+RIGGLES ST                                                  0100101001
+RILEY DR                                                    0100001000
+RINGO ST                                                    0100101001
+RIVA RDG                                                    0100001000
+RIVA RIDGE RD                                               0100001000
+RIVER CITIES DR                                             0100001000
+RIVER HILL DR                                               0100101001
+RIVERVIEW BLVD                                              0100001000
+ROBERSON RD                                                 0100001000
+ROBERT AARON DR                                             0100001000
+ROBERTS DR                                                  0100001000
+ROBERTS DR                                                  0100101001
+ROBERTS DRIVE LOOP                                          0100101001
+ROBIN LN                                                    0100001000
+ROBIN LYNN DR                                               0100101001
+ROBINHOOD DR                                                0100101001
+ROCKHOUSE FORK RD                                           0100001000
+ROCKHOUSE RD                                                0100001000
+ROCKWOOD DR                                                 0100001000
+ROCKWOOD DR                                                 0100101001
+ROCKY ALY                                                   0100201002
+ROCKY DR                                                    0100001000
+ROGERS CT                                                   0100101001
+ROGERS DR                                                   0100101001
+ROLLING MILLS RD                                            0100001000
+ROOSEVELT ALY                                               0100101001
+ROOSEVELT AVE                                               0100101001
+ROSE HILL CEMETERY A LOOP                                   0100101001
+ROSE HILL CEMETERY B LOOP                                   0100101001
+ROSE HILL CEMETERY DR                                       0100101001
+ROSE HILL CEMETERY LN                                       0100101001
+ROSE HILL CEMETERY RD                                       0100101001
+ROSE HILL CEMETERY SERVICE DR                               0100101001
+ROSE HILL CEMETERY VW                                       0100101001
+ROSE RD                                                     0100001000
+ROSEMONT CT                                                 0100001000
+ROSEMONT DR                                                 0100001000
+ROSEWOOD DR                                                 0100001000
+ROSS CT                                                     0100001000
+ROSS RD                                                     0100001000
+ROSS ROAD SPUR NO1                                          0100001000
+ROSS ROAD SPUR NO2                                          0100001000
+ROYALE CT                                                   0100101001
+RUCKER RD                                                   0100001000
+RUNYON RD                                                   0100001000
+RUSSELL RD                                                  0100001000
+RUSSELL RD                                                  0100101001
+RUSSELL ST                                                  0100101001
+RV LN                                                       0100001000
+RYAN CT                                                     0100001000
+RYLEE DR                                                    0100001000
+RYMER CT                                                    0100001000
+S 13TH ST                                                   0100101001
+S 29TH ST                                                   0100101001
+S BELMONT ST                                                0100101001
+S BIG RUN RD                                                0100001000
+S COMPTON DR                                                0100001000
+S FORTY RD                                                  0100001000
+SALISBURY AVE                                               0100001000
+SALLIE DR                                                   0100001000
+SAMMONS RD                                                  0100101001
+SAND SPRINGS AVE                                            0100001000
+SANDERS RD                                                  0100101001
+SANDY CT                                                    0100001000
+SANDY FURNACE RD                                            0100001000
+SARAH RD                                                    0100001000
+SAVAGE BR                                                   0100001000
+SCOTLAND HEIGHTS RD                                         0100001000
+SCOTT CT                                                    0100001000
+SCOTT DR                                                    0100001000
+SCOTT HILL DR                                               0100001000
+SCOTT RD                                                    0100001000
+SCRAPYARD RD                                                0100101001
+SELLARS ST                                                  0100101001
+SEMINOLE AVE                                                0100101001
+SEXTON CT                                                   0100101001
+SHADOWLAWN DR                                               0100101001
+SHADY OAK DR                                                0100001000
+SHANNON DR                                                  0100101001
+SHARON CT                                                   0100001000
+SHARON CT                                                   0100101001
+SHARON LN                                                   0100001000
+SHARON RD                                                   0100101001
+SHAWN CT                                                    0100001000
+SHAWNEE AVE                                                 0100101001
+SHAWNEE DR                                                  0100001000
+SHELBY AVE                                                  0100101001
+SHELTON LN                                                  0100001000
+SHERWOOD DR                                                 0100101001
+SHOPES CRK                                                  0100001000
+SHORT ST                                                    0100101001
+SHORT ST                                                    0100201002
+SHUTE ST                                                    0100101001
+SILVER RUN                                                  0100001000
+SIMPSON RD                                                  0100101001
+SISTERS LN                                                  0100001000
+SKAGGS CT                                                   0100101001
+SKIDMORE ST                                                 0100101001
+SKIVIEW DR                                                  0100001000
+SKYLINE DR                                                  0100001000
+SKYLINE DR                                                  0100101001
+SLEM ST                                                     0100101001
+SLICK ROCK RD                                               0100001000
+SLONE DR                                                    0100001000
+SMALL BLVD                                                  0100001000
+SMITH ST                                                    0100101001
+SMOKEY HILL DR                                              0100001000
+SOMERSET CT                                                 0100001000
+SOUTHERN HILLS DR                                           0100001000
+SOUTHERN HILLS DR                                           0100101001
+SOUTHLAND DR                                                0100001000
+SOUTHVIEW CT                                                0100001000
+SOUTHVIEW RD                                                0100101001
+SPARKS ST                                                   0100101001
+SPEARS RD                                                   0100001000
+SPRING PARK ST                                              0100101001
+SPRING ST                                                   0100101001
+SPRING ST                                                   0100201002
+SPRINGER LN                                                 0100001000
+SPRINGHAVEN ST                                              0100201002
+SPRUCE ST                                                   0100001000
+SPURLOCK HL                                                 0100001000
+STABB ST                                                    0100101001
+STALLARD ST                                                 0100001000
+STANLEY LN                                                  0100001000
+STAPLETON CT                                                0100001000
+STATE ST                                                    0100101001
+STEELE DR                                                   0100001000
+STELLA DR                                                   0100101001
+STEPHENS CT                                                 0100101001
+STEPHENS MEADE RD                                           0100001000
+STEPHENS ST                                                 0100101001
+STERGEON LN                                                 0100001000
+STERLING CT                                                 0100001000
+STEVENS AVE                                                 0100001000
+STEVENS RD                                                  0100001000
+STEVENS ROAD CONNECTOR                                      0100001000
+STEWART AVE                                                 0100101001
+STEWART LN                                                  0100001000
+STEWART LN                                                  0100101001
+STRAIGHT CRK                                                0100001000
+STRATTON DR                                                 0100101001
+STURGILL AVE                                                0100101001
+SUMMIT ALY                                                  0100201002
+SUMMITT RD                                                  0100001000
+SUMMITT ST                                                  0100101001
+SUNCREST DR                                                 0100001000
+SUNNY LN                                                    0100001000
+SUNRISE DR                                                  0100001000
+SUNRISE LN                                                  0100001000
+SUNSET RD                                                   0100001000
+SUNSHINE VILLAGE CT                                         0100001000
+SUZANNE CT                                                  0100101001
+SWANSON DR                                                  0100001000
+SWORD ST                                                    0100101001
+SYCAMORE ST                                                 0100101001
+SYCAMORE ST                                                 0100201002
+TACKETT DR                                                  0100101001
+TANGLEWOOD CT                                               0100101001
+TANGLEWOOD DR                                               0100101001
+TANNER DR                                                   0100001000
+TARA DR                                                     0100001000
+TARPIN RIDGE                                                0100001000
+TAULBEE ST                                                  0100101001
+TAYLOR DR                                                   0100001000
+TAYLOR LN                                                   0100001000
+TECHNOLOGY DR                                               0100001000
+TENNIS CT                                                   0100001000
+TERRACE BLVD                                                0100101001
+TERRACE LN                                                  0100101001
+THE FARM LN                                                 0100001000
+THE OAKS DR                                                 0100101001
+THOMAS ST                                                   0100101001
+THOMPSON DR                                                 0100101001
+THOMPSON RD                                                 0100001000
+THORNWELL RD                                                0100101001
+THURBURY RD                                                 0100001000
+TIFFANY DR                                                  0100001000
+TIMBERLINE DR                                               0100001000
+TIMOTHY DR                                                  0100101001
+TIPTON ROSS RD                                              0100001000
+TODD CT                                                     0100001000
+TOM JONES DR                                                0100001000
+TOWLER LANE SPUR                                            0100001000
+TOWLER LN                                                   0100001000
+TOWN CENTER DR                                              0100101001
+TRACE RD                                                    0100001000
+TRAILER PARK                                                0100001000
+TRAVIS CT                                                   0100001000
+TRAVIS RD                                                   0100001000
+TRINITY LN                                                  0100001000
+TRISTIN WAY                                                 0100001000
+TRUDE CT                                                    0100001000
+TUCKER RD                                                   0100001000
+TUCSON DR                                                   0100101001
+TUDOR OAKS DR                                               0100001000
+TUFTS DR                                                    0100001000
+TURKEY CT                                                   0100001000
+TURNER ST                                                   0100101001
+TWELVE OAKS DR                                              0100001000
+TWIN FORK                                                   0100001000
+TWIN OAKS DR                                                0100001000
+TWIN RIDGE CT                                               0100001000
+TYSON RDG                                                   0100001000
+UNKNOWN                                                     0100001000
+UNRUE ST                                                    0100001000
+UPPER PANOLA ST                                             0100201002
+UPPER ROSE HILL MAUSOLEUM DR                                0100101001
+US23                                                        0100001000
+US23                                                        0100101001
+US60                                                        0100001000
+US60 W                                                      0100001000
+VALENTINE LN                                                0100001000
+VALLEY DR                                                   0100101001
+VALLEY ST                                                   0100201002
+VALLEY VIEW DR                                              0100001000
+VALLEYVIEW CT                                               0100001000
+VALLEYVIEW DR                                               0100101001
+VANBIBBER CT                                                0100101001
+VANBIBBER DR                                                0100001000
+VERNA AVE                                                   0100001000
+VERNON ST                                                   0100101001
+VICTORIA AVE                                                0100001000
+VIEWSIDE LN                                                 0100001000
+VINCENT CT                                                  0100001000
+VINE ST                                                     0100001000
+VIRGIN AVE                                                  0100101001
+VIRGINIA AVE                                                0100101001
+VIRGINIA BLVD                                               0100001000
+VIRGINIA ST                                                 0100001000
+W ALEXANDER CT                                              0100001000
+W ALEXANDER DR                                              0100001000
+W ARMCO PARK LOOP                                           0100001000
+W ASHLAND MALL CONNECTOR                                    0100101001
+W CENTRAL AVE                                               0100001000
+W EUCLID AVE                                                0100101001
+W GROVE ST                                                  0100101001
+W HOLT CT                                                   0100101001
+W HOLT ST                                                   0100101001
+W JEPSON ST                                                 0100101001
+W MALL RAMP                                                 0100101001
+W SUMMITT RD                                                0100001000
+W VIRGINIA ST                                               0100001000
+WADE ST                                                     0100101001
+WALKER LN                                                   0100001000
+WALLACE DR                                                  0100001000
+WALLACE ST                                                  0100101001
+WALNUT AVE                                                  0100101001
+WALNUT ST                                                   0100201002
+WALT DR                                                     0100001000
+WALTERS HILL DR                                             0100101001
+WALTERS ST                                                  0100101001
+WANDA CT                                                    0100101001
+WARD HOLLOW RD                                              0100001000
+WARREN ST                                                   0100001000
+WASHINGTON ST                                               0100101001
+WATERFALL LN                                                0100001000
+WATKINS ST                                                  0100001000
+WATKINS ST                                                  0100201002
+WAUGH ST                                                    0100101001
+WEBB CT                                                     0100001000
+WEIS ST                                                     0100101001
+WELLS ST                                                    0100001000
+WESTVIEW CT                                                 0100001000
+WESTVIEW DR                                                 0100001000
+WEYMOUTH DR                                                 0100101001
+WHEATLEY RD                                                 0100001000
+WHISPERING OAKS                                             0100001000
+WHITE OAK DR                                                0100001000
+WHITES CRK                                                  0100001000
+WHITETAIL LN                                                0100001000
+WILDCAT LN                                                  0100001000
+WILDWOOD DR                                                 0100101001
+WILL SCARLETT CT                                            0100101001
+WILLARD DR                                                  0100001000
+WILLIAMS AVE                                                0100101001
+WILLIAMS CT                                                 0100101001
+WILLIAMS DR                                                 0100001000
+WILLIS AVE                                                  0100101001
+WILLOW DR                                                   0100001000
+WILLOW VALLEY LN                                            0100001000
+WILLOW WOOD DR                                              0100001000
+WILSHIRE BLVD                                               0100101001
+WILSON DR                                                   0100001000
+WILTON WAY                                                  0100001000
+WINCHESTER AVE                                              0100101001
+WINDING RD                                                  0100101001
+WINDOVER HTS                                                0100001000
+WINDSONG CT                                                 0100001000
+WINDSOR ALLEY NO2                                           0100101001
+WINDSOR ALY                                                 0100101001
+WINDSOR COURT SPUR NO1                                      0100101001
+WINDSOR COURT SPUR NO2                                      0100101001
+WINDSOR CT                                                  0100101001
+WINDY ACRES                                                 0100001000
+WINDY HTS                                                   0100001000
+WINSLOW RD                                                  0100101001
+WOLFPEN WOODS                                               0100001000
+WOLOHAN DR                                                  0100001000
+WONDER CT                                                   0100001000
+WOODBINE PL                                                 0100101001
+WOODBINE RD                                                 0100001000
+WOODBROOK DR                                                0100101001
+WOODBURY DR                                                 0100001000
+WOODHAVEN CT                                                0100101001
+WOODHAVEN DR                                                0100101001
+WOODLAND AVE                                                0100101001
+WOODLAND CT                                                 0100101001
+WOODLAND ST                                                 0100001000
+WOODLAND TER                                                0100001000
+WOODLAND TERRACE CT                                         0100001000
+WOODLAWN AVE                                                0100101001
+WOODMONT DR                                                 0100001000
+WOODS CT                                                    0100001000
+WOODS POINT CT                                              0100001000
+WOODS POINT DR                                              0100001000
+WORKMAN RD                                                  0100101001
+WURTS AVE                                                   0100101001
+WYNDHAM CT                                                  0100101001
+YORK ST                                                     0100101001
+YOUNG RD                                                    0100001000
+YUMA DR                                                     0100101001
+ZANESVILLE AVE                                              0100001000

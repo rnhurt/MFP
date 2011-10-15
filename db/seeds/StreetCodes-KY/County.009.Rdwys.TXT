@@ -1,0 +1,495 @@
+12TH ST                                                     0090200902
+13TH ST                                                     0090100901
+14TH ST                                                     0090100901
+15TH ST                                                     0090100901
+16TH ST                                                     0090100901
+17TH ST                                                     0090100901
+18TH ST                                                     0090100901
+1ST ST                                                      0090200902
+3RD ST                                                      0090100901
+ALVERSON DR                                                 0090100901
+ANACAHO TRL                                                 0090100901
+ARDERY PL                                                   0090100901
+ARDERY RD                                                   0090000900
+ARLINGTON DR                                                0090100901
+ASH DR                                                      0090100901
+ASTRIO ST                                                   0090100901
+ATLAS ST                                                    0090100901
+AUGUSTA WAY                                                 0090000900
+AUSTERLITZ RD                                               0090000900
+BALDWIN AVE                                                 0090100901
+BANK ROW ST                                                 0090100901
+BANKS ST                                                    0090200902
+BELL ST                                                     0090100901
+BELLAFATO DR                                                0090100901
+BETHLEHEM RD                                                0090000900
+BETHLEHEM RD                                                0090100901
+BETTY DR                                                    0090000900
+BLACKS CROSSROAD RD                                         0090000900
+BOARDMAN RD                                                 0090000900
+BOONE ST                                                    0090100901
+BOONETOWN LN                                                0090000900
+BOURBON ACRES RD                                            0090000900
+BOURBON ACRES SPUR RD                                       0090000900
+BOURBON HILLS DR                                            0090000900
+BOURBON HILLS DR                                            0090100901
+BOURBON LN                                                  0090100901
+BRADFORD CT                                                 0090000900
+BRADFORD DR                                                 0090000900
+BRENT ST                                                    0090100901
+BRENTSVILLE RD                                              0090000900
+BRIAR HILL RD                                               0090000900
+BROOKS ST                                                   0090100901
+BROOKSTONE DR                                               0090000900
+BRYAN STATION RD                                            0090000900
+BUNKER HILL RD                                              0090000900
+BURRIS RD                                                   0090000900
+BUTLER ST                                                   0090200902
+BYPASS RD                                                   0090000900
+BYPASS RD                                                   0090100901
+CAMERON ST                                                  0090100901
+CANE RIDGE RD                                               0090000900
+CARDINAL LN                                                 0090100901
+CARLISLE RD                                                 0090000900
+CAROLINA WAY                                                0090000900
+CARSON DR                                                   0090100901
+CASTLE BLVD                                                 0090000900
+CASTLE BLVD                                                 0090100901
+CATHY DR                                                    0090000900
+CAYWOOD ST                                                  0090300903
+CEDAR STREAM DR                                             0090000900
+CEMETERY RD                                                 0090000900
+CENTERVILLE LN                                              0090000900
+CHAMBERS ST                                                 0090100901
+CHAPEL ST                                                   0090100901
+CHAPLIN ST                                                  0090100901
+CHRISHOLM ST                                                0090100901
+CHURCH ST                                                   0090200902
+CHURCH ST                                                   0090300903
+CITATION WAY                                                0090100901
+CLAY CT                                                     0090100901
+CLAY KISER RD                                               0090000900
+CLEVELAND DR                                                0090000900
+CLIFTON AVE                                                 0090100901
+CLINIC DR                                                   0090100901
+CLINTON DR                                                  0090100901
+CLINTONVILLE LOOP                                           0090000900
+CLINTONVILLE RD                                             0090000900
+COLLEGE AVE                                                 0090200902
+COLLEGE RD                                                  0090000900
+COLLEGE RD                                                  0090300903
+COLLINS RD                                                  0090000900
+COLVILLE RD                                                 0090000900
+COMMERCE DR                                                 0090100901
+CONNELLY ALY                                                0090100901
+CONVICT RD                                                  0090000900
+COOK RD                                                     0090000900
+COOK ST                                                     0090300903
+COOKSEY LN                                                  0090100901
+CORBIN CT                                                   0090000900
+CORPORATE DR                                                0090100901
+CORPORATE WAY                                               0090100901
+COULTHARD LN E                                              0090000900
+COULTHARD LN W                                              0090000900
+CREEKVIEW DR                                                0090100901
+CREST CT                                                    0090100901
+CRESTWOOD HTS                                               0090000900
+CROSS CREEK DR                                              0090000900
+CURRENTSVILLE LN                                            0090000900
+CURTIS ST                                                   0090100901
+CYNTHIANA RD                                                0090000900
+CYNTHIANA RD                                                0090100901
+CYPRESS ST                                                  0090100901
+DAVID CT                                                    0090100901
+DAVID LN                                                    0090100901
+DAVIS CT                                                    0090100901
+DELZA MAGGARD AVE                                           0090100901
+DOBBIN DR                                                   0090000900
+DOYLE AVE                                                   0090100901
+DUNCAN AVE                                                  0090100901
+E 10TH ST                                                   0090100901
+E 10TH ST                                                   0090200902
+E 11TH ST                                                   0090100901
+E 11TH ST                                                   0090200902
+E 12TH ST                                                   0090100901
+E 19TH ST                                                   0090100901
+E 20TH ST                                                   0090100901
+E 2ND ST                                                    0090200902
+E 3RD ST                                                    0090200902
+E 4TH ST                                                    0090100901
+E 4TH ST                                                    0090200902
+E 5TH ST                                                    0090100901
+E 5TH ST                                                    0090200902
+E 6TH ST                                                    0090100901
+E 6TH ST                                                    0090200902
+E 7TH ST                                                    0090100901
+E 7TH ST                                                    0090200902
+E 8TH ST                                                    0090100901
+E 8TH ST                                                    0090200902
+E 9TH ST                                                    0090100901
+E 9TH ST                                                    0090200902
+E MAIN ST                                                   0090100901
+EASTLAND DR                                                 0090000900
+EASTRIDGE DR                                                0090100901
+ECHO DR                                                     0090000900
+EDGEMONT DR                                                 0090000900
+EFFRAIN CT                                                  0090000900
+ELIZABETH ST                                                0090100901
+ELIZABETH STATION RD                                        0090000900
+ELM FORK DR                                                 0090000900
+EMILY ST                                                    0090100901
+ENDICOTT LN                                                 0090000900
+ESCONDIDA RD                                                0090000900
+EVERGREEN DR                                                0090100901
+FARM DR                                                     0090000900
+FERGUSON RD                                                 0090000900
+FERGUSON ST                                                 0090100901
+FIELDS ST                                                   0090100901
+FITHIAN AVE                                                 0090100901
+FORDS MILL RD                                               0090000900
+FORDS MILL RD                                               0090100901
+GANO ST                                                     0090100901
+GAY RD                                                      0090000900
+GEORGE ST                                                   0090100901
+GEORGETOWN RD                                               0090000900
+GEORGETOWN RD                                               0090100901
+GERRARD CITY PARK CIR                                       0090100901
+GERRARD CITY PARK DR                                        0090100901
+GILLESPIE RD                                                0090000900
+GLENN RD                                                    0090000900
+GLENVIEW RD                                                 0090100901
+GOLDEN LEAF CIR                                             0090000900
+GOREY AVE                                                   0090100901
+GREEN LEAF DR                                               0090000900
+GREYSTONE CT                                                0090100901
+GRIMES BATTERTON RD                                         0090000900
+GRISSOM LN                                                  0090000900
+HANSON ST                                                   0090100901
+HARMON ST                                                   0090100901
+HARP INNIS RD                                               0090000900
+HARRODS CREEK RD                                            0090000900
+HATTON LN                                                   0090000900
+HAWKINS CUMMINS RD                                          0090000900
+HEATHER LN                                                  0090100901
+HENDERSON ST                                                0090100901
+HICKORY RIDGE LN                                            0090000900
+HIGGINS AVE                                                 0090100901
+HIGH ST                                                     0090100901
+HIGHLAND LN                                                 0090100901
+HILL N DELL RD                                              0090300903
+HILL RD                                                     0090000900
+HILLCREST DR                                                0090100901
+HILLSIDE APARTMENTS                                         0090100901
+HILLTOP DR                                                  0090000900
+HINKSTON RIDGE RD                                           0090000900
+HINTON ST                                                   0090100901
+HOLLY LN                                                    0090000900
+HOOKTOWN RD                                                 0090000900
+HOOKTOWN RIDGE RD                                           0090000900
+HOPEWELL DR                                                 0090100901
+HORSESHOE DR                                                0090000900
+HORSESHOE DR                                                0090100901
+HORTON DR                                                   0090100901
+HOUSTON ANTIOCH RD                                          0090000900
+HOUSTON AVE                                                 0090100901
+HOUSTON CREEK DR                                            0090100901
+HOUSTON EXTENDED                                            0090100901
+HOUSTON OAKS DR                                             0090000900
+HOUSTON OAKS GOLF COURSE LN                                 0090000900
+HUME BEDFORD RD                                             0090000900
+HUME BEDFORD RD                                             0090100901
+HUME DR                                                     0090000900
+HUTCHISON RD                                                0090000900
+IDLEWIND DR                                                 0090000900
+IRON WORKS RD                                               0090000900
+IRONWOOD CIR                                                0090000900
+ISGRIG LN                                                   0090000900
+JACKSTOWN RD                                                0090000900
+JACKSTOWN SPUR RD                                           0090000900
+JANUARY CT                                                  0090100901
+JEFFREY DR                                                  0090000900
+JOSEPHINE ST                                                0090100901
+JUDY ST                                                     0090200902
+KARLA DR                                                    0090000900
+KELLY ST                                                    0090100901
+KENNEDY CT                                                  0090100901
+KENTUCKY AVE                                                0090100901
+KERRVILLE LANE NO1                                          0090000900
+KERRVILLE LANE NO1 SPUR NO1                                 0090000900
+KERRVILLE LANE NO1 SPUR NO2                                 0090000900
+KERRVILLE LANE NO2                                          0090000900
+KINGSLEY CT                                                 0090100901
+KRISTEN LN                                                  0090100901
+LACY LN                                                     0090100901
+LAIL LN                                                     0090000900
+LAKE RD                                                     0090000900
+LAKEVIEW DR                                                 0090000900
+LARUE RD                                                    0090000900
+LAYSON ST                                                   0090200902
+LEAWAY DR                                                   0090000900
+LEER ST                                                     0090200902
+LEER STREET EXT                                             0090000900
+LEESBURG NEWTOWN RD                                         0090000900
+LEGION RD                                                   0090100901
+LETTON DR                                                   0090100901
+LEVY RD                                                     0090000900
+LEVY RD                                                     0090300903
+LEXINGTON RD                                                0090000900
+LEXINGTON RD                                                0090100901
+LIBERTY ST                                                  0090300903
+LILLESTON AVE                                               0090100901
+LILLY LN                                                    0090000900
+LINCOLN ST                                                  0090100901
+LINK AVE                                                    0090100901
+LINVILLE DR                                                 0090100901
+LITERS LN                                                   0090100901
+LITTLE ROCK JACKSTOWN RD                                    0090000900
+LITTLE ROCK LN                                              0090000900
+LOCUST DR                                                   0090100901
+LOT YOUNG RD                                                0090000900
+LOVERS LN                                                   0090100901
+LUCAS ST                                                    0090100901
+LYLESVILLE ST                                               0090100901
+LYNNE DR                                                    0090300903
+LYNNWOOD DR                                                 0090000900
+M M DRIVEWAY                                                0090200902
+MAGNOLIA ST                                                 0090200902
+MAIN ST                                                     0090100901
+MAIN ST                                                     0090200902
+MAIN ST                                                     0090300903
+MALLINCKRODT BAKER WAY                                      0090100901
+MAPLE AVE                                                   0090200902
+MARIA CT                                                    0090100901
+MARSHALL HTS                                                0090100901
+MARSHALL ST                                                 0090100901
+MARTIN LUTHER KING BLVD                                     0090100901
+MASSIE AVE                                                  0090100901
+MATLACK                                                     0090100901
+MAYSVILLE RD                                                0090000900
+MAYSVILLE RD                                                0090200902
+MAYSVILLE ST                                                0090100901
+MCKEE LN                                                    0090000900
+MCNEASE RD                                                  0090000900
+MEADOWVIEW DR                                               0090100901
+MILL RUN RD                                                 0090000900
+MILLER ST                                                   0090200902
+MILLERSBURG CEMETERY FIRST RD                               0090000900
+MILLERSBURG CEMETERY NO1 RD                                 0090000900
+MILLERSBURG CEMETERY NO2 RD                                 0090000900
+MILLERSBURG CEMETERY SECOND RD                              0090000900
+MILLERSBURG CEMETERY THIRD RD                               0090000900
+MILLERSBURG CYNTHIANA RD                                    0090000900
+MILLERSBURG CYNTHIANA RD                                    0090200902
+MILLERSBURG RD                                              0090000900
+MILLERSBURG RD                                              0090100901
+MILLERSBURG RD                                              0090200902
+MILLERSBURG RUDDLES MILL RD                                 0090000900
+MILLSTONE DR                                                0090000900
+MINDEN ST                                                   0090100901
+MONSON RD                                                   0090000900
+MT AIRY AVE                                                 0090100901
+MT AIRY AVENUE EXT                                          0090100901
+MT CARMEL RD                                                0090000900
+MT STERLING RD                                              0090000900
+MT STERLING RD                                              0090300903
+MT VIEW DR                                                  0090000900
+N MEADOWHILL RD                                             0090000900
+N MEADOWHILL RD                                             0090100901
+N MIDDLETOWN CEMETERY FIRST RD                              0090300903
+N MIDDLETOWN CEMETERY NO3 RD                                0090300903
+N MIDDLETOWN CEMETERY SECOND RD                             0090300903
+N MIDDLETOWN CEMETERY THIRD RD                              0090300903
+N MIDDLETOWN RD                                             0090000900
+N MIDDLETOWN RD                                             0090100901
+NORTHLAND CT                                                0090000900
+NORTHLAND DR                                                0090000900
+OAK AVE                                                     0090200902
+OLD ELIZABETH ST                                            0090000900
+OLD MAIN ST                                                 0090200902
+OLD MILLERSBURG RD                                          0090000900
+OLD PEACOCK RD                                              0090000900
+OLD PEACOCK RD                                              0090100901
+OLD POST RD                                                 0090000900
+OLD RUSSELL CAVE RD                                         0090000900
+OLDSON RD                                                   0090000900
+OLIVET CEMETERY DR                                          0090100901
+PARIS CEMETERY 5TH RD                                       0090100901
+PARIS CEMETERY FIFTH RD                                     0090100901
+PARIS CEMETERY FIRST RD                                     0090100901
+PARIS CEMETERY FOURTH RD                                    0090100901
+PARIS CEMETERY SECOND RD                                    0090100901
+PARIS CEMETERY SEVENTH RD                                   0090100901
+PARIS CEMETERY SIXTH RD                                     0090100901
+PARIS CEMETERY THIRD RD                                     0090100901
+PARK PLACE CT                                               0090000900
+PARKSIDE DR                                                 0090000900
+PARKWAY DR                                                  0090000900
+PARKWAY DR                                                  0090100901
+PARRISH AVE                                                 0090100901
+PATTERSON ST                                                0090100901
+PATTON ST                                                   0090100901
+PEACOCK MOBILE HOME PARK                                    0090100901
+PEACOCK RD                                                  0090000900
+PEACOCK RD                                                  0090100901
+PEARL ST                                                    0090100901
+PEBBLE BEACH CT                                             0090000900
+PIN OAK DR                                                  0090100901
+PINE GROVE RD                                               0090000900
+PINECREST ST                                                0090100901
+PINEVIEW DR                                                 0090100901
+PLEASANT ST                                                 0090100901
+PLUM LICK RD                                                0090000900
+PLUM LICK RD                                                0870000900
+PRESCOTT RD                                                 0090000900
+PRESCOTT RD                                                 0090300903
+PRETTY RUN RD                                               0090000900
+PRETTY RUN SPUR RD                                          0090000900
+PRIMROSE PATH                                               0090100901
+PURDY LN                                                    0090000900
+REDBUD CT                                                   0090100901
+REDBUD LN                                                   0090100901
+REDMON LN                                                   0090000900
+REDMON LN S                                                 0090000900
+REDMON RD                                                   0090000900
+REINHOLD ST                                                 0090100901
+RIDGEWAY DR                                                 0090100901
+RIO VISTA DR                                                0090100901
+RITCHIE ST                                                  0090200902
+ROBIN RD                                                    0090100901
+ROCK RIDGE RD                                               0090000900
+ROCKY DR                                                    0090100901
+ROELING ACRES LN                                            0090100901
+ROGERS MILL RD                                              0090000900
+ROSEBERRY RD                                                0090000900
+ROSEMARY LN                                                 0090100901
+RUCKER ST                                                   0090100901
+RUDDLES MILL CYNTHIANA RD                                   0090000900
+RUDDLES MILLS RD                                            0090000900
+RUDDLES MILLS RD                                            0090100901
+RUSSELL CAVE RD                                             0090000900
+S MAIN ST                                                   0090100901
+SADDLE BROOK DR                                             0090000900
+SANDRA LN                                                   0090000900
+SAWGRASS LN                                                 0090000900
+SCOTT AVE                                                   0090000900
+SCOTT AVE                                                   0090100901
+SEE RD                                                      0090000900
+SHANNON CT                                                  0090100901
+SHANNON RD                                                  0090100901
+SHARON LN                                                   0090100901
+SHARPSBURG RD                                               0090000900
+SHAWHAN LN                                                  0090000900
+SHAWHAN RD                                                  0090000900
+SHIPVILLE RD                                                0090000900
+SHORT ST                                                    0090100901
+SHORT ST                                                    0090200902
+SHROPSHIRE LN                                               0090000900
+SILAS RD                                                    0090000900
+SIMMS LN                                                    0090000900
+SINGERS ALY                                                 0090100901
+SKYVIEW DR                                                  0090000900
+SLEDD ST                                                    0090300903
+SMITHS TRAILER PARK                                         0090100901
+SOPER RD                                                    0090000900
+SOUTHLAND DR                                                0090000900
+SPAULDING ST                                                0090100901
+SPEARS MILL RD                                              0090000900
+SPEARS MILL SPUR RD                                         0090000900
+SPEARS ST                                                   0090100901
+SPRINGHILL DR                                               0090100901
+SQUIRES POINTE RD                                           0090000900
+ST ANDREWS DR                                               0090000900
+ST CATHERINE ST                                             0090100901
+STAMLER ST                                                  0090200902
+STATIC RD                                                   0090300903
+STEELE FORD RD                                              0090000900
+STEELE RD                                                   0090000900
+STERNS ST                                                   0090100901
+STEWART RD                                                  0090000900
+STEWART ST                                                  0090100901
+STOKER RD                                                   0090000900
+STONE COVE DR                                               0090000900
+STONE RD                                                    0090000900
+STONER AVE                                                  0090100901
+STONEY POINT RD                                             0090000900
+STRINGTOWN RD                                               0090000900
+SUMMIT DR                                                   0090000900
+SUNNY HILL DR                                               0090300903
+SUNSET DR                                                   0090100901
+SWITCH ST                                                   0090200902
+TAHOMA DR                                                   0090000900
+TAMMY DR                                                    0090000900
+TARR RD                                                     0090000900
+TAYLOR AVE                                                  0090100901
+TERRACE PARK                                                0090000900
+THATCHERS MILL RD                                           0090000900
+THATCHERS MILL RD                                           0090300903
+THOMAS AVE                                                  0090100901
+THOMAS RD                                                   0090000900
+THOMASON ST                                                 0090200902
+THORNTON ST                                                 0090100901
+TOBACCO DR                                                  0090100901
+TOWER ST                                                    0090200902
+TOWNSEND VALLEY RD                                          0090000900
+TRABU RD                                                    0090000900
+TRIGG ST                                                    0090200902
+TURNER ST                                                   0090100901
+US62                                                        0090000900
+VICTORY RD                                                  0090100901
+VIMONT LN                                                   0090000900
+VIMONT ST                                                   0090200902
+VINE CT                                                     0090100901
+VINE ST                                                     0090100901
+VIRGINIA AVE                                                0090100901
+W 10TH ST                                                   0090100901
+W 10TH ST                                                   0090200902
+W 11TH ST                                                   0090100901
+W 11TH ST                                                   0090200902
+W 12TH ST                                                   0090100901
+W 19TH ST                                                   0090100901
+W 20TH ST                                                   0090100901
+W 2ND ST                                                    0090100901
+W 2ND ST                                                    0090200902
+W 3RD ST                                                    0090200902
+W 4TH ST                                                    0090100901
+W 4TH ST                                                    0090200902
+W 5TH ST                                                    0090100901
+W 5TH ST                                                    0090200902
+W 6TH ST                                                    0090100901
+W 7TH ST                                                    0090100901
+W 7TH ST                                                    0090200902
+W 8TH ST                                                    0090000900
+W 8TH ST                                                    0090100901
+W 8TH ST                                                    0090200902
+W 9TH ST                                                    0090100901
+W 9TH ST                                                    0090200902
+WALKER AVE                                                  0090100901
+WALNUT GROVE LN                                             0090000900
+WALNUT GROVE RD                                             0090000900
+WARE RD                                                     0090000900
+WASHINGTON ST                                               0090100901
+WATER ST                                                    0090100901
+WEDGEWOOD CIR                                               0090000900
+WES LEE RD                                                  0090100901
+WESTERN WAY                                                 0090100901
+WESTRIDGE LN                                                0090100901
+WESTWOOD DR                                                 0090000900
+WHEAT DR                                                    0090000900
+WHEAT DR                                                    0090100901
+WHITNEY DR                                                  0090000900
+WILLIAMS ST                                                 0090100901
+WILLIAMSBURG TER                                            0090100901
+WILSON ST                                                   0090000900
+WINCHESTER RD                                               0090000900
+WINCHESTER ST                                               0090100901
+WINDHAM HILL CT                                             0090100901
+WINDHAM HILL DR                                             0090100901
+WINDSOR WAY                                                 0090100901
+WINGS NOLK DR                                               0090100901
+WOODLAWN WAY                                                0090100901
+WOODMONT CT                                                 0090100901
+WOODMONT DR                                                 0090100901
+WOODS ST                                                    0090200902
+WYNDAMERE LN                                                0090100901
+YORKTOWN DR                                                 0090100901
+YOUNGS MILL RD                                              0090000900

@@ -1,0 +1,597 @@
+101ST AIRBORNE INFANTRY RD                                  1130011300
+2ND ST                                                      1130311303
+35TH INFANTRY RD                                            1130011300
+3RD ST                                                      1130311303
+4TH ST                                                      1130311303
+5TH ST                                                      1130311303
+6TH ST                                                      1130311303
+75TH INFANTRY RD                                            1130011300
+7TH ST                                                      1130311303
+83RD INFANTRY RD                                            1130011300
+8TH ST                                                      1130311303
+92ND INFANTRY RD                                            1130011300
+98TH INFANTRY RD                                            1130011300
+A MARTIN RD                                                 1130011300
+ADAMS ST                                                    1130211302
+ADAMS ST                                                    1130311303
+ADAMSON RD                                                  1130011300
+AIRLINE RD                                                  1130011700
+AIRLINE RD                                                  1130111301
+ALLEN LN                                                    1130111301
+ALLEY A                                                     1130211302
+ALLEY B                                                     1130211302
+ALLEY C                                                     1130211302
+ALLEY D                                                     1130211302
+ALLEY E                                                     1130211302
+ALLEY F                                                     1130211302
+ALLEY G                                                     1130211302
+ALLEY H                                                     1130211302
+ALLEY I                                                     1130211302
+ALLEY J                                                     1130211302
+ALLEY K                                                     1130211302
+ANTIOCH RD                                                  1130011300
+ARGUS ST                                                    1130211302
+ASHLEY AVE                                                  1130111301
+BALD HILL RD E                                              1130011300
+BALD HILL RD W                                              1130011300
+BARKER RD                                                   1130011300
+BATTLE OF THE BULGE RD                                      1130011300
+BEECHWOOD DR                                                1130011300
+BELL HITE RD                                                1130111301
+BELL TIP RD                                                 1130011300
+BEN DYER RD                                                 1130011300
+BEN HARRIS RD                                               1130011300
+BEN LADD RD                                                 1130011300
+BEN SHOUSE RD                                               1130011300
+BEN VIZE RD                                                 1130011300
+BERRY STEVENS RD                                            1130011300
+BETHEL CHURCH RD                                            1130011300
+BINGHAM RD                                                  1130011300
+BLACKBURN RD                                                1130011300
+BLACKBURN ST                                                1130111301
+BLAKELEY DR                                                 1130011300
+BLAKELEY DRIVE EXT                                          1130011300
+BLESSED MARTIN RD                                           1130011300
+BLESSED MARTIN RD                                           1130511305
+BLUE RD                                                     1130011300
+BLUEBERRY RD                                                1130011300
+BLUEGRASS RD                                                1130011300
+BOB BROWN RD                                                1130011300
+BOB HITE RD                                                 1130011300
+BORDLEY RD                                                  1130011300
+BOXVILLE RD                                                 1130011300
+BRANDON WILLIAM WAY                                         1130111301
+BRIAN LN                                                    1130111301
+BRIDWELL LN                                                 1130011300
+BROOKS ST                                                   1130011300
+BUCHANAN RD                                                 1130011300
+BUCKMAN LN                                                  1130011300
+BUCKTRACK RD                                                1130011300
+BULLOCK RD                                                  1130011300
+BUNGER RD                                                   1130011300
+BURKINS LN                                                  1130011300
+BURRIS RD                                                   1130011300
+C C BUCKMAN RD                                              1130011300
+C C C CAMP RD                                               1130111301
+CALVARY CHURCH RD                                           1130011300
+CAMBRON GIBSON RD                                           1130011300
+CAMP BRECKINRIDGE RD                                        1130011300
+CARDINAL COURT EXT                                          1130011300
+CARDINAL CT                                                 1130011300
+CARLISLE ST                                                 1130111301
+CASEY ST                                                    1130111301
+CASEYVILLE CEMETERY RD                                      1130011300
+CASEYVILLE DOCK RD                                          1130011300
+CAST IRON RD                                                1130011300
+CHALYBEATE RD                                               1130011300
+CHAPEL HILL RD                                              1130011300
+CHAPMAN RD                                                  1130011300
+CHESTNUT ST                                                 1130011300
+CHURCH ST                                                   1130111301
+CHURCH ST                                                   1130511305
+CLARK ST                                                    1130311303
+CLAYSVILLE RD                                               1130011300
+CLEARVIEW DR                                                1130111301
+CLINT RUSSELL RD                                            1130011300
+COBURN LN                                                   1130011300
+COMBS RD                                                    1130011300
+COMMERCE RD                                                 1130111301
+COMMUNITY DR                                                1130011300
+CONGRESS DR                                                 1130111301
+CONWAY ST                                                   1130011300
+COTTINGHAM ACRES RD                                         1130011300
+COTTINGHAM SPUR                                             1130011300
+COWEN RD                                                    1130011300
+CREASEY RD                                                  1130011300
+CROMWELL ST                                                 1130111301
+CULLEN RD                                                   1130011300
+CULVER CT                                                   1130111301
+CULVER ST                                                   1130111301
+CURRY RD                                                    1130011300
+DAIRY ST                                                    1130011300
+DALLAS DR                                                   1130011300
+DAM NO49 RD                                                 1130011300
+DAVIS MINES RD                                              1130011300
+DEERHAVEN RD                                                1130011300
+DEKOVEN RD                                                  1130011300
+DEMPSEY DR                                                  1130011300
+DENEN RD                                                    1130011300
+DEPOT RD                                                    1130011300
+DEWEY ST                                                    1130311303
+DIKE RD                                                     1130011300
+DIVISION ST                                                 1130311303
+DIXON RD                                                    1130011300
+DODGE HILL MINE RD                                          1130011300
+DRANE RD                                                    1130011300
+DRURY ST                                                    1130111301
+DUNCAN RD                                                   1130011300
+E 10TH ST                                                   1130211302
+E 1ST AVE                                                   1130211302
+E 1ST ST                                                    1130211302
+E 2ND AVE                                                   1130211302
+E 3RD ST                                                    1130211302
+E 4TH ST                                                    1130211302
+E 6TH ST                                                    1130211302
+E 7TH ST                                                    1130211302
+E 8TH ST                                                    1130211302
+E 9TH ST                                                    1130211302
+E GEIGER ST                                                 1130111301
+E GREER AVE                                                 1130211302
+E LYON ST                                                   1130111301
+E MAIN ST                                                   1130011300
+E MAIN ST                                                   1130111301
+E MAIN ST                                                   1130511305
+E MANNING ST                                                1130111301
+E MARKET ST                                                 1130511305
+E MCELROY ST                                                1130111301
+E MORTON ST                                                 1130111301
+E OBANNON ST                                                1130111301
+E OFFUTT ST                                                 1130111301
+E OLD PROVIDENCE RD                                         1130211302
+E SPALDING ST                                               1130111301
+E UNION ST                                                  1130511305
+E WALLER ST                                                 1130111301
+E WAVERLY ST                                                1130111301
+E WEBSTER ST                                                1130111301
+E YOUNG ST                                                  1130111301
+EAGLE CREEK RD                                              1130011300
+ED RICKETTS RD                                              1130011300
+EISENHOWER RD                                               1130011300
+ELM ST                                                      1130011300
+ENGINEER RD                                                 1130011300
+ENTERPRISE RD                                               1130011300
+EVANS ST                                                    1130311303
+FAIRLANE RD                                                 1130011300
+FIELD RD                                                    1130011300
+FIRE TOWER RD                                               1130011300
+FRANK WATHEN RD                                             1130011300
+FRENCH RD                                                   1130011300
+G H PROCTOR RD                                              1130011300
+GEIGER LAKE RD                                              1130011300
+GENERAL HOLT RD                                             1130011300
+GERTIE DUCKWORTH RD                                         1130011300
+GIBSON RD                                                   1130011300
+GLASS RD                                                    1130011300
+GLOBE RD                                                    1130011300
+GODBEHERE LN                                                1130011300
+GOOSE POND RD                                               1130011300
+GOVERNOR ST                                                 1130111301
+GRAY RD                                                     1130011300
+GRIGGS RD                                                   1130011300
+GUM ST                                                      1130011300
+HAMILTON MINE RD                                            1130011300
+HANCOCK RD                                                  1130011300
+HARDING RD                                                  1130011300
+HARRIS RD                                                   1130011300
+HART HUCKEBY RD                                             1130011300
+HAZEL BEND RD                                               1130011300
+HEADQUARTERS RD                                             1130011300
+HEAVRIN RD                                                  1130011300
+HEDGE RD                                                    1130011300
+HELMS WAY                                                   1130111301
+HERBERT HENSHAW RD                                          1130011300
+HERIGES LN                                                  1130111301
+HERRON RD                                                   1130011300
+HIGGINSON HENRY WMA NO1                                     1130011300
+HIGGINSON HENRY WMA NO2                                     1130011300
+HIGGINSON HENRY WMA NO3                                     1130011300
+HIGHLAND DR                                                 1130111301
+HIGHLAND RD                                                 1130011300
+HILL ST                                                     1130011300
+HILLTOP RD                                                  1130011300
+HIRAM MCELROY DR                                            1130011300
+HITE SCHOOL RD                                              1130011300
+HITE SPEECE RD                                              1130011300
+HITESVILLE RD                                               1130011300
+HOBSON ST                                                   1130311303
+HODGE LN                                                    1130011300
+HODGINS RD                                                  1130011300
+HONEYSUCKLE LN                                              1130011300
+HOPPER LN                                                   1130011300
+HOUSE BRIDGE RD                                             1130011300
+HOUSTON ST                                                  1130111301
+HURLEY RD                                                   1130011300
+I V RUNYAN RD                                               1130011300
+INCHON RD                                                   1130011300
+INDUSTRIAL RD                                               1130111301
+IRVIN HANCOCK RD                                            1130011300
+IWO JIMA RD                                                 1130011300
+J D HENRY RD                                                1130011300
+J MARTIN CT                                                 1130011300
+J W BERRY RD                                                1130011300
+JACKS LN                                                    1130011300
+JACKSON ST                                                  1130311303
+JEFFERSON ST                                                1130311303
+JIM DAY RD                                                  1130011300
+JIM VEATCH RD                                               1130011300
+JOHN HITE RD                                                1130011300
+JOHNS RD                                                    1130011300
+JOHNSON ST                                                  1130111301
+JONES RD                                                    1130011300
+KALLIE CT                                                   1130011300
+KELLY LN                                                    1130111301
+KLEE ADLER RD                                               1130011300
+KUYKENDALL RD                                               1130011300
+KY109                                                       1130011300
+KY109                                                       1130211302
+KY1176                                                      1130011300
+KY1177                                                      1130011300
+KY1179                                                      1130011300
+KY1180                                                      1130011300
+KY1257                                                      1130011300
+KY130 N                                                     1130011300
+KY130 N                                                     1130111301
+KY130 S                                                     1130011300
+KY141                                                       1130011300
+KY141 N                                                     1130011300
+KY141 S                                                     1130011300
+KY1452                                                      1130011300
+KY1508                                                      1130011300
+KY1574                                                      1130011300
+KY1594                                                      1130011300
+KY1598                                                      1130011300
+KY1637                                                      1130011300
+KY2090                                                      1130011300
+KY2091                                                      1130011300
+KY2091                                                      1130111301
+KY2094                                                      1130011300
+KY2101                                                      1130011300
+KY2153                                                      1130011300
+KY270                                                       1130011300
+KY270 E                                                     1130011300
+KY270 W                                                     1130011300
+KY2834                                                      1130011300
+KY2835                                                      1130011300
+KY2835                                                      1130111301
+KY2917                                                      1130011300
+KY2918                                                      1130011300
+KY3393                                                      1130011300
+KY359                                                       1130011300
+KY360                                                       1130011300
+KY360                                                       1130311303
+KY365                                                       1130011300
+KY365                                                       1130211302
+KY492                                                       1130011300
+KY56                                                        1130011300
+KY56 E                                                      1130011300
+KY56 W                                                      1130011300
+KY666                                                       1130011300
+KY667 S                                                     1130011300
+KY668                                                       1130011300
+KY669                                                       1130011300
+KY669                                                       1130511305
+KY758                                                       1130011300
+KY760                                                       1130011300
+KY871                                                       1130011300
+KY923                                                       1130011300
+KY923                                                       1130211302
+KY947                                                       1130011300
+KY948                                                       1130011300
+KY950                                                       1130011300
+KY983                                                       1130011300
+LAKE MAUZY RD                                               1130011300
+LAKE MAUZY SPUR                                             1130011300
+LAKESHORE DR                                                1130011300
+LAMB DR                                                     1130011300
+LARUE RD                                                    1130011300
+LAWYER LOOP                                                 1130011300
+LEE K NELSON WILDLIFE VIEWING AREA RD                       1130011300
+LESLIE ST                                                   1130011300
+LEWIS LN                                                    1130011300
+LIBERTY RD                                                  1130011300
+LIZARD POINT RD                                             1130011300
+LOCUST LN                                                   1130011300
+LOVELL RD                                                   1130011300
+LOWER CASEYVILLE RD                                         1130011300
+LYMAN RD                                                    1130011300
+LYNN RD                                                     1130011300
+M D RIGGS RD                                                1130011300
+MACARTHUR RD                                                1130011300
+MADISON ST                                                  1130311303
+MAIN GATE RD                                                1130011300
+MAIN ST                                                     1130311303
+MAPLE ST                                                    1130011300
+MARKHAM RD                                                  1130011300
+MARSHALL RD                                                 1130011300
+MARTIN COLLINS RD                                           1130011300
+MARTIN CULVER RD                                            1130011300
+MARTIN RD                                                   1130011300
+MARY ANNE DR                                                1130111301
+MASON CREEK RD                                              1130011300
+MASON RD                                                    1130011300
+MCCANN RD                                                   1130011300
+MCCLURE CEMETERY RD                                         1130011300
+MCCLURE CHAPEL RD                                           1130011300
+MCFALL RD                                                   1130011300
+MCGINNIS ST                                                 1130311303
+MCKEAIG RD                                                  1130011300
+MCKENDREE RD                                                1130011300
+MCKENNEY LN                                                 1130011300
+MEADOWS RD                                                  1130011300
+MERCER AVE                                                  1130111301
+MIDLAND DR                                                  1130111301
+MILL ST                                                     1130011300
+MILL ST                                                     1130311303
+MINERVA LIMP RD                                             1130011300
+MOCKINGBIRD CIR                                             1130011300
+MOFFIT LAKE RD                                              1130011300
+MOMAN ST                                                    1130111301
+MONROE ST                                                   1130311303
+MOON LN                                                     1130111301
+MOORE HANCOCK RD                                            1130011300
+MORRIS ADDITION RD                                          1130011300
+MOTORPOOL RD                                                1130011300
+MT OLIVE RD                                                 1130011300
+MT PLEASANT CEMETERY RD                                     1130011300
+MT VERNON RD                                                1130011300
+MULBERRY ST                                                 1130311303
+MULLIN RD                                                   1130011300
+MURRAY JONES ST                                             1130111301
+McGRAW HILL RD                                              1130011300
+N 3RD ST                                                    1130311303
+N ADAMS ST                                                  1130211302
+N BRADY ST                                                  1130111301
+N CARRIER ST                                                1130111301
+N CHAPMAN RD                                                1130111301
+N COURT ST                                                  1130111301
+N DANNY ST                                                  1130111301
+N DEPOT ST                                                  1130511305
+N GILES ST                                                  1130211302
+N GRANT ST                                                  1130211302
+N HARRIS ST                                                 1130111301
+N HUGHES ST                                                 1130111301
+N JOHNSON ST                                                1130211302
+N JOHNSON ST                                                1130511305
+N KELSEY ST                                                 1130211302
+N KING ST                                                   1130211302
+N LEE ST                                                    1130211302
+N MAIN ST                                                   1130211302
+N MART ST                                                   1130111301
+N MONROE ST                                                 1130211302
+N MORGAN ST                                                 1130111301
+N PADGETT ST                                                1130111301
+N PIKE ST                                                   1130211302
+N POPLAR ST                                                 1130111301
+N RHEA ST                                                   1130011300
+N RHEA ST                                                   1130111301
+N RICHARDS LN                                               1130111301
+N ROAD NO3                                                  1130011300
+N ROBERTS ST                                                1130111301
+N SPRING ST                                                 1130111301
+N TOWNSEND ST                                               1130111301
+N VLG RD                                                    1130111301
+N WASHINGTON ST                                             1130211302
+NALLY DR                                                    1130011300
+NALLY DR                                                    1130111301
+NEWCOMB LOOP                                                1130011300
+NEWPORT RD                                                  1130011300
+NMAPLE                                                      1130511305
+NOBLE ST                                                    1130211302
+NORMANDY RD                                                 1130011300
+NORTH AVE                                                   1130011300
+NORTH AVE                                                   1130111301
+NORTHSIDE CT                                                1130111301
+OAK ST                                                      1130011300
+OLD BETHEL RD                                               1130011300
+OLD RAILROAD BED                                            1130111301
+OLD SHAWNEETOWN RD                                          1130011300
+OLEARY RD                                                   1130011300
+ONAN DYER RD                                                1130011300
+ONE EYE RIDGE RD                                            1130011300
+OVERFIELD RD                                                1130011300
+PARK ST                                                     1130111301
+PARK ST                                                     1130311303
+PATRICK RD                                                  1130011300
+PATTON RD                                                   1130011300
+PAULSEN PL                                                  1130111301
+PEARL ST                                                    1130311303
+PERSIMMON RIDGE RD                                          1130011300
+PETER CRUZ RD                                               1130011300
+PHILLIPS RD                                                 1130011300
+PIKE ST                                                     1130311303
+PIKES PEAK RD                                               1130011300
+PINE ST                                                     1130311303
+POPCORN RD                                                  1130011300
+POPLAR RIDGE RD                                             1130011300
+POPLAR ST                                                   1130011300
+POTTERY LN                                                  1130011300
+POWELL RD                                                   1130011300
+PRESS RD                                                    1130011300
+PRIDE RD                                                    1130011300
+PRYOR BLVD                                                  1130011300
+PYTHIAN RIDGE RD                                            1130011300
+QUAIL CLUB RD                                               1130011300
+R YOUNG RD                                                  1130011300
+RAILROAD BED RD                                             1130011300
+RALEIGH RD                                                  1130011300
+REBURN CH RD                                                1130011300
+RHEM RD                                                     1130011300
+RIVERVIEW RD                                                1130011300
+ROAD NO2                                                    1130011300
+ROAD NO4                                                    1130011300
+ROAD NO5                                                    1130011300
+ROAD NO6                                                    1130011300
+ROAD NO7                                                    1130011300
+ROAD NO9                                                    1130011300
+ROAD10                                                      1130011300
+ROAD12                                                      1130011300
+ROAD13                                                      1130011300
+ROAD14                                                      1130011300
+ROAD15                                                      1130011300
+ROAD16                                                      1130011300
+ROAD17                                                      1130011300
+ROAD18                                                      1130011300
+ROBINETTE RD                                                1130011300
+ROBINSON RD                                                 1130011300
+ROOSEVELT RD                                                1130011300
+ROSSER LONG RD                                              1130011300
+ROWLEY CEMETERY RD                                          1130011300
+RUARK DR                                                    1130311303
+RUSSELBERG RD                                               1130011300
+S BERRY ST                                                  1130111301
+S BRADY ST                                                  1130111301
+S BRECKINRIDGE RD                                           1130011300
+S BRECKINRIDGE RD                                           1130511305
+S CHAPMAN ST                                                1130111301
+S COURT ST                                                  1130111301
+S HOLT DR                                                   1130211302
+S JACKSON ST                                                1130211302
+S JEFFERSON ST                                              1130211302
+S JEFFREY ST                                                1130111301
+S JOE MACKEY RD                                             1130211302
+S MAPLE                                                     1130511305
+S MART ST                                                   1130111301
+S MILLS ST                                                  1130511305
+S MORGAN ST                                                 1130111301
+S POPLAR ST                                                 1130111301
+S RHEA ST                                                   1130111301
+S ROAD NO3                                                  1130011300
+S ROAD NO4                                                  1130011300
+S SPRING ST                                                 1130111301
+S TOWNSEND ST                                               1130111301
+S WEBSTER ST                                                1130111301
+SALEM CHURCH RD                                             1130011300
+SALEM SPUR                                                  1130011300
+SAM YATES RD                                                1130011300
+SAMPSON ST                                                  1130311303
+SAND HILL RD                                                1130011300
+SANDY LN                                                    1130111301
+SCHLEY ST                                                   1130311303
+SCHOOL ST                                                   1130111301
+SCHOOLHOUSE LN                                              1130011300
+SENATE AVE                                                  1130111301
+SEOUL RD                                                    1130011300
+SEVEN GUMS RD                                               1130011300
+SHILOH RD                                                   1130011300
+SHORT ST                                                    1130111301
+SHORTY LONG RD                                              1130011300
+SIDE ST                                                     1130011300
+SIGSBEE ST                                                  1130311303
+SIMPSON RD                                                  1130011300
+SMITH MILLS RD                                              1130011300
+SNYDER LN                                                   1130011300
+SOUTHGATE DR                                                1130111301
+SOUTHRIDGE CT                                               1130011300
+SPRING GROVE BLVD                                           1130011300
+SPRINGER HILL RD                                            1130011300
+SPRUCE ST                                                   1130311303
+STANLEY AVE                                                 1130111301
+STEWARD RD                                                  1130011300
+SULLIVAN RD                                                 1130011300
+SULPHUR SPRING RD                                           1130011300
+SUN AVE                                                     1130011300
+SYKES BLVD                                                  1130111301
+T H ALVEY                                                   1130011300
+T L BISHOP RD                                               1130011300
+T P LUCKETT RD                                              1130011300
+TAPP RD                                                     1130011300
+TAYLOR RD                                                   1130011300
+TERRE HILL RD                                               1130011300
+THAYER RD                                                   1130011300
+TINA WAGGENER RD                                            1130011300
+TOOMBS RD                                                   1130011300
+TRADEWATER RD                                               1130011300
+TRADEWATER RIVER BOAT RAMP                                  1130011300
+TRUITT ST                                                   1130111301
+TRUMBO RD                                                   1130011300
+TURKEY SPUR LN                                              1130011300
+TURNER DR                                                   1130311303
+TWIN LAKE RD                                                1130011300
+TWIN OAK RD                                                 1130011300
+UNION COUNTY BOAT RAMP                                      1130011300
+UNION COUNTY BOAT RAMP C                                    1130011300
+UNION ST                                                    1130111301
+UNIONTOWN RD                                                1130011300
+UPPER MAIN ST                                               1130011300
+UPPER MAIN ST                                               1130311303
+URTON GAP RD                                                1130011300
+US60 BYP                                                    1130011300
+US60 E                                                      1130011300
+US60 E                                                      1130111301
+US60 E                                                      1130511305
+US60 W                                                      1130011300
+US60 W                                                      1130211302
+UTAH BEACH RD                                               1130011300
+V T CRAWLEY RD                                              1130011300
+VALLEY DR                                                   1130011300
+VALLEY DR                                                   1130111301
+VAN GOSS ST                                                 1130011300
+VAUGHN LN                                                   1130011300
+VAUGHN LOOP                                                 1130011300
+VILLAGE SQUARE RD                                           1130011300
+VILLAGE SQUARE RD                                           1130111301
+VINSON LN                                                   1130111301
+VIRGINIA DR                                                 1130011300
+VOSS RD                                                     1130011300
+W 11TH ST                                                   1130211302
+W 12TH ST                                                   1130211302
+W 13TH ST                                                   1130211302
+W 14TH ST                                                   1130211302
+W A ANDERSON RD                                             1130011300
+W C BRYANT RD                                               1130011300
+W DEPOT ST                                                  1130511305
+W GEIGER ST                                                 1130111301
+W J RHEA RD                                                 1130011300
+W KELLY ST                                                  1130511305
+W MAIN ST                                                   1130111301
+W MAIN ST                                                   1130511305
+W MARKET ST                                                 1130511305
+W MARY ANNE ST                                              1130511305
+W MCELROY ST                                                1130111301
+W MORTON ST                                                 1130111301
+W OBANNON ST                                                1130111301
+W PARKER ST                                                 1130111301
+W PECAN ST                                                  1130211302
+W SPALDING ST                                               1130111301
+W WAVERLY ST                                                1130111301
+W YOUNG ST                                                  1130111301
+WAGNER CT                                                   1130011300
+WALLACE LN                                                  1130011300
+WALLER OMER RD                                              1130011300
+WALLER SCHOOL RD                                            1130011300
+WALLER ST                                                   1130311303
+WALLIE CLEMENTS RD                                          1130011300
+WALNUT GROVE RD                                             1130011300
+WALNUT ST                                                   1130011300
+WALNUT ST                                                   1130311303
+WAREHOUSE RD                                                1130011300
+WASTEWATER TREATMENT PLANT                                  1130011300
+WATHEN DR                                                   1130111301
+WATKINS RD                                                  1130011300
+WAVERLY HITESVILLE RD                                       1130011300
+WAVERLY RD                                                  1130011300
+WELCH RD                                                    1130011300
+WELLER DAVIS RD                                             1130011300
+WHITAKER WAY                                                1130011300
+WHITAKER WAY                                                1130111301
+WHITE RD                                                    1130011300
+WILLETT CULVER RD                                           1130011300
+WILLIAM BALL RD                                             1130011300
+WILLIAMS RD                                                 1130011300
+WILLIE PRIDE RD                                             1130011300
+WILLOW LOOP                                                 1130211302
+WOODLAND CHURCH RD                                          1130011300
+WOODRING RD                                                 1130011300
+YANCY GREENWELL RD                                          1130011300
+YOUNG ST                                                    1130311303
+ZION BOTTOM RD                                              1130011300

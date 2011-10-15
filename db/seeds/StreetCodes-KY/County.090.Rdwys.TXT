@@ -1,0 +1,1128 @@
+1ST ST                                                      0900409004
+2ND ST                                                      0900409004
+3RD ST                                                      0900409004
+4TH ST                                                      0900409004
+5TH ST                                                      0900009000
+5TH ST                                                      0900409004
+ABBEY RIDGE RD                                              0900009000
+ADAMS CT                                                    0900109001
+ADISON AVE                                                  0900009000
+AIDEN CT                                                    0900109001
+AIRPORT RD                                                  0900009000
+ALBERT WILLETT RD                                           0900009000
+ALDER DR                                                    0900009000
+ALEXANDER CT                                                0900109001
+ALLEN RD                                                    0900009000
+ALLENDER LN                                                 0900009000
+ALLIE CT                                                    0900009000
+ALLISON AVE                                                 0900109001
+AMBER CT                                                    0900109001
+AMERICAN DR                                                 0900009000
+AMPHITHEATRER RD                                            0900109001
+ANDREA CT                                                   0900009000
+ANGELA DR                                                   0900109001
+ANTHONY GREENWELL LN                                        0900009000
+ANTLERS TRACE DR                                            0900009000
+APACHE CT                                                   0900009000
+APOLLO PL                                                   0900109001
+ARISTIDES CT                                                0900009000
+ARMAG AVE                                                   0900109001
+ARMY RESERVE DR                                             0900109001
+ARNOLD LN                                                   0900009000
+ARNOLD LN                                                   0900209002
+ARROW TRL                                                   0900109001
+ASHBERRY MNR                                                0900109001
+ASHES CREEK RD                                              0900009000
+ASHFORD LN                                                  0900009000
+ASHLEIGH WAY                                                0900009000
+ASHTON CT                                                   0900009000
+ATKINSON HILL AVE                                           0900109001
+ATLANTIC CT                                                 0900109001
+AUBERRY CT                                                  0900009000
+AUGUST CT                                                   0900109001
+AUTUMN AVE                                                  0900109001
+AVERY LOOP                                                  0900009000
+AVONDALE DR                                                 0900109001
+BACK RUN RD                                                 0900009000
+BALLARD CT                                                  0900109001
+BALLARD SPRINGS CT                                          0900009000
+BALLTOWN CONNECTOR                                          0900009000
+BALLTOWN RD                                                 0900009000
+BALSAM ST                                                   0900009000
+BANJO ST                                                    0900109001
+BARBARA LN                                                  0900009000
+BARBER AVE                                                  0900109001
+BARBERRY CT                                                 0900109001
+BARBERRY LN                                                 0900109001
+BARD HOMES AVE                                              0900109001
+BARE ST                                                     0900009000
+BARNES RD                                                   0900009000
+BARNEYS ALY                                                 0900209002
+BARTLEY AVE                                                 0900109001
+BARTLEY LN                                                  0900009000
+BARTON RD                                                   0900009000
+BARTON RD                                                   0900109001
+BATSELL DR                                                  0900009000
+BEAM XING                                                   0900109001
+BEAR CREEK WAY                                              0900009000
+BEECHFORK TRL                                               0900109001
+BEECHWOLD PL                                                0900109001
+BEECHWOOD AVE                                               0900109001
+BELL ST                                                     0900009000
+BELLWOOD RD                                                 0900009000
+BEN FRYE AVE                                                0900109001
+BEN IRVIN RD                                                0900009000
+BENNELLI DR                                                 0900009000
+BENNETTS LN                                                 0900009000
+BERETTA CT                                                  0900009000
+BERETTA DR                                                  0900109001
+BERMAN WELLS RD                                             0900009000
+BERTRAM CT                                                  0900109001
+BESSI LN                                                    0900109001
+BETH DR                                                     0900109001
+BETHANY CT                                                  0900009000
+BG9002 E                                                    0900009000
+BG9002 E                                                    0900109001
+BG9002 E EXIT10 OFF RAMP TO KY52                            0900009000
+BG9002 E EXIT10 OFF RAMP TO KY52 N                          0900009000
+BG9002 E EXIT10 OFF RAMP TO KY52 S                          0900009000
+BG9002 E EXIT10 ON RAMP FROM KY52                           0900009000
+BG9002 E EXIT10 ON RAMP FROM KY52 N                         0900009000
+BG9002 E EXIT10 ON RAMP FROM KY52 S                         0900009000
+BG9002 E EXIT21 OFF RAMP TO US31E                           0900009000
+BG9002 E EXIT21 ON RAMP FROM US31E                          0900009000
+BG9002 E EXIT21 ON RAMP FROM US31E N                        0900009000
+BG9002 E EXIT21 ON RAMP FROM US31E S                        0900009000
+BG9002 E EXIT25 OFF RAMP TO US150                           0900109001
+BG9002 E EXIT25 OFF RAMP TO US150 E                         0900109001
+BG9002 E EXIT25 OFF RAMP TO US150 W                         0900109001
+BG9002 E EXIT25 ON RAMP FROM US150                          0900109001
+BG9002 E EXIT25 ON RAMP FROM US150 E                        0900109001
+BG9002 E EXIT25 ON RAMP FROM US150 W                        0900109001
+BG9002 E EXIT34 OFF RAMP TO KY55                            0900009000
+BG9002 E EXIT34 OFF RAMP TO KY55 N                          0900009000
+BG9002 E EXIT34 OFF RAMP TO KY55 S                          0900009000
+BG9002 E EXIT34 ON RAMP FROM KY55                           0900009000
+BG9002 E EXIT34 ON RAMP FROM KY55 N                         0900009000
+BG9002 E EXIT34 ON RAMP FROM KY55 S                         0900009000
+BG9002 W                                                    0900009000
+BG9002 W                                                    0900109001
+BG9002 W EXIT10 OFF RAMP TO KY52                            0900009000
+BG9002 W EXIT10 OFF RAMP TO KY52 N                          0900009000
+BG9002 W EXIT10 OFF RAMP TO KY52 S                          0900009000
+BG9002 W EXIT10 ON RAMP FROM KY52                           0900009000
+BG9002 W EXIT10 ON RAMP FROM KY52 N                         0900009000
+BG9002 W EXIT10 ON RAMP FROM KY52 S                         0900009000
+BG9002 W EXIT21 OFF RAMP TO US31E                           0900009000
+BG9002 W EXIT21 OFF RAMP TO US31E N                         0900009000
+BG9002 W EXIT21 OFF RAMP TO US31E S                         0900009000
+BG9002 W EXIT21 ON RAMP FROM US31E                          0900009000
+BG9002 W EXIT21 ON RAMP FROM US31E N                        0900009000
+BG9002 W EXIT21 ON RAMP FROM US31E S                        0900009000
+BG9002 W EXIT25 OFF RAMP TO US150                           0900109001
+BG9002 W EXIT25 OFF RAMP TO US150 E                         0900109001
+BG9002 W EXIT25 OFF RAMP TO US150 W                         0900109001
+BG9002 W EXIT25 ON RAMP FROM US150                          0900109001
+BG9002 W EXIT25 ON RAMP FROM US150 E                        0900109001
+BG9002 W EXIT25 ON RAMP FROM US150 W                        0900109001
+BG9002 W EXIT34 OFF RAMP TO KY55                            0900009000
+BG9002 W EXIT34 OFF RAMP TO KY55 N                          0900009000
+BG9002 W EXIT34 OFF RAMP TO KY55 S                          0900009000
+BG9002 W EXIT34 ON RAMP FROM KY55                           0900009000
+BG9002 W EXIT34 ON RAMP FROM KY55 N                         0900009000
+BG9002 W EXIT34 ON RAMP FROM KY55 S                         0900009000
+BIG LICK HOLLOW RD                                          0900009000
+BIG SPRINGS RD                                              0900009000
+BISHOP LN                                                   0900009000
+BIVENS LN                                                   0900109001
+BLACK OAK LN                                                0900009000
+BLACKBERRY ALY                                              0900109001
+BLAKENROD BLVD                                              0900009000
+BLANTON FORD RD                                             0900009000
+BLOOMFIELD RD                                               0900009000
+BLOOMFIELD RD                                               0900109001
+BLUEBERRY ALY                                               0900109001
+BLUEGRASS CT                                                0900109001
+BOBLITT LN                                                  0900109001
+BON AIR CT                                                  0900109001
+BOONE MILL RD                                               0900009000
+BORDERS LN                                                  0900009000
+BOSTON RD                                                   0900009000
+BOTLAND LOOP                                                0900009000
+BOTTO LN                                                    0900009000
+BOURBON CT                                                  0900009000
+BOWLING AVE                                                 0900409004
+BOWLING PIKE                                                0900009000
+BRANCH CT                                                   0900009000
+BREEZY WAY                                                  0900009000
+BRENTWOOD LN                                                0900009000
+BRIARCLIFF AVE                                              0900009000
+BRIGHTON CT                                                 0900109001
+BRITTANY DR                                                 0900009000
+BROADWAY                                                    0900009000
+BROOKVIEW LN                                                0900009000
+BROTHERS LN                                                 0900009000
+BRYAN DR                                                    0900009000
+BUCHANNAN BLVD                                              0900109001
+BUCK RUN TRL                                                0900009000
+BUCKEYE DR                                                  0900009000
+BUCKINGHAM DR                                               0900109001
+BUFFALO HILL RD                                             0900009000
+BURBA RD                                                    0900009000
+BURLINGTON CT                                               0900109001
+BUTLER DR                                                   0900109001
+BUTTERMILK LN                                               0900009000
+CALDWELL AVE                                                0900109001
+CALLOWAY CT                                                 0900009000
+CAMBRIDGE CT                                                0900109001
+CAMBRON DR                                                  0900009000
+CAMELLIA AVE                                                0900009000
+CAMP RD                                                     0900009000
+CAMPGROUND CHURCH LN                                        0900009000
+CAMPGROUND CHURCH NORTH RD                                  0900009000
+CAMPGROUND RD                                               0900009000
+CAMPTOWN RD                                                 0900109001
+CANE RUN LOOP                                               0900009000
+CANEY FORK RD                                               0900009000
+CANEY FORK RD                                               0900109001
+CANEY FOX RD                                                0900009000
+CANTERBURY CT                                               0900109001
+CARDINAL DR                                                 0900109001
+CARDINAL HILL RD                                            0900009000
+CAREY CT                                                    0900109001
+CARNEGIE CT                                                 0900109001
+CARR ALY                                                    0900209002
+CASTLE DR                                                   0900009000
+CASTLETON DR                                                0900109001
+CATHEDRAL MNR                                               0900109001
+CAVALCADE CIR                                               0900009000
+CECIL CT                                                    0900109001
+CECIL RIDGE RD                                              0900009000
+CEDAR CT                                                    0900009000
+CEDAR GROVE RD                                              0900009000
+CEDAR PL                                                    0900009000
+CEMETERY ALY                                                0900109001
+CENTER ST                                                   0900009000
+CENTER ST                                                   0900409004
+CESSNA DR                                                   0900009000
+CHAMBERS BLVD                                               0900009000
+CHAMPIONSHIP DR                                             0900009000
+CHAPEL HILL CT                                              0900009000
+CHAPLIN FORK LN                                             0900009000
+CHAPLIN RD                                                  0900209002
+CHAPLIN TAYLORSVILLE RD                                     0900009000
+CHATTANOOGA DR                                              0900009000
+CHEROKEE AVE                                                0900009000
+CHERRY ALY                                                  0900109001
+CHERRY PASS                                                 0900009000
+CHERRYWOOD DR                                               0900009000
+CHESAPEAKE TRL                                              0900009000
+CHESTER HAHN RD                                             0900009000
+CHESTNUT ST                                                 0900209002
+CHOWNING LN                                                 0900009000
+CHURCH HILL ST                                              0900309003
+CHURCH ST                                                   0900009000
+CHURCH ST                                                   0900309003
+CHURCHILL DR                                                0900009000
+CIRCLE DR                                                   0900109001
+CIRCLE LN                                                   0900109001
+CLARKTOWN RD                                                0900009000
+CLAY ST                                                     0900109001
+CLEAR CREEK DR                                              0900009000
+CLEAR SPRING DR                                             0900009000
+CLEO DR                                                     0900109001
+CLERMONT DR                                                 0900009000
+CLIFFWOOD DR                                                0900009000
+CLUBHOUSE DR                                                0900009000
+COBBLESTONE CT                                              0900009000
+COLLINS LN                                                  0900109001
+COLONIAL AVE                                                0900209002
+COLT CT                                                     0900109001
+COLVIN CT                                                   0900009000
+COMMANCHE CT                                                0900009000
+COMMERCE BLVD                                               0900109001
+CONLEY AVE                                                  0900209002
+CONNECTOR                                                   0900409004
+COOK RD                                                     0900009000
+COOKSEY LN                                                  0900009000
+COON HOLLOW RD                                              0900009000
+COPPER FIELDS WAY                                           0900009000
+CORMAN ALY                                                  0900109001
+CORNISH LN                                                  0900009000
+COTTAGE CT                                                  0900109001
+COUNCIL DR                                                  0900009000
+COUNTRY SQUIRE LN                                           0900009000
+COUNTRYSIDE DR                                              0900009000
+COUNTY LINE RD                                              0900009000
+COURT SQ                                                    0900109001
+COVENTRY LN                                                 0900009000
+COXS CREEK LN N                                             0900009000
+COXS CREEK LN S                                             0900009000
+CRANBERRY ALY                                               0900109001
+CREEK POINTE DR                                             0900009000
+CREEKSIDE DR                                                0900009000
+CREEKWOOD DR                                                0900109001
+CREEL LN                                                    0900009000
+CRENSHAW LN                                                 0900009000
+CROCUS WAY                                                  0900109001
+CROSSCREEK CT                                               0900009000
+CROTHERS CT                                                 0900109001
+CRYSTAL SPRINGS DR                                          0900009000
+CULPEPPER ST                                                0900009000
+CULVER LN                                                   0900009000
+CULVERTOWN SCHOOLHOUSE RD                                   0900009000
+CUMBERLAND CT                                               0900109001
+CYPRESS ST                                                  0900009000
+DAFFODIL DR                                                 0900109001
+DAY HILL CT                                                 0900009000
+DEATSVILLE CONNECTOR RD                                     0900009000
+DEATSVILLE LOOP                                             0900009000
+DEATSVILLE RD                                               0900009000
+DECATUR AVE                                                 0900209002
+DEE HEAD RD                                                 0900009000
+DEEP SPRINGS DR                                             0900009000
+DEER VALLEY CT                                              0900009000
+DEMAREE DR                                                  0900109001
+DEMOCRATIC WAY                                              0900009000
+DEPOT ST                                                    0900009000
+DEPOT ST                                                    0900209002
+DEPOT ST                                                    0900409004
+DEVERS CT                                                   0900109001
+DISTILLERY CT                                               0900109001
+DIXIE LN                                                    0900009000
+DOGWOOD DR                                                  0900109001
+DOGWOOD TRL                                                 0900009000
+DONES LN                                                    0900009000
+DONNA LN                                                    0900009000
+DONNA WAY                                                   0900009000
+DONOVAN HEIGHTS RD                                          0900009000
+DORCHESTER LN                                               0900109001
+DOUBLE SPRINGS RD                                           0900009000
+DOWNS AVE                                                   0900109001
+DOWNS LN                                                    0900009000
+DRAKE LN                                                    0900009000
+DRAKE RIDGE RD                                              0900009000
+DUBLIN DR                                                   0900109001
+DUDLEY LN                                                   0900009000
+DUGAN RD                                                    0900009000
+DUSTIN CT                                                   0900109001
+E BEALL AVE                                                 0900109001
+E BRASHEAR AVE                                              0900109001
+E BROADWAY                                                  0900109001
+E DAUGHERTY AVE                                             0900109001
+E FLAGET AVE                                                0900109001
+E FORREST AVE                                               0900109001
+E HALSTEAD AVE                                              0900109001
+E JOHN FITCH AVE                                            0900109001
+E JOHN ROWAN BLVD                                           0900009000
+E JOHN ROWAN BLVD                                           0900109001
+E MAIN ST                                                   0900309003
+E MILESTONE CT                                              0900009000
+E MUIR AVE                                                  0900109001
+E OBRYAN AVE                                                0900109001
+E SANDSTONE CT                                              0900009000
+E STEPHEN FOSTER AVE                                        0900009000
+E STEPHEN FOSTER AVE                                        0900109001
+EAGLE HILL RD                                               0900209002
+EAGLE PASS                                                  0900009000
+EARL CT                                                     0900109001
+EARLY TIMES BLVD                                            0900109001
+EASTLAND DR                                                 0900009000
+EASTVIEW AVE                                                0900109001
+EASTVIEW DR                                                 0900109001
+ED BRENT RD                                                 0900009000
+ED PILE CONNECTOR                                           0900009000
+ED PILE RD                                                  0900009000
+EDDIE MILES RD                                              0900009000
+EDELEN AVE                                                  0900109001
+EDGEWOOD CT                                                 0900109001
+EDGEWOOD DR                                                 0900109001
+EDWARDS AVE                                                 0900009000
+EDWARDS LN                                                  0900009000
+EDWIN CECIL LN                                              0900009000
+EGGEN RD                                                    0900009000
+ELMCREST DR                                                 0900109001
+EMERALD CT                                                  0900009000
+EMERSON CT                                                  0900009000
+EMORY CT                                                    0900009000
+ENGLEMAN ST                                                 0900009000
+ENGLEWOOD DR                                                0900109001
+ESTEPHEN FOSTER AVE                                         0900109001
+ETHAN ALLEN DR                                              0900009000
+ETHEL SMITH LN                                              0900009000
+EUREKA DR                                                   0900009000
+EVERETT HALL LN                                             0900009000
+EVERGREEN CT                                                0900109001
+F M HEAD LN                                                 0900009000
+FAIRFIELD CEMETERY LOOP                                     0900009000
+FAIRFIELD HILL RD                                           0900209002
+FAIRFIELD RD                                                0900009000
+FAIRMOUNT CHURCH RD                                         0900009000
+FAIRMOUNT LOOP                                              0900009000
+FAIRWAY HILL RD                                             0900009000
+FAITH AVE                                                   0900209002
+FARM LN                                                     0900009000
+FARMAWAY DR                                                 0900009000
+FARMINGTON DR                                               0900009000
+FEDERAL HILL MNR                                            0900109001
+FEDERAL PL                                                  0900109001
+FENWICK DR                                                  0900009000
+FERN LEA CIR                                                0900109001
+FERRIS AVE                                                  0900309003
+FILIATREAU LN                                               0900109001
+FLAGET HOSPITAL DR                                          0900109001
+FLAMINGO RD                                                 0900009000
+FLATS RD                                                    0900009000
+FOGLE RD                                                    0900009000
+FOREST SPRINGS DR                                           0900009000
+FOREST VIEW CT                                              0900009000
+FOSTER CT                                                   0900109001
+FOUR SEASONS DR                                             0900009000
+FOX RIDGE RD                                                0900009000
+FOXFIRE RD                                                  0900009000
+FRANCES DR                                                  0900009000
+FRANKFORT CT                                                0900009000
+FRAZIER CT                                                  0900109001
+FREDERICKTOWN RD                                            0900009000
+FREEDOM PL                                                  0900009000
+FREEMAN AVE                                                 0900009000
+FROMAN CREEK CT                                             0900009000
+FROMAN GREENWELL LN                                         0900009000
+FROST AVE                                                   0900009000
+GADDYS FORD RD                                              0900009000
+GAFFNEY LN                                                  0900109001
+GALLERY CIR                                                 0900009000
+GAP KNOB RD                                                 0900009000
+GARDEN DR                                                   0900009000
+GARRISON LN                                                 0900009000
+GEORGE MEYER LN                                             0900009000
+GILKEY RUN RD                                               0900009000
+GINSENG RD                                                  0900009000
+GLEANINGS RD                                                0900009000
+GLEN VIEW DR                                                0900009000
+GLENWOOD DR                                                 0900109001
+GONZI CLARK LN                                              0900009000
+GOODLOE AVE                                                 0900209002
+GOOSEBERRY ALY                                              0900109001
+GOWEN LN                                                    0900009000
+GRANITE DR                                                  0900109001
+GRANT AVE                                                   0900009000
+GRAYS RUN RD                                                0900009000
+GRAYSTONE CT                                                0900109001
+GREEN CHAPEL RD                                             0900009000
+GREEN MEADOW CT                                             0900009000
+GREENFIELD ALY                                              0900009000
+GREENFIELD AVE                                              0900009000
+GREENWELL FORD RD                                           0900009000
+GREER LN                                                    0900009000
+GRUNDY DR                                                   0900109001
+GUINAN WAY                                                  0900009000
+GUINNESS CT                                                 0900109001
+GUTHRIE DR                                                  0900109001
+HAGAN DR                                                    0900109001
+HAGAN LN                                                    0900009000
+HAHN RIDGE RD                                               0900009000
+HALEY CT                                                    0900109001
+HALISY WOOD LOOP                                            0900009000
+HALL LOOP                                                   0900009000
+HALL SIMPSON LN                                             0900009000
+HAMILTON CT                                                 0900109001
+HAMMOND LN                                                  0900009000
+HAMSHIRE CT                                                 0900109001
+HANDY BLVD                                                  0900109001
+HAPPY HOLLOW DR                                             0900009000
+HARDIN LESLIE RD                                            0900009000
+HARDING CT                                                  0900109001
+HARRIET AVE                                                 0900009000
+HARRISON FORK RD                                            0900009000
+HARROW CT                                                   0900109001
+HARRY RUCKER RD                                             0900009000
+HART AVE                                                    0900009000
+HART AVE                                                    0900109001
+HAVEN OAK CT                                                0900009000
+HAVEN RIDGE DR                                              0900009000
+HAVEN WOOD CT                                               0900009000
+HAVERLY DR                                                  0900009000
+HAYDEN DR                                                   0900109001
+HENRY ST                                                    0900409004
+HERITAGE DR                                                 0900009000
+HERITAGE PARK WAY                                           0900109001
+HERSHELL LEATHERS LN                                        0900009000
+HIALEAH DR                                                  0900009000
+HIBBS LN                                                    0900009000
+HICKORY CT                                                  0900009000
+HICKORY LN                                                  0900009000
+HIDEAWAY LN                                                 0900009000
+HIGDON LOOP                                                 0900009000
+HIGDON LOOP                                                 0900409004
+HIGH GROVE LN                                               0900009000
+HIGH PINE CT                                                0900009000
+HIGH RIDGE DR                                               0900009000
+HIGH ST                                                     0900409004
+HIGHGROVE RD                                                0900009000
+HIGHLAND AVE                                                0900009000
+HIGHLAND DR                                                 0900009000
+HIGHLAND ST                                                 0900309003
+HIGHVIEW CHURCH RD                                          0900009000
+HILL ST                                                     0900009000
+HILL ST                                                     0900209002
+HILL ST                                                     0900309003
+HILLCREST DR                                                0900009000
+HILLCREST DR                                                0900109001
+HILLIS PL                                                   0900009000
+HILLTOP ST                                                  0900409004
+HILTON LN                                                   0900009000
+HITE LN                                                     0900009000
+HOBBS LN                                                    0900009000
+HOLLY CREEK CT                                              0900009000
+HOLLY HILL DR                                               0900409004
+HOLLYWOOD DR                                                0900109001
+HOLT RIDGE RD                                               0900009000
+HOLY CROSS RD                                               0900009000
+HONEYSUCKLE LN                                              0900109001
+HOPKINS CT                                                  0900109001
+HOUCK DR                                                    0900009000
+HOUGHLIN APARTMENT DR                                       0900209002
+HOWARDSTOWN BOAT RAMP                                       0900009000
+HOWARDSTOWN CONNECTOR                                       0900009000
+HOWARDSTOWN RD                                              0900009000
+HUBBARDS LN                                                 0900009000
+HUDSON DR                                                   0900009000
+HUGH ICE LOOP                                               0900009000
+HUGHES HILL LN                                              0900009000
+HUMPHREY LN                                                 0900009000
+HUMPHREY RD E                                               0900009000
+HUNTERS LN                                                  0900009000
+HUNTERS LN W                                                0900009000
+HUNTS LN                                                    0900009000
+HURRICANE HLS                                               0900009000
+HURSTBORNE DR                                               0900009000
+HURSTLAND CT                                                0900109001
+HURSTLAND DR                                                0900109001
+HUTCHINS LN                                                 0900009000
+HUTCHINS RIDGE RD                                           0900009000
+ICE RD                                                      0900009000
+ICETOWN RD                                                  0900009000
+ILLINOIS WAY                                                0900009000
+INDEPENDENCE AVE                                            0900009000
+INDIAN HILLS RD                                             0900009000
+INDIAN TRL                                                  0900109001
+IRELAND AVE                                                 0900109001
+IRISH RIDGE RD                                              0900009000
+IRON CREEK CIR                                              0900009000
+IROQUOIS TRCE                                               0900009000
+IRVINE CT                                                   0900009000
+ISAAC GREER CT                                              0900009000
+IVY AVE                                                     0900009000
+J R BALLARD LN                                              0900009000
+JACK DR                                                     0900109001
+JACOBS LN                                                   0900009000
+JAMES CT                                                    0900009000
+JEFFERSON AVE                                               0900009000
+JELLICO DR                                                  0900009000
+JESSICA DR                                                  0900009000
+JESSIE JAMES LN                                             0900009000
+JIM CLARK LOOP                                              0900009000
+JIM CLARK RD                                                0900009000
+JOE LYVERS RD                                               0900009000
+JOE NALLY LN                                                0900009000
+JOHN ROWAN RD                                               0900109001
+JOHNSON ST                                                  0900109001
+JONES AVE                                                   0900109001
+KALI CT                                                     0900109001
+KATE CT                                                     0900109001
+KEENELAND DR                                                0900009000
+KEITH KNOB RD                                               0900009000
+KELLY DR                                                    0900109001
+KENDALL MNR                                                 0900109001
+KENNEDY AVE                                                 0900009000
+KENTON DR                                                   0900109001
+KENTUCKY AVE                                                0900109001
+KENTUCKY HOME SQ                                            0900109001
+KENTUCKY HOME STATE PARK RD                                 0900109001
+KENTUCKY HOME STATE PARK SERVICE RD                         0900109001
+KENTWORTHE DR                                               0900009000
+KEYSTONE AVE                                                0900109001
+KILLARNEY DR                                                0900109001
+KIMBERLY RUN                                                0900109001
+KING RD                                                     0900009000
+KINGS CT                                                    0900109001
+KINGSTON CT                                                 0900109001
+KINSMEN DR                                                  0900109001
+KURTZ ST                                                    0900109001
+KY1066                                                      0900009000
+LAKESHORE DR                                                0900009000
+LAKEVIEW CT                                                 0900109001
+LAKEVIEW DR                                                 0900009000
+LANCASTER LN                                                0900009000
+LANDMARK DR                                                 0900009000
+LANGFORD MOBILE PARK                                        0900109001
+LARCH ST                                                    0900009000
+LASLEY RUN RD                                               0900009000
+LAUREL DR                                                   0900009000
+LAWRENCEBURG LOOP                                           0900009000
+LAWRENCEBURG RD                                             0900009000
+LEAMON FORD RD                                              0900009000
+LEBANON JUNCTION RD                                         0900009000
+LEGACY WAY                                                  0900009000
+LEIGH TER                                                   0900009000
+LENORE RD                                                   0900009000
+LEO CRUME LN                                                0900009000
+LEO SPALDING LN                                             0900009000
+LEONARD HALL RD                                             0900009000
+LEROY DR                                                    0900109001
+LESLIE BALLARD LN                                           0900009000
+LESLIE BALLARD LOOP                                         0900009000
+LESLIE CLARK RD                                             0900009000
+LEXINGTON CT                                                0900009000
+LIBERTY LN                                                  0900009000
+LICK CREEK RD                                               0900009000
+LIMESTONE BLVD                                              0900109001
+LINCOLN AVE                                                 0900009000
+LINDEN AVE                                                  0900009000
+LITTLE UNION RD                                             0900009000
+LITTLE UNION RD                                             0900309003
+LOBLOLLY CT                                                 0900009000
+LOCUST GROVE CT                                             0900009000
+LOCUST ST                                                   0900209002
+LOCUST ST                                                   0900409004
+LOMBARD CIR                                                 0900009000
+LONGLEAF CT                                                 0900009000
+LOOKOUT CT                                                  0900009000
+LORENZA CIR                                                 0900109001
+LORETTO RD                                                  0900009000
+LOUISVILLE RD                                               0900009000
+LOUISVILLE RD                                               0900109001
+LOVE RIDGE CONNECTOR                                        0900009000
+LOVE RIDGE RD                                               0900009000
+LUCKNOW CT                                                  0900109001
+LUCY DR                                                     0900109001
+LUDWICK DR                                                  0900009000
+LUTES LN                                                    0900009000
+LUTHERAN CHURCH RD                                          0900009000
+LYDDANE LN                                                  0900009000
+LYDIAN LOOP                                                 0900009000
+LYNN CT                                                     0900009000
+LYONS STATION RD                                            0900009000
+LYTLE CECIL LN                                              0900009000
+MACY CT                                                     0900009000
+MADISON AVE                                                 0900109001
+MAGGIE LN                                                   0900009000
+MAGNOLIA DR                                                 0900009000
+MAIDENS ALY                                                 0900109001
+MAIN AVE                                                    0900009000
+MAIN ST                                                     0900409004
+MAINSTREAM BLVD                                             0900109001
+MALLARDS LNDG                                               0900009000
+MANN DR                                                     0900009000
+MANOR AVE                                                   0900009000
+MANTON RD                                                   0900009000
+MAPLE CT                                                    0900009000
+MAPLE GROVE CT                                              0900109001
+MARIE DR                                                    0900009000
+MARKS LN                                                    0900009000
+MARR LN                                                     0900009000
+MARSHALL LN                                                 0900009000
+MARVIN DOWNS LN                                             0900009000
+MARY DR                                                     0900109001
+MARY JO BLVD                                                0900009000
+MASDEN RD                                                   0900009000
+MAUDE COOKSEY LN                                            0900009000
+MAXEY CT                                                    0900409004
+MAXINE ALY                                                  0900109001
+MAYWOOD AVE                                                 0900009000
+MCCUBBINS LN                                                0900009000
+MCDONALD DR                                                 0900009000
+MCDONALD LN                                                 0900009000
+MCDONNELL BLVD                                              0900109001
+MCGEE ST                                                    0900109001
+MCGOWAN AVE                                                 0900109001
+MCINTYRE EAST RD                                            0900009000
+MCINTYRE LN                                                 0900009000
+MCKAY AVE                                                   0900209002
+MCKENNA WAY                                                 0900109001
+MCQUIRE LN                                                  0900009000
+MEADOW DR                                                   0900009000
+MEADOW LN                                                   0900009000
+MEADOW RIDGE DR                                             0900009000
+MEADOWBROOK LN                                              0900009000
+MELODY DR                                                   0900009000
+METALWOOD DR                                                0900009000
+METRO AIRPORT DR                                            0900009000
+MILES LN                                                    0900209002
+MILL POND CT                                                0900109001
+MILL ST                                                     0900409004
+MILL STONE WAY                                              0900109001
+MILLCREEK LN                                                0900009000
+MILLER CALL LN                                              0900009000
+MILLER LN                                                   0900009000
+MILLER LN                                                   0900209002
+MILTON BROWN RD                                             0900009000
+MITCHELL RD                                                 0900209002
+MOBLEY MILL RD                                              0900009000
+MOCKINGBIRD LN                                              0900109001
+MONKS RD                                                    0900009000
+MOONSHINE CT                                                0900009000
+MOONSHINE DR                                                0900009000
+MOORE AVE                                                   0900109001
+MORGAN CT                                                   0900009000
+MORTON AVE                                                  0900009000
+MORTON AVE                                                  0900109001
+MT CARMEL CHURCH RD                                         0900009000
+MT MORIAH RD                                                0900009000
+MUIR ALY                                                    0900209002
+MULBERRY ALY                                                0900109001
+MURPHY LN                                                   0900009000
+MURRAYS RUN RD                                              0900009000
+MURRAYS RUN RD                                              0900309003
+MY OLD KENTUCKY HOME STATE PARK HOUSE RD                    0900109001
+N 1ST ST                                                    0900109001
+N 2ND ST                                                    0900109001
+N 3RD ST                                                    0900109001
+N 4TH ST                                                    0900109001
+N 5TH ST                                                    0900109001
+N ANN DR                                                    0900109001
+N ASPEN ST                                                  0900009000
+N CENTER ST                                                 0900109001
+N CHARITY HTS                                               0900009000
+N CHERRY ALY                                                0900109001
+N ELM GROVE AVE                                             0900109001
+N HIGH ST                                                   0900309003
+N HOWARD ST                                                 0900009000
+N KENNETT AVE                                               0900109001
+N MAIN ST                                                   0900409004
+N MULBERRY ALY                                              0900109001
+N PARKSIDE DR                                               0900109001
+N ROGAN DR                                                  0900109001
+N SALEM DR                                                  0900109001
+N SITKA ST                                                  0900009000
+N ST FRANCIS RD                                             0900009000
+N ST GREGORY CHURCH RD                                      0900009000
+N STILLWELL RD                                              0900009000
+N STRAWBERRY ALY                                            0900109001
+N VIEW DR                                                   0900109001
+NALL LN                                                     0900009000
+NALLY CT                                                    0900009000
+NASHVILLE DR                                                0900009000
+NAT ROGERS RD                                               0900009000
+NAVAJO DR                                                   0900009000
+NAZARETH DR                                                 0900009000
+NAZARETH RD                                                 0900109001
+NELLY DR                                                    0900109001
+NELSON AVE                                                  0900009000
+NELSONVILLE LN                                              0900009000
+NELSONVILLE LOOP                                            0900009000
+NELSONVILLE RD                                              0900009000
+NEW HAVEN CEMETERY LN                                       0900009000
+NEW HAVEN CEMETERY LN                                       0900409004
+NEW HAVEN RD                                                0900009000
+NEW HAVEN RD                                                0900109001
+NEW HOPE RD                                                 0900009000
+NEW SHEPHERDSVILLE RD                                       0900009000
+NEW SHEPHERDSVILLE RD                                       0900109001
+NEW VITTITOW LN                                             0900009000
+NEWTON VALLEY LN                                            0900009000
+NITA DR                                                     0900009000
+NOLAN MASTERSON LN                                          0900009000
+NORTH DR                                                    0900009000
+NORTHCAMP DR                                                0900109001
+NUTTER DR                                                   0900109001
+OAK HILL DR                                                 0900009000
+OAK KNOLL DR                                                0900009000
+OAK ST                                                      0900209002
+OAKLAWN DR                                                  0900109001
+OAKLEY CT                                                   0900109001
+OAKWOOD DR                                                  0900109001
+OCKERMAN LN                                                 0900009000
+OFINN CT                                                    0900109001
+OHIO CT                                                     0900009000
+OLD BLOOMFIELD PIKE                                         0900109001
+OLD BLOOMFIELD RD                                           0900009000
+OLD BOSTON RD                                               0900009000
+OLD FILIATREAU LN                                           0900109001
+OLD HENPECK RD                                              0900009000
+OLD NAZARETH RD                                             0900009000
+OLD NAZARETH RD                                             0900109001
+OLD NELSONVILLE RD                                          0900009000
+OLD STONEHOUSE RD                                           0900009000
+OLD STREET THOMAS RD                                        0900009000
+OLD SUTHERLAND PIKE                                         0900009000
+OLD TUNNEL MILL RD                                          0900009000
+OLD US 31E LOOP                                             0900409004
+OLDE TOWNE DR                                               0900009000
+OLYMPIA DR                                                  0900109001
+OPTIMIST PARK LN                                            0900409004
+ORA BRENT LN                                                0900009000
+ORANGE GROVE CT                                             0900009000
+OWINGS BLVD                                                 0900109001
+PACIFIC CT                                                  0900009000
+PADGETT WAY                                                 0900109001
+PAISLEY CT                                                  0900109001
+PALCO ST                                                    0900009000
+PAPPY CECIL LN                                              0900009000
+PARK AVE                                                    0900409004
+PARK CIR                                                    0900009000
+PARK ST                                                     0900209002
+PARKVIEW DR                                                 0900109001
+PARKWAY DR                                                  0900109001
+PARRISH BLVD                                                0900109001
+PASCAL BALLARD LN                                           0900009000
+PATRICK CT                                                  0900109001
+PATRIOT DR                                                  0900109001
+PATTON RD                                                   0900009000
+PAYNE ST                                                    0900109001
+PEABODY LOOP                                                0900009000
+PEACH ST                                                    0900009000
+PEACH STREET CUT ACROSS                                     0900009000
+PEAVLER LN                                                  0900009000
+PECAN DR                                                    0900009000
+PEMBROOKE DR                                                0900009000
+PENNEBAKER AVE                                              0900109001
+PENNSYLVANIA AVE                                            0900009000
+PERKINS LN                                                  0900009000
+PERKINS LOOP                                                0900009000
+PERMAN CLARK LN                                             0900009000
+PERRY ST                                                    0900209002
+PETE HAHN RD                                                0900009000
+PETE LN                                                     0900109001
+PETERSBURG RD                                               0900009000
+PIN OAK DR                                                  0900109001
+PINE VILLAGE DR                                             0900009000
+PINEHURST DR                                                0900009000
+PINETREE DR                                                 0900009000
+PINEVIEW DR                                                 0900109001
+PINEWOOD RD                                                 0900409004
+PINKSTON LN                                                 0900009000
+PIONEER PASS                                                0900109001
+PIPER DR                                                    0900009000
+PITTSBURGH ST                                               0900109001
+PLANTATION CIR                                              0900009000
+PLAZA DR                                                    0900109001
+PLEASANT VIEW RD                                            0900209002
+PLEASURE WOODS RD                                           0900009000
+PLEASUREFIELD AVE                                           0900009000
+PLUM RUN RD                                                 0900009000
+POLLEY DR                                                   0900009000
+POPLAR CIR                                                  0900009000
+POPLAR FLAT CEMETERY RD                                     0900009000
+POPLAR FLAT RD                                              0900009000
+POPLAR WOOD DR                                              0900009000
+PORTER LN                                                   0900009000
+PORTLAND AVE                                                0900009000
+POST OFFICE CT                                              0900009000
+POTTERSHOP LOOP                                             0900009000
+POTTERSHOP LOOP                                             0900109001
+POTTERSHOP RD                                               0900009000
+PRATHER LN                                                  0900009000
+PRATHER RIDGE RD                                            0900009000
+PREAKNESS DR                                                0900009000
+PRICE CREEK LN                                              0900009000
+PRICE CREEK LOOP                                            0900009000
+PRICE LN                                                    0900009000
+PULLIAM AVE                                                 0900109001
+PURCELL AVE                                                 0900109001
+PUTTERS PARK DR                                             0900009000
+QUARRY LN                                                   0900009000
+QUARRY LN E                                                 0900009000
+QUARRY LOOP                                                 0900009000
+QUIET SPRING DR                                             0900009000
+R L GREER LN                                                0900009000
+RAINBOW CT                                                  0900109001
+RAISOR LN                                                   0900009000
+RASPBERRY ALY                                               0900109001
+RAY WIMSETT BLVD                                            0900109001
+REARDON BLVD                                                0900109001
+RED OAK LN                                                  0900009000
+REDBUD DR                                                   0900009000
+REDMON CT                                                   0900109001
+REDMON ST                                                   0900109001
+REDWOOD DR                                                  0900009000
+REGENCY CT                                                  0900009000
+REMINGTON DR                                                0900009000
+REPUBLIC CT                                                 0900009000
+RICHARD DR                                                  0900009000
+RICHMOND CT                                                 0900009000
+RIDGEVIEW DR                                                0900409004
+RITCHIE LN                                                  0900009000
+RIVER CREST DR                                              0900109001
+RIVER VIEW DR                                               0900109001
+RIVERBROOKE DR                                              0900009000
+RIVERSIDE DR                                                0900209002
+ROBERT TAYLOR LN                                            0900009000
+ROBERTS RD                                                  0900009000
+ROBIN DR                                                    0900109001
+ROBINHOOD DR                                                0900009000
+ROBY DR                                                     0900109001
+ROCK CREEK LN                                               0900009000
+ROGERS CT                                                   0900109001
+ROLLING FORK CHURCH RD                                      0900009000
+ROLLING HILLS DR                                            0900009000
+ROSEBUD LN                                                  0900109001
+ROSEWOOD DR                                                 0900109001
+ROSSLAND DR                                                 0900009000
+ROWAN CREEK CONDOMINIUMS                                    0900109001
+ROYAL OAK LN                                                0900009000
+RUBY CT                                                     0900009000
+RUGER DR                                                    0900009000
+RUGER DR                                                    0900109001
+RUSSELL RD                                                  0900009000
+RUSSELL ST                                                  0900009000
+RUSSELL ST                                                  0900209002
+RUTH LN                                                     0900109001
+RYAN CT                                                     0900009000
+S 1ST ST                                                    0900109001
+S 2ND ST                                                    0900109001
+S 3RD ST                                                    0900109001
+S 4TH ST                                                    0900109001
+S 5TH ST                                                    0900109001
+S 6TH ST                                                    0900109001
+S ANN DR                                                    0900109001
+S ASPEN ST                                                  0900009000
+S CENTER ST                                                 0900109001
+S CHARITY HTS                                               0900009000
+S ELM GROVE AVE                                             0900009000
+S ELM GROVE AVE                                             0900109001
+S HIGH ST                                                   0900309003
+S HOWARD ST                                                 0900009000
+S KENNETT AVE                                               0900109001
+S MAIN ST                                                   0900009000
+S MAIN ST                                                   0900409004
+S PARKSIDE DR                                               0900109001
+S ROGAN DR                                                  0900109001
+S SALEM DR                                                  0900109001
+S SITKA ST                                                  0900009000
+S ST GREGORY CHURCH RD                                      0900009000
+S STILLWELL RD                                              0900009000
+SADDLEBROOK DR                                              0900009000
+SALT SPRING LOOP                                            0900009000
+SAMUELS CHURCH RD                                           0900009000
+SAMUELS LOOP                                                0900009000
+SAMUELS RD                                                  0900009000
+SANDERS LN                                                  0900009000
+SANDY HILL CT                                               0900009000
+SAPPHIRE RD                                                 0900009000
+SAWMILL RD                                                  0900009000
+SCENIC DR                                                   0900109001
+SCHOOL ALY                                                  0900109001
+SCHOOL ST                                                   0900409004
+SCHULER DR                                                  0900109001
+SCOTCH CT                                                   0900109001
+SEMINOLE CT                                                 0900009000
+SERVICE RD                                                  0900009000
+SERVICE RD N                                                0900009000
+SHADY LN                                                    0900009000
+SHADY LN                                                    0900109001
+SHAGBARK DR                                                 0900009000
+SHANNON DR                                                  0900009000
+SHAWNEE CT                                                  0900009000
+SHELBY ST                                                   0900209002
+SHERMAN OAKS DR                                             0900009000
+SHIRLEY AVE                                                 0900009000
+SHORT DR                                                    0900109001
+SHUMATE LN                                                  0900009000
+SIMMENTAL CREEK RIDGE                                       0900009000
+SIMON GREENWELL LN                                          0900009000
+SIMPSON CREEK RD                                            0900009000
+SIMPSON CREEK RD                                            0900209002
+SIMPSON RD                                                  0900009000
+SNYDER ALY                                                  0900209002
+SNYDER DR                                                   0900209002
+SOLITUDE RD                                                 0900009000
+SOUTH FORK DR                                               0900109001
+SPALDING AVE                                                0900109001
+SPALDING HOLLOW RD                                          0900009000
+SPALDING HOLLOW RD NE                                       0900009000
+SPENCER MATTINGLY LN                                        0900009000
+SPENCER MATTINGLY LN                                        0900109001
+SPRING CT                                                   0900009000
+SPRINGFIELD RD                                              0900009000
+SPRINGFIELD RD                                              0900109001
+SPRINGFIELD RD                                              0900209002
+SPRINGHILL DR                                               0900109001
+SPRINGHILL RD                                               0900009000
+SPRINGHURST DR                                              0900009000
+ST CATHERINE ST                                             0900409004
+ST JAMES CT                                                 0900109001
+ST PATRICK CT                                               0900109001
+ST THOMAS CT                                                0900009000
+ST THOMAS LN                                                0900009000
+ST THOMAS LOOP                                              0900009000
+STALLARD LN                                                 0900009000
+STATE PARK CAMPGROUND RD                                    0900109001
+STATE PARK CAMPGROUND ROAD SPUR                             0900109001
+STATE ST                                                    0900109001
+STEEPLE CHASE CT                                            0900009000
+STERLING CT                                                 0900009000
+STEVENS LN                                                  0900009000
+STILES DR                                                   0900109001
+STILES LN                                                   0900009000
+STILES RD                                                   0900009000
+STINSON DR                                                  0900009000
+STONEFIELD WAY                                              0900009000
+STONEHOUSE RD                                               0900009000
+STONEHOUSE RIDGE                                            0900009000
+STONEHOUSE TRL                                              0900009000
+STONER RD                                                   0900009000
+STRAWBERRY ALY                                              0900109001
+STREAMVIEW LN E                                             0900009000
+STREAMVIEW LN W                                             0900009000
+STRINGTOWN RD                                               0900009000
+STUMPH CT                                                   0900009000
+SULLIVAN LN                                                 0900009000
+SULPHUR LICK RD                                             0900009000
+SUMMERS LN                                                  0900009000
+SUMMIT HILL DR                                              0900009000
+SUNFISH CRK                                                 0900009000
+SUNSET DR                                                   0900109001
+SUNSHINE DR                                                 0900009000
+SURGE LN                                                    0900009000
+SUSANNAH AVE                                                0900109001
+SUTHERLAND LN                                               0900109001
+SUTHERLAND RD                                               0900009000
+SWEENEY RIDGE RD                                            0900009000
+SYCAMORE DR                                                 0900009000
+SYCAMORE SPRINGS RD                                         0900109001
+SYLVAN CONNECTOR DR                                         0900109001
+SYLVAN DR                                                   0900109001
+T BRADLEY LN                                                0900009000
+T HAHN RD                                                   0900009000
+TANOAK CT                                                   0900009000
+TAYLOR AVE                                                  0900109001
+TAYLORSVILLE RD                                             0900009000
+TAYLORSVILLE RD                                             0900209002
+TEMPLIN AVE                                                 0900009000
+TEMPLIN AVE                                                 0900109001
+TEMPLIN AVENUE CONNECTOR                                    0900109001
+TEN OAKS DR                                                 0900009000
+TERRAPIN LN                                                 0900009000
+TERRELL LN                                                  0900009000
+TEWELL CREEK LN                                             0900009000
+THOMAS LN                                                   0900009000
+THOMAS RIDGE                                                0900109001
+THOMPSON DONES RD                                           0900009000
+THOMPSON HILL RD                                            0900009000
+THORNSBURY LN                                               0900009000
+THORNSBURY LOOP                                             0900009000
+THRUWAY DR                                                  0900009000
+THUNDER SPRING DR                                           0900009000
+TICHENOR LN                                                 0900009000
+TIMBER CREEK RD                                             0900009000
+TIMBER TRAILS RD                                            0900009000
+TIMBERWOOD CT                                               0900009000
+TOLLGATE RD                                                 0900009000
+TOM BALLARD RD                                              0900009000
+TOM GREER RD                                                0900009000
+TOM VITTITOW LN                                             0900009000
+TOPEKA LN                                                   0900009000
+TRAILER PARK DR                                             0900109001
+TREETOP DR                                                  0900009000
+TRINITY CEMETERY LOOP                                       0900009000
+TRIPLE FIVE HWY                                             0900009000
+TUCKER DR                                                   0900109001
+TULIP DR                                                    0900009000
+TUNNEL MILL RD                                              0900009000
+TURNER LANE CONNECTOR                                       0900009000
+TURNER LN                                                   0900009000
+TWIN CINEMA LN                                              0900109001
+TWIN ISLAND LN                                              0900009000
+TWIN OAKS DR                                                0900009000
+TYLER CT                                                    0900109001
+UNBRIDLED CT                                                0900009000
+UNION CIR                                                   0900009000
+VALLEY SPRING CT                                            0900009000
+VALLEY VIEW DR                                              0900109001
+VAN BUREN RD                                                0900009000
+VENETIAN WAY                                                0900009000
+VENUS CT                                                    0900109001
+VERSAILLES CT                                               0900009000
+VICKI DR                                                    0900009000
+VICTORY LN                                                  0900209002
+VILLAGE DR                                                  0900009000
+VIRGINIA AVE                                                0900009000
+VISTA CT                                                    0900109001
+VITTITOW FORD RD                                            0900009000
+W 1ST ST                                                    0900309003
+W BEALL AVE                                                 0900109001
+W BRASHEAR AVE                                              0900109001
+W BROADWAY                                                  0900109001
+W DAUGHERTY AVE                                             0900109001
+W FLAGET AVE                                                0900109001
+W FORREST AVE                                               0900109001
+W HALSTEAD AVE                                              0900109001
+W JOHN FITCH AVE                                            0900109001
+W JOHN ROWAN BLVD                                           0900009000
+W JOHN ROWAN BLVD                                           0900109001
+W MAIN ST                                                   0900309003
+W MILESTONE CT                                              0900009000
+W MUIR AVE                                                  0900109001
+W SANDSTONE CT                                              0900009000
+W STEPHEN FOSTER AVE                                        0900109001
+W T THOMPSON LN                                             0900009000
+WALDRIDGE RD                                                0900009000
+WALKER LN                                                   0900009000
+WALNUT CREEK DR                                             0900009000
+WALNUT GROVE CT                                             0900109001
+WALTER HALL RD                                              0900009000
+WARRINGTON DR                                               0900109001
+WASHINGTON AVE                                              0900009000
+WATER PLANT LN                                              0900009000
+WATERTANK RD                                                0900009000
+WATERTOWER LOOP                                             0900009000
+WATTS CT                                                    0900109001
+WAVERLY DR                                                  0900009000
+WEDGEWOOD DR                                                0900009000
+WELCH LN                                                    0900009000
+WELLER LOOP                                                 0900009000
+WELLS LN                                                    0900009000
+WEST DR                                                     0900009000
+WESTLAND DR                                                 0900009000
+WESTRIDGE CT                                                0900009000
+WESTVIEW CT                                                 0900109001
+WESTVIEW DR                                                 0900109001
+WESTWIND TRL                                                0900109001
+WETHERBY AVE                                                0900009000
+WHEELER RD                                                  0900009000
+WHEELER WRIGHT LN                                           0900009000
+WHEELING AVE                                                0900109001
+WHIRLAWAY CT                                                0900009000
+WHISPERING OAK DR                                           0900009000
+WHISPERING OAK LOOP                                         0900009000
+WHITE OAK LN                                                0900009000
+WHITESIDES RD                                               0900009000
+WHITNEY DR                                                  0900009000
+WICKLAND CT                                                 0900109001
+WICKLIFFE RD                                                0900209002
+WILBLE BLVD                                                 0900109001
+WILDCAT LN                                                  0900109001
+WILDROSE CT                                                 0900009000
+WILDWOOD DR                                                 0900009000
+WILKERSON RD                                                0900009000
+WILKERSON RD                                                0900309003
+WILLIE BALLARD LN                                           0900009000
+WILLISBURG RD                                               0900009000
+WILLOW CT                                                   0900009000
+WILLOWSPRING LN                                             0900009000
+WILSON CREEK RD                                             0900009000
+WILSON CREEK SPUR RD                                        0900009000
+WILSON PKWY                                                 0900109001
+WIMBLEDON CT                                                0900109001
+WIMSATT SCHOOL LN                                           0900009000
+WINCHESTER CT                                               0900109001
+WINDERMERE CT                                               0900109001
+WINDRIFT CT                                                 0900009000
+WINDSOR AVE                                                 0900109001
+WINESAP DR                                                  0900009000
+WIRE LN                                                     0900009000
+WITHROW CREEK RD                                            0900009000
+WITHROW CT                                                  0900109001
+WOODHILL RD                                                 0900009000
+WOODLAND DR                                                 0900109001
+WOODLAWN CONNECTOR                                          0900009000
+WOODLAWN RD                                                 0900009000
+WOODLAWN RD                                                 0900109001
+WOODLAWN SPRINGS                                            0900009000
+WOODS RUN RD                                                0900109001
+WOODSIDE DR                                                 0900009000
+XAVIER DR                                                   0900109001
+YATES COONEY NECK RD                                        0900009000
+YORKSHIRE DR                                                0900109001

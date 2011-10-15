@@ -1,0 +1,441 @@
+AHLENA WAY                                                  1150011500
+AIRPORT LN                                                  1150011500
+ALLEY NO1                                                   1150111501
+ALLEY NO2                                                   1150111501
+ALLEY NO3                                                   1150111501
+ALMA AVE                                                    1150111501
+ANTIOCH CHURCH LN                                           1150011500
+ARKS WAY LN                                                 1150011500
+ARMORY HL                                                   1150111501
+ARNOLD RD                                                   1150011500
+ASHLEY AVE                                                  1150011500
+BAKER RD                                                    1150011500
+BAKER RIDGE RD                                              1150011500
+BALL ST                                                     1150111501
+BARDSTOWN RD                                                1150011500
+BARDSTOWN RD                                                1150111501
+BARNETT LN                                                  1150011500
+BATTLE RD                                                   1150011500
+BATTLEFIELD RD                                              1150011500
+BEAR WALLOW RD                                              1150011500
+BEECH LN                                                    1150011500
+BEECHLAND RD                                                1150011500
+BELL VISTA DR                                               1150111501
+BEN MINOR RIDGE RD                                          1150011500
+BERRY MILL RD                                               1150011500
+BG9002 E                                                    1150011500
+BG9002 E EXIT42 OFF RAMP TO TERRELL RIDGE RD                1150011500
+BG9002 E EXIT42 OFF RAMP TO TERRELL RIDGE RD N              1150011500
+BG9002 E EXIT42 OFF RAMP TO TERRELL RIDGE RD S              1150011500
+BG9002 E EXIT42 ON RAMP FROM TERRELL RIDGE RD               1150011500
+BG9002 E EXIT42 ON RAMP FROM TERRELL RIDGE RD N             1150011500
+BG9002 E EXIT42 ON RAMP FROM TERRELL RIDGE RD S             1150011500
+BG9002 W                                                    1150011500
+BG9002 W EXIT42 OFF RAMP TO TERRELL RIDGE RD                1150011500
+BG9002 W EXIT42 OFF RAMP TO TERRELL RIDGE RD N              1150011500
+BG9002 W EXIT42 OFF RAMP TO TERRELL RIDGE RD S              1150011500
+BG9002 W EXIT42 ON RAMP FROM TERRELL RIDGE RD               1150011500
+BG9002 W EXIT42 ON RAMP FROM TERRELL RIDGE RD N             1150011500
+BG9002 W EXIT42 ON RAMP FROM TERRELL RIDGE RD S             1150011500
+BLACK LN                                                    1150011500
+BLANDFORD RD                                                1150011500
+BLOOMFIELD RD                                               1150011500
+BLOOMFIELD RD                                               1150111501
+BLUE HERON WAY                                              1150011500
+BLUEGRASS RD                                                1150011500
+BOB O LINK DR                                               1150111501
+BONNIE BLVD                                                 1150111501
+BOOKER RD                                                   1150011500
+BOOKER RD                                                   1150111501
+BOSWELL LN                                                  1150011500
+BOTLAND RD                                                  1150011500
+BROOKSIDE DR                                                1150011500
+BROTHERS LN                                                 1150011500
+BRUNERS LN                                                  1150011500
+BRUSH GROVE CHURCH LN                                       1150011500
+BRUSH GROVE RD                                              1150011500
+BUDDY CHESSER LN                                            1150011500
+BUDDY HOLLOW LN                                             1150011500
+BURCHETTE LN                                                1150011500
+BURG HILL LN                                                1150011500
+BURNS LN                                                    1150011500
+BUSHTOWN RD                                                 1150011500
+C V CORNISH RD                                              1150011500
+CAMP CALVARY LN                                             1150011500
+CAMP GROUND LN                                              1150011500
+CAMP RUN RD                                                 1150011500
+CANARY CT                                                   1150111501
+CANE RUN RD                                                 1150011500
+CANEY BRANCH RD                                             1150011500
+CANNEY LN                                                   1150011500
+CARDINAL DR                                                 1150111501
+CARDWELL RD                                                 1150011500
+CARDWELL TABLOW RD                                          1150011500
+CAREY LN                                                    1150011500
+CAROLYN CT                                                  1150111501
+CARRICO LN                                                  1150011500
+CARTWRIGHT RD                                               1150011500
+CASH LN                                                     1150011500
+CATHYS CT                                                   1150111501
+CEDAR RIDGE LN                                              1150011500
+CEDARWOOD LN                                                1150011500
+CEMETERY HL                                                 1150111501
+CEMETERY LN                                                 1150311503
+CEMETERY LOOP LN                                            1150311503
+CEMETERY RD                                                 1150311503
+CHAPLIN RD                                                  1150011500
+CHESTNUT AVE                                                1150111501
+CIRCLE DR                                                   1150311503
+CIRCLE DRIVE EXT                                            1150311503
+CISSELLVILLE RD                                             1150011500
+CLAY BROOK LN                                               1150011500
+CLAYBROOK AVE                                               1150111501
+CLEARVIEW DR                                                1150011500
+CLOYD LN                                                    1150011500
+CO OP DR                                                    1150011500
+COCANOUGHER LN                                              1150011500
+COLEMAN LN                                                  1150011500
+COLLEGE ST                                                  1150111501
+COLUMBUS LN                                                 1150011500
+COLVIN LN                                                   1150011500
+COMMANDER CT                                                1150011500
+COMMERCIAL AVE                                              1150111501
+CONNOR RD                                                   1150011500
+COOL MEADOWS                                                1150011500
+CORPORATE DR                                                1150111501
+COULTER LN                                                  1150011500
+COUNTRY CREST DR                                            1150011500
+COUNTRY VIEW LN                                             1150011500
+COVINGTON AVE                                               1150111501
+COYLE LN                                                    1150011500
+CRAIN LN                                                    1150011500
+CROAKES STATION RD                                          1150011500
+CURTSINGER LN                                               1150011500
+DAVID AVE                                                   1150111501
+DAVIS RD                                                    1150011500
+DEEP CREEK RD                                               1150011500
+DELENA DR                                                   1150011500
+DEN BO RD                                                   1150011500
+DEPOT ST                                                    1150111501
+DERRINGER CT                                                1150111501
+DERRINGER RD                                                1150011500
+DOE RUN LN                                                  1150011500
+DOMINIC ALY                                                 1150111501
+DOMINICAN VIEW DR                                           1150011500
+DOMUS CT                                                    1150111501
+DRURY RD                                                    1150011500
+DUCKWOOD LN                                                 1150011500
+DURR LN                                                     1150011500
+DYLAN WAY LN                                                1150011500
+E BALLARD ST                                                1150111501
+E BEECHWOOD DR                                              1150011500
+E FORK RD                                                   1150011500
+E GRUNDY AVE                                                1150011500
+E GRUNDY AVE                                                1150111501
+E HIGH ST                                                   1150111501
+E INDUSTRY DR                                               1150111501
+E MAIN ST                                                   1150111501
+E MCCORD ST                                                 1150111501
+E VIRGINIA AVE                                              1150111501
+EAST FORK RD                                                1150011500
+EAST RD                                                     1150011500
+EDDLEMAN COURT EXT                                          1150111501
+EDDLEMAN CT                                                 1150111501
+EDELEN RD                                                   1150011500
+FAIR DR                                                     1150111501
+FAIRGROUND LN                                               1150111501
+FAIRLANE LN                                                 1150011500
+FARMVIEW LN                                                 1150011500
+FAY ST                                                      1150111501
+FENWICK LN                                                  1150011500
+FIELDTOWN ST                                                1150111501
+FILIATREAU LN                                               1150011500
+FOREST LN                                                   1150011500
+FORKS LN                                                    1150011500
+FOSTER DR                                                   1150011500
+FOSTER DR                                                   1150311503
+FOWLER LN                                                   1150011500
+FREDERICKTOWN BARDSTOWN RD                                  1150011500
+FREDERICKTOWN RD                                            1150011500
+FROMAN RD                                                   1150011500
+FURMAN LN                                                   1150011500
+GARDEN CT                                                   1150111501
+GEORGE EDWARD AVE                                           1150111501
+GEORGIE LN                                                  1150011500
+GLENNS CREEK RD                                             1150011500
+GOATLEY LN                                                  1150011500
+GORDON FORD LN                                              1150011500
+GRAPEVINE LN                                                1150011500
+GRAVES LN                                                   1150011500
+GREEN MEADOWS                                               1150011500
+GREEN MEADOWS LN                                            1150011500
+GREEN ST                                                    1150011500
+GREEN STREET SPUR                                           1150011500
+GREGORY LN                                                  1150011500
+GRIESE LN                                                   1150011500
+GRIGSBY LN                                                  1150011500
+GRUNDY HOME RD                                              1150011500
+HAGAN LN                                                    1150011500
+HALL LN                                                     1150011500
+HALL LOOP RD                                                1150011500
+HARDESTY RD                                                 1150011500
+HARDIN CHAPEL LN                                            1150011500
+HARDIN LN                                                   1150011500
+HARMON LN                                                   1150011500
+HARMON SPUR LN                                              1150011500
+HARMONY WAY                                                 1150011500
+HARRODSBURG RD                                              1150011500
+HARRODSBURG RD                                              1150211502
+HATCHETT LN                                                 1150011500
+HAYDON ALY                                                  1150111501
+HAYDON BROTHERS RD                                          1150011500
+HAYDON FORK LN                                              1150011500
+HAYDON LN                                                   1150011500
+HAYS LN                                                     1150011500
+HICKORY CAMP RD                                             1150011500
+HIGHLAND PARK ST                                            1150311503
+HIGHVIEW LN                                                 1150011500
+HILLCREST LN                                                1150011500
+HILLSBORO LN                                                1150011500
+HILLTOP CT                                                  1150111501
+HOLDERMAN LN                                                1150011500
+HOOD LN                                                     1150011500
+HUGHES ALY                                                  1150111501
+HUGHES LN                                                   1150011500
+HUMES LN                                                    1150011500
+HUMMINGBIRD LN                                              1150011500
+INDUSTRIAL ACCESS RD                                        1150111501
+ISHAM LN                                                    1150011500
+JACKSON BRANCH LN                                           1150011500
+JACKSON BRANCH SPUR LN                                      1150011500
+JENKINS LN                                                  1150011500
+JENKINS LN                                                  1150311503
+JIMTOWN RD                                                  1150011500
+JOHNSON RD                                                  1150011500
+JONES LN                                                    1150011500
+KALARAMA DR                                                 1150011500
+KAYS RD                                                     1150011500
+KEENE LN                                                    1150011500
+KEENELAND RD                                                1150011500
+KELLY BROTHERS LN                                           1150011500
+KELLY CORNER LN                                             1150011500
+KELLY SHOP RD                                               1150011500
+KENDRICK LN                                                 1150011500
+KENTUCKY AVE                                                1150111501
+KEY LN                                                      1150011500
+KIDWELL LN                                                  1150011500
+KIRSH LN                                                    1150011500
+KIRSH RIDGE LN                                              1150011500
+LAKELAND DR                                                 1150011500
+LAKEVIEW DR                                                 1150011500
+LAKEVIEW MANOR CT                                           1150011500
+LAKEVIEW MANOR DR                                           1150011500
+LANHAM RD                                                   1150011500
+LAWRENCEBURG RD                                             1150011500
+LAWRENCEBURG RD                                             1150311503
+LAWSON LN                                                   1150011500
+LEBANON HILL RD                                             1150011500
+LEBANON HILL RD                                             1150111501
+LEBANON RD                                                  1150011500
+LEES PIKE RD                                                1150011500
+LEWIS LN                                                    1150011500
+LINCOLN DR                                                  1150111501
+LINCOLN PARK RD                                             1150011500
+LINCOLN PARK RD                                             1150111501
+LITTLE DAVIS LN                                             1150011500
+LOGAN HILL RD                                               1150011500
+LOGAN RD                                                    1150011500
+LOGSDON LN                                                  1150011500
+LOIS LN                                                     1150011500
+LONG LICK LN                                                1150011500
+LONG RUN RD                                                 1150011500
+LORETTO RD                                                  1150011500
+MACKVILLE CEMETERY DRIVE NO1                                1150011500
+MACKVILLE CEMETERY DRIVE NO2                                1150011500
+MACKVILLE ELEMENTARY SCHOOL DR                              1150211502
+MACKVILLE HILL RD                                           1150011500
+MACKVILLE HILL RD                                           1150111501
+MACKVILLE RD                                                1150011500
+MACKVILLE WILLISBURG RD                                     1150011500
+MACKVILLE WILLISBURG RD                                     1150211502
+MACKVILLE WILLISBURG RD                                     1150311503
+MAIN ST                                                     1150211502
+MAIN ST                                                     1150311503
+MAKERS MARK RD                                              1150011500
+MALLARD POINT LN                                            1150011500
+MANLEY LN                                                   1150011500
+MANTON RD                                                   1150011500
+MANTON SPUR RD                                              1150011500
+MAPLEWOOD AVE                                               1150111501
+MARCUM LN                                                   1150011500
+MARSHALL LN                                                 1150011500
+MASONIC AVE                                                 1150311503
+MATTINGLY LN                                                1150011500
+MAYES AVE                                                   1150111501
+MAYES CREEK RD                                              1150011500
+MAYFIELD LN                                                 1150011500
+MCCAN RIDGE LN                                              1150011500
+MCLAIN RD                                                   1150011500
+MCLANE ST                                                   1150111501
+MCMURTRY LN                                                 1150011500
+MEADOW LN                                                   1150111501
+MELANCHOLY LN                                               1150011500
+MELAVIN CIR                                                 1150111501
+MIDWAY LN                                                   1150011500
+MILLER AVE                                                  1150111501
+MILLION LN                                                  1150011500
+MITCHELL LN                                                 1150011500
+MOCKINGBIRD DR                                              1150111501
+MONTGOMERY LN                                               1150011500
+MONTGOMERY LN S                                             1150011500
+MORAJA LN                                                   1150011500
+MORELAND CT                                                 1150011500
+MT FREEDOM LN                                               1150011500
+MT ZION RD                                                  1150011500
+MUDD AND KELLY LN                                           1150011500
+MUDDS TRAILER PARK                                          1150111501
+MURRAY SMITH LN                                             1150011500
+N CHURCH ST                                                 1150211502
+N CROSS MAIN ST                                             1150111501
+N DOCTOR ST                                                 1150111501
+N LOCUST ST                                                 1150111501
+N WALNUT ST                                                 1150111501
+NALLY WAY                                                   1150111501
+NAMON CHESSER LN                                            1150011500
+NEAL AVE                                                    1150111501
+NEWBY LN                                                    1150011500
+NEWTON RD                                                   1150011500
+NOEL LN                                                     1150011500
+OAK DR                                                      1150111501
+OLD CISSELLVILLE LOOP                                       1150011500
+OLD ELIZABETHTOWN RD                                        1150011500
+OLD FRANKFORT LN                                            1150011500
+OLD KY 152 LOOP NO2                                         1150011500
+OLD LEBANON RD                                              1150011500
+OLD LEBANON ROAD CONNECTOR                                  1150011500
+OLD PERRYVILLE RD                                           1150011500
+ONE POLICE DR                                               1150111501
+OSBOURNE RD                                                 1150011500
+PARKER ALY                                                  1150211502
+PEARL HARBOR LN                                             1150011500
+PERRYVILLE LOOP                                             1150011500
+PERRYVILLE LOOP CONNECTOR                                   1150011500
+PERRYVILLE RD                                               1150011500
+PERRYVILLE RD                                               1150111501
+PINE WAY LN                                                 1150311503
+PLAINVIEW CT                                                1150111501
+PLEASANT DR                                                 1150011500
+PLEASANT GROVE LOOP                                         1150011500
+PLEASANT RUN RD                                             1150011500
+POLIN RD                                                    1150011500
+POTTSVILLE RD                                               1150011500
+POWELL LN                                                   1150011500
+PRATHER LN                                                  1150011500
+PRIVATE RD                                                  1150011500
+PROGRESS AVE                                                1150111501
+QUARRY LN                                                   1150011500
+RALEY LN                                                    1150011500
+RED STORE LN                                                1150011500
+RESERVOIR LN                                                1150011500
+REX CT                                                      1150011500
+RILEY CT                                                    1150111501
+RIVER BEND LN                                               1150011500
+RIVERVIEW LN                                                1150011500
+RIZER AVE                                                   1150111501
+ROCKBRIDGE LN                                               1150011500
+ROSARY HEIGHTS ST                                           1150111501
+ROSE WOOD DR                                                1150011500
+ROYAL GOLD CT                                               1150011500
+ROYALTY RIDGE RD                                            1150011500
+ROYE LN                                                     1150011500
+RUDD LN                                                     1150011500
+RUSH RUN LN                                                 1150011500
+RUSSELL LN                                                  1150011500
+S CHURCH ST                                                 1150211502
+S CROSS MAIN ST                                             1150111501
+S DOCTOR ST                                                 1150111501
+S LOCUST ST                                                 1150111501
+S WALNUT ST                                                 1150111501
+SADDLEBROOK ESTS                                            1150011500
+SAKURA DR                                                   1150111501
+SANDERS LN                                                  1150011500
+SCOTT LN                                                    1150011500
+SCOTT ST                                                    1150111501
+SCRUGGS LN                                                  1150011500
+SEAVILLE RD                                                 1150011500
+SEIBERT CREEK LN                                            1150011500
+SERENITY LN                                                 1150011500
+SETTLES LN                                                  1150011500
+SHARPSVILLE LN                                              1150011500
+SHARPSVILLE LOOP                                            1150011500
+SHAY LN                                                     1150011500
+SHEWMAKER LN                                                1150011500
+SHIELDS LN                                                  1150011500
+SHOP LN                                                     1150011500
+SHORT CREEK LN                                              1150011500
+SHORT LINE RD                                               1150011500
+SHORT ST                                                    1150111501
+SILVERTON HILLS RD                                          1150011500
+SIMMS LN                                                    1150011500
+SIMMSTOWN RD                                                1150011500
+SMITH LN                                                    1150011500
+SPAULDING LN                                                1150011500
+SPORTSMAN LN                                                1150311503
+SPRINGFIELD ELEMEMTARY SCHOOL DR                            1150111501
+ST CATHARINE ATHLETICS DR                                   1150011500
+ST CATHARINE COLLEGE DR                                     1150011500
+ST CATHARINE COLLEGE WEST DR                                1150011500
+ST IVO RD                                                   1150011500
+ST ROSE LEBANON RD                                          1150011500
+SULPHUR LICK RD                                             1150011500
+SUNSET DR                                                   1150011500
+TATHAM RIDGE RD                                             1150011500
+TATHAM SPRINGS RD                                           1150011500
+TAYLOR LN                                                   1150011500
+TAYLOR LN S                                                 1150011500
+TERRELL RIDGE RD                                            1150011500
+TEXAS LOOP RD                                               1150011500
+TEXAS MACKVILLE RD                                          1150011500
+TEXAS MACKVILLE RD                                          1150211502
+THREE LICK LN                                               1150011500
+THURMAN LN                                                  1150011500
+TICK CREEK RD                                               1150011500
+TINGLE LN                                                   1150111501
+TRENT LN                                                    1150011500
+TRIPLE FIVE HWY                                             1150011500
+TRIPLE FIVE HWY                                             1150111501
+TUCKER LN                                                   1150011500
+TUMEY LN                                                    1150011500
+TUMEY LN                                                    1150211502
+TURNER LN                                                   1150011500
+US150 BYP                                                   1150011500
+US150 BYP                                                   1150111501
+VALLEY HILL RD                                              1150011500
+VALLEY VIEW DR                                              1150311503
+VENETIA DR                                                  1150011500
+VIRGIN LN                                                   1150011500
+W B CARPENTER LN                                            1150011500
+W BALLARD ST                                                1150111501
+W GRUNDY AVE                                                1150111501
+W HIGH ST                                                   1150111501
+W INDUSTRY DR                                               1150111501
+W MAIN ST                                                   1150111501
+W MCCORD ST                                                 1150111501
+W TEXAS LN                                                  1150011500
+W VIRGINIA AVE                                              1150111501
+WALKER LN                                                   1150011500
+WALNUT DR                                                   1150311503
+WASHINGTON AVE                                              1150111501
+WATERTANK LN                                                1150011500
+WEBB RD                                                     1150011500
+WELLS LN                                                    1150011500
+WESLEY CHAPEL RD                                            1150011500
+WESLEY MILLER LN                                            1150011500
+WHEATLEY LN                                                 1150011500
+WHITE HALL RD                                               1150011500
+WHITE ST                                                    1150111501
+WILLIS LN                                                   1150011500
+WILSON RD                                                   1150011500
+WINDY WAY LN                                                1150011500
+WOODDUCK DR                                                 1150011500
+YOUNG LN                                                    1150011500

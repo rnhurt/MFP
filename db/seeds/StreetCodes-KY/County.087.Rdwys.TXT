@@ -1,0 +1,831 @@
+1ST ST                                                      0870008700
+2ND ST                                                      0870008700
+3RD ST                                                      0870008700
+A ST                                                        0870008700
+AARONS RUN RD                                               0870008700
+ADENA DR                                                    0870008700
+ADENA DRIVE SPUR                                            0870008700
+ADENA HILLS DR                                              0870008700
+AGEE LN                                                     0870008700
+AIRPORT RD                                                  0870008700
+ALEXA DR                                                    0870008700
+ALEXA DR                                                    0870108701
+ALLEN LN                                                    0870308703
+ALLIANCE DR                                                 0870008700
+ALMA LN                                                     0870008700
+AMANDA LN                                                   0870008700
+AMBURGEY LN                                                 0870008700
+AMBURGEY LN                                                 0870308703
+AMY BR                                                      0870008700
+AMYS CT                                                     0870008700
+ANDREW DR                                                   0870008700
+ANESSA LN                                                   0870008700
+ANITA CT                                                    0870008700
+ANN ST                                                      0870108701
+ANSON PL                                                    0870108701
+ANTWERP AVE                                                 0870108701
+APPERSON HTS                                                0870108701
+APPLEWOOD LN                                                0870108701
+ARLINGTON AVE                                               0870008700
+ARNOLD DR                                                   0870008700
+ARROWHEAD TRL                                               0870108701
+ASA MEANS RD                                                0870008700
+ASH GROVE DR                                                0870008700
+ASHGROVE DR                                                 0870008700
+ASHLEY CT                                                   0870008700
+ASHLYN DR                                                   0870108701
+AUGUSTA RD                                                  0870108701
+AZALEA CT                                                   0870108701
+AZEBERRYE LN                                                0870008700
+B ST                                                        0870008700
+BARNARD AVE                                                 0870108701
+BARNES RD                                                   0870008700
+BARNETT RD                                                  0870008700
+BAYBERRY CT                                                 0870108701
+BEACHMONT PL                                                0870008700
+BECRAFT RD                                                  0870308703
+BEDFORD JOHNSON RD                                          0870008700
+BEDFORD RD                                                  0870008700
+BEDFORD RD                                                  0870308703
+BELL FARM RD                                                0870008700
+BELMONT AVE                                                 0870008700
+BEN ST                                                      0870208702
+BENTBROOK DR                                                0870008700
+BENTEY DR                                                   0870108701
+BENTLEY DR                                                  0870008700
+BETTY LN                                                    0870008700
+BIGSTAFF CT                                                 0870108701
+BLAKE DR                                                    0870008700
+BLAKE DR                                                    0870308703
+BLAKE WAY                                                   0870008700
+BLUE SKY DR                                                 0870008700
+BLUEBERRY LN                                                0870008700
+BOB O LINK DR                                               0870108701
+BOONE AVE                                                   0870008700
+BOX ALY                                                     0870108701
+BRANDON WAY                                                 0870008700
+BRANDON WAY                                                 0870108701
+BRANHAM CEMETERY RD                                         0870008700
+BRENDA DR                                                   0870008700
+BRENTWOOD DR                                                0870008700
+BRIARWOOD DR                                                0870108701
+BRIDGES RD                                                  0870008700
+BRIDGETT DR                                                 0870108701
+BRISTOL LN                                                  0870008700
+BROADWAY ST                                                 0870108701
+BROOK DR                                                    0870008700
+BROOKMEDE DR                                                0870108701
+BROOKS AVE                                                  0870108701
+BROOKVIEW DR                                                0870108701
+BROWN ST                                                    0870108701
+BRUCE PROFESSIONAL PARK                                     0870008700
+BUCHANNAN ST                                                0870108701
+BUCKHORN TRL                                                0870008700
+BUFFALO TRACE DR                                            0870008700
+BUNKER HILL RD                                              0870008700
+BURLEY DR                                                   0870008700
+BURLEY WAY                                                  0870008700
+C ST                                                        0870008700
+CADENCE BRANCH DR                                           0870008700
+CAITLYN CT                                                  0870008700
+CALK AVE                                                    0870108701
+CALK LAKE RD                                                0870008700
+CAMARGO ELEMENTARY SCHOOL BUS DR                            0870208702
+CAMARGO ELEMENTARY SCHOOL DR                                0870208702
+CAMARGO HEIGHTS DR                                          0870208702
+CAMARGO LEVEE RD                                            0870008700
+CAMARGO LEVEE RD                                            0870208702
+CAMARGO RD                                                  0870008700
+CAMARGO RD                                                  0870108701
+CAMARGO RD                                                  0870208702
+CAMARGO RD                                                  0870308703
+CAMERON DR                                                  0870008700
+CAMPBELL LN                                                 0870008700
+CAMPBELL WAY                                                0870108701
+CANDLEWOOD CT                                               0870108701
+CARDINAL DR                                                 0870108701
+CARDINAL LN                                                 0870108701
+CARDINAL WAY                                                0870008700
+CARTWRIGHT RD                                               0870208702
+CASSIDY LN                                                  0870008700
+CATUS CT                                                    0870008700
+CECIL RD                                                    0870008700
+CENTER LN                                                   0870008700
+CHAMBERS LN                                                 0870008700
+CHAMBERS LN                                                 0870308703
+CHANDLER LN                                                 0870008700
+CHAPPEL LN                                                  0870208702
+CHARLES CT                                                  0870008700
+CHASE LN                                                    0870008700
+CHENAULT DR                                                 0870108701
+CHENAULT LN                                                 0870008700
+CHENAULT LN                                                 0870108701
+CHERIE DR                                                   0870008700
+CHERRY CT                                                   0870008700
+CHESTNUT LN                                                 0870108701
+CHILES HWY                                                  0870008700
+CHIPKAPIN WAY                                               0870008700
+CHRISTIAN WAY                                               0870008700
+CHURCH OF GOD RD                                            0870008700
+CHURCH RD                                                   0870008700
+CHURCH RD                                                   0870308703
+CITY CT                                                     0870208702
+CLAK AVE                                                    0870108701
+CLARENCE DR                                                 0870008700
+CLAY COMMUNITY CENTER                                       0870008700
+CLAY LICK RD                                                0870008700
+CLAY LICK RD                                                0870308703
+CLAY ST                                                     0870108701
+CLAYTON CT                                                  0870008700
+CLEAR WATER WAY                                             0870108701
+CLEVINGER LN                                                0870008700
+CLUBHOUSE LN                                                0870108701
+COBBLER LN E                                                0870108701
+COLLIER WAY                                                 0870108701
+COLLINS AVE                                                 0870008700
+COLONIAL DR                                                 0870008700
+COMMERCE CIR                                                0870008700
+COMMONWEALTH DR                                             0870108701
+COMO ST                                                     0870108701
+COMPTON RD                                                  0870008700
+COMPTON RD                                                  0870308703
+COOK BRANCH RD                                              0870008700
+COOK BRANCH RD                                              0870308703
+COONS FARM RD                                               0870008700
+COOPER LN                                                   0870008700
+COOPER LN                                                   0870208702
+COOPER RD                                                   0870008700
+COREY LN                                                    0870008700
+CORNER ACRES                                                0870008700
+COTTONWOOD LN                                               0870008700
+COUNTRY HEIGHTS DR                                          0870008700
+COUNTRY MEADOWS LN                                          0870008700
+COUNTRY SIDE CT                                             0870008700
+COUNTRYSIDE DR                                              0870008700
+COURT ST                                                    0870108701
+COURTNEY CIR                                                0870008700
+CRANE AVE                                                   0870008700
+CREAM ALLEY RD                                              0870008700
+CREEKSIDE CIR                                               0870008700
+CRESCENT DR                                                 0870008700
+CRESTVIEW DR                                                0870008700
+CROSS CREEK DR                                              0870008700
+CRYSTAL SPRINGS DR                                          0870008700
+CULPEPPER DR                                                0870108701
+CUNNINGHAM LN                                               0870008700
+CURRAN LN                                                   0870008700
+D ST                                                        0870008700
+DANIEL LN                                                   0870008700
+DANIEL LN                                                   0870308703
+DARE DR                                                     0870108701
+DARLEY CRK                                                  0870108701
+DAVIS HOLLOW RD                                             0870008700
+DAVIS RD                                                    0870008700
+DEBLYNN CT                                                  0870008700
+DEERVIEW DR                                                 0870008700
+DELAINEY DR                                                 0870008700
+DENBY PL                                                    0870108701
+DENNY LN                                                    0870008700
+DERBY DR                                                    0870008700
+DEVONNE DR                                                  0870008700
+DIAMOND CT                                                  0870008700
+DIANE CT                                                    0870008700
+DICE LN                                                     0870008700
+DOE RUN DR                                                  0870008700
+DONALDSON RD                                                0870008700
+DOUBLE GATE RD                                              0870008700
+DOUBLE M LN                                                 0870008700
+DOUBLE TREE CT                                              0870008700
+DOUGLAS ST                                                  0870008700
+DOVE TRACE EST                                              0870008700
+DRAKE DR                                                    0870008700
+DRESDEN WAY                                                 0870108701
+DUNBAR ST                                                   0870008700
+DUNDEE CT                                                   0870008700
+DUNTREE RD                                                  0870008700
+DURBRIDGE DR                                                0870108701
+DUSTY LN                                                    0870008700
+E CLASSIC VILLAGE LN                                        0870008700
+E HIGH ST                                                   0870108701
+E LEGEND DR                                                 0870008700
+E LOCUST ST                                                 0870008700
+E LOCUST ST                                                 0870108701
+E MAIN ST                                                   0870008700
+E MAIN ST                                                   0870108701
+E PATTON RD                                                 0870008700
+E ST                                                        0870008700
+E VALLEYVIEW DR                                             0870008700
+EARLY LEARNING CENTER DR                                    0870108701
+EASTWOOD DR                                                 0870008700
+EDD ST                                                      0870208702
+EDGELAWN DR                                                 0870008700
+ELAINE DR                                                   0870008700
+ELDER CT                                                    0870008700
+ELIZABETH CT                                                0870108701
+ELL ST                                                      0870208702
+ELLEN AVE                                                   0870008700
+ELM ST                                                      0870108701
+ELMO GABBARD RD                                             0870008700
+ELMWOOD DR                                                  0870008700
+EMERALD DR                                                  0870008700
+ENTERPRISE DR                                               0870108701
+EQUESTRIAN WAY                                              0870108701
+ESTES CT                                                    0870208702
+ESTES LN                                                    0870208702
+ESTILL ST                                                   0870108701
+ESTILL TER                                                  0870108701
+EUBANK TRAILER PARK                                         0870008700
+EUBANK TRAILER PARK LOOP                                    0870008700
+EUBANK TRAILER PIKE                                         0870008700
+EVANS AVE                                                   0870108701
+EVERETT CT                                                  0870108701
+EVERGREEN CT                                                0870008700
+EWINGTON MHP ST                                             0870008700
+F D R RD                                                    0870008700
+FAIRFIELD DR                                                0870008700
+FAIRGROUND RD                                               0870008700
+FAIRVIEW AVE                                                0870008700
+FALCON DR                                                   0870108701
+FAWNS LN                                                    0870008700
+FAY ST                                                      0870008700
+FICKLIN RD                                                  0870008700
+FICKLIN RD                                                  0870308703
+FLINT DR                                                    0870008700
+FLOYD DR                                                    0870108701
+FOGG PIKE                                                   0870008700
+FOGG PIKE CONNECTOR                                         0870008700
+FORBES LN                                                   0870008700
+FORD AVE                                                    0870008700
+FOREST LAKE DR                                              0870008700
+FOREST LAKE DR                                              0870308703
+FORTUNE CEMETERY LN                                         0870008700
+FORTUNE LN                                                  0870008700
+FOSTER BR                                                   0870008700
+FOSTER BRANCH RD                                            0870008700
+FOSTER BRANCH SPUR                                          0870008700
+FOUR WINDS ESTATE DR                                        0870008700
+FOX CHASE CT                                                0870008700
+FOX LANE RD                                                 0870008700
+FOX RD                                                      0870008700
+FOX RUN TRL                                                 0870008700
+FOX ST                                                      0870108701
+FOXGLOVE DR                                                 0870008700
+FOXWAY DR                                                   0870008700
+FOY HIGHLEY RD                                              0870008700
+FRASURE LN                                                  0870008700
+FRENCHBURG RD                                               0870008700
+FRENCHBURG RD                                               0870108701
+FRENCHBURG RD                                               0870208702
+FRENCHBURG RD                                               0870308703
+FROG POND RD                                                0870008700
+FULLER RD                                                   0870308703
+FULLER WAY                                                  0870008700
+GALES TRL                                                   0870008700
+GARDEN SPRINGS DR                                           0870108701
+GARDNER LANE SPUR                                           0870008700
+GARDNER LN                                                  0870008700
+GATEWAY AVE                                                 0870208702
+GENERAL BEACH ST                                            0870108701
+GIBSON LN                                                   0870008700
+GILS LN                                                     0870008700
+GRASSY LICK LN                                              0870008700
+GRASSY LICK RD                                              0870008700
+GRASSYVIEW CT                                               0870008700
+GREEN ACRES RD                                              0870008700
+GREEN HILL WAY                                              0870008700
+GREENBRIER RD                                               0870008700
+GREENFIELD TRL                                              0870108701
+GREENHOUSE LN                                               0870008700
+GREENLAND CT                                                0870008700
+GREENLAND CT                                                0870108701
+GREENLEAF CT                                                0870008700
+GREER LN                                                    0870008700
+HAMILTON AVE                                                0870108701
+HAMLETT EAST DR                                             0870108701
+HAMLETT WEST DR                                             0870108701
+HARPERS RIDGE RD                                            0870008700
+HARRISON AVE                                                0870108701
+HARVEST DR                                                  0870008700
+HAVENS TRAILER PARK                                         0870008700
+HAWKINS DR                                                  0870108701
+HAWTHORN CT                                                 0870008700
+HAWTHORN WY                                                 0870008700
+HEATHER WAY                                                 0870008700
+HELENA DR                                                   0870008700
+HENDERSON RD                                                0870008700
+HENDERSON RD                                                0870308703
+HI CREST DR                                                 0870008700
+HIALEAH DR                                                  0870008700
+HICKORY RIDGE LN                                            0870008700
+HIGHLAND AVE                                                0870008700
+HIGHLAND DR                                                 0870008700
+HILL VIEW LN                                                0870008700
+HINKSTON PIKE                                               0870008700
+HINKSTON PIKE                                               0870108701
+HOBIE CT                                                    0870008700
+HOG CREEK RD                                                0870008700
+HOLLOW CREEK DR                                             0870008700
+HOLLY HILLS DR                                              0870008700
+HOLT AVE                                                    0870108701
+HOME AVE                                                    0870008700
+HONEYCUTT LN                                                0870008700
+HOPE HILL RD                                                0870008700
+HOPE MEANS RD                                               0870008700
+HOWARD AVE                                                  0870108701
+HOWARD CEMETERY                                             0870008700
+HOWARD LN                                                   0870008700
+HOWARDS MILL RD                                             0870008700
+HOWELL DRENNEN RD                                           0870008700
+HUBERT ST                                                   0870008700
+HUNTER RUN DR                                               0870008700
+HUNTERS TRL                                                 0870108701
+I64 E                                                       0870008700
+I64 E                                                       0870108701
+I64 E EXIT110 CROSSOVER US460                               0870108701
+I64 E EXIT110 OFF RAMP TO US460                             0870108701
+I64 E EXIT110 OFF RAMP TO US460 N                           0870108701
+I64 E EXIT110 OFF RAMP TO US460 S                           0870108701
+I64 E EXIT110 ON RAMP FROM US460                            0870108701
+I64 E EXIT110 ON RAMP FROM US460 N                          0870108701
+I64 E EXIT110 ON RAMP FROM US460 S                          0870108701
+I64 E EXIT113 OFF RAMP TO US60                              0870008700
+I64 E EXIT113 ON RAMP FROM US60                             0870008700
+I64 TURN AROUND105                                          0870008700
+I64 TURN AROUND115                                          0870008700
+I64 W                                                       0870008700
+I64 W                                                       0870108701
+I64 W EXIT110 CROSSOVER US460                               0870108701
+I64 W EXIT110 OFF RAMP TO US460                             0870108701
+I64 W EXIT110 OFF RAMP TO US460 N                           0870108701
+I64 W EXIT110 OFF RAMP TO US460 S                           0870108701
+I64 W EXIT110 ON RAMP FROM US460                            0870108701
+I64 W EXIT110 ON RAMP FROM US460 N                          0870108701
+I64 W EXIT110 ON RAMP FROM US460 S                          0870108701
+I64 W EXIT113 OFF RAMP TO US60                              0870008700
+I64 W EXIT113 ON RAMP FROM US60                             0870008700
+I64 W REST AREA108                                          0870008700
+INDIAN MOUND DR                                             0870008700
+INDIAN MOUND DR                                             0870108701
+INGRAM MHP ST                                               0870008700
+INTERSTATE DR                                               0870108701
+IRIS LN                                                     0870008700
+IRONWORKS RD                                                0870008700
+IROQUOIS DR                                                 0870008700
+JACANA CT                                                   0870008700
+JACKSON PL                                                  0870108701
+JACKSON ST                                                  0870108701
+JACOB LN                                                    0870008700
+JACS CT                                                     0870208702
+JAMES WAY                                                   0870008700
+JAMESON ST                                                  0870108701
+JAMIE RDG                                                   0870008700
+JAMIE RIDGE                                                 0870008700
+JENNY LN                                                    0870008700
+JEROME ST                                                   0870008700
+JEWELL CT                                                   0870008700
+JIMMY CT                                                    0870008700
+JOHN STUART DR                                              0870108701
+JOHNSON AVE                                                 0870108701
+JON TORI LN                                                 0870008700
+JONATHAN CT                                                 0870008700
+JOSIE LN                                                    0870008700
+JUNIOR ST                                                   0870208702
+JUNIPER CT                                                  0870108701
+KASANDRA WAY                                                0870108701
+KATELYNN BRANCH DR                                          0870008700
+KEAS ST                                                     0870008700
+KEENAN WAY                                                  0870008700
+KENNEDY CT                                                  0870108701
+KENTUCKY AVE                                                0870008700
+KEVIN PL                                                    0870008700
+KIDDVILLE RD                                                0870008700
+KIM CT                                                      0870008700
+KINDELBROOK CIR                                             0870008700
+KING LN                                                     0870008700
+KIRKHAVEN WAY                                               0870008700
+KY1050                                                      0870008700
+KY1050                                                      0870308703
+KY213                                                       0870008700
+KY213                                                       0870308703
+KY599                                                       0870008700
+KY599                                                       0870308703
+L TIPTON HILL RD                                            0870008700
+LAKE RD                                                     0870208702
+LAKE VALLEY DR                                              0870008700
+LAKEVIEW CIR                                                0870008700
+LAKEVIEW DR                                                 0870008700
+LAKEWOOD DR                                                 0870008700
+LARISON RD                                                  0870008700
+LARK AVE                                                    0870008700
+LARKIN BAY                                                  0870108701
+LARKSPUR DR                                                 0870108701
+LARKWOOD AVE                                                0870008700
+LEACH HOLLOW RD                                             0870008700
+LEAFLAND AVE                                                0870008700
+LECYNTO LODGES TRAILER PARK                                 0870208702
+LEE CT                                                      0870008700
+LESLIE CT                                                   0870008700
+LEVEE RD                                                    0870008700
+LEVEE RD                                                    0870108701
+LILY LN                                                     0870008700
+LINCOLN ST                                                  0870008700
+LINDEN CT                                                   0870008700
+LINDSAY ALY                                                 0870108701
+LISA DR                                                     0870008700
+LITTLE JO DR                                                0870208702
+LONG BRANCH RD                                              0870008700
+LONG LN                                                     0870008700
+LORENE CIR                                                  0870008700
+LORETTAS WAY                                                0870008700
+LOVELY CEMETERY                                             0870008700
+LOVELY CEMETERY                                             0870308703
+LOVELY LN                                                   0870008700
+LOVELY LN                                                   0870308703
+LOWER SPRUCE RD                                             0870008700
+LOWER SPRUCE RD                                             0870308703
+LUCOMBE CIR                                                 0870008700
+LYON AVE                                                    0870008700
+MACEDONIAN CT                                               0870008700
+MACKIE ST                                                   0870108701
+MADINA CT                                                   0870108701
+MADISON LN                                                  0870008700
+MADISON SPRINGS                                             0870108701
+MAGNOLIA DR                                                 0870108701
+MAIN ST                                                     0870308703
+MALLARD DR                                                  0870008700
+MALONEY RD                                                  0870008700
+MALONEY WAY                                                 0870108701
+MANNIX LN                                                   0870108701
+MAPLE CT                                                    0870008700
+MAPLE LEAF CT                                               0870008700
+MAPLE RIDGE RD                                              0870008700
+MAPLETON ELEMENTARY SCHOOL DR                               0870108701
+MAPLEWOOD DR                                                0870008700
+MARGARET ANN DR                                             0870008700
+MARLOWE PATH                                                0870008700
+MARTHA BRANCH DR                                            0870008700
+MARTIN CEMETERY RD                                          0870008700
+MARTIN FAMILY CEMETERY RD                                   0870008700
+MARTIN HOLLOW RD                                            0870008700
+MARTIN LN                                                   0870008700
+MARTIN LN                                                   0870308703
+MARY BRANCH DR                                              0870008700
+MASTERSON LN                                                0870008700
+MAXEY LN                                                    0870008700
+MAYSVILLE AVE                                               0870108701
+MAYSVILLE RD                                                0870008700
+MAYSVILLE RD                                                0870108701
+MCCORMICK RD                                                0870008700
+MCCORMICK RD                                                0870208702
+MCCROSKEY DR                                                0870008700
+MCCROSKEY WAY                                               0870008700
+MCDONALD RD                                                 0870008700
+MCFARLAND LN                                                0870308703
+MCFARLAND RD                                                0870008700
+MCGINNIS LN                                                 0870008700
+MCGUIRE LN                                                  0870008700
+MCGUIRE LN                                                  0870308703
+MCKEE SCOUT RESERVATION                                     0870008700
+MCNABB MIDDLE SCHOOL BUS DR                                 0870008700
+MCNABB MIDDLE SCHOOL DR                                     0870008700
+MCNABB MIDDLE SCHOOL DRIVE NO2                              0870008700
+MCNABB MIDDLE SCHOOL MAINTENANCE DR                         0870008700
+MCVEY LN                                                    0870008700
+MEADOW CT                                                   0870108701
+MEADOW VIEW DR                                              0870008700
+MELANIE LN                                                  0870008700
+MICHAEL AVE                                                 0870008700
+MIDLAND TRL                                                 0870008700
+MILL ROW ST                                                 0870108701
+MISSIONARY LN                                               0870008700
+MITCHELL ST                                                 0870108701
+MOHICAN TRL                                                 0870008700
+MONTCLAIR DR                                                0870008700
+MONTGOMERY AVE                                              0870108701
+MONTGOMERY CO HIGH SCHOOL ARENA DR                          0870008700
+MONTGOMERY CO HIGH SCHOOL DR                                0870008700
+MONTGOMERY SQ                                               0870108701
+MORGAN CT                                                   0870008700
+MOSS CT                                                     0870008700
+MOUNTAIN VIEW DR                                            0870008700
+MT AYR DR                                                   0870108701
+MT STERLING ELEMENTARY SCHOOL DR                            0870008700
+MT STERLING PLZ                                             0870108701
+MULBERRY CT                                                 0870008700
+MULLINS LN                                                  0870308703
+MURPHY DR                                                   0870008700
+MURPHY ST                                                   0870208702
+MUSE WAY                                                    0870008700
+MYERS CEMETERY RD                                           0870008700
+N BANK ST                                                   0870108701
+N COONS PIKE                                                0870008700
+N DEEPWOOD CT                                               0870108701
+N KRISTIE                                                   0870008700
+N MARTIN RD                                                 0870008700
+N MAYSVILLE ST                                              0870108701
+N QUEEN ST                                                  0870108701
+N RIDGE DR                                                  0870008700
+N STAFFORD ST                                               0870208702
+N SYCAMORE ST                                               0870108701
+N VALLEYVIEW DR                                             0870008700
+N WARE CHAPEL RD                                            0870008700
+NATALIE DR                                                  0870008700
+NATHAN DR                                                   0870008700
+NEST EGG RD                                                 0870008700
+NEVADA AVE                                                  0870108701
+NEW CUT RD                                                  0870008700
+NEW CUT RD                                                  0870308703
+NICKLES LN                                                  0870008700
+NORMAN RD                                                   0870008700
+NORTHVIEW DR                                                0870108701
+OAK GROVE DR                                                0870008700
+OAK VIEW DR                                                 0870008700
+OAKLAWN DR                                                  0870008700
+OLD FOGG PIKE                                               0870008700
+OLD KY 11                                                   0870008700
+OLD KY 213 RD                                               0870008700
+OLD NEST EGG RD                                             0870008700
+OLD NEST EGG SPUR                                           0870008700
+OLD OWINGSVILLE RD                                          0870008700
+OLD OWINGVILLE RD                                           0870008700
+OLD OWNINGSVILLE RD                                         0870008700
+OLD RIDGE RD                                                0870008700
+OLD SILO HILL RD                                            0870108701
+OLD SILO VIEW CT                                            0870108701
+OLD US 460                                                  0870008700
+OLDFIELD TRAILER PARK                                       0870008700
+OLDHAM RD                                                   0870008700
+OLDHAM RD                                                   0870208702
+OREAR RD                                                    0870008700
+ORIOLE AVE                                                  0870008700
+OSBORNE RD                                                  0870008700
+OSCAR ALLEN LN                                              0870008700
+OWENS CT                                                    0870008700
+OWINGSVILLE RD                                              0870008700
+PAIGE LN                                                    0870008700
+PAMELA DR                                                   0870008700
+PARIS RD                                                    0870008700
+PARISH RD                                                   0870008700
+PARK AVE                                                    0870008700
+PARK AVE                                                    0870308703
+PATSY WAY                                                   0870108701
+PAUL CT                                                     0870308703
+PAUL GINTER DR                                              0870008700
+PAULA DR                                                    0870008700
+PEGGY BR                                                    0870008700
+PERRY PIKE                                                  0870008700
+PERSIMMON CT                                                0870008700
+PEYTONS LICK RD                                             0870008700
+PILOT KNOB RD                                               0870008700
+PINE CT                                                     0870008700
+PINE HILL RD                                                0870008700
+PINE HILL SPUR                                              0870008700
+PINE HILL SPUR                                              0870308703
+PINE HURST DR                                               0870108701
+PLEMMONS LN                                                 0870008700
+PLUM LICK RD                                                0090008700
+PRATER LN                                                   0870008700
+PREWITT GRASSY LICK RD                                      0870008700
+PREWITT GRASSY RD                                           0870008700
+PREWITT PIKE                                                0870008700
+PRIMROSE WAY                                                0870108701
+QUEENSWAY DR                                                0870008700
+QUISENBERRY RD                                              0870008700
+RAGLAND AVE                                                 0870108701
+RAILROAD ST                                                 0870108701
+RAPID CROSSING NO2                                          0870108701
+RAPID XING                                                  0870108701
+RATLIFF LN                                                  0870008700
+RAVEN AVE                                                   0870008700
+REDBUD CT                                                   0870008700
+REESE WAY                                                   0870108701
+REFFITT ALY                                                 0870108701
+REFFITT RD                                                  0870008700
+REFFITT RD                                                  0870308703
+REGINA CT                                                   0870008700
+REID ALY                                                    0870108701
+REID AVE                                                    0870108701
+REPRESENTATIVE DR                                           0870008700
+RICE DR                                                     0870008700
+RICHMOND AVE                                                0870008700
+RICHMOND AVE                                                0870108701
+RIDGE RD                                                    0870008700
+RIDGECREST DR                                               0870008700
+RIDGECREST WAY                                              0870108701
+RIDGEWOOD LN                                                0870008700
+ROBIN AVE                                                   0870008700
+ROBIN LN                                                    0870208702
+ROCKY BRANCH RD                                             0870308703
+ROGERS AVE                                                  0870108701
+ROGERS MILL RD                                              0870008700
+ROGERS RD                                                   0870008700
+ROGERS RD                                                   0870308703
+ROLLING HILLS DR                                            0870108701
+RONALD CT                                                   0870308703
+RONAMEKI DR                                                 0870108701
+ROSE AVE                                                    0870208702
+ROSE CT                                                     0870108701
+ROSE ST                                                     0870208702
+RUSS WILLOUGHBY RD                                          0870008700
+RYDER LN                                                    0870008700
+S BANK ST                                                   0870108701
+S COONS PIKE                                                0870008700
+S DEEPWOOD CT                                               0870108701
+S MAYSVILLE ST                                              0870108701
+S QUEEN ST                                                  0870008700
+S QUEEN ST                                                  0870108701
+S STAFFORD ST                                               0870208702
+S SYCAMORE ST                                               0870108701
+S WARE CHAPEL RD                                            0870008700
+S WILSON ST                                                 0870108701
+SALTWELL RD                                                 0870008700
+SAMUELS AVE                                                 0870108701
+SAPPHIRE CT                                                 0870008700
+SARATOGA CT                                                 0870108701
+SAWMILL RD                                                  0870008700
+SCIENCE RIDGE RD                                            0870008700
+SCOTT ST                                                    0870108701
+SCOTT STEPHENS LN                                           0870008700
+SEARS RD                                                    0870008700
+SEWER PLANT RD                                              0870108701
+SHADELAWN DR                                                0870008700
+SHADOW LN                                                   0870008700
+SHADY LN                                                    0870208702
+SHADY SPRINGS DR                                            0870008700
+SHADYBROOK LN                                               0870008700
+SHANNON DR                                                  0870008700
+SHEILA LN                                                   0870008700
+SHELBY LN                                                   0870308703
+SHELTON WAY                                                 0870008700
+SHEPHERD CEMETERY RD                                        0870008700
+SHEPHERD CEMETERY RD                                        0870308703
+SHERRY LN                                                   0870008700
+SHOEMOORE DR                                                0870108701
+SHORT ST                                                    0870108701
+SHUMARD CIR                                                 0870008700
+SIDNEY DR                                                   0870108701
+SIERRA CT                                                   0870108701
+SILVER LAKE DR                                              0870108701
+SILVER LAKE RD                                              0870108701
+SILVER RIDGE RD                                             0870008700
+SKYVIEW DR                                                  0870108701
+SLADE AVE                                                   0870008700
+SMITH ST                                                    0870008700
+SOMERSET LN                                                 0870008700
+SOPHIA CT                                                   0870108701
+SOUTHDALE DR                                                0870008700
+SPENCER LN                                                  0870008700
+SPENCER PIKE                                                0870008700
+SPENCER RD                                                  0870008700
+SPENCER SPRINGS DR                                          0870008700
+SPONCIL CEMETERY RD                                         0870008700
+SPRING CT                                                   0870108701
+SPRING HILL DR                                              0870008700
+SPRING MEADOWS DR                                           0870008700
+SPRING ST                                                   0870108701
+SPRINGFIELD RD                                              0870008700
+SPRINGVIEW CT                                               0870108701
+SPRINGVIEW DR                                               0870008700
+SPRINGVIEW DRIVE EXT                                        0870008700
+SPRUCE CEMETERY RD                                          0870008700
+SPRUCE CT                                                   0870008700
+SPRUCE VALLEY RD                                            0870008700
+ST ANDREWS CT                                               0870008700
+ST ANDREWS DR                                               0870108701
+STACY DR                                                    0870008700
+STAG CT                                                     0870008700
+STEELE RD                                                   0870008700
+STEELE RD                                                   0870308703
+STEPSTONE OWINGSVILLE RD                                    0870008700
+STEPSTONE RD                                                0870008700
+STERLING AVE                                                0870108701
+STERLING WAY                                                0870008700
+STEVEN WAY                                                  0870008700
+STEVENS CT                                                  0870308703
+STONE CREEK DR                                              0870208702
+STONE RD                                                    0870008700
+STONE TRACE DR                                              0870108701
+STRANGE RD                                                  0870008700
+STRATFORD PL                                                0870008700
+STRATTON PL                                                 0870008700
+STROTHER ST                                                 0870108701
+STULLTOWN RD                                                0870008700
+SUMMER RIDGE RD                                             0870008700
+SUMMER ST                                                   0870108701
+SUMMIT DR                                                   0870108701
+SUNDARA WAY                                                 0870008700
+SUNDOWN CT                                                  0870108701
+SUNNY CT                                                    0870008700
+SUNNY LN                                                    0870008700
+SUNSET RIDGE DR E                                           0870108701
+SUNSET RIDGE DR W                                           0870108701
+SWISS STONE WAY                                             0870108701
+TABOR RD                                                    0870308703
+TAMARIX DR                                                  0870108701
+TAMMATHA DR                                                 0870308703
+TAMMY BRANCH DR                                             0870008700
+TANNER LN                                                   0870008700
+TAPP LN                                                     0870008700
+TAYLOR LN                                                   0870308703
+TECHNOLOGY CENTER CENTRAL OFFICE DR                         0870008700
+TECHNOLOGY CENTER DR                                        0870008700
+TECHNOLOGY CENTER ONE WAY                                   0870008700
+TENNY AVE                                                   0870108701
+TERRY DR                                                    0870108701
+THE LANE                                                    0870008700
+THORN TRACE DR                                              0870008700
+TIGHLMAN WAY                                                0870108701
+TIMBER LANE SPUR                                            0870008700
+TIMBER LN                                                   0870008700
+TIMS DR                                                     0870008700
+TINA CT                                                     0870008700
+TIPTON RD                                                   0870008700
+TIPTON ST                                                   0870108701
+TIPTON TRAILER PARK                                         0870108701
+TONKIN RD                                                   0870008700
+TOWN BRANCH RD                                              0870008700
+TRAVIS LN                                                   0870008700
+TRAVIS LN                                                   0870308703
+TRINA LN                                                    0870108701
+TROJAN AVE                                                  0870108701
+TROJAN ST                                                   0870008700
+TUCKER LN                                                   0870008700
+TUPELO CT                                                   0870008700
+TURLEY RD                                                   0870008700
+TURNER LN                                                   0870008700
+TURTLE CREEK LN                                             0870308703
+TWIN BROOK DR                                               0870008700
+TWIN LAKE DR                                                0870108701
+TWIN OAKS BLVD                                              0870008700
+TYRA LN                                                     0870008700
+TYRONE AVE                                                  0870008700
+UNKNOWN                                                     0870108701
+VALLEY DR                                                   0870008700
+VALLEYVIEW DR                                               0870208702
+VAN THOMPSON RD                                             0870008700
+VANCE DR                                                    0870108701
+VANDA BR                                                    0870008700
+VICTORIA LN                                                 0870008700
+VIEW LN                                                     0870008700
+VILLAGE DR                                                  0870008700
+VIRGINIA AVE                                                0870108701
+VIRGINIA CT                                                 0870108701
+VISTA CT                                                    0870108701
+W ARROWHEAD TRL                                             0870108701
+W CLASSIC VILLAGE LN                                        0870008700
+W COBBLER LN                                                0870108701
+W HIGH ST                                                   0870008700
+W HIGH ST                                                   0870108701
+W LEGEND DR                                                 0870008700
+W LOCUST ST                                                 0870108701
+W MAIN ST                                                   0870108701
+W PARK AVE                                                  0870008700
+W PARK AVE                                                  0870308703
+WADE CT                                                     0870108701
+WADE LN                                                     0870008700
+WADES MILL RD                                               0870008700
+WALETO ST                                                   0870008700
+WALMART DR                                                  0870108701
+WALNUT DR                                                   0870008700
+WALTERS LN                                                  0870008700
+WASHINGTON ST                                               0870008700
+WELCH RD                                                    0870008700
+WELCH RD                                                    0870308703
+WESLEY DR                                                   0870008700
+WESLEY ST                                                   0870008700
+WESTFIELD DR                                                0870008700
+WESTFIELD WAY                                               0870008700
+WESTSIDE DR                                                 0870008700
+WESTWARD DR                                                 0870008700
+WESTWOOD DR                                                 0870008700
+WHITAKER LN                                                 0870008700
+WHITE AND TURLEY RD                                         0870008700
+WHITE AVE                                                   0870108701
+WHITLEDGE HTS                                               0870108701
+WILD WOOD WAY                                               0870008700
+WILLIAMS LN                                                 0870008700
+WILLIN WAY                                                  0870108701
+WILLOUGHBY HTS                                              0870008700
+WILLOUGHBY TOWN RD                                          0870008700
+WILLOW ST                                                   0870108701
+WILMONT RD                                                  0870108701
+WILSON ALY                                                  0870108701
+WINCHESTER RD                                               0870008700
+WINCHESTER RD                                               0870108701
+WINDSOR DR                                                  0870008700
+WINDSOR DR                                                  0870108701
+WINDTIP SPUR                                                0870108701
+WINDWOOD CT                                                 0870008700
+WINGTIP WAY                                                 0870108701
+WINIFORD ST                                                 0870008700
+WINN ST                                                     0870108701
+WOODBURN AVE                                                0870008700
+WOODFORD DR                                                 0870008700
+WOODLAND DR                                                 0870208702
+WOODLAND LN                                                 0870008700
+WRIGHT AVE                                                  0870108701
+WYANDOT WAY                                                 0870108701
+WYKAGYL PL                                                  0870108701
+YOUNG LANE SPUR                                             0870108701
+YOUNG LN                                                    0870008700
+YOUNG LN                                                    0870108701

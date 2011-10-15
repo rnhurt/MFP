@@ -1,0 +1,495 @@
+ADMIRAL DR                                                  0410104101
+ALEXANDER LN                                                0410004100
+ALEXIS CIR                                                  0410504105
+AMBASSADOR DR                                               0410004100
+ANGELA DR                                                   0410004100
+ARBORS DR                                                   0410204102
+ARLINGTON CT                                                0410104101
+ARNIE RISEN BLVD                                            0410104101
+ARNIE RISEN BLVD                                            0410204102
+ARNOLDS CREEK RD                                            0410004100
+ARRONS WAY                                                  0410004100
+ARROWHEAD DR                                                0410104101
+ARTHUR LN                                                   0410004100
+ASH DR                                                      0410004100
+ASH RD                                                      0410004100
+ASH ST                                                      0410204102
+ASHBROOK RD                                                 0410004100
+ASHCRAFT LN                                                 0410004100
+ASSEMBLY CHURCH RD                                          0410004100
+ATHA LN                                                     0410004100
+AUSTIN DR                                                   0410004100
+AUTUMN WAY                                                  0410504105
+B C COTTON DR                                               0410204102
+BAKER WILLIAMS RD                                           0410004100
+BANNISTER PIKE                                              0410004100
+BARLEY CIR                                                  0410504105
+BARNES RD                                                   0410004100
+BARNES RD                                                   0410104101
+BATON ROUGE RD                                              0410004100
+BATON ROUGE RD                                              0410104101
+BATON ROUGE ROAD SPUR                                       0410104101
+BEECH DR                                                    0410004100
+BEECH ST                                                    0410204102
+BENNETT RD                                                  0410004100
+BENNETTS LN                                                 0410004100
+BEVERLY LN                                                  0410004100
+BIG BEAR CIR                                                0410504105
+BINGHAM LN                                                  0410504105
+BLACKBURN LN                                                0410204102
+BLAIR RD                                                    0410004100
+BLANCHE AVE                                                 0410104101
+BLANCHET RD                                                 0410004100
+BLUFF VW                                                    0410004100
+BOAT DOCK RD                                                0410004100
+BOLTZ LAKE RD                                               0410004100
+BRACHT RD                                                   0410004100
+BRANDON LN                                                  0410004100
+BRENTWOOD DR                                                0410204102
+BRIDGES DR                                                  0410004100
+BRIDLE CT                                                   0410004100
+BROADWAY ST                                                 0410204102
+BROWN LN                                                    0410204102
+BRUSH CREEK RD                                              0410004100
+BUFFALO RIDGE RD                                            0410004100
+BULLOCK PEN DR                                              0410004100
+BURGESS RD                                                  0410004100
+BUSINESS BLVD                                               0410204102
+CABANA SHORES DR                                            0410004100
+CABANA SHORES DR                                            0410104101
+CALENDAR RD                                                 0410004100
+CAMPBELL DR                                                 0410004100
+CAMRY DR                                                    0410004100
+CARLA CT                                                    0410004100
+CASE LN                                                     0410004100
+CASE LN                                                     0410504105
+CASH DR                                                     0410004100
+CASON LN                                                    0410004100
+CASTLE KNOLL RD                                             0410104101
+CATLETT RD                                                  0410004100
+CEDAR HILL DR                                               0410004100
+CEDAR ST                                                    0410204102
+CHAPMAN RD                                                  0410004100
+CHARLES GIVEN DR                                            0410004100
+CHARLOTTE HEIGHTS ST                                        0410104101
+CHEROKEE TRL                                                0410004100
+CHERRY GROVE RD                                             0410104101
+CHERRY HILL DR                                              0410104101
+CHERRY HILL DRIVE SPUR                                      0410104101
+CHERRYHILL DR                                               0410104101
+CHETALOU DR                                                 0410004100
+CHIPMAN RIDGE RD                                            0410004100
+CHIPPEWA DR                                                 0410004100
+CHOCTAW DR                                                  0410004100
+CHURCH ST                                                   0410104101
+CHURCH ST                                                   0410204102
+CHURCH ST                                                   0410304103
+CHURCHILL LN                                                0410104101
+CLAIBORNE DR                                                0410004100
+CLARA JEAN LN                                               0410204102
+CLARK ST                                                    0410204102
+CLARKS CREEK RD                                             0410004100
+CLEARVIEW LN                                                0410004100
+COBBLESTONE DR                                              0410204102
+COLLINS LN                                                  0410004100
+COLONIAL CT                                                 0410104101
+COLSON LN                                                   0410004100
+CONCORD RD                                                  0410004100
+CONNECTOR RD                                                0410204102
+CORDOVA RD                                                  0410004100
+CORDOVA RD                                                  0410104101
+CORINTH RD                                                  0410004100
+CORINTH RD                                                  0410304103
+CORINTH SHORE DR                                            0410004100
+CORINTH STRINGTOWN RD                                       0410004900
+COTTONWOOD DR                                               0410004100
+COURT ST                                                    0410104101
+CREEK RD                                                    0410004100
+CRESTVIEW LN                                                0410104101
+CRITTENDEN CT                                               0410504105
+CRITTENDEN MOUNTT ZION RD                                   0410004100
+CRITTENDEN MOUNTT ZION RD                                   0410504105
+CROOKED CREEK RD                                            0410004100
+CRUPPER ST                                                  0410204102
+CULL LN                                                     0410204102
+CULL RD                                                     0410204102
+CUMMINS LN                                                  0410004100
+CUNNINGHAM ST                                               0410104101
+CURRY LN                                                    0410004100
+CURTIS GATES LLOYD WILDLIFE AREA RD                         0410004100
+CYNTHIANA RD                                                0410004100
+CYNTHIANA RD                                                0410104101
+DARK REGION RD                                              0410004100
+DAY LN                                                      0410004100
+DAY RD                                                      0410004100
+DELANEY RD                                                  0410004100
+DELK RD                                                     0410004100
+DENNY RD                                                    0410004100
+DICKERSON LN                                                0410104101
+DIXIE HWY                                                   0410004100
+DIXIE HWY                                                   0410204102
+DIXIE HWY                                                   0410304103
+DIXIE HWY                                                   0410504105
+DOE DR                                                      0410004100
+DORA BILL LN                                                0410004100
+DOVE LN                                                     0410504105
+DOWNINGSVILLE RD                                            0410004100
+DRAPER RD                                                   0410004100
+DRY RIDGE BYP                                               0410004100
+DRY RIDGE BYP                                               0410204102
+DRY RIDGE BYPASS SPUR                                       0410204102
+DRY RIDGE MOUNT ZION RD                                     0410004100
+DRY RIDGE MOUNT ZION RD                                     0410204102
+DRY RIDGE RD                                                0410004100
+DRY RIDGE RD                                                0410204102
+DUNCAN DR                                                   0410004100
+DUNN MAZIE RD                                               0410004100
+E FLYNN RD                                                  0410004100
+EADS RD                                                     0410504105
+EADS ROAD SPUR                                              0410004100
+EAGLE CREEK DR                                              0410504105
+EAGLE MILL FORD RD                                          0410004100
+EAGLE RIDGE DR                                              0410004100
+EAGLE TUNNEL RD                                             0410004100
+ECKLER RD                                                   0410004100
+EIBECK LN                                                   0410004100
+EIBECK LN                                                   0410104101
+ELLEN KAY DR                                                0410204102
+ELLISTON MOUNT ZION RD                                      0410004100
+ELLISTON NAPOLEON RD                                        0410004100
+ELM ST                                                      0410204102
+EPPERSON RD                                                 0410004100
+EPPERSON WASTE RD                                           0410004100
+EVANS RD                                                    0410004100
+FAIRVIEW RD                                                 0410004100
+FAIRVIEW RD                                                 0410104101
+FAIRWAY DR                                                  0410504105
+FAIRWAY PL                                                  0410504105
+FALMOUTH RD                                                 0410004100
+FALMOUTH ST                                                 0410104101
+FARRELL DR                                                  0410504105
+FASHION RIDGE RD                                            0410204102
+FAWNWOOD DR                                                 0410004100
+FERGUSON BLVD                                               0410204102
+FERNWOOD DR                                                 0410004100
+FLAT CREEK RD                                               0410004100
+FOLSOM JONESVILLE RD                                        0410004100
+FORD RD                                                     0410004100
+FORDS MILL RD                                               0410004100
+FOREST CV                                                   0410004100
+FORK LICK RD                                                0410004100
+FRANK WEBB MEMORIAL PARK                                    0410104101
+FREDERICA RD                                                0410004100
+FREEDOM LN                                                  0410004100
+GAINES RD                                                   0410004100
+GARDNERSVILLE RD                                            0410004100
+GARDNERSVILLE RD                                            0410504105
+GARNETT AVE                                                 0410104101
+GENA LN                                                     0410004100
+GILBERT AVE                                                 0410204102
+GOLDS VALLEY RD                                             0410004100
+GOLDS VALLEY SPUR RD                                        0410004100
+GOUGE DR                                                    0410004100
+GRANTLAND DR                                                0410004100
+GRASSY RUN RD                                               0410004100
+GREENE RD                                                   0410004100
+GREENVILLE RD                                               0410004100
+GREGORY LN                                                  0410004100
+HAMILTON LN                                                 0410304103
+HAMMOND LN                                                  0410004100
+HANNAHS WAY                                                 0410504105
+HARBOR CT                                                   0410104101
+HARBOUR POINTE DR                                           0410004100
+HARBOUR POINTE DR                                           0410104101
+HARLAN ST                                                   0410504105
+HARRISON RIDGE RD                                           0410004100
+HARVEST WAY                                                 0410504105
+HEATHEN RIDGE RD                                            0410004100
+HEEKIN CLARKS CREEK RD                                      0410004100
+HEEKIN RD                                                   0410004100
+HELTON HTS                                                  0410104101
+HELTON ST                                                   0410104101
+HIGH ST                                                     0410104101
+HIGHTOWER TIBLEMAN RD                                       0410004100
+HIGHVIEW DR                                                 0410004100
+HILLSIDE DR                                                 0410004100
+HOGANS PKWY                                                 0410004100
+HOPEWELL RD                                                 0410004100
+HOPPERTON LN                                                0410204102
+HORTON LN                                                   0410004100
+HUFF RD                                                     0410004100
+HUMES RIDGE RD                                              0410004100
+HUMES RIDGE RD                                              0410104101
+HUNTERS TRL                                                 0410004100
+HYDE RD                                                     0410004100
+HYDE ROAD CONNECTOR                                         0410004100
+I75 N                                                       0410004100
+I75 N                                                       0410104101
+I75 N                                                       0410204102
+I75 N                                                       0410504105
+I75 N EXIT144 OFF RAMP TO KY330                             0410004100
+I75 N EXIT144 ON RAMP FROM KY330                            0410004100
+I75 N EXIT154 OFF RAMP TO KY36                              0410104101
+I75 N EXIT154 ON RAMP FROM KY36                             0410104101
+I75 N EXIT156 OFF RAMP TO BARNES RD                         0410104101
+I75 N EXIT156 ON RAMP FROM BARNES RD                        0410104101
+I75 N EXIT159 OFF RAMP TO KY22                              0410204102
+I75 N EXIT159 ON RAMP FROM KY22                             0410204102
+I75 N EXIT166 OFF RAMP TO VIOLET RD                         0410504105
+I75 N EXIT166 ON RAMP FROM VIOLET RD                        0410504105
+I75 S                                                       0410004100
+I75 S                                                       0410104101
+I75 S                                                       0410204102
+I75 S                                                       0410504105
+I75 S EXIT144 OFF RAMP TO KY330                             0410004100
+I75 S EXIT144 ON RAMP FROM KY330                            0410004100
+I75 S EXIT154 OFF RAMP TO KY36                              0410104101
+I75 S EXIT154 ON RAMP FROM KY36                             0410104101
+I75 S EXIT156 OFF RAMP TO BARNES RD                         0410104101
+I75 S EXIT156 ON RAMP FROM BARNES RD                        0410104101
+I75 S EXIT159 OFF RAMP TO KY22                              0410204102
+I75 S EXIT159 ON RAMP FROM KY22                             0410204102
+I75 S EXIT166 OFF RAMP TO VIOLET RD                         0410504105
+I75 S EXIT166 ON RAMP FROM VIOLET RD                        0410504105
+I75 TURN AROUND146                                          0410004100
+I75 TURN AROUND149                                          0410004100
+I75 TURN AROUND151                                          0410004100
+I75 TURN AROUND152                                          0410004100
+INDEPENDENCE RD                                             0410004100
+INDIAN HILL DR                                              0410504105
+INDUSTRIAL RD                                               0410104101
+INDUSTRIAL ROAD SPUR                                        0410104101
+JACOB DR                                                    0410004100
+JAMEISON RD                                                 0410004100
+JAMES ST                                                    0410104101
+JENNI LN                                                    0410004100
+JERICHO RD                                                  0410004100
+JILLIAN DR                                                  0410004100
+JONESVILLE RD                                               0410004100
+JONESVILLE RD                                               0410104101
+JUDITH ST                                                   0410204102
+JUETT RD                                                    0410004100
+JUMP RD                                                     0410004100
+KAYLA DR                                                    0410004100
+KEEFER LAWRENCEVILLE RD                                     0410004100
+KEEFER RD                                                   0410004100
+KEENELAND DR                                                0410104101
+KELLS RD                                                    0410004100
+KELLY AVE                                                   0410104101
+KELLY DR                                                    0410004100
+KENDALL RD                                                  0410004100
+KENNEY RD                                                   0410004100
+KENNY DR                                                    0410004100
+KENRICK PL                                                  0410004100
+KIMBERLY DR                                                 0410104101
+KINGS DR                                                    0410204102
+KINMAN RD                                                   0410004100
+KNOX LN                                                     0410004100
+KNOX LN                                                     0410304103
+KNOXVILLE RD                                                0410004100
+KNOXVILLE RD                                                0410204102
+KY3373                                                      0410504105
+LA PINE AVE                                                 0410104101
+LAKE RD                                                     0410004100
+LAKE ST                                                     0410104101
+LAKELAND CT                                                 0410104101
+LAKESHORE CT                                                0410104101
+LAKESIDE CT                                                 0410104101
+LAKEVIEW DR                                                 0410104101
+LANGSDALE PT                                                0410004100
+LANTER RD                                                   0410004100
+LARKIN LN                                                   0410004100
+LATIMER LN                                                  0410004100
+LAWRENCEVILLE RD                                            0410004100
+LAYTON CHAPEL RD                                            0410004100
+LEANING OAK RD                                              0410004100
+LEBANON RD                                                  0410004100
+LEBANON RD                                                  0410504105
+LEE HI DR                                                   0410504105
+LEMON NORTHCUTT RD                                          0410004100
+LEON BLVD                                                   0410004100
+LEXINGTON TRAILS DR                                         0410004100
+LINCOLN RIDGE RD                                            0410004100
+LISA DR                                                     0410004100
+LIZA LN                                                     0410504105
+LOCUST ST                                                   0410504105
+LUSBY MILL RD                                               0410004100
+MAIN ST                                                     0410304103
+MALLARD LN                                                  0410504105
+MANN RD                                                     0410004100
+MAPLE RDG                                                   0410504105
+MARATHON RD                                                 0410004100
+MARATHON ROAD CONNECTOR                                     0410004100
+MARCELLA DR                                                 0410004100
+MARKIM DR                                                   0410504105
+MARSHALL LN                                                 0410004100
+MARTIN CT                                                   0410504105
+MARTIN RD                                                   0410104101
+MASON CORDOVA RD                                            0410004100
+MASON RD                                                    0410004100
+MASON SIPPLE RD                                             0410004100
+MAYME LN                                                    0410004100
+MC COY RD                                                   0410004100
+MC COY RD                                                   0410204102
+MC FARLAND DR                                               0410004100
+MC GEE RD                                                   0410004100
+MCDUFFY ST                                                  0410104101
+MEADOW VIEW CIR                                             0410204102
+MEEKS RD                                                    0410204102
+MENEFEE RD                                                  0410004100
+MICHIGAN AVE                                                0410204102
+MILL ST                                                     0410104101
+MILLER DR                                                   0410504105
+MILO CT                                                     0410504105
+MITTS RD                                                    0410004100
+MOCKINGBIRD LN                                              0410504105
+MOHAWK TRL                                                  0410004100
+MOON RD                                                     0410004100
+MORGAN CREEK RD                                             0410004100
+MT PISGAH RD                                                0410004100
+MULLIGAN RD                                                 0410004100
+MUNK RD                                                     0410004100
+N JOHNSON ST                                                0410104101
+N MAIN ST                                                   0410104101
+N MAIN ST                                                   0410204102
+N MAIN ST                                                   0410504105
+NAPOLEON ZION STATION RD                                    0410004100
+NEEDHAM LN                                                  0410004100
+NEEDMORE CORDOVA RD                                         0410004100
+NEW DEL DR                                                  0410204102
+NITA LN                                                     0410504105
+NORTH FORK DR                                               0410004100
+OAK DR                                                      0410004100
+OAK RIDGE RD                                                0410004100
+OAK ST                                                      0410204102
+OAKWOOD DR                                                  0410504105
+OLD CORINTH OWENTON RD                                      0410004100
+OLD CORINTH OWENTON RD                                      0410304103
+OLD DEPOT                                                   0410304103
+OLD EAGLE TUNNEL RD                                         0410004100
+OLD RAGTOWN RD                                              0410004100
+OLD STRINGTOWN CORDOVA RD                                   0410004100
+OLD WARSAW RD                                               0410204102
+OSBORNE RD                                                  0410004100
+OWENTON RD                                                  0410009400
+OWENTON RD                                                  0410304103
+PARIS ST                                                    0410104101
+PEACEFUL HOLLOW RD                                          0410004100
+PEACEFUL RD                                                 0410004100
+PEOPLES RD                                                  0410004100
+PETITT PIKE                                                 0410004100
+PINE ST                                                     0410204102
+PINHOOK DR                                                  0410504105
+PRATHER GAP                                                 0410304103
+PRICE HILL RD                                               0410004100
+RACE ST                                                     0410204102
+RAGTOWN RD                                                  0410004100
+RAINBOW DR                                                  0410004100
+RALPH ST                                                    0410204102
+RANSOM CV                                                   0410004100
+REDWOOD DR                                                  0410204102
+REDWOOD DRIVE SPUR                                          0410204102
+REED KINMAN RD                                              0410004100
+REEVES RD                                                   0410004100
+REGENCY CT                                                  0410104101
+RIDGE RD                                                    0410004100
+RIDGELEA DR                                                 0410104101
+RIDGEVIEW CIR                                               0410204102
+RIDGEVIEW DR                                                0410204102
+RIDGEWAY DR                                                 0410504105
+ROGERS RD                                                   0410004100
+ROOK CIR                                                    0410304103
+ROSELAWN DR                                                 0410104101
+RUARK RD                                                    0410004100
+RUARK RD                                                    0410504105
+RUSSELL DR                                                  0410504105
+RUSSELL FLYNN RD                                            0410004100
+RUTHMAN DR                                                  0410204102
+RYANS WAY                                                   0410004100
+S MAIN ST                                                   0410104101
+S MAIN ST                                                   0410204102
+S MAIN ST                                                   0410504105
+S RIDGE RD                                                  0410004100
+SADDLEBROOK LN                                              0410004100
+SALEM PIKE                                                  0410004100
+SAYERS DR                                                   0410104101
+SAYERS ST                                                   0410504105
+SAYLOR PT                                                   0410004100
+SCAFFOLD LICK CREEK RD                                      0410004100
+SCHOOL RD                                                   0410004100
+SCHOOL ST                                                   0410204102
+SCOTT ST                                                    0410204102
+SENECA TRL                                                  0410004100
+SHADY LN                                                    0410004100
+SHADY LN                                                    0410504105
+SHAWNEE RUN RD                                              0410004100
+SHERMAN MOUNT ZION RD                                       0410004100
+SHERMAN NEWTON RD                                           0410004100
+SHIELDS SHINKLE RD                                          0410004100
+SHILOH RD                                                   0410004100
+SHORT RACE ST                                               0410204102
+SHORT ST                                                    0410104101
+SIMPSON RIDGE RD                                            0410004100
+SIPPLE RD                                                   0410004100
+SIPPLE SERVICE RD                                           0410004100
+SKYWAY DR                                                   0410104101
+SLICK RIDGE RD                                              0410004100
+SMITH ST                                                    0410104101
+SMOKY RD                                                    0410004100
+SNELL RD                                                    0410004100
+SOUTHERN CT                                                 0410504105
+SOUTHERN DR                                                 0410104101
+SPEARS LN                                                   0410504105
+SPILLMAN DR                                                 0410004100
+STELLA CT                                                   0410004100
+STEVENS LN                                                  0410004100
+STEWART LN                                                  0410204102
+STONE SCHOOL HOUSE RD                                       0410004100
+STONEY RIDGE CT                                             0410104101
+STRINGTOWN RD                                               0410004100
+STRINGTOWN RD                                               0410304103
+SUGAR CREEK RD                                              0410004100
+SUMMER DR                                                   0410004100
+SUMMER DR                                                   0410104101
+SUMMER DRIVE SPUR                                           0410104101
+SUMMIT AVE                                                  0410104101
+SUNNY HILL DR                                               0410004100
+SUNRISE ST                                                  0410104101
+SUNSET DR                                                   0410104101
+T AND R LN                                                  0410004100
+TAFT HWY                                                    0410004100
+TAFT HWY                                                    0410204102
+TAYLOR LN                                                   0410004100
+TERRACE PARK                                                0410104101
+THEATER DR                                                  0410204102
+THERESA DR                                                  0410004100
+THOMAS LN                                                   0410304103
+TIMBERWOOD DR                                               0410504105
+TRACY LN                                                    0410104101
+TRAVIS DR                                                   0410104101
+TURNER DR                                                   0410504105
+TURNER RD                                                   0410004100
+TYLER DR                                                    0410004100
+VALLANDINGHAM RD                                            0410004100
+VERONA MOUNT ZION RD                                        0410004100
+VINCENT BLVD                                                0410504105
+VIOLET RD                                                   0410004100
+VIOLET RD                                                   0410504105
+WAINSCOTT RD                                                0410004100
+WALLER DR                                                   0410504105
+WALNUT ST                                                   0410204102
+WARSAW AVE                                                  0410204102
+WARSAW RD                                                   0410004100
+WARSAW RD                                                   0410204102
+WATERWORKS RD                                               0410104101
+WEBB ODOR RD                                                0410004100
+WEBB RD                                                     0410004100
+WHEAT CT                                                    0410504105
+WHITE CHAPEL RD                                             0410004100
+WILDLIFE RD                                                 0410004100
+WILLAVEER LN                                                0410104101
+WILLIAM ARNOLD DR                                           0410104101
+WILLIAMSTOWN DOCK HIGHVIEW DR                               0410004100
+WILORN DR                                                   0410204102
+WOOD GATE ST                                                0410004100
+WOODS LN                                                    0410304103

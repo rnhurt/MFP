@@ -1,0 +1,677 @@
+A LINDSEY RD                                                0310003100
+ALEXANDER CEMETERY RD                                       0310003100
+ALFORD RD                                                   0310003100
+ALFORD SPUR                                                 0310003100
+ALFRED COOK RD                                              0310003100
+ALVIN SALING RD                                             0310003100
+AMBASSADOR LOOP                                             0310003100
+AMERICAN ROCK RD                                            0310003100
+ANDREW ST                                                   0310003100
+APPLE GROVE RD                                              0310003100
+ARROWPOINT TRL                                              0310003100
+ARTHUR BLVD                                                 0310003100
+ARTHUR RD                                                   0310003100
+ASH ST                                                      0310003100
+B BULLOCK RD                                                0310003100
+B HOUCHIN RD                                                0310003100
+B ST                                                        0310103101
+BAILEY RD                                                   0310003100
+BALD KNOB RD                                                0310003100
+BARBEE LN                                                   0310003100
+BASHAM BLVD                                                 0310003100
+BEAVER DAM CHAPEL RD                                        0310003100
+BEAVER DAM CHURCH RD                                        0310003100
+BEE SPRING CHURCH RD                                        0310003100
+BEE SPRING CHURCH ST                                        0310003100
+BEECH CT                                                    0310003100
+BEECH ST                                                    0310003100
+BEECHMONT DR                                                0310003100
+BEECHWOOD LN                                                0310003100
+BELLFLOWER LN                                               0310003100
+BENT GRASS DR                                               0310003100
+BENTFIELD ESTATES                                           0310003100
+BERT DAVIS RD                                               0310003100
+BEWLEY RD                                                   0310003100
+BIG REEDY RD                                                0310003100
+BILL DOUGLAS RD                                             0310003100
+BILL PARSLEY RD                                             0310003100
+BIRCH LN                                                    0310003100
+BLACK OAK DR                                                0310003100
+BLACKGOLD LOOP                                              0310003100
+BLACKGOLD RD                                                0310003100
+BLEDSOE RD                                                  0310003100
+BLUE BIRD LN                                                0310003100
+BLUEBERRY HL                                                0310003100
+BLUEBIRD DR                                                 0310003100
+BLUEBIRD RD                                                 0310003100
+BLUEGRASS DR                                                0310003100
+BOAT RAMP RD                                                0310003100
+BOB WHITE LN                                                0310003100
+BOILING SPRING RD                                           0310003100
+BRADFORD LN                                                 0310003100
+BRADFORD RD                                                 0310003100
+BRAIRWOOD DR                                                0310003100
+BRANCH LN                                                   0310003100
+BRIER CREEK MEADOWS RD                                      0310003100
+BRIER CREEK RD                                              0310003100
+BRIER HILL RD                                               0310003100
+BROOKHILL LN                                                0310003100
+BROOKS KNOB LOOKOUT TOWER RD                                0310003100
+BROOKS KNOB SPUR                                            0310003100
+BROOKS RD                                                   0310003100
+BROWNING RD                                                 0310003100
+BROWNSVILLE PKWY                                            0310003100
+BROWNSVILLE RD                                              0310003100
+BUCK SELF RD                                                0310003100
+BUCKEYE LN                                                  0310003100
+BULLOCK RD                                                  0310003100
+BURNS RD                                                    0310003100
+BUTTERNUT LN                                                0310003100
+BUZZARD ROOST RD                                            0310003100
+C BECKNER RD                                                0310003100
+C BELLAMY RD                                                0310003100
+C JAMES RD                                                  0310003100
+C KINSER RD                                                 0310003100
+C L RAY RD                                                  0310003100
+C LASHLEY RD                                                0310003100
+C REED RD                                                   0310003100
+C WHITE RD                                                  0310003100
+CAMBRIDGE DR                                                0310003100
+CAMPBELL LN                                                 0310003100
+CANEY HOLLOW RD                                             0310003100
+CANEYVILLE RD                                               0310003100
+CANTERBURY LN                                               0310003100
+CARDER ST                                                   0310103101
+CARDINAL DR                                                 0310003100
+CARE ST                                                     0310103101
+CARLOS JOHNSON RD                                           0310003100
+CARLTON PL                                                  0310003100
+CARMICHAEL RD                                               0310003100
+CARNATION LN                                                0310003100
+CARNES RD                                                   0310003100
+CATALPA LN                                                  0310003100
+CAVE AVE                                                    0310003100
+CAVE CITY RD                                                0310003100
+CEDAR CT                                                    0310003100
+CEDAR GROVE CHURCH RD                                       0310003100
+CEDAR HILL CHURCH RD                                        0310003100
+CEDAR LN                                                    0310003100
+CEDAR POINT RD                                              0310003100
+CEDAR RD                                                    0310003100
+CEDAR SINK RD                                               0310003100
+CEDAR ST                                                    0310103101
+CEMETERY RD                                                 0310003100
+CEMETERY RD                                                 0310103101
+CENTER ST                                                   0310103101
+CHALYBEATE RD                                               0310003100
+CHALYBEATE SCHOOL RD                                        0310003100
+CHALYBEATE SPRINGS SPORTS COMPLEX RD                        0310003100
+CHAPEL CENTER LN                                            0310003100
+CHAUMONT RD                                                 0310003100
+CHAUMOUNT RD                                                0310003100
+CHERRY LN                                                   0310003100
+CHESTNUT DR                                                 0310003100
+CHESTNUT ST                                                 0310003100
+CITRUS LN                                                   0310003100
+CITY PARK                                                   0310103101
+CLEAR SPRING CT                                             0310003100
+CLELL RD                                                    0310003100
+CLEVIE JAMES RD                                             0310003100
+CLINE RD                                                    0310003100
+CLOVERLEAF DR                                               0310003100
+CLUB HOUSE RD                                               0310003100
+COATS RD                                                    0310003100
+COBB HILL RD                                                0310003100
+COLUMBINE LN                                                0310003100
+CORNERSTONE ESTATES                                         0310003100
+CORNFLOWER LN                                               0310003100
+COTTONWOOD LN                                               0310003100
+COVE HOLLOW CEMETERY NO1                                    0310003100
+COVE HOLLOW CEMETERY NO2                                    0310003100
+COVE HOLLOW CEMETERY RD                                     0310003100
+COX RD                                                      0310003100
+CR1075                                                      0310003100
+CR1093                                                      0310003100
+CR1094                                                      0310003100
+CR1095                                                      0310003100
+CR1096                                                      0310003100
+CR1097                                                      0310003100
+CRABAPPLE LN                                                0310003100
+CRESTVIEW LN                                                0310003100
+CRUMP RD                                                    0310003100
+CRYSTAL CAVE RD                                             0310003100
+CUB CREEK CEMETERY RD                                       0310003100
+CUB RUN RD                                                  0310003100
+CY HERALD RD                                                0310003100
+CYPRESS LN                                                  0310003100
+D SANDERS RD                                                0310003100
+D TURNER RD                                                 0310003100
+DAFFODIL LN                                                 0310003100
+DALLAS RAY RD                                               0310003100
+DALTON WAY                                                  0310003100
+DAVIS FERRY RD                                              0310003100
+DAVIS RD                                                    0310003100
+DAVIS ST                                                    0310103101
+DEER RUN DR                                                 0310003100
+DEER RUN RD                                                 0310003100
+DEER TRAIL RD                                               0310003100
+DENHAM RD                                                   0310003100
+DENNIS HATLER RD                                            0310003100
+DERBY LN                                                    0310003100
+DICKEYS MILL RD                                             0310003100
+DIRECTORS HOUSE RD                                          0310003100
+DIT VINCENT CEMETERY RD                                     0310003100
+DOC WILLIAMS RD                                             0310003100
+DOE CROSSING DR                                             0310003100
+DOG CREEK RD                                                0310003100
+DOGWOOD AVE                                                 0310103101
+DOGWOOD CT                                                  0310003100
+DOGWOOD LN                                                  0310003100
+DOGWOOD RD                                                  0310003100
+DOVE LN                                                     0310003100
+DOYLE CEMETERY RD                                           0310003100
+DRIFTWOOD DR                                                0310003100
+DUVAL CEMETERY RD                                           0310003100
+DUVAL CEMETERY SPUR RD                                      0310003100
+E COOKE RD                                                  0310003100
+E G NASH RD                                                 0310003100
+E HACK RD                                                   0310003100
+E HARRIS RD                                                 0310003100
+E JACKSON ST                                                0310103101
+E LINDSEY RD                                                0310003100
+E MAIN CROSS ST                                             0310103101
+E PARSLEY RD                                                0310003100
+E POTEET RD                                                 0310003100
+E SANDERS RD                                                0310003100
+EAGLE WAY                                                   0310003100
+ED SANDERS RD                                               0310003100
+ELDER LN                                                    0310003100
+ELLIS COLE RD                                               0310003100
+ELMO CHILDRESS RD                                           0310003100
+ELMORE RD                                                   0310003100
+EMERY LN                                                    0310003100
+EVERETT JOHNSON RD                                          0310003100
+F D MEREDITH RD                                             0310003100
+FAIRGROUNDS RD                                              0310003100
+FAIRVIEW CHURCH RD                                          0310003100
+FAIRVIEW CT                                                 0310003100
+FAIRVIEW ESTS                                               0310003100
+FERGUSON ST                                                 0310103101
+FERN CT                                                     0310003100
+FINCH LN                                                    0310003100
+FLINT RIDGE RD                                              0310003100
+FORD MEREDITH RD                                            0310003100
+FOREST DR                                                   0310003100
+FOX RUN                                                     0310003100
+FOXGLOVE LN                                                 0310003100
+FOXWOOD CT                                                  0310003100
+FOXWOOD DR                                                  0310003100
+FRANCESCA DR                                                0310003100
+FRONTAGE RD                                                 0310003100
+FROZEN NIAGARA ENTRANCE RD                                  0310003100
+FROZEN NIAGARA RD                                           0310003100
+FURNACE BRANCH RD                                           0310003100
+G HAYES RD                                                  0310003100
+G JAGGERS RD                                                0310003100
+G MASSEY RD                                                 0310003100
+G POTEET RD                                                 0310003100
+GAIL CT                                                     0310003100
+GAP HILL RD                                                 0310003100
+GATEWAY CT                                                  0310003100
+GINGER LN                                                   0310003100
+GLASS RD                                                    0310003100
+GLEN RUSSELL RD                                             0310003100
+GOAT LN                                                     0310003100
+GOLDENROD LN                                                0310003100
+GOOD SPRING CHURCH RD                                       0310003100
+GRASSLAND BLACKGOLD RD                                      0310003100
+GRASSLAND CEMETERY RD                                       0310003100
+GRASSLAND RD                                                0310003100
+GRAVIL CEMETERY RD                                          0310003100
+GREAT ONYX CAVE RD                                          0310003100
+GREEN RIVER FERRY RD                                        0310003100
+GREEN ST                                                    0310103101
+GREENBRIER DR                                               0310003100
+GREENWOOD TRL                                               0310003100
+GROVER KERSEY RD                                            0310003100
+GUY HARPER RD                                               0310003100
+H DAVIS RD                                                  0310003100
+H DAVIS ROAD SPUR                                           0310003100
+H HOUCHIN RD                                                0310003100
+H STURGEON RD                                               0310003100
+HACKBERRY LN                                                0310003100
+HANNAH CT                                                   0310003100
+HANNAH LN                                                   0310003100
+HARDIN LN                                                   0310003100
+HARDIN RD                                                   0310003100
+HARVEST LN                                                  0310003100
+HAWKINS CEMETERY RD                                         0310003100
+HAWKS CEMETERY RD                                           0310003100
+HAWKS RD                                                    0310003100
+HAWSELL ST                                                  0310003100
+HEATHER WAY                                                 0310003100
+HEDGE IRON RD                                               0310003100
+HELENCIA RD                                                 0310003100
+HENRY MEREDITH RD                                           0310003100
+HICKORY LN                                                  0310003100
+HIGH ST                                                     0310103101
+HIGHWAY 70 SPORTS COMPLEX RD                                0310103101
+HILLTOP DR                                                  0310003100
+HILLTOP LN                                                  0310003100
+HILLVIEW CAMP RD                                            0310003100
+HILLVIEW CT                                                 0310003100
+HODGE LN                                                    0310003100
+HOGAN CEMETERY RD                                           0310003100
+HOLLEY CAVE DR                                              0310003100
+HOLLOW CREEK CT                                             0310003100
+HOLLY FALLS LN                                              0310003100
+HOLLY SPRINGS CHURCH RD                                     0310003100
+HOLT LN                                                     0310003100
+HONEY CREEK RD                                              0310003100
+HONEYSUCKLE LN                                              0310003100
+HOTEL RD                                                    0310003100
+HOUCHIN FERRY RD                                            0310103101
+HOWARD MADISON RD                                           0310003100
+HUDSON LN                                                   0310003100
+HUDSON RD                                                   0310003100
+HUFF RIDGE RD                                               0310003100
+HUNT CHURCH RD                                              0310003100
+I LINDSEY RD                                                0310003100
+I65 N                                                       0310003100
+I65 S                                                       0310003100
+INDIAN CREEK RD                                             0310003100
+INDIAN VILLAGE                                              0310003100
+IRIS LN                                                     0310003100
+IRONGATE CT                                                 0310003100
+IRONWOOD DR                                                 0310003100
+J CARROLL RD                                                0310003100
+J MILLS RD                                                  0310003100
+J MOODY RD                                                  0310003100
+J O DAVIS RD                                                0310003100
+J R HUFF RD                                                 0310003100
+J STEVENS CEMETERY RD                                       0310003100
+JAGGERS PAGE RD                                             0310003100
+JAGGERS RD                                                  0310003100
+JAMES PARSLEY RD                                            0310003100
+JAY BIRD LN                                                 0310003100
+JENJOHN RD                                                  0310003100
+JENNIFER CT                                                 0310003100
+JEROME LOGSDON RD                                           0310003100
+JIM COLE RD                                                 0310003100
+JIM MEREDITH RD                                             0310003100
+JOCK RD                                                     0310003100
+JOE HIGGS RD                                                0310003100
+JOHN MILLER RD                                              0310003100
+JOHNSON CEMETERY RD                                         0310003100
+JONES RD                                                    0310003100
+JOSEPH CT                                                   0310003100
+JR PRATHER RD                                               0310003100
+JUNIPER LN                                                  0310003100
+K WILSON RD                                                 0310003100
+KAILEY CT                                                   0310003100
+KEITH WAY                                                   0310003100
+KELWOOD AVE                                                 0310103101
+KENWOOD CT                                                  0310003100
+KERR RD                                                     0310003100
+KEY CEMETERY RD                                             0310003100
+KIDWELL RD                                                  0310003100
+KINSER LN                                                   0310003100
+KINSLOW CEMETERY RD                                         0310003100
+KNOBS RD                                                    0310003100
+KY259 N                                                     0310003100
+KY259 N                                                     0310103101
+KY70 N                                                      0310103101
+KYROCK RD                                                   0310003100
+L HICKS RD                                                  0310003100
+L WHITTLE RD                                                0310003100
+LAKE ACCESS                                                 0310003100
+LAKE DR                                                     0310003100
+LAKE FOREST DR                                              0310003100
+LAKE FOREST PROPERTIES NO3                                  0310003100
+LAKE RD                                                     0310003100
+LAKE SHORE CIR                                              0310003100
+LAKE SHORE DR                                               0310003100
+LAKE SHORE LN                                               0310003100
+LAKE VIEW CT                                                0310003100
+LAKESHORE DR                                                0310003100
+LAKESIDE DR                                                 0310003100
+LAKESIDE DRIVE SPUR                                         0310003100
+LAKEVIEW DR                                                 0310003100
+LAKEVIEW MANOR DR                                           0310003100
+LAKEWAY DR                                                  0310003100
+LASHLEY LN                                                  0310003100
+LAUREL RIDGE BRANCH RD                                      0310003100
+LAUREL RIDGE RD                                             0310003100
+LAUREN WAY                                                  0310003100
+LAWLER RD                                                   0310003100
+LAZY ACRES LN                                               0310003100
+LEWIS RD                                                    0310003100
+LILAC LN                                                    0310003100
+LILLI LN                                                    0310003100
+LINCOLN SCHOOL RD                                           0310003100
+LINCOLN TRAIL RD                                            0310003100
+LINDSEY VIEW RD                                             0310003100
+LINDSEYVILLE LOOP                                           0310003100
+LITTLE BEAVER CREEK RD                                      0310003100
+LITTLE HENRY MEREDITH RD                                    0310003100
+LITTLE MOUNTAIN RD                                          0310003100
+LOCK RD                                                     0310003100
+LOCK RD                                                     0310103101
+LOGAN RD                                                    0310003100
+LOGSDON RD                                                  0310003100
+LONG CEMETERY RD                                            0310003100
+LONG FALL CIR                                               0310003100
+LONG FALL RD                                                0310003100
+LOUIS MEREDITH RD                                           0310003100
+LOUISVILLE RD                                               0310003100
+LUTTRELL CEMETERY RD                                        0310003100
+LUTTRELL CEMETERY RD                                        0310103101
+M MEREDITH RD                                               0310003100
+MAGGIE ASHLEY RD                                            0310003100
+MAGNOLIA LN                                                 0310003100
+MAINTENANCE RD                                              0310003100
+MALCOM DOYLE RD                                             0310003100
+MAMMOTH CAVE PARK RD                                        0310003100
+MAMMOTH CAVE PKWY                                           0310003100
+MAMMOTH CAVE RD                                             0310003100
+MAMMOTH CAVE RD                                             0310103101
+MAPLE DR                                                    0310003100
+MAPLE SPRINGS LOOP RD                                       0310003100
+MAPLE ST                                                    0310103101
+MARCUS RD                                                   0310003100
+MARTIN PIERCE RD                                            0310003100
+MARVIN CT                                                   0310003100
+MATH MENTON RD                                              0310003100
+MATTINGLY RD                                                0310003100
+MAYFLOWER RD                                                0310003100
+MAYHARD DR                                                  0310003100
+MAYWOOD DR                                                  0310003100
+MCGREW CEMETERY RD                                          0310003100
+MCLELLAN STONE COMPANY RD                                   0310003100
+MEADOW LN                                                   0310003100
+MEADOWLARK LN                                               0310003100
+MICHAELS COVE DR                                            0310003100
+MIESEL CEMETERY RD                                          0310003100
+MILL ST                                                     0310103101
+MILLER RD                                                   0310003100
+MOCKINGBIRD LN                                              0310003100
+MOHAWK RD                                                   0310003100
+MOHAWK ST                                                   0310103101
+MONROE WILSON RD                                            0310003100
+MOON RD                                                     0310003100
+MORGAN RD                                                   0310003100
+MORGANTOWN RD                                               0310003100
+MORGANTOWN RD                                               0310103101
+MORNING DOVE LN                                             0310003100
+MOUNTAIN LAUREL RD                                          0310003100
+MOUTARDIER RD                                               0310003100
+MOUTARDIER SHORES DR                                        0310003100
+MOUTARDIER SHORES DRIVE SPUR                                0310003100
+MOUTARDIER WOODS CIR                                        0310003100
+MOUTARDIER WOODS CT                                         0310003100
+MOUTARDIER WOODS WAY                                        0310003100
+MOUTARIDER WOODS RD                                         0310003100
+MOUTH OF BEAR CREEK RD                                      0310003100
+MT ZION RD                                                  0310003100
+N ALEXANDER CREEK RD                                        0310003100
+N HAWKS RD                                                  0310003100
+N MAIN ST                                                   0310103101
+NAME UNKNOWN                                                0310003100
+NELSON HOUCHIN RD                                           0310003100
+NEW DISCOVERY RD                                            0310003100
+NEW GROVE RD                                                0310003100
+NEW HOME CHURCH RD                                          0310003100
+NEWKIRK RD                                                  0310003100
+NIGHTINGALE LN                                              0310003100
+NOAH STEPHENSON RD                                          0310003100
+NOEL RAYMER RD                                              0310003100
+NOLIN CHURCH RD                                             0310003100
+NOLIN CT                                                    0310003100
+NOLIN DAM RD                                                0310003100
+NOLIN DR                                                    0310003100
+OAK CIRCLE DR                                               0310003100
+OAK GROVE CHURCH RD                                         0310003100
+OAK HILL CEMETERY RD                                        0310003100
+OAK HILL CEMETERY SPUR RD                                   0310003100
+OAK HILL RD                                                 0310003100
+OAK HILL RD                                                 0310103101
+OAK ST                                                      0310003100
+OAK TREE LN                                                 0310003100
+OAK VIEW DR                                                 0310003100
+OAKLAND DR                                                  0310003100
+OAKLAND HILLS BLVD                                          0310003100
+OAKLAND HILLS CIR                                           0310003100
+OAKMOUNT BAY DR                                             0310003100
+OGOLEY WAY                                                  0310003100
+OKLAHOMA RD                                                 0310003100
+OLD BIG REEDY RD                                            0310003100
+OLD DRIPPING SPRINGS RD                                     0310003100
+OLD KY 101 RD                                               0310003100
+OLD KYROCK RD                                               0310003100
+OLD SEGAL SPUR RD                                           0310003100
+OLLIE HOUCHIN FERRY RD                                      0310003100
+OLLIE RD                                                    0310003100
+OLLIE RIDGE RD                                              0310003100
+ORVILLE CARROLL RD                                          0310003100
+OSCAR RAYMER RD                                             0310003100
+OTTER GAP RD                                                0310003100
+P LINDSEY RD                                                0310003100
+PAGE ST                                                     0310103101
+PAPA CT                                                     0310003100
+PARADISE WAY                                                0310003100
+PARK BOUNDARY RD                                            0310003100
+PARK CITY RD                                                0310003100
+PARK MAMMOTH RD                                             0310003100
+PARK PLACE ST                                               0310103101
+PARK VIEW CIR                                               0310103101
+PARKER WAY                                                  0310003100
+PATTON RD                                                   0310003100
+PAUL BURBA RD                                               0310003100
+PAVILION                                                    0310003100
+PAW PAW LN                                                  0310003100
+PAXTON RD                                                   0310003100
+PENN RUN RD                                                 0310003100
+PENNER RD                                                   0310003100
+PICNIC AREA RD                                              0310003100
+PIG RD                                                      0310003100
+PIN OAK LN                                                  0310003100
+PINE GROVE CHURCH RD                                        0310003100
+PINE ST                                                     0310003100
+PINE ST                                                     0310103101
+PINE VIEW DR                                                0310003100
+PINES RD                                                    0310003100
+PINEVIEW DR                                                 0310003100
+POPLAR DR                                                   0310003100
+POPLAR LN                                                   0310003100
+POPLAR SPRINGS RD                                           0310003100
+PRESTON VINCENT RD                                          0310003100
+QUAIL LN                                                    0310003100
+QUARTER HORSE LN                                            0310003100
+R FARRIS RD                                                 0310003100
+R KELLY RD                                                  0310003100
+R LINDSEY RD                                                0310003100
+RABBIT LN                                                   0310003100
+RACE ST                                                     0310003100
+RAILROAD ST                                                 0310003100
+RALPH BURBA RD                                              0310003100
+RAMSEY RD                                                   0310003100
+RAY ASHLEY RD                                               0310003100
+RAY HOUCHIN RD                                              0310003100
+RAY VINCENT RD                                              0310003100
+RED CEDAR LN                                                0310003100
+RED OAK LN                                                  0310003100
+REDBUD LN                                                   0310003100
+REDWOOD LN                                                  0310003100
+REED DR                                                     0310003100
+REED RD                                                     0310003100
+REEF RD                                                     0310003100
+RENFRO CEMETERY RD                                          0310003100
+RENFRO RAY RD                                               0310003100
+RESERVOIR ST                                                0310103101
+REYNOLDS RD                                                 0310003100
+RIDGE LINE LN                                               0310003100
+RIDGEVIEW DR                                                0310003100
+RIPPLING CREEK RD                                           0310003100
+RIVER RUN LN                                                0310003100
+RIVER RUN RD                                                0310003100
+ROBIN DR                                                    0310003100
+ROCK HARBOR LN                                              0310003100
+ROCKY HILL HAYES RD                                         0310003100
+ROCKY HILL RD                                               0310003100
+ROCKY HILL SCHOOL RD                                        0310003100
+ROGER LINDSEY RD                                            0310003100
+ROLLING WAY                                                 0310003100
+ROOSTER LN                                                  0310003100
+ROY DAVIS RD                                                0310003100
+ROYS RD                                                     0310003100
+RUBY AVE                                                    0310003100
+S ALEXANDER CREEK RD                                        0310003100
+S BASHAM RD                                                 0310003100
+S MAIN ST                                                   0310103101
+SAL ASHLEY RD                                               0310003100
+SALEM CHURCH RD                                             0310003100
+SALEM RD                                                    0310003100
+SALLY SANDERS RD                                            0310003100
+SAM BRADLEY RD                                              0310003100
+SANDERS BLVD                                                0310003100
+SANDERS RD                                                  0310003100
+SANDSTONE ST                                                0310003100
+SANDY FLAT RD                                               0310003100
+SANDY FLAT RD                                               0310103101
+SARAH SMITH RD                                              0310003100
+SAWMILL RD                                                  0310003100
+SCENIC DR                                                   0310003100
+SEABOLT RD                                                  0310003100
+SEGAL RD                                                    0310003100
+SERENITY COVE LN                                            0310003100
+SHADY LAND CHURCH RD                                        0310003100
+SHADY LAND RD                                               0310003100
+SHADY LN                                                    0310003100
+SHELBY ST                                                   0310103101
+SILAS HUNT RD                                               0310003100
+SILENT GROVE CHURCH RD                                      0310003100
+SIM HIGGS RD                                                0310003100
+SIMS DR                                                     0310003100
+SIPES WAY                                                   0310003100
+SLAVE CAVE RD                                               0310003100
+SLEEPY HOLLOW RD                                            0310003100
+SMITH CIRCLE DR                                             0310003100
+SMITH JACK CEMETERY RD                                      0310003100
+SMITH RD                                                    0310003100
+SNAPDRAGON LN                                               0310003100
+SNOWBIRD LN                                                 0310003100
+SORENTO DR                                                  0310003100
+SOUTHEND RETREATS LN                                        0310003100
+SPARROW LN                                                  0310003100
+SPILLMAN LN                                                 0310003100
+SPINKS CEMETERY RD                                          0310003100
+SPRUCE LN                                                   0310003100
+ST JOHNS CHURCH RD                                          0310003100
+STAFF CABINS RD                                             0310003100
+STARLING LN                                                 0310003100
+STEWART RD                                                  0310003100
+STICE RD                                                    0310003100
+STINNET RD                                                  0310003100
+STOCKHOLM CHURCH RD                                         0310003100
+STOCKHOLM RD                                                0310003100
+STONE GATE DR                                               0310003100
+STONE HILL DR                                               0310003100
+STONE HILL RD                                               0310003100
+STONECROP LN                                                0310003100
+STONEVIEW AVE                                               0310103101
+STROUD DECKER LN                                            0310003100
+SUGAR MAPLE LN                                              0310003100
+SULPHUR RD                                                  0310003100
+SUMMIT WAY                                                  0310003100
+SUNFISH BEE SPRING RD                                       0310003100
+SUNFISH RD                                                  0310003100
+SUNFISH ROUND HILL RD                                       0310003100
+SUNFISH SCHOOL RD                                           0310003100
+SUNFISH SUNNY POINT RD                                      0310003100
+SUNFLOWER LN                                                0310003100
+SUNNY POINT RD                                              0310003100
+SUNSET DR                                                   0310003100
+SUNSET LN                                                   0310003100
+T LINDSEY RD                                                0310003100
+TAILWATER NOLIN LAKE RD                                     0310003100
+TANSY LN                                                    0310003100
+TARA RD                                                     0310003100
+TARTER RD                                                   0310003100
+TAYLOR RD                                                   0310003100
+TERRA VILLA CT                                              0310003100
+TERRA VILLA DR                                              0310003100
+THE BRIDGE RD                                               0310003100
+THREE OAKS DR                                               0310103101
+TIMBERWOOD DR                                               0310003100
+TONY HOUCHIN RD                                             0310003100
+TOWER RD                                                    0310003100
+TRAIL WOOD DR                                               0310003100
+TRAILWOODS CT                                               0310003100
+TRAILWOODS DR                                               0310003100
+TROY GOINS RD                                               0310003100
+TULIP POPLAR LN                                             0310003100
+TUPELO RIDGE RD                                             0310003100
+TWIN OAKS DR                                                0310003100
+TWIN SPRINGS RD                                             0310003100
+UGLY CREEK RD                                               0310003100
+UNION LIGHT CHURCH RD                                       0310003100
+UNION LIGHT RD                                              0310003100
+UPPER SMITH GROVE RD                                        0310003100
+V SANDERS RD                                                0310003100
+VANMETER CEMETERY RD                                        0310003100
+VERNON DWYER RD                                             0310003100
+VESSELS RD                                                  0310003100
+VETERANS MEMORIAL HWY                                       0310003100
+VETERANS MEMORIAL HWY                                       0310103101
+VETERANS ST                                                 0310103101
+VILLA DR                                                    0310003100
+VINCENT CEMETERY RD                                         0310003100
+VINCENT ST                                                  0310103101
+VISITORS CENTER RD                                          0310003100
+W FORK REEDY CREEK RD                                       0310003100
+W JACKSON ST                                                0310103101
+W M BONNE LN                                                0310003100
+W MAIN CROSS ST                                             0310103101
+W VINCENT RD                                                0310003100
+WADE RD                                                     0310003100
+WALNUT DR                                                   0310003100
+WALTER WOLFE RD                                             0310003100
+WARD WATT RD                                                0310003100
+WARREN HAYES RD                                             0310003100
+WASHINGTON ST                                               0310103101
+WAVIE ROOF RD                                               0310003100
+WAYNE SANDERS RD                                            0310003100
+WELLS LN                                                    0310003100
+WELLS ST                                                    0310003100
+WHALEN RD                                                   0310003100
+WHITE BUD LN                                                0310003100
+WHITE OAK DR                                                0310003100
+WHITE OAK LN                                                0310003100
+WHITE WAY                                                   0310003100
+WHITEWOOD LN                                                0310003100
+WILBURN DECKER LN                                           0310003100
+WILDERNESS RD                                               0310003100
+WILKINS CEMETERY RD                                         0310003100
+WILLIAM SIMMONS RD                                          0310003100
+WILLIE RHEA RD                                              0310003100
+WILLIE WEBB RD                                              0310003100
+WILLIE WEBB RD                                              0310103101
+WILLOW LN                                                   0310003100
+WILSHIRE CT                                                 0310003100
+WINDFLOWER LN                                               0310003100
+WINDING CREEK RD                                            0310003100
+WINDSOR WAY                                                 0310003100
+WINDY LN                                                    0310003100
+WINDY RD                                                    0310003100
+WINGFIELD CHURCH RD                                         0310003100
+WINGS RD                                                    0310003100
+WINSOR CT                                                   0310003100
+WOLFE LN                                                    0310003100
+WOODLAND COTTAGE RD                                         0310003100
+WOODLAND DR                                                 0310003100
+WOODLAND RD                                                 0310003100
+WOOSLEY DR                                                  0310003100
+WREN LN                                                     0310003100
+WRIGHT LN                                                   0310003100
+YELLOW WOOD LN                                              0310003100
+YORK ST                                                     0310103101

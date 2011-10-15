@@ -151,7 +151,7 @@ ActiveRecord::Schema.define(:version => 20111013013231) do
   create_table "street_names", :force => true do |t|
     t.string   "code"
     t.string   "local_code"
-    t.integer  "city_id"
+    t.integer  "county_id"
     t.string   "name"
     t.boolean  "active",     :default => true
     t.datetime "created_at"

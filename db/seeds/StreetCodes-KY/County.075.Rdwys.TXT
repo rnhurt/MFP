@@ -1,0 +1,475 @@
+2ND ST                                                      0750007500
+2ND ST                                                      0750407504
+A C MOORE LN S                                              0750007500
+ADAMS AVE                                                   0750407504
+ADAMS SCHOOLHOUSE RD                                        0750007500
+ALBIN ST                                                    0750007500
+ARCHIE KEOWN LN                                             0750007500
+ARNOLD DR                                                   0750007500
+ATHERTON RD                                                 0750007500
+ATHERTON ST                                                 0750207502
+B RICKARD RD                                                0750007500
+BARRETT HILL RD                                             0750007500
+BASIL YOUNG RD                                              0750007500
+BATES HOLLOW LN                                             0750007500
+BATES RD                                                    0750007500
+BATSEL RD                                                   0750007500
+BELL RD                                                     0750007500
+BELLS FERRY LN                                              0750007500
+BELLS LN                                                    0750007500
+BETHEL CHURCH RD                                            0750007500
+BEULAH CHURCH RD                                            0750007500
+BIBB LN                                                     0750007500
+BILL DAME RD                                                0750007500
+BILL TAYLOR RD                                              0750007500
+BILL THOMAS LN                                              0750007500
+BODO LLOYD RD                                               0750007500
+BOEHLERS KNOBB RD                                           0750007500
+BOHANNON RD                                                 0750007500
+BOSTON CEMETERY LN                                          0750007500
+BOSTON LN                                                   0750007500
+BOXWOOD DR                                                  0750007500
+BRANCH SCHOOLHOUSE RD                                       0750007500
+BRANCH ST                                                   0750107501
+BRAZZEL RD                                                  0750007500
+BRENTWOOD DR                                                0750007500
+BRIARCLIFF DR                                               0750007500
+BRIARFIELD SCHOOLHOUSE RD                                   0750007500
+BROOKHAVEN DR                                               0750007500
+BROOKS SCHOOL HOUSE SPUR                                    0750007500
+BROOKS SCHOOLHOUSE RD                                       0750007500
+BROWN EUBANKS RD                                            0750007500
+BROWNS LN                                                   0750207502
+BUCK CREEK CHURCH RD                                        0750007500
+BUCK EDWARDS RD                                             0750007500
+BUEL DR                                                     0750007500
+BUNN COBB RD                                                0750007500
+CABBAGE RD                                                  0750007500
+CALHOUN ELEMENTARY DR                                       0750107501
+CANE RUN LN                                                 0750007500
+CANTERMAN RD                                                0750007500
+CARL JEWELL LN                                              0750007500
+CARTWRIGHT LN                                               0750207502
+CARVER DR                                                   0750307503
+CEDAR ST                                                    0750407504
+CEMETERY ST                                                 0750407504
+CENTER ST                                                   0750107501
+CHAMBERS LN                                                 0750007500
+CHARLES AVE                                                 0750207502
+CHARLES CT                                                  0750207502
+CHERRY LN                                                   0750007500
+CHERRY ST                                                   0750307503
+CHERRY ST                                                   0750407504
+CHESTNUT ST                                                 0750007500
+CHESTNUT ST                                                 0750307503
+CITY LN                                                     0750007500
+CLAUDE BATES RD                                             0750007500
+CLEOPATRA RD                                                0750007500
+CLYDE DAME LN                                               0750007500
+COFFMAN SCHOOLHOUSE RD                                      0750007500
+COLLEGE ST                                                  0750007500
+COMY DOCK RD                                                0750207502
+COW ALY                                                     0750107501
+COX RD                                                      0750007500
+CRABTREE RD                                                 0750007500
+CRAIG LN                                                    0750007500
+CRAWLEY DR                                                  0750107501
+CREEKSIDE DR                                                0750007500
+DANIELS ST                                                  0750407504
+DAVID LN                                                    0750207502
+DAVIS ST                                                    0750207502
+DENHART LN                                                  0750007500
+DEPOT ST                                                    0750207502
+DICK BALES LN                                               0750007500
+DILLAHAY DAME LOOP                                          0750007500
+DOGWOOD DR                                                  0750007500
+DORIS ST                                                    0750207502
+DOSS DR                                                     0750007500
+DOUG HILL RD                                                0750007500
+DR BROWN LN                                                 0750007500
+DRIFTWOOD DR                                                0750007500
+DUBLIN ST                                                   0750207502
+DUSTY LN                                                    0750007500
+DUVALL CT                                                   0750207502
+E 1ST ST                                                    0750107501
+E 1ST ST                                                    0750207502
+E 1ST ST                                                    0750307503
+E 2ND ST                                                    0750107501
+E 2ND ST                                                    0750207502
+E 2ND ST                                                    0750307503
+E 3RD ST                                                    0750107501
+E 3RD ST                                                    0750207502
+E 3RD ST                                                    0750307503
+E 4TH ST                                                    0750107501
+E 4TH ST                                                    0750207502
+E 5TH ST                                                    0750207502
+E 6TH ST                                                    0750207502
+E 7TH ST                                                    0750007500
+E 7TH ST                                                    0750107501
+E 7TH ST                                                    0750207502
+E 8TH ST                                                    0750107501
+E 8TH ST                                                    0750207502
+E BROADWAY ST                                               0750007500
+E BROADWAY ST                                               0750207502
+E BROADWAY ST                                               0750407504
+E CALVERT LN                                                0750007500
+E CALVERT LN                                                0750407504
+E DUVAL CT                                                  0750207502
+E DUVALL CT                                                 0750207502
+E HARMONS FERRY RD                                          0300007500
+E LOCUST ST                                                 0750407504
+E MAIN ST                                                   0750007500
+E MAIN ST                                                   0750407504
+E WILLOW LN                                                 0750007500
+EASTWOOD CT                                                 0750407504
+EASTWOOD FERRY RD                                           0750007500
+EDDS DR                                                     0750107501
+ELM ST                                                      0750207502
+ELM ST                                                      0750307503
+EUBANK RD                                                   0750007500
+EVANS LOOP                                                  0750007500
+EVERETT CHERRY LN                                           0750007500
+EVERETT MILLER LN                                           0750007500
+FIREHOUSE LN                                                0750107501
+FORD EAST LN                                                0750007500
+FORD WEST LN                                                0750007500
+FORREST KING RD                                             0750007500
+FOSTER LN                                                   0750007500
+FOX HOLLOW RD                                               0750007500
+FREDS HILL LN                                               0750007500
+GARRETT ST                                                  0750307503
+GIBSON MILL RD                                              0750007500
+GRAVEL FORD LN                                              0750007500
+GREEN ACRES DR                                              0750007500
+GUY SETTLE LOOP                                             0750007500
+HALL SCHOOL RD                                              0750007500
+HAMER LN                                                    0750107501
+HAMILTON JOHNSON LOOP                                       0750007500
+HANKINS LN                                                  0750007500
+HANNA DR                                                    0750007500
+HATFIELD STEVENS RD                                         0750007500
+HAYNES SCOTT LN                                             0750007500
+HENNING LN                                                  0750007500
+HENNINGER DR                                                0750007500
+HENRY THOMAS LN                                             0750007500
+HENSON MARTIN RD                                            0750007500
+HENTON ST                                                   0750007500
+HENTON ST                                                   0750207502
+HERITAGE LN                                                 0750007500
+HERMAN PINKSTON LN                                          0750007500
+HICKORY                                                     0750307503
+HICKORY HILLS DR                                            0750007500
+HICKS AVE                                                   0750207502
+HICKS RD                                                    0750007500
+HIGGS LN                                                    0750007500
+HIGH BANKS LN                                               0750007500
+HIGH ST                                                     0750107501
+HIGH ST                                                     0750407504
+HILL ST                                                     0750207502
+HOMER AUSTIN LN                                             0750007500
+HOSEA BROWN LN                                              0750007500
+HOWARD RD                                                   0750007500
+HOWARDS MILL RD                                             0750007500
+HUDSON LN                                                   0750007500
+HUDSON LOOP                                                 0750007500
+HUDSON SPUR                                                 0750007500
+HUNT LN                                                     0750007500
+IGLEHART RD                                                 0750007500
+INDUSTRIAL DR                                               0750207502
+INDUSTRIAL DRIVE SPUR                                       0750207502
+INDUSTRY LN                                                 0750007500
+IVAN BROWN RD                                               0750007500
+J H HAYDEN LN                                               0750007500
+J I WEST RD                                                 0750007500
+J W BAILEY LOOP                                             0750007500
+JACKSON ST                                                  0750207502
+JAN FLOYD LN                                                0750007500
+JARVIS LN                                                   0750207502
+JEREMIAH LN                                                 0750007500
+JEWELL LN                                                   0750007500
+JEWELL RD                                                   0750007500
+JIM DANIELS RD                                              0750007500
+JIM PORTER LN                                               0750007500
+JOE DENT LN                                                 0750007500
+JOHNNY LEE LN                                               0750007500
+JOHNSON DR                                                  0750107501
+JONES LN                                                    0750007500
+KALISTA DR                                                  0750007500
+KASSINGER LN                                                0750007500
+KIRTLEY AVE                                                 0750407504
+KY1046                                                      0750007500
+KY1080                                                      0750007500
+KY1155                                                      0750007500
+KY1233                                                      0750007500
+KY136 E                                                     0750007500
+KY136 E                                                     0750107501
+KY136 E                                                     0750207502
+KY136 W                                                     0750007500
+KY136 W                                                     0750107501
+KY138 E                                                     0750007500
+KY138 W                                                     0750007500
+KY140                                                       0750007500
+KY140 W                                                     0750007500
+KY1587                                                      0750007500
+KY1589                                                      0750007500
+KY1792                                                      0750007500
+KY2109                                                      0750007500
+KY2110                                                      0750007500
+KY2156                                                      0750007500
+KY2226                                                      0750007500
+KY2383                                                      0750007500
+KY2385                                                      0750007500
+KY250                                                       0750007500
+KY254                                                       0750007500
+KY256                                                       0750007500
+KY258                                                       0750007500
+KY3470                                                      0750007500
+KY554                                                       0750007500
+KY56 N                                                      0750007500
+KY56 W                                                      0750007500
+KY593                                                       0750007500
+KY796                                                       0750007500
+KY797                                                       0750007500
+KY798                                                       0750007500
+KY81 N                                                      0750007500
+KY81 N                                                      0750107501
+KY81 S                                                      0750007500
+KY815                                                       0750007500
+KY85                                                        0750007500
+KY85 E                                                      0750007500
+KY85 W                                                      0750007500
+L V DANT ST                                                 0750007500
+LATHAM LN                                                   0750007500
+LATHAM LN                                                   0750407504
+LAWRENCE ST                                                 0750207502
+LEACHMAN SCHOOLHOUSE RD                                     0750007500
+LEE LN                                                      0750307503
+LEE RD                                                      0750007500
+LEMON LN                                                    0750007500
+LESLIE SMITH RD                                             0750007500
+LIBERTY ST                                                  0750007500
+LIVERMORE SCHOOL A                                          0750207502
+LIVERMORE SCHOOL B                                          0750207502
+LODGE ST                                                    0750407504
+LOGSDON LN                                                  0750007500
+LOUIS WOOSLEY LN                                            0750007500
+LYONS LN                                                    0750007500
+LYONS LN                                                    0750307503
+M MOREHEAD LN                                               0750007500
+MACKEY CEMETERY LN                                          0750007500
+MAIN ST                                                     0750007500
+MAIN ST                                                     0750107501
+MAIN ST                                                     0750207502
+MAIN ST                                                     0750307503
+MAPLE DR                                                    0750007500
+MAPLE ST                                                    0750407504
+MAURICE EVERLY LN                                           0750007500
+MCLEAN COUNTY HIGH SCHOOL A                                 0750007500
+MCLEAN COUNTY HIGH SCHOOL B                                 0750007500
+MCLEAN COUNTY HIGH SCHOOL C                                 0750007500
+MCLEAN COUNTY HIGH SCHOOL D                                 0750007500
+MCLEAN COUNTY HIGH SCHOOL E                                 0750007500
+MCLEAN COUNTY MIDDLE A                                      0750007500
+MCLEAN COUNTY MIDDLE B                                      0750007500
+MEADOW DR                                                   0750007500
+MEADOWLARK DR                                               0750007500
+MEADOWVIEW DR                                               0750407504
+MELODY LN                                                   0750007500
+MEYER ST                                                    0750207502
+MILL ST                                                     0750007500
+MILLPORT RD                                                 0750007500
+MOCKINGBIRD DR                                              0750107501
+MORRIS RD                                                   0750007500
+MORTON AVE                                                  0750207502
+MT LIBERTY CHURCH RD                                        0750007500
+MULBERRY ST                                                 0750207502
+MULBERRY ST                                                 0750407504
+MURPHY LN                                                   0750007500
+MYER CREEK PARK LN                                          0750007500
+MYSTERY HSE LN                                              0750007500
+McELWAIN RD                                                 0750007500
+McGEE CHAPEL RD                                             0750007500
+N 1ST ST                                                    0750407504
+N A C MOORE LN                                              0750007500
+N CANAL ST                                                  0750007500
+N CATALPA ST                                                0750007500
+N HILAND AVE                                                0750407504
+N KAIZER LN                                                 0750007500
+N PLAIN LN                                                  0750007500
+N RATTLESNAKE LN                                            0750007500
+N SHORT ST                                                  0750207502
+N WASHINGTON ST                                             0750407504
+NELSON THOMASON LN                                          0750007500
+NICK ASHTON RD                                              0750007500
+NUCKOLS OLD BUCK CREEK RD                                   0750007500
+OAK HILL CT                                                 0750207502
+OAK HILL ST                                                 0750207502
+OAK ST                                                      0750207502
+OAK ST                                                      0750307503
+OAK ST                                                      0750407504
+OAK TREE                                                    0750107501
+OLD BUEL RD                                                 0750007500
+OLD CALHOUN RD                                              0750207502
+OLD ISLAND LIVERMORE RD                                     0750007500
+OLD ISLAND LIVERMORE RD                                     0750407504
+OLD LIVERMORE RD                                            0750007500
+OLD SACRAMENTO LN                                           0750007500
+OLD SACRAMENTO LN                                           0750407504
+OOST RD                                                     0750007500
+PACK CHURCH RD                                              0750007500
+PACK CHURCH ROSS SPUR                                       0750007500
+PARK LOOP                                                   0750007500
+PARK LOOP A                                                 0750007500
+PARK LOOP B                                                 0750007500
+PARK LOOP C                                                 0750007500
+PARK LOOP D                                                 0750007500
+PARK LOOP E                                                 0750007500
+PARK LOOP F                                                 0750007500
+PARK ST                                                     0750307503
+PASCAL KING RD                                              0750007500
+PATTERSON LN                                                0750007500
+PATTERSON RD                                                0750007500
+PEACH ST                                                    0750407504
+PEDLEY RD                                                   0750007500
+PETE RICKARD RD                                             0750007500
+PETE SCOTT LN                                               0750007500
+PIKE LN                                                     0750007500
+PINEVIEW DR                                                 0750007500
+PLEASANT HOPE CHURCH LN                                     0750007500
+POINT PLEASANT LN                                           0750007500
+POND DRAIN LOOP                                             0750007500
+POND DRAIN RD                                               0750007500
+POND DRAIN SPUR                                             0750007500
+POPLAR DR                                                   0750007500
+POPLAR ST                                                   0750107501
+POPLAR ST                                                   0750207502
+POPLAR ST                                                   0750307503
+PORTER SCHOOL RD                                            0750007500
+POSSUM TROT RD                                              0750007500
+PRELLS LN                                                   0750207502
+QUISENBERRY ST                                              0750007500
+RAILROAD ST                                                 0750407504
+RAY LN                                                      0750007500
+REEVES SCHOOL RD                                            0750007500
+RENO LN                                                     0750007500
+REVLETT DR                                                  0750107501
+REVLETT STROUD RD                                           0750007500
+REYNOLDS LN                                                 0750007500
+RICHLAND CHURCH LN                                          0750007500
+RICHLAND RD                                                 0750007500
+RIDGE CT                                                    0750207502
+RIDGE RD                                                    0750007500
+RIDGE ST                                                    0750207502
+RIVERSIDE LOOP                                              0750007500
+RIVERVIEW DR                                                0750107501
+ROLAND ST                                                   0750007500
+ROSS LN                                                     0750007500
+ROSS RD                                                     0750007500
+ROSS ST                                                     0750307503
+ROYAL CYPRESS DR                                            0750007500
+RUBY SUTTON DR                                              0750007500
+S 1ST ST                                                    0750007500
+S 1ST ST                                                    0750407504
+S CANAL ST                                                  0750007500
+S CATALPA ST                                                0750007500
+S HILAND AVE                                                0750407504
+S KAIZER LN                                                 0750007500
+S PLAIN LN                                                  0750007500
+S RATTLESNAKE LN                                            0750007500
+S WASHINGTON ST                                             0750407504
+SANDEFUR MANOR                                              0750107501
+SANDERFUR RD                                                0750007500
+SANDHILL CT                                                 0750207502
+SANDHILL RD                                                 0750007500
+SANDHILL RD                                                 0750207502
+SANITATION LN                                               0750007500
+SCHNIDER TANNER LN                                          0750007500
+SCHOOL ST                                                   0750007500
+SCHOOL ST                                                   0750207502
+SCHOOL ST                                                   0750407504
+SCHOOL STREET CT                                            0750207502
+SCOTTS BRIDGE RD                                            0750007500
+SHACKLETT DR                                                0750307503
+SHELBY ELLIS LN                                             0750007500
+SHULTZ LN                                                   0750007500
+SHUTT DR                                                    0750007500
+SHUTT LN                                                    0750007500
+SLAUGHTERS LN                                               0750007500
+SMITH DR                                                    0750007500
+SMITH ST                                                    0750007500
+STRINGER RD                                                 0750007500
+STROUD LEVY RD                                              0750007500
+SUNRISE DR                                                  0750407504
+SYCAMORE DR                                                 0750007500
+TEE PEE LN                                                  0750007500
+THERON JOHNSON RD                                           0750007500
+TIMBERLY DR                                                 0750007500
+TRADING POST LANE SPUR                                      0750007500
+TRADING POST LN                                             0750007500
+TRAILER RD                                                  0750007500
+TRAM RD                                                     0750007500
+TRICE LN                                                    0750007500
+TROGDEN LN                                                  0750007500
+TROUTMAN HILLS RD                                           0750007500
+TUCKER LN                                                   0750007500
+TUCKER RD                                                   0750007500
+TUCKER WILSON LN                                            0750007500
+TWIN BRIDGES LN                                             0750007500
+UPTON LN                                                    0750007500
+US431 N                                                     0750007500
+US431 S                                                     0750007500
+VANDIVER RD                                                 0750007500
+VAUGHT LN                                                   0750007500
+VETERANS MEM DR                                             0750107501
+VINE ST                                                     0750107501
+VIRGINIA LN                                                 0750007500
+W 1ST ST                                                    0750107501
+W 1ST ST                                                    0750207502
+W 1ST ST                                                    0750307503
+W 2ND ST                                                    0750107501
+W 2ND ST                                                    0750207502
+W 2ND ST                                                    0750307503
+W 3RD ST                                                    0750107501
+W 3RD ST                                                    0750207502
+W 3RD ST                                                    0750307503
+W 4TH ST                                                    0750107501
+W 4TH ST                                                    0750207502
+W 4TH ST                                                    0750307503
+W 5TH ST                                                    0750107501
+W 5TH ST                                                    0750207502
+W 5TH ST                                                    0750307503
+W 5TH STREET CT                                             0750207502
+W 6TH ST                                                    0750107501
+W 6TH ST                                                    0750207502
+W 6TH STREET CT                                             0750207502
+W 7TH ST                                                    0750107501
+W 7TH ST                                                    0750207502
+W BROADWAY                                                  0750207502
+W BROADWAY                                                  0750407504
+W CALVERT LN                                                0750007500
+W EIGHTH ST                                                 0750207502
+W HARMONS FERRY RD                                          0750007500
+W LOCUST ST                                                 0750407504
+W MAIN ST                                                   0750407504
+W SCHOOL RD                                                 0750007500
+W WILLOW LN                                                 0750007500
+WALLACE LYNN RD                                             0750007500
+WALNUT PARK DR                                              0750007500
+WALNUT ST                                                   0750007500
+WALNUT ST                                                   0750107501
+WALNUT ST                                                   0750207502
+WALNUT ST                                                   0750307503
+WALNUT ST                                                   0750407504
+WARD LN                                                     0750007500
+WARNER LN                                                   0750007500
+WATER PLANT RD                                              0750107501
+WHISTLE STOP ST                                             0750207502
+WHITMER RD                                                  0750007500
+WHOBREY RD                                                  0750007500
+WILBUR MAYS LN                                              0750007500
+WILHITE LN                                                  0750007500
+WILLOW ST                                                   0750207502
+WILSON LN                                                   0750107501
+WOOSLEY LN                                                  0750007500
+WOOTEN LN                                                   0750007500
+WORTHINGTON CHAPEL LN                                       0750007500

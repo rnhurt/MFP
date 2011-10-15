@@ -1,0 +1,1701 @@
+1ST ST                                                      0180001800
+1ST ST                                                      0180301803
+2ND ST                                                      0180001800
+2ND ST                                                      0180301803
+3RD ST                                                      0180001800
+3RD ST                                                      0180301803
+4TH ST                                                      0180001800
+4TH ST                                                      0180301803
+5TH ST                                                      0180001800
+5TH ST                                                      0180301803
+A B LASSITER RD                                             0180001800
+AARON RD                                                    0180001800
+ABE LINCOLN DR                                              0180001800
+ABILENE LN                                                  0180001800
+ACCESS ROAD NO1                                             0180001800
+ACORN LN                                                    0180001800
+ADAMS DR                                                    0180001800
+ADAMS ST                                                    0180101801
+AGATE LN                                                    0180001800
+AGNES BLVD                                                  0180001800
+AIRFIELD LN                                                 0180001800
+AIRPORT RD                                                  0180001800
+ALAN A DALE DR                                              0180101801
+ALBERT DR                                                   0180001800
+ALEX FORKS DR                                               0180001800
+ALEXANDER DR                                                0180001800
+ALFORD DR                                                   0180001800
+ALLBRITTEN LN                                               0180001800
+ALMO RD                                                     0180001800
+ALMO SHILOH RD                                              0180001800
+ALPINE RD                                                   0180001800
+ALTON TRAIL                                                 0180001800
+AMANDINE LN                                                 0180001800
+ANCHOR RD                                                   0180001800
+ANDERSON LN                                                 0180001800
+ANDERSON SHORES DR                                          0180001800
+ANDRUS DR                                                   0180101801
+ANGEL LN                                                    0180001800
+ANGELIA DR                                                  0180101801
+ANNA MARIE DR                                               0180001800
+ANTLER LN                                                   0180001800
+APOLLO DR                                                   0180001800
+APPLEGATE DR                                                0180001800
+APPLEWOOD RD                                                0180001800
+ARBOR DR                                                    0180001800
+ARCADIA ST                                                  0180101801
+ARNETT LN                                                   0180001800
+ARTESIAN DR                                                 0180001800
+ASBURY CEMETERY RD                                          0180001800
+ASBURY LN                                                   0180001800
+ASH ST                                                      0180101801
+ASTER DR                                                    0180001800
+ASTORIA CT                                                  0180001800
+ATKINS TRAIL                                                0180001800
+ATKINS WAY                                                  0180001800
+AUBURN LN                                                   0180001800
+AUDUBON DR                                                  0180101801
+AUSTIN CT                                                   0180001800
+AUTUMN DR                                                   0180001800
+AVALON LN                                                   0180001800
+AYERS CEMETERY                                              0180001800
+AZALEA CT                                                   0180101801
+AZTEC DR                                                    0180001800
+BACK ST                                                     0180101801
+BACKUSBURG RD                                               0180001800
+BAGWELL BLVD                                                0180101801
+BAGWELL CT                                                  0180101801
+BAGWELL DR                                                  0180101801
+BAILEY CEMETERY RD                                          0180001800
+BAILEY RD                                                   0180001800
+BAILEY SHORE DR                                             0180001800
+BAKERS CROSSROAD DR                                         0180001800
+BAMBI LN                                                    0180101801
+BANDARRA LN                                                 0180001800
+BARBER DR                                                   0180001800
+BAREFOOT LN                                                 0180001800
+BARHAM DR                                                   0180001800
+BARNACLE DR                                                 0180001800
+BARNES LN                                                   0180001800
+BARNETT CEMETERY RD                                         0180001800
+BARNETT ST                                                  0180301803
+BATTLEFIELD DR                                              0180101801
+BAUCUM LN                                                   0180001800
+BAY CT                                                      0180001800
+BAYBERRY DR                                                 0180001800
+BAYCOVE LN                                                  0180001800
+BAYPOINT LN                                                 0180001800
+BAYRIDGE CT                                                 0180001800
+BAYRIDGE RD                                                 0180001800
+BAYSHORE DR                                                 0180001800
+BAYSIDE LN                                                  0180001800
+BAYVALLEY DR                                                0180001800
+BAYVIEW CT                                                  0180001800
+BAYVIEW DR                                                  0180001800
+BAYWOOD LN                                                  0180001800
+BAYWOOD VISTA DR                                            0180001800
+BAZZELL CEMETERY RD                                         0180001800
+BEACH RD                                                    0180001800
+BEACHVIEW DR                                                0180001800
+BEALE ST                                                    0180101801
+BEAMAN RD                                                   0180001800
+BEANE RD                                                    0180001800
+BEARD DR                                                    0180001800
+BEAT FARMER RD                                              0180001800
+BECKER DR                                                   0180001800
+BECKETT DR                                                  0180101801
+BEDFORD DR                                                  0180101801
+BEE CREEK DR                                                0180101801
+BEECHY CREEK LN                                             0180001800
+BEECHY RD                                                   0180001800
+BELLA VISTA DR                                              0180001800
+BELLE MEADE DR                                              0180101801
+BELLFLOWER DR                                               0180001800
+BELMONT CT                                                  0180101801
+BELMONT DR                                                  0180101801
+BENDEFIELD LN                                               0180001800
+BERKSHIRE CT                                                0180101801
+BERLIN RD                                                   0180001800
+BETHEL RD                                                   0180001800
+BEVERLY LN                                                  0180001800
+BIG OAK LN                                                  0180001800
+BIGGSWAY RD                                                 0180001800
+BILHER LN                                                   0180001800
+BILLIE BRANCH RD                                            0180001800
+BILLY BRANCH RD                                             0180001800
+BILLY PASCHALL RD                                           0180001800
+BIRCHTREE DR                                                0180001800
+BIRCHWOOD DR                                                0180101801
+BIRNAMWOOD LN                                               0180001800
+BISON LN                                                    0180001800
+BLACK LOCUST DR                                             0180001800
+BLACKBERRY LN                                               0180001800
+BLACKBIRD LN                                                0180001800
+BLACKHAWK LN                                                0180001800
+BLAIR ST                                                    0180101801
+BLAKE DR                                                    0180001800
+BLEVINS LN                                                  0180001800
+BLISSFUL VIEW DR                                            0180101801
+BLOOD RIVER RD                                              0180001800
+BLUE JAY DR                                                 0180001800
+BLUE PINE DR                                                0180001800
+BLUE SKY LN                                                 0180001800
+BLUEBELL CIR                                                0180001800
+BLUEBIRD DR                                                 0180101801
+BLUEGILL LN                                                 0180001800
+BLUEGRASS LN                                                0180001800
+BOAT LAUNCH LN                                              0180001800
+BOATWRIGHT TRAIL                                            0180001800
+BOATWRIGHT TRL                                              0180001800
+BOBCAT LN                                                   0180001800
+BOBWHITE LN                                                 0180001800
+BOCKMAN DR                                                  0180001800
+BOEHM DR                                                    0180001800
+BOGGESS DR                                                  0180001800
+BOTTOMS LN                                                  0180001800
+BOUGHTON DR                                                 0180001800
+BOURLAND LN                                                 0180101801
+BOWRIDER DR                                                 0180001800
+BOXER LN                                                    0180001800
+BRAD CT                                                     0180001800
+BRANDON RD                                                  0180001800
+BRAY LN                                                     0180001800
+BREEZEWAY DR                                                0180001800
+BREEZEWOOD LN                                               0180001800
+BREEZEWOOD RD                                               0180001800
+BRENTWOOD DR                                                0180101801
+BRIARFIELD RD N                                             0180001800
+BRIARFIELD RD S                                             0180001800
+BRIDLE PATH DR                                              0180001800
+BRIDLEWOOD DR                                               0180001800
+BRINN RD                                                    0180001800
+BRINN RD                                                    0180101801
+BRITTANY LN                                                 0180001800
+BROAD ST                                                    0180101801
+BROOKFIELD LN                                               0180001800
+BROOKHAVEN DR                                               0180001800
+BROOKHAVEN DR                                               0180101801
+BROOKLYN DR                                                 0180101801
+BROOKS CHAPEL RD                                            0180001800
+BROOKS LN                                                   0180001800
+BROWN CIR                                                   0180001800
+BROWNS GROVE RD                                             0180001800
+BRUSH LN                                                    0180001800
+BUCHANAN LN                                                 0180001800
+BUCHANAN ST                                                 0180101801
+BUCK LN                                                     0180001800
+BUCKBRUSH LN                                                0180001800
+BUCY DR                                                     0180001800
+BUD CIR                                                     0180001800
+BUDDY LN                                                    0180001800
+BUFFALO RD                                                  0180001800
+BULLFROG LN                                                 0180001800
+BUNTING LN                                                  0180001800
+BURKEEN RD                                                  0180001800
+BURN RD                                                     0180001800
+BUTCHER LN                                                  0180001800
+BUTTERCUP DR                                                0180001800
+BUTTERFLY DR                                                0180001800
+BUTTERWORTH RD                                              0180001800
+BYARS RD                                                    0180001800
+BYNUM DR                                                    0180001800
+C C LOWRY DR                                                0180101801
+CADET DR                                                    0180001800
+CAIN DR                                                     0180001800
+CALDWELL RD                                                 0180001800
+CALLOWAY AVE                                                0180101801
+CALLOWAY LINE RD                                            0180004200
+CALLOWAY LN                                                 0180001800
+CALLOWAY ST                                                 0180301803
+CALUMET WAY                                                 0180001800
+CALVIN WILSON RD                                            0180001800
+CAMBRIDGE DR                                                0180001800
+CAMDEN CIR                                                  0180001800
+CAMELOT DR                                                  0180101801
+CAMPBELL ST                                                 0180101801
+CAMPUS SUITES BLVD                                          0180101801
+CAMPUS SUITES LOOP                                          0180101801
+CANAL DR                                                    0180001800
+CANDLELITE DR                                               0180001800
+CANOE DR                                                    0180001800
+CANTERBURY DR                                               0180101801
+CARA LYNN DR E                                              0180001800
+CARDINAL DR                                                 0180101801
+CARDINAL RIDGE LN                                           0180001800
+CARL BAILEY RD                                              0180001800
+CARL CRISP RD                                               0180001800
+CARLSON LN                                                  0180001800
+CARLTON RD                                                  0180001800
+CAROL DR                                                    0180001800
+CAROLWOOD WAY                                               0180101801
+CARTER LN                                                   0180001800
+CARTY RD                                                    0180001800
+CASEY DR                                                    0180001800
+CASSITY LN                                                  0180001800
+CASTLEWOOD LN                                               0180001800
+CATALINA CT                                                 0180101801
+CATALINA DR                                                 0180101801
+CATFISH DR                                                  0180001800
+CAVETT RD                                                   0180001800
+CECIL TAYLOR LN                                             0180001800
+CEDAR GLEN LN                                               0180001800
+CEDARHAVEN DR                                               0180001800
+CEDARHILL LN                                                0180001800
+CENTER DR                                                   0180101801
+CENTER RIDGE RD                                             0180001800
+CENTER ST                                                   0180301803
+CENTERVIEW RD                                               0180001800
+CENTURY DR                                                  0180001800
+CHAD WAYNE DR                                               0180101801
+CHADEN LN                                                   0180001800
+CHANCEY DR                                                  0180001800
+CHANDLER LN                                                 0180001800
+CHANNEL DR                                                  0180001800
+CHANNEL LN                                                  0180001800
+CHANTILLY DR                                                0180101801
+CHAPEL RD                                                   0180001800
+CHARLES DR                                                  0180001800
+CHARLESTOWN LN                                              0180001800
+CHARLEY MILLER RD                                           0180001800
+CHAUCER DR                                                  0180101801
+CHELSEA LN                                                  0180001800
+CHEROKEE HILLS DR                                           0180001800
+CHEROKEE TRAIL                                              0180001800
+CHERRY CORNER RD                                            0180001800
+CHERRY HILL LN                                              0180001800
+CHESTER DR                                                  0180001800
+CHESTNUT LN                                                 0180001800
+CHESTNUT ST                                                 0180101801
+CHICKADEE DR                                                0180001800
+CHICKORY DR                                                 0180101801
+CHIRP RD                                                    0180001800
+CHRIS DR                                                    0180101801
+CHRISTIAN LN                                                0180001800
+CHRISTINE DR                                                0180001800
+CHURCH ST                                                   0180001800
+CINDY DR                                                    0180001800
+CINDY LN                                                    0180001800
+CIRCARAMA DR                                                0180101801
+CLARK ST                                                    0180101801
+CLASSIC LN                                                  0180001800
+CLAYSHIRE DR                                                0180001800
+CLAYSHIRE DR                                                0180101801
+CLAYSTONE LN                                                0180001800
+CLAYTON DR                                                  0180001800
+CLAYTON TOWN RD                                             0180001800
+CLEAR LN                                                    0180001800
+CLEVELAND ST                                                0180101801
+CLIFFWOOD LN                                                0180001800
+CLOVERDALE TRAIL                                            0180001800
+COACH ESTATES DR                                            0180101801
+COACH ESTATES DR E                                          0180101801
+COACH ESTATES DR W                                          0180101801
+COATS DR                                                    0180001800
+CODY DR                                                     0180001800
+COHOON RD                                                   0180001800
+COLDWATER RD                                                0180101801
+COLEMAN BRANCH RD                                           0180001800
+COLEMAN CEMETERY RD                                         0180001800
+COLEMAN TRL                                                 0180001800
+COLEN JONES RD                                              0180001800
+COLES CAMPGROUND RD                                         0180001800
+COLLEGE FARM RD                                             0180101801
+COLLEGE TERRACE DR                                          0180101801
+COLLINS RD                                                  0180001800
+COLONIAL RD                                                 0180001800
+COLUMBUS LN                                                 0180001800
+CONCORD DR                                                  0180001800
+CONNER DR                                                   0180101801
+CONNIE DR                                                   0180001800
+COOK LN                                                     0180001800
+COOK STORE ST                                               0180001800
+COOK STORE TRL                                              0180001800
+COOKSEY DR                                                  0180001800
+COOLIDGE ST                                                 0180101801
+COOPER RD                                                   0180001800
+COOPERTOWN RD                                               0180001800
+COPELAND LN                                                 0180001800
+CORINNE DR                                                  0180001800
+CORNWALL DR                                                 0180101801
+COTTONWOOD LN                                               0180001800
+COUGAR DR                                                   0180001800
+COUNTRY CLUB LN                                             0180001800
+COUNTRY RD                                                  0180001800
+COUNTRYSIDE DR                                              0180001800
+COUNTY CORK DR                                              0180101801
+COURTNEY LN                                                 0180001800
+COVEY DR                                                    0180001800
+COY LN                                                      0180001800
+COZY DR                                                     0180001800
+CRABTREE RD                                                 0180001800
+CRAIG RD                                                    0180001800
+CRANFIELD LN                                                0180001800
+CRASS LN                                                    0180001800
+CRAWFORD TRL                                                0180001800
+CREEK DR                                                    0180001800
+CREEKSIDE LN                                                0180001800
+CREEKVIEW DR                                                0180001800
+CREEKWOOD DR                                                0180001800
+CREST LN                                                    0180001800
+CRESTVIEW LN                                                0180001800
+CRESTWOOD PL                                                0180101801
+CRICKET DR                                                  0180001800
+CRITTENDEN LN                                               0180001800
+CROAKER LN                                                  0180001800
+CROLEY LN                                                   0180001800
+CROSS SPANN RD                                              0180001800
+CROSS ST                                                    0180101801
+CROSSFIELD DR                                               0180101801
+CROSSLAND RD                                                0180001800
+CROSSOVER                                                   0180001800
+CROUCH RD                                                   0180001800
+CROWN LN                                                    0180001800
+CRUISER CT                                                  0180001800
+CRYSTAL BROOK LN                                            0180101801
+CULLOP LN                                                   0180001800
+CULP RD                                                     0180001800
+CULVER RD                                                   0180001800
+CUMMINGS CT                                                 0180001800
+CUNNINGHAM LN                                               0180001800
+CURD CEMETERY RD                                            0180001800
+CUT DR                                                      0180001800
+CYPRESS HARBOR CT                                           0180001800
+CYPRESS HARBOR DR                                           0180001800
+CYPRESS HARBOR PT                                           0180001800
+CYPRESS TRAIL                                               0180001800
+CYPRESS TRL                                                 0180001800
+DAIRY LN                                                    0180001800
+DALMATION DR                                                0180001800
+DALTON DR                                                   0180001800
+DANBURY RD                                                  0180101801
+DANCE DR                                                    0180001800
+DANIEL LN                                                   0180001800
+DARBY DAN DR                                                0180001800
+DARNELL RD                                                  0180001800
+DAYBREAK LN                                                 0180001800
+DEE DEE LN                                                  0180001800
+DEEP LN                                                     0180001800
+DEEPWOOD DR                                                 0180001800
+DEEPWOOD DR                                                 0180101801
+DEERBERRY LN                                                0180001800
+DEERCREST LN                                                0180001800
+DEERLAKE LN                                                 0180001800
+DEERPATH TRL                                                0180001800
+DEES ST                                                     0180301803
+DENA DR                                                     0180001800
+DENNY LN                                                    0180001800
+DEREK TRAIL                                                 0180001800
+DEREK TRL                                                   0180001800
+DEW LN                                                      0180001800
+DINKER DR                                                   0180001800
+DIUGUID DR                                                  0180101801
+DIXIE DR                                                    0180001800
+DOCK DR                                                     0180001800
+DOCKSIDE DR                                                 0180001800
+DOCKWAY LN                                                  0180001800
+DODD RD                                                     0180001800
+DODSON AVE                                                  0180101801
+DODSON LN                                                   0180001800
+DOE LN                                                      0180001800
+DOGWOOD DR                                                  0180101801
+DOGWOOD LN                                                  0180001800
+DONELSON LN                                                 0180001800
+DOORES TRAIL                                                0180001800
+DORAN RD                                                    0180101801
+DORAN RD S                                                  0180001800
+DORAN RD S                                                  0180101801
+DORIS LEE LN                                                0180001800
+DOUGLAS RD                                                  0180001800
+DOVE LN                                                     0180001800
+DOWDY TRAIL                                                 0180001800
+DOWNING RD                                                  0180001800
+DOWNS RD                                                    0180001800
+DOWNY DR                                                    0180001800
+DOWNY LN                                                    0180001800
+DREAM LN                                                    0180001800
+DRIFTWOOD DR                                                0180001800
+DRIFTWOOD LN                                                0180001800
+DRURY LN                                                    0180001800
+DUBLIN DR                                                   0180001800
+DUBLIN LN                                                   0180001800
+DUDE LN                                                     0180001800
+DUDLEY DR                                                   0180101801
+DUNAWAY LN                                                  0180001800
+DUNBAR RD                                                   0180001800
+DUNCAN TRL                                                  0180001800
+DUNHAM TRAIL                                                0180001800
+DUNLAP DR                                                   0180001800
+DUPREE DR                                                   0180001800
+DUSKY LN                                                    0180001800
+E FORK CLARKS RIVER DAY USE AREA                            0180001800
+E SYCAMORE ST                                               0180101801
+E W MILLER RD                                               0180001800
+E W MILLER ST                                               0180301803
+EAGLE DR                                                    0180001800
+EAGLE LOOK LN                                               0180001800
+EAGLE VIEW DR                                               0180001800
+EAKER LN                                                    0180001800
+EARL CT                                                     0180101801
+EAST DR                                                     0180001800
+EASTVIEW LN                                                 0180001800
+EASY ST                                                     0180001800
+EDGAR WAY                                                   0180001800
+EDGEHILL TRAIL                                              0180001800
+EDGEWOOD DR                                                 0180001800
+EDINBOROUGH DR                                              0180001800
+EDINBOROUGH DR                                              0180101801
+EDINBOROUGH DR W                                            0180001800
+EDWARDS RD                                                  0180001800
+EGRET LN                                                    0180001800
+EISENHOWER ST                                               0180101801
+ELDERBERRY DR                                               0180001800
+ELDRIDGE LN                                                 0180001800
+ELIZABETH LN                                                0180001800
+ELKINS LN                                                   0180001800
+ELLIOTT RD                                                  0180001800
+ELLIS DR                                                    0180101801
+ELLIS LN                                                    0180001800
+ELM GROVE RD                                                0180001800
+ELM ST                                                      0180001800
+ELM ST                                                      0180101801
+ELMBROOK CT                                                 0180101801
+ELMBROOK LN                                                 0180001800
+ELMHURST LN                                                 0180001800
+EMMA DR                                                     0180001800
+ENERGY RD                                                   0180001800
+ENGLISH DR                                                  0180001800
+ENIX DR                                                     0180001800
+ENOCH DR                                                    0180001800
+EQUESTRIAN DR                                               0180001800
+ERNSTBERGER LN                                              0180001800
+ERWIN RD                                                    0180001800
+EVANS LN                                                    0180001800
+EZELL RD                                                    0180001800
+FAIRGROUND RD                                               0180001800
+FAIRLANE DR                                                 0180101801
+FALCON DR                                                   0180001800
+FALWELL DR                                                  0180101801
+FALWELL LN                                                  0180001800
+FARM CENTER                                                 0180101801
+FARMER AVE                                                  0180101801
+FARRIS AVE                                                  0180101801
+FARRIS RD                                                   0180001800
+FARROW LN                                                   0180001800
+FAWNWOOD DR                                                 0180001800
+FAXON RD                                                    0180001800
+FERN LN                                                     0180001800
+FERNWOOD LN                                                 0180001800
+FIELDVIEW LN                                                0180001800
+FILLMORE ST                                                 0180101801
+FINCH DR                                                    0180001800
+FINLEY RD                                                   0180001800
+FIRE STATION DR                                             0180001800
+FLEETWOOD CIR                                               0180101801
+FLEETWOOD DR                                                0180101801
+FLINT CT                                                    0180001800
+FLINT RD                                                    0180001800
+FLOAT LN                                                    0180001800
+FLOOD RD                                                    0180001800
+FLORA DR                                                    0180001800
+FLOWERS DR                                                  0180001800
+FOGARTY DR                                                  0180001800
+FONTANA DR                                                  0180101801
+FORD ST                                                     0180101801
+FORREST RD                                                  0180001800
+FORT HEIMAN RD                                              0180001800
+FOSSIL LN                                                   0180001800
+FOSTER RD                                                   0180001800
+FOUR STAR LN                                                0180001800
+FOX MEADOWS DR                                              0180101801
+FOX RD                                                      0180001800
+FRANCIS CT                                                  0180001800
+FRANKLIN DR                                                 0180001800
+FRANKS CIR                                                  0180001800
+FREDA DR                                                    0180001800
+FREDERICK LN                                                0180001800
+FRONTAGE RD                                                 0180101801
+FURCHES TRAIL                                               0180001800
+FUTRELL DR                                                  0180001800
+G ROBINSON LN                                               0180001800
+GARDEN ST                                                   0180101801
+GARDENVIEW LN                                               0180101801
+GARDNER DR                                                  0180001800
+GARFIELD DR                                                 0180101801
+GARGUS LN                                                   0180001800
+GARLAND CT                                                  0180101801
+GARLAND LN                                                  0180001800
+GATESBOROUGH CIR                                            0180101801
+GATEWOOD DR                                                 0180001800
+GENERAL GRANT DR                                            0180101801
+GENERAL JACKSON DR                                          0180101801
+GENERAL LEE DR                                              0180101801
+GENTLE DR                                                   0180001800
+GEORGE KEY RD                                               0180001800
+GEORGE ROBINSON RD                                          0180001800
+GETTYSBURG DR                                               0180101801
+GEURIN RD                                                   0180001800
+GIBBS STORE RD                                              0180001800
+GIBBS STORE RD                                              0180101801
+GIL HOPSON DR                                               0180101801
+GILBERT GRAVES CIR                                          0180101801
+GILBERT GRAVES CIRCLE SPUR                                  0180101801
+GILBERT GRAVES DR                                           0180101801
+GILBERT ST                                                  0180301803
+GILL LN                                                     0180001800
+GINGER DR                                                   0180001800
+GLADYS DR                                                   0180001800
+GLADYS LN                                                   0180001800
+GLENDALE RD                                                 0180101801
+GLENDHENMERE LN                                             0180001800
+GLENWOOD DR                                                 0180101801
+GLOBEMASTER DR                                              0180101801
+GLOVER RD                                                   0180001800
+GOLDENROD RD                                                0180001800
+GOLO RD                                                     0180001800
+GOODMAN ST                                                  0180101801
+GOODWIN DR                                                  0180001800
+GOVERNORS RD                                                0180001800
+GRACIE CT N                                                 0180001800
+GRACIE CT S                                                 0180001800
+GRACKLE LN                                                  0180001800
+GRAHAM RD                                                   0180001800
+GRAND OAKS LN                                               0180001800
+GRANT RD                                                    0180001800
+GRANT ROAD CONNECTOR                                        0180001800
+GRAVES BURKEEN LN                                           0180001800
+GRAVES RD                                                   0180001800
+GRAY DR                                                     0180001800
+GRAYSON DR                                                  0180101801
+GRAYSTONE CIR                                               0180001800
+GREEN PLAIN RD                                              0180001800
+GREEN VALLEY RD                                             0180001800
+GREENBRIAR DR                                               0180001800
+GREENBRIAR DR                                               0180101801
+GREENFIELD DR                                               0180001800
+GREENHILLS DR                                               0180101801
+GREENLEAF DR                                                0180001800
+GREENVIEW DR                                                0180001800
+GREENWOOD DR                                                0180101801
+GREER LN                                                    0180001800
+GREGORY LN                                                  0180001800
+GREY WOLF DR                                                0180001800
+GRIFFIN LN                                                  0180001800
+GROSBEAK DR                                                 0180001800
+GROUSE LN                                                   0180001800
+GROVE LN                                                    0180001800
+GRUBBS RD                                                   0180001800
+GUINEVERE DR                                                0180101801
+GUINEVERE LN                                                0180101801
+GULL LN                                                     0180001800
+GULLVIEW DR                                                 0180001800
+GUS DR                                                      0180001800
+GUTHRIE DR                                                  0180101801
+HADDOCK DR                                                  0180001800
+HAL DR                                                      0180101801
+HALE CEMETERY RD                                            0180001800
+HALE RD                                                     0180001800
+HALL LN                                                     0180001800
+HALLELUJAH DR                                               0180001800
+HAMILTON AVE                                                0180101801
+HAMILTON CT                                                 0180001800
+HAMILTON LN                                                 0180001800
+HAMMOND RD                                                  0180001800
+HANELINE RD                                                 0180001800
+HANER LN                                                    0180001800
+HANKINS DR                                                  0180001800
+HARBIN WAY                                                  0180001800
+HARBOR HILL LN                                              0180001800
+HARBOR HILL MARINA                                          0180001800
+HARMON RD                                                   0180001800
+HARRIS BLVD                                                 0180001800
+HARRISON DR                                                 0180001800
+HARRISON ST                                                 0180101801
+HARRY TRUMAN DR                                             0180001800
+HART FARM LN                                                0180001800
+HART LN                                                     0180001800
+HART POINT LN                                               0180001800
+HARVARD DR                                                  0180101801
+HASKINS LN                                                  0180001800
+HAWK DR                                                     0180001800
+HAWKRIDGE RD                                                0180001800
+HAWTHORN RD                                                 0180001800
+HAYES ST                                                    0180101801
+HAYNES CEMETERY RD                                          0180001800
+HAYNES CREEK DR                                             0180001800
+HAZELNUT LN                                                 0180001800
+HEATH LN                                                    0180001800
+HEATHER LN                                                  0180001800
+HEDLEY TRAIL                                                0180001800
+HELMSMAN LN                                                 0180001800
+HENDERSON RD                                                0180001800
+HENRY ST                                                    0180101801
+HENSLEY CEMETERY RD                                         0180001800
+HERITAGE LN                                                 0180001800
+HERMAN LN                                                   0180001800
+HERMITAGE PL                                                0180101801
+HERNDON LN                                                  0180001800
+HERON RD                                                    0180001800
+HESLEY DR                                                   0180001800
+HICKORY DR                                                  0180101801
+HICKORY GROVE RD                                            0180001800
+HICKS CEMETERY RD                                           0180001800
+HICKS DR                                                    0180001800
+HICO RD N                                                   0180001800
+HICO RD S                                                   0180001800
+HIDDEN ACRES LN                                             0180001800
+HIDDEN HILLS LN                                             0180001800
+HIGGASON LN                                                 0180001800
+HIGGINS DR                                                  0180001800
+HIGHLAND RD                                                 0180001800
+HIGHTIDE LN                                                 0180001800
+HIGHVIEW LANE CUT                                           0180001800
+HIGHVIEW LN                                                 0180001800
+HILL DR                                                     0180001800
+HILLCREST DR                                                0180001800
+HILLS HOLLOW RD                                             0180001800
+HILLSDALE LN                                                0180001800
+HILLTOP DR                                                  0180001800
+HILLTOP LN                                                  0180001800
+HILLWOOD DR                                                 0180101801
+HOLIDAY DR                                                  0180101801
+HOLLAND CEMETERY NUMBER NO2 RD                              0180001800
+HOLLAND CEMETERY RD                                         0180001800
+HOLLY PARK CT                                               0180101801
+HOLLYHOCK DR                                                0180001800
+HOLLYLEAF LN                                                0180001800
+HOLLYTREE DR                                                0180001800
+HOMPLACE DR                                                 0180001800
+HONEYBEE LN                                                 0180001800
+HONEYSUCKLE LN                                              0180001800
+HOOPER CEMETERY RD                                          0180001800
+HOOVER ST                                                   0180101801
+HOPE LN                                                     0180001800
+HOPKINS RD                                                  0180001800
+HOPSON LN                                                   0180001800
+HORNETS NEST LN                                             0180001800
+HORSESHOE LN                                                0180001800
+HOUSDEN LN                                                  0180001800
+HOWARD RD                                                   0180001800
+HUB ERWIN RD                                                0180001800
+HUBERTS LN                                                  0180001800
+HUDSON RD                                                   0180001800
+HUGHES AVE                                                  0180101801
+HUGHES RD                                                   0180001800
+HUMMINGBIRD LN                                              0180001800
+HUMMNGBIRD LN                                               0180001800
+HUMPHREY RD                                                 0180001800
+HUNTER DR                                                   0180001800
+HUNTERS GLEN                                                0180101801
+HUNTERS HORN                                                0180101801
+HURT DR                                                     0180101801
+HUTCHENS RD                                                 0180001800
+HYATT DR                                                    0180001800
+ILLINOIS AVE                                                0180001800
+IMOGENE DR                                                  0180001800
+IMPERIAL DR                                                 0180001800
+INDEPENDENCE RD                                             0180001800
+INDIAN TRL                                                  0180001800
+INDUSTRIAL PARK RD                                          0180101801
+INDUSTRIAL RD                                               0180101801
+INGRAM LN                                                   0180001800
+IRENE TER                                                   0180101801
+IRIS DR                                                     0180001800
+IRONWOOD DR                                                 0180001800
+IRVAN ST                                                    0180101801
+IRVIN COBB RD                                               0180001800
+ISLE DR                                                     0180001800
+IVEY DR                                                     0180001800
+J P PASCHALL LN                                             0180001800
+J T ERWIN LN                                                0180001800
+J W WILLIAMS LN                                             0180001800
+JACK RD                                                     0180001800
+JACKSON RD                                                  0180001800
+JACKSON ST                                                  0180101801
+JAGUAR DR                                                   0180001800
+JAMES DR                                                    0180001800
+JAMESWOOD DR                                                0180101801
+JAMIE LN                                                    0180001800
+JAMISON DR                                                  0180001800
+JAY RD                                                      0180001800
+JEFFERSON ST                                                0180101801
+JEFFREY CEMETERY LN                                         0180001800
+JENKINS DR                                                  0180001800
+JENNINGS TRAIL                                              0180001800
+JENNINGS TRAIL SPUR                                         0180001800
+JENNINGS TRL                                                0180001800
+JERRY RD                                                    0180001800
+JESSE LN                                                    0180001800
+JESSICA LN                                                  0180001800
+JETTON LN                                                   0180001800
+JEWEL LN                                                    0180001800
+JIM WILSON RD                                               0180001800
+JOBE LN                                                     0180001800
+JOHN CRAIN CIR                                              0180001800
+JOHN DEERE LN                                               0180001800
+JOHN DOWNS CT                                               0180001800
+JOHN PARKER DR                                              0180001800
+JOHN PURDOM DR                                              0180001800
+JOHNNY LN                                                   0180001800
+JOHNSON BLVD                                                0180101801
+JONES RD                                                    0180001800
+JONES SPARKMAN RD                                           0180001800
+JORDAN LN                                                   0180001800
+JOSEPH DR                                                   0180001800
+JOY LN                                                      0180001800
+JUANITA LN                                                  0180001800
+JUSTICE RD                                                  0180001800
+JUSTIN DR                                                   0180001800
+KAITLYN LN                                                  0180001800
+KALER DR                                                    0180001800
+KANDI KAY LN                                                0180101801
+KARNES CT                                                   0180001800
+KATEE LN                                                    0180001800
+KATHY DR                                                    0180101801
+KAYS RD                                                     0180001800
+KEEL LN                                                     0180001800
+KEENLAND DR                                                 0180101801
+KELLY RD                                                    0180001800
+KELSO RD                                                    0180001800
+KELZIE PEELER LN                                            0180001800
+KEN LN                                                      0180001800
+KENIANA DR                                                  0180001800
+KENNEDY CIR                                                 0180101801
+KENNETH LN                                                  0180001800
+KENTUCKY AVE                                                0180101801
+KENTUCKY LAKE DR                                            0180001800
+KENWAY DR                                                   0180001800
+KENWOOD DR                                                  0180001800
+KEVIN DR                                                    0180001800
+KEY DR                                                      0180001800
+KILLARNEY LN                                                0180001800
+KILLDEER TRL                                                0180001800
+KING ARTHUR CT                                              0180101801
+KING DR                                                     0180101801
+KING RICHARD DR                                             0180001800
+KING RICHARD DR                                             0180101801
+KINGLET LN                                                  0180001800
+KINGSBURY CIR                                               0180101801
+KINGSWAY CT                                                 0180001800
+KINNEY DR                                                   0180001800
+KIRK DR                                                     0180001800
+KIRK RIDGE RD                                               0180001800
+KIRKSEY ALMO RD                                             0180001800
+KIRKSEY RD                                                  0180001800
+KIRKWOOD DR                                                 0180101801
+KITTY LN                                                    0180001800
+KLINE TRAIL                                                 0180001800
+KLINE TRL                                                   0180001800
+KNIGHT RD                                                   0180001800
+KNIGHTSWAY DR                                               0180101801
+KNOB LN                                                     0180001800
+KURTZ DR                                                    0180001800
+KUYKENDALL RD                                               0180001800
+KY121 BYP N                                                 0180101801
+KY121 N                                                     0180001800
+KY121 S                                                     0180001800
+KY80                                                        0180001800
+KY80 E                                                      0180001800
+KY94 E                                                      0180001800
+KY94 W                                                      0180001800
+KY94 W                                                      0180101801
+KY94C                                                       0180001800
+LA VISTA DR                                                 0180001800
+LAFOLLETTE DR                                               0180101801
+LAKE FOREST LN                                              0180001800
+LAKE RIDGE LN                                               0180001800
+LAKE SHORE DR                                               0180001800
+LAKE VIEW DR                                                0180001800
+LAKEHURST LN                                                0180001800
+LAKEPOINT LN                                                0180001800
+LAKEVIEW CABINS DR                                          0180001800
+LAKEWAY DR                                                  0180001800
+LAMB DR                                                     0180001800
+LANCASTER RD                                                0180001800
+LANCE RD                                                    0180001800
+LANCELOT DR                                                 0180101801
+LANDFILL DR                                                 0180001800
+LANDMARK CIR                                                0180001800
+LANDON LN                                                   0180001800
+LANE ST                                                     0180001800
+LARKSPUR DR                                                 0180101801
+LARRY CHERRY LN                                             0180001800
+LASSITER CEMETERY LN                                        0180001800
+LASSITER CEMETERY STATE LINE RD                             0180001800
+LATIN DR                                                    0180001800
+LAUNCH LN                                                   0180001800
+LAUREL LN                                                   0180001800
+LAURING DR                                                  0180001800
+LAVENDER ST                                                 0180301803
+LAW LN                                                      0180001800
+LAWRENCE RD                                                 0180001800
+LAWSON RD                                                   0180001800
+LAX DR                                                      0180001800
+LAX FERGUSON CEMETERY RD                                    0180001800
+LEDBETTER RD                                                0180001800
+LEE JACKSON LN                                              0180001800
+LEE ST                                                      0180001800
+LEGACY LN                                                   0180101801
+LEISURE ACRES LN                                            0180001800
+LENA DR                                                     0180001800
+LEPENA WAY                                                  0180001800
+LESLIE RD                                                   0180001800
+LESTEL ELKINS LN                                            0180001800
+LEWIS DR                                                    0180001800
+LEXIE LN                                                    0180001800
+LIBERTY RD                                                  0180001800
+LILLARD LN                                                  0180001800
+LIME DR                                                     0180001800
+LIMEROCK LN                                                 0180001800
+LINCOLN AVE                                                 0180101801
+LINDEN LN                                                   0180001800
+LINDSEY LN                                                  0180001800
+LINZY BEANE LN                                              0180001800
+LIPFORD LN                                                  0180101801
+LISA CT                                                     0180001800
+LITTLE ESTATE CT                                            0180001800
+LITTLE OAKS LN                                              0180001800
+LOCH LOMOND DR                                              0180101801
+LOCUST DR                                                   0180101801
+LOCUST GROVE RD                                             0180001800
+LOGAN DR                                                    0180101801
+LOGGER LN                                                   0180001800
+LONDON DR                                                   0180001800
+LONDON DR                                                   0180101801
+LONE CIR                                                    0180001800
+LONESOME LN                                                 0180001800
+LONG DR                                                     0180001800
+LONGWOOD DR                                                 0180101801
+LOOKOUT LN                                                  0180001800
+LOON LN                                                     0180001800
+LOST RD                                                     0180001800
+LOUIS DR                                                    0180001800
+LOVERS LN                                                   0180001800
+LOWELL DR                                                   0180001800
+LOWES DR                                                    0180101801
+LUBIE PARRISH LN                                            0180001800
+LUCY LN                                                     0180001800
+LYNCH LN                                                    0180001800
+LYNNHURST DR                                                0180001800
+LYNNWOOD DR                                                 0180001800
+LYNNWOOD ST                                                 0180101801
+LYNX LN                                                     0180001800
+MADDOX LN                                                   0180001800
+MADISON ST                                                  0180101801
+MADREY LN                                                   0180001800
+MAGNESS RD                                                  0180001800
+MAGNOLIA DR                                                 0180101801
+MAIN ST                                                     0180001800
+MAIN ST                                                     0180101801
+MAIN ST                                                     0180301803
+MALLARD RD                                                  0180001800
+MALLORY CEMETERY RD                                         0180001800
+MALLORY CIR                                                 0180001800
+MANNING LN                                                  0180001800
+MAPLE ST                                                    0180101801
+MAPLE ST                                                    0180301803
+MAPLEHURST LN                                               0180001800
+MAPLELEAF DR                                                0180001800
+MAPLEWOOD CIR                                               0180001800
+MARDIS LN                                                   0180001800
+MARGARET ROSE LN                                            0180001800
+MARGUERITE BLVD                                             0180001800
+MARIGOLD DR                                                 0180001800
+MARINER LN                                                  0180001800
+MARION LN                                                   0180001800
+MARK DUNCAN LN                                              0180001800
+MARLAR LN                                                   0180001800
+MARLBORO DR                                                 0180001800
+MARR LN                                                     0180001800
+MARTIN CHAPEL RD                                            0180001800
+MARTIN CHAPEL RD                                            0180101801
+MARTIN CHAPEL RD S                                          0180001800
+MARTIN DR                                                   0180001800
+MARTIN DR                                                   0180101801
+MARVIN RD                                                   0180001800
+MARY CT                                                     0180001800
+MARY DR                                                     0180001800
+MARY SUE DR                                                 0180001800
+MASON LN                                                    0180001800
+MASTER DR                                                   0180101801
+MATHIS DR                                                   0180001800
+MATT CT                                                     0180001800
+MATTIE LN                                                   0180001800
+MAX HURT DR                                                 0180101801
+MAYBERRY LN                                                 0180001800
+MAYFIELD LN                                                 0180001800
+MAZUREK CIR                                                 0180001800
+MAZUREK LN                                                  0180001800
+MCANN RD                                                    0180001800
+MCCALLON MILL RD                                            0180001800
+MCCLAIN DR                                                  0180001800
+MCCLURE DR                                                  0180001800
+MCCUISTON DR                                                0180001800
+MCDANIEL CEMETERY RD                                        0180001800
+MCDAY LN                                                    0180001800
+MCDONALD LN                                                 0180001800
+MCDOUGAL DR                                                 0180001800
+MCELRATH RD                                                 0180001800
+MCKINLEY ST                                                 0180101801
+MCNUTT WAY                                                  0180001800
+MEACHAM DR                                                  0180001800
+MEADOW GREEN CIR                                            0180001800
+MEADOW LN                                                   0180101801
+MEADOWBROOK DR                                              0180001800
+MEADOWLARK DR                                               0180001800
+MEDYE LN                                                    0180001800
+MEGAN DR                                                    0180001800
+MELROSE CT                                                  0180101801
+MELROSE DR                                                  0180101801
+MELVIN HENLEY DR                                            0180001800
+MELVIN HENLEY DR                                            0180101801
+MEMORY LN                                                   0180001800
+MEMORY LN                                                   0180101801
+MERCY DR                                                    0180001800
+MERLIN DR                                                   0180101801
+METCALF LN                                                  0180001800
+MEYERS RD                                                   0180001800
+MEYERS ST                                                   0180301803
+MICHAEL LN                                                  0180001800
+MICHELLE CT                                                 0180101801
+MICHELLE DR                                                 0180101801
+MIDGETT DR                                                  0180001800
+MIDWAY RD                                                   0180001800
+MILDRED DR                                                  0180101801
+MILLER CEMETERY RD                                          0180001800
+MILLER ST                                                   0180101801
+MILLS TRAIL                                                 0180001800
+MIMOSA LN                                                   0180101801
+MINERVA PL                                                  0180101801
+MINNOW RD                                                   0180001800
+MINT DR                                                     0180001800
+MISSION VALLEY DR                                           0180101801
+MISSOURI LN                                                 0180001800
+MISTY CREEK DR                                              0180101801
+MITCHELL DR                                                 0180101801
+MITCHELL STORY RD                                           0180001800
+MITZI CT                                                    0180001800
+MOCKINGBIRD DR                                              0180101801
+MONROE AVE                                                  0180101801
+MOODY DR                                                    0180001800
+MOONEY LN                                                   0180001800
+MOORE RD                                                    0180001800
+MORGAN DR                                                   0180001800
+MORNING GLORY LN                                            0180001800
+MORRIS RD                                                   0180001800
+MOSER LN                                                    0180001800
+MOSS DR                                                     0180001800
+MT CARMEL DR                                                0180001800
+MT OLIVE RD                                                 0180001800
+MULBERRY ST                                                 0180101801
+MULE LN                                                     0180001800
+MUR CAL APARTMENTS                                          0180101801
+MURRAY ESTATES DR                                           0180101801
+MURRAY PARIS RD                                             0180001800
+MURRAY PLACE DR                                             0180101801
+MUSSEL LN                                                   0180001800
+MYRON DR                                                    0180001800
+MYRTLE RD                                                   0180001800
+N 10TH ST                                                   0180101801
+N 12TH ST                                                   0180001800
+N 12TH ST                                                   0180101801
+N 13TH ST                                                   0180101801
+N 14TH ST                                                   0180101801
+N 15TH ST                                                   0180101801
+N 16TH ST                                                   0180101801
+N 17TH ST                                                   0180101801
+N 18TH ST                                                   0180001800
+N 18TH ST                                                   0180101801
+N 19TH ST                                                   0180101801
+N 1ST ST                                                    0180101801
+N 20TH ST                                                   0180001800
+N 20TH ST                                                   0180101801
+N 3RD ST                                                    0180101801
+N 4TH ST                                                    0180101801
+N 5TH ST                                                    0180101801
+N 6TH ST                                                    0180101801
+N 7TH ST                                                    0180101801
+N 8TH ST                                                    0180101801
+N 9TH ST                                                    0180101801
+N BAMBI CT                                                  0180101801
+N BROACH AVE                                                0180101801
+N CHERRY ST                                                 0180101801
+N ELEMENTARY WAY                                            0180101801
+N FORK RD                                                   0180001800
+N INDUSTRIAL RD                                             0180001800
+N INDUSTRIAL RD                                             0180101801
+N L P MILLER ST                                             0180101801
+NANCE LN                                                    0180001800
+NANCY DR                                                    0180001800
+NANNEY NEAL RD                                              0180001800
+NASH DR                                                     0180101801
+NATURE LN                                                   0180001800
+NAVIGATOR DR                                                0180001800
+NAVIGATOR LN                                                0180001800
+NAVY DR                                                     0180001800
+NEALE TRL                                                   0180001800
+NELOM BROWN DR                                              0180001800
+NELSON KEY RD                                               0180001800
+NELSON TRAIL                                                0180001800
+NEW HOPE RD                                                 0180001800
+NEW PROVIDENCE RD                                           0180001800
+NEWMAN DR                                                   0180001800
+NEWSOME RD                                                  0180001800
+NEWTON WAY                                                  0180001800
+NICHOLS DR                                                  0180001800
+NIGHTHAWK DR                                                0180001800
+NIXON ST                                                    0180101801
+NOAH DR                                                     0180001800
+NORRIS DR                                                   0180001800
+NORSWORTHY RD                                               0180001800
+NORTH DR                                                    0180001800
+NORTHSHORE CIR                                              0180001800
+NORTHWOOD DR                                                0180101801
+NOTTINGHAM LN                                               0180101801
+NOTTINGHAM LN N                                             0180101801
+NOVA LN                                                     0180001800
+O'BRYAN CIR                                                 0180001800
+OAK GROVE RD                                                0180001800
+OAK ST                                                      0180101801
+OAK VALLEY LN                                               0180001800
+OAKCREST DR                                                 0180001800
+OAKDALE DR                                                  0180101801
+OAKHILL CT                                                  0180101801
+OAKHILL DR                                                  0180101801
+OAKHILL DR S                                                0180001800
+OAKHURST LN                                                 0180001800
+OAKLEY LN                                                   0180001800
+OAKRIDGE RD                                                 0180001800
+OAKS COUNTRY CLUB RD                                        0180001800
+OAKS ESTATES DR                                             0180001800
+OAKSHORE DR                                                 0180001800
+OAKVIEW LN                                                  0180001800
+OAKWOOD CIR                                                 0180001800
+OAKWOOD LN                                                  0180001800
+OASIS LN                                                    0180001800
+ODELL DR                                                    0180001800
+OFFSHORE DR                                                 0180001800
+OLD CONCORD CEMETERY                                        0180001800
+OLD CONCORD RD                                              0180101801
+OLD DUNCAN CREEK RD                                         0180001800
+OLD EAGLE RD                                                0180001800
+OLD HERITAGE LN                                             0180001800
+OLD HICKORY RD                                              0180001800
+OLD HILLCREST DR                                            0180001800
+OLD LOVERS LN                                               0180001800
+OLD LYNN GROVE RD                                           0180001800
+OLD MAIN ST                                                 0180301803
+OLD NEWBURG RD                                              0180001800
+OLD PENNY RD                                                0180001800
+OLD PURDOM RD                                               0180001800
+OLD RIVER RD                                                0180001800
+OLD SALEM RD                                                0180001800
+OLD SHILOH RD                                               0180001800
+OLD SOLDIERS CREEK RD                                       0180001800
+OLD TROUT RD                                                0180001800
+OLDHAM DR                                                   0180001800
+OLIVE BLVD                                                  0180101801
+OLIVE ST                                                    0180101801
+ONYX DR                                                     0180001800
+OPPORTUNITY DR                                              0180101801
+OREGON RD                                                   0180001800
+ORIOLE LN                                                   0180001800
+ORION CT                                                    0180001800
+ORR LN                                                      0180001800
+OSBORNE RD                                                  0180001800
+OSPREY LN                                                   0180001800
+OUTBACK RD                                                  0180001800
+OUTLAND RD                                                  0180001800
+OUTLAND SCHOOL RD                                           0180001800
+OVERBY ST                                                   0180101801
+OVERLOOK DR                                                 0180001800
+OWEN HALE RD                                                0180001800
+OWINGS DR                                                   0180001800
+OWL RD                                                      0180001800
+OXFORD DR                                                   0180101801
+PADDLE LN                                                   0180001800
+PALESTINE CHURCH RD                                         0180001800
+PALMER RD                                                   0180001800
+PAM DR                                                      0180001800
+PANFISH DR                                                  0180001800
+PANORAMA DR                                                 0180001800
+PANSY LN                                                    0180001800
+PANTHER DR                                                  0180001800
+PARADISE DR                                                 0180001800
+PARAMOUNT DR                                                0180101801
+PARISH DR                                                   0180001800
+PARK DR                                                     0180101801
+PARK DRIVE LOOP                                             0180101801
+PARKHILL DR                                                 0180001800
+PARKLANE DR                                                 0180101801
+PARKS ST                                                    0180101801
+PARKSIDE LN                                                 0180001800
+PARKVIEW DR                                                 0180001800
+PARTRIDGE RD                                                0180001800
+PASCHALL RD                                                 0180001800
+PASSAGE DR                                                  0180001800
+PASTURE LN                                                  0180001800
+PATRICIA DR                                                 0180001800
+PATSY CT                                                    0180001800
+PATTERSON LN                                                0180001800
+PAUL BRADLEY DR                                             0180101801
+PAULA LAKE RD                                               0180001800
+PAYNE ST                                                    0180101801
+PEACE CT                                                    0180301803
+PEACE WAY                                                   0180301803
+PEACH ORCHARD RD                                            0180001800
+PEACOCK CT                                                  0180001800
+PEACOCK LN                                                  0180001800
+PECAN DR                                                    0180001800
+PEELER RD                                                   0180001800
+PEGGY ANN DR                                                0180101801
+PELICAN LN                                                  0180001800
+PELLA WAY                                                   0180001800
+PERCH WAY                                                   0180001800
+PERRIN DR                                                   0180101801
+PERSIMMON DR                                                0180001800
+PETERSON LN                                                 0180001800
+PEYTON LN                                                   0180001800
+PHEASANT RD                                                 0180001800
+PHELPS DR                                                   0180001800
+PHILL DR                                                    0180001800
+PHILLIPS DR                                                 0180001800
+PHIPPS DR                                                   0180001800
+PIER LN                                                     0180001800
+PILLAR DR                                                   0180101801
+PIN OAK DR                                                  0180001800
+PINE BARK DR                                                0180001800
+PINE LN                                                     0180301803
+PINE ST                                                     0180101801
+PINECREEK LN                                                0180001800
+PINEROCK LN                                                 0180001800
+PINETREE DR                                                 0180001800
+PINEVIEW DR                                                 0180001800
+PINEWOOD DR                                                 0180001800
+PINTAIL LN                                                  0180001800
+PITTMAN DR                                                  0180001800
+PLAINVIEW DR                                                0180101801
+PLAYGROUND LN                                               0180001800
+PLAZA DR                                                    0180001800
+PLEASANT GROVE RD                                           0180001800
+PLEASANT HILL DR                                            0180001800
+PLEASANT VIEW LN                                            0180001800
+PLOWSHARE LN                                                0180001800
+PLUM LN                                                     0180001800
+PLUS FIVE RD                                                0180001800
+POCAHONTAS LN                                               0180001800
+POGUE AVE                                                   0180101801
+POINT DR                                                    0180001800
+POLK ST                                                     0180101801
+PONDEROSA DR                                                0180001800
+PONDVIEW LN                                                 0180001800
+POOR FARM RD                                                0180001800
+POOR FARM RD                                                0180101801
+POPE DR                                                     0180001800
+POPLAR SPRINGS DR                                           0180001800
+POPLAR SPRINGS RD                                           0180001800
+POPLAR ST                                                   0180101801
+PORT LN                                                     0180001800
+POST OAK DR                                                 0180001800
+POTTERTOWN RD                                               0180001800
+POTTS RD                                                    0180001800
+POUNDS DR                                                   0180001800
+PRIMROSE DR                                                 0180001800
+PRINCETON DR                                                0180101801
+PROTEMUS RD                                                 0180001800
+PROVIDENCE LN                                               0180001800
+PURDOM RD                                                   0180001800
+QUAIL CREEK DR                                              0180001800
+QUAIL RIDGE LN                                              0180001800
+QUEENSWAY DR                                                0180101801
+RACCOON LN                                                  0180001800
+RACER DR                                                    0180101801
+RACER DRIVE LOOP                                            0180101801
+RADIO RD                                                    0180001800
+RAGSDALE RD                                                 0180001800
+RAILROAD AVE                                                0180101801
+RAINBOW LN                                                  0180001800
+RATZ DR                                                     0180001800
+RAY LN                                                      0180001800
+RAYBURN RD                                                  0180001800
+RAYMOND LN                                                  0180001800
+REAGAN ST                                                   0180101801
+RED BANK DR                                                 0180001800
+RED HAWK DR                                                 0180001800
+RED HOLT RD                                                 0180001800
+RED OAK APARTMENTS                                          0180101801
+RED OAK LN                                                  0180001800
+RED ROBIN RD                                                0180001800
+REDBUD RD                                                   0180001800
+REDWATER DR                                                 0180001800
+REDWING LN                                                  0180001800
+REDWOOD DR                                                  0180001800
+REED ST                                                     0180101801
+REILAND LN                                                  0180001800
+RENDEZVOUS DR                                               0180001800
+RENIE CIR                                                   0180001800
+RESEARCH FIELD TRAILS                                       0180101801
+RESORT RD                                                   0180001800
+RHODES DR                                                   0180001800
+RICHARD LN                                                  0180001800
+RICHARDSON ST                                               0180101801
+RICHLAND DR                                                 0180101801
+RIDGE RD                                                    0180001800
+RIDGELINE CT                                                0180001800
+RIDGEWOOD DR                                                0180001800
+RIEMAN DR                                                   0180001800
+RILEY CT                                                    0180101801
+RIPPLING CREEK DR                                           0180101801
+RITZ CRAFT CT                                               0180101801
+RIVER OAKS LN                                               0180001800
+RIVER RD                                                    0180001800
+RIVER RD                                                    0180101801
+RIVERFIELF DR                                               0180101801
+RIVERSIDE RD                                                0180001800
+RIVERVIEW BLVD                                              0180001800
+RIVERWOOD RD                                                0180101801
+ROB MASON RD                                                0180001800
+ROB MCCALLON RD                                             0180001800
+ROBB CT                                                     0180001800
+ROBERSON DR                                                 0180101801
+ROBERT O MILLER RD                                          0180001800
+ROBERT O MILLER RD                                          0180101801
+ROBERT WIGGINS DR                                           0180001800
+ROBERTS LN                                                  0180001800
+ROBERTSON RD N                                              0180101801
+ROBERTSON RD S                                              0180001800
+ROBINHOOD DR                                                0180101801
+ROBINS CT                                                   0180001800
+ROCKHOUSE DR                                                0180001800
+ROCKSIDE LN                                                 0180001800
+ROCKVILLE LN                                                0180001800
+ROCKWOOD RD                                                 0180001800
+ROCKY DR                                                    0180101801
+ROCKY LN                                                    0180001800
+ROCKYTOP DR                                                 0180001800
+RODGERS DR                                                  0180001800
+ROLLING ACRES LN                                            0180001800
+ROLLING HILLS TRL                                           0180001800
+ROMANS WAY                                                  0180001800
+ROME LN                                                     0180001800
+ROOSEVELT CIR                                               0180101801
+ROOSEVELT RD                                                0180001800
+ROSE DR                                                     0180001800
+ROSS RD                                                     0180001800
+ROUNDTABLE CT                                               0180101801
+ROWLAND RD                                                  0180001800
+ROWLETT TRL                                                 0180001800
+ROY STEELE LN                                               0180001800
+RUDOLPH RD                                                  0180001800
+RUDOLPH RD S                                                0180001800
+RUGBY DR                                                    0180101801
+RULE LN                                                     0180001800
+RUSHING RD                                                  0180001800
+RUSSELL DR                                                  0180001800
+RYAN AVE                                                    0180101801
+S 10TH ST                                                   0180101801
+S 11TH ST                                                   0180101801
+S 12TH ST                                                   0180101801
+S 13TH ST                                                   0180101801
+S 14TH ST                                                   0180101801
+S 15TH ST                                                   0180101801
+S 16TH ST                                                   0180101801
+S 17TH ST                                                   0180101801
+S 3RD ST                                                    0180101801
+S 3RD STREET EXT                                            0180001800
+S 3RD STREET EXT                                            0180101801
+S 4TH ST                                                    0180101801
+S 5TH ST                                                    0180101801
+S 6TH ST                                                    0180101801
+S 7TH ST                                                    0180101801
+S 8TH ST                                                    0180101801
+S 9TH ST                                                    0180101801
+S BAMBI CT                                                  0180101801
+S BROACH AVE                                                0180101801
+S CHERRY ST                                                 0180101801
+S L P MILLER ST                                             0180101801
+SADDLE LN                                                   0180001800
+SADDLEBROOK LN                                              0180001800
+SAGE RD                                                     0180001800
+SAIL DR                                                     0180001800
+SAMUEL DR                                                   0180001800
+SAND DR                                                     0180001800
+SAND LICK RD                                                0180001800
+SANDY LN                                                    0180001800
+SANDY PINE DR                                               0180101801
+SANDYSHORE RD                                               0180001800
+SARATOGA DR                                                 0180101801
+SARATOGA DR N                                               0180101801
+SARATOGAY DR N                                              0180101801
+SASSAFRAS ROW                                               0180101801
+SATTERWHITE LN                                              0180001800
+SAUGER LN                                                   0180001800
+SCARLETT DR                                                 0180101801
+SCENIC ACRES DR                                             0180001800
+SCENIC VALLEY LN                                            0180001800
+SCHULTZ AVE                                                 0180101801
+SCHWARTZ RD                                                 0180001800
+SCOTT FITTS RD                                              0180001800
+SCOTT FITTS SOUTH RD                                        0180001800
+SCOTT RD                                                    0180001800
+SCRUGGS DR                                                  0180001800
+SEARS WAY                                                   0180001800
+SEASONS LN                                                  0180001800
+SEGO DR                                                     0180001800
+SEQUOYAH DR                                                 0180001800
+SERENITY LN                                                 0180001800
+SETH LN                                                     0180001800
+SHA WA CIR                                                  0180101801
+SHACKELFORD LN                                              0180001800
+SHADETREE LN                                                0180001800
+SHADOW CIR                                                  0180001800
+SHADY LN                                                    0180101801
+SHADYHILL DR                                                0180001800
+SHAMROCK LN                                                 0180001800
+SHANNON CREEK RD                                            0180001800
+SHARMAE LN                                                  0180001800
+SHARPE ST                                                   0180101801
+SHASTA LN                                                   0180101801
+SHAWNEE LN                                                  0180001800
+SHEBA DR                                                    0180001800
+SHELTER LN                                                  0180001800
+SHELTER LN                                                  0180101801
+SHELTON DR                                                  0180001800
+SHENAKAH LN                                                 0180001800
+SHERMAN DR                                                  0180001800
+SHERRIE LN                                                  0180101801
+SHERWOOD DR                                                 0180101801
+SHIFO LN                                                    0180001800
+SHINE LN                                                    0180001800
+SHOEMAKER RD                                                0180001800
+SHORE DR                                                    0180001800
+SHORELINE DR                                                0180001800
+SHORT RD                                                    0180001800
+SHROPSHIRE DR                                               0180001800
+SILLS WAY                                                   0180001800
+SILOAM LN                                                   0180001800
+SILVER LN                                                   0180001800
+SIMMONS DR                                                  0180001800
+SIMS LN                                                     0180001800
+SINKER LN                                                   0180001800
+SKAGGS DR                                                   0180001800
+SKIMMER DR                                                  0180001800
+SKINNER CEMETERY RD                                         0180001800
+SKYLARK RD                                                  0180001800
+SKYLINE DR                                                  0180001800
+SKYWAY DR                                                   0180001800
+SLEDD DR                                                    0180001800
+SMALLMAN LN                                                 0180001800
+SMELSER DR                                                  0180001800
+SMITH CEMETERY RD                                           0180001800
+SMITH RD                                                    0180001800
+SNIPE CREEK DR                                              0180001800
+SNOW RD                                                     0180001800
+SOLAR DR                                                    0180101801
+SONGBIRD LN                                                 0180001800
+SONGER DR                                                   0180001800
+SOUTHWEST DR                                                0180001800
+SOUTHWOOD DR                                                0180101801
+SPAIN RD                                                    0180001800
+SPEAKER TRAIL                                               0180001800
+SPENCER DR                                                  0180001800
+SPICEBUSH LN                                                0180001800
+SPICELAND DR                                                0180001800
+SPILLMAN LN                                                 0180001800
+SPINDLETOP DR                                               0180001800
+SPINNER LN                                                  0180001800
+SPRING CREEK DR                                             0180001800
+SPRING CREEK DR                                             0180101801
+SPRING CREEK HEALTH CARE                                    0180101801
+SPRING HILL CT                                              0180101801
+SPRING RD                                                   0180001800
+SPRUCE ST                                                   0180101801
+SQUIRE HOLLAND RD                                           0180001800
+SQUIRE MILLER RD                                            0180001800
+SQUIRE RD                                                   0180001800
+ST JOHN DR                                                  0180001800
+STADIUM DR                                                  0180101801
+STADIUM VIEW DR                                             0180101801
+STAHLER LN                                                  0180001800
+STAMPS LN                                                   0180001800
+STANFORD DR                                                 0180101801
+STARBOARD LN                                                0180001800
+STARGRASS DR                                                0180001800
+STARKS LN                                                   0180001800
+STARS DR                                                    0180001800
+STARVIEW TRL                                                0180001800
+STATE LINE RD E                                             0180001800
+STATE LINE RD W                                             0180001800
+STATE ST                                                    0180301803
+STEELY LN                                                   0180001800
+STEEPHILL DR                                                0180001800
+STELLA DR                                                   0180001800
+STEWART CEMETARY RD                                         0180001800
+STEWART CEMETERY DR                                         0180001800
+STEWART CEMETERY ROAD LOOP                                  0180001800
+STONE GATE                                                  0180101801
+STONE LN                                                    0180001800
+STONE RIDGE LN                                              0180101801
+STONECREST DR                                               0180001800
+STONECROP DR                                                0180001800
+STONESIDE DR                                                0180001800
+STONEY CREEK LN                                             0180001800
+STONEYBROOK LN                                              0180001800
+STORY AVE                                                   0180101801
+STORY ST                                                    0180101801
+STRATFORD DR                                                0180101801
+STRAWBERRY LN                                               0180001800
+STREETLAND LN                                               0180001800
+STRINGER LN                                                 0180001800
+STUBBLEFIELD CIR                                            0180001800
+SUE LN                                                      0180001800
+SUGAR CREEK LN                                              0180001800
+SUGGS RD                                                    0180001800
+SULLIVAN RD                                                 0180001800
+SUMMERFIELD DR                                              0180001800
+SUMMERTIME LN                                               0180001800
+SUN VALLEY RD                                               0180001800
+SUN VALLEY SPUR                                             0180001800
+SUNBURY CIR                                                 0180101801
+SUNDANCE LN                                                 0180001800
+SUNDROP LN                                                  0180001800
+SUNNY LN                                                    0180101801
+SUNNYSIDE LN                                                0180001800
+SUNRISE CIR                                                 0180001800
+SUNSET DR                                                   0180001800
+SUNSET DR                                                   0180101801
+SUNSHINE LN                                                 0180001800
+SURFWAY DR                                                  0180001800
+SWALLOW LN                                                  0180001800
+SWAN RD                                                     0180001800
+SWIFT RD                                                    0180001800
+SYCAMORE ST                                                 0180001800
+SYCAMORE ST                                                 0180101801
+SYDNEY LN                                                   0180001800
+TABARD DR                                                   0180101801
+TABERS LN                                                   0180001800
+TABORS LN                                                   0180001800
+TACKLEBOX LN                                                0180001800
+TAFT ST                                                     0180101801
+TAN CT                                                      0180001800
+TAN LN                                                      0180001800
+TANGLEWOOD APARTMENTS                                       0180101801
+TANGLEWOOD CT                                               0180001800
+TANGLEWOOD DR                                               0180001800
+TANGLEWOOD DR                                               0180101801
+TANNER DR                                                   0180001800
+TATE DR                                                     0180001800
+TATE LN                                                     0180001800
+TAYLOR DR                                                   0180101801
+TAYLOR ST                                                   0180101801
+TAYLORS STORE RD                                            0180001800
+TEAROSE DR                                                  0180001800
+TEMPLE HILL DR                                              0180001800
+TERN LN                                                     0180001800
+TERRACE DR                                                  0180001800
+TERRY DR                                                    0180001800
+THE GATES CIR N                                             0180101801
+THE GATES CIR S                                             0180101801
+THE LN                                                      0180101801
+THERESA LN                                                  0180001800
+THOMAS DR                                                   0180001800
+THORNBERRY LN                                               0180001800
+THOROUGHBRED LN                                             0180101801
+THRUSH LN                                                   0180001800
+THURMAN RD                                                  0180001800
+TIA LN                                                      0180001800
+TIDWELL CEMETERY RD                                         0180001800
+TIDWELL RD                                                  0180001800
+TIFFANY DR                                                  0180101801
+TIFFREE LN                                                  0180001800
+TILE DR                                                     0180001800
+TILLER LN                                                   0180001800
+TIMBER DR                                                   0180001800
+TIMBER RIDGE DR                                             0180001800
+TIMBERWOLF DR                                               0180001800
+TINA DR                                                     0180001800
+TINSLEY DR                                                  0180001800
+TOBACCO RD                                                  0180001800
+TODD RD                                                     0180001800
+TODD ROAD SPUR N                                            0180001800
+TODD ROAD SPUR S                                            0180001800
+TOM TAYLOR TRL                                              0180001800
+TONY THURMAN LN                                             0180001800
+TOOMBS DR                                                   0180001800
+TOSKANA DR                                                  0180001800
+TOW LN                                                      0180001800
+TOWERY DR                                                   0180001800
+TRACI DR                                                    0180101801
+TRADE RD                                                    0180001800
+TRAILS END LN                                               0180001800
+TRAILSIDE LN                                                0180001800
+TRAILWOOD LN                                                0180001800
+TRANSIT WAY                                                 0180101801
+TRANSOM DR                                                  0180001800
+TREETOP LN                                                  0180001800
+TRENTS LN                                                   0180101801
+TREVOR LN                                                   0180001800
+TRINITY LN                                                  0180001800
+TRIPP CT                                                    0180001800
+TRIPP DR                                                    0180001800
+TROLLING WAY                                                0180001800
+TROUT DR                                                    0180001800
+TRUMAN ST                                                   0180101801
+TUCKER CEMETERY RD                                          0180001800
+TUCKER GARLAND RD                                           0180001800
+TUCKER RD                                                   0180001800
+TUG LN                                                      0180001800
+TULIP LN                                                    0180001800
+TUMBLER DR                                                  0180101801
+TURKEY LN                                                   0180001800
+TURNBRIDGE DR                                               0180101801
+TURNER AIRPORT RD                                           0180001800
+TURNER RD                                                   0180001800
+TWEETY BIRD LN                                              0180001800
+TWIN OAKS LN                                                0180001800
+TYLER RD                                                    0180001800
+UNIVERSITY DR                                               0180101801
+UNKNOWN                                                     0180101801
+UNKNOWN RD                                                  0180101801
+US641                                                       0180001800
+US641 N                                                     0180001800
+US641 N                                                     0180101801
+US641 S                                                     0180001800
+UTTERBACK RD                                                0180001800
+UTTERBACK RD                                                0180101801
+VAGABOND TRAIL                                              0180101801
+VALENTINE AVE                                               0180101801
+VALENTINE RD                                                0180001800
+VALLEY DR                                                   0180001800
+VALLEYVIEW LN                                               0180001800
+VALLEYWOOD DR                                               0180101801
+VAN CLEAVE RD                                               0180001800
+VASSAR DR                                                   0180101801
+VAUGHN DR                                                   0180101801
+VEAL LN                                                     0180001800
+VICKIE DR                                                   0180001800
+VILLA SQUARE DR                                             0180001800
+VINE ST                                                     0180001800
+VINE ST                                                     0180101801
+W GROVE DR                                                  0180001800
+W STATE ST                                                  0180301803
+WADESBORO RD                                                0180001800
+WAL MART DR                                                 0180101801
+WALDROP DR                                                  0180101801
+WALLACE DR                                                  0180001800
+WALNUT ST                                                   0180101801
+WALNUT ST E                                                 0180001800
+WALNUT ST S                                                 0180001800
+WALSTON RD                                                  0180001800
+WANDA LN                                                    0180001800
+WARBLER LN                                                  0180001800
+WARREN LN                                                   0180001800
+WASHER RD                                                   0180001800
+WASHINGTON DR                                               0180001800
+WASHINGTON ST                                               0180101801
+WATERFIELD DR                                               0180001800
+WATERFOWL RD                                                0180001800
+WATERLEAF DR                                                0180001800
+WATERLILY LN                                                0180001800
+WATERLINE LN                                                0180001800
+WATERSPORT RD                                               0180001800
+WATERVIEW LN                                                0180001800
+WATERWAY TRAIL                                              0180001800
+WATERWAY TRL                                                0180001800
+WATKINS DR                                                  0180001800
+WATSON CEMETERY DR                                          0180001800
+WATSON RD                                                   0180001800
+WATTS DR                                                    0180001800
+WAVE LN                                                     0180001800
+WAXWING DR                                                  0180001800
+WAYNE CIR                                                   0180001800
+WEATHERSPOON DR                                             0180001800
+WEDGEWOOD DR                                                0180001800
+WELCH CT                                                    0180101801
+WELCH DR                                                    0180101801
+WELLHOUSE DR                                                0180001800
+WELLHOUSE LN                                                0180001800
+WELLS BLVD                                                  0180101801
+WELLS DRIVE EXT                                             0180101801
+WELLS PURDOM DR                                             0180001800
+WESLEY DR                                                   0180001800
+WEST DR                                                     0180001800
+WEST FORK RD                                                0180001800
+WESTERN DR                                                  0180001800
+WESTERN LN                                                  0180001800
+WESTGATE DR                                                 0180101801
+WESTVIEW LN                                                 0180001800
+WESTWOOD DR                                                 0180001800
+WHIPPORWILL CIR                                             0180101801
+WHIPPORWILL DR                                              0180101801
+WHISPER DR E                                                0180001800
+WHISPER DR W                                                0180001800
+WHITE EAGLE DR                                              0180001800
+WHITE OAK DR                                                0180001800
+WHITE OAK SCHOOL LN                                         0180001800
+WHITE WOLF DR                                               0180001800
+WHITECAP LN                                                 0180001800
+WHITETAIL LN                                                0180001800
+WHITLOW LN                                                  0180001800
+WHITNELL ST                                                 0180101801
+WHITNEY LN                                                  0180001800
+WICKHAM DR                                                  0180001800
+WILCOX LN                                                   0180001800
+WILDCAT BEACH RD                                            0180001800
+WILDCAT BEACH RD N                                          0180001800
+WILDCAT DR                                                  0180001800
+WILDROSE LN                                                 0180001800
+WILDWOOD DR                                                 0180001800
+WILKERSON DR                                                0180001800
+WILKINS DR                                                  0180001800
+WILL DAVID DR                                               0180001800
+WILLIAM MUSSER LN                                           0180001800
+WILLIAMS AVE                                                0180101801
+WILLIAMSBURG LN                                             0180101801
+WILLIFORD DR                                                0180001800
+WILLIS DR                                                   0180001800
+WILLOW CIR                                                  0180001800
+WILSHIRE DR                                                 0180101801
+WILSON ST                                                   0180101801
+WILSON TRAIL                                                0180001800
+WINCHESTER CEMETERY RD                                      0180001800
+WINCHESTER RD                                               0180001800
+WIND DR                                                     0180001800
+WINDSONG CIR                                                0180001800
+WINDSOR CT                                                  0180101801
+WINDWARD LN                                                 0180001800
+WING RD                                                     0180001800
+WINTERGREEN LN                                              0180001800
+WINTERSET LN                                                0180001800
+WISWELL RD                                                  0180101801
+WISWELL RD W                                                0180001800
+WISWELL RD W                                                0180101801
+WOLFSON                                                     0180001800
+WOODCOCK DR                                                 0180001800
+WOODDUCK LN                                                 0180001800
+WOODED ACRES LN                                             0180001800
+WOODGATE DR                                                 0180001800
+WOODLAKE DR                                                 0180001800
+WOODLAND LN                                                 0180001800
+WOODLAWN AVE                                                0180101801
+WOODPECKER LN                                               0180001800
+WOODRIDGE LN                                                0180001800
+WOODS RD                                                    0180001800
+WOODS RD                                                    0180101801
+WOODSONG LN                                                 0180001800
+WOODVIEW DR                                                 0180001800
+WORKMAN RD                                                  0180001800
+WRATHER RD                                                  0180001800
+WREN RD                                                     0180001800
+WRENWOOD LN                                                 0180001800
+WRIGHT RD                                                   0180001800
+WYATT CEMETERY RD                                           0180001800
+WYATT DR                                                    0180001800
+YACHT LN                                                    0180001800
+YANDELL DR                                                  0180001800
+YARBOROUGH DR                                               0180001800
+YARBOROUGH RD                                               0180001800
+YAWE LN                                                     0180001800
+YELLOWBIRD LN                                               0180001800
+YOKE DR                                                     0180001800
+YORK DR                                                     0180001800
+YOUTH WAY                                                   0180001800

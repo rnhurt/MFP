@@ -16,7 +16,7 @@ us = Country.find_by_abbreviation("US")
 open(File.join(Rails.root, "db", "seeds", "ANSIStateCodes.txt")) do |states|
   states.read.each_line do |state|
     code, abbr, name = state.chomp.split("|")
-    State.create!(:code => code, :abbreviation => abbr, :name => name.capitalize, :country => us)
+    State.create!(:code => code, :abbreviation => abbr, :name => name.titleize, :country => us)
   end
 end
 puts "done"
@@ -27,7 +27,7 @@ open(File.join(Rails.root, "db", "seeds", "ANSICountyCodes.txt")) do |counties|
   counties.read.each_line do |county|
     state_code, code, name = county.chomp.split("|")
     state = State.find_by_code(state_code)
-    County.create!(:code => code, :name => name.capitalize, :state => state)
+    County.create!(:code => code, :name => name.titleize, :state => state)
   end
 end
 puts "done"
@@ -38,7 +38,7 @@ city2county = {}
 open(File.join(Rails.root, "db", "seeds", "City2CountyMap-KY.txt")) do |mapping|
   mapping.read.each_line do |line|
     city, county = line.chomp.split("|")
-    city2county.store(city.capitalize, county.capitalize)
+    city2county.store(city.titleize, county.titleize)
   end
 end
 # Now, populate the database using the hash as a lookup
@@ -46,22 +46,26 @@ City.delete_all
 open(File.join(Rails.root, "db", "seeds", "FIPSCityCodes-KY.txt")) do |cities|
   cities.read.each_line do |city|
     code, name = city.chomp.split("|")
-    county = County.find_by_name(city2county[name.capitalize!])
+    county = County.find_by_name(city2county[name.titleize])
     City.create!(:code => code, :name => name, :county => county)
   end
 end
 puts "done"
 
-# print "Seeding KY Street Names..."
-# state = State.find_by_abbreviation("KY").code
-# StreetName.delete_all
-# open(File.join(Rails.root, "db", "seeds", "StreetNames-KY.txt")) do |streets|
-#   streets.read.each_line do |street|
-#     name, code = street.chomp.split("|")
-#     StreetName.create!(:state_code => state, :county_code => code[0,2], :code => code, :name => name)
-#   end
-# end
-# puts "done"
+state = State.find_by_abbreviation("KY")
+puts "Seeding Street(#{state.abbreviation}) codes..."
+counties = state.counties.order("name asc")
+StreetName.delete_all
+Dir.glob(File.join(Rails.root, "db", "seeds", "StreetCodes-#{state.abbreviation}", "*.*")) do |file|
+  puts "  loading file '#{File.basename(file)}'..."
+  open(file) do |streets|
+    streets.read.each_line do |street|
+      name, code = street.chomp.split("  ").delete_if{|i| i.length < 1}
+      StreetName.create!(:code => code.strip[0..4], :name => name.titleize, :county => counties[code.strip[0..2].to_i - 1])
+    end
+  end
+end
+puts "done"
 
 
 # Dingo specific codes
@@ -144,7 +148,7 @@ VehicleMake.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICVehicleMakeCodes.txt")) do |vcodes|
   vcodes.read.each_line do |vcode|
     code, value = vcode.chomp.split("|")
-    VehicleMake.create!(:state => STATE, :code => code, :value => value.capitalize)
+    VehicleMake.create!(:state => STATE, :code => code, :value => value.titleize)
   end
 end
 puts "done"
@@ -154,7 +158,7 @@ VehicleModel.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICVehicleModelCodes.txt")) do |codes|
   codes.read.each_line do |code_line|
     code, abbr, value = code_line.chomp.split("|")
-    VehicleModel.create!(:state => STATE, :code => code, :value => value.capitalize)
+    VehicleModel.create!(:state => STATE, :code => code, :value => value.titleize)
   end
 end
 puts "done"
@@ -190,6 +194,7 @@ end
 puts "done"
 
 
+puts " * Inserting Testing Data *"
 #######################################################
 # TESTING DATA                                        #
 # This should be removed before moving to production  #

@@ -1,0 +1,949 @@
+1072 ST                                                     0820108201
+1076 ST                                                     0820108201
+1077 ST                                                     0820108201
+1ST LN                                                      0820008200
+1ST ST                                                      0820208202
+2ND ST                                                      0820208202
+3RD ST                                                      0820208202
+4TH ST                                                      0820208202
+AARON CT                                                    0820008200
+ABBY CT                                                     0820008200
+ABERDEEN CT                                                 0820008200
+ABERSOLD LN                                                 0820008200
+ACCESS ST                                                   0820208202
+ADAMS ST                                                    0820008200
+ADAMS WAY                                                   0820008200
+ALBINA CT                                                   0820008200
+ALEX WILLIS LN                                              0820008200
+ALLEN CT                                                    0820108201
+ALLEN LAKE DR                                               0820008200
+ALLEN RD                                                    0820008200
+ALLISON AVE                                                 0820008200
+ALVIE RD                                                    0820008200
+AMANDA WAY                                                  0820008200
+AMMONS LN                                                   0820008200
+ANGEL CT                                                    0820008200
+ANNE CT                                                     0820108201
+ANTLER RIDGE                                                0820008200
+APPLE JACK RD                                               0820008200
+ARMORY PL                                                   0820108201
+ARNOLD SCHOOL RD                                            0820008200
+ARTHUR LN                                                   0820008200
+ARVIN AVE                                                   0820008200
+ASH CT                                                      0820008200
+ASHCRAFT RD                                                 0820008200
+ATWELL ST                                                   0820108201
+AUTUMN CT                                                   0820008200
+B ELROY RAY RD                                              0820008200
+BAKER RD                                                    0820008200
+BALD KNOB RD                                                0820008200
+BALD KNOB ROAD SPUR                                         0820008200
+BALL ST                                                     0820208202
+BALLMAN RD                                                  0820008200
+BANKS RD                                                    0820008200
+BAPTIST CHURCH RD                                           0820008200
+BARGER LN                                                   0820008200
+BARN OWL CT                                                 0820008200
+BARNES LN                                                   0820008200
+BARR GREENWELL RD                                           0820008200
+BARWATER EXT                                                0820008200
+BARWATER RD                                                 0820008200
+BASHAM CORNER RD                                            0820008200
+BASHAM CT                                                   0820208202
+BASHAM LN                                                   0820008200
+BATTLETOWN RD                                               0820008200
+BATTLETOWN RD                                               0820108201
+BAYSIDE LN                                                  0820008200
+BEE KNOB HILL RD                                            0820008200
+BEE KNOB HILL TRAILER COURT LN                              0820008200
+BEECH ST                                                    0820208202
+BELGIAN LN                                                  0820008200
+BELLEMEADE ST                                               0820008200
+BENHAM RD                                                   0820008200
+BENT PINE LN                                                0820008200
+BERRY CAIN RD                                               0820008200
+BERRY DR                                                    0821108211
+BERRYMAN RD                                                 0820008200
+BEST STOP DR                                                0820008200
+BETHEL CHURCH RD                                            0820008200
+BEVILL TRAILER PARK RD                                      0820008200
+BEWLEY RD                                                   0820008200
+BIG BEND RD                                                 0820008200
+BIG DIPPER TRL                                              0820008200
+BIG SPRING RD                                               0820008200
+BILLHYMER ST                                                0820008200
+BITTERSWEET PL                                              0820008200
+BLACK JACK RD                                               0820008200
+BLACKBERRY CT                                               0820008200
+BLAINE CT                                                   0820008200
+BLAIR RD                                                    0820008200
+BLAND ST                                                    0820108201
+BLEVINS RD                                                  0820008200
+BLUEBERRY POINT DR                                          0820008200
+BLUEBIRD RD                                                 0820008200
+BLUEGRASS CIR                                               0820008200
+BLUEJAY CT                                                  0820008200
+BOARD RD                                                    0820008200
+BOAT RAMP NO1                                               0820008200
+BOAT RAMP NO2                                               0820008200
+BOB WHITE RD                                                0820008200
+BOBOLINK LN                                                 0820008200
+BONNIE CT                                                   0820008200
+BOONE HOLLOW RD                                             0820008200
+BOONE HOLW                                                  0820008200
+BOX TURTLE HL                                               0820008200
+BRADY LN                                                    0820008200
+BRANCH ST                                                   0820208202
+BRANDENBURG BYP                                             0820008200
+BRANDENBURG BYP                                             0820108201
+BRANDENBURG RD                                              0820008200
+BRANDENBURG STATION RD                                      0820008200
+BRANDY LN                                                   0820008200
+BRANDY SPRINGS RD                                           0820008200
+BRENDA CT                                                   0820008200
+BRETT DR                                                    0820008200
+BRIDGE POINT CT                                             0820108201
+BRIDGE ST                                                   0820008200
+BRIGHTBERRY ST                                              0820008200
+BROADWAY ST                                                 0820108201
+BROOKE LN                                                   0820008200
+BROWN AVE                                                   0820008200
+BROWNFIELD DR                                               0820008200
+BROWNING DR                                                 0820008200
+BRUCE RD                                                    0820008200
+BRUNNER RD                                                  0820008200
+BRUNO CIR                                                   0820008200
+BUCK GROVE CHURCH RD                                        0820008200
+BUCK GROVE RD                                               0820008200
+BUCK KNOBS RD                                               0820008200
+BUCKGROVE PT                                                0820008200
+BUCKLER AVE                                                 0820008200
+BUCKYS RD                                                   0820008200
+BUD WILSON RD                                               0820008200
+BUNGER RD                                                   0820008200
+BURBA LN                                                    0820008200
+BURGUNDY LN                                                 0820008200
+BURNETT ST                                                  0820108201
+BURRELL RD                                                  0820008200
+BUTLER LN                                                   0820008200
+BUTTERMILK FALLS RD                                         0820008200
+BUZZARDS ROOST RD                                           0820008200
+CALVIN LN                                                   0820008200
+CAMBRIDGE CT                                                0820008200
+CAMELOT DR                                                  0820008200
+CAMP GROUND RD                                              0820008200
+CAMP GROUND ROAD SPUR                                       0820008200
+CAMP KIMBO RD                                               0820008200
+CAMP PIOMINGO CIR                                           0820008200
+CAMP PIOMINGO LN                                            0820008200
+CAMP PIOMINGO LOOP                                          0820008200
+CAMP PIOMINGO RD                                            0820008200
+CAMP SKY HI RD                                              0820008200
+CAMP TALL TREES LOOP                                        0820008200
+CAMP TALL TREES RD                                          0820008200
+CAMP TECUMSEH RD                                            0820008200
+CARDINAL POINT CT                                           0820008200
+CARLTON CT                                                  0820008200
+CARPENTER TEST RD                                           0820008200
+CARTER DR                                                   0820008200
+CASSIES WAY                                                 0820008200
+CASTLE CT                                                   0820008200
+CATBIRD RD                                                  0820008200
+CATCHERS CT                                                 0820008200
+CAVALRY DR                                                  0820008200
+CEDAR FLAT RD                                               0820008200
+CEDAR HILLS RD                                              0820008200
+CEDAR HL                                                    0820008200
+CEDAR LINE LN                                               0820008200
+CEDAR LN                                                    0820008200
+CEDAR VISTA RD                                              0820008200
+CEDARCREST DR                                               0820108201
+CHABLIS LN                                                  0820008200
+CHAFFEE AVE                                                 0820008200
+CHAPMAN CT                                                  0820008200
+CHARDONNAY LN                                               0820008200
+CHARLES CRUTCHER DR                                         0820008200
+CHARLIE PILE RD                                             0820008200
+CHASE CT                                                    0820008200
+CHENAULT ST                                                 0820208202
+CHEROKEE EXT                                                0820008200
+CHEROKEE RD                                                 0820008200
+CHEROKEE SPUR RD                                            0820008200
+CHERRY HILL DR                                              0820008200
+CHESTER LN                                                  0820008200
+CHESTNUT ST                                                 0820208202
+CHICKADEE CT                                                0820008200
+CHISM WAY                                                   0821108211
+CHRIS CT                                                    0820008200
+CHRISTIAN CHURCH RD                                         0820008200
+CHRISTIAN CHURCH RD                                         0820108201
+CHURCHMAN LN                                                0820008200
+CIRCLE K RD                                                 0820008200
+CIRCLE ST                                                   0820208202
+CIRCLE VIEW DR                                              0820008200
+CLARKSON RD                                                 0820008200
+CLAUDE BROWN RD                                             0820008200
+CLAYCOMB RD                                                 0820008200
+CLOSE LN                                                    0820008200
+CLOVER CT                                                   0820008200
+COFFMAN LN                                                  0820008200
+COLEMAN LN                                                  0820008200
+COLEMAN RD                                                  0820008200
+COLUMBINE CT                                                0820008200
+COMMERCE WAY                                                0820108201
+COMMUNITY PARK RD                                           0820008200
+COMPTON CIR                                                 0820008200
+CONCORDIA RD                                                0820008200
+CONROY AVE                                                  0820008200
+CORBETT RD                                                  0820008200
+CORDIE CT                                                   0820008200
+CORNETT RD                                                  0820008200
+COUNTRY LN                                                  0820008200
+COUNTY POND RD                                              0820008200
+COURT HOUSE DR                                              0820108201
+COWSLIP CT                                                  0820008200
+COX LN                                                      0820008200
+COYOTE RUN RD                                               0820008200
+CRAWFORD LN                                                 0820008200
+CREEK VIEW CT                                               0820008200
+CREEK VIEW DR                                               0820108201
+CREEKBED RD                                                 0820208202
+CROSIER BOTTOM RD                                           0820008200
+CROSS ST                                                    0820008200
+CRYSTAL LN                                                  0820008200
+D E BROWN RD                                                0820008200
+DAIRY LN                                                    0820008200
+DAISY LN                                                    0820008200
+DALTON AVE                                                  0820008200
+DANDYLION LN                                                0820008200
+DARNALL AVE                                                 0820008200
+DAVE SMITH RD                                               0820008200
+DAVIS DR                                                    0820008200
+DAWN DR                                                     0820008200
+DEBBIE CT                                                   0820108201
+DECATUR ST                                                  0820108201
+DEER DR                                                     0820008200
+DEERWOOD LN                                                 0820008200
+DELILAH WAY                                                 0820008200
+DEMORET AVE                                                 0820008200
+DEPOT ST                                                    0820008200
+DEWBERRY CT                                                 0820008200
+DEWEY ST                                                    0820208202
+DIANA CT                                                    0820008200
+DIANA LN                                                    0820008200
+DITTO LN                                                    0820008200
+DIXIE HWY                                                   0820008200
+DIXIE HWY                                                   0820208202
+DOE CT                                                      0820008200
+DOE HAVEN RD                                                0820008200
+DOE RUN DR                                                  0820008200
+DOE RUN EKRON RD                                            0820008200
+DOE RUN HOTEL RD                                            0820008200
+DOE VALLEY DR                                               0820008200
+DOE VALLEY PKWY E                                           0820008200
+DOE VALLEY PKWY W                                           0820008200
+DOGWOOD LN                                                  0820008200
+DOGWOOD RD                                                  0820008200
+DONNA DR                                                    0820108201
+DOOLEY RD                                                   0820008200
+DORADO CT                                                   0820008200
+DOUBLE CT                                                   0820008200
+DOUBLE D RD                                                 0820008200
+DOWELL RD                                                   0820008200
+DR TRENT ST                                                 0820008200
+DRAKE RD                                                    0820008200
+DRESEL CIR                                                  0820208202
+DRIVEWAY                                                    0820008200
+DRY HOUSE ALY                                               0821108211
+DUGOUT DR                                                   0820008200
+DYER CT                                                     0820008200
+E L SHACKLETTE CT                                           0820008200
+E MABEL ST                                                  0820208202
+EAGLE PASS                                                  0820008200
+EAGLE PT                                                    0820008200
+EAGLES NEST RD                                              0820008200
+EBBIE LN                                                    0820008200
+ECHO TRL                                                    0820008200
+EDISON CT                                                   0820008200
+ELLEN DR                                                    0820008200
+ELM CT                                                      0820008200
+ELM ST                                                      0820208202
+EMERGENCY DR                                                0820008200
+EMMER DR                                                    0820008200
+ERICA CT                                                    0820008200
+ESTER CT                                                    0820008200
+ESTES LN                                                    0820008200
+EUSTIS AVE                                                  0820008200
+EVANS RD                                                    0820008200
+EVELYN LN                                                   0820008200
+EVENING ROSE CT                                             0820008200
+EVERGREEN CT                                                0820008200
+FACKLER RD                                                  0820008200
+FAIR OAKS DR                                                0820008200
+FAIRGROUNDS RD                                              0820008200
+FAIRMOUNT RD                                                0820008200
+FAIRWAY CT                                                  0820108201
+FAIRWAY DR                                                  0820008200
+FAIRWAY DR                                                  0820108201
+FALLEN RD                                                   0820008200
+FARMER BROWN CT                                             0820008200
+FARMER RD                                                   0820008200
+FARMINGTON DR                                               0820008200
+FARRIS RD                                                   0820008200
+FATHER CLANCY DR                                            0820008200
+FAWN CT                                                     0820008200
+FAWN LN                                                     0820008200
+FEDERAL DR                                                  0820008200
+FERNCLIFF RD                                                0820008200
+FINCH CT                                                    0820008200
+FIREHOUSE CT                                                0820008200
+FIRESIDE DR                                                 0820108201
+FLAHERTY MOBILE HOME PARK DR                                0820008200
+FLAHERTY MOBILE HOME PARK LANE NO1                          0820008200
+FLAHERTY MOBILE HOME PARK LANE NO2                          0820008200
+FLAHERTY MOBILE HOME PARK LANE NO3                          0820008200
+FLAHERTY MOBILE HOME PARK LANE NO4                          0820008200
+FLAHERTY RD                                                 0820008200
+FLAHERTY SCHOOL DR                                          0820008200
+FLAHERTY TRAILER PARK                                       0820008200
+FLAT ROCK RD                                                0820008200
+FLORADORA RD                                                0820008200
+FOLGER ST                                                   0820008200
+FOREST RD                                                   0820008200
+FORKHORN LN                                                 0820008200
+FORREST HILLS RD                                            0820008200
+FORREST LN                                                  0820008200
+FORT AVE                                                    0820008200
+FORT AVENUE FARM LN                                         0820008200
+FOUR OAKS RD                                                0820008200
+FOUSHEE HILL RD                                             0820008200
+FOXBORO RD                                                  0820008200
+FRANKLIN ST                                                 0820208202
+FRED FACKLER RD                                             0820008200
+FREDERICK ST                                                0820008200
+FREEDOM CT                                                  0820008200
+FREESIA CT                                                  0820008200
+FRENCH LN                                                   0820008200
+GAINES FARM RD                                              0820008200
+GAINES RD                                                   0820008200
+GALLO DR                                                    0820008200
+GALLO LN                                                    0820008200
+GANDER BRANCH LOOP                                          0820008200
+GARDNER AVE                                                 0820008200
+GARDNER DR                                                  0820008200
+GARNETTSVILLE RD                                            0820208202
+GARRETT RD                                                  0820008200
+GAY ST                                                      0820108201
+GEORGIA DR                                                  0820008200
+GHEN RD                                                     0820008200
+GILBERT CT                                                  0820008200
+GILKEY LOOP                                                 0820008200
+GILKEY ST                                                   0820008200
+GINNY LN                                                    0820008200
+GLEN EAGLES RD                                              0820008200
+GOBBLERS KNOB RD                                            0820008200
+GOBBLERS KNOB SPUR RD                                       0820008200
+GOFF ST                                                     0820108201
+GOINS LN                                                    0820008200
+GOLDENROD CT                                                0820008200
+GOLF GREENS CIR                                             0820008200
+GRAF ACRES RD                                               0820008200
+GRAHAMTON CEMETERY RD                                       0820008200
+GRANDVIEW CT                                                0820008200
+GRANDVIEW DR                                                0820008200
+GRANT LN                                                    0820008200
+GREEN ACRES DR                                              0820008200
+GREEN ACRES RD                                              0820008200
+GREEN LAWN CT                                               0820008200
+GREEN MEADOWS RD                                            0820008200
+GREEN ST                                                    0820108201
+GREEN VALLEY RANCH RD                                       0820008200
+GREENBRIAR CT                                               0820008200
+GREENSWAY CIR                                               0820008200
+GREENWELL LN                                                0820008200
+GREER RD                                                    0820008200
+GREER ST                                                    0820108201
+GUENTHNER DR                                                0820008200
+GUMWELL RD                                                  0820008200
+GUSTON BEWLEYVILLE RD                                       0820008200
+GUSTON RD                                                   0820008200
+GUY CT                                                      0820008200
+GWINN CT                                                    0820008200
+HAMILTON RD                                                 0820008200
+HAMPTON RD                                                  0820008200
+HANNAH WAY                                                  0820008200
+HAPPY RIDGE RD                                              0820108201
+HARDESTY RAYMOND RD                                         0820008200
+HARDESTY RD                                                 0820008200
+HARGAN RD                                                   0820008200
+HARLEN DITTO RD                                             0820008200
+HARPERS WAY                                                 0820008200
+HARPERS WAY CONNECTOR                                       0820008200
+HARPERS WAY EXT                                             0820008200
+HARRINGTON AVE                                              0820008200
+HARRIS ST                                                   0820208202
+HAVEN CT                                                    0820008200
+HAVENWOOD CT                                                0820008200
+HAWTHORNE CT                                                0820008200
+HAYLEE CT                                                   0820008200
+HAYNES CEMETERY RD                                          0820008200
+HAYSVILLE EKRON RD                                          0820008200
+HAYSVILLE RD                                                0820008200
+HAYSVILLE RD                                                0821108211
+HEAVENS HILL LN                                             0820008200
+HENDERSON WOOD DR                                           0820008200
+HERMITAGE RD                                                0820008200
+HESLER LN                                                   0820108201
+HICKORY HILLS CT                                            0820008200
+HICKORY LN                                                  0820008200
+HICKS RD                                                    0820008200
+HIDDEN CT                                                   0820008200
+HIDDEN HOLLOW RD                                            0820008200
+HIERS ST                                                    0820008200
+HIGH ST                                                     0820108201
+HILL CT                                                     0820008200
+HILL GROVE RD                                               0820008200
+HILL ST                                                     0820208202
+HILL VIEW RD                                                0820008200
+HOBBS LN                                                    0820008200
+HOBBS REESOR RD                                             0820008200
+HOGBACK RD                                                  0820008200
+HOGWALLOW EXT                                               0820008200
+HOGWALLOW LANE CONNECTOR                                    0820008200
+HOGWALLOW LN                                                0820008200
+HOLSTON CT                                                  0820208202
+HOLSTON LN                                                  0820008200
+HOLSTON WAY                                                 0820008200
+HOLSTONS ESTATE PL                                          0820208202
+HOMERUN CT                                                  0820008200
+HOMEVIEW DR                                                 0820108201
+HONEYSUCKLE WAY                                             0820008200
+HOWARD DR                                                   0820108201
+HUBBARD LN                                                  0820008200
+HUCKLEBERRY CT                                              0820008200
+HUNTER LN                                                   0820108201
+HUNTERS DR                                                  0820008200
+HURT RD                                                     0820008200
+HUTCHINS DR                                                 0821108211
+INSANITY LN                                                 0820008200
+IVY CT                                                      0820008200
+JACK CHAPPELL RD                                            0820008200
+JACK PINE CT                                                0820008200
+JAKES DR                                                    0820008200
+JAMISON ST                                                  0820008200
+JANET DR                                                    0820008200
+JARBOE SINKS RD                                             0820008200
+JASON DR                                                    0820008200
+JASON ROAD SPUR                                             0820008200
+JEBRON WAY                                                  0820008200
+JEFFREY CT                                                  0820008200
+JENA CT                                                     0820108201
+JENNIFER CT                                                 0820108201
+JENNINGS KNOB RD                                            0820008200
+JERRY HARDESTY RD                                           0820008200
+JIM BARR RD                                                 0820008200
+JOHN SWINK RD                                               0820008200
+JOHNNIE PACK RD                                             0820008200
+JORDAN AVE                                                  0820008200
+JOYCE CT                                                    0820008200
+JULIE CT                                                    0820008200
+KAIMI CT                                                    0820008200
+KAMBER LN                                                   0820008200
+KAREN CT                                                    0820208202
+KARMANDY LN                                                 0820008200
+KASKA DR                                                    0820208202
+KEITH RD                                                    0820008200
+KELLY LN                                                    0820008200
+KELLY ST                                                    0820008200
+KEN HELMLY RD                                               0820008200
+KENDALL RD                                                  0820008200
+KENNEDY RD                                                  0820008200
+KENTUCKY HILLS RD                                           0820008200
+KIMLEY LN                                                   0820008200
+KINKEAD RD                                                  0820008200
+KIRCHDORFER LN                                              0820008200
+KNOB RD                                                     0820008200
+KNOLLWOOD RD                                                0820008200
+KNOTTS RD                                                   0820008200
+KNOTTY PINE CT                                              0820008200
+KNOX VIEW LN                                                0820008200
+KUNDLER DR                                                  0820208202
+KURTZ DR                                                    0820008200
+KY376                                                       0820008200
+KY448                                                       0820108201
+KY79                                                        0820008200
+LAFAYETTE ST                                                0820108201
+LAKE DR                                                     0820008200
+LAKE SHORE PKWY                                             0820008200
+LAKEVIEW DR                                                 0820108201
+LAMKINS LN                                                  0820008200
+LANCASTER RD                                                0820008200
+LANCELOT CT                                                 0820008200
+LAPLAND RD                                                  0820008200
+LARKSPUR CT                                                 0820008200
+LARKSPUR LN                                                 0820008200
+LARRY BERRY DR                                              0821108211
+LARRY CT                                                    0820208202
+LAWRENCE ST                                                 0820108201
+LAWSON PARK RD                                              0820008200
+LAWSON WOODS RD                                             0820008200
+LAZY J LN                                                   0820008200
+LEE RD                                                      0820008200
+LEES LN                                                     0820008200
+LEGLORA DR                                                  0820008200
+LEON CT                                                     0820108201
+LEWIS PL                                                    0820108201
+LG AND E RD                                                 0820008200
+LIBERTY RD                                                  0820008200
+LIBRARY PL                                                  0820108201
+LICK SKILLET RD                                             0820008200
+LINDSEY CT                                                  0820008200
+LIONEL DR                                                   0820008200
+LISA DR                                                     0820108201
+LITTLE BEND RD                                              0820008200
+LIVE OAK CT                                                 0820008200
+LOBLOLLY LN                                                 0820008200
+LONE STAR RD                                                0820008200
+LONESOME VALLEY DR                                          0820008200
+LONG BRANCH RD                                              0820008200
+LONG NEEDLE RD                                              0820008200
+LONG VALLEY RD                                              0820008200
+LONNIE LAWSON CT                                            0820008200
+LOWE ST                                                     0820008200
+LUCAS DR                                                    0820008200
+LUKE CT                                                     0820008200
+LUSK LN                                                     0820108201
+LYNN ST                                                     0820208202
+M CAIN RD                                                   0820008200
+M HALL RD                                                   0820008200
+M J MCCOLLUM RD                                             0820008200
+M R HAYS RD                                                 0820008200
+MADISON AVE                                                 0820008200
+MAIDEN ALY                                                  0820108201
+MAIN ST                                                     0820008200
+MAIN ST                                                     0820108201
+MAIN ST                                                     0820208202
+MALINDA DR                                                  0820008200
+MALLARD WAY                                                 0820008200
+MALVERN CT                                                  0820008200
+MANOR RD                                                    0820008200
+MAPLE GROVE DR                                              0820108201
+MAPLE ST                                                    0820208202
+MATTHEWS RD                                                 0820008200
+MATTINGLY RD                                                0820008200
+MAYAPPLE DR                                                 0820008200
+MAYME CT                                                    0820008200
+MCCOY RD                                                    0821108211
+MCCRARY RD                                                  0820008200
+MEADE SPRINGS RD                                            0820008200
+MEADOW SPRINGS CT                                           0820008200
+MEADOW WOOD DR                                              0820008200
+MEADOWLARK LN                                               0820008200
+MEADOWVALE CT                                               0820008200
+MEADOWVIEW DR                                               0820108201
+MEDER LN                                                    0820008200
+MEDLEY DR                                                   0820008200
+MELISSA DR                                                  0820008200
+MERION CT                                                   0820008200
+MERRYSTONE CT                                               0820008200
+MICHAEL LN                                                  0820108201
+MICHAELS VIEW RD                                            0820008200
+MICKEY WAY                                                  0820208202
+MILAN RD                                                    0820008200
+MILES LN                                                    0820008200
+MILLER LN                                                   0820008200
+MILLER RD                                                   0820008200
+MILLS RD                                                    0820008200
+MILLSTEAD DR                                                0820008200
+MINNIE CT                                                   0820008200
+MOBLEY RD                                                   0820008200
+MOCKINGBIRD RD                                              0820008200
+MOLLY BROWN RD                                              0820008200
+MONROE ST                                                   0820108201
+MONTEREY CT                                                 0820008200
+MOOLEYVILLE RD                                              0820008200
+MORGAN RD                                                   0820008200
+MORNING GLORY RD                                            0820008200
+MOUNTAIN LN                                                 0820008200
+MUCKER RD                                                   0820008200
+MULDRAUGH WATER PLANT RD                                    0820008200
+MULLIGAN CT                                                 0820008200
+MULVANEY ST                                                 0820008200
+MYRTLE DR                                                   0820008200
+N ENTRANCE RD                                               0820008200
+N MIDWAY RD                                                 0820008200
+NALL RD                                                     0820008200
+NASH RD                                                     0820008200
+NATALIE CT                                                  0820008200
+NATHAN CT                                                   0820008200
+NATURE CENTER LN                                            0820008200
+NAVAHO TRL                                                  0820008200
+NEELEY RD                                                   0820008200
+NEFF CT                                                     0820008200
+NELL CT                                                     0820008200
+NELSON LN                                                   0820008200
+NEW HIGHLAND CHURCH RD                                      0820008200
+NEW PACK RD                                                 0820008200
+NEW ST                                                      0820208202
+NEW STATE RD                                                0820008200
+NEWTON ST                                                   0820008200
+NICHOLS LN                                                  0820008200
+NICKEL PLATE RD                                             0820008200
+NIMROD CT                                                   0820008200
+NUTHATCH CT                                                 0820008200
+OAK HILL DR                                                 0820008200
+OAK ST                                                      0820208202
+OAKDALE CT                                                  0820008200
+OAKLAWN CT                                                  0820008200
+OAKLAWN RD                                                  0820108201
+OAKWOOD RD                                                  0820008200
+OBRYAN RD N                                                 0820008200
+OBRYAN RD S                                                 0820008200
+OLD BRANDENBURG IRVINGTON RD                                0820008200
+OLD EKRON RD                                                0820008200
+OLD EKRON RD                                                0820108201
+OLD MILL DR                                                 0820008200
+OLD MILL RD                                                 0820008200
+OLD MILL RD                                                 0820208202
+OLD MILL ROAD CONNECTOR                                     0820008200
+OLD OAK DR                                                  0820008200
+OLD OLIN RD                                                 0820008200
+OLD STATE RD                                                0820008200
+OLD STATE RD                                                0820108201
+OLD US 60                                                   0820008200
+OLD US 60 CONNECTOR                                         0820008200
+OLIN PARK DR                                                0820108201
+OLIN RD                                                     0820008200
+OLIN RD                                                     0820108201
+OOLITE RD                                                   0820008200
+ORA CT                                                      0820008200
+OSBORNE RD                                                  0820008200
+OTTER CREEK AIR STRIP RD                                    0820008200
+OTTER CREEK FIELDS LN                                       0820008200
+OTTER CREEK PARK RD                                         0820008200
+OTTER CREEK POOL LN                                         0820008200
+OTTER CREEK RIVER RD                                        0820008200
+OTTER HAVEN DR                                              0820008200
+OTTER RIDGE DR                                              0820008200
+OTTER VIEW CT                                               0820008200
+OUTLAW LN                                                   0820008200
+OVERLOOK TER                                                0820008200
+OVERLOOK TER                                                0820108201
+OWEN LOOP                                                   0820008200
+OWEN RD                                                     0820008200
+OWENSBORO HWY                                               0820008200
+PACK RD                                                     0820008200
+PAMS LN                                                     0820008200
+PAQUETTE ST                                                 0820008200
+PAR FIVE DR                                                 0820008200
+PARADISE BOTTOM RD                                          0820008200
+PARK AVE                                                    0820008200
+PARK LN                                                     0820108201
+PARK RIDGE RD                                               0820008200
+PARK RIDGE RD                                               0820208202
+PARKWAY AVE                                                 0821108211
+PARKWAY TER                                                 0820108201
+PATRIOT WAY                                                 0820008200
+PAUL CUNDIFF ST                                             0820008200
+PAULA CT                                                    0820008200
+PAYNE RD                                                    0820008200
+PAYNEVILLE RD                                               0820008200
+PEACEFUL VALLEY RD                                          0820008200
+PELLMAN RD                                                  0820008200
+PERRINE ST                                                  0820208202
+PERRY ST                                                    0820208202
+PERSIMMON CT                                                0820008200
+PETERSON RD                                                 0820008200
+PHILLIP LN                                                  0820108201
+PHILLIPS LN                                                 0820008200
+PIKE DR                                                     0820108201
+PIKE LN                                                     0820008200
+PIN OAKS LN                                                 0820008200
+PINE CONE LN                                                0820008200
+PINE CT                                                     0820008200
+PINE LAND LN                                                0820008200
+PINE NEEDLE LN                                              0820008200
+PINE POINT CT                                               0820008200
+PINE POINT RD                                               0820008200
+PINE RIDGE DR                                               0820008200
+PINE RIDGE RD                                               0820008200
+PINE VIEW CT                                                0820008200
+PINE WILLOW CIR                                             0820008200
+PINEHURST CT                                                0820008200
+PINNACLE DR                                                 0820008200
+PINWHEEL RD                                                 0820008200
+PIPING ROCK RD                                              0820008200
+PLEMMONS WAY                                                0820008200
+POINT SALEM DR                                              0820008200
+POINT ST                                                    0820108201
+POKEBERRY CT                                                0820008200
+POLLOCKS RD                                                 0820008200
+POLSTON ST                                                  0820208202
+POPHAM RD                                                   0820008200
+POPLAR CT                                                   0820008200
+POPLAR ST                                                   0820208202
+POPPY CT                                                    0820008200
+PRATHER HOLLOW RHODELIA RD                                  0820008200
+PRESTWICK CT                                                0820008200
+PRIMROSE LN                                                 0820008200
+PRIVATE DR                                                  0820008200
+PRIVATE DRIVE SPUR                                          0820008200
+QUAIL RUN RD                                                0820008200
+QUARRY RD                                                   0820008200
+RABBITT RUN RD                                              0820008200
+RAGTOWN LN                                                  0820008200
+RAILWAY ST                                                  0821108211
+RAILWAY TRESTLE RD                                          0820008200
+RAILWAY TRESTLE ROAD NO2                                    0820008200
+RAMBLING RIDGE RD                                           0820008200
+RASPBERRY CT                                                0820008200
+RAY RD                                                      0820008200
+RAYMOND RD                                                  0820008200
+RAYS RD                                                     0820008200
+READY MIX RD                                                0820108201
+REBECCA CT                                                  0820008200
+REBEL RD                                                    0820008200
+RED WING RD                                                 0820008200
+REDBIRD CT                                                  0820008200
+REDMON RD                                                   0820008200
+REESE AVE                                                   0821108211
+REESE ST                                                    0820108201
+REESOR LN                                                   0820008200
+REMINGTON CT                                                0820008200
+RHODELIA RD                                                 0820008200
+RHODES RD                                                   0820008200
+RHODES ROAD SPUR                                            0820008200
+RHONDA CT                                                   0820008200
+RICHARD CT                                                  0820008200
+RICHARDSON LANDING RD                                       0820008200
+RICHARDSON RD                                               0820008200
+RICK STANSBURY ST                                           0820008200
+RIDGE CT                                                    0820008200
+RIDGE POINT DR                                              0820008200
+RIDGE POLE CT                                               0820008200
+RIDGE POLE RD                                               0820008200
+RIDGEWAY DR                                                 0820108201
+RINEYVILLE RD                                               0820008200
+RIVER BLUFF BEACH RD                                        0820008200
+RIVER CLIFF BLVD                                            0820108201
+RIVER EDGE DR                                               0820108201
+RIVER EDGE RD                                               0820008200
+RIVER VIEW RD                                               0820008200
+RIVERPORT ACCESS RD                                         0820008200
+ROACH RD                                                    0820008200
+ROBBINS DR                                                  0820008200
+ROBERTA ST                                                  0820108201
+ROBERTS AVE                                                 0820008200
+ROBIN WAY                                                   0820008200
+ROCK HAVEN RD                                               0820008200
+ROCK RIDGE RD                                               0820008200
+ROCKYTOP LN                                                 0820008200
+ROGERS LAKE RD                                              0820008200
+ROLLING ACRES DR                                            0820008200
+ROLLING CT                                                  0820008200
+ROLLING HILLS RD                                            0820008200
+ROLLING OAKS DR                                             0820008200
+ROLLING RIDGE CT                                            0820108201
+ROLLING TRL                                                 0820108201
+RONNIE CT                                                   0820208202
+RONS RUN                                                    0820008200
+ROSALIA DR                                                  0820008200
+ROSEBUD CT                                                  0820008200
+ROSEWOOD ST                                                 0820008200
+ROY HARDESTY RD                                             0820008200
+RUBY RUN RD                                                 0820008200
+RUSSELL RD                                                  0820008200
+S MIDWAY RD                                                 0820008200
+SAFARI TRL                                                  0820008200
+SALT RIVER RD                                               0820008200
+SAMMYS PL                                                   0820008200
+SAND PIT RD                                                 0820008200
+SAND RIDGE VALLEY RD                                        0820008200
+SANDRIDGE RD                                                0820008200
+SANDY HILL CEMETERY RD                                      0820008200
+SANDY HILL RD                                               0820008200
+SANDY LN                                                    0820008200
+SASSAFRAS CT                                                0820008200
+SCENIC VIEW CT                                              0820008200
+SCHOOL SIDE DR                                              0820008200
+SCHOOL SIDE DR                                              0820108201
+SCHUPP LN                                                   0820008200
+SCOTT HILL RD                                               0820008200
+SECRETARIAT DR                                              0820008200
+SEMINOLE TRL                                                0820008200
+SERENITY CT                                                 0820008200
+SHADY LN                                                    0820008200
+SHAMROCK RD                                                 0820008200
+SHAMROCK RD                                                 0820108201
+SHANNON LN                                                  0820008200
+SHANNONDOAH CT                                              0820008200
+SHAWN LN                                                    0820008200
+SHEFFIELD RD                                                0820008200
+SHELLYS TRCE                                                0820008200
+SHIRCLIFFE RD                                               0820008200
+SHIRE CT                                                    0820008200
+SHORT LEAF CT                                               0820008200
+SHORT LEAF LN                                               0820008200
+SHOT HUNT RD                                                0820008200
+SHUMATE N RD                                                0820008200
+SHUMATE RD                                                  0820208202
+SHUMATE S RD                                                0820008200
+SILENT CT                                                   0820008200
+SIMPSON LN                                                  0820008200
+SINGLE CT                                                   0820008200
+SINGLETON RD                                                0820008200
+SIPES LN                                                    0820008200
+SIROCCO RD N                                                0820008200
+SIROCCO RD S                                                0820008200
+SKEETERS CT                                                 0820008200
+SLIP RAMP                                                   0820108201
+SMITH RD                                                    0820008200
+SNELLING RD                                                 0820008200
+SNYDER RD                                                   0820008200
+SONGBIRD LN                                                 0820008200
+SOUTHLAND DR                                                0820008200
+SPIKE BUCK DR                                               0820008200
+SPRINGDALE RD                                               0820008200
+SPRINGDALE RD                                               0820108201
+SPUR DR                                                     0820008200
+ST ANDREWS CT                                               0820008200
+ST ANDREWS RD                                               0820008200
+ST CHRISTOPHER RD                                           0820008200
+ST MARTIN RD                                                0820008200
+STANLEY ALLEN DR                                            0820008200
+STARWOOD RD                                                 0820008200
+STEWART DITTO RD                                            0820008200
+STEWART RD                                                  0820008200
+STILES LN                                                   0820008200
+STITH VALLEY RD                                             0820008200
+STONY POINT RD                                              0820008200
+STRAWBERRY CIR                                              0820008200
+STRAWBERRY HILL DR                                          0820008200
+STRINGTOWN RD                                               0820008200
+SUMMER SHADE LN                                             0820008200
+SUMMITT DR                                                  0820108201
+SUN VALLEY RD                                               0820008200
+SUNFLOWER LN                                                0820008200
+SUNNY DALE RD                                               0820008200
+SUNNY LN                                                    0820008200
+SUNNY MEADOWS DR                                            0820008200
+SUNNY VIEW RD                                               0820008200
+SUNSET ST                                                   0820208202
+SWAN LN                                                     0820008200
+SWEENEY RD                                                  0820008200
+SWIM CLUB RD                                                0820008200
+SY CT                                                       0820008200
+SYCAMORE RD                                                 0820008200
+SYLVAN RD                                                   0820008200
+T CAIN RD                                                   0820008200
+TAMMY LN                                                    0820008200
+TANAGER RD                                                  0820008200
+TARNWOOD DR                                                 0820008200
+TEABERRY CT                                                 0820008200
+TELCO DR                                                    0820108201
+TENNIS COURT RD                                             0820008200
+THAD REDMAN RD                                              0820008200
+THISTLE CT                                                  0820008200
+THOMPSON LN N                                               0820008200
+THOMPSON LN S                                               0820008200
+THORNHILL DR                                                0820008200
+THORNHILL LN                                                0820008200
+THOROUGHBRED CT                                             0820008200
+THUNDER RIDGE CT                                            0820008200
+TIMBERLINE DR                                               0820008200
+TIPTOP RD                                                   0820008200
+TISSY LN                                                    0820108201
+TOM BROWN RD                                                0820008200
+TOP HILL RD                                                 0820008200
+TRANQUIL DR                                                 0820008200
+TREESTAND CT                                                0820008200
+TRILLIUM CT                                                 0820008200
+TRIPLE CT                                                   0820008200
+TROY CT                                                     0820008200
+TRUE ANGLE RD                                               0820008200
+TUCKER RD                                                   0820008200
+TURKEY HEAVEN RD                                            0820008200
+TURKEY RIDGE RD                                             0820008200
+TURNER RD                                                   0820008200
+TWILIGHT DR                                                 0820008200
+TWIN BRIDGES RD                                             0820008200
+TWIN LAKES DR                                               0820008200
+US 60 TRAILER COURT LN                                      0820008200
+VALENTINE DR                                                0820008200
+VALLEY CREEK RD                                             0820008200
+VALLEY CT                                                   0820008200
+VALLEY GREENS DR                                            0820008200
+VAN BUREN RD                                                0820008200
+VAN BUREN ROAD SPUR                                         0820008200
+VESSELS RD                                                  0820008200
+VIERS CT                                                    0820008200
+VIERS LN                                                    0820008200
+VINE GROVE RD                                               0820008200
+VINSON RD                                                   0820008200
+VOWELS RD                                                   0820008200
+W ALLEY ST                                                  0821108211
+W MABEL ST                                                  0820208202
+WAFFORD LN                                                  0820008200
+WALKER RD                                                   0820208202
+WALNUT ALLEY SPUR                                           0820108201
+WALNUT ALY                                                  0820108201
+WALNUT ST                                                   0820208202
+WALNUTGROVE RD                                              0820008200
+WARBLER RD                                                  0820008200
+WARREN CT                                                   0820008200
+WARREN DR                                                   0820008200
+WARREN RD                                                   0820008200
+WASHINGTON ST                                               0820108201
+WATER ST                                                    0820108201
+WATHEN LN                                                   0820008200
+WATSON RD                                                   0820008200
+WATTS ST                                                    0820208202
+WAX WING RD                                                 0820008200
+WELDON RD                                                   0820008200
+WENDELL ST                                                  0820208202
+WESTLAND CT                                                 0820008200
+WHEATLEY AVE                                                0820008200
+WHELAN RD                                                   0820008200
+WHIPPOORWILL RD                                             0820008200
+WHISPERING CT                                               0820008200
+WHITE ARROW ST                                              0820208202
+WHITE PINE LN N                                             0820008200
+WHITE PINE LN S                                             0820008200
+WHITE ROSE RD                                               0820008200
+WHITE ROSE ST                                               0820008200
+WHITETAIL CT                                                0820008200
+WILDFLOWER CT                                               0820008200
+WILDFLOWER LN                                               0820008200
+WILDFLOWER RIDGE RD                                         0820008200
+WILDWOOD FOREST RD                                          0820008200
+WILDWOOD PARK RD                                            0820008200
+WILKINS LN                                                  0820008200
+WILLARDS LN                                                 0820008200
+WILLETTS BOTTOM RD                                          0820008200
+WILLIAMS LN                                                 0820008200
+WILLIE DOWELL DR                                            0821108211
+WILSON LN                                                   0820008200
+WILSON PL                                                   0820008200
+WILSON ST                                                   0820208202
+WIMPEE RD                                                   0820008200
+WINDOVER CT                                                 0820108201
+WINDSOR PL                                                  0820008200
+WINTERBERRY CT                                              0820008200
+WISE RD                                                     0820008200
+WISTERIA LN                                                 0820008200
+WOLF CREEK RD                                               0820008200
+WOOD CHUCK RD                                               0820008200
+WOOD ST                                                     0820208202
+WOODALE RD                                                  0820108201
+WOODDALE CT                                                 0820008200
+WOODLAND LN                                                 0820008200
+WOODLAND RD                                                 0820008200
+WOODROW CT                                                  0820008200
+WOODS DR                                                    0820008200
+WOODSIDE DR                                                 0820008200
+WOODSON POINT RD                                            0820008200
+WOODSPOINT ACRES                                            0820008200
+WOODVIEW DR                                                 0820008200
+WORLEY LN                                                   0820108201
+YELLOW ROSE CT                                              0820008200
+ZINFANDELL LN                                               0820008200

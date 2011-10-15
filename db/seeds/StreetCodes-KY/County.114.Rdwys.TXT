@@ -1,0 +1,2621 @@
+13TH ST                                                     1140111401
+14TH AVE                                                    1140111401
+16TH AVE                                                    1140111401
+1801APARTMENTS                                              1140111401
+1ST AVE                                                     1140111401
+1ST ST                                                      1140311403
+1ST ST E                                                    1140311403
+2ND AVE                                                     1140111401
+2ND ST E                                                    1140311403
+2ND ST W                                                    1140311403
+3RD AVE                                                     1140111401
+3RD ST                                                      1140311403
+4TH AVE                                                     1140111401
+4TH ST E                                                    1140311403
+4TH ST W                                                    1140311403
+5TH AVE                                                     1140111401
+5TH ST                                                      1140311403
+5TH ST E                                                    1140311403
+7TH AVE                                                     1140111401
+8TH AVE                                                     1140111401
+A CT                                                        1140111401
+AARON RD                                                    1140011400
+ABBYWOOD CT                                                 1140011400
+ABERDEENE AVE                                               1140111401
+ABERDEENE CT                                                1140111401
+ACCESS RD                                                   1140111401
+ACCESS RD E                                                 1140111401
+ADA WAY                                                     1140111401
+ADAMS ST                                                    1140111401
+ADAMSON DR                                                  1140111401
+AFFIRMED CIR                                                1140011400
+AFFIRMED CIRCLE OTHER                                       1140011400
+AIRES CT                                                    1140111401
+AIRES ST                                                    1140111401
+AIRPORT RD                                                  1140111401
+AIRWAY CT                                                   1140111401
+AIRWAY DR                                                   1140111401
+ALBEMARLE ST                                                1140011400
+ALDEN ST                                                    1140011400
+ALEXANDER RD                                                1140011400
+ALICE CT                                                    1140011400
+ALLEN SPGS RD                                               1140011400
+ALLENS WAY                                                  1140111401
+ALLEY                                                       1140111401
+ALPINE CT                                                   1140111401
+ALTA VISTA WAY                                              1140011400
+ALUMNI DR                                                   1140111401
+ALVATON GREENHILL RD                                        1140011400
+ALVATON RD                                                  1140011400
+ALVATON SCOTTSVILLE RD                                      1140011400
+ALYDAR DR                                                   1140011400
+AMBASSADOR DR                                               1140111401
+AMBER CT                                                    1140111401
+AMBER WHITE RD                                              1140011400
+AMBERFIELD CT                                               1140011400
+AMERICAN AVE                                                1140111401
+AMHERST DR                                                  1140011400
+AMY AVE                                                     1140111401
+AMY CT                                                      1140111401
+ANDERS DR                                                   1140111401
+ANDERSON RD                                                 1140011400
+ANDOVER CT                                                  1140111401
+ANDOVER ST                                                  1140111401
+ANDREA ST                                                   1140111401
+ANDREW WAY                                                  1140111401
+ANGELICA CT                                                 1140011400
+ANGELICA ST                                                 1140011400
+ANGORA CT                                                   1140111401
+ANNA SANDHILL RD                                            1140011400
+ANNMARIE CT                                                 1140011400
+ANNMARIE ST                                                 1140011400
+ANTIOCH CHURCH RD                                           1140011400
+ANTIOCH GREENBRIAR RD                                       1140011400
+APACHE DR                                                   1140111401
+APOLLO CT                                                   1140011400
+APPAMATTOX DR                                               1140011400
+APPLE VALLEY RD                                             1140011400
+APPLEGATE CT                                                1140011400
+APPOMATTOX DR                                               1140011400
+APRIL WAY                                                   1140011400
+AQUARIUS WAY                                                1140011400
+ARISTIDES DR                                                1140011400
+ARISTIDES DRIVE OTHER                                       1140011400
+ARNOLD PALMER WAY                                           1140111401
+ARNOLD ST                                                   1140111401
+ARROW CT                                                    1140111401
+ARROWHEAD DR                                                1140111401
+ASHGATE DR                                                  1140011400
+ASHLEY CIR                                                  1140111401
+ASHLEY ST                                                   1140111401
+ASHMOOR AVE                                                 1140111401
+ASHTON CT                                                   1140011400
+ASHWOOD CT                                                  1140011400
+ASPEN CT                                                    1140111401
+ATLANTA WAY                                                 1140111401
+ATLANTIS WAY                                                1140011400
+AUBREY MILLS RD                                             1140011400
+AUBURN WAY                                                  1140111401
+AUDLEY AVE                                                  1140111401
+AUDUBON DR                                                  1140111401
+AUGUSTA AVE                                                 1140111401
+AUSTIN CT                                                   1140011400
+AUSTIN RAYMER RD                                            1140011400
+AUTUMN WAY                                                  1140011400
+AUTUMNSTONE CT                                              1140011400
+AUTUMNSTONE LN                                              1140011400
+AVALON CT                                                   1140111401
+AVENUE OF CHAMPIONS                                         1140111401
+AVERY CT                                                    1140111401
+AVERY LN                                                    1140111401
+AVON AVE                                                    1140111401
+AVONDALE DR                                                 1140011400
+AYERS RD                                                    1140011400
+AZALEA CT                                                   1140111401
+B CT                                                        1140111401
+BADEN LN                                                    1140011400
+BAILEYS FARM DR                                             1140011400
+BAILY CT                                                    1140111401
+BAKER PL                                                    1140011400
+BAKER RD                                                    1140011400
+BAKERFIELDS WAY                                             1140111401
+BALDOCK RD                                                  1140011400
+BALDWIN DR                                                  1140111401
+BANYAN CT                                                   1140111401
+BANYAN DR                                                   1140111401
+BARBER WAY                                                  1140111401
+BARBERRY CT                                                 1140111401
+BARCLAY CT                                                  1140111401
+BARLEY WAY                                                  1140011400
+BARLEY WAY                                                  1140111401
+BARNARD WAY                                                 1140111401
+BARNWOOD AVE                                                1140111401
+BARNWOOD CT                                                 1140111401
+BARR PL                                                     1140011400
+BARREN RIVER BOAT DOCK RD                                   1140011400
+BARREN RIVER RD                                             1140011400
+BARRINGTON DR                                               1140011400
+BARRY ST                                                    1140111401
+BASHAM RD                                                   1140011400
+BASINWOOD CT                                                1140111401
+BASKERVILLE RD                                              1140011400
+BATSEL AVE                                                  1140111401
+BATTLEWOOD CT                                               1140011400
+BAYS FORK RD                                                1140011400
+BEAR WAY                                                    1140111401
+BEAUTY AVE                                                  1140111401
+BEAUTY CT                                                   1140111401
+BECKHAM RD                                                  1140011400
+BECKNER WAY                                                 1140011400
+BEDDINGTON WAY                                              1140111401
+BEDFORD CT                                                  1140011400
+BEECH BEND PARK RD                                          1140011400
+BEECH BEND RD                                               1140011400
+BEECH BEND RD                                               1140111401
+BEECH ST                                                    1140111401
+BEELER AVE                                                  1140311403
+BELGIUM CT                                                  1140011400
+BELK DR                                                     1140011400
+BELLE HAVEN BLVD                                            1140011400
+BELLE RIVE CIR                                              1140011400
+BELLE RIVE CIRCLE CONNECTOR                                 1140011400
+BELLEVUE AVE                                                1140111401
+BELLEVUE CT                                                 1140111401
+BELLSHIRE WAY                                               1140011400
+BELMONT AVE                                                 1140111401
+BEN HOGAN DR                                                1140111401
+BEN T JOHNS RD                                              1140011400
+BEN THOMAS RD                                               1140011400
+BEN THOMAS SOUTH RD                                         1140011400
+BENLEO RD                                                   1140011400
+BENNETT CLARK RD                                            1140011400
+BENNETT LN                                                  1140111401
+BENNINGTON PARK DR                                          1140111401
+BENSON AVE                                                  1140111401
+BENT CREEK CT                                               1140011400
+BENT CREEK DR                                               1140011400
+BENT TREE AVE                                               1140011400
+BENT TREE CT                                                1140011400
+BENTON ST                                                   1140011400
+BENTWURTH DR                                                1140011400
+BERMUDA CT                                                  1140111401
+BETHEL LN                                                   1140011400
+BETSY ANNE CT                                               1140111401
+BETTERSWORTH RD                                             1140011400
+BEVERLY CT                                                  1140111401
+BEVERLY DR                                                  1140111401
+BEYOND WAY                                                  1140011400
+BIG BARREN TRL                                              1140011400
+BIGGERSTAFF RD                                              1140011400
+BILL DEDMON RD                                              1140011400
+BILL FERGUSON RD                                            1140011400
+BILL LINDSEY RD                                             1140011400
+BILL SEARS RD                                               1140011400
+BIRCH CT                                                    1140011400
+BIRCHWOOD DR                                                1140011400
+BIRDIE AVE                                                  1140011400
+BIRDLAND DR                                                 1140011400
+BISCAYNNE CT                                                1140111401
+BLACKSTONE CT                                               1140011400
+BLAKE WAY                                                   1140111401
+BLAKEY AVE                                                  1140011400
+BLUE BIRD ST                                                1140011400
+BLUE HERON CT                                               1140011400
+BLUE LAKE WAY                                               1140111401
+BLUE LEVEL PROVIDENCE RD                                    1140011400
+BLUE LEVEL RD                                               1140011400
+BLUE LEVEL RD                                               1140111401
+BLUE SPRINGS DR                                             1140011400
+BLUEBELL CT                                                 1140011400
+BLUEBERRY WAY                                               1140011400
+BLUEGRASS DR                                                1140011400
+BOARDWALK WAY                                               1140011400
+BOATLANDING RD                                              1140111401
+BOB O LINK RD                                               1140011400
+BOB O LINK TRL                                              1140011400
+BOBBI CT                                                    1140111401
+BOBBY DAVENPORT RD                                          1140011400
+BODDEKER WAY                                                1140011400
+BOGEY WAY                                                   1140011400
+BOGLE LN                                                    1140111401
+BOILING SPRINGS RD                                          1140011400
+BON AIRE AVE                                                1140011400
+BONAIRE AVE                                                 1140011400
+BOONE CT                                                    1140111401
+BOOTH DR                                                    1140011400
+BOSTON PARK DR                                              1140111401
+BOW DR                                                      1140111401
+BOWIE AVE                                                   1140011400
+BOXWOOD DR                                                  1140011400
+BOYCE FAIRVIEW RD                                           1140011400
+BRAD AVE                                                    1140011400
+BRAMBLEBUSH DR                                              1140111401
+BRAND RD                                                    1140011400
+BRANDY CIR                                                  1140111401
+BRANDYWOOD CT                                               1140111401
+BRATCHER RD                                                 1140011400
+BRAWNER RD                                                  1140011400
+BRENNER ST                                                  1140111401
+BRENTMOOR AVE                                               1140111401
+BREWSTER LN                                                 1140011400
+BRIAR CIR                                                   1140011400
+BRIAR CREEK DR                                              1140011400
+BRIARWOOD CT                                                1140111401
+BRIDLEWOOD CT                                               1140011400
+BRIGGS AVE                                                  1140111401
+BRIGGS HILL RD                                              1140011400
+BRIGHT ST                                                   1140111401
+BRIGHTON AVE                                                1140111401
+BRISTOW RD                                                  1140011400
+BRISTOW RD                                                  1140111401
+BRITEWAY CT                                                 1140111401
+BRITEWAY DR                                                 1140111401
+BRITON DR                                                   1140011400
+BROADVIEW WAY                                               1140111401
+BROADWAY AVE                                                1140111401
+BROADWAY ST                                                 1140311403
+BROCKLEY WAY                                                1140111401
+BROOK WAY                                                   1140111401
+BROOKSHORE AVE                                              1140111401
+BROOKWOOD DR                                                1140011400
+BROOKWOOD PARK MHP ACCESS                                   1140011400
+BROOKWOOD PARK MHP ACCESS                                   1140111401
+BROOKWOOD PARK RD                                           1140011400
+BROOKWOOD PARK RD                                           1140111401
+BROWN ST                                                    1140311403
+BROWNING RD                                                 1140011400
+BROWNSLOCK RD                                               1140111401
+BROWNSLOCKE RD                                              1140111401
+BROWNSTONE WAY                                              1140111401
+BRYANT WAY                                                  1140111401
+BRYANT WAY APARTMENTS                                       1140111401
+BRYANT WAY APARTMENTS NO1                                   1140111401
+BRYANT WAY APARTMENTS NO2                                   1140111401
+BRYANT WAY APARTMENTS NO3                                   1140111401
+BUCKBOARD CT                                                1140011400
+BUCKEYE CT                                                  1140011400
+BUDDY MILLER DR                                             1140011400
+BUNKER DR                                                   1140011400
+BURNETT ST                                                  1141011410
+BUSH CT                                                     1140011400
+BUTLER WAY                                                  1140111401
+BUTTERWOOD WAY                                              1140111401
+BYBEE AVE                                                   1140111401
+C B HUFF RD                                                 1140011400
+C CT                                                        1140111401
+C W MOORE RD                                                1140011400
+CABELL DR                                                   1140111401
+CAESAR RIDGE DR                                             1140011400
+CAL AVE                                                     1140011400
+CAL BATSEL RD                                               1140111401
+CALE DR                                                     1140011400
+CALGARY WAY                                                 1140011400
+CALICO CT                                                   1140111401
+CALLAWAY CT                                                 1140111401
+CALUMET CT                                                  1140011400
+CALUMET WAY                                                 1140011400
+CALVIN CT                                                   1140011400
+CAMBRIDGE CIR                                               1140011400
+CAMBRIDGE GROVE CIR                                         1140011400
+CAMBRIDGE WAY                                               1140111401
+CAMDEN CT                                                   1140111401
+CAMERON WAY                                                 1140111401
+CAMPBELL LN                                                 1140111401
+CAMPING WORLD CT                                            1140011400
+CAMPUS PLAZA CT                                             1140111401
+CANDLE CT                                                   1140111401
+CANTERBURY WAY                                              1140111401
+CANTON AVE                                                  1140111401
+CAPTAINS CT                                                 1140111401
+CARDINAL TRL                                                1140011400
+CARDINAL WAY                                                1140111401
+CARL JORDAN RD                                              1140011400
+CARLA DR                                                    1140111401
+CARMICHAEL CT                                               1140111401
+CAROL WAY                                                   1140111401
+CARPENTER CT                                                1140111401
+CARPENTER LN                                                1140011400
+CARRIAGE CT                                                 1140111401
+CARRIAGE HILL DR                                            1140011400
+CARTER RD                                                   1140011400
+CARTER SIMS RD                                              1140011400
+CARVER LN                                                   1140011400
+CASSIE WAY                                                  1140011400
+CASTLE HEIGHTS RD                                           1140011400
+CATALINA DR                                                 1140111401
+CATALPA CIR                                                 1140111401
+CATE LN                                                     1140011400
+CATHERINE DR                                                1140111401
+CATHY ST                                                    1140011400
+CATHY WAY CT                                                1140011400
+CAUSEY WAY                                                  1140111401
+CAVE MILL RD                                                1140011400
+CAVE MILL RD                                                1140111401
+CAVE SPRINGS AVE                                            1140011400
+CAVE SPRINGS AVE                                            1140111401
+CAVE SPRINGS CT                                             1140011400
+CAVE ST                                                     1140311403
+CEDAR GROVE ST                                              1140011400
+CEDAR HILL RD                                               1140011400
+CEDAR HOLLOW DR                                             1140111401
+CEDAR RIDGE RD                                              1140111401
+CEDAR RUN ST                                                1140111401
+CEDAR SPRINGS DR                                            1140011400
+CEDAR TRAIL AVE                                             1140111401
+CEDAR WAY                                                   1140111401
+CEDARBERRY DR                                               1140011400
+CEDARWOOD WAY                                               1140011400
+CEDARWOOD WAY                                               1140111401
+CELESTIAL CT                                                1140111401
+CEMETERY LN                                                 1140111401
+CEMETERY RD                                                 1140011400
+CEMETERY RD                                                 1140411404
+CENTER ST                                                   1140111401
+CENTRAL AVE                                                 1140111401
+CENTRAL CT                                                  1140111401
+CENTURY ST                                                  1140111401
+CHALYBEATE RD S                                             1140011400
+CHAMBERLAIN WAY                                             1140011400
+CHAMBERS DR                                                 1140111401
+CHAMPIONS BLVD                                              1140011400
+CHANDLER DR                                                 1140111401
+CHANDLER PARK APARTMENTS NO1                                1140111401
+CHANDLER PARK APARTMENTS NO2                                1140111401
+CHANEY WAY                                                  1140011400
+CHAPEL HILL CEMETERY                                        1140111401
+CHARLESTON CT                                               1140111401
+CHARLIE WAY                                                 1140011400
+CHASEFIELD AVE                                              1140111401
+CHENOWETH CIR                                               1140111401
+CHEROKEE DR                                                 1140111401
+CHERRY ALY                                                  1140111401
+CHERRY DR                                                   1140111401
+CHERRY FARM LN                                              1140111401
+CHERRY WAY                                                  1140111401
+CHERRYWOOD CT                                               1140011400
+CHERRYWOOD DR                                               1140011400
+CHESAPEAKE DR                                               1140111401
+CHESTER CT                                                  1140111401
+CHESTNUT GROVE ST                                           1140011400
+CHESTNUT HILL CT                                            1140011400
+CHESTNUT ST                                                 1140111401
+CHEYENNE CT                                                 1140011400
+CHEYENNE DR                                                 1140011400
+CHEYENNE DR                                                 1140111401
+CHICORY WAY                                                 1140011400
+CHIPLEY CT                                                  1140111401
+CHIPPENDALE CT                                              1140011400
+CHIPPENDALE DR                                              1140011400
+CHIPPEWA DR                                                 1140111401
+CHOCTAW WAY                                                 1140111401
+CHRISTIAN CARE WAY                                          1140111401
+CHURCH ALY                                                  1140311403
+CHURCH AVE                                                  1140111401
+CHURCH ST                                                   1141011410
+CHURCHILL CT                                                1140111401
+CIRCLE AVE                                                  1140111401
+CLAGETT AVE                                                 1140111401
+CLAIBORNE CT                                                1140011400
+CLAREMOOR AVE                                               1140111401
+CLARENCE ODELL RD                                           1140011400
+CLARK CIR                                                   1140011400
+CLARK ST                                                    1140411404
+CLAY ST                                                     1140111401
+CLAY ST                                                     1141011410
+CLAY STARKS RD                                              1140011400
+CLAYPOOL ALVATON RD                                         1140011400
+CLAYPOOL BOYCE RD                                           1140011400
+CLAYRIDGE CT                                                1140011400
+CLAYTON CT                                                  1140111401
+CLEAR SPRINGS ST                                            1140011400
+CLEARFORK CHURCH RD                                         1140011400
+CLEARFORK CHURCH SPUR RD                                    1140011400
+CLEARVIEW AVE                                               1140111401
+CLEARWATER CT                                               1140111401
+CLEVELAND DR                                                1140011400
+CLIFFORD WAY                                                1140111401
+CLIFTY HOLLOW RD                                            1140011400
+CLINE RD                                                    1140011400
+CLOVER CT                                                   1140111401
+CLOVERDALE ST                                               1140011400
+CLUB COURT CONNECTOR                                        1140111401
+CLUB COURT OTHER                                            1140111401
+CLUB CT                                                     1140111401
+CLYDE HARROD RD                                             1140011400
+COACHMAN CT                                                 1140111401
+COACHMAN LN                                                 1140011400
+COASTAL AVE                                                 1140111401
+COBBLESTONE CT                                              1140011400
+CODY CT                                                     1140011400
+COLE CT                                                     1140111401
+COLEMAN LN                                                  1140011400
+COLIN POWELL CT                                             1140011400
+COLLEGE HEIGHTS BLVD                                        1140111401
+COLLEGE ST                                                  1140111401
+COLLEGE ST                                                  1140311403
+COLLEGEVIEW DR                                              1140111401
+COLLETT AVE                                                 1140111401
+COLLETT BRIDGE RD                                           1140011400
+COLLETT LN                                                  1140111401
+COLLETT RD                                                  1140011400
+COLLETT VIEW DR                                             1140011400
+COLONIAL CT                                                 1140111401
+COLONY APARTMENTS NO1                                       1140111401
+COLONY APARTMENTS NO2                                       1140111401
+COLONY APARTMENTS NO3                                       1140111401
+COLONY APARTMENTS NO4                                       1140111401
+COLONY APARTMENTS NO5                                       1140111401
+COLONY APARTMENTS NO6                                       1140111401
+COLUMBIA WAY                                                1140111401
+COMMERCE ST                                                 1140111401
+COMMONS LN                                                  1140111401
+COMMONWEALTH BLVD                                           1140111401
+CONCORD DR                                                  1140111401
+CONESTOGA DR                                                1140111401
+CONRAD CT                                                   1140111401
+CONSTELLATION DR                                            1140111401
+CONSTITUTION DR                                             1140111401
+COOKE CT                                                    1140011400
+COOKE RD                                                    1140011400
+COOKE ST                                                    1141011410
+COOL SPRINGS CT                                             1140011400
+COOL WATER CT                                               1140011400
+COOMBS AVE                                                  1140111401
+COOMBS DR                                                   1140111401
+COONHUNTERS RD                                              1140011400
+COOPER CT                                                   1140111401
+COOPER DEARING RD                                           1140011400
+COPPER RUN CT                                               1140111401
+COPPER RUN WAY                                              1140011400
+COPPER RUN WAY                                              1140111401
+COPPERFIELD CT                                              1140011400
+COPPERFIELD DR                                              1140011400
+CORAL CT                                                    1140011400
+CORPORATE CT                                                1140111401
+CORTA WAY                                                   1140011400
+CORVETTE DR                                                 1140111401
+CORYDALIS CT                                                1140011400
+COSBY RD                                                    1140011400
+COSMA DR                                                    1140111401
+COTTAGE STONE BLVD                                          1140011400
+COTTONTAIL CIR                                              1140011400
+COTTONWOOD DR                                               1140111401
+COUNTRY LIVING EST                                          1140011400
+COUNTRY LIVING ESTATE NO1                                   1140011400
+COUNTRY LIVING ESTATE NO2                                   1140011400
+COUNTRY LIVING ESTATE NO3                                   1140011400
+COUNTRY LIVING ESTATE NO4                                   1140011400
+COUNTRYSIDE DR                                              1140011400
+COUNTRYWOOD PL                                              1140011400
+COVE DR                                                     1140111401
+COVENTRY CT                                                 1140111401
+COVINGTON GROVE BLVD                                        1140111401
+COVINGTON GROVE CT                                          1140111401
+COVINGTON ST                                                1140111401
+COX RD                                                      1140011400
+COX THOMAS RD                                               1140011400
+CRABTREE LN                                                 1140011400
+CRAIG ST                                                    1140111401
+CRAIGHEAD LN                                                1140011400
+CRAIGHEAD LN                                                1140111401
+CRANDELL CT                                                 1140011400
+CRAWLEY ST                                                  1140011400
+CREASON ST                                                  1140111401
+CREASON TOWNHOUSES                                          1140111401
+CREEK WATER ST                                              1140011400
+CREEKSIDE LN                                                1140111401
+CREEKWOOD APARTMENTS NO1                                    1140111401
+CREEKWOOD APARTMENTS NO2                                    1140111401
+CREEKWOOD APARTMENTS NO3                                    1140111401
+CREEKWOOD AVE                                               1140111401
+CREEKWOOD CT                                                1140111401
+CREPE MYRTLE WAY                                            1140011400
+CRESTLAKE WAY                                               1140011400
+CRESTWOOD DR                                                1140011400
+CREWDSON DR                                                 1140111401
+CRIMSON LN                                                  1140011400
+CROCKETT ST                                                 1140011400
+CROSLIN DR                                                  1140011400
+CROSS CREEK CT                                              1140011400
+CROSS CREEK WAY                                             1140011400
+CROSS HALL LOOP                                             1140011400
+CROSS WILLOWS CT                                            1140111401
+CROSS WINDS AVE                                             1140111401
+CROSSBREEZE CT                                              1140111401
+CROSSFIELD WAY                                              1140011400
+CROSSING BLVD                                               1140111401
+CROSSINGS BLVD                                              1140111401
+CROSSPEAKE WAY                                              1140111401
+CROSSPLAIN WAY                                              1140011400
+CROSSRIDGE BLVD                                             1140111401
+CROSSRIDGE CT                                               1140111401
+CROSSRIDGE ST                                               1140111401
+CROWE LN                                                    1140011400
+CROWNRIDGE CT                                               1140111401
+CRYSTAL CT                                                  1140011400
+CULPEPER ST                                                 1140011400
+CUMBERLAND CIR                                              1140011400
+CUMBERLAND RIDGE WAY                                        1140111401
+CUMBERLAND TRACE RD                                         1140011400
+CUMBERLAND TRACE RD                                         1140111401
+CURD DR                                                     1140111401
+CURLING CT                                                  1140111401
+CURLING DR                                                  1140111401
+CURLING WAY                                                 1140011400
+CURTIS HENDRICKS RD                                         1140011400
+CURTIS WAY                                                  1140011400
+CURTIS WAY                                                  1140111401
+CYNTHIA LYNN DR                                             1140111401
+CYPRESS WOOD LN                                             1140111401
+D CT                                                        1140111401
+D F PETTY RD                                                1140011400
+D PRICE RD                                                  1140011400
+DAHLIA CT                                                   1140111401
+DAHLIA WAY                                                  1140111401
+DAISY DR                                                    1140011400
+DAISY FIELD CT                                              1140011400
+DAN HAVEN DR                                                1140011400
+DAPHNE CT                                                   1140111401
+DARREL LINDSEY A RD                                         1140011400
+DARREL LINDSEY B RD                                         1140011400
+DAVENPORT RD                                                1140011400
+DAVID WATKINS RD                                            1140011400
+DAVID WATKINS RD                                            1140311403
+DAY RD                                                      1140011400
+DAY STAR CIR                                                1140011400
+DEAN DR                                                     1140111401
+DEATON RD                                                   1140011400
+DEBBIE DR                                                   1140111401
+DEER MEADOW AVE                                             1140011400
+DEER MEADOW AVE                                             1140111401
+DEER VALLEY AVE                                             1140011400
+DEER VALLEY CT                                              1140011400
+DEERWOOD TRAIL AVE                                          1140011400
+DEL MAR CT                                                  1140111401
+DELAFIELD AVE                                               1140111401
+DELANE FLORA RD                                             1140011400
+DELANE FLORA ROAD CONNECTOR                                 1140011400
+DELIVERANCE DR                                              1140011400
+DELL RIO DR                                                 1140011400
+DELL WAY                                                    1140011400
+DELMAR CT                                                   1140111401
+DELUTH DR                                                   1140011400
+DENALI ST                                                   1140011400
+DENALI ST                                                   1140111401
+DENNIS WAY                                                  1140111401
+DENTON RD                                                   1140011400
+DENZIL AVE                                                  1140111401
+DERBY DR                                                    1140111401
+DESTINY LN                                                  1140111401
+DETOUR RD                                                   1140011400
+DEVIN CLOSE CT                                              1140111401
+DEVONSHIRE PL                                               1140011400
+DEWEY LAKE RD                                               1140011400
+DIAMOND LN                                                  1140011400
+DICKENS ST                                                  1140011400
+DIDDLE DR                                                   1140011400
+DILLARD RD                                                  1140011400
+DISHMAN LN                                                  1140111401
+DISMON STONE RD                                             1140011400
+DIVOT CIR                                                   1140011400
+DIXIE TRACE                                                 1141011410
+DOCKSIDE CT                                                 1140111401
+DODD LN                                                     1140011400
+DODSON RD                                                   1140011400
+DOLLY DR                                                    1140011400
+DONALD DR                                                   1140111401
+DORCHESTER DR                                               1140111401
+DOUBLE SPRINGS RD                                           1140111401
+DOUGLAS LN                                                  1140011400
+DOVE TRL                                                    1140011400
+DOWNING AVE                                                 1140011400
+DRAGON ST                                                   1140111401
+DRAKES CREEK ST                                             1140011400
+DRAKES RIDGE ALY                                            1140111401
+DRAKES RIDGE LANE OTHER                                     1140111401
+DRAKES RIDGE LN                                             1140111401
+DRAKES RIDGE LOOP                                           1140111401
+DRAKESBOROUGH DR                                            1140011400
+DUBLIN ST                                                   1140111401
+DUBREE RD                                                   1140011400
+DUDE HOWARD RD                                              1140011400
+DUKE ST                                                     1140011400
+DUNBARTON AVE                                               1140011400
+DUNCAN RD                                                   1140011400
+DUNLANEY DR                                                 1140111401
+DUNLANEY WAY                                                1140111401
+DUNN MOON RD                                                1140011400
+DUNTOV WAY                                                  1140111401
+DURBIN DR                                                   1140111401
+DURBIN GARMON RD                                            1140011400
+DURBIN LN                                                   1140111401
+DURRENBERGER LN                                             1140111401
+DUTCHESS DR                                                 1140111401
+DYE FORD RD                                                 1140011400
+E 10TH AVE                                                  1140111401
+E 11TH AVE                                                  1140111401
+E 12TH AVE                                                  1140111401
+E 13TH AVE                                                  1140111401
+E 14TH AVE                                                  1140111401
+E 15TH AVE                                                  1140111401
+E 2ND AVE                                                   1140111401
+E 3RD AVE                                                   1140111401
+E 6TH AVE                                                   1140111401
+E 6TH ST                                                    1140311403
+E 8TH AVE                                                   1140111401
+E C COLE RD                                                 1140011400
+E CT                                                        1140111401
+E H HALL RD                                                 1140011400
+E HEIGHTS AVE                                               1140011400
+E HENRY GOAD RD                                             1140011400
+E M HEARD RD                                                1140011400
+E MAIN AVE                                                  1140111401
+E PROFESSIONAL PARK CT                                      1140111401
+E VINCENT RD                                                1140011400
+E WESTBROOK RD                                              1140011400
+EADENS RD                                                   1140011400
+EAGLE CT                                                    1140111401
+EAGLESTONE WAY                                              1140111401
+EARL GRAHAM LN                                              1140011400
+EARLSTON ST                                                 1140011400
+EAST CT                                                     1140111401
+EAST HEIGHTS AVE                                            1140011400
+EAST PROMENADE                                              1140111401
+EAST WIND PL                                                1140111401
+EASTLAND ST                                                 1140111401
+EASTON CIR                                                  1140011400
+EASTSIDE DR                                                 1140311403
+EASTWOOD ST                                                 1140111401
+ED HUDSON RD                                                1140011400
+EDEN RD                                                     1140011400
+EDGAR WHITE RD                                              1140011400
+EDGEFIELD WAY                                               1140111401
+EDGEHILL PL                                                 1140111401
+EDGEWATER LN                                                1140011400
+EDGEWOOD AVE                                                1140111401
+EDGEWOOD ST                                                 1140111401
+EDWARD DR                                                   1140111401
+ELAINE WAY                                                  1140011400
+ELIJAH CT                                                   1140111401
+ELIZABETH ST                                                1140111401
+ELKS SPRINGS RD                                             1140011400
+ELLA WAY                                                    1140011400
+ELLIS PL                                                    1140011400
+ELM CT                                                      1140011400
+ELM ST                                                      1140111401
+ELMHURST WAY                                                1140011400
+ELMHURST WAY                                                1140111401
+ELMWOOD CT                                                  1140111401
+ELROD RD                                                    1140011400
+ELROD RD                                                    1140111401
+ELSTON RECTOR RD                                            1140011400
+ELYS FRANKLIN RD N                                          1140011400
+ELYS FRANKLIN RD S                                          1140011400
+EMBERTON RD                                                 1140011400
+EMERALD CT                                                  1140011400
+EMERALD WAY                                                 1140011400
+EMILY CT                                                    1140011400
+EMMERICH RD                                                 1140011400
+EMMETT AVE                                                  1140111401
+ENGLISH RD                                                  1140011400
+ERIC AVE                                                    1140111401
+ERIN WAY                                                    1140011400
+ETHAN CT                                                    1140011400
+EUCLID AVE                                                  1140011400
+EUCLID AVE                                                  1140111401
+EUREKA WAY                                                  1140011400
+EVERGREEN CT                                                1140011400
+EVERSOLE DR                                                 1140011400
+EVON WAY                                                    1140011400
+EWING BEND DR                                               1140011400
+EWING FORD RD                                               1140011400
+EWING FORD RD                                               1140111401
+EWING WAY                                                   1140011400
+EZRA WHALEN RD                                              1140011400
+F H ROUNDTREE RD                                            1140011400
+F R MASSEY RD                                               1140011400
+FACULTY AVE                                                 1140011400
+FACULTY CT                                                  1140011400
+FACULTY HOUSE DR                                            1140111401
+FAIR OAKS AVE                                               1140011400
+FAIR OAKS CIR                                               1140011400
+FAIR ST                                                     1140111401
+FAIRDALE AVE                                                1140111401
+FAIRMONT AVE                                                1140111401
+FAIRVIEW AVE                                                1140111401
+FAIRVIEW BOILING SPRINGS RD                                 1140011400
+FAIRVIEW CT                                                 1140111401
+FAIRWAY ST                                                  1140111401
+FARLEY LN                                                   1140011400
+FARMER LN                                                   1140011400
+FAY ST                                                      1140111401
+FENELON DR                                                  1140011400
+FERN HILL CT                                                1140011400
+FERN HILL ST                                                1140011400
+FERN HILL ST                                                1140111401
+FERNWOOD WAY                                                1140011400
+FERRY RD                                                    1140011400
+FESTIVAL DR                                                 1140111401
+FIELDCREST DR                                               1140011400
+FIELDRIDGE ST                                               1140011400
+FIELDS DR                                                   1140111401
+FIELDSTONE BLVD                                             1140011400
+FINNEY RD                                                   1140011400
+FISHER LN                                                   1140011400
+FITZGERALD INDUSTRIAL DR                                    1140111401
+FLAMINGO AVE                                                1140011400
+FLANIGAN CT                                                 1140111401
+FLAT STONE CT                                               1140011400
+FLEENOR WAY                                                 1140011400
+FLETCHER ST                                                 1140411404
+FLEX PARK DR                                                1140111401
+FLINTSTONE CT                                               1140011400
+FLINTSTONE ST                                               1140011400
+FLORA RD                                                    1140011400
+FLORAL AVE                                                  1140311403
+FONSO CIR                                                   1140011400
+FORD AVE                                                    1140111401
+FORDES CROSSING DR                                          1140011400
+FOREST COVE CT                                              1140011400
+FORREST DR                                                  1140111401
+FORT WEBB DR                                                1140011400
+FOUNTAIN CT                                                 1140011400
+FOUNTAIN TRACE DR                                           1140011400
+FOUNTAIN TRACE ST                                           1140011400
+FOX HOLLOW CT                                               1140111401
+FOX RUN CIR                                                 1140011400
+FOX RUN WAY                                                 1140011400
+FOXGLOVE ST                                                 1140011400
+FOXMOOR DR                                                  1140011400
+FOXMOOR DR                                                  1140111401
+FRANKLIN ST                                                 1140011400
+FRED LIVELY RD                                              1140011400
+FRED MADISON RD                                             1140011400
+FREEPORT RD                                                 1140011400
+FREEPORT RD                                                 1141011410
+FREESTONE CT                                                1140011400
+FRIENDSHIP CHURCH RD                                        1140011400
+FRIENDSHIP RD                                               1140011400
+FRONTAGE RD                                                 1140011400
+FRONTAGE ROAD NO1                                           1140011400
+FRONTAGE ROAD NO2                                           1140011400
+FRONTAGE ROAD NO3                                           1140011400
+FRONTAGE ROAD NO4                                           1140011400
+FRONTIER AVE                                                1140111401
+FULLER DR                                                   1140011400
+FUQUA RD                                                    1140011400
+G M ACCESS RD                                               1140111401
+G N GLASSCOCK RD                                            1140011400
+GABLES APARTMENTS NO1                                       1140111401
+GABLES APARTMENTS NO2                                       1140111401
+GAINES LN                                                   1141011410
+GALE STILES RD                                              1140011400
+GALLANT FOX ST                                              1140011400
+GALLOWAY MILL RD                                            1140011400
+GARDEN ST                                                   1140411404
+GARDENSIDE CT                                               1140011400
+GARDENSIDE WAY                                              1140011400
+GARFIELD ST                                                 1140111401
+GARRETT DR                                                  1140011400
+GARRETT HOLLOW RD                                           1140011400
+GARVIN LN                                                   1140011400
+GARY AVE                                                    1140111401
+GARY FARM BLVD                                              1140111401
+GASPER RIVER CT                                             1140011400
+GASTON SIMPSON RD                                           1140011400
+GATEWAY DR                                                  1140011400
+GATEWOOD AVE                                                1140111401
+GATOR DR                                                    1140111401
+GAYLE WAY                                                   1140111401
+GEMENI ST                                                   1140011400
+GEMINI CT                                                   1140111401
+GEORGE DR                                                   1140111401
+GEORGETOWN CT                                               1140111401
+GEORGIA AVE                                                 1140111401
+GEORGIA CT                                                  1140111401
+GERARD DR                                                   1140011400
+GERONIMO WAY                                                1140111401
+GILBERT ST                                                  1140111401
+GILL AVE                                                    1140011400
+GILMORE CT                                                  1140011400
+GIRKIN BOILING SPRINGS RD                                   1140011400
+GIRKIN RD                                                   1140011400
+GIRKIN WOODS WAY                                            1140011400
+GIVENS LN                                                   1140111401
+GLASGOW RD                                                  1140011400
+GLASGOW RD                                                  1140111401
+GLASGOW RD                                                  1141011410
+GLEN ECHO CT                                                1140011400
+GLEN LILY RD                                                1140011400
+GLEN LILY RD                                                1140111401
+GLENDALE DR                                                 1140111401
+GLENMORE RD                                                 1140011400
+GLENN CT                                                    1140111401
+GLENVIEW WAY                                                1140111401
+GOBBLER CT                                                  1140111401
+GOLDENROD DR                                                1140011400
+GOLDRUSH CT                                                 1140011400
+GOLFVIEW WAY                                                1140011400
+GOODRUM RD                                                  1140011400
+GORDON AVE                                                  1140111401
+GORE CT                                                     1140011400
+GOSHEN RD                                                   1140011400
+GOSS PARISH RD                                              1140011400
+GOSS PARRISH LN                                             1140011400
+GOTTS HYDRO RD                                              1140011400
+GOUD LAKE RD                                                1140011400
+GRACIES RD                                                  1140011400
+GRAHAM AVE                                                  1140111401
+GRAHAM DR                                                   1140111401
+GRAND TETON WAY                                             1140011400
+GRANDVIEW CT                                                1140111401
+GRANDVIEW ST                                                1140111401
+GRANT WAY                                                   1140111401
+GRASSLAND CT                                                1140011400
+GRAY ST                                                     1140111401
+GREAT ESCAPE CT                                             1140111401
+GREATHOUSE RD                                               1140011400
+GREEN ACRES RD                                              1140011400
+GREEN AVE                                                   1140111401
+GREENBRIAR RD                                               1140011400
+GREENCASTLE RD                                              1140011400
+GREENHAVEN APTS ACCESS RD                                   1140111401
+GREENHILL BAYS FORK RD                                      1140011400
+GREENHILL RD                                                1140011400
+GREENHILL ST                                                1140111401
+GREENLAWN AVE                                               1140111401
+GREENLAWN MHP ACCESS RD                                     1140011400
+GREENMEADOW CT                                              1140111401
+GREENRIDGE DR                                               1140011400
+GREENVIEW LN                                                1140111401
+GREENVIEW WAY                                               1140011400
+GREENWOOD ALY                                               1140111401
+GREENWOOD DOWNS ACCESS RD                                   1140111401
+GREENWOOD ESTATE NO1                                        1140011400
+GREENWOOD ESTATE NO2                                        1140011400
+GREENWOOD ESTATE NO3                                        1140011400
+GREENWOOD LN                                                1140111401
+GREENWOOD MALL ACCESS                                       1140111401
+GREENWOOD VILLA APARTMENTS                                  1140111401
+GREENWOOD VILLA APARTMENTS NO2                              1140111401
+GREENWOOD VILLA APARTMENTS NO3                              1140111401
+GRETA DR                                                    1140011400
+GREYROCK DR                                                 1140111401
+GREYSTONE LN                                                1140011400
+GRIDER OAKS CT                                              1140011400
+GRIDER POND RD                                              1140011400
+GRIDER POND RD                                              1140111401
+GRIFFIN DR                                                  1140111401
+GRIMES LN                                                   1141011410
+GRIMES RD                                                   1140011400
+GRINSTEAD WAY                                               1140111401
+GRISSOM CT                                                  1140111401
+GROGAN ST                                                   1140011400
+GUINN CT                                                    1140011400
+GUNSMOKE TRAIL WAY                                          1140011400
+GUNSMOKE TRAIL WAY OTHER                                    1140011400
+GUY WHITE RD                                                1140011400
+H B GRAHAM RD                                               1140011400
+H BUNCH RD                                                  1140011400
+H E JOHNSON RD                                              1140011400
+H MURRAY RD                                                 1140011400
+H R WHITLOCK RD                                             1140011400
+H T DOWNING RD                                              1140011400
+HACENDA DR                                                  1140011400
+HACIENDA DR                                                 1140011400
+HADLEY COHRON RD                                            1140011400
+HADLEY LOOP RD                                              1140011400
+HADLEY SCHOOL RD                                            1140011400
+HADLEY SHARER RD                                            1140011400
+HALCOMB WAY                                                 1140011400
+HALCOMB WAY                                                 1140111401
+HALE BEND RD                                                1140011400
+HALIFAX GREENHILL RD                                        1140011400
+HALLMARK MANOR APARTMENTS                                   1140111401
+HALLS CHAPEL RD                                             1140011400
+HALLVIEW RD                                                 1140011400
+HALSELL ST                                                  1140011400
+HAMMETT HILL RD                                             1140011400
+HAMMOND CIR                                                 1140111401
+HAMP AVE                                                    1140011400
+HAMPSHIRE PL                                                1140011400
+HAMPTON CT                                                  1140111401
+HAMPTON DR                                                  1140111401
+HANOVER CT                                                  1140111401
+HANOVER ST                                                  1140111401
+HAPPY HOLLOW RD                                             1140011400
+HARD SCUFFLE CT                                             1140111401
+HARDWOOD DR                                                 1140011400
+HARDWOODS DR                                                1140011400
+HARLOW WAY                                                  1140111401
+HARMONY WAY                                                 1140111401
+HARRIS AVE                                                  1140311403
+HARRISON RD                                                 1140111401
+HARRY CHERRY RD                                             1140011400
+HARRY KEY RD                                                1140011400
+HARRY T HONAKER RD                                          1140011400
+HARTLAND CT                                                 1140111401
+HARVARD DR                                                  1140111401
+HARVEST LN                                                  1140011400
+HARVEY AVE                                                  1140111401
+HASKINS AVE                                                 1140011400
+HAWKS RD                                                    1140011400
+HAWTHORNE DR                                                1140111401
+HAYDEN HEADY CIR                                            1140011400
+HAYES CT                                                    1140111401
+HAYES LN                                                    1140111401
+HAYES RD                                                    1140011400
+HAYES SMITHS GROVE RD                                       1140011400
+HAYFORD PL                                                  1140011400
+HAYNER RD                                                   1140011400
+HAYS LODGE RD                                               1140011400
+HAYS PONDSVILLE RD                                          1140011400
+HAYS RD N                                                   1140011400
+HAYS SMITHS GROVE RD                                        1140011400
+HEARTHSTONE CIR                                             1140011400
+HEATHER DR                                                  1140011400
+HEDGE ST                                                    1140011400
+HELEN DR                                                    1140011400
+HENNESSY WAY                                                1140111401
+HENRY DR                                                    1140111401
+HERALD RD                                                   1140011400
+HERCHEL LUCAS RD                                            1140011400
+HERITAGE AVE                                                1140011400
+HERMAN AVE                                                  1140011400
+HERRINGTON ST                                               1140111401
+HICKORY HEIGHTS CT                                          1140011400
+HICKORY LN                                                  1140011400
+HICKORY ST                                                  1140111401
+HICKS LN                                                    1140011400
+HIDDEN CREEK ST                                             1140011400
+HIDDEN RIDGE CT                                             1140011400
+HIDDEN SPRINGS DR                                           1140011400
+HIGGINS ALY                                                 1140311403
+HIGH RAIL WAY                                               1140111401
+HIGH ST                                                     1140111401
+HIGH STREET CONNECTOR                                       1140111401
+HIGHLAND AVE                                                1140311403
+HIGHLAND CHURCH RD                                          1140011400
+HIGHLAND HEIGHTS MHP ACCESS                                 1140111401
+HIGHLAND MHP ACCESS RD                                      1140111401
+HIGHLAND MHP ACCESS ROAD NO2                                1140111401
+HIGHLAND WAY                                                1140111401
+HIGHTOWER CT                                                1140111401
+HILL RD                                                     1140011400
+HILLCREST DR                                                1140111401
+HILLCREST RD                                                1140011400
+HILLDALE AVE                                                1140011400
+HILLGREEN ST                                                1140011400
+HILLGREEN ST                                                1140111401
+HILLRIDGE CT                                                1140111401
+HILLSBOROUGH CT                                             1140011400
+HILLSIDE APTS ACCESS RD                                     1140111401
+HILLTOP DR                                                  1140111401
+HILLTOP RD                                                  1140011400
+HILLTOP TRL                                                 1140011400
+HILLTOPPER DR                                               1140011400
+HILLTOPPER DR                                               1140111401
+HILLVIEW MHP ACCESS                                         1140111401
+HILLVIEW MILLS BLVD                                         1140111401
+HILLWOOD DR                                                 1140011400
+HILTON CT                                                   1140011400
+HILTON WAY                                                  1140011400
+HINES CT                                                    1140111401
+HINES ST                                                    1140011400
+HINTON LN                                                   1140011400
+HOBSON GROVE RD                                             1140111401
+HOBSON GROVE SPUR RD                                        1140111401
+HOBSON LN                                                   1140111401
+HOGLE DR                                                    1140111401
+HOLLY DR                                                    1140111401
+HOLLY MHP ACCESS                                            1140111401
+HOLMES AVE                                                  1140111401
+HOMESTEAD CT                                                1140111401
+HONEYSUCKLE CT                                              1140111401
+HOPE ST                                                     1140111401
+HORACE JOHNSON RD                                           1140011400
+HORIZON CT                                                  1140011400
+HORIZON WAY                                                 1140011400
+HOSPITALITY CT                                              1140111401
+HOUNDS RUN DR                                               1140011400
+HOURIGAN CT                                                 1140011400
+HOURIGAN ST                                                 1140011400
+HOWELL RD                                                   1140011400
+HOWSER RD                                                   1140011400
+HUCKLEBERRY WAY                                             1140011400
+HUDSON DR                                                   1140011400
+HUGHES LASHLEE RD                                           1140011400
+HULLETT LN                                                  1140011400
+HUNT MASTER CT                                              1140111401
+HUNT MASTER DR                                              1140111401
+HUNTER WOOD WAY                                             1140011400
+HUNTERS CROSSING WAY                                        1140011400
+HUNTERS CT                                                  1140111401
+HUNTERS HILL CT                                             1140011400
+HUNTERS HILL LN                                             1140011400
+HUNTERS POINTE CT                                           1140011400
+HUNTERS POINTE LN                                           1140011400
+HUNTERS RUN AVE                                             1140011400
+HUNTING CREEK CT                                            1140111401
+HUNTING CREEK DR                                            1140111401
+HUNTINGTON ST                                               1140011400
+HUNTS BEND RD                                               1140011400
+HUNTS LN                                                    1140011400
+HUNTSMAN CIR                                                1140011400
+HURON WAY                                                   1140011400
+HURT RD                                                     1140011400
+HYDRO PONDSVILLE RD                                         1140011400
+I65 N                                                       1140011400
+I65 N                                                       1140111401
+I65 N                                                       1140311403
+I65 N EXIT20 OFF RAMP TO WN9007 W                           1140011400
+I65 N EXIT20 ON RAMP FROM WN9007 E                          1140011400
+I65 N EXIT22 OFF RAMP TO US231                              1140111401
+I65 N EXIT22 OFF RAMP TO US231 N                            1140111401
+I65 N EXIT22 ON RAMP FROM US231                             1140111401
+I65 N EXIT22 ON RAMP FROM US231 N                           1140111401
+I65 N EXIT22 ON RAMP FROM US231 S                           1140111401
+I65 N EXIT26 OFF RAMP TO KY234                              1140011400
+I65 N EXIT26 OFF RAMP TO KY234 E                            1140011400
+I65 N EXIT26 OFF RAMP TO KY234 W                            1140011400
+I65 N EXIT26 ON RAMP FROM KY234                             1140011400
+I65 N EXIT26 ON RAMP FROM KY234 E                           1140011400
+I65 N EXIT26 ON RAMP FROM KY234 W                           1140011400
+I65 N EXIT28 OFF RAMP TO KY446 W                            1140011400
+I65 N EXIT28 ON RAMP FROM KY446 E                           1140011400
+I65 N EXIT36 OFF RAMP TO US68                               1140011400
+I65 N EXIT38 OFF RAMP TO KY101                              1140011400
+I65 N EXIT38 ON RAMP FROM KY101                             1140011400
+I65 N EXIT38 ON RAMP FROM KY101                             1140311403
+I65 N REST AREA39 CAR LANE                                  1140011400
+I65 N REST AREA39 OFF RAMP                                  1140011400
+I65 N REST AREA39 ON RAMP                                   1140011400
+I65 N REST AREA39 TRUCK LANE                                1140011400
+I65 S                                                       1140011400
+I65 S                                                       1140111401
+I65 S EXIT20 OFF RAMP TO WN9007 W                           1140011400
+I65 S EXIT20 ON RAMP FROM WN9007 E                          1140011400
+I65 S EXIT22 CROSSOVER US231                                1140111401
+I65 S EXIT22 OFF RAMP TO US231                              1140111401
+I65 S EXIT22 OFF RAMP TO US231 N                            1140111401
+I65 S EXIT22 OFF RAMP TO US231 S                            1140111401
+I65 S EXIT22 ON RAMP FROM US231                             1140111401
+I65 S EXIT22 ON RAMP FROM US231 N                           1140111401
+I65 S EXIT22 ON RAMP FROM US231 S                           1140111401
+I65 S EXIT26 OFF RAMP TO KY234                              1140011400
+I65 S EXIT26 OFF RAMP TO KY234 E                            1140011400
+I65 S EXIT26 OFF RAMP TO KY234 W                            1140011400
+I65 S EXIT26 ON RAMP FROM KY234                             1140011400
+I65 S EXIT26 ON RAMP FROM KY234 E                           1140011400
+I65 S EXIT26 ON RAMP FROM KY234 W                           1140011400
+I65 S EXIT28 OFF RAMP TO KY446 W                            1140111401
+I65 S EXIT28 ON RAMP FROM KY446 E                           1140111401
+I65 S EXIT36 ON RAMP FROM US68                              1140011400
+I65 S EXIT38 OFF RAMP TO KY101                              1140011400
+I65 S EXIT38 OFF RAMP TO KY101                              1140311403
+I65 S EXIT38 ON RAMP FROM KY101                             1140011400
+I65 S REST AREA30 CAR LANE                                  1140011400
+I65 S REST AREA30 OFF RAMP                                  1140011400
+I65 S REST AREA30 ON RAMP                                   1140011400
+I65 S REST AREA30 TRUCK LANE                                1140011400
+IDA DR                                                      1140111401
+INDEPENCENCE DR                                             1140111401
+INDIAN HILLS DR                                             1140111401
+INDIANOLA ST                                                1140111401
+INNSBROOKE AVE                                              1140011400
+INNSBROOKE AVE                                              1140111401
+INTERSTATE DR                                               1140111401
+IRON BRIDGE RD                                              1140011400
+IRON SKILLET CT                                             1140111401
+IRON SKILLET DR                                             1140111401
+IRONWOOD DR                                                 1140011400
+IRONWOOD DR                                                 1140111401
+IROQUOIS DR                                                 1140111401
+ISBELL RD                                                   1140011400
+IVA CHURCH RD                                               1140011400
+IVAN DOWNS ALLEY NO1                                        1140011400
+IVAN DOWNS ALLEY NO2                                        1140011400
+IVAN DOWNS BLVD                                             1140011400
+IVY FARM CT                                                 1140011400
+IVY WAY                                                     1140111401
+J B RANCH RD                                                1140011400
+J STARKS RD                                                 1140011400
+J W CREEK RD                                                1140011400
+JACK JOHNSON RD                                             1140011400
+JACK S RD                                                   1140011400
+JACK SIMMONS RD                                             1140011400
+JACK SMITH RD                                               1140011400
+JACK SOUTH RD                                               1140011400
+JACKSON BRIDGE RD                                           1140011400
+JACKSON ST                                                  1140111401
+JACKSONS ORCHARD RD                                         1140011400
+JACLYN CT                                                   1140011400
+JADE DR                                                     1140011400
+JAMES EDWARD CT                                             1140111401
+JAMES ELKINS RD                                             1140011400
+JAMIE WAY                                                   1140011400
+JASON DR                                                    1140011400
+JAY DR                                                      1140011400
+JEANS AVE                                                   1140011400
+JENKINS DR                                                  1140011400
+JENKINS DR                                                  1140111401
+JENKINS RD                                                  1140011400
+JENNIFERS WAY                                               1140011400
+JENNINGS CREEK RD                                           1140011400
+JENNINGS CT                                                 1140111401
+JENNINGS DR                                                 1140111401
+JENNY CT                                                    1140111401
+JEROME DR                                                   1140011400
+JERSEY CT                                                   1140111401
+JFS CIR                                                     1140111401
+JIM BURRELL LN                                              1140311403
+JOHN ALFORD RD                                              1140011400
+JOHN BROWN RD                                               1140011400
+JOHN D JONES RD                                             1140111401
+JOHNSON DR                                                  1140111401
+JONES DR                                                    1140111401
+JOSEPHINE ST                                                1140111401
+JOURNEY DR                                                  1140011400
+JR COLES RD                                                 1140011400
+JUDITH LN                                                   1140011400
+JULIET WAY                                                  1140111401
+KAMI DR                                                     1140111401
+KARA CT                                                     1140011400
+KAREN AVE                                                   1140111401
+KAREN CIR                                                   1140111401
+KAREN SIMPSON RD                                            1140011400
+KARL YOUNG RD                                               1140011400
+KATTAWAR CIR                                                1140011400
+KAWANISHI WAY                                               1140111401
+KAY AVE                                                     1140111401
+KAYMOOR ST                                                  1140111401
+KEENELAND CT                                                1140011400
+KELLY CT                                                    1140111401
+KELLY HARRIS RD                                             1140011400
+KELLY RD                                                    1140011400
+KELLY RD                                                    1140111401
+KELLY ST                                                    1141011410
+KEMPTON CT                                                  1140011400
+KEMPTON LN                                                  1140011400
+KEN BALE BLVD                                               1140111401
+KENDALE CT                                                  1140111401
+KENDALE ST                                                  1140111401
+KENDRA LYNN DR                                              1140011400
+KENILWOOD WAY                                               1140011400
+KENILWOOD WAY                                               1140111401
+KENLEE CIR                                                  1140011400
+KENNETH LOOP                                                1140011400
+KENS LN                                                     1140011400
+KENSINGTON CT                                               1140111401
+KENSINGTON WAY                                              1140011400
+KENTON ST                                                   1140111401
+KENTUCKY GARDENS                                            1140111401
+KENTUCKY GARDENS NO1                                        1140111401
+KENTUCKY GARDENS NO2                                        1140111401
+KENTUCKY GARDENS NO3                                        1140111401
+KENTUCKY ST                                                 1140111401
+KENTUCKY ST                                                 1140311403
+KETTLESTICK RD                                              1140011400
+KEVIN DR                                                    1140011400
+KEYSTONE DR                                                 1140111401
+KIMBERLY AVE                                                1140011400
+KING ST                                                     1140011400
+KINGSTON CT                                                 1140011400
+KINGSTON WAY                                                1140011400
+KINSER AVE                                                  1140011400
+KIRBY CT                                                    1140111401
+KIRBY DR                                                    1140111401
+KIRBY POE RD                                                1140011400
+KIRBY SALMANS RD                                            1140011400
+KIRBY ST                                                    1140311403
+KIRTLEY CT                                                  1140111401
+KIRTLEY WAY                                                 1140111401
+KISS ME QUICK AVE                                           1140111401
+KITCHENS S RD                                               1140011400
+KITCHENS SOUTH RD                                           1140011400
+KITCHENS SOUTH ROAD SPUR                                    1140011400
+KIWANIS CT                                                  1140111401
+KIWANIS DR                                                  1140111401
+KNIGHTS CROSSING WAY                                        1140111401
+KOA CAMP RD                                                 1140011400
+KODIAK CT                                                   1140011400
+KOOSTRA RD                                                  1140011400
+KRISTIN CT                                                  1140011400
+KY185                                                       1140011400
+KY185                                                       1140111401
+KY234                                                       1140111401
+KY6140                                                      1140011400
+KY6143                                                      1140011400
+KYLE CT                                                     1140111401
+L C CARR RD                                                 1140011400
+LACEY DR                                                    1140011400
+LADERA WAY                                                  1140011400
+LAFAYETTE LN                                                1140111401
+LAIN AVE                                                    1140111401
+LAIN CT                                                     1140111401
+LAKE AYR WAY                                                1140011400
+LAKE PL                                                     1140011400
+LAKE RD                                                     1140011400
+LAKE SHORE DR                                               1140111401
+LAKELAND DR                                                 1140011400
+LAKEMERE AVE                                                1140011400
+LAKEMERE DR                                                 1140011400
+LAKESIDE WAY                                                1140011400
+LAKEVIEW RD                                                 1140011400
+LAMPKIN PARK ACCESS RD                                      1140111401
+LAMPLIGHTER CT                                              1140011400
+LAMPLIGHTER DR                                              1140011400
+LAMPLIGHTER WAY                                             1140011400
+LANDON CT                                                   1140011400
+LANDON WAY                                                  1140011400
+LANSDALE AVE                                                1140111401
+LAPSLEY LN                                                  1140111401
+LAREDO DR                                                   1140011400
+LARMON MILL RD                                              1140011400
+LARMON MILL RD W                                            1140011400
+LARSON AVE                                                  1140011400
+LASSIE LN                                                   1140011400
+LASSO CT                                                    1140011400
+LAUREL ST                                                   1140311403
+LAURELSTONE LN                                              1140011400
+LAURELWOOD CIR                                              1140011400
+LAUREN AVE                                                  1140011400
+LAUREN AVERY DR                                             1140011400
+LAWRENCE RD                                                 1140011400
+LAWSON ST                                                   1140311403
+LAYNE MENDEL RD                                             1140011400
+LEALAND ST                                                  1140111401
+LEAPING DEER CT                                             1140111401
+LEAPING DEER WAY                                            1140111401
+LEATON RD                                                   1140011400
+LEAYOU RD                                                   1140011400
+LEE ANN CT                                                  1140011400
+LEE CIR                                                     1140111401
+LEE DR                                                      1140111401
+LEE ST                                                      1141011410
+LEESON WAY                                                  1140111401
+LEGENDS DR                                                  1140111401
+LEHMAN AVE                                                  1140111401
+LENNOX WAY                                                  1140011400
+LEON CHAPMAN RD                                             1140011400
+LESLIE AVE                                                  1140111401
+LESTER CT                                                   1140111401
+LEWIS AVE                                                   1140111401
+LEWIS RD                                                    1140011400
+LEXINGTON DR                                                1140111401
+LIBERTY WAY                                                 1140111401
+LIMERICK CT                                                 1140111401
+LIMESTONE ST                                                1140011400
+LINCOLN CT                                                  1140111401
+LINDA LN                                                    1140011400
+LINDBERG WAY                                                1140111401
+LINDEN DR                                                   1140111401
+LINDSEY ST                                                  1140011400
+LINKS CT                                                    1140011400
+LINKSIDE LN                                                 1140111401
+LITTLE BEAVER CREEK RD                                      1140011400
+LITTLE ELKS SPRINGS RD                                      1140011400
+LITTLE KNOB RD                                              1140011400
+LITTLE SINKING CREEK FRONTAGE RD                            1140011400
+LOCK BEND RD                                                1140011400
+LOCK NO5 RD                                                 1140011400
+LOCUST LN                                                   1140111401
+LODGE HALL RD                                               1140011400
+LOFTWOOD DR                                                 1140011400
+LOGAN WAY                                                   1140111401
+LOIS LN                                                     1140111401
+LONDON DR                                                   1140011400
+LONESTAR ST                                                 1140011400
+LONG AVE                                                    1140111401
+LONG RD                                                     1140011400
+LONGHUNTERS WAY                                             1140011400
+LONGVIEW DR                                                 1140111401
+LOOP AVE                                                    1140111401
+LOOP ST                                                     1140111401
+LORD MURPHY WAY                                             1140011400
+LOST CIR                                                    1140111401
+LOST COVE CT                                                1140111401
+LOST MILL CT                                                1140111401
+LOST RIVER LN                                               1140111401
+LOST WOODS AVE                                              1140111401
+LOUIE MEEKS RD                                              1140011400
+LOUIE MEEKS SPUR RD                                         1140011400
+LOUISVILLE RD                                               1140011400
+LOUISVILLE RD                                               1140111401
+LOVERS LANE SOCCER COMPLEX                                  1140111401
+LOVERS LN                                                   1140011400
+LOVERS LN                                                   1140111401
+LOVERS LN SOCCER COMPLEX                                    1140111401
+LOVING RD                                                   1140011400
+LOVING WAY                                                  1140111401
+LOWE AVE                                                    1140111401
+LOWE DR                                                     1140111401
+LOWER STONE AVE                                             1140011400
+LUCAS DR                                                    1140111401
+LUCINDA DR                                                  1140111401
+LUTHER LAWRENCE RD                                          1140011400
+LYDA AVE                                                    1140111401
+LYNDALE AVE                                                 1140111401
+LYNHURST DR                                                 1140111401
+LYNN RICH DR                                                1140011400
+LYNNWOOD WAY                                                1140111401
+MACADO DR                                                   1140011400
+MACER AVE                                                   1140111401
+MADELINE CT                                                 1140011400
+MADISON ST                                                  1140111401
+MAE OLA DR                                                  1140011400
+MAGNOLIA ST                                                 1140111401
+MAIN ST                                                     1140411404
+MAIN ST                                                     1141011410
+MAIN ST N                                                   1140311403
+MAIN ST S                                                   1140311403
+MAIN STREET RD                                              1140111401
+MAKENZIE AVE                                                1140011400
+MALLARD ST                                                  1140011400
+MALLORY CT                                                  1140111401
+MANDERIN AVE                                                1140011400
+MANDY LN                                                    1140011400
+MANNING RD                                                  1140011400
+MANSFIELD DR                                                1140011400
+MANSFIELD DR                                                1141011410
+MANSFIELD ST                                                1141011410
+MAPLE LN                                                    1140011400
+MAPLE LN                                                    1140111401
+MAPLE RIDGE ST                                              1140111401
+MAPLELEAF DR                                                1140011400
+MAPLEMERE DR                                                1140011400
+MAPLEWOOD BLVD                                              1140111401
+MAPLEWOOD DR                                                1140011400
+MARBLEGATE CIR                                              1140011400
+MARBLEGATE CIRCLE OTHER                                     1140011400
+MARIA DR                                                    1140011400
+MARION CT                                                   1140011400
+MARK TRL                                                    1140011400
+MARKDALE LN                                                 1140011400
+MARKET ST                                                   1140411404
+MARNOCHOS LANE OTHER                                        1140011400
+MARNOCHOS LN                                                1140011400
+MARSTON MILL WAY                                            1140011400
+MARTIN LUTHER KING JR CT                                    1140111401
+MARTIN WAY                                                  1140011400
+MARTINSVILLE FORD RD                                        1140011400
+MARTINSVILLE RD                                             1140011400
+MARTINSVILLE TRL                                            1140011400
+MARTY DR                                                    1140011400
+MARYLAN AVE                                                 1140111401
+MASONS RD                                                   1140011400
+MASSEY MILL RD                                              1140011400
+MASSEY RD                                                   1140011400
+MASSEY SPRINGS RD                                           1140011400
+MASTERS WAY                                                 1140011400
+MATLOCK OLD UNION RD                                        1140011400
+MATLOCK RD                                                  1140011400
+MAX HAMPTON ST                                              1140111401
+MAY APPLE DR                                                1140011400
+MAYME CT                                                    1140111401
+MCCLINTOCK CT                                               1140111401
+MCCUBBIN DR                                                 1140111401
+MCDIVITT CT                                                 1140111401
+MCELROY WAY                                                 1140111401
+MCELWAIN CT                                                 1140111401
+MCFADDENS FERRY WAY                                         1140111401
+MCFADIN STATION ST                                          1140111401
+MCFARLAND LN                                                1140011400
+MCGINNIS QUARRY RD                                          1140011400
+MCGINNIS RD                                                 1140011400
+MCGLOCKLIN WAY                                              1140011400
+MCGREGOR CT                                                 1140111401
+MCINTOSH ST                                                 1140111401
+MCINTRYE ST                                                 1140011400
+MCKINLEY RD                                                 1140011400
+MCLELLAN RD                                                 1140111401
+MCTAVISH WAY                                                1140011400
+MCTAVISH WAY                                                1140111401
+MEADOW CT                                                   1140011400
+MEADOW HILL DR                                              1140011400
+MEADOW RIDGE CT                                             1140111401
+MEADOWBROOK CIR                                             1140111401
+MEADOWBROOK CT                                              1140111401
+MEADOWDALE LN                                               1140111401
+MEADOWLARK CT                                               1140111401
+MEADOWLARK DR                                               1140111401
+MEADOWLARK LN                                               1140011400
+MEADOWLARK TRL                                              1140011400
+MEADOWLAWN AVE                                              1140111401
+MEADOWVIEW AVE                                              1140011400
+MEADOWWOOD LN                                               1140011400
+MEADOWWOOD LN                                               1140111401
+MEDIA DR                                                    1140111401
+MEDICAL CENTER BLVD                                         1140111401
+MEDLAR AVE                                                  1140011400
+MEEKS RD                                                    1140011400
+MEGAN CT                                                    1140011400
+MEL BROWNING ST                                             1140111401
+MELROSE ST                                                  1140111401
+MELSHED FERRY RD                                            1140011400
+MEMORIAL CIR                                                1140011400
+MEMPHIS JUNCTION RD                                         1140011400
+MEMPHIS JUNCTION RD                                         1140111401
+MEMPHIS JUNCTION SPUR RD                                    1140011400
+MENG RD                                                     1140011400
+MERCER RD                                                   1140011400
+MERIDETH DR                                                 1140111401
+MERIDIAN DR                                                 1140111401
+MERRICK PLACE CT                                            1140111401
+MICHAEL WAY                                                 1140011400
+MIDCREST DR                                                 1140011400
+MIDDLE BRIDGE STUB RD                                       1140111401
+MIDDLEBRIDGE RD                                             1140011400
+MIDDLEBRIDGE RD W                                           1140111401
+MIDWAY CT                                                   1140111401
+MIKES LN                                                    1140011400
+MILL ST                                                     1140311403
+MILL VALLEY DR                                              1140111401
+MILLER RD                                                   1140011400
+MILLS ST                                                    1141011410
+MILLSTONE WAY                                               1140011400
+MILLWOOD CT                                                 1140011400
+MILLWOOD DR                                                 1140011400
+MIMOSA ALLEY                                                1140111401
+MIMOSA CT                                                   1140111401
+MINNIE WAY                                                  1140011400
+MISSION ST                                                  1140011400
+MISTY LN                                                    1140011400
+MITCH MCCONNELL WAY                                         1140111401
+MITCHELL CT                                                 1140111401
+MITCHELLWOOD CT                                             1140011400
+MIZPAH RD                                                   1140111401
+MOATS LN                                                    1140011400
+MODERN WAY                                                  1140111401
+MOHAWK DR                                                   1140111401
+MONTCLAIR DR                                                1140011400
+MONTELAIN CT                                                1140011400
+MONTEREY DR                                                 1140111401
+MONTGOMERY WAY                                              1140111401
+MOON RD                                                     1140011400
+MOONLITE AVE                                                1140111401
+MOORE DR                                                    1140011400
+MOOREBOROUGH CT                                             1140011400
+MOOREBOROUGH DR                                             1140011400
+MOORELAND DR                                                1140011400
+MOORELAND DR                                                1140111401
+MOORMAN LN                                                  1140011400
+MOORMAN LN                                                  1140111401
+MOORS RD                                                    1140011400
+MORAGE ST                                                   1140011400
+MORAN LN                                                    1140011400
+MOREHEAD RD                                                 1140011400
+MOREHEAD WAY                                                1140111401
+MORGAN DR                                                   1140011400
+MORGANTOWN RD                                               1140011400
+MORGANTOWN RD                                               1140111401
+MORNING DOVE CT                                             1140011400
+MORNING DOVE DR                                             1140011400
+MORNING GLORY DR                                            1140011400
+MORNINGSTAR CT                                              1140011400
+MORRIS ALY                                                  1140111401
+MORRIS DUFF RD                                              1140011400
+MORRIS DUFF RD                                              1140411404
+MORRIS RD                                                   1140011400
+MOSLEY RD                                                   1140011400
+MOSS CREEK AVE                                              1140011400
+MOSS CREEK CT                                               1140011400
+MOSS CT                                                     1140011400
+MOSSWOOD DR                                                 1140011400
+MOTLEY LN                                                   1140011400
+MOULDER LOOP                                                1140011400
+MOULDER LOOP RD                                             1140011400
+MOULTRIE CT                                                 1140111401
+MOULTRIE DR                                                 1140111401
+MOUNT FORBES DR                                             1140011400
+MOUNT OLLA CHURCH RD                                        1140011400
+MOUTH OF GASPER RD                                          1140011400
+MT AYR CIR                                                  1140111401
+MT LEBANON RD                                               1140011400
+MT OLIVET GIRKIN RD                                         1140011400
+MT OLIVET RD                                                1140011400
+MT OLIVET RD                                                1140111401
+MT PLEASANT CEMETERY RD                                     1140011400
+MT UNION CHURCH RD                                          1140011400
+MT VICTOR LN                                                1140011400
+MT VICTOR LN                                                1140111401
+MT ZION CHURCH RD                                           1140011400
+MT ZION RD                                                  1140011400
+MUDD AVE                                                    1140011400
+MUIRFIELD CIR                                               1140011400
+MUIRFIELD LN                                                1140011400
+MULBERRY AVE                                                1140011400
+MURIFIELD LN                                                1140011400
+MURPHY RD                                                   1140011400
+McCAUSLAND AVE                                              1140111401
+N CAMPBELL RD                                               1140011400
+N CEDAR BLUFF RD                                            1140011400
+N CLARK LANDING RD                                          1140011400
+N GOSHEN CHURCH RD                                          1140011400
+N GRAHAM AVE                                                1140011400
+N GRAHAM AVE                                                1140111401
+N GRAHAM ST                                                 1140111401
+N HARRIS RD                                                 1140011400
+N HEWITT RD                                                 1140011400
+N KOOSTRA RD                                                1140011400
+N LANDING RD                                                1140011400
+N LEE DR                                                    1140111401
+N MILL AVE                                                  1140011400
+N MILL AVE                                                  1140111401
+N MILL CT                                                   1140011400
+N MILL PL                                                   1140011400
+N RHOADS LN                                                 1140011400
+N SPRUCE LN                                                 1140011400
+N SUNRISE DR                                                1140111401
+N SUNRISE RD                                                1140111401
+N VINE ST                                                   1141011410
+NAHM DR                                                     1140111401
+NASHVILLE RD                                                1140011400
+NASHVILLE RD                                                1140111401
+NASHVILLE RD                                                1140411404
+NASHVILLE RD ACCESS RD                                      1140111401
+NASHVILLE ROAD ACCESS ROAD CONNECTOR                        1140111401
+NATCHER LN                                                  1140111401
+NATCHEZ TRACE AVE                                           1140111401
+NATURAL WAY                                                 1140011400
+NATURAL WAY                                                 1140111401
+NAVAJO CT                                                   1140111401
+NAVAJO DR                                                   1140111401
+NEAL HOWELL RD                                              1140011400
+NEAL ST                                                     1140111401
+NEALY RD                                                    1140011400
+NEALY SPUR RD                                               1140011400
+NEEDMORE CLIFTY CREEK RD                                    1140011400
+NELLUMS AVE                                                 1140111401
+NEPTUNE WAY                                                 1140011400
+NEW AVE                                                     1140011400
+NEW BOND WAY                                                1140011400
+NEW BOND WAY                                                1140111401
+NEW CUT RD                                                  1140011400
+NEW TOWNE DR                                                1140111401
+NEWBERRY ST                                                 1140011400
+NEWBERRY ST                                                 1140111401
+NEWMAN WAY                                                  1140111401
+NEWTON AVE                                                  1140111401
+NIGHTINGALE LN                                              1140011400
+NINA MILLER RD                                              1140011400
+NINE IRON CT                                                1140111401
+NO NAME APARTMENTS                                          1140111401
+NO1 FRUIT OF THE LOOM                                       1140111401
+NOB HILL RD                                                 1140011400
+NONE KNOWN                                                  1140111401
+NONE KNOWN                                                  1140311403
+NORMAL ST                                                   1140111401
+NORMAL VIEW DR                                              1140111401
+NORMALVIEW DR                                               1140111401
+NORMAN LN                                                   1140011400
+NORMANDY WAY                                                1140111401
+NORRIS RD                                                   1140011400
+NORTHBROOK TRAILER PARK NO1                                 1140011400
+NORTHBROOK TRAILER PARK NO3                                 1140011400
+NORTHBROOK TRAILER PARK NO4                                 1140011400
+NORTHBROOK TRAILER PARK NO5                                 1140011400
+NORTHBROOK TRAILER PARK NO6                                 1140011400
+NORTHBROOK TRIALER PARK NO2                                 1140011400
+NORTHRIDGE DR                                               1140011400
+NORTHVIEW CT                                                1140011400
+NOTTINGHAM DR                                               1140111401
+NUCENT ST                                                   1140111401
+NUGENT ST                                                   1140111401
+NUGGET DR                                                   1140011400
+NUTWOOD ST                                                  1140111401
+O J EDMONDS RD                                              1140011400
+O J EDMONDS SPUR RD                                         1140011400
+O N ALFORD RD                                               1140011400
+OAK BEND CT                                                 1140011400
+OAK GROVE WAY                                               1140111401
+OAK HILL CT                                                 1140011400
+OAK HOLLOW DR                                               1140011400
+OAK POINTE CT                                               1140111401
+OAK RIDGE WAY                                               1140011400
+OAK ST                                                      1140011400
+OAK VIEW CT                                                 1140011400
+OAKLAND FLATROCK NORTH RD                                   1140011400
+OAKLAND FLATROCK RD                                         1140011400
+OAKLAND RD                                                  1140011400
+OAKLAND RD                                                  1141011410
+OAKLAND ST                                                  1141011410
+OAKLAWN WAY                                                 1140111401
+OAKWOOD DR                                                  1140111401
+OATES KITCHEN RD                                            1140011400
+OBRIAN CT                                                   1140111401
+OCTOBER GLORY CT                                            1140011400
+ODELL CT                                                    1140011400
+OGDEN AVE                                                   1140111401
+OGDEN DR                                                    1140111401
+OLD 6TH AVE                                                 1140111401
+OLD BARREN RIVER RD                                         1140011400
+OLD BARREN RIVER RD                                         1140111401
+OLD BROWNING RD                                             1140011400
+OLD CEMETERY RD                                             1140011400
+OLD DEARING RD                                              1140011400
+OLD DRAKE TEMPERANCE RD                                     1140011400
+OLD FORT AVE                                                1140111401
+OLD FRIENDSHIP BRISTOW RD                                   1140011400
+OLD GOSHEN RD                                               1140011400
+OLD GREENHILL RD                                            1140011400
+OLD GREENVILLE RD                                           1140011400
+OLD KENTUCKY ST                                             1140111401
+OLD KY 185 LOOP NO2                                         1140011400
+OLD KY 622                                                  1140011400
+OLD LOUISVILLE RD                                           1140111401
+OLD LOUSIVILLE RD                                           1140111401
+OLD LOVERS LN                                               1140011400
+OLD MATLOCK RD                                              1140011400
+OLD MILL DR                                                 1140111401
+OLD MORGANTOWN GLASGOW RD                                   1140011400
+OLD MORGANTOWN RD                                           1140111401
+OLD MOUNT PLEASANT SCHOOL RD                                1140011400
+OLD MT LEBANON RD                                           1140011400
+OLD MT PLEASANT SCHOOL RD                                   1140011400
+OLD NASHVILLE ROAD LOOP NO1                                 1140111401
+OLD NASHVILLE ROAD LOOP NO2                                 1140111401
+OLD NASHVILLE ROAD LOOP NO3                                 1140411404
+OLD PETROS WOODBURN RD                                      1140011400
+OLD PORTER PIKE                                             1140111401
+OLD POST DR                                                 1140011400
+OLD RICHARDSVILLE RD                                        1140011400
+OLD RICHARDSVILLE RD                                        1140111401
+OLD SCOTTSVILLE RD                                          1140011400
+OLD SCOTTSVILLE RD                                          1140111401
+OLD SPRINGFIELD RD                                          1140011400
+OLD STONE WAY                                               1140011400
+OLD STONE WAY                                               1140111401
+OLD SUGAR GROVE RD                                          1140011400
+OLD TRAM RD                                                 1140011400
+OLD TRAM RD                                                 1140111401
+OLD UNION CHURCH RD                                         1140011400
+OLD ZION CHURCH RD                                          1140011400
+OLDE STONE ALLEY NO1                                        1140111401
+OLDE STONE ALLEY NO10                                       1140111401
+OLDE STONE ALLEY NO11                                       1140111401
+OLDE STONE ALLEY NO12                                       1140111401
+OLDE STONE ALLEY NO2                                        1140111401
+OLDE STONE ALLEY NO3                                        1140111401
+OLDE STONE ALLEY NO4                                        1140111401
+OLDE STONE ALLEY NO5                                        1140111401
+OLDE STONE ALLEY NO6                                        1140111401
+OLDE STONE ALLEY NO7                                        1140111401
+OLDE STONE ALLEY NO8                                        1140111401
+OLDE STONE ALLEY NO9                                        1140111401
+OLDE TOWNE BLVD                                             1140111401
+OLIVE SPRINGS RD                                            1140011400
+OLIVER ST                                                   1140111401
+ONYX CT                                                     1140011400
+ORA HUFF RD                                                 1140011400
+ORANGE CT                                                   1140111401
+ORCHARD ST                                                  1140111401
+ORIOLE DR                                                   1140011400
+ORIOLE DR                                                   1141011410
+ORIOLE ST                                                   1140011400
+ORIOLE ST                                                   1140111401
+ORION CT                                                    1140011400
+ORION ST                                                    1140311403
+OSAGE CT                                                    1140111401
+OSBORNE FORD RD                                             1140011400
+OSCAR DOWNEY RD                                             1140011400
+OSHEA ST                                                    1140111401
+OTTER GAP RD                                                1140011400
+OTTO MOORE RD                                               1140011400
+OVERBOARD CT                                                1140111401
+OVERHILL CT                                                 1140011400
+OVERLOOK CT                                                 1140111401
+OVERLOOK LANE OTHER                                         1140111401
+OVERLOOK LN                                                 1140111401
+OWENSBY WAY                                                 1140111401
+OWL ST                                                      1140011400
+OWNSBY WAY                                                  1140111401
+OXFORD WAY                                                  1140111401
+P CLARK RD                                                  1140011400
+PACIFIC WAY                                                 1140011400
+PACKSTONE CIR                                               1140111401
+PADDLE WHEEL CT                                             1140111401
+PADDLE WHEEL ST                                             1140111401
+PADDOCK WAY                                                 1140111401
+PALISADES CT                                                1140011400
+PALMER DR                                                   1140011400
+PAR MAKERS RD                                               1140111401
+PARISH CT                                                   1140111401
+PARK EAST LN                                                1140111401
+PARK HILLS CT                                               1140011400
+PARK HILLS ST                                               1140011400
+PARK HILLS ST                                               1140111401
+PARK PL                                                     1140011400
+PARK ROW                                                    1140111401
+PARK ST                                                     1140111401
+PARK WEST LN                                                1140111401
+PARKER AVE                                                  1140111401
+PARKHAVEN LN                                                1140111401
+PARKHURST DR                                                1140111401
+PARKLAND CT                                                 1140011400
+PARKLAND WAY                                                1140011400
+PARKSIDE CT                                                 1140111401
+PARKSIDE DR                                                 1140111401
+PARKVIEW AVE                                                1140111401
+PARKWAY ST                                                  1140111401
+PARKWOOD CT                                                 1140011400
+PARKWOOD ST                                                 1140011400
+PASCO BLVD                                                  1140111401
+PASCOE BLVD                                                 1140111401
+PATRICK WAY                                                 1140111401
+PATTERSON RD                                                1140011400
+PATTON DR                                                   1140011400
+PATTON WAY                                                  1140111401
+PAULETTE ST                                                 1140011400
+PAWNEE CT                                                   1140111401
+PAYNE ST                                                    1140111401
+PEACH BLOSSOM CT                                            1140111401
+PEACH BLOSSOM LN                                            1140111401
+PEACHTREE LN                                                1140011400
+PEACHTREE LN                                                1140111401
+PEARCE WAY                                                  1140111401
+PEARL ST                                                    1140111401
+PEARSON LN                                                  1140011400
+PEBBLE CT                                                   1140011400
+PEBBLEWOOD CT                                               1140011400
+PECAN ST                                                    1140111401
+PEDIGO WAY                                                  1140111401
+PEMBROKE CT                                                 1140111401
+PENN DR                                                     1140111401
+PENNER RD                                                   1140011400
+PENNS CHAPEL RD                                             1140011400
+PEPPER MILL CT                                              1140011400
+PEPPERIDGE DR                                               1140011400
+PEPPERWOOD TRL                                              1140011400
+PERDEZ CT                                                   1140011400
+PERKINS ST                                                  1140011400
+PERRY MARTIN RD                                             1140011400
+PETRIE CT                                                   1140111401
+PETROS BROWNING RD                                          1140011400
+PETROS RD                                                   1140011400
+PETROS RD                                                   1140411404
+PETTY DR                                                    1140111401
+PETTY RD                                                    1140011400
+PHELPS CT                                                   1140011400
+PHELPS WAY                                                  1140011400
+PHIL MOORE PARK                                             1140011400
+PHILLIPS RD                                                 1140011400
+PIKES PEAK WAY                                              1140011400
+PIN OAK DR                                                  1140011400
+PINE BLUFF CT                                               1140111401
+PINE CREEK CT                                               1140111401
+PINE CT                                                     1140111401
+PINE GROVE BLVD                                             1140111401
+PINE NEEDLE CT                                              1140111401
+PINE POINTE CT                                              1140111401
+PINEHURST DR                                                1140111401
+PINETREE LN                                                 1140111401
+PINETREE MHP ACCESS NO1                                     1140011400
+PINETREE MHP ACCESS NO2                                     1140011400
+PINETREE MHP ACCESS NO3                                     1140011400
+PINETREE MHP ACCESS NO4                                     1140011400
+PINEWOOD CT                                                 1140011400
+PINNACLE POINT AVE                                          1140111401
+PINTAIL CT                                                  1140011400
+PINTAIL DR                                                  1140011400
+PIONEER AVE                                                 1140011400
+PIONEER DR                                                  1140111401
+PIRATES COVE CT                                             1140111401
+PIRATES COVE LN                                             1140111401
+PISCES AVE                                                  1140111401
+PLACE CT                                                    1140011400
+PLAIN AVE                                                   1140111401
+PLAINFIELD CT                                               1140011400
+PLAINFIELD WAY                                              1140011400
+PLAINVIEW ST                                                1140111401
+PLANO RD                                                    1140011400
+PLANO RICHPOND RD                                           1140011400
+PLANTATION DR                                               1140011400
+PLANTERS WAY                                                1140011400
+PLAYERS CROSSING WAY                                        1140011400
+PLEASANT GROVE RD                                           1140011400
+PLEASANT HILL RD                                            1140011400
+PLEASANT PLACE WAY                                          1140011400
+PLEASANT VALLEY CT                                          1140011400
+PLEASANT WAY                                                1140011400
+PLUM SPRINGS CHURCH RD                                      1140011400
+PLUM SPRINGS LOOP                                           1140111401
+PLUM SPRINGS RD                                             1140011400
+PLUM SPRINGS RD                                             1140111401
+POINTE AVE                                                  1140111401
+POINTE CT                                                   1140111401
+POLARIS CT                                                  1140011400
+POLKSVILLE RD                                               1140011400
+PONDSVILLE KEPLER RD                                        1140011400
+PONDSVILLE RD                                               1140011400
+PONTIAC WAY                                                 1140111401
+POPPY HILLS CT                                              1140011400
+POPPY HILLS WAY                                             1140011400
+PORTER CT                                                   1140011400
+PORTER PIKE                                                 1140011400
+PORTER PIKE                                                 1140111401
+PORTER PIKE LOOP                                            1140011400
+PORTER THORNTON RD                                          1140011400
+POSEY LN                                                    1140011400
+POST OFFICE ST                                              1140311403
+POTEET CT                                                   1140011400
+POTEET DR                                                   1140011400
+POTTER AVE                                                  1140111401
+POTTERS CHILDRENS HOME                                      1140111401
+POTTERS MHP ACCESS RD                                       1140011400
+POWELL ST                                                   1140011400
+POWER ST                                                    1140111401
+PR1008                                                      1140111401
+PREAKNESS WAY                                               1140011400
+PRESCOTT CT                                                 1140011400
+PRESTON AVE                                                 1140111401
+PRESTON S MILLER PARK RD                                    1140111401
+PRESTWICK CT                                                1140111401
+PRICE AVE                                                   1140111401
+PRICES CHAPEL RD                                            1140011400
+PRIMROSE CT                                                 1140011400
+PRINCETON PARK DR                                           1140111401
+PROCTOR TRL                                                 1140011400
+PROCTOR TRL                                                 1140111401
+PROGRESS AVE                                                1140111401
+PROSPECT LN                                                 1140011400
+PRUITT RD                                                   1140011400
+PULLEY WAY                                                  1140011400
+PURCELL CT                                                  1140011400
+PUSHIN LN                                                   1140011400
+QUAIL RUN DR                                                1140111401
+QUAIL RUN RD                                                1140011400
+QUAIL TRL                                                   1140011400
+QUARRY VIEW DR                                              1140011400
+QUEBEC WAY                                                  1140011400
+R H MARTIN KY101 CONNECTOR RD                               1140011400
+R H MARTIN RD                                               1140011400
+RAGLAND WAY                                                 1140111401
+RAINTREE DR                                                 1140111401
+RALEIGH WILSON RD                                           1140011400
+RALPH A YOUNG RD                                            1140011400
+RAQUELLE DR                                                 1140111401
+RASDALL ST                                                  1141011410
+RAVEN AVE                                                   1140111401
+RAYANNE DR                                                  1140111401
+RAYMER WAY                                                  1140111401
+RAYS BRANCH RD                                              1140011400
+RECTOR RD                                                   1140011400
+RED BIRD TRL                                                1140011400
+RED CEDAR WAY                                               1140011400
+RED CLOVER AVE                                              1140111401
+RED ELM LN                                                  1140111401
+RED HAVEN CT                                                1140011400
+RED MAPLE ST                                                1140111401
+RED OAK CT                                                  1140111401
+RED OAK DR                                                  1140111401
+RED POND RD                                                 1140011400
+REDWOOD CT                                                  1140111401
+REDWOOD WAY                                                 1140111401
+REFLECTION LN                                               1140011400
+REFLECTION LN                                               1140111401
+REGENTS AVE                                                 1140111401
+REMBRANDT CT                                                1140011400
+RENYOLDS WAY                                                1141011410
+REYNOLDS COURT WAY                                          1141011410
+RHOADS LN                                                   1140011400
+RHOADS LN                                                   1140111401
+RHONDA AVE                                                  1140011400
+RICE CT                                                     1140311403
+RICHARDS RD                                                 1140011400
+RICHARDSVILLE AIRPORT RD                                    1140011400
+RICHARDSVILLE BYP                                           1140011400
+RICHARDSVILLE RD                                            1140011400
+RICHEY AVE                                                  1140011400
+RICHEY RD                                                   1140011400
+RICHIE AVE                                                  1140011400
+RICHLAND DR                                                 1140111401
+RICHLAND WAY                                                1140111401
+RICHPOND RD                                                 1140011400
+RICHPOND ROCKFIELD RD                                       1140011400
+RIDGE RD                                                    1140011400
+RIDGE WAY DR                                                1140111401
+RIDGECREST ST                                               1140311403
+RIDGECREST WAY                                              1140111401
+RIDGEPOINTE CT                                              1140111401
+RIDGESIDE AVE                                               1140111401
+RIDGESTONE WAY                                              1140011400
+RIDGEVIEW DR                                                1140011400
+RIDGEWAY DR                                                 1140111401
+RIDGEWOOD CT                                                1140111401
+RIDGEWOOD DR                                                1140111401
+RIGELWOOD LN                                                1140011400
+RIVA RIDGE AVE                                              1140011400
+RIVER AIRE CLOSE CT                                         1140111401
+RIVER AVON CT                                               1140111401
+RIVER PLACE AVE                                             1140111401
+RIVER TANMER RD                                             1140011400
+RIVER TANMER WAY                                            1140111401
+RIVER WYE DR                                                1140111401
+RIVERA CIR                                                  1140111401
+RIVERBEND ST                                                1140111401
+RIVERGREEN CT                                               1140011400
+RIVERGREEN LN                                               1140011400
+RIVERSIDE BENLEO RD                                         1140011400
+RIVERVIEW DR                                                1140111401
+RIVERWOOD AVE                                               1140111401
+ROBERT GUESS RD                                             1140011400
+ROBERT PELLY RD                                             1140011400
+ROBERTSON WAY                                               1140011400
+ROBIN AVE                                                   1140111401
+ROBIN HOOD TRL                                              1140011400
+ROBIN RD                                                    1140111401
+ROBINS NEST DR                                              1140011400
+ROBINSON AVE                                                1140111401
+ROCHESTER AVE                                               1140111401
+ROCK CREEK RD                                               1140111401
+ROCKFIELD BROWNING RD                                       1140011400
+ROCKFIELD CHURCH RD                                         1140011400
+ROCKINGHAM AVE                                              1140111401
+ROCKWOOD CT                                                 1140011400
+ROCKWOOD CT                                                 1140111401
+ROCKWOOD DR                                                 1140011400
+ROCKY CT                                                    1140011400
+ROCKY HILL HAYS RD                                          1140011400
+ROCKY HILL RD                                               1140011400
+ROCKY HILL RD                                               1140311403
+RODEO LN                                                    1140111401
+RODES DR                                                    1140111401
+ROGER COLE RD                                               1140011400
+ROGER PORTER RD                                             1140011400
+ROGER ST                                                    1140111401
+ROLAND RD                                                   1140011400
+ROLLING DR                                                  1140011400
+ROLLING MDW DR                                              1140011400
+ROLLING RIDGE WAY                                           1140011400
+ROLLINGWOOD WAY                                             1140011400
+ROLLINGWOOD WAY                                             1140111401
+ROMANZA JOHNSON PARK RD                                     1140011400
+RONDAL DR                                                   1140011400
+RONE WOLFE RD                                               1140011400
+RONNIE CAPLINGER RD                                         1140011400
+ROSEBERRY CIR                                               1140011400
+ROSELAWN WAY                                                1140111401
+ROSEWOOD WAY                                                1140111401
+ROSIE CT                                                    1140111401
+ROSIE ST                                                    1140111401
+ROUGH CIR                                                   1140011400
+ROY SMITH RD                                                1140011400
+ROY THOMAS RD                                               1140011400
+RUMSEY ST                                                   1140311403
+RUNDSTROM WAY                                               1140111401
+RUNNER RD                                                   1140011400
+RUSH DR                                                     1140111401
+RUSSELLVILLE RD                                             1140011400
+RUSSELLVILLE RD                                             1140111401
+S B THOMAS RD                                               1140011400
+S COLLEGE ST                                                1140411404
+S FORD AVE                                                  1140011400
+S GOSHEN CHURCH RD                                          1140011400
+S HEWITT RD                                                 1140011400
+S LEE DR                                                    1140111401
+S MCELWAIN RD                                               1140011400
+S PARK DR                                                   1140011400
+S PARK DR                                                   1140111401
+S ROBINSON ST                                               1140411404
+S SUNRISE DR                                                1140111401
+SADDLEBROOK WAY                                             1140011400
+SADDLETREE CT                                               1140011400
+SAGE DR                                                     1140011400
+SAGITTARIUS AVE                                             1140111401
+SAILOR AVE                                                  1140111401
+SALEM CIR                                                   1140011400
+SALISBURY DR                                                1140111401
+SALLY CIR                                                   1140011400
+SALT LICK RD                                                1140011400
+SALT LICK ROAD NO2                                          1140011400
+SAMS LN                                                     1140011400
+SANDALWOOD DR                                               1140011400
+SANDRA ST                                                   1140111401
+SANDSTONE WAY                                               1140011400
+SANDWEDGE CT                                                1140111401
+SANDY CT                                                    1140011400
+SARAH DR                                                    1140111401
+SASSAFRASS ST                                               1140111401
+SATURN WAY                                                  1140011400
+SAVANNAH DR                                                 1140111401
+SAWGRASS CT                                                 1140011400
+SAXON LN                                                    1140011400
+SCHOTT CIR                                                  1140111401
+SCHWARZKOPF ST                                              1140011400
+SCOGGINS RD                                                 1140011400
+SCOTT LN                                                    1140111401
+SCOTT ST                                                    1140111401
+SCOTT WAY                                                   1140111401
+SCOTTSBOROUGH CIR                                           1140011400
+SCOTTSBOROUGH CT                                            1140011400
+SCOTTSDALE DR                                               1140011400
+SCOTTSVILLE RD                                              1140011400
+SCOTTSVILLE RD                                              1140111401
+SCOTTYS WAY                                                 1140111401
+SEARCY WAY                                                  1140111401
+SEATTLE SLEW LN                                             1140011400
+SEBERN CLOSE CT                                             1140111401
+SECRETARIAT DR                                              1140011400
+SEMINOLE WAY                                                1140111401
+SENECA CT                                                   1140111401
+SENTRY PL                                                   1140011400
+SEPTEMBER LAKES WAY                                         1140011400
+SEQUOIA CT                                                  1140111401
+SEQUOIA WAY                                                 1140111401
+SEYMORE DR                                                  1140111401
+SHADOW GRASS WAY                                            1140011400
+SHADY CT                                                    1140111401
+SHADY DR                                                    1140011400
+SHADY LAND CHURCH RD                                        1140011400
+SHADY LN                                                    1140011400
+SHADY RIDGE CT                                              1140111401
+SHADYCOVE CT                                                1140111401
+SHAKER BEND AVE                                             1140011400
+SHAKER MILL BEND RD                                         1140011400
+SHAKER MILL RD                                              1140011400
+SHAKER MILL ROAD SPUR                                       1140011400
+SHAMROCK DR                                                 1140011400
+SHANKS MILL DR                                              1140111401
+SHANNON CT                                                  1140111401
+SHANNON DR                                                  1140111401
+SHANTY HOLLOW CLUBHOUSE RD                                  1140011400
+SHANTY HOLLOW RD                                            1140011400
+SHARON DR                                                   1140111401
+SHARP POINT CT                                              1140111401
+SHAWNEE WAY                                                 1140111401
+SHEFFIELD CT                                                1140111401
+SHEFFIELD WAY                                               1140111401
+SHELBY LN                                                   1140011400
+SHEPPARD CT                                                 1140111401
+SHERWOOD DR                                                 1140111401
+SHERWOOD WAY                                                1140111401
+SHETLAND AVE                                                1140011400
+SHETLAND DR                                                 1140011400
+SHIVE BLVD                                                  1140111401
+SHIVE LN                                                    1140111401
+SHOBE RD                                                    1140011400
+SHORE ST                                                    1140111401
+SHORT AVE                                                   1140111401
+SHORTVIEW DR                                                1140011400
+SIERRA NEVADA WAY                                           1140011400
+SILVER CHARM CIR                                            1140011400
+SILVER MAPLE ST                                             1140111401
+SILVER SPRINGS AVE                                          1140011400
+SILVER SUN DR                                               1140011400
+SILVERCREEK AVE                                             1140111401
+SIM ALLEN RD                                                1140011400
+SINGLE TREE CT                                              1140111401
+SINGLE TREE WAY                                             1140111401
+SIOUX WAY                                                   1140111401
+SIR WILBURN WAY                                             1140011400
+SIR WILLOUGHBY CT                                           1140011400
+SKEES RD                                                    1140011400
+SKYLINE MHP ACCESS                                          1140111401
+SKYVIEW DR                                                  1140011400
+SLEDGE RD                                                   1140011400
+SLIM ISLAND RD                                              1140011400
+SMALLHOUSE RD                                               1140011400
+SMALLHOUSE RD                                               1140111401
+SMITH AND MOORE DR                                          1140011400
+SMITH CT                                                    1140111401
+SMITH DR                                                    1140011400
+SMITH WAY                                                   1140111401
+SMITHS GROVE OAKLAND RD                                     1140011400
+SMITHS GROVE OAKLAND RD                                     1141011410
+SMITHS GROVE SCOTTSVILLE RD                                 1140011400
+SMOKEY PIG RD                                               1140111401
+SOAPBOX DERBY RD                                            1140011400
+SOUTH WAY                                                   1140111401
+SOUTHERN HILLS CT                                           1140011400
+SOUTHERN SKY CIR                                            1140011400
+SOUTHLAND ST                                                1140111401
+SOUTHWIND DR                                                1140011400
+SOUTHWOOD CT                                                1140111401
+SPARROW RD                                                  1140011400
+SPECTACULAR BID DR                                          1140011400
+SPENCER CT                                                  1140111401
+SPINDLETOP DR                                               1140011400
+SPLIT TREE ST                                               1140011400
+SPRING ALY                                                  1140111401
+SPRING CREEK AVE                                            1140111401
+SPRING HOLLOW AVE                                           1140111401
+SPRING VALLEY CT                                            1140011400
+SPRING VALLEY DR                                            1140011400
+SPRINGCREST ST                                              1140011400
+SPRINGFIELD BLVD                                            1140011400
+SPRINGFIELD CIR                                             1140011400
+SPRINGHILL AVE                                              1140111401
+SPRINGWATER CT                                              1140111401
+SPRINGWOOD DR                                               1140111401
+SPRUCE CT                                                   1140111401
+SPRUCE TRL                                                  1140111401
+ST ALBANS DR                                                1140111401
+ST ANDREWS CIR                                              1140111401
+ST CHARLES ST                                               1140111401
+ST JAMES WAY                                                1140011400
+ST JOHNS AVE                                                1140111401
+ST JOSEPH AVE                                               1140111401
+ST JOSEPH LN                                                1140111401
+ST LAWRENCE AVE                                             1140111401
+ST PATRICK AVE                                              1140111401
+ST PAUL AVE                                                 1140011400
+ST THERESA AVE                                              1140111401
+ST THOMAS AVE                                               1140111401
+STAFFORD WAY                                                1140111401
+STAGECOACH AVE                                              1140011400
+STAGECOACH CT                                               1140011400
+STAHL LN                                                    1140111401
+STAMPEDE CT                                                 1140011400
+STAMPS RD                                                   1140011400
+STANLEY CT                                                  1140111401
+STANLEY RICE RD                                             1140011400
+STANLEY RICE RD                                             1140311403
+STARBOARD ST                                                1140111401
+STARLITE AVE                                                1140111401
+STATE ST                                                    1140111401
+STATE STREET ALY                                            1140111401
+STEAMBOAT ST                                                1140111401
+STEELE WAY                                                  1140111401
+STEEP HOLLOW RD                                             1140011400
+STEEPLECHASE CT                                             1140011400
+STEEPLECHASE DR                                             1140111401
+STEEPLECHASE WAY                                            1140011400
+STEEPLECHASE WAY                                            1140111401
+STEPHANIE ST                                                1140011400
+STERLING CT                                                 1140111401
+STERLING OAK CT                                             1140011400
+STERLING WAY                                                1140011400
+STERNWHEEL AVE                                              1140111401
+STEWART LN                                                  1140011400
+STILL WATER AVE                                             1140011400
+STILL WATER CT                                              1140011400
+STONE AVE                                                   1140011400
+STONE BLUFF CT                                              1140011400
+STONE BLUFF LN                                              1140011400
+STONE BRIAR ST                                              1140011400
+STONE CREEK CT                                              1140011400
+STONE CREST AVE                                             1140011400
+STONE CREST ST                                              1140011400
+STONE GATE CT                                               1140011400
+STONE HOLLOW LN                                             1140011400
+STONE LN                                                    1140011400
+STONE LN                                                    1140111401
+STONE MEADOWS CIR                                           1140111401
+STONE MEADOWS LN                                            1140111401
+STONE MILL CT                                               1140011400
+STONE MOUNTAIN CT                                           1140011400
+STONE RIDGE ST                                              1140011400
+STONE TRACE CT                                              1140011400
+STONE TRACE DR                                              1140011400
+STONE VALLEY DR                                             1140011400
+STONE WALL CT                                               1140011400
+STONEBRIDGE LN                                              1140111401
+STONEBROOK CT                                               1140111401
+STONEHENGE AVE                                              1140111401
+STONEHURST WAY                                              1140011400
+STONEWOOD CIR                                               1140111401
+STONEY CT                                                   1140011400
+STONEY POINT CHURCH RD                                      1140011400
+STOREY AVE                                                  1140111401
+STRATFORD DR                                                1140111401
+STRATHMOOR WAY                                              1140111401
+STREET NO1878                                               1140111401
+STUART AVE                                                  1140011400
+STUBBINS ST                                                 1140111401
+STUMP BLUFF RD                                              1140011400
+STUMP BLUFF TRADING POST RD                                 1140011400
+STURBRIDGE CT                                               1140111401
+SUELANE CT                                                  1140011400
+SUGAR BERRY AVE                                             1140011400
+SUGAR MILL DR                                               1140011400
+SUGAR MILL WAY                                              1140011400
+SUGARHILL CT                                                1140011400
+SUGARWOOD CT                                                1140011400
+SUGARWOOD DR                                                1140011400
+SUMMER BREEZE CT                                            1140011400
+SUMMER BREEZE DR                                            1140011400
+SUMMERCREST CT                                              1140011400
+SUMMERFIELD DR                                              1140011400
+SUMMERLIN DR                                                1140011400
+SUMMIT BLVD                                                 1140011400
+SUMNER AVE                                                  1140011400
+SUMPTER AVE                                                 1140111401
+SUN CT                                                      1140111401
+SUN WAY                                                     1140111401
+SUNCREST DR                                                 1140011400
+SUNDAY SILENCE WAY                                          1140011400
+SUNNYSIDE GOTT RD                                           1140011400
+SUNSET AVE                                                  1140311403
+SUNSET DR                                                   1140111401
+SUNWARD DR                                                  1140111401
+SUTHERLAND DR                                               1140011400
+SUTTERS MILL DR                                             1140011400
+SUWANNEE TRAIL ST                                           1140111401
+SWAIN ST                                                    1140011400
+SWEENEY LN                                                  1140011400
+SWEEPSTAKES CT                                              1140011400
+SYCAMORE CT                                                 1140111401
+SYCAMORE DR                                                 1140111401
+SYDNEY CT                                                   1140111401
+SYLVAN CIR                                                  1140011400
+SYLVIA CT                                                   1140011400
+SYLVIA WAY                                                  1140011400
+T B HOSPITAL RD                                             1140011400
+T ELKINS RD                                                 1140011400
+TABOR LN                                                    1140111401
+TACOMA CT                                                   1140011400
+TAHOE CT                                                    1140111401
+TALBOTT DR                                                  1140111401
+TALL TIMBER AVE                                             1140111401
+TALLWOOD CT                                                 1140111401
+TAM O SHANTER CT                                            1140011400
+TAMMY WAY                                                   1140011400
+TANALEE CT                                                  1140111401
+TANGLEWOOD DR                                               1140011400
+TANGLEWOOD TRAIL DR                                         1140011400
+TARA CT                                                     1140111401
+TARGET ACCESS RD                                            1140111401
+TARTAN CT                                                   1140111401
+TAURUS ST                                                   1140111401
+TAYLOR AVE                                                  1141011410
+TEAKWOOD CT                                                 1140011400
+TEAKWOOD CT                                                 1140111401
+TEAL ST                                                     1140011400
+TECHNOLOGY WAY                                              1140111401
+TED PEMBERTON RD                                            1140011400
+TEMPLE CT                                                   1140111401
+TEMPLE WAY                                                  1140111401
+TERESA CT                                                   1140011400
+THAMES VALLEY CLOSE CT                                      1140111401
+THAMES VALLEY WAY                                           1140111401
+THAMES WAY                                                  1140111401
+THE FAIRWAYS APARTMENTS NO1                                 1140111401
+THE FAIRWAYS APARTMENTS NO2                                 1140111401
+THE FAIRWAYS APARTMENTS NO3                                 1140111401
+THE TRACE CIR                                               1140011400
+THE TRACE DR                                                1140011400
+THIMBLE FINGER WAY                                          1140111401
+THISTLEWOOD CT                                              1140111401
+THOMAS CT                                                   1140011400
+THOMAS CT                                                   1140111401
+THOMAS RD                                                   1140011400
+THOMPSON DR                                                 1140011400
+THOMPSON DR                                                 1140111401
+THOMPSON HEIGHTS CT                                         1140011400
+THOROUGHBRED DR                                             1140111401
+THREE FORKS FLATROCK RD                                     1140011400
+THREE FORKS RD                                              1140011400
+THREE SPRINGS RD                                            1140011400
+THREE SPRINGS RD                                            1140111401
+THREEWOOD CIR                                               1140111401
+THRELKEL FERRY RD                                           1140011400
+TIMBER CT                                                   1140011400
+TIMBER LANE DR                                              1140011400
+TIMBER RIDGE CT                                             1140011400
+TIMBER STONE ST                                             1140011400
+TIMBERCREST CT                                              1140011400
+TIMBERHILL AVE                                              1140011400
+TIMBERLINE DR                                               1140011400
+TIMBERLINE ST                                               1140011400
+TIMBERMILL AVE                                              1140111401
+TIPPERARY DR                                                1140011400
+TOBACCO RD                                                  1140111401
+TODD TRACE CT                                               1140011400
+TOMBLINSON WAY                                              1140011400
+TOMBLINSON WAY                                              1140111401
+TOMMY SMITH RD                                              1140011400
+TOMMY WILLIS RD                                             1140011400
+TOMOHAWK CT                                                 1140011400
+TONY AVE                                                    1140011400
+TONYA AVE                                                   1140011400
+TOPMILLER AVE                                               1140111401
+TOPPERVIEW MHP ACCESS RD                                    1140111401
+TORRIDGE AVE                                                1140111401
+TOWER CT                                                    1140011400
+TOWER DR                                                    1140011400
+TOWNSEND WAY                                                1140111401
+TRADD WAY                                                   1140011400
+TRADITIONS ALLEY NO1                                        1140111401
+TRADITIONS ALLEY NO15                                       1140111401
+TRADITIONS ALLEY NO2                                        1140111401
+TRADITIONS ALLEY NO3                                        1140111401
+TRADITIONS ALLEY NO4                                        1140111401
+TRADITIONS ALLEY NO5                                        1140111401
+TRADITIONS ALLEY NO6                                        1140111401
+TRADITIONS ALLEY NO7                                        1140111401
+TRADITIONS BLVD                                             1140111401
+TRAILS END CT                                               1140011400
+TRAMMEL CREEK DR                                            1140011400
+TRAPPER WAY                                                 1140011400
+TRAVELSTEAD RD                                              1140011400
+TREADWAY WAY                                                1140111401
+TREECE LN                                                   1140011400
+TRELLIS ST                                                  1140011400
+TREMONT DR                                                  1140011400
+TRENT WAY                                                   1140111401
+TRILLIUM LN                                                 1140011400
+TRIPLE CROWN CT                                             1140011400
+TUCKER WAY                                                  1140111401
+TUCKERTOWN RD                                               1140011400
+TULIP DR                                                    1140111401
+TUMBLEWEED TRAIL AVE                                        1140011400
+TURKEY RUN DR                                               1140111401
+TURNER CT                                                   1140111401
+TWIN BRIDGES RD                                             1140011400
+TWIN ELMS DR                                                1140011400
+TYLER CT                                                    1140011400
+TYLER DR                                                    1140011400
+TYNE AVE                                                    1140011400
+UNBRIDLED DR                                                1140011400
+UNDERWOOD CT                                                1140111401
+UNIVERSITY BLVD                                             1140111401
+UNIVERSITY DR                                               1140111401
+UNNAMED RD                                                  1140011400
+UPPER DIXIE HWY                                             1140011400
+UPPER DIXIE HWY                                             1141011410
+UPPER IRON BRIDGE RD                                        1140011400
+UPPER SMITHS GROVE RD                                       1140011400
+UPPER STONE AVE                                             1140011400
+UPTON FARM RD                                               1140011400
+UPTON RD                                                    1140011400
+US31W                                                       1140111401
+US68                                                        1140011400
+US68                                                        1140111401
+UTAH DR                                                     1140111401
+VALLEYBROOK AVE                                             1140111401
+VALLEYVIEW RD                                               1140011400
+VALLEYWOOD WAY                                              1140011400
+VANCE LN                                                    1140011400
+VANDERBILT CT                                               1140111401
+VANDERBILT DR                                               1140111401
+VANMETER RD                                                 1140011400
+VESSELS RD                                                  1140011400
+VETERANS AVE                                                1140011400
+VETERANS MEMORIAL LN                                        1140011400
+VETERANS MEMORIAL LN                                        1140111401
+VICKSBURG CT                                                1140111401
+VICTORIA ST                                                 1140111401
+VICTORY CT                                                  1140011400
+VILLA CT                                                    1140111401
+VILLAGE CREEK CT                                            1140111401
+VILLAGE CREEK DR                                            1140111401
+VILLAGE SQ                                                  1140111401
+VILLAGE VIEW LN                                             1140111401
+VINE ST                                                     1140111401
+VINE ST                                                     1141011410
+VINEWOOD DR                                                 1140111401
+VINEWOOD WAY                                                1140111401
+VIRGIE CT                                                   1140011400
+VIRGINIA DR                                                 1140111401
+VOSSWOOD WAY                                                1140011400
+W 10TH AVE                                                  1140111401
+W 11TH AVE                                                  1140111401
+W 12TH AVE                                                  1140111401
+W 13TH AVE                                                  1140111401
+W 14TH AVE                                                  1140111401
+W 15TH AVE                                                  1140111401
+W 6TH AVE                                                   1140111401
+W 6TH ST                                                    1140311403
+W BOGLE RD                                                  1140011400
+W CAMPBELL RD                                               1140011400
+W E COLE RD                                                 1140011400
+W G TALLEY RD                                               1140011400
+W J JACKSON RD                                              1140011400
+W MAIN AVE                                                  1140111401
+W MCLELLAN RD                                               1140011400
+W MCLELLAN RD                                               1140111401
+W PARK DR                                                   1140111401
+W PROFESSIONAL PARK CT                                      1140111401
+W R HELTON RD                                               1141011410
+W T COLEMAN RD                                              1140011400
+W TOWN AVE                                                  1140111401
+W TOWN CT                                                   1140111401
+W VILLA DR                                                  1140011400
+W WINDSOR CIR                                               1140011400
+WADE AVE                                                    1140111401
+WAFFLE CT                                                   1140111401
+WAGON TRL                                                   1140011400
+WAKEFIELD ST                                                1140011400
+WAL MART                                                    1140111401
+WALDEN RD                                                   1140111401
+WALKER CT                                                   1140111401
+WALKERHURST WAY                                             1140111401
+WALKING STICK TRAIL CT                                      1140111401
+WALL ST                                                     1140111401
+WALLACE CT                                                  1140111401
+WALMART ACCESS                                              1140111401
+WALMART ACCESS RD                                           1140111401
+WALNUT CREEK CT                                             1140011400
+WALNUT CREEK DR                                             1140011400
+WALNUT GROVE                                                1140011400
+WALNUT GROVE CT                                             1140011400
+WALNUT LN                                                   1140011400
+WALNUT RIDGE WAY                                            1140011400
+WALNUT ST                                                   1140111401
+WALNUT ST                                                   1140411404
+WALNUT WAY                                                  1140011400
+WALNUT WAY                                                  1140111401
+WALTERS AVE                                                 1140011400
+WALTON AVE                                                  1140111401
+WALTRIP AVE                                                 1140011400
+WALTRIP CT                                                  1140011400
+WAND CEMETERY RD                                            1140011400
+WARREN CENTRAL AVE                                          1140111401
+WARREN WAY                                                  1140111401
+WASHINGTON AVE                                              1140111401
+WATER MILL AVE                                              1140011400
+WATERCREST ST                                               1140011400
+WATERFORD CT                                                1140111401
+WATERFORD DR                                                1140111401
+WAYNE ST                                                    1140311403
+WAYNE WATT RD                                               1140011400
+WEBB AVE                                                    1140311403
+WEBB DR                                                     1140111401
+WEDGEWOOD CIR                                               1140111401
+WEIS CT                                                     1140111401
+WELLINGTON WAY                                              1140111401
+WENONA AVE                                                  1140111401
+WESLEY WAY                                                  1140011400
+WEST BOGLE RD                                               1140011400
+WEST OAK GROVE CHURCH RD                                    1140011400
+WEST PROMENADE                                              1140111401
+WESTBROOK RD                                                1140011400
+WESTEN ST                                                   1140111401
+WESTERN GREEN AVE                                           1140111401
+WESTERN KENTUCKY UNIVERSITY                                 1140111401
+WESTGATE DR                                                 1140011400
+WESTGATE DRIVE CON                                          1140011400
+WESTMEADE DR                                                1140111401
+WESTWOOD AVE                                                1140011400
+WESTWOOD CIR                                                1140111401
+WESTWOOD CT                                                 1140011400
+WHALEN RD                                                   1140011400
+WHEATSTONE AVE                                              1140011400
+WHEEL MHP ACCESS                                            1140111401
+WHEELER DR                                                  1140111401
+WHIPPOORWILL TRL                                            1140011400
+WHIRLAWAY CT                                                1140011400
+WHISPERING HILLS BLVD                                       1140111401
+WHISPERWOOD CT                                              1140111401
+WHITE AVE                                                   1140011400
+WHITE CT                                                    1140111401
+WHITE DOGWOOD DR                                            1140111401
+WHITE OAK CT                                                1140111401
+WHITE PINE CT                                               1140111401
+WHITE STONE QUARRY RD                                       1140011400
+WHITEBEAM CT                                                1140011400
+WHITECOTTEN DR                                              1140111401
+WHITES CHAPEL RD                                            1140011400
+WHITEWOOD CT                                                1140011400
+WHITLOCK RD                                                 1140011400
+WICKLAND CT                                                 1140111401
+WICKLIFFE LN                                                1140011400
+WILD HORSE CT                                               1140011400
+WILDERNESS TRACE DR                                         1140111401
+WILKINSON TRCE                                              1140111401
+WILL BOHANNON RD                                            1140011400
+WILLAMETTE LN                                               1140111401
+WILLIAM BUSH RD                                             1140011400
+WILLIAM SIMMONS RD                                          1140011400
+WILLIAM WALLACE WAY                                         1140011400
+WILLIAMS AVE                                                1140111401
+WILLIAMS CT                                                 1140111401
+WILLIAMS GATE PL                                            1141011410
+WILLIAMS ST                                                 1141011410
+WILLIE STARKS RD                                            1140011400
+WILLIS RD                                                   1140011400
+WILLOUGHBY LN                                               1140011400
+WILLOW BEND CIR                                             1140011400
+WILLOW BEND CT                                              1140011400
+WILLOW CREEK APARTMENT NO1 RD                               1140111401
+WILLOW CREEK APARTMENT RD                                   1140111401
+WILLOW OAK DR                                               1140011400
+WILLOW WAY                                                  1140111401
+WILLS RD                                                    1140011400
+WILMINGTON CT                                               1140111401
+WILSON RD                                                   1140011400
+WILSON ST                                                   1140111401
+WILTSHIRE ST                                                1140111401
+WIMPEE SMITH RD                                             1140011400
+WIND RIDGE AVE                                              1140111401
+WINDCREST CT                                                1140011400
+WINDHAVEN DR                                                1140011400
+WINDLAND WAY                                                1140011400
+WINDMERE CT                                                 1140011400
+WINDMERE DR                                                 1140011400
+WINDMILL CIR                                                1140111401
+WINDOVER AVE                                                1140111401
+WINDROW CT                                                  1140011400
+WINDROW DR                                                  1140011400
+WINDSOR WAY                                                 1140111401
+WINDSWEPT AVE                                               1140111401
+WINFIELD DR                                                 1140111401
+WINNERS CIR                                                 1140111401
+WINSTON RD                                                  1140011400
+WINSTON WAY                                                 1140011400
+WINTERCRESS CT                                              1140011400
+WINTERCRESS LN                                              1140011400
+WINTERGREEN CT                                              1140011400
+WINTERSTONE WAY                                             1140011400
+WISTERIA WAY                                                1140011400
+WITHERSPOON ST                                              1140311403
+WITT RD                                                     1140011400
+WKU FARM ACCESS RD                                          1140111401
+WN9007 N                                                    1140011400
+WN9007 N                                                    1140111401
+WN9007 N EXIT4 CROSSOVER US31W                              1140111401
+WN9007 N EXIT4 OFF RAMP TO US31W                            1140111401
+WN9007 N EXIT4 OFF RAMP TO US31W N                          1140111401
+WN9007 N EXIT4 OFF RAMP TO US31W S                          1140111401
+WN9007 N EXIT4 ON RAMP FROM US31W                           1140111401
+WN9007 N EXIT4 ON RAMP FROM US31W N                         1140111401
+WN9007 N EXIT4 ON RAMP FROM US31W S                         1140111401
+WN9007 N EXIT5 CROSSOVER US68                               1140111401
+WN9007 N EXIT5 OFF RAMP TO US68                             1140111401
+WN9007 N EXIT5 OFF RAMP TO US68 E                           1140111401
+WN9007 N EXIT5 OFF RAMP TO US68 W                           1140111401
+WN9007 N EXIT5 ON RAMP FROM US68                            1140111401
+WN9007 N EXIT5 ON RAMP FROM US68 E                          1140111401
+WN9007 N EXIT5 ON RAMP FROM US68 W                          1140111401
+WN9007 N EXIT7 CROSSOVER US231                              1140011400
+WN9007 N EXIT7 CROSSOVER US231 N                            1140011400
+WN9007 N EXIT7 OFF RAMP TO US231                            1140011400
+WN9007 N EXIT7 ON RAMP FROM US231                           1140011400
+WN9007 N EXIT7 ON RAMP FROM US231 N                         1140011400
+WN9007 N EXIT7 ON RAMP FROM US231 S                         1140011400
+WN9007 S                                                    1140011400
+WN9007 S                                                    1140111401
+WN9007 S EXIT4 CROSSOVER US31W                              1140111401
+WN9007 S EXIT4 OFF RAMP TO US31W                            1140111401
+WN9007 S EXIT4 OFF RAMP TO US31W N                          1140111401
+WN9007 S EXIT4 OFF RAMP TO US31W S                          1140111401
+WN9007 S EXIT4 ON RAMP FROM US31W                           1140111401
+WN9007 S EXIT4 ON RAMP FROM US31W N                         1140111401
+WN9007 S EXIT4 ON RAMP FROM US31W S                         1140111401
+WN9007 S EXIT5 CROSSOVER US68                               1140111401
+WN9007 S EXIT5 OFF RAMP TO US68                             1140111401
+WN9007 S EXIT5 ON RAMP FROM US68                            1140011400
+WN9007 S EXIT5 ON RAMP FROM US68                            1140111401
+WN9007 S EXIT5 ON RAMP FROM US68 E                          1140111401
+WN9007 S EXIT7 CROSSOVER US231                              1140011400
+WN9007 S EXIT7 CROSSOVER US231 S                            1140011400
+WN9007 S EXIT7 OFF RAMP TO US231                            1140011400
+WN9007 S EXIT7 ON RAMP FROM US231                           1140011400
+WN9007 S EXIT7 ON RAMP FROM US231 N                         1140011400
+WN9007 S EXIT7 ON RAMP FROM US231 S                         1140011400
+WOOD DR                                                     1140111401
+WOODBRIDGE CT                                               1140011400
+WOODBRIDGE LN                                               1140011400
+WOODBURN ALLEN SPRINGS RD                                   1140011400
+WOODBURN ALLEN SPRINGS RD                                   1140411404
+WOODBURN CHURCH RD                                          1140011400
+WOODFORD AVE                                                1140111401
+WOODHOLLOW WAY                                              1140011400
+WOODHURST ST                                                1140111401
+WOODLAND AVE                                                1140111401
+WOODLAND MHP ACCESS RD                                      1140011400
+WOODMONT AVE                                                1140111401
+WOODS EDGE APARTMENTS NO1                                   1140111401
+WOODS EDGE APARTMENTS NO2                                   1140111401
+WOODS EDGE APARTMENTS NO3                                   1140111401
+WOODS END COVE CT                                           1140111401
+WOODSTONE DR                                                1140011400
+WOODWAY ST                                                  1140111401
+WOODY ATKINSON RD                                           1140011400
+WORTH WAY                                                   1140111401
+WREN DR                                                     1140011400
+WREN RD                                                     1140011400
+WRENWOOD DR                                                 1140011400
+WRIGHT AVE                                                  1140111401
+WYATT DR                                                    1140011400
+WYNDHAM WAY                                                 1140011400
+YALE AVE                                                    1140111401
+YEARLING AVE                                                1140011400
+YELLOWSTONE CT                                              1140011400
+YELLOWWOOD CT                                               1140011400
+YOUNG ST                                                    1141011410
+YOUNGS FERRY RD                                             1140011400
+YUKON CT                                                    1140011400
+YUMA CIR                                                    1140111401
+YUMA DR                                                     1140111401

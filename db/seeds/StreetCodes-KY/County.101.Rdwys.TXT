@@ -1,0 +1,121 @@
+ABIGAIL RD                                                  1010010100
+ADKINS RD                                                   1010010100
+ALHAMBRA RD                                                 1010010100
+ASHCRAFT RD                                                 1010010100
+ASHCRAFT SPUR NO1                                           1010010100
+ASHCRAFT SPUR NO2                                           1010010100
+BATTE LN                                                    1010010100
+BEE LICK LN                                                 1010010100
+BEE LICK RD                                                 1010010100
+BENTLEY CT                                                  1010110101
+BLUE LICK PIKE                                              1010010100
+BLUE LICK RD                                                1010010100
+BRIDGEVILLE RD                                              1010010100
+BRIERLY RIDGE RD                                            1010010100
+BROKEN BONE RD                                              1010010100
+BUFFALO TRL                                                 1010010100
+BURNS RD                                                    1010010100
+CEDAR CREEK RD                                              1010010100
+CENTRAL RIDGE RD                                            1010010100
+CHAPEL RD                                                   1010010100
+CHURCH DR                                                   1010010100
+CLEAVER RD                                                  1010010100
+CONLEY DR                                                   1010010100
+COOPER DR                                                   1010010100
+COTTAGE LN                                                  1010010100
+COUNTY LINE RD                                              1010010100
+COURT ST                                                    1010110101
+COVERED BRIDGE RD                                           1010010100
+COYE RD                                                     0120010100
+CRESCENT DR                                                 1010110101
+CRESCENT HILL DR                                            1010110101
+CROCKETT LN                                                 1010010100
+DAY RD                                                      1010010100
+DIVIDING RIDGE RD                                           1010010100
+DRIFT RUN RD                                                1010010100
+DUNCAN RD                                                   1010010100
+E WALNUT ST                                                 1010110101
+EARLYWINE RD                                                1010010100
+ELDA HESTER RD                                              1010010100
+FIVE LICK RD                                                1010010100
+FRENCH LN                                                   1010010100
+GAYLE GORGE RD                                              1010010100
+GAYLE GORGE SPUR                                            1010010100
+GRAVES RD                                                   1010010100
+HALL LN                                                     1010010100
+HANSON CHANDLER RD                                          1010010100
+HARDING RD                                                  1010010100
+HENSON RIDGE RD                                             1010010100
+HIEATT BOTTOM RD                                            1010010100
+HILLTOP RIDGE                                               1010010100
+HOOVERS LN                                                  1010010100
+INSKO RD                                                    1010010100
+JACKSON BRANCH RD                                           1010010100
+JIMIE ELLIS RD                                              1010010100
+JOHN ENGLAND RD                                             1010010100
+JOHNSON CREEK MT PLEASANT RD                                1010010100
+JONES RD                                                    1010010100
+KABLERS MILL RD                                             1010010100
+KENTONTOWN RD                                               1010010100
+LINVILLE LN                                                 1010010100
+LOCUST POINTE RD                                            1010010100
+LODGE AVE                                                   1010010100
+LODGE PARKING LOT                                           1010010100
+LODGE RD                                                    1010010100
+LOUDERBACK LN                                               1010010100
+LOVINS LN                                                   1010010100
+MAIN PARK RD                                                1010010100
+MANN RD                                                     1010010100
+MANN SPUR                                                   1010010100
+MCCONNELL RD                                                1010010100
+MCDOWELL ST                                                 1010110101
+MT PLEASANT RD                                              1010010100
+MULLIKAN LN                                                 1010010100
+MUSEUM AVE                                                  1010010100
+N MAIN ST                                                   1010110101
+NEW DIVIDING RIDGE RD                                       1010010100
+NEW HIEATT BOTTOM RD                                        1010010100
+OAK RIDGE RD                                                1010010100
+OAKLAND RD                                                  1010010100
+OAKLAND RD                                                  1010110101
+OGDEN RIDGE RD                                              1010010100
+OLD BUFFALO TRL                                             1010010100
+OLD CORINTH RD                                              1010010100
+OLD GERMANTOWN RD                                           1010010100
+OLD GERMANTOWN SPUR                                         1010010100
+OLD HWY 165                                                 1010010100
+OLD KY 1029                                                 1010010100
+OLD PINHOOK RD                                              1010010100
+PEA RIDGE RD                                                1010010100
+PEN GROVE AVE                                               1010110101
+PINHOOK RD                                                  1010010100
+PIQUA KENTONTOWN RD                                         1010010100
+PIQUA LN                                                    1010010100
+PIQUA SCHOOL DR                                             1010010100
+PLEASANT VALLEY RD                                          1010010100
+POOL RD                                                     1010010100
+REED LN                                                     1010010100
+RIVER RD                                                    1010010100
+ROBERTSON SQ                                                1010110101
+ROSSER RD                                                   1010010100
+RYE RD                                                      1010010100
+S MAIN ST                                                   1010010100
+S MAIN ST                                                   1010110101
+SARDIS RD                                                   1010010100
+SCHWARTZ RD                                                 1010010100
+SHEPHERD RD                                                 1010010100
+SHEPHERD RIDGE RD                                           1010010100
+SHEPHERD SPUR                                               1010010100
+SIMS RD                                                     1010010100
+SMITH RD                                                    1010010100
+THOMAS PIKE                                                 1010010100
+TILTON LN                                                   1010010100
+US62                                                        1010010100
+US68                                                        1010010100
+W WALNUT ST                                                 1010110101
+WARD RIDGE RD                                               1010010100
+WATERWORKS RD                                               1010010100
+WEST END AVE                                                1010010100
+WHITE RD                                                    1010010100
+WILLIE CURTIS RD                                            1010010100
+WOLF RUN RD                                                 1010010100

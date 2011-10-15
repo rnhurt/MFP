@@ -1,0 +1,517 @@
+1ST CAMPGROUND RD                                           0520005200
+1ST EMINENCE CEMETERY RD                                    0520005200
+1ST PICNIC AREA RD                                          0520005200
+1ST ST                                                      0520405204
+1ST SULPHUR CEMETERY RD                                     0520005200
+2ND CAMPGROUND RD                                           0520005200
+2ND EMINENCE CEMETERY RD                                    0520005200
+2ND PICNIC AREA RD                                          0520005200
+2ND ST                                                      0520005200
+2ND ST                                                      0520405204
+2ND SULPHUR CEMETERY RD                                     0520005200
+3RD CAMPGROUND RD                                           0520005200
+3RD EMINENCE CEMETERY RD                                    0520005200
+3RD PICINIC AREA RD                                         0520005200
+4TH EMINENCE CEMETERY RD                                    0520005200
+5TH EMINENCE CEMETERY RD                                    0520005200
+6TH EMINENCE CEMETERY RD                                    0520005200
+7TH EMINENCE CEMETERY RD                                    0520005200
+8TH EMINENCE CEMETERY RD                                    0520005200
+9TH EMINENCE CEMETERY RD                                    0520005200
+ADAMS ST                                                    0520105201
+ADCOCK ST                                                   0520105201
+ALBERT MOORE RD                                             0520005200
+ALEXANDER ST                                                0520305203
+ALLAN ST                                                    0520105201
+ALLYSON LN                                                  0520005200
+ANDERSON DR                                                 0520005200
+APACHE CIR                                                  0520205202
+ARNOLD LN                                                   0520005200
+ASHFORK RD                                                  0520005200
+ASPEN CT                                                    0520205202
+ATLAS LN                                                    0520005200
+BAILEY LN                                                   0520005200
+BALLARDSVILLE RD                                            0520005200
+BALLARDSVILLE RD                                            0520205202
+BANTAS FORK RD                                              0520005200
+BARNETT LN                                                  0520005200
+BART SMITH RD                                               0520005200
+BARTLETT LN                                                 0520005200
+BARTON LN                                                   0520005200
+BATES LN                                                    0520005200
+BATTS LN                                                    0520005200
+BAUGH LN                                                    0520005200
+BEASLEY LN                                                  0520005200
+BEDFORD RD                                                  0520005200
+BEECH TREE DR                                               0520005200
+BELL AVE                                                    0520205202
+BELL AVE                                                    0520405204
+BELMONT PARK DR                                             0520005200
+BERRY ST                                                    0520105201
+BETHLEHEM RD                                                0520005200
+BETTY LOU ST                                                0520305203
+BIBB ST                                                     0520005200
+BIBB ST                                                     0520305203
+BISHOPS LN                                                  0520005200
+BLACK LN                                                    0520005200
+BLACKABY LN                                                 0520205202
+BLAKEMORE LN                                                0520005200
+BOHANNON ST                                                 0520305203
+BOLIN BRANCH RD                                             0520005200
+BOYER LN                                                    0520005200
+BRANDITOWN RD                                               0520005200
+BRAWNER LN                                                  0520005200
+BREEDERS CUP CT                                             0520005200
+BROKO LN                                                    0520005200
+BROUGHTON LN                                                0520005200
+BROWNING AVE                                                0520205202
+BROWNING LN                                                 0520205202
+BROWNS LN                                                   0520005200
+BROWNSBORO RD                                               0520005200
+BROWNSBORO RD                                               1120005200
+BUCKEYE LN                                                  0520005200
+BULLITT HILL RD                                             0520005200
+BUSH LN                                                     0520005200
+BYERS RD                                                    0520005200
+C HARRISON ST                                               0520105201
+CABLE LN                                                    0520005200
+CALLIS GROVE                                                0520005200
+CAMPBELLSBURG RD                                            0520005200
+CAMPBELLSBURG RD                                            0520405204
+CANDY RD                                                    0520005200
+CANE RUN RD                                                 0520005200
+CANON CT                                                    0520205202
+CARDINAL DR                                                 0520105201
+CARDINAL DR                                                 0520405204
+CARMON CREEK RD                                             0520005200
+CARPENTER LN                                                0520005200
+CARROLL ANN AVE                                             0520305203
+CARROLL AVE                                                 0520205202
+CARROLLTON RD                                               0520005200
+CARTER RD                                                   0520005200
+CARTERS ST                                                  0520105201
+CASEY LN                                                    0520005200
+CASTLE HWY                                                  0520005200
+CASTLE HWY                                                  0520305203
+CEDAR RUN RD                                                0520005200
+CEDAR ST                                                    0520005200
+CEDARMORE RD                                                0520005200
+CEMETERY HILL RD                                            0520005200
+CEMETERY RD                                                 0520005200
+CENTER ST                                                   0520105201
+CHEROKEE LN                                                 0520205202
+CHERRY CT                                                   0520005200
+CHERRY LN                                                   0520005200
+CHESTNUT ST                                                 0520005200
+CHILTON CT                                                  0520405204
+CHILTON LN                                                  0520005200
+CHRISTOPHER LN                                              0520105201
+CHURCH ST                                                   0520005200
+CHURCH ST                                                   0520105201
+CIRCLE DR                                                   0520205202
+CITATION LN                                                 0520405204
+CLEAR CREEK RD                                              0520005200
+CLEMENTS BOTTOM RD                                          0520005200
+CLIFFORD LN                                                 0520005200
+COACHMANS LN                                                0520205202
+COAKLEY LN                                                  0520005200
+COBB RD                                                     0520005200
+COLLEGE CT                                                  0520405204
+COLLEGE ST                                                  0520105201
+COURT ST                                                    0520105201
+CRABB ACRES DR                                              0520005200
+CRABB AVE                                                   0520205202
+CROSS BOW LN                                                0520005200
+CUBBAGE ST                                                  0520305203
+CURT MCCARTY RD                                             0520005200
+DANNY LN                                                    0520405204
+DARLENE CT                                                  0520405204
+DARLENE ST                                                  0520205202
+DAVID DR                                                    0520005200
+DAVIDSON RD                                                 0520005200
+DAWKINS LN                                                  0520005200
+DEFOE RD                                                    0520005200
+DENNER LN                                                   0520005200
+DEPOT AVE                                                   0520205202
+DITTO LN                                                    0520005200
+DIXIE HWY                                                   0520005200
+DIXON LN                                                    0520005200
+DOBNER WAY                                                  0520205202
+DOGWOOD CIR                                                 0520205202
+DOGWOOD LN                                                  0520205202
+DRENNON RD                                                  0520005200
+DRENNON ST                                                  0520305203
+DUNCAN DR                                                   0520005200
+DURRETT LN                                                  0520005200
+DUTTONS ST                                                  0520105201
+E BROADWAY                                                  0520205202
+E CEDAR ST                                                  0520105201
+E CROSS MAIN                                                0520105201
+EDDIE RD                                                    0520005200
+ELM ST                                                      0520005200
+ELM ST                                                      0520205202
+ELM TREE PL                                                 0520205202
+EMINENCE RD                                                 0520005200
+EMINENCE RD                                                 0520205202
+EMINENCE TER                                                0520205202
+ESTES RD                                                    0520005200
+ETHINGTON LN                                                0520005200
+EVELYN RIDGE RD                                             0520005200
+FAIRVIEW CT                                                 0520205202
+FAIRVIEW ST                                                 0520305203
+FALLEN DR                                                   0520205202
+FALLEN TIMBER RD                                            0520005200
+FALLIS GEST RD                                              0520005200
+FALLIS ST                                                   0520305203
+FAWN LN                                                     0520005200
+FERNCASTLE RD RD                                            0520005200
+FEWELL RD                                                   0520005200
+FISCHER LN                                                  0520005200
+FISHERMANS VW                                               0520005200
+FLAT CREEK RD                                               0520005200
+FLAT ROCK RD                                                0520005200
+FLOOD CT                                                    0520005200
+FORDS LN                                                    0520005200
+FORREST DR                                                  0520005200
+FOX CREEK RD                                                0520005200
+FOX RUN CT                                                  0520005200
+FOX RUN RD                                                  0520005200
+FOXBORO RD                                                  0520005200
+FOXTAIL RIDGE RD                                            0520005200
+FRANCIS LN                                                  0520205202
+FRANKLIN AVE                                                0520405204
+FRANKLIN RD                                                 0520005200
+FRANKLIN ST                                                 0520205202
+FRANKLINTON BAPTIST CHURCH RD                               0520005200
+FRANKLINTON CEMETERY RD                                     0520005200
+FRANKLINTON LOOP                                            0520005200
+FRANKLINTON RD                                              0520005200
+FRONT ST                                                    0520005200
+FRONTAGE RD                                                 0520005200
+GALBRAITH RD                                                0520005200
+GARDEN CIR                                                  0520005200
+GARRETT RD                                                  0520005200
+GEORGE MASON DR                                             0520105201
+GEST RD                                                     0520005200
+GESTVILLE CIR                                               0520005200
+GILTNER RD                                                  0520005200
+GILTNER RD                                                  0520905209
+GOBBLERS RUN RD                                             0520005200
+GOODLETT CIR                                                0520905209
+GORDON ST                                                   0520305203
+GRAVEL LN                                                   0520305203
+GRAVES CT                                                   0520005200
+GRAVES DR                                                   0520005200
+GREERTOWN RD                                                0520005200
+GULLION BRANCH RD                                           0520005200
+GUN CLUB AND RESORT                                         0520005200
+HANLON CT                                                   0520005200
+HAPPY RIDGE RD                                              0520005200
+HAPPY RIDGE SPUR                                            0520005200
+HARDIN LN                                                   0520005200
+HARP RD                                                     0520005200
+HARPERS FERRY RD                                            0520005200
+HARRIS AVE                                                  0520005200
+HARVEST DR                                                  0520205202
+HASFURDER LN                                                0520205202
+HENRY ST                                                    0520205202
+HENSLEY RD                                                  0520005200
+HERNDON LN                                                  0520005200
+HERON CREEK RD                                              0520005200
+HICKORY CORNER RD                                           0520005200
+HICKORY HILL RD                                             0520005200
+HICKORY LN                                                  0520005200
+HIEATT LN                                                   0520005200
+HIGHLAND DR                                                 0520405204
+HILL ST                                                     0520005200
+HILL ST                                                     0520105201
+HILLCREST DR                                                0520205202
+HILLHAVEN RD                                                0520005200
+HILLSBORO RD                                                0520005200
+HILLSPRING RD                                               0520005200
+HILLSPRING RD                                               0520305203
+HOBART DR                                                   0520405204
+HOLLOW TREE RD                                              0520005200
+HOLLY LN                                                    0520005200
+HOLY WATER RD                                               0520005200
+HUD ST                                                      0520205202
+HUDSON LN                                                   0520005200
+HUNDRED ACRE LN                                             0520005200
+HUNTERS RIDGE DR                                            0520205202
+I71 N                                                       0520005200
+I71 N                                                       0520405204
+I71 N EXIT28 OFF RAMP TO KY153                              0520005200
+I71 N EXIT28 ON RAMP FROM KY153                             0520005200
+I71 N EXIT34 OFF RAMP TO US421                              0520405204
+I71 N EXIT34 ON RAMP FROM US421                             0520405204
+I71 N WEIGH STATION35                                       0520005200
+I71 S                                                       0520005200
+I71 S                                                       0520405204
+I71 S EXIT28 OFF RAMP TO KY153                              0520005200
+I71 S EXIT28 ON RAMP FROM KY153                             0520005200
+I71 S EXIT34 OFF RAMP TO US421                              0520405204
+I71 S EXIT34 ON RAMP FROM US421                             0520005200
+I71 S EXIT34 ON RAMP FROM US421                             0520405204
+IRWIN LN                                                    0520005200
+JACKSON RD                                                  0520005200
+JACKSON RD                                                  0520205202
+JAEGER LN                                                   0520005200
+JAMES RIDGE RD                                              0520005200
+JENNIFER LN                                                 0520205202
+JERICHO RIDGE CT                                            0520005200
+JERICHO RIDGE RD                                            0520005200
+JIM DOYLE RD                                                0520205202
+JOES BRANCH RD                                              0520005200
+JONES RD                                                    0520005200
+KAVANAUGH LN                                                0520005200
+KEPHART LN                                                  0520005200
+LACIE RD                                                    0520005200
+LAGRANGE RD                                                 0520005200
+LAKE ACCESS RD                                              0520005200
+LAKE JERICHO RD                                             0520005200
+LAKE RD                                                     0520005200
+LAKEVIEW CIR                                                0520405204
+LAKEWOOD DR                                                 0520005200
+LEA VIEW AVE                                                0520005200
+LEAD MINE RD                                                0520005200
+LECOMPTE BOTTOM RD                                          0520005200
+LESPRIT FARM CIR                                            0520005200
+LESPRIT FARM RD                                             0520005200
+LESPRIT FARM TRL                                            0520005200
+LESPRIT PARKWAY                                             0520005200
+LESPRIT PKWY                                                0520005200
+LEWIS AVE                                                   0520905209
+LOCK NO2 RAMP                                               0520005200
+LOCKPORT FALLIS RD                                          0520005200
+LOCUST LN                                                   0520005200
+LONE OAK DR                                                 0520205202
+LONG BRANCH FORK RD                                         0520005200
+LOST CREEK DR                                               0520005200
+LOU AVE                                                     0520205202
+LYONS SAW MILL RD                                           0520005200
+MADDOX RIDGE RD                                             0520005200
+MAGNOLIA CT                                                 0520005200
+MAIN ST                                                     0520305203
+MAIN ST                                                     0520405204
+MAIN ST                                                     0520905209
+MANOR DR                                                    0520005200
+MAPLE AVE                                                   0520205202
+MAPLE LN                                                    0520005200
+MAPLE RD                                                    0520005200
+MAPLE ST                                                    0520405204
+MARCEE LN                                                   0520005200
+MARCUS ST                                                   0520005200
+MARCUS ST                                                   0520305203
+MARION LN                                                   0520005200
+MARSHALLS BOTTOM RD                                         0520005200
+MASON AVE                                                   0520205202
+MASONIC CEMETERY NO1 RD                                     0520405204
+MASONIC CEMETERY NO2 RD                                     0520405204
+MASONIC CEMETERY NO3 RD                                     0520405204
+MCCARTY LN                                                  0520005200
+MCCOUN RD                                                   0520005200
+MCELROY ST                                                  0520205202
+MCMANNIS RD                                                 0520005200
+MELODYE LN                                                  0520405204
+MERRIWEATHER AVE                                            0520205202
+MICHAEL RAY ST                                              0520205202
+MICHELE CT                                                  0520405204
+MILL CREEK RD                                               0520005200
+MILL ST                                                     0520305203
+MILL ST                                                     0520905209
+MOCKINGBIRD RD                                              0520105201
+MONROE LN                                                   0520405204
+MONTFORT LN                                                 0520005200
+MOODY DR                                                    0520205202
+MORRIS LN                                                   0520005200
+MT GILEAD RD                                                0520005200
+MT OLIVET RD                                                0520005200
+MULBERRY PIKE                                               0520005200
+MULBERRY PIKE                                               0520205202
+MYRTLE AVE                                                  0520205202
+N KING ST                                                   0520205202
+N MAIN ST                                                   0520005200
+N MAIN ST                                                   0520105201
+N MAIN ST                                                   0520205202
+N PENN AVE                                                  0520205202
+N PROPERTY RD                                               0520105201
+NANCYE LN                                                   0520305203
+NEW CASTLE CEMETERY NO1 RD                                  0520005200
+NEW CASTLE CEMETERY NO2 RD                                  0520005200
+NEW CASTLE CEMETERY NO3 RD                                  0520005200
+NEW CASTLE CEMETERY NO4 RD                                  0520005200
+NEW CASTLE CEMETERY NO5 RD                                  0520005200
+NEW CASTLE CEMETERY NO6 RD                                  0520005200
+NEW CASTLE CEMETERY NO7 RD                                  0520005200
+NEW CASTLE CT                                               0520105201
+NEW CASTLE LN                                               0520105201
+NEW CASTLE PL                                               0520105201
+NEW CUT RD                                                  0520005200
+NEW ST                                                      0520105201
+OAK DR                                                      0520205202
+OAKWOOD CIR                                                 0520005200
+OLD CARMON RD                                               0520005200
+OLD HICKORY RD                                              0520005200
+OLD JERICHO RD                                              0520005200
+OLD KY 22                                                   0520005200
+OLD US 42 LOOP                                              0520005200
+OLDHAM ST                                                   0520205202
+OREM RD                                                     0520005200
+OSAGE CT                                                    0520105201
+OSAGE DR                                                    0520105201
+OSBORNE DR                                                  0520005200
+OVERLOOK TER                                                0520105201
+P C LN                                                      0520005200
+PATRICKS LN                                                 0520005200
+PAUL NORA DR                                                0520005200
+PAYTON RD                                                   0520005200
+PENDLETON LOOP                                              0520005200
+PENDLETON RD                                                0520005200
+PENN CT                                                     0520005200
+PENNY WINKLE RD                                             0520005200
+PHILLIP AVE                                                 0520405204
+PHILLIPS LN                                                 0520005200
+PIMILICO RDG                                                0520005200
+PIMLICO RIDGE                                               0520005200
+PLANTSIDE DR                                                0520205202
+PLEASUREVILLE RESCUE DEPT NO1                               0520305203
+PLEASUREVILLE RESCUE DEPT NO2                               0520305203
+PLUM ST                                                     0520005200
+POINT PLEASANT CEMETERY RD                                  0520005200
+POINT PLEASANT CEMETERY ROAD CONNECTOR                      0520005200
+POINT PLEASANT RD                                           0520005200
+POLLITT CIR                                                 0520005200
+POPLAR BRANCH                                               0520205202
+PORT ROYAL RD                                               0520005200
+POST OFFICE ST                                              0520005200
+POT RIDGE RD                                                0520005200
+POWELL RD                                                   0520005200
+PRICE RD                                                    0520005200
+PRICE WAY                                                   0520405204
+PUCKETT LN                                                  0520005200
+QUAIL HOLLOW RD                                             0520205202
+QUICKERT LN                                                 0520005200
+RADCLIFF RD                                                 0520005200
+RAILROAD ST                                                 0520905209
+RAINTREE DR                                                 0520205202
+RAISOR LN                                                   0520005200
+RANDELL DR                                                  0520405204
+RANSDELL RD                                                 0520005200
+RESERVOIR RD                                                0520005200
+RIVER RD                                                    0520005200
+ROBBIE LN                                                   0520005200
+ROBERTS ST                                                  0520305203
+ROSEHILL LN                                                 0520005200
+RUCKER LN                                                   0520005200
+RUSSELL BRANCH RD                                           0520005200
+RUSSELL LN                                                  0520005200
+S KING ST                                                   0520205202
+S MAIN ST                                                   0520105201
+S MAIN ST                                                   0520205202
+S PENN AVE                                                  0520205202
+SAFETY KLEEN RECYCLING DR                                   0520005200
+SALT CREEK RD                                               0520005200
+SAND SPRINGS RD                                             0520005200
+SAVANNAH DR                                                 0520005200
+SCOBIE LN                                                   0520005200
+SEWELL RD                                                   0520005200
+SHADOWBROOK DR                                              0520005200
+SHADYVIEW DR                                                0520205202
+SHAWNEE INDUSTRIAL RD                                       0520205202
+SHELBY ST                                                   0520205202
+SHORT ST                                                    0520205202
+SHUCKS LN                                                   0520305203
+SILVERVIEW CT                                               0520005200
+SILVERVIEW RD                                               0520005200
+SIX MILE CREEK RD                                           0520005200
+SKIDMORE LN                                                 0520005200
+SMITHFIELD CEMETERY NO1 RD                                  0520905209
+SMITHFIELD CEMETERY NO2 RD                                  0520905209
+SMITHFIELD CEMETERY NO3 RD                                  0520005200
+SMITHFIELD CEMETERY NO3 RD                                  0520905209
+SMITHFIELD CEMETERY NO4 RD                                  0520005200
+SMITHFIELD RD                                               0520005200
+SMITHFIELD RD                                               0520905209
+SORRELL RD                                                  0520005200
+SOUTH PROPERTY RD                                           0520005200
+SOUTH PROPERTY RD                                           0520105201
+SPANN LN                                                    0520005200
+SPARROW LN                                                  0520005200
+SPRING OAK DR                                               0520205202
+SPRING ST                                                   0520105201
+SPRINGHILL ESTATE CIR                                       0520005200
+SPURS RAMP                                                  0520005200
+STANTON WAY                                                 0520005200
+STEPHENS ST                                                 0520105201
+STERLING CIR                                                0520005200
+STEVENS BRANCH RD                                           0520005200
+STONEBROOK CIR                                              0520005200
+STONEBROOK CT                                               0520005200
+STUCKERS LN                                                 0520005200
+SULPHUR AVE                                                 0520205202
+SULPHUR RD                                                  0520005200
+SULPHUR RD                                                  1120005200
+SUMMIT RD                                                   0520005200
+SUNNY MEADOWS LN                                            0520005200
+SUNNYSIDE AVE                                               0520205202
+SUNNYSIDE RD                                                0520005200
+SUNNYSIDE RD                                                0520905209
+SWEENEY LN                                                  0520005200
+SWITCHER HILL RD                                            0520005200
+SYCAMORE DR                                                 0520005200
+SYCAMORE DR                                                 0520205202
+TATUM RD                                                    0520005200
+TATUM ROAD SPUR                                             0520005200
+THOMAS RD                                                   0520005200
+THORNE HTS                                                  0520205202
+TINGLE AVE                                                  0520305203
+TOLLE CT                                                    0520205202
+TOMMY NELSON LN                                             0520005200
+TRACKSIDE DR                                                0520005200
+TRAVIS DR                                                   0520405204
+TROUTMAN HILL RD                                            0520005200
+TURKEY RUN RD                                               0520005200
+TURNERS STATION RD                                          0520005200
+TURNERS STATION SPUR                                        0520005200
+TWIN CIR                                                    0520105201
+TWO PENNY LN                                                0520005200
+UNCLE EDD ST                                                0520205202
+UNION CHURCH RD                                             0520005200
+UPPER BOLING BRANCH RD                                      0520005200
+VALENTINE CT                                                0520105201
+VALLEYVIEW DR                                               0520005200
+VANCE RD                                                    0520005200
+VERNON AVE                                                  0520205202
+VERNON ST                                                   0520205202
+W BROADWAY                                                  0520205202
+W CEDAR ST                                                  0520105201
+W CROSS MAIN                                                0520005200
+W CROSS MAIN                                                0520105201
+W DITTO LN                                                  0520005200
+W OWEN ST                                                   0520205202
+WALKER AVE                                                  0520005200
+WALLACE RD                                                  0520005200
+WALNUT DR                                                   0520005200
+WALNUT HILL CT                                              0520005200
+WALNUT HILL DR                                              0520005200
+WARRIOR PL                                                  0520205202
+WATER TOWER LN                                              0520005200
+WATKINS LN                                                  0520005200
+WEBB LN                                                     0520005200
+WEBBTOWN RD                                                 0520005200
+WHITAKER LN                                                 0520005200
+WHITELY LN                                                  0520005200
+WILLIAMS ST                                                 0520305203
+WILSON RD                                                   0520005200
+WOLF PEN WEST RD                                            0520005200
+WOLF WOODS CIR                                              0520005200
+WOLFPEN BRANCH RD                                           0520005200
+WOLFPEN RD                                                  0520005200
+WOODED HILLS CT                                             0520005200
+WOODED HILLS RD                                             0520005200
+WOODED HOLLOW LN                                            0520005200
+WOODED RIDGE RD                                             0520005200
+WOODS PIKE                                                  0520005200
+WOODSTOCK CIR                                               0520005200
+YATES LN                                                    0520005200
+ZELCOVA DR                                                  0520205202

@@ -1,0 +1,1184 @@
+A ANTLE RD                                                  1040010400
+A B ROY RD                                                  1040010400
+A BRYANT RD                                                 1040010400
+A G SMITH RD                                                1040010400
+A JONES RD                                                  1040010400
+A JONES SPUR                                                1040010400
+A MILLER RD                                                 1040010400
+A ROY RD                                                    1040010400
+A STAPP RD                                                  1040010400
+A WILSON RD                                                 1040010400
+AARON DR                                                    1040210402
+AARONS LN                                                   1040010400
+ACREE DR                                                    1040010400
+ADAMS ST                                                    1040110401
+AIRPORT DR                                                  1040010400
+AIRPORT RD                                                  1040010400
+AIRPORT RD                                                  1040110401
+AKERS LN                                                    1040010400
+ALEX RD                                                     1040010400
+ALEXANDER RD                                                1040210402
+ALLIGATOR CREEK RD                                          1040010400
+ALLIGATOR NO1 CABIN LN                                      1040010400
+AMY LN                                                      1040010400
+ANCHOR WAY                                                  1040010400
+ANDREW DR                                                   1040210402
+ANDREWS HOLLOW RD                                           1040010400
+ANDREWS LN                                                  1040010400
+ANTLE CEMETERY RD                                           1040010400
+ANTLE DR                                                    1040110401
+ANTLE LOY RD                                                1040010400
+ANTLE RD                                                    1040010400
+APACHE AVE                                                  1040210402
+APPLE LN                                                    1040010400
+ARLIS HALE LOOP                                             1040010400
+ARLIS HALE RD                                               1040010400
+ARMILOUS RD                                                 1040010400
+ARTHUR CT                                                   1040210402
+AUSTIN RD                                                   1040010400
+AUTUMN DR                                                   1040010400
+B A COFFEY RD                                               1040010400
+B CLARK RD                                                  1040010400
+B HUFF RD                                                   1040010400
+B JOHNSON RD                                                1040010400
+B MANN RD                                                   1040010400
+B STEPHENS RD                                               1040010400
+BACK CREEK RD                                               1040010400
+BALCONY BEND RD                                             1040010400
+BALDETT RD                                                  1040010400
+BALDETT RD                                                  1040210402
+BALLARD ST                                                  1040110401
+BALLINGER RD                                                1040010400
+BARNETT RD                                                  1040210402
+BASKET FACTORY RD                                           1040010400
+BASKET FACTORY RD                                           1040110401
+BATES LOOP                                                  1040010400
+BATES RD                                                    1040010400
+BEACON ST                                                   1040010400
+BEECH GROVE RD                                              1040010400
+BEECH LN                                                    1040010400
+BEECH RIDGE RD                                              1040010400
+BELLS LN                                                    1040010400
+BELLS RD                                                    1040010400
+BELLS RD                                                    1040110401
+BEN ROY RD                                                  1040010400
+BENNETT RD                                                  1040010400
+BERNARD FARM RD                                             1040010400
+BERNARD LN                                                  1040210402
+BERNARD LOOP RD                                             1040010400
+BERNARD RD                                                  1040010400
+BERNARD RIDGE                                               1040010400
+BERNARD RIDGE                                               1040210402
+BERNARD WAY                                                 1040010400
+BETHANY LN                                                  1040010400
+BETHEL CHURCH RD                                            1040010400
+BETHLEHEM CHURCH RD                                         1040010400
+BETTY MANN RD                                               1040010400
+BETTY SUE ST                                                1040010400
+BIG BASS LN                                                 1040010400
+BIG SPRINGS ESTATES NO3                                     1040010400
+BILLY BOLIN RD                                              1040010400
+BILLY STEPHENS RD                                           1040010400
+BIRDIE CT                                                   1040010400
+BLACK BERRY LN                                              1040010400
+BLACKFISH RD                                                1040010400
+BLACKFOOT DR                                                1040210402
+BLAIR CEMETERY RD                                           1040010400
+BLAIR HADLEY RD                                             1040010400
+BLAIR RD                                                    1040010400
+BLAIR SCHOOLHOUSE RD                                        1040010400
+BLAKEY RD                                                   1040010400
+BLANKENSHIP RD                                              1040010400
+BLANKENSHIP ROAD JAMESTOWN                                  1040010400
+BLANKENSHIP ROAD RUSSELL SPRINGS                            1040010400
+BLANKENSHIP ROAD RUSSELL SPRINGS                            1040210402
+BLANKENSHIP SPUR RD                                         1040010400
+BLEDSOE CREEK RD                                            1040010400
+BLUE BERRY LN                                               1040010400
+BLUE BERRY RD                                               1040010400
+BLUEBELL DR                                                 1040010400
+BLUEBIRD DR                                                 1040210402
+BOAT DOCK RD                                                1040010400
+BOAT DOCK RD                                                1040110401
+BOB HORTON RD                                               1040010400
+BOBBY FLANAGAN RD                                           1040010400
+BOLIN RD                                                    1040010400
+BOTTOMS RD                                                  1040010400
+BOTTOMS RD                                                  1040210402
+BOWMAN CHRISTIAN RD                                         1040010400
+BOWMER RD                                                   1040010400
+BRADY LN                                                    1040010400
+BRANCH VIEW CT                                              1040010400
+BRAXTON RD                                                  1040010400
+BRAXTON RD                                                  1040110401
+BREEDING RD                                                 1040010400
+BRIAR PATCH RD                                              1040010400
+BRITTANY LN                                                 1040010400
+BROCK RD                                                    1040010400
+BROWN RD                                                    1040010400
+BROWN RD                                                    1040110401
+BROWN RIDGE RD                                              1040010400
+BROWNING RD                                                 1040010400
+BUBBY FLANAGAN RD                                           1040010400
+BUCK TRAIL RD                                               1040010400
+BUCKLEY DR                                                  1040010400
+BUCKSHOT DR                                                 1040010400
+BUNCH RD                                                    1040010400
+BUNNY TRAIL RD                                              1040010400
+BURD RD                                                     1040210402
+BURKE DR                                                    1040010400
+BURTON RD                                                   1040010400
+BURTON SUBDIVISION RD                                       1040010400
+BUTCHER ESTATE RD                                           1040010400
+BUTLER RD                                                   1040010400
+BUTLER ST                                                   1040210402
+C AKERS RD                                                  1040010400
+C DABNEY RD                                                 1040010400
+C FOX RD                                                    1040010400
+C HADLEY RD                                                 1040010400
+C HILL RD                                                   1040010400
+C LAWLESS RD                                                1040010400
+C MANN RD                                                   1040010400
+C MCGOWAN RD                                                1040010400
+C MCKINLEY RD                                               1040110401
+C SIMPSON RD                                                1040010400
+C SMITH RD                                                  1040010400
+C W HALE RD                                                 1040010400
+C WESTON RD                                                 1040010400
+C WOOLDRIDGE RD                                             1040010400
+C ZIMMERMAN RD                                              1040010400
+CABIN CREEK RD                                              1040010400
+CABIN CREEK SPUR RD                                         1040010400
+CABIN DR                                                    1040010400
+CABIN FORK CREEK RD                                         1040010400
+CADDIE CT                                                   1040010400
+CADE RD                                                     1040210402
+CAMERON SNOW RD                                             1040010400
+CAMPBELL RD                                                 1040010400
+CAMPGROUND RD                                               1040210402
+CANEY DR                                                    1040010400
+CAPE CIRCLE RD                                              1040010400
+CAPE RD                                                     1040010400
+CAPTAINS CV                                                 1040010400
+CARDINAL LN                                                 1040010400
+CARDINAL LN                                                 1040110401
+CAREY RD                                                    1040010400
+CARL DR                                                     1040010400
+CARL PHELPS LN                                              1040010400
+CARLUS FOLEY RD                                             1040010400
+CARNES CEMETERY RD                                          1040010400
+CARNES DR                                                   1040010400
+CARNES LOOP RD                                              1040010400
+CAROL ST                                                    1040210402
+CASSIE COE RD                                               1040010400
+CASSIE COE RD                                               1040210402
+CASTLE HEIGHTS RD                                           1040010400
+CASTLE HEIGHTS RD                                           1040210402
+CATNIP LN                                                   1040010400
+CAVE SPRINGS RD                                             1040010400
+CEDAR BLUFF                                                 1040010400
+CEDAR HILL RD                                               1040010400
+CEMETERY LOOP                                               1040010400
+CEMETERY ST                                                 1040110401
+CHANDLER LN                                                 1040010400
+CHAPMAN RD                                                  1040010400
+CHELSIE LN                                                  1040010400
+CHEROKEE TRAIL RD                                           1040010400
+CHERRY LN                                                   1040110401
+CHERRY LOOP RD                                              1040010400
+CHESTNUT LN                                                 1040010400
+CHEYENNE AVE                                                1040210402
+CHRISTIAN LN                                                1040010400
+CHRISTOPHER DR                                              1040010400
+CHUMBLEY RD                                                 1040010400
+CIRCLE DR                                                   1040010400
+CIRCLE LN                                                   1040010400
+CIRCLE LOOP                                                 1040010400
+CLARA DR                                                    1040010400
+CLAYTON RD                                                  1040110401
+CLEAR FORK RD                                               1040010400
+CLEAR SPRINGS RD                                            1040010400
+CLEAR SPRINGS RD                                            1040110401
+CLEVELAND RD                                                1040010400
+CLEVELAND ROAD SPUR                                         1040010400
+CLIFFSIDE DR                                                1040010400
+CLIFFVIEW LN                                                1040010400
+CLIFTY CREEK RD                                             1040010400
+CLOSE LN                                                    1040010400
+COE LN                                                      1040210402
+COFFEY AVE                                                  1040210402
+COFFEY AVENUE JAMESTOWN                                     1040110401
+COFFEY GROVE RD                                             1040010400
+COFFEY HILL CHURCH RD                                       1040010400
+COFFEY LOOP CT                                              1040010400
+COFFEY LOOP RD                                              1040010400
+COFFEY SCHOOL RD                                            1040010400
+COFFEYS CT                                                  1040010400
+COFFEYS CT                                                  1040210402
+COLE DR                                                     1040010400
+COLEMAN CEMETERY RD                                         1040010400
+COLLEGE ST                                                  1040210402
+COLSON DR                                                   1040010400
+COMANCHA WAY                                                1040210402
+COMPASS POINTE                                              1040010400
+CONNER RD                                                   1040010400
+COOMER RD                                                   1040010400
+COON CLUB RD                                                1040010400
+COOPER CREEK RD                                             1040010400
+COOPER CREEK SPUR RD                                        1040010400
+COOPER DRIVE CEMETERY                                       1040010400
+COOPER HILL LN                                              1040010400
+COOPER LN                                                   1040010400
+COOPER RD                                                   1040010400
+COOPER RD                                                   1040210402
+CORBIN RD                                                   1040010400
+CORBIN WEST RD                                              1040010400
+CORTEZ RD                                                   1040210402
+COUNTRY CLUB ESTS                                           1040010400
+COUNTRY LN                                                  1040110401
+COUNTRY VIEW RD                                             1040010400
+COURT VIEW RD                                               1040110401
+COURTNEY LN                                                 1040010400
+COVENANT AVE                                                1040010400
+COVENANT DR                                                 1040010400
+COWAN RD                                                    1040010400
+CRABTREE LN                                                 1040010400
+CREEKSIDE BLVD                                              1040010400
+CREEKSIDE DR                                                1040110401
+CREELSBORO RD                                               1040210402
+CRESTVIEW CIR                                               1040010400
+CRESTVIEW DR                                                1040010400
+CROCKETT RD                                                 1040010400
+CROCUS RD                                                   1040010400
+CROSS RD                                                    1040010400
+CROWE ST                                                    1040210402
+CUB CREEK HILL RD                                           1040010400
+CUDA DR                                                     1040010400
+CUMBERLAND RIDGE CT                                         1040010400
+CUMMINS RD                                                  1040010400
+CURVE RD                                                    1040110401
+CUT THRU DR                                                 1040210402
+D DUNBAR RD                                                 1040010400
+D GRIDER RD                                                 1040010400
+D JOHNSON RD                                                1040010400
+D MANN RD                                                   1040010400
+D REXROAT LN                                                1040010400
+D ROBERTSON RD                                              1040010400
+D TURNER RD                                                 1040010400
+D WILSON RD                                                 1040010400
+DABNEY CREEK RD                                             1040010400
+DABNEY RD                                                   1040010400
+DAISY CIR                                                   1040010400
+DAMRON CREEK RD                                             1040010400
+DAMRON CREEK SPUR RD                                        1040010400
+DAN ST                                                      1040210402
+DANDELION ST                                                1040010400
+DANIELLE DR                                                 1040010400
+DANIKA LN                                                   1040010400
+DARRYL WEST RD                                              1040010400
+DAUSE RD                                                    1040010400
+DAVID ROY RD                                                1040010400
+DAVIS LN                                                    1040010400
+DECATUR RD                                                  1040010400
+DECATUR SPUR RD                                             1040010400
+DECKER RD                                                   1040010400
+DEER RUN LN                                                 1040010400
+DEER TRAIL CIR                                              1040010400
+DELK RD                                                     1040010400
+DELPHIA ST                                                  1040210402
+DENMARK LN                                                  1040010400
+DENMARK SPUR                                                1040010400
+DENNY RIDGE RD                                              1040010400
+DENVER COE RD                                               1040010400
+DESERT STORM DR                                             1040010400
+DESOTO DR                                                   1040010400
+DICKERSON RIDGE RD                                          1040010400
+DICKERSON RIDGE SPUR                                        1040010400
+DIXON CEMETERY RD                                           1040010400
+DOCKERY RD                                                  1040010400
+DOGWOOD HOLLOW RD                                           1040010400
+DOGWOOD LN                                                  1040010400
+DOGWOOD RD                                                  1040010400
+DOGWOOD WOOD                                                1040010400
+DOGWOOD WOOD                                                1040110401
+DONNA RD                                                    1040010400
+DOUGLAS DR                                                  1040010400
+DOWELL RD                                                   1040210402
+DR JOE T PETTY DR                                           1040210402
+DRIVEWAY RD                                                 1040210402
+DRY BRANCH RD                                               1040010400
+DRY POND RD                                                 1040210402
+DUCK ALY                                                    1040110401
+DUDLEY CREEK RD                                             1040010400
+DUDLEY HILL RD                                              1040010400
+DUFF RD                                                     1040010400
+DUNBAR LN                                                   1040110401
+DUNMEYER LN                                                 1040010400
+DUTTON CIR                                                  1040110401
+DYKES RD                                                    1040010400
+DYLAN DR                                                    1040010400
+E COFFEY RD                                                 1040010400
+E CUMBERLAND AVE                                            1040010400
+E CUMBERLAND AVE                                            1040110401
+E FORK RD                                                   1040010400
+E L MCGOWAN RD                                              1040010400
+E MT EDEN RD                                                1040010400
+E ST                                                        1040210402
+E TARTER LN                                                 1040010400
+E VOILS RD                                                  1040010400
+EADS RD                                                     1040010400
+EAGLES NEST POINT                                           1040010400
+EASTHAM RD                                                  1040010400
+EDGEWATER RD                                                1040010400
+EDMONDS LN                                                  1040010400
+EDMONDS RD                                                  1040010400
+ELLIOTT CIR                                                 1040010400
+ELLY AVE                                                    1040010400
+ELMORE RD                                                   1040010400
+ELMORE SPUR                                                 1040010400
+EMERALD HILL RD                                             1040010400
+EMERSON DR                                                  1040210402
+EPPERSON DR                                                 1040210402
+ESTO HEIGHTS RD                                             1040010400
+ETHAN ALLEN RD                                              1040010400
+EVERGREEN RD                                                1040010400
+EWELL LN                                                    1040010400
+F ANDREWS RD                                                1040010400
+F GRIDER RD                                                 1040010400
+F L SELBY LN                                                1040010400
+FAIR OAKS DR                                                1040110401
+FAIR OAKS LN                                                1040110401
+FAIR OAKS SPUR                                              1040110401
+FAIRVIEW CHURCH RD                                          1040010400
+FAIRWAY BLVD                                                1040010400
+FAITH LN                                                    1040010400
+FALLS COURT SPUR                                            1040010400
+FALLS CT                                                    1040010400
+FARMER RD                                                   1040010400
+FEISTRITZER RD                                              1040010400
+FIELDS RD                                                   1040010400
+FISHERMANS WAY                                              1040010400
+FISHHOOK LN                                                 1040010400
+FLANAGAN RD                                                 1040010400
+FLORENCE DR                                                 1040010400
+FLOYD RIDGE RD                                              1040010400
+FOLEY AVE                                                   1040110401
+FOLEY DR                                                    1040010400
+FOLEY DR                                                    1040210402
+FOLEY DRIVE RS                                              1040210402
+FOLEY RD                                                    1040010400
+FOREST HILL RD                                              1040110401
+FORTENBERRY RD                                              1040010400
+FOX POINT RD                                                1040010400
+FOX POINT SPUR                                              1040010400
+FOX RD                                                      1040010400
+FOX RUN RD                                                  1040010400
+FRANCES ST                                                  1040010400
+FRANK RD                                                    1040010400
+FRANKLIN RD                                                 1040010400
+FREEDOM CHURCH RD                                           1040010400
+FREEMAN AVE                                                 1040210402
+FRENCH VALLEY CT                                            1040210402
+FRENCH VALLEY LN                                            1040010400
+FRENCH VALLEY LOOP                                          1040010400
+FRENCH VALLEY RD                                            1040010400
+FRENCH VALLEY RD                                            1040210402
+FRONTAGE RD                                                 1040010400
+FROST RD                                                    1040010400
+FROST SPUR                                                  1040010400
+FRUIT OF THE LOOM DR                                        1040110401
+FRUIT OF THE LOOM SP                                        1040110401
+G BERNARD RD                                                1040010400
+G BROWN RD                                                  1040010400
+G CAIN RD                                                   1040010400
+G JASPER RD                                                 1040010400
+G PERKINS CREEK RD                                          1040010400
+G POPPLEWELL RD                                             1040010400
+G V HALE RD                                                 1040010400
+GABE HOLLOW RD                                              1040010400
+GAINES AVE                                                  1040110401
+GALE DR                                                     1040010400
+GARNER CEMETERY RD                                          1040010400
+GARNER CREEK RD                                             1040010400
+GARNER DYKES CEMETERY RD                                    1040010400
+GARNER LN                                                   1040010400
+GARNET EDMUNDS RD                                           1040010400
+GARR RIDGE RD                                               1040010400
+GASKIN RD                                                   1040110401
+GATE RD                                                     1040010400
+GENEVA DR                                                   1040010400
+GENTRY MILL RD                                              1040210402
+GIRDLER LN                                                  1040210402
+GLEN DR                                                     1040010400
+GLOVER RD                                                   1040010400
+GOAT DOCK RD                                                1040010400
+GOFF RD                                                     1040010400
+GOLDENROD DR                                                1040010400
+GOLF RD                                                     1040010400
+GOLF TRAIL RD                                               1040010400
+GOSSER RIDGE RD                                             1040010400
+GOSSER RIDGE SPUR                                           1040010400
+GOURLEY RD                                                  1040010400
+GRACIE LN                                                   1040010400
+GREASY CREEK RD                                             1040010400
+GREEN ACRES RD                                              1040110401
+GREENS CHAPEL RD                                            1040010400
+GREENS CHAPEL RD                                            1040110401
+GRIDER CEMETERY RD                                          1040010400
+GRIDER LN                                                   1040210402
+GUM TREE LN                                                 1040010400
+H LAWLESS RD                                                1040010400
+H WOOLDRIDGE RD                                             1040010400
+HADLEY BLVD                                                 1040010400
+HALCOMBS LANDING                                            1040010400
+HALE WILSON RD                                              1040010400
+HALF ACRE LOOP                                              1040110401
+HALF ACRE RD                                                1040010400
+HAMMONDS RD                                                 1040010400
+HAPPY ACRE LN                                               1040010400
+HAPPY VALLEY RD                                             1040010400
+HARBOR DR                                                   1040010400
+HARBOR SPRINGS RD                                           1040010400
+HARE CEMETERY RD                                            1040010400
+HARE RD                                                     1040010400
+HAROLD AARON DR                                             1040010400
+HARRIS LN                                                   1040110401
+HARRISTOWN RD                                               1040010400
+HARSH RD                                                    1040010400
+HART LN                                                     1040010400
+HAWKINS LN                                                  1040010400
+HEARTLAND DR                                                1040010400
+HEARTLAND ESTATE RD                                         1040010400
+HEAVENLY HOLLOW LN                                          1040210402
+HEAVENLY LN                                                 1040210402
+HELM LN                                                     1040010400
+HELMS LANDING RD                                            1040010400
+HEMLOCK DR                                                  1040010400
+HERRIFORD CURVE RD                                          1040110401
+HICKORY LN                                                  1040010400
+HICKORY RD                                                  1040210402
+HIGGENBOTHAM LN                                             1040010400
+HIGH ST                                                     1040010400
+HIGH ST                                                     1040210402
+HILL REEDER RD                                              1040010400
+HILLTOP LN                                                  1040010400
+HILLTOP RD                                                  1040010400
+HOLDER DR                                                   1040210402
+HOLLAND CT                                                  1040210402
+HOLT AVE                                                    1040110401
+HOLT CONNECTOR RD                                           1040010400
+HOLT DR                                                     1040010400
+HOLT LN                                                     1040210402
+HOLT RD                                                     1040010400
+HONEYSUCKLE RD                                              1040010400
+HOOP LN                                                     1040010400
+HOOVER RD                                                   1040110401
+HOPE ESTATES                                                1040010400
+HOPPER LN                                                   1040010400
+HOPPER ST                                                   1040010400
+HOPPER ST                                                   1040210402
+HOPPER STREET SPUR                                          1040010400
+HORN RD                                                     1040010400
+HORNTOWN LN                                                 1040010400
+HORSESHOE CIR                                               1040010400
+HOSPITAL DR                                                 1040210402
+HOUSTON LN                                                  1040010400
+HUDSON CEMETERY RD                                          1040010400
+HUDSON RD                                                   1040010400
+HUGHES LN                                                   1040010400
+HUMMINGBIRD DR                                              1040010400
+HURRICANE BRANCH RD                                         1040010400
+INDIAN CAVE VIEW                                            1040110401
+INDIAN HILLS EST                                            1040010400
+INDIAN HILLS MISSION RD                                     1040010400
+INDIAN PINES RD                                             1040010400
+INDIAN TRAIL RD                                             1040010400
+INDUSTRY DR                                                 1040110401
+ISAAC RD                                                    1040010400
+ISLAND RAMP RD                                              1040010400
+IVY DR                                                      1040010400
+J BLAKEY RD                                                 1040010400
+J C RD                                                      1040010400
+J COFFEY RD                                                 1040010400
+J D B RD                                                    1040010400
+J D B SPUR                                                  1040010400
+J EDMONDS RD                                                1040010400
+J FLANAGAN                                                  1040010400
+J FLANAGAN                                                  1040210402
+J HUDSON RD                                                 1040010400
+J HUMBLE RD                                                 1040010400
+J JONES LN                                                  1040010400
+J JONES RD                                                  1040010400
+J JONES SPUR RD                                             1040010400
+J L WILLIAMS LN                                             1040010400
+J LAWLESS RD                                                1040010400
+J MCQUEARY RD                                               1040010400
+J OAKS RD                                                   1040010400
+J P ROY LN                                                  1040010400
+J PIERCE RD                                                 1040010400
+J REEDER LN                                                 1040010400
+J S TOLER RD                                                1040010400
+J S WILSON RD                                               1040010400
+J STEPHENS RD                                               1040010400
+J TARTER RD                                                 1040010400
+J TUCKER LN                                                 1040010400
+J TUCKER RD                                                 1040010400
+J WILSON LN                                                 1040010400
+J WILSON RD                                                 1040010400
+JACK MILLER AVE                                             1040010400
+JAMES RD                                                    1040010400
+JAMESTOWN BYP                                               1040010400
+JAMESTOWN BYP                                               1040110401
+JAMESTOWN MARINA RESORT                                     1040010400
+JAMESTOWN ST                                                1040210402
+JANET LN                                                    1040110401
+JDB LN                                                      1040010400
+JEFF AARON RD                                               1040010400
+JEFFERSON ST                                                1040110401
+JENKINS RD                                                  1040010400
+JERICHO RD                                                  1040010400
+JESSE BERNARD RD                                            1040010400
+JESSE JAMES RD                                              1040010400
+JESSE LN                                                    1040010400
+JEWEL ST                                                    1040210402
+JIMMY AVE                                                   1040010400
+JIMMY WILSON RD                                             1040010400
+JOBI FALLS TRL                                              1040010400
+JOEY MILLER RD                                              1040210402
+JOHN ROE FROST RD                                           1040010400
+JOHN ROY LN                                                 1040010400
+JOHN ST                                                     1040010400
+JOHN STREET SPUR                                            1040010400
+JOHNNY BERNARD LOOP                                         1040010400
+JOHNS RD                                                    1040010400
+JOHNSON RD                                                  1040010400
+JONAH KELSEY RD                                             1040010400
+JONES DR                                                    1040010400
+JONES LOY RD                                                1040010400
+JONES SPUR RD                                               1040010400
+JOSH LN                                                     1040010400
+JUDY ST                                                     1040210402
+JUMP OFF RD                                                 1040010400
+JUSTIN LN                                                   1040010400
+JW HARRIS RD                                                1040010400
+K MILLER RD                                                 1040010400
+K ROBERTSON RD                                              1040010400
+KARENS RD                                                   1040010400
+KARRAH LN                                                   1040010400
+KAUFFMAN RD                                                 1040010400
+KAYS DR                                                     1040010400
+KEAN RD                                                     1040010400
+KEEN CEMETERY RD                                            1040010400
+KENDALL PARK RD                                             1040010400
+KERR BROWN RD                                               1040010400
+KEY VILLAGE                                                 1040210402
+KINGFISHER LN                                               1040210402
+KINNETT AVE                                                 1040110401
+KLG DR                                                      1040010400
+KLG DR                                                      1040110401
+KNIGHT RD                                                   1040010400
+KNOB VIEW DR                                                1040010400
+KOA RD                                                      1040010400
+KRISTI LN                                                   1040010400
+KY1058                                                      1040010400
+KY1383                                                      1040010400
+KY1611                                                      1040010400
+KY1680                                                      1040010400
+KY1729                                                      1040010400
+KY1730                                                      1040010400
+KY196                                                       1040010400
+KY2283                                                      1040010400
+KY2284                                                      1040010400
+KY3277                                                      1040010400
+KY3278                                                      1040010400
+KY3281                                                      1040010400
+KY3525                                                      1040010400
+KY379                                                       1040010400
+KY379                                                       1040210402
+KY379 N                                                     1040010400
+KY379 S                                                     1040010400
+KY430                                                       1040210402
+KY55                                                        1040010400
+KY558                                                       1040010400
+KY619                                                       1040010400
+KY619                                                       1040110401
+KY76                                                        1040010400
+KY76 E                                                      1040010400
+KY76 S                                                      1040010400
+KY76 W                                                      1040010400
+KY771 S                                                     1040010400
+KY80                                                        1040210402
+KY80 E                                                      1040010400
+KY80 E                                                      1040210402
+KY80 W                                                      1040010400
+KY832                                                       1040010400
+KY910                                                       1040010400
+KY92                                                        1040010400
+KY92                                                        1040110401
+KYLES RD                                                    1040010400
+L COFFEY RD                                                 1040010400
+L GASKIN RD                                                 1040010400
+L R HART RD                                                 1040010400
+L R HELM RD                                                 1040010400
+LACEY DR                                                    1040210402
+LAFAVERS CEMETERY RD                                        1040010400
+LAFAVERS RD                                                 1040010400
+LAKE CUMBERLAND STATE PARK RD                               1040010400
+LAKE TRAIL DR                                               1040010400
+LAKE VIEW CIR                                               1040010400
+LAKE VIEW DR                                                1040010400
+LAKE WOOD DR                                                1040010400
+LAKEPOINT RESORT                                            1040010400
+LAKESIDE PL                                                 1040010400
+LAKESIDE PLACE SPUR                                         1040010400
+LAKETRAIL                                                   1040210402
+LAKEVIEW DR                                                 1040210402
+LAKEWAY                                                     1040210402
+LAKEWAY DR                                                  1040010400
+LAKEWAY DR                                                  1040210402
+LAKEWAY HLS                                                 1040010400
+LAKEWAY HLS                                                 1040210402
+LANCASTER DR                                                1040010400
+LANDFILL RD                                                 1040010400
+LARRY DR                                                    1040210402
+LARRY WEST RD                                               1040010400
+LAUREL RD                                                   1040010400
+LAWLESS CEMETERY RD                                         1040010400
+LAWLESS LN                                                  1040010400
+LAWLESS LN                                                  1040110401
+LAWRENCE LN                                                 1040010400
+LEACH RD                                                    1040010400
+LEEANN LN                                                   1040010400
+LEISURE ACRES DR                                            1040010400
+LEISURE ACRES RD                                            1040010400
+LEISURE ACRES SPUR                                          1040010400
+LEVERIDGE CT                                                1040010400
+LEWIS ALY                                                   1040110401
+LILLY CLAIRE LN                                             1040010400
+LILY CREEK CT                                               1040010400
+LILY CREEK LN                                               1040010400
+LILY CREEK RAMP RD                                          1040010400
+LILY CREEK RESORT                                           1040010400
+LINDA LN                                                    1040010400
+LINDSEY LN                                                  1040010400
+LINKS VW                                                    1040010400
+LITTLE CLIFTY CREEK RD                                      1040010400
+LITTLE INDIAN DR                                            1040010400
+LITTLE LOUISVILLE RD                                        1040010400
+LITTON RD                                                   1040010400
+LIVE OAK ESTATES RD                                         1040010400
+LN9008 E                                                    1040010400
+LN9008 E                                                    1040210402
+LN9008 E EXIT62 OFF RAMP TO US127                           1040210402
+LN9008 E EXIT62 OFF RAMP TO US127 S                         1040210402
+LN9008 E EXIT62 ON RAMP FROM US127                          1040210402
+LN9008 E EXIT62 ON RAMP FROM US127 N                        1040210402
+LN9008 E EXIT62 ON RAMP FROM US127 S                        1040210402
+LN9008 W                                                    1040010400
+LN9008 W                                                    1040210402
+LN9008 W EXIT62 OFF RAMP TO US127                           1040210402
+LN9008 W EXIT62 OFF RAMP TO US127 N                         1040210402
+LN9008 W EXIT62 OFF RAMP TO US127 S                         1040210402
+LN9008 W EXIT62 ON RAMP FROM US127                          1040210402
+LN9008 W EXIT62 ON RAMP FROM US127 N                        1040210402
+LN9008 W EXIT62 ON RAMP FROM US127 S                        1040210402
+LOCUST GROVE RD                                             1040010400
+LOGAN ST                                                    1040210402
+LOREL DUNBAR RD                                             1040010400
+LOREL LN                                                    1040010400
+LOVELESS RD                                                 1040010400
+LOY BROTHERS RD                                             1040010400
+LOY RD                                                      1040010400
+LUCENDA CEMETERY RD                                         1040010400
+LYNCH CIR                                                   1040010400
+LYNCH LN                                                    1040010400
+LYNCH RD                                                    1040010400
+LYNCH SPUR RD                                               1040010400
+M E TAYLOR RD                                               1040010400
+M TUCKER RD                                                 1040010400
+M TUCKER SPUR                                               1040010400
+MADISON ALY                                                 1040110401
+MAIN ST                                                     1040010400
+MAIN ST                                                     1040210402
+MANN RD                                                     1040010400
+MANNTOWN RD                                                 1040010400
+MAPLE CT                                                    1040010400
+MAPLE CT                                                    1040210402
+MAPLE DR                                                    1040110401
+MAPLE ST                                                    1040210402
+MARCUM RD                                                   1040010400
+MARK BERNARD LN                                             1040010400
+MAYNARD RD                                                  1040010400
+MCCLENDON LN                                                1040010400
+MCCLENDON RD                                                1040010400
+MCCLENDON RIDGE RD                                          1040010400
+MCCLURE RD                                                  1040010400
+MCFALLS RD                                                  1040110401
+MCGOWAN LN                                                  1040010400
+MCGOWAN RD                                                  1040010400
+MCKINNEY LN                                                 1040010400
+MCKINNEY LN                                                 1040110401
+MCKINNEY ST                                                 1040110401
+MCQUEARY RD                                                 1040010400
+MCQUEARY RIDGE RD                                           1040010400
+MEADOW LOOP                                                 1040010400
+MEADOWBROOKE                                                1040010400
+MEADOWLARK DR                                               1040010400
+MEADOWS LANDING                                             1040010400
+MEADOWS LN                                                  1040110401
+MELISSA RD                                                  1040010400
+MELSON RIDGE RD                                             1040010400
+MIDDLE RIDGE RD                                             1040010400
+MILL RD                                                     1040210402
+MILL ST                                                     1040210402
+MILLER CEMETERY RD                                          1040010400
+MILLER DR                                                   1040110401
+MILLER PIERCE RD                                            1040010400
+MILLER RD                                                   1040010400
+MILLER SHORT RD                                             1040010400
+MILLERS CREEK RD                                            1040010400
+MILLS RD                                                    1040010400
+MILTON HEIGHTS RD                                           1040010400
+MILTON HEIGHTS RD                                           1040210402
+MONK SPRINGS RD                                             1040110401
+MONROE ALY                                                  1040110401
+MONTGOMERY ALY                                              1040110401
+MOORES SCHOOLHOUSE RD                                       1040010400
+MOORES SCHOOLHOUSE RD                                       1040110401
+MOORING DR                                                  1040010400
+MORGAN RD                                                   1040010400
+MORRIS LAKE DR                                              1040010400
+MORTAN LN                                                   1040010400
+MT EDEN RD                                                  1040010400
+MT OLIVE CONNECTOR                                          1040010400
+MT OLIVE CREEK RD                                           1040010400
+MT PLEASANT RD                                              1040010400
+MUD CREEK RD                                                1040010400
+MURPHY LN                                                   1040010400
+MURPHY LN                                                   1040110401
+MURRAY RD                                                   1040010400
+N CAPE RD                                                   1040010400
+N GRIDER RD                                                 1040010400
+N MAIN ST                                                   1040110401
+N PEARL RD                                                  1040010400
+N TODD RD                                                   1040010400
+NEAT HOLLOW RD                                              1040010400
+NELSON LN                                                   1040110401
+NELSON MILL RD                                              1040010400
+NELSON RD                                                   1040010400
+NEVA DR                                                     1040210402
+NEWBY RD                                                    1040010400
+NISSLEY RD                                                  1040010400
+NORFLEET DR                                                 1040210402
+NORTHRIDGE ST                                               1040210402
+O COFFEY RD                                                 1040010400
+O TUCKER RD                                                 1040010400
+OAK DR                                                      1040010400
+OAK GROVE RD                                                1040010400
+OAK LN                                                      1040010400
+OAK ST                                                      1040210402
+OAK ST S                                                    1040110401
+OAK STREET OFF POTTERSHOP                                   1040010400
+OAKS RD                                                     1040010400
+OFF TODD RD                                                 1040010400
+OLD CEMETERY LN                                             1040010400
+OLD CLEAR SPRINGS RD                                        1040010400
+OLD COLUMBIA RD                                             1040010400
+OLD COLUMBIA RD                                             1040210402
+OLD DUNBAR RD                                               1040010400
+OLD ELI MCQUEARY RD                                         1040010400
+OLD ELI RD                                                  1040010400
+OLD FRIENDSHIP RD                                           1040010400
+OLD HOPPERTOWN RD                                           1040010400
+OLD JAMESTOWN RD                                            1040010400
+OLD KY 76 LOOP                                              1040010400
+OLD KY 910 RD                                               1040010400
+OLD PINE TOP RD                                             1040010400
+OLD ROWENA RD                                               1040010400
+OLD US 127 CONNECTOR                                        1040010400
+OLD US 127 LOOP NO1 RD                                      1040010400
+OLIVER THOMAS RD                                            1040010400
+OLLIE MANN EAST RD                                          1040010400
+OLLIE MANN WEST RD                                          1040010400
+ORANGE VALLEY CIR                                           1040010400
+ORANGE VALLEY RD                                            1040010400
+OVERLOOK DR                                                 1040010400
+OVERLOOK RD                                                 1040010400
+OWENS RD                                                    1040010400
+OWENSTOWN SCHOOL RD                                         1040010400
+OWENSTOWN SCHOOL RD                                         1040210402
+P HARRIS RD                                                 1040010400
+P JONES RD                                                  1040010400
+P MCFALL RD                                                 1040010400
+PADDINGTON LN                                               1040010400
+PAN HANDLE RD                                               1040010400
+PANDA LN                                                    1040010400
+PAPOOSE DR                                                  1040210402
+PAR PT                                                      1040010400
+PARADISE ALLEY                                              1040010400
+PARK AVE                                                    1040110401
+PARK RD                                                     1040010400
+PARK ROAD NO1                                               1040210402
+PARK ROAD NO2                                               1040210402
+PARK VIEW ESTS                                              1040010400
+PARKS RIDGE RD                                              1040010400
+PATRICA LN                                                  1040010400
+PATTERSON RD                                                1040010400
+PATTI RIDGE RD                                              1040010400
+PAUL KEAN RD                                                1040010400
+PAUL KEAN RD                                                1040110401
+PAYNE CAVE SPUR RD                                          1040010400
+PAYNE RD                                                    1040010400
+PEACH TREE LN                                               1040010400
+PEAR TREE LN                                                1040010400
+PEARL DR                                                    1040010400
+PECKERWOOD PARK                                             1040010400
+PECKERWOOD SPUR                                             1040010400
+PEGGY LEE ST                                                1040010400
+PEMROSE ST                                                  1040110401
+PERKINS LN                                                  1040010400
+PERKINS RD                                                  1040010400
+PETTYJOHN RD                                                1040010400
+PHELPS ACRES DR                                             1040010400
+PHELPS ACRES RD                                             1040010400
+PHELPS LN                                                   1040010400
+PHELPS RD                                                   1040010400
+PHILLIP AVE                                                 1040010400
+PHILLIP JOHNSON RD                                          1040010400
+PICKETT AVE                                                 1040210402
+PICKETT LN                                                  1040110401
+PIKE ALY                                                    1040110401
+PINE COURT RD                                               1040010400
+PINE HILL RD                                                1040010400
+PINE POINT RD                                               1040010400
+PINE TOP RD                                                 1040010400
+PINE TREE DR                                                1040110401
+PINEHURST CIR                                               1040110401
+PINEVIEW CIR                                                1040010400
+PLEASANT HILL BOAT RAMP                                     1040010400
+PLEASANT HILL LN                                            1040010400
+PLEASANT HILL RD                                            1040010400
+PLEASANT HILL SPUR                                          1040010400
+PLEASANT HL                                                 1040010400
+POLLY RD                                                    1040010400
+POLSTONTOWN RD                                              1040010400
+POPLAR DR                                                   1040010400
+POPLAR HILL RD                                              1040010400
+POPPLEWELL ST                                               1040110401
+POTTERSHOP RD                                               1040010400
+POWELL RD                                                   1040010400
+POWELL RD                                                   1040210402
+PRIMROSE ST                                                 1040010400
+PROGRESS DR                                                 1040210402
+PRUDY HILL RD                                               1040010400
+PUBLIC SQ                                                   1040110401
+PUMPKIN CREEK RD                                            1040010400
+PUNCHEON CAMP RD                                            1040010400
+PUTTERS LN                                                  1040010400
+R GOSSER RD                                                 1040010400
+R HART RD                                                   1040010400
+R HART SPUR RD                                              1040010400
+R JOHNSON RD                                                1040010400
+R MANN RD                                                   1040010400
+R ROY RD                                                    1040010400
+R RUSSELL RD                                                1040010400
+R THOMPSON RD                                               1040010400
+RAINBOW DR                                                  1040010400
+RAMBLIN CREEK RD                                            1040010400
+RAMSEY CREEK RD                                             1040010400
+RASTUS RD                                                   1040010400
+RAY MANN RD                                                 1040010400
+RAZOR HEAD RD                                               1040010400
+REBEL DR                                                    1040010400
+RED OAK DR                                                  1040010400
+RED RD                                                      1040210402
+REDBUD RD                                                   1040010400
+REDMOND RD                                                  1040010400
+REECE CONNECTOR RD                                          1040010400
+REECE RD                                                    1040010400
+REEDER RD                                                   1040010400
+REMINGTON DR                                                1040210402
+RENZIE FOLEY RD                                             1040010400
+RESCUE RD                                                   1040210402
+REXROAT RD                                                  1040010400
+REYNOLDS CREEK RD                                           1040010400
+RICHARDS DR                                                 1040210402
+RICHARDS LOOP RD                                            1040010400
+RICHARDSON RD                                               1040010400
+RICKY LN                                                    1040210402
+RIPPETOE SPRINGS RD                                         1040010400
+RIVER                                                       1040010400
+RIVER LN                                                    1040010400
+RIVERSIDE DR                                                1040010400
+RIVERVIEW DR                                                1040010400
+ROARK RD                                                    1040010400
+ROBERTS RD                                                  1040010400
+ROBERTSON MILL RD                                           1040010400
+ROBERTSON RD                                                1040010400
+ROBERTSON ST                                                1040010400
+ROBERTSON ST                                                1040210402
+ROBIN LN                                                    1040010400
+ROC HARBOR DR                                               1040010400
+ROCKHOUSE CHURCH RD                                         1040010400
+ROCKY WAY                                                   1040010400
+RODGERS CEMETERY RD                                         1040010400
+ROLLING HILLS RD                                            1040010400
+ROLLING SPRINGS RD                                          1040010400
+ROSE AVE                                                    1040010400
+ROSE ST                                                     1040210402
+ROSEDALE RD                                                 1040010400
+ROSIN RIDGE RD                                              1040010400
+ROY DR                                                      1040210402
+ROY FOX RD                                                  1040010400
+ROY LN                                                      1040010400
+ROYCE ROY RD                                                1040010400
+RUMBO RD                                                    1040010400
+RUNAWAY ACRES                                               1040210402
+RURAL OAKS RD                                               1040010400
+RUSSELL DR                                                  1040210402
+RUTH HILL RD                                                1040010400
+RYAN WAY                                                    1040010400
+S GRIDER RD                                                 1040010400
+S HADLEY CEMETERY RD                                        1040010400
+S HADLEY CEMETERY SPUR                                      1040010400
+S HOLDER DR                                                 1040110401
+S MANN RD                                                   1040010400
+S PEARL RD                                                  1040010400
+S RIDGE CIR                                                 1040010400
+S RIDGE EST                                                 1040010400
+S SULPHUR CREEK RD                                          1040010400
+S THORNTON RD                                               1040010400
+SALT LICK RD                                                1040010400
+SAMBO LN                                                    1040210402
+SAND LICK CREEK RD                                          1040010400
+SANDY TRAIL RD                                              1040010400
+SANO MT OLIVE RD                                            1040010400
+SANO RD                                                     1040010400
+SANO RD                                                     1040210402
+SARA LN                                                     1040010400
+SAWMILL RD                                                  1040010400
+SCAFIDI LN                                                  1040010400
+SCALES FOLEY RD                                             1040010400
+SCAREBE RD                                                  1040010400
+SCENIC RD                                                   1040010400
+SCENIC VIEW RD                                              1040010400
+SCHOLL ST                                                   1040110401
+SCOTT ANDREWS RD                                            1040010400
+SCOTT ST                                                    1040010400
+SCOTT STREET SPUR                                           1040010400
+SCOTTS CHAPEL RD                                            1040010400
+SELBY BRANCH RD                                             1040010400
+SELBY HOPPER RD                                             1040010400
+SERVICE RD                                                  1040010400
+SERVICE RD E                                                1040010400
+SEWAGE PLANT RD                                             1040210402
+SHADE TREE LN                                               1040010400
+SHADY REST RD                                               1040010400
+SHAMROCK ST                                                 1040010400
+SHARON ANN RD                                               1040210402
+SHAW TILLER RD                                              1040010400
+SHAWNEE AVE                                                 1040210402
+SHAWNEE TRAIL RD                                            1040010400
+SHEARER CEMETERY RD                                         1040010400
+SHEFFIELD DR                                                1040010400
+SHELBY MCGOWAN RD                                           1040010400
+SHELBY ST                                                   1040110401
+SHEPHERD CEMETERY RD                                        1040010400
+SHEPHERD DR                                                 1040210402
+SHERMANS WAY                                                1040010400
+SHERRY LN                                                   1040210402
+SHERRY LN S                                                 1040010400
+SHIRLEY DR                                                  1040010400
+SHORT LN                                                    1040110401
+SHORT ST                                                    1040210402
+SILVER FOX RD                                               1040010400
+SIMMS AVE                                                   1040110401
+SIMPSON RD                                                  1040010400
+SIOUX ST                                                    1040210402
+SKAGGS LN                                                   1040010400
+SKIPPERS SUBDIVISION LN                                     1040010400
+SKIPPERS SUBDIVISION RD                                     1040010400
+SLIM TUCKER RD                                              1040010400
+SMITH LN                                                    1040010400
+SMITHS GROVE RD                                             1040010400
+SNOW RD                                                     1040010400
+SPARKS AVE                                                  1040110401
+SPRINGHILL DR                                               1040010400
+SPURR RD                                                    1040010400
+SQUARE OAK RD                                               1040010400
+SQUAW AVE                                                   1040210402
+STACY CEMETERY RD                                           1040010400
+STANELLE RD                                                 1040010400
+STATE PARK ROAD NO10                                        1040010400
+STATE PARK ROAD NO2                                         1040010400
+STATE PARK ROAD NO3                                         1040010400
+STATE PARK ROAD NO4                                         1040010400
+STATE PARK ROAD NO5                                         1040010400
+STATE PARK ROAD NO6                                         1040010400
+STATE PARK ROAD NO7                                         1040010400
+STATE PARK ROAD NO8                                         1040010400
+STATE PARK ROAD NO9                                         1040010400
+STEPHENS LN                                                 1040010400
+STEPHENS POINT RD                                           1040010400
+STEPHENS POINT SPUR                                         1040010400
+STEPHENS RIDGE RD                                           1040010400
+STEVE DR                                                    1040210402
+STEVE DRIVE CONNECTOR                                       1040210402
+STEVENS DR                                                  1040010400
+STEVENS DR                                                  1040110401
+STICKS RD                                                   1040010400
+STILL BRANCH FALLS                                          1040010400
+STILL BRANCH FALLS NO2                                      1040010400
+STILLWATER BLVD                                             1040010400
+STONEBROOKE PL                                              1040010400
+STORY LN                                                    1040010400
+SUGAR CAMP RD                                               1040010400
+SUGAR NO2 RD                                                1040010400
+SULLIVAN ST                                                 1040210402
+SUMMER LN                                                   1040010400
+SUNRISE CT                                                  1040210402
+SUNRISE LANDING RD                                          1040010400
+SUNSET CT                                                   1040210402
+SUNSET DR                                                   1040110401
+SUNSHINE RD                                                 1040010400
+SURBER RD                                                   1040010400
+SWAN POND RD                                                1040010400
+SYCAMORE FLAT RD                                            1040010400
+T GOSSER RD                                                 1040010400
+TALL TIMBER DR                                              1040010400
+TALL TIMBER RD                                              1040010400
+TARTER AVE                                                  1040010400
+TARTER LN                                                   1040210402
+TATE ESTATES                                                1040010400
+TELEPHONE DR                                                1040110401
+TEMPLE HILL RD                                              1040010400
+THE BLUFF NO1                                               1040010400
+THE BLUFF NO2                                               1040010400
+THE MEADOWS                                                 1040010400
+THE OAK LN                                                  1040010400
+THE WOODS                                                   1040010400
+THOMAS LN                                                   1040010400
+THOMAS RD                                                   1040010400
+THOMPSON LN                                                 1040010400
+THORN HILL LN                                               1040010400
+TIMBER POINTE                                               1040010400
+TIMBER RIDGE RD                                             1040010400
+TIMBER TRACE                                                1040010400
+TIMS TRL                                                    1040010400
+TJ BRUMLEY RD                                               1040010400
+TODD RD                                                     1040010400
+TOLA RD                                                     1040010400
+TONKIN DR                                                   1040210402
+TONYA LN                                                    1040010400
+TOWER RD                                                    1040010400
+TOWN BRANCH RD                                              1040010400
+TOWN BRANCH RD                                              1040110401
+TOWN VIEW ESTATES RD                                        1040110401
+TRAP CLUB RD                                                1040210402
+TREY DR                                                     1040010400
+TUCKER AVE                                                  1040210402
+TURKEY RIDGE RD                                             1040010400
+TUTT DR                                                     1040010400
+TWIN CREEKS CT                                              1040010400
+TWIN CREEKS DR                                              1040010400
+TWIN CREEKS RD                                              1040010400
+TWIN OAKS LN                                                1040010400
+TYSON RD                                                    1040010400
+US127                                                       1040210402
+US127 BUS S                                                 1040010400
+US127 BUS S                                                 1040110401
+US127 N                                                     1040010400
+US127 N                                                     1040210402
+US127 S                                                     1040010400
+US127 S                                                     1040210402
+V BLAKEY RD                                                 1040010400
+V F W LOOP RD                                               1040010400
+V FRANK RD                                                  1040010400
+VALEY CIRCLE DR                                             1040110401
+VALLEY DR                                                   1040110401
+VAUGHN DR                                                   1040110401
+VAUGHN ST                                                   1040210402
+VEB SMITH RD                                                1040010400
+VETERANS PARK RD                                            1040010400
+VICKIE LN                                                   1040010400
+VICTOR FLANAGAN RD                                          1040010400
+VICTOR RD                                                   1040010400
+VIEW POINT RD                                               1040010400
+VILLAGE DR                                                  1040210402
+VINE DR                                                     1040010400
+VINNIE RD                                                   1040010400
+VIRGINA AVE                                                 1040110401
+VOILS CIR                                                   1040210402
+VOILS PARK NO1                                              1040010400
+VOILS PARK NO2                                              1040010400
+VOILS RD                                                    1040010400
+VOILS RD                                                    1040210402
+W BERNARD RD                                                1040010400
+W E THOMAS RD                                               1040010400
+W FOSTER RD                                                 1040010400
+W STEVE WARINER DR                                          1040210402
+W SULPHUR CREEK RD                                          1040010400
+W WALTERS RD                                                1040010400
+W WILSON RD                                                 1040010400
+WADE RD                                                     1040210402
+WALNUT DR                                                   1040110401
+WALNUT GROVE RD                                             1040010400
+WALNUT LN                                                   1040010400
+WALNUT LN                                                   1040210402
+WALTER KEAN CEMETERY RD                                     1040010400
+WARRINER RIDGE RD                                           1040010400
+WARRINER VILLAGE LN                                         1040010400
+WARRINER VILLAGE SPUR                                       1040010400
+WARRINER VILLAGE SPUR RD                                    1040010400
+WATERWORKS RD                                               1040010400
+WATERWORKS RD                                               1040110401
+WATSON RD                                                   1040010400
+WAYNE RD                                                    1040010400
+WCD MAINTENANCE RD                                          1040010400
+WEBB RIDGE RD                                               1040010400
+WEDGE WAY                                                   1040010400
+WESLEY CIR                                                  1040010400
+WESLEY ST                                                   1040110401
+WEST DR                                                     1040010400
+WEST DR                                                     1040210402
+WEST LOOP                                                   1040010400
+WEST RD                                                     1040010400
+WESTON RD                                                   1040010400
+WHICKER DR                                                  1040010400
+WHITHAM RD                                                  1040010400
+WHITTLE LN                                                  1040010400
+WHITTLE RD                                                  1040010400
+WICKER RD                                                   1040010400
+WILKERSON DR                                                1040010400
+WILLIAMS RD                                                 1040010400
+WILLIE GRANT RD                                             1040010400
+WILSON RD                                                   1040010400
+WILSON RD N                                                 1040010400
+WILSON RD W                                                 1040110401
+WILSON ST                                                   1040210402
+WILSONTOWN RD                                               1040010400
+WIND SWEPT LN                                               1040010400
+WINDSWEPT LN                                                1040010400
+WINFREYS FERRY RD                                           1040010400
+WINNIE LN                                                   1040010400
+WITHERS RD                                                  1040010400
+WOLF CREEK DAM RD                                           1040010400
+WOLF CREEK RD                                               1040010400
+WOLF CREEK TRL                                              1040010400
+WOLFORD CEMETERY RD                                         1040010400
+WOMACK RD                                                   1040010400
+WOMACK ST                                                   1040210402
+WOODLAND AVE                                                1040010400
+WOODLAND DR                                                 1040010400
+WOODLAND DR                                                 1040210402
+WOODLANDS WAY                                               1040010400
+WOODS END DR                                                1040010400
+WOOLDRIDGE SCHOOL RD                                        1040010400
+WOOLEN MILL RD                                              1040010400
+WOOLEN MILL RD                                              1040110401
+YELLOW APPLE RIDGE RD                                       1040010400
+YORK CEMETERY RD                                            1040010400
+YORK RD                                                     1040010400
+Z JOHNSON RD                                                1040010400
+ZIMMERMAN RD                                                1040010400
+ZUMER HADLEY RD                                             1040010400

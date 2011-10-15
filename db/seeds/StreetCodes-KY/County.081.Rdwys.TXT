@@ -1,0 +1,661 @@
+A ST                                                        0810108101
+AA HWY                                                      0810008100
+AIRPORT RD                                                  0810008100
+ALBERT SIDNEY JOHNSTON AVE                                  0810108101
+ALLENS LN                                                   0810008100
+ANDERSON AVE                                                0811108111
+ARNOLD AVE                                                  0810108101
+ARRINGTON AVE                                               0810108101
+ARTHUR HILLS DR                                             0810008100
+ARTHUR HILLS DRIVE NO2                                      0810008100
+ARTHUR HILLS DRIVE NO3                                      0810008100
+ASH PT                                                      0810108101
+ASH ST                                                      0810108101
+ASHCRAFT RD                                                 0810008100
+ASHWOOD DR                                                  0810108101
+ASHWOOD DRIVE SPUR                                          0810108101
+AUGUSTA DOVER RD                                            0810008100
+B ST                                                        0810108101
+BALDWIN DR                                                  0810108101
+BANK ST                                                     0810108101
+BARBEE DR                                                   0810108101
+BARRETT PIKE                                                0810008100
+BARRY RD                                                    0810008100
+BAUER LN                                                    0810008100
+BAXTER LN                                                   0810008100
+BEAUMONT DR                                                 0810008100
+BEECH ST                                                    0810108101
+BEECHWOOD DR                                                0810108101
+BESS LN                                                     0810008100
+BEVERLY DR                                                  0810108101
+BIG POND RD                                                 0810008100
+BIRCH CT                                                    0810108101
+BISOTTI DR                                                  0810108101
+BLUE LICK RD N                                              0810008100
+BLUE LICK RD S                                              0810008100
+BODY SHOP                                                   0810108101
+BODY SHOP CONNECTOR                                         0810108101
+BON HAVEN DR                                                0810108101
+BOONE AVE                                                   0810108101
+BOONE DR                                                    0810108101
+BOXWOOD CT                                                  0810108101
+BRADFORDS DR                                                0810008100
+BRANDYWINE RD                                               0810008100
+BRATTON RD                                                  0810008100
+BRESLIN DR                                                  0810108101
+BRIDGE ST                                                   0810108101
+BRIDGEPORT RD                                               0810008100
+BRIDLE PATH LN                                              0810008100
+BROADWAY                                                    0810108101
+BROADWAY ALY                                                0810008100
+BROCK MCVEY                                                 0810108101
+BROOKINGS AVE                                               0810108101
+BROOKS ST                                                   0810108101
+BROWN AVE                                                   0811108111
+BROWNING CLUB DR                                            0810108101
+BRUCE ST                                                    0810108101
+BRYANT CIR                                                  0810108101
+BRYANT LN                                                   0810108101
+BUCKINGHAM SQ                                               0810108101
+BUCKNER ALY                                                 0810108101
+BUCKNER ST                                                  0810108101
+BUD THOMAS LN                                               0810008100
+BUFFALO TRACE SPUR                                          0810108101
+BUFFALO TRCE                                                0810108101
+BURNS LN                                                    0810008100
+BUS GARAGE ACCESS RD                                        0810108101
+C ST                                                        0810108101
+CABIN CREEK PIKE                                            0810008100
+CABIN HOOK LN                                               0810008100
+CAHILL RD                                                   0810008100
+CALVERT DR                                                  0810108101
+CANEBRAKE DR                                                0810108101
+CARMEL ST                                                   0810108101
+CAROLINA AVE                                                0810108101
+CARPENTER LN                                                0810008100
+CARRIE LN                                                   0810108101
+CARRIGAN QUARRY RD                                          0810008100
+CARRIGAN QUARRY RD                                          0810108101
+CASTO ALY                                                   0810108101
+CASTO ST                                                    0810108101
+CATHOLIC ALY                                                0810108101
+CEDAR HILLS RD                                              0810008100
+CEDAR TRAILS LN                                             0810008100
+CEDARWOOD DR                                                0810108101
+CEDARWOOD DRIVE CONNECTOR                                   0810108101
+CEMETERY                                                    0810108101
+CENTER ST                                                   0810108101
+CENTRAL ALY                                                 0810108101
+CENTRAL AVE                                                 0810108101
+CHARLESTON BOTTOMS RD                                       0810008100
+CHARLESTON CT                                               0810108101
+CHARLESTON PL                                               0810108101
+CHENAULT CIR                                                0810108101
+CHENAULT DR                                                 0810108101
+CHENAULT RD                                                 0810108101
+CHEROKEE CIR                                                0810108101
+CHEROKEE DR                                                 0810108101
+CHERRY ALY                                                  0810108101
+CHERRY ALY                                                  0811108111
+CHERRY BARK DR                                              0810008100
+CHERYL LYNN CIR                                             0810108101
+CHESTER ST                                                  0810108101
+CHINQUAPIN LN                                               0810008100
+CHRISSIE LN                                                 0810108101
+CIRCLE DR                                                   0810108101
+CLARENCE LN                                                 0810108101
+CLARK ST                                                    0810108101
+CLARKS RUN RD                                               0810008100
+CLARKS RUN RD                                               0810108101
+CLARKSON SHERMAN RD                                         0810008100
+CLARKSON SHERMAN RD S                                       0810008100
+CLASSIC DR                                                  0810008100
+CLIFT PIKE                                                  0810008100
+CLINE CT                                                    0810108101
+CLYDE T BARBOUR PKWY                                        0810108101
+COBB LN                                                     0810008100
+COLLIVER SUBDIVISION DR                                     0810008100
+COMMERCE ST                                                 0810108101
+CONWAY ST                                                   0810008100
+COTTAGE ALY                                                 0810108101
+COTTAGE ST                                                  0810108101
+COTTONWOOD CT                                               0810108101
+COUNTRY CLUB HTS                                            0810108101
+COX ALY                                                     0810108101
+CRACRAFT LN                                                 0810008100
+CREAMERY PIKE                                               0810008100
+CRESTVIEW ACRES                                             0810008100
+CROPPER LN                                                  0810008100
+CROSLEY LN                                                  0810008100
+CUMMINS RD                                                  0810008100
+D BERNARD COUGHLIN BLVD                                     0810108101
+DAVENPORT LN                                                0810008100
+DAVENPORT SPUR                                              0810008100
+DAVIS LN                                                    0810008100
+DAY PIKE                                                    0810008100
+DEITRICH RD                                                 0810008100
+DIVIDING RIDGE RD                                           0810008100
+DIXON PIKE                                                  0810008100
+DOGWOOD CT                                                  0810108101
+DOTSON LN                                                   0810008100
+DOVER MINERVA RD                                            0810008100
+DOWNING DR                                                  0810108101
+DRYDEN LN                                                   0810108101
+DUKE OF YORK ST                                             0810108101
+DUKE ST                                                     0811108111
+DUNBAR ST                                                   0810108101
+DYE LN                                                      0810008100
+E 2ND ST                                                    0810108101
+E 3RD ST                                                    0810108101
+E 4TH ST                                                    0810108101
+E 5TH ST                                                    0810108101
+E 6TH ST                                                    0810108101
+E ALGONQUIN DR                                              0810108101
+E BOLDEN RD                                                 0810008100
+E FRONT ST                                                  0810108101
+E FRONT STREET ALY                                          0810108101
+E MAPLE LEAF RD                                             0810008100
+E MAPLE LEAF RD                                             0810108101
+E MAPLE LEAF ROAD CROSSOVER                                 0810008100
+E MARTIN LUTHER KING HWY                                    0810008100
+E MARTIN LUTHER KING HWY                                    0810108101
+E MASON LN                                                  0810008100
+E MCDONALD PKWY                                             0810108101
+E SECOND ST                                                 0810108101
+EASTERN HILL SUBDV                                          0810008100
+EDGECLIFF DR                                                0810108101
+EDGEMONT RD                                                 0810108101
+EDITH HENRY DR                                              0810108101
+ELIZABETH ST                                                0810108101
+ELIZAVILLE RD                                               0810008100
+ELLISON ALY                                                 0810108101
+ELM ST                                                      0810108101
+ELWOOD LN                                                   0810008100
+EMERGENCY LN                                                0810108101
+EMERSON DR                                                  0810008100
+EMMONS LN                                                   0810008100
+ERIDU LN                                                    0810008100
+ERNST AVE                                                   0810108101
+EUCLID AVE                                                  0810108101
+F ST                                                        0810108101
+FEDERAL HILL DR                                             0810108101
+FERNLEAF DR                                                 0810008100
+FIELDHOUSE LN                                               0810108101
+FIELDS LN                                                   0810008100
+FISHER LN                                                   0810008100
+FIVE LICK HL                                                0811008110
+FLAT FORK RD                                                0810008100
+FLEMING RD                                                  0810108101
+FLEMINGSBURG MAYSLICK RD                                    0810008100
+FLORA DR                                                    0810008100
+FLORENCE ALY                                                0810108101
+FLORENCE ST                                                 0810108101
+FORD ACRES FARM RD                                          0810008100
+FORD ACRES FARM RD                                          0810108101
+FOREST ALY                                                  0810108101
+FOREST AVE                                                  0810008100
+FOREST AVE                                                  0810108101
+FORK LN                                                     0810008100
+FORMAN CHAPEL RD                                            0810008100
+FORT HILL RD                                                0810108101
+FOUL RD                                                     0810008100
+FOX ALY                                                     0811108111
+FOX BURROW DR                                               0810108101
+FRAME LN                                                    0810008100
+FRANKLIN ALY                                                0810008100
+FRONT ST                                                    0810008100
+FULTON LN                                                   0810008100
+GARRETT RUN                                                 0810008100
+GARRISON LANE SPUR                                          0810108101
+GARRISON LN                                                 0810008100
+GARRISON LN W                                               0810108101
+GERMANTOWN RD                                               0810008100
+GERMANTOWN RD                                               0810108101
+GLASCOCK GLEN                                               0810108101
+GLEN CIR                                                    0810108101
+GLEN DR                                                     0810108101
+GLENBROOK CIR                                               0810108101
+GLENBROOK DR                                                0810108101
+GLENBROOKE DR                                               0810108101
+GLENDALE DR                                                 0810108101
+GOLF MANOR DR                                               0810108101
+GOLF MANOR SPUR                                             0810108101
+GOOGE ALY                                                   0810108101
+GOVERNMENT ST                                               0810108101
+GRADE ST                                                    0811108111
+GRANDVIEW DR                                                0810008100
+GRAVE ALLY                                                  0810108101
+GRAVEL ROAD APPROACH                                        0810008100
+GREEN ST                                                    0810108101
+GREENHOUSE RD                                               0810008100
+GRIFFEN LN                                                  0810008100
+H WOODS RD                                                  0810008100
+HAFER HILL RD                                               0810008100
+HALL ALY                                                    0810108101
+HAMILTON LN                                                 0810008100
+HARVEST MOON LN                                             0810008100
+HAYMAKER DR                                                 0810008100
+HAYWOOD RD                                                  0810008100
+HEBRON RD                                                   0810008100
+HELENA RD                                                   0810008100
+HENRY LN                                                    0810108101
+HERITAGE SQUARE DR                                          0810108101
+HIGHLAND DR                                                 0810008100
+HIGHLAND HOLLOW SPUR                                        0810108101
+HIGHLAND HOLW                                               0810108101
+HILL AVE                                                    0810108101
+HILL CITY RD                                                0810108101
+HILL CITY RD E                                              0810108101
+HILL CITY VW                                                0810108101
+HILL N DALE                                                 0810108101
+HILLCREST DR                                                0810108101
+HILLCREST GARDEN OF MEMORIES                                0810008100
+HILLCREST SPUR                                              0810108101
+HILLTOP CIR                                                 0810008100
+HILTERBRAND LN                                              0810008100
+HINTON DR                                                   0810108101
+HOOK LN                                                     0810008100
+HOPE DR                                                     0810008100
+HORD PIKE                                                   0810008100
+HORDS HL                                                    0810108101
+HOUSTON AVE                                                 0810108101
+HUBER LN                                                    0810008100
+IDA M ROSS RD                                               0810008100
+INDUSTRIAL PARK DR                                          0810108101
+J GORDON RD                                                 0810008100
+JACOBS LN                                                   0810008100
+JAIL ST                                                     0810108101
+JAMES M BUCKLEY PL                                          0810108101
+JANE ST                                                     0811108111
+JANUARY ST                                                  0810108101
+JEFFERSON RUN                                               0810008100
+JERRY LN                                                    0810108101
+JERSEY APARTMENTS                                           0810108101
+JERSEY APARTMENTS DR                                        0810108101
+JERSEY HEIGHTS DR                                           0810108101
+JERSEY RIDGE RD                                             0810108101
+JETT ESTATES LN                                             0810008100
+JOHNSON LN                                                  0810008100
+JOHNSON LN                                                  0811008110
+JOHNSON ST                                                  0810008100
+JOHNSON ST                                                  0811108111
+JOLLY DR                                                    0810008100
+JOYCE ANN CIR                                               0810108101
+JUNIPER CT                                                  0810108101
+JUNIPER DR                                                  0810108101
+JUSTIN LN                                                   0810008100
+JUSTIN SCOTT LN                                             0810008100
+KANSAS CREEK RD                                             0810008100
+KATHY LEE CIR                                               0810108101
+KAYE ST                                                     0810008100
+KELLEY RD                                                   0810008100
+KEMPER LN                                                   0810108101
+KENNEDY CREEK RD                                            0810008100
+KENTON STATION RD                                           0810108101
+KENTUCKY ST                                                 0810108101
+KEY PIKE                                                    0810008100
+KEY PL                                                      0810008100
+KILLIAN ALY                                                 0811108111
+KINGS TRAILER PARK                                          0810108101
+KINGS TRAILER PARK NO2                                      0810108101
+KINGS TRAILER PARK NO3                                      0810108101
+KINGS TRAILER PARK NO4                                      0810108101
+KINGS WAY                                                   0810108101
+KITTER LN                                                   0810008100
+KY11                                                        0810008100
+KY11                                                        0810108101
+KY1234 N                                                    0810008100
+KY2514                                                      0810008100
+KY2514 CONNECTOR                                            0810008100
+KY3161                                                      0810008100
+KY3170                                                      0810008100
+KY419                                                       0810008100
+KY596                                                       0810008100
+KY9                                                         0810008100
+KY9                                                         0810108101
+LAFAYETTE DR                                                0810108101
+LAKE CHARLES DR                                             0810008100
+LAKE CHARLES DR                                             0810108101
+LAKE CHARLES DRIVE ACCESS                                   0810108101
+LAKE CHARLES RD                                             0810108101
+LAKE RIDGE DR                                               0810008100
+LAKE VIEW DR                                                0810008100
+LAKEVIEW GLEN                                               0810108101
+LAUREL OAKS DR                                              0810108101
+LAWRENCE LN                                                 0810008100
+LAWRENCE RD                                                 0810108101
+LAYTHAM PIKE                                                0810008100
+LEE AVE                                                     0810108101
+LEE ST                                                      0810108101
+LEES CREEK RD                                               0810008100
+LEWIS LN                                                    0810008100
+LEWIS ST                                                    0810108101
+LEXINGTON PIKE                                              0810108101
+LEXINGTON PIKE CONNECTOR                                    0810108101
+LEXINGTON ST                                                0810108101
+LIBERTY ST                                                  0810108101
+LIMESTONE APARTMENTS                                        0810108101
+LIMESTONE ST                                                0810108101
+LIMESTONE TER                                               0810108101
+LINCOLN DR                                                  0810108101
+LINCOLN DRIVE SPUR                                          0810108101
+LINDSAY ST                                                  0810108101
+LOCUST DR                                                   0810008100
+LOGAN MURPHY LN                                             0810008100
+LONETREE WAY                                                0810008100
+LONGNECKER RD                                               0810008100
+LOU GIN LN                                                  0810008100
+LOWE RD                                                     0810008100
+LOWELL RD                                                   0810008100
+LOWELL RD                                                   0811008110
+LOWER ST                                                    0810108101
+LUCRETIA ST                                                 0811108111
+LURTY AVE                                                   0811108111
+MADDOX AVE                                                  0810108101
+MAIN ST                                                     0810008100
+MAIN ST                                                     0810108101
+MAPLE DR                                                    0810108101
+MAPLE PKWY                                                  0810108101
+MAPLE RIDGE AVE                                             0810108101
+MAPLELEAF DR                                                0810008100
+MARKET ALY                                                  0810108101
+MARKET PLACE DR                                             0810108101
+MARKET SQUARE DIVIDE                                        0810108101
+MARKET SQUARE DR                                            0810108101
+MARKET SQUARE DRIVE CONNECTOR                               0810108101
+MARKET ST                                                   0810108101
+MARKET ST                                                   0811108111
+MARSHALL DR                                                 0810008100
+MARSHALL ST                                                 0810108101
+MARSHALL STATION RD                                         0810008100
+MARTHA ANN DR                                               0810108101
+MARTHA COMER DR                                             0810108101
+MARY INGLES HWY                                             0810008100
+MARY INGLES HWY                                             0811108111
+MASON LEWIS RD                                              0120301203
+MASON LEWIS RD                                              0810008100
+MASON LN                                                    0810008100
+MATTINGLY RD                                                0810008100
+MAYSVILLE COMMUNITY COLLEGE                                 0810108101
+MAYSVILLE COMMUNITY COLLEGE S                               0810108101
+MCHUGH CT                                                   0810108101
+MEADOW CREST TRAILER PARK RD                                0810008100
+MEADOW DR                                                   0810008100
+MEADOW DR                                                   0810108101
+MEADOWCREST CIR                                             0810108101
+MEADOWLAND DR                                               0810008100
+MEADOWRIDGE DR                                              0810108101
+MECHANICS ALY                                               0811108111
+MEDICAL PARK DR                                             0810108101
+MEFFORD FORT DR                                             0810108101
+MEFFORD HEIGHTS CIR                                         0810108101
+MERCHANTS ALY                                               0811108111
+METCALFE MILL PIKE                                          0810008100
+MIDDLETON HILL RD                                           0810008100
+MILL CREEK PIKE                                             0810008100
+MILLER AVE                                                  0810108101
+MINERVA TUCKAHOE RD                                         0810008100
+MITCHELL ALY                                                0810108101
+MITCHELL LN                                                 0810008100
+MOODY DR                                                    0810108101
+MOOSE LODGE PARKING                                         0810108101
+MOOSE LODGE RD                                              0810108101
+MORAN ST                                                    0811008110
+MORGAN LN                                                   0810008100
+MORRISON AVE                                                0810108101
+MORTON LN                                                   0810108101
+MORTON LN E                                                 0810108101
+MORTONS LN                                                  0810108101
+MOYER RD                                                    0810008100
+MT CARMEL RD                                                0810008100
+MT GILEAD RD                                                0810008100
+MULBERRY ALY                                                0810108101
+MULLIKIN RIDGE                                              0810008100
+MURPHYSVILLE RD                                             0810008100
+N BEAR WALLOW RD                                            0810008100
+N COURT ST                                                  0810108101
+N KNOWESHAW RD                                              0810008100
+N PEACH ALY                                                 0810108101
+N SHAWNEE RD                                                0810108101
+NAVAHO DR                                                   0810108101
+NEPTON RD                                                   0810008100
+NEWSOME LN                                                  0810008100
+NORMA EVERMAN DR                                            0810108101
+OAK FAIRWAY CT                                              0810108101
+OAK ST                                                      0810108101
+OAK WOODS RD                                                0810008100
+OAKPOINTE DR                                                0810108101
+OLD CITY HILL RD                                            0810108101
+OLD HALF HILL RD                                            0810008100
+OLD HILL CITY RD                                            0810008100
+OLD HILL CITY RD                                            0810108101
+OLD JERSEY RIDGE RD                                         0810108101
+OLD KY 11 CONNECTOR                                         0810008100
+OLD KY 3313                                                 0810008100
+OLD LOCK AND DAM RD                                         0810008100
+OLD MAIN ST                                                 0810108101
+OLD MAIN STREET CONNECTOR                                   0810108101
+OLD NORTHFORK RD                                            0810008100
+OLD PLUMVILLE PIKE                                          0810008100
+OLD SARDIS PIKE                                             0810008100
+OLD SHERMAN CLARKSON RD                                     0810008100
+OLD SIMON KENTON DR                                         0810108101
+OLIVET CHURCH RD                                            0810008100
+OPPOSSUM HOLLOW RD                                          0810008100
+ORANGEBURG RD                                               0810008100
+OSIA CT                                                     0810108101
+OVERLOOK LN                                                 0810008100
+OWENS PIKE                                                  0810008100
+OWENS PIKE CROSSOVER                                        0810008100
+OWL HOLLOW RD                                               0810008100
+PARK DR                                                     0810008100
+PARK DR                                                     0810108101
+PARK WALKING TRL                                            0810108101
+PARKER RD                                                   0810108101
+PARKERS LN                                                  0810008100
+PARRY LN                                                    0810008100
+PATTON ALY                                                  0810108101
+PAXTON INN DR                                               0810108101
+PAXTON ST                                                   0810108101
+PELHAM ALY                                                  0810108101
+PELHAM ST                                                   0810108101
+PENNY LN                                                    0810008100
+PHIL WEBER LN                                               0810108101
+PHISTER LN                                                  0810108101
+PICKETT LN                                                  0810008100
+PLAINVIEW DR                                                0810008100
+PLATINUM DR                                                 0810108101
+PLEASANT RIDGE RD                                           0810008100
+PLUM ALY                                                    0810108101
+PLUM RUN                                                    0810008100
+PLUM ST                                                     0810108101
+POE LN E                                                    0810008100
+POLECAT PIKE                                                0810008100
+POPE DR                                                     0810108101
+POPLAR ALY                                                  0810108101
+POPLAR ST                                                   0810108101
+POPLAR ST                                                   0811108111
+PRIVATE DR                                                  0810008100
+PROCTOR DR                                                  0810108101
+PROGRESS WAY                                                0810108101
+PROSPECT ST                                                 0810108101
+PUMPELLY LN                                                 0810008100
+PUMPHOUSE RD                                                0810108101
+PYLES RD                                                    0810008100
+RAILROAD ST                                                 0810108101
+RAWLINGS DR                                                 0810008100
+RAYMOND RD                                                  0810008100
+RED OAK LN                                                  0810008100
+RED OAK SPUR                                                0810008100
+REYNOLDS DR                                                 0810108101
+RIDGEWOOD DR                                                0810108101
+RISNER RD                                                   0810008100
+RIVER DR                                                    0810108101
+RIVER LANDING ACCESS RD                                     0810108101
+RIVER PARK                                                  0810108101
+RIVER PARK LOOP                                             0810108101
+RIVER PARK SPUR                                             0810108101
+RIVER RIDGE RD                                              0810108101
+RIVER RIDGE SPUR                                            0810108101
+ROANOKE CT                                                  0810008100
+ROBINSON LN                                                 0810008100
+ROGERS RD                                                   0810108101
+ROGERS ROAD LOOP                                            0810108101
+ROGERS ROAD SPUR                                            0810108101
+ROOSTER RIDGE DR                                            0810008100
+ROSEMARY ALY                                                0810108101
+ROSEMARY CLOONEY ST                                         0810108101
+ROSS DR                                                     0810008100
+S ALGONQUIN DR                                              0810108101
+S BEAR WALLOW RD                                            0810008100
+S COLLINS RD                                                0810008100
+S COURT ST                                                  0810108101
+S KNOWESHAW RD                                              0810008100
+S PEACH ALY                                                 0810108101
+S RIPLEY RD                                                 0810008100
+S SHAWNEE RD                                                0810108101
+SALT LICK LN                                                0810008100
+SAPPS LN                                                    0810008100
+SAWMILL PIKE                                                0810108101
+SCHIDLE LN                                                  0810108101
+SCHUBERT AVE                                                0810108101
+SCHULTZ ALY                                                 0810108101
+SEAN MARTIN DR                                              0810008100
+SEDDON LN                                                   0810008100
+SENIOR CITIZEN CENTER                                       0810108101
+SEQUOYIA LN                                                 0810108101
+SERVICE RD                                                  0810108101
+SEWER PLANT ACCESS RD                                       0810108101
+SHADY LN                                                    0810008100
+SHAMBRE LN                                                  0810008100
+SHANNON LN                                                  0810108101
+SHELBY ST                                                   0810008100
+SHELBY STREET EXT                                           0810008100
+SHELBY STREET SPUR                                          0810008100
+SHILOH LN                                                   0810108101
+SHORT ST                                                    0810108101
+SHOUSE LN                                                   0810008100
+SILVEY RD                                                   0810008100
+SIMMS LN                                                    0810008100
+SIMON KENTON AVE                                            0810108101
+SIMON KENTON DR                                             0810108101
+SKYLINE DR                                                  0810108101
+SLACK PIKE                                                  0810008100
+SLAGLE CREEK DR                                             0810108101
+SMITH TER                                                   0810108101
+SOUTHWORTH LANE CONNECTOR                                   0810008100
+SOUTHWORTH LN                                               0810008100
+SPAULDING AVE                                               0810108101
+SPRINGDALE RD                                               0810008100
+SPRINGHILL RD                                               0810008100
+SPRINGWOOD APTS                                             0810108101
+SPRINGWOOD DR                                               0810108101
+SPRUCE CT                                                   0810108101
+ST PAT ALY                                                  0810108101
+ST PATRICK CEMETERY A                                       0810108101
+ST PATRICK CEMETERY B                                       0810108101
+ST PATRICK CEMETERY C                                       0810108101
+ST PAUL TRINITY DR                                          0810108101
+STANLEY REED CT                                             0810108101
+STAPLETON ACRES                                             0810008100
+STARLIGHT BLVD                                              0810008100
+STATE ST                                                    0810108101
+STEPHENS HILL RD                                            0810008100
+STEVENS LN                                                  0810108101
+STOCKYARD RD                                                0810008100
+STONE LICK ROAD CROSSOVER                                   0810008100
+STONELICK RD                                                0810008100
+STRAUB DROPOFF LN                                           0810108101
+STRAUB RD                                                   0810108101
+STRODES RUN                                                 0810008100
+STRODES RUN ACCESS                                          0810008100
+SUNRISE CT                                                  0810008100
+SUNSET CT                                                   0810008100
+SUTTON ST                                                   0810108101
+SWARTZ LN                                                   0811008110
+SWITCH LN                                                   0810008100
+SYCAMORE ST                                                 0811108111
+T BECKETT RD                                                0810008100
+T WENZ RD                                                   0810008100
+TANGLETOWN RD                                               0810008100
+TANYARD HL                                                  0120301203
+TAYLOR MILL RD                                              0810008100
+TERRE HAUTE DR                                              0810108101
+TERRE HAUTE DRIVE EXT                                       0810108101
+THOMAS LN                                                   0810008100
+THORNTON RD                                                 0810008100
+THREE LICK PIKE                                             0810008100
+TIPTONS LN                                                  0810108101
+TOBACCO RD                                                  0810008100
+TOWER RD                                                    0810008100
+TRAILER RIDGE LN                                            0810008100
+TRAILS END DR                                               0810008100
+TUCKAHOE RD                                                 0810008100
+TUCKER DR                                                   0810108101
+TURKEY RIDGE RD                                             0810008100
+TWIN K LN                                                   0810008100
+TYLER ALY                                                   0810108101
+TYLER ST                                                    0810108101
+UNION ST                                                    0810108101
+UNION STREET EXT                                            0810108101
+US62                                                        0810008100
+US62                                                        0810108101
+US62                                                        0811008110
+US62 BUS                                                    0810108101
+US68                                                        0810008100
+US68                                                        0810108101
+UTOPIAN WAY                                                 0810008100
+VALENTINE DR                                                0810108101
+VALLEY CT                                                   0810008100
+VALLEY PIKE                                                 0810008100
+VAUGHN LN                                                   0810008100
+VERA LYNN LN                                                0810108101
+VERNON ST                                                   0810108101
+VICE RD                                                     0810008100
+VINE ST                                                     0810108101
+VINSENT DR                                                  0810008100
+VOCATIONAL DR                                               0810108101
+W 2ND ST                                                    0810108101
+W 3RD ST                                                    0810108101
+W 4TH ST                                                    0810108101
+W ALGONQUIN DR                                              0810108101
+W FRONT ST                                                  0810108101
+W MAPLE LEAF RD                                             0810108101
+W MARTIN LUTHER KING HWY                                    0810108101
+W MCDONALD PKWY                                             0810108101
+WADSWORTH DR                                                0810108101
+WADSWORTH PT                                                0810108101
+WADSWORTH ST                                                0810108101
+WAGEL LN                                                    0810008100
+WALKABOUT LN                                                0810008100
+WALKER LN                                                   0810008100
+WALL ST                                                     0810108101
+WALLER ST                                                   0810108101
+WALMART WAY                                                 0810108101
+WALMART WAY CONNECTOR                                       0810108101
+WALNUT LN                                                   0810108101
+WALNUT ST                                                   0810108101
+WALTON PIKE                                                 0810008100
+WARDS PIKE                                                  0810008100
+WARDS PIKE RD                                               0810008100
+WASHINGTON CEMETERY                                         0810108101
+WASHINGTON PARK DR                                          0810108101
+WASHINGTON PLACE DR                                         0810108101
+WATER TOWER RD                                              0810008100
+WEAVER RD                                                   0810008100
+WEBSTER ST                                                  0811108111
+WELSH LN                                                    0810008100
+WESTON WAY                                                  0810108101
+WILLIAMS ST                                                 0810108101
+WILSON AVE                                                  0810008100
+WINDRUSH LN                                                 0810008100
+WINDSONG DR                                                 0810008100
+WINTON WOODS DR                                             0810108101
+WINTU CIR                                                   0810108101
+WOOD ALY                                                    0810108101
+WOOD ST                                                     0810108101
+WOODBURN AVE                                                0810008100
+WOODLAND DR                                                 0810108101
+WOODLAND RIDGE DR                                           0810008100
+WOODLANE DR                                                 0810008100
+WOODWARD RD                                                 0810008100

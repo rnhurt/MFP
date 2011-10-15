@@ -56,8 +56,9 @@ state = State.find_by_abbreviation("KY")
 puts "Seeding Street(#{state.abbreviation}) codes..."
 counties = state.counties.order("name asc")
 StreetName.delete_all
-Dir.glob(File.join(Rails.root, "db", "seeds", "StreetCodes-#{state.abbreviation}", "*.*")) do |file|
-  puts "  loading file '#{File.basename(file)}'..."
+files = Dir.glob(File.join(Rails.root, "db", "seeds", "StreetCodes-#{state.abbreviation}", "*.*"))
+files.each_with_index do |file, index|
+  print "\x08"*40 + " "*40 + "\x08"*40 + " loading file #{index+1} of #{files.count}"
   open(file) do |streets|
     streets.read.each_line do |street|
       name, code = street.chomp.split("  ").delete_if{|i| i.length < 1}
@@ -65,7 +66,7 @@ Dir.glob(File.join(Rails.root, "db", "seeds", "StreetCodes-#{state.abbreviation}
     end
   end
 end
-puts "done"
+puts " done"
 
 
 # Dingo specific codes

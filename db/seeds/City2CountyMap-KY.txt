@@ -92,6 +92,7 @@ Crittenden|Grant
 Crofton|Christian
 Crossgate|Jefferson
 Cumberland|Harlan
+Cundiff|Adair
 Cynthiana|Harrison
 Danville|Boyle
 Dawson Springs|Hopkins Caldwell
@@ -200,6 +201,7 @@ Junction City|Boyle
 Kenton Vale|Kenton
 Kevil|Ballard
 Kingsley|Jefferson
+Knifley|Adair
 Kuttawa|Lyon
 LaCenter|Ballard
 LaFayette|Christian

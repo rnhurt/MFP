@@ -10,7 +10,7 @@ open(File.join(Rails.root, "db", "seeds", "ISOCountryCodes.txt")) do |countries|
 end
 puts "done"
 
-print "Seeding US State codes..."
+print "Seeding State codes..."
 State.delete_all
 us = Country.find_by_abbreviation("US")
 open(File.join(Rails.root, "db", "seeds", "ANSIStateCodes.txt")) do |states|
@@ -76,19 +76,19 @@ StaticData.create(:name => "SITE_NAME",   :value => "Metro County")
 StaticData.create(:name => "STATE_ID",    :value => STATE.id)
 puts "done"
 
-print "Seeding users..."
+print "Seeding Admin User..."
 User.delete_all
 User.create(:email => "admin@example.com", :password => "admin", :first_name => "Admin", :last_name => "User")
 puts "done"
 
-print "Seeding contact types..."
+print "Seeding Contact Types..."
 ContactType.delete_all
 %w(F.I. Warning Citation Arrest Suspect Victim Witness).each do |type|
   ContactType.create(:name => type)
 end
 puts "done"
 
-print "Seeding relationship types..."
+print "Seeding Relationship Types..."
 RelationshipType.delete_all
 %w(Alias Family Neighbor Gang).each do |type|
   RelationshipType.create(:name => type)

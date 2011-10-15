@@ -3229,7 +3229,6 @@
 72|149|Villalba Municipio
 72|151|Yabucoa Municipio
 72|153|Yauco Municipio
-74|300|Midway Islands
 78|010|St. Croix Island
 78|020|St. John Island
 78|030|St. Thomas Island

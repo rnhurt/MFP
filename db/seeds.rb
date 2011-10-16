@@ -47,7 +47,7 @@ open(File.join(Rails.root, "db", "seeds", "FIPSCityCodes-KY.txt")) do |cities|
   cities.read.each_line do |city|
     code, name = city.chomp.split("|")
     county = County.find_by_name(city2county[name.titleize])
-    City.create!(:code => code, :name => name, :county => county)
+    City.create!(:code => code, :name => name.titleize, :county => county)
   end
 end
 puts "done"

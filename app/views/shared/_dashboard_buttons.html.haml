@@ -5,5 +5,9 @@
     = link_to "Search", search_index_path
   %li{:class => "reports#{controller_name == 'reports' ? ' active' : ''}"}
     = link_to "Reports", reports_path
+  %li{:class => "callsforservice#{controller_name == 'calls_for_service' ? ' active' : ''}"}
+    = link_to "Calls for Service", calls_for_service_path
+  
+  / Only show to "admin" users
   %li{:class => "admin#{controller_name == 'admin' ? ' active' : ''}"}
     = link_to "Admin", admin_index_path

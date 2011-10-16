@@ -103,8 +103,8 @@
           - @contact.addresses.each do |address|
             %tr
               %td= address.street_address
-              %td= address.city
-              %td= address.region.try(:value)
+              %td= address.city.try(:name)
+              %td= address.state.try(:name)
               %td= address.postal_code
           
 

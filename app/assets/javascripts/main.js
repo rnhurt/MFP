@@ -24,7 +24,6 @@ mfp.init = function(){
 // header collapse and expand behaviors
 mfp.header = {
   init: function(){
-    var headerCollapseTimer = window.setTimeout(mfp.header.collapse, 1500);
     $('#header_mini').live('mouseenter', function(){
       $(this).slideUp('fast', function(){
         mfp.header.expand();

@@ -140,7 +140,6 @@ body {display:table;height:100%;}
   width:100%;
   @include box-shadow(0 0 10px #000);
   #header_mini {
-    display:none;
     position:fixed;
     top:0;
     right:0;
@@ -152,6 +151,7 @@ body {display:table;height:100%;}
     a:hover {text-decoration:underline;}
   }
   #header {
+    display:none;
     overflow:auto;
     position:fixed;
     top:0;right:0;

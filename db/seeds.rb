@@ -233,8 +233,8 @@ address_count       = Address.count
     :last_name          => Faker::Name.last_name,
     :dob                => Date.today - (rand(20000)+3000).days,
     :addresses          => addresses,
-    :race               => Race.find_by_code(%w[A B I O U W].rand),
-    :gender             => Gender.find_by_code(%w[M F U].rand),
+    :race               => Race.find_by_code(%w[A B I O U W][rand(6)]),
+    :gender             => Gender.find_by_code(%w[M F U][rand(3)]),
     :active             => true
   )
 end

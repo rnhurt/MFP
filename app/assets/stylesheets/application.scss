@@ -112,10 +112,10 @@ body {display:table;height:100%;}
       a {display:block;width:64px;height:64px;text-indent:-10000px;}
     }
     li:hover {background-color:#eee;}
-    .contacts a {background:url('/assets/handcuffs_64.png') no-repeat;}
-    .search a {background:url('/assets/search_64.png') no-repeat;}
-    .reports a {background:url('/assets/reports_64.png') no-repeat;}
-    .admin a {background:url('/assets/admin_64.png') no-repeat;}
+    .contacts a {background:image-url('handcuffs_64.png') no-repeat;}
+    .search a {background:image-url('search_64.png') no-repeat;}
+    .reports a {background:image-url('reports_64.png') no-repeat;}
+    .admin a {background:image-url('admin_64.png') no-repeat;}
     .active {z-index:910;background-color:#fff;}
     .active:hover {background-color:#fff;}
   }
@@ -191,10 +191,10 @@ body {display:table;height:100%;}
     }
     li:hover {@include box-shadow(0 0 5px $sky-blue);}
     a {display:block;text-indent:-10000px;height:276px;width:276px;}
-    .contacts a {background:url('/assets/handcuffs.png') no-repeat;}
-    .search a {background:url('/assets/search.png') no-repeat;}
-    .reports a {background:url('/assets/reports.png') no-repeat;}
-    .admin a {background:url('/assets/admin.png') no-repeat;}
+    .contacts a {background:image-url('handcuffs.png') no-repeat;}
+    .search a {background:image-url('search.png') no-repeat;}
+    .reports a {background:image-url('reports.png') no-repeat;}
+    .admin a {background:image-url('admin.png') no-repeat;}
   }
 }
 

@@ -1,0 +1,414 @@
+ABBOTT CIR                                                  1120011200
+ABBOTT DR                                                   1120111201
+ABBOTT LN                                                   1120011200
+ADAMS CT                                                    1120011200
+AGIN WAY                                                    1120011200
+AGIN WAY                                                    1120211202
+AL'S DR                                                     1120011200
+ALEXANDER AVE                                               1120111201
+ALEXANDER LN                                                1120011200
+ALEXANDER RD                                                1120011200
+ANDERSON LN                                                 1120011200
+ANDREW LN                                                   1120011200
+ARTHUR CT                                                   1120011200
+ASHTIN LN                                                   1120011200
+AUTUMN CT                                                   1120011200
+BALL LN                                                     1120111201
+BAREBONE RD                                                 1120011200
+BARNYARD LN                                                 1120011200
+BARTH HILL RD                                               1120011200
+BAYNE ST                                                    1120211202
+BEDFORD PIKE EXT                                            1120011200
+BELL CT                                                     1120011200
+BELLS RIDGE RD                                              1120011200
+BLUEGRASS CT                                                1120011200
+BOB GREEN RD                                                1120011200
+BRANDON WAY                                                 1120011200
+BRAY RIDGE RD                                               1120011200
+BRIAN'S LN                                                  1120011200
+BROOMSTICK HOLW                                             1120011200
+BROWNING LN                                                 1120011200
+BUCHANAN LN                                                 1120011200
+BUCK CREEK RD                                               1120011200
+BUCKS RUN RD                                                1120011200
+BURKHARDT BOTTOM RD                                         1120011200
+BURKHARDT LN                                                1120011200
+BURTON HILL RD                                              1120011200
+BUTTON RIDGE RD                                             1120011200
+CABLE LN                                                    1120011200
+CALLIS LN                                                   1120011200
+CALVERT LN                                                  1120011200
+CAMPBELL HILL RD                                            1120011200
+CARLEY LN                                                   1120011200
+CARMON CREEK RD                                             1120011200
+CASSELL LN                                                  1120011200
+CEDAR HILLS RD                                              1120011200
+CEDAR RIDGE RD                                              1120011200
+CEDARWOOD RD                                                1120011200
+CEMETERY NO1 RD                                             1120011200
+CEMETERY NO2 RD                                             1120011200
+CEMETERY NO3 RD                                             1120011200
+CEMETERY NO4 RD                                             1120011200
+CENTER CT                                                   1120011200
+CHARLIE PURVIS RD                                           1120011200
+CHILTON HOOVER DR                                           1120011200
+CHURCH ST                                                   1120111201
+CHURCHWOOD LN                                               1120211202
+CLARK RD                                                    1120011200
+CLAUDIE JONES RD                                            1120011200
+CLIFFORD LN                                                 1120011200
+COLBERT LN                                                  1120011200
+COLE LN                                                     1120011200
+CONNECTOR RD                                                1120011200
+CONNER RIDGE RD                                             1120011200
+COOPERS BOTTOM RD                                           1120011200
+COOPERS BOTTOM RD                                           1120211202
+CORLEY RD                                                   1120011200
+CORN CREEK RD                                               1120011200
+CRAIG RD                                                    1120011200
+CULLS RIDGE RD                                              1120011200
+CUT THROUGH RD                                              1120211202
+CUTSHAW LN                                                  1120011200
+CUTSHAW LN                                                  1120111201
+DAUGHERTY CREEK RD                                          1120011200
+DEANS RD                                                    1120011200
+DEEP ELEM BR                                                1120011200
+DEEP ELEM DR                                                1120011200
+DELORA MCCOY RD                                             1120011200
+DETMER LANE EXT                                             1120011200
+DETMER LN                                                   1120011200
+DEVIN DR                                                    1120011200
+DIXON DR                                                    1120011200
+DOE RIDGE RD                                                1120011200
+DRURY LN                                                    1120011200
+DRY FORK RD                                                 1120011200
+E COURT DR                                                  1120011200
+E MCKINNEY RD                                               1120011200
+EDGEWATER DR                                                1120211202
+EGERTON LN                                                  1120111201
+EGERTON RD                                                  1120011200
+ESTELLE LN                                                  1120011200
+EVE CT                                                      1120011200
+EVERGREEN ST                                                1120211202
+EWINGSFORD RD                                               1120011200
+FAIRGROUND RD                                               1120011200
+FAIRGROUND RD                                               1120111201
+FAIRVIEW CIR                                                1120011200
+FAIRVIEW CIR                                                1120111201
+FAIRVIEW CIRCLE DR                                          1120011200
+FAIRWAY DR                                                  1120011200
+FARMALL LN                                                  1120011200
+FIESTA DR                                                   1120011200
+FISHER FARM RD                                              1120011200
+FISHER RIDGE RD                                             1120011200
+FLOOD CT                                                    1120011200
+FLORA GREEN RD                                              1120011200
+FOX GATE LN                                                 1120011200
+FURNISH LN                                                  1120111201
+GARRIOTT CT                                                 1120011200
+GARRIOTT RD                                                 1120011200
+GATEWOOD LN                                                 1120011200
+GENE JONES RD                                               1120011200
+GEORGES CREEK EXT                                           1120011200
+GEORGES CREEK RD                                            1120011200
+GILLS RIDGE RD                                              1120011200
+GOSSOM LN                                                   1120011200
+GREENBRIAR RD                                               1120011200
+GREY ST                                                     1120111201
+GRIBBINS RD                                                 1120011200
+GROSS LN                                                    1120011200
+HACKNEY LN                                                  1120011200
+HANDLON RD                                                  1120011200
+HANLON CT                                                   1120011200
+HARDY CREEK RD                                              1120011200
+HARLEY LN                                                   1120011200
+HARMON LN                                                   1120011200
+HAVENS AVE                                                  1120011200
+HEATHER DR                                                  1120011200
+HENSLEY RD                                                  1120011200
+HI GROVE HILL RD                                            1120011200
+HICKORY DR                                                  1120011200
+HIDDEN CRK                                                  1120011200
+HIGH COUNTRY LN                                             1120011200
+HIGH RIDGE CT                                               1120011200
+HIGH ST                                                     1120211202
+HILLCREST DR                                                1120011200
+HILLTOP LN                                                  1120011200
+HILLWOOD DR                                                 1120011200
+HOSKINS LN                                                  1120011200
+HOWARD LEACH RD                                             1120011200
+HUBBARD LN                                                  1120011200
+HUGHES DR                                                   1120011200
+HUNTERS RD                                                  1120011200
+I71 N                                                       1120011200
+I71 S                                                       1120011200
+INDUSTRIAL PARK DR                                          1120011200
+JENKINS WHITMAN AVE                                         1120011200
+JENNA CT                                                    1120011200
+JONES LN                                                    1120011200
+JORDAN WAY                                                  1120011200
+JOYCE MILLS RD                                              1120011200
+JOYCE RIDGE RD                                              1120011200
+KATRINA LN                                                  1120011200
+KEMP LN                                                     1120011200
+KENLEE DR                                                   1120011200
+KIDWELL PIKE                                                1120011200
+KING RD                                                     1120011200
+KRUSE LN                                                    1120011200
+KUHLMAN LN                                                  1120011200
+KY316                                                       1120011200
+KY36                                                        1120011200
+KY36                                                        1120211202
+KY55                                                        1120011200
+KY6334                                                      1120211202
+LAKE SHERWOOD DR                                            1120011200
+LAKEVIEW CT                                                 1120011200
+LAKEVIEW RD                                                 1120011200
+LAKEVIEW ROAD EXT                                           1120011200
+LAKEWOOD LN                                                 1120011200
+LANDY HILL RD                                               1120011200
+LATTA RD                                                    1120011200
+LAURA LN                                                    1120011200
+LAW LN                                                      1120011200
+LAWSON AVE                                                  1120111201
+LEAR LN                                                     1120011200
+LEATHERBURY CIR                                             1120011200
+LEATHERBURY LN                                              1120011200
+LEEPORT RD                                                  1120011200
+LEHUE RD                                                    1120011200
+LEISURE CT                                                  1120011200
+LEISURE CT                                                  1120111201
+LEXIS CT                                                    1120011200
+LIBERTY RD                                                  1120011200
+LITTRELL HILL RD                                            1120011200
+LITTRELL RD                                                 1120011200
+LOCUST DR                                                   1120011200
+LOCUST GROVE                                                1120011200
+LOCUST LN                                                   1120011200
+LOCUST LN                                                   1120111201
+LOG HOUSE LN                                                1120011200
+LOGAN LANE EXT                                              1120011200
+LOGAN LN                                                    1120011200
+LONGVIEW DR                                                 1120011200
+LOUDEN LN                                                   1120011200
+LOWER MIDDLE CREEK RD                                       1120011200
+LOWER PATTONS CREEK RD                                      1120011200
+LUCKETT AVE                                                 1120111201
+LUCKETT LN                                                  1120011200
+LYKINS LN                                                   1120011200
+MAGNOLIA ST                                                 1120211202
+MANDY CT                                                    1120011200
+MAPLE ST                                                    1120211202
+MARTINI LN                                                  1120011200
+MCCORD LN                                                   1120011200
+MCCORD LN                                                   1120211202
+MCCOY CIR                                                   1120011200
+MCCOY DR                                                    1120011200
+MCCOY DR S                                                  1120011200
+MCDOWELL LN                                                 1120011200
+MCDOWELL RD                                                 1120011200
+MCKINNEY FARM RD                                            1120011200
+MCKINNEY LN                                                 1120011200
+MEADOW LN                                                   1120111201
+MEADOWLARK CT                                               1120011200
+MEGAN LN                                                    1120011200
+MEGAN SQ                                                    1120011200
+MEMORY LN                                                   1120011200
+MILES RD                                                    1120011200
+MILLENNIUM LN                                               1120011200
+MILLER LN                                                   1120111201
+MILLERS BRANCH EXT                                          1120011200
+MILLERS BRANCH RD                                           1120011200
+MILTON BEDFORD PIKE                                         1120011200
+MILTON BEDFORD PIKE                                         1120211202
+MISSIONARY DR                                               1120011200
+MITCHELL RD                                                 1120011200
+MOFFETT CEMETERY                                            1120011200
+MOFFETT CEMETERY                                            1120211202
+MOFFETT RD                                                  1120011200
+MOFFETT RD                                                  1120211202
+MORELAND CT                                                 1120011200
+MORTON RIDGE RD                                             1120011200
+MOSLEY LN                                                   1120011200
+MOSSER RD                                                   1120011200
+MOUTH OF PATTONS CREEK NO1 RD                               1120011200
+MOUTH OF PATTONS CREEK NO2 RD                               1120011200
+MT CARMEL RD                                                1120011200
+MT PLEASANT RD                                              1120011200
+MULLIKIN LN                                                 1120011200
+MULLINS DR                                                  1120011200
+MYERS LN                                                    1120011200
+N GATE DR                                                   1120011200
+N MAIN ST                                                   1120111201
+N RIDGE DR                                                  1120011200
+N SPILLMAN LN                                               1120011200
+N VENARD RD                                                 1120011200
+NEW HOPE RD                                                 1120011200
+NICHOLS RD                                                  1120011200
+NOAH'S LN                                                   1120011200
+NORVELLE RD                                                 1120011200
+NUBBIN RIDGE RD                                             1120011200
+NUTGRASS LN                                                 1120011200
+OAK GROVE RD                                                1120011200
+OAK HILL LN                                                 1120011200
+OGDEN MOSLEY RD                                             1120011200
+OGDEN RIDGE RD                                              1120011200
+OLD HILL RD                                                 1120011200
+OLD MILL RD                                                 1120011200
+OLD MILTON BEDFORD RD                                       1120211202
+OLD SCHOOL DR                                               1120211202
+OLD SLED RD                                                 1120111201
+ONE WHEEL RD                                                1120011200
+ORCHARD CT                                                  1120011200
+OUR PL                                                      1120011200
+PALMYRA RD                                                  1120011200
+PATTONS CREEK RD                                            0930011200
+PATTONS CREEK RD                                            1120011200
+PEAKS PT                                                    1120011200
+PECK PIKE                                                   1120011200
+PECK PIKE                                                   1120211202
+PENDLETON AVE                                               1120011200
+PENDLETON AVE                                               1120111201
+PERKINSON LN                                                1120011200
+PERSELL RD                                                  1120011200
+PLAINVIEW CT                                                1120011200
+POND CT                                                     1120011200
+POPPAW RIDGE                                                1120011200
+POWELL HILL RD                                              1120011200
+PRYORS FORK                                                 1120011200
+PURVIS LN                                                   1120011200
+PYLES RD                                                    1120211202
+QUEEN LN                                                    1120011200
+QUIRE JOSLIN LN                                             1120011200
+R D KENDELL RD                                              1120011200
+RACE TRACK RD                                               1120011200
+RAKER RD                                                    1120211202
+RALPH BELL RD                                               1120011200
+RALSTON RD                                                  1120011200
+RANSDELL CT                                                 1120011200
+REDBUD LN                                                   1120011200
+REYNOLDS WAY                                                1120011200
+RHEA DR                                                     1120011200
+RICHMOND HILL RD                                            1120011200
+RICHMOND RD                                                 1120011200
+RICHWOOD RD                                                 1120011200
+RICHWOOD ROAD EXT                                           1120011200
+RIDGETOP DR                                                 1120011200
+RIDGETOP RD                                                 1120011200
+RIDGEWAY CT                                                 1120011200
+RIVER VALLEY WAY                                            1120011200
+RIVERDALE DR                                                1120011200
+RIVERSIDE DR                                                1120011200
+RIVERVIEW DR                                                1120211202
+ROBERTS RD                                                  1120011200
+ROBIN LN                                                    1120011200
+RODGERS LN                                                  1120011200
+RODGERS RD                                                  1120011200
+ROSE HILL RD                                                1120011200
+ROWLETT AVE                                                 1120011200
+ROWLETT LN                                                  1120011200
+RUBY'S DR                                                   1120011200
+S CAMPBELL LN                                               1120011200
+S CARLISLE RD                                               1120011200
+S GARRIOT CT                                                1120011200
+S MAIN ST                                                   1120011200
+S MAIN ST                                                   1120111201
+S SPILLMAN LN                                               1120011200
+S VENARD RD                                                 1120011200
+SANDHILL RD                                                 1120011200
+SCHOOL HOLLOW RD                                            1120211202
+SELLS LN                                                    1120011200
+SHADY LN                                                    1120011200
+SHEPHERD LN                                                 1120011200
+SMITH DR                                                    1120111201
+SMITH LN                                                    1120011200
+SMITHA RD                                                   1120011200
+SMITHA ROAD EXT                                             1120011200
+SNELL LN                                                    1120011200
+SPORTSMAN LN                                                1120011200
+SPRAGUE LN                                                  1120011200
+SPRING AVE                                                  1120011200
+SPRING AVE                                                  1120111201
+SPRING CREEK LN                                             1120011200
+SPRING ST                                                   1120011200
+SPRING ST                                                   1120211202
+SPRING VALLEY RD                                            1120011200
+SPRING VALLEY RD                                            1120111201
+SPRINGHILL LN                                               1120011200
+STARK LN                                                    1120011200
+STAUFFER CT                                                 1120011200
+STAUFFER DR                                                 1120011200
+STEWART LN                                                  1120011200
+STONESTREET RD                                              1120111201
+STRAWBERRY LN                                               1120011200
+SULLIVAN LN                                                 1120011200
+SULPHUR BEDFORD RD                                          1120011200
+SUMMERFIELD CT                                              1120011200
+SUNNYSIDE DR                                                1120011200
+SUNNYSIDE DRIVE EXT                                         1120011200
+SUTHERLAND RD                                               1120011200
+SYCAMORE ST                                                 1120211202
+SYCAMORE TRL                                                1120011200
+TANDYWOOD DR                                                1120011200
+TAYLOR FARM RD                                              1120011200
+THORN HILL RD                                               1120011200
+THREE SPRINGS LN                                            1120011200
+TILLEY LN                                                   1120011200
+TIMBERLINE RD                                               1120011200
+TINGLE LN                                                   1120011200
+TOLEIHA LN                                                  1120211202
+TOMMY CIRCLE RD                                             1120011200
+TOOMBS RD                                                   1120011200
+TOPPER LN                                                   1120011200
+TOWN BRANCH RD                                              1120111201
+TREE FARM RD                                                1120011200
+TRIMBLE RECREATIONAL FACILITY NO1 RD                        1120011200
+TRIMBLE RECREATIONAL FACILITY NO2 RD                        1120011200
+TRIMBLE RECREATIONAL FACILITY NO3 RD                        1120011200
+TRIMBLE RECREATIONAL FACILITY NO4 RD                        1120011200
+TROUT RIDGE RD                                              1120011200
+TROY LOUIS LN                                               1120011200
+TWIN RIDGE DR                                               1120011200
+UPPER MIDDLE CREEK RD                                       1120011200
+US42 E                                                      1120011200
+US42 E                                                      1120111201
+US42 W                                                      1120011200
+US421 N                                                     1120011200
+US421 N                                                     1120211202
+US421 S                                                     1120011200
+US421 S                                                     1120111201
+US421 SPUR                                                  1120211202
+VALENTINES LN                                               1120011200
+VALLEY DR                                                   1120011200
+VANKEN RIDGE RD                                             1120011200
+VICTORY AVE                                                 1120111201
+VOLUNTEER DR                                                1120011200
+WALKER LN                                                   1120011200
+WATER CT                                                    1120011200
+WATSON LANDING RD                                           1120011200
+WATSON LN                                                   1120011200
+WATSON TANDY RD                                             1120011200
+WAYNES LN                                                   1120011200
+WEBB LN                                                     1120011200
+WEBSTER LANE SPUR                                           1120011200
+WEBSTER LN                                                  1120011200
+WENTWORTH AVE                                               1120111201
+WENTWORTH RD                                                1120011200
+WESLEY DR                                                   1120011200
+WEST ST                                                     1120111201
+WESTRICK LN                                                 1120011200
+WHEELER RD                                                  1120011200
+WHIPPOORWILL RD                                             1120011200
+WHITAKER RD                                                 1120011200
+WHITAKER RD                                                 1120211202
+WILEY RD                                                    1120011200
+WILLARD WILSON RD                                           1120011200
+WILLIS LN                                                   1120011200
+WILLIS PT                                                   1120011200
+WILSON CT                                                   1120011200
+WILSON RD                                                   1120011200
+WINDY RIDGE RD                                              1120011200
+WISES LANDING EXT                                           1120011200
+WISES LANDING RD                                            1120011200
+WOODLAWN RD                                                 1120011200
+WRIGHT CT                                                   1120011200

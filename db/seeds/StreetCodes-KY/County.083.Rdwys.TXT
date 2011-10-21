@@ -1,0 +1,506 @@
+ABNEY RIDGE RD                                              0830008300
+ADAMS ACERS RD                                              0830008300
+ADAMS BRANCH RD                                             0830008300
+ADAMS LN                                                    0830008300
+ALLEN COPE RD                                               0830008300
+ALLEY RD                                                    0830008300
+AMOS CUT RD                                                 0830008300
+AMOS RIDGE RD                                               0830008300
+ANSEL SPENCER RD                                            0830008300
+ANTLER WAY RD                                               0830008300
+APPLE BLOSSOM LN                                            0830108301
+APPLE LN                                                    0830008300
+ARROW DR                                                    0830008300
+ARTHUR SEXTON                                               0830008300
+ARTVILLE RD                                                 0830008300
+ARVEL JONES RD                                              0830008300
+ASHLEY DAWN DR                                              0830008300
+ASHLEY RIDGE RD                                             0830008300
+AUTUMN LN                                                   0830008300
+B LN                                                        0830008300
+BACK ST                                                     0830108301
+BAIR RD                                                     0830008300
+BAKER CEMETERY RD                                           0830008300
+BARN CAVE RD                                                0830008300
+BARN LOOP RD                                                0830008300
+BEAN BRANCH RD                                              0830008300
+BEAR BRANCH RD                                              0830008300
+BEAVER CREEK BOAT RAMP                                      0830008300
+BEAVER CT                                                   0830108301
+BECRAFT RD                                                  0830008300
+BECRAFT SPUR RD                                             0830008300
+BENSON CRAIG CEMETERY RD                                    0830008300
+BENSON LN                                                   0830008300
+BENTLEY CIR                                                 0830008300
+BERRYMAN RD                                                 0830008300
+BETTY GAP RIDGE                                             0830008300
+BIBLE CAMP LN                                               0830008300
+BIG BUCK LN                                                 0830008300
+BIG SALT LICK CREEK RD                                      0830008300
+BIG WOODS RD                                                0830008300
+BILL PEYTON LN                                              0830008300
+BLACK FORK SPUR RD                                          0830008300
+BLACKBERRY LN                                               0830008300
+BLACKOAK RD                                                 0830008300
+BLEVINS RD                                                  0830008300
+BLUEBERRY LN                                                0830008300
+BLUEBIRD LN                                                 0830008300
+BOARDCUT BR                                                 0830008300
+BOAT RAMP RD                                                0830008300
+BOB AND JOANNE LN                                           0830008300
+BOB FIELDS TRL                                              0830008300
+BOBBIE JEAN DR                                              0830008300
+BONN MOUNTAIN RD                                            0830008300
+BOTTS CEMETERY                                              0830008300
+BRADLEY LN                                                  0830008300
+BRANDENBURG LEFT FORK                                       0830008300
+BRANDONBURG LN                                              0830008300
+BRIARWOOD DR                                                0830008300
+BRONCO LN                                                   0830008300
+BROOKS LN                                                   0830008300
+BROWN CEMETERY                                              0830008300
+BROWN WEST RD                                               0830008300
+BROWNING LN                                                 0830008300
+BROWNS RUN RD                                               0830008300
+BRUSHY FORK IGO RDG                                         0830008300
+BRUSHY FORK NORTH RD                                        0830008300
+BRYANT LN                                                   0830008300
+BUCK CREEK RD                                               0830008300
+BUCK DR                                                     0830008300
+BUCKEYE LN                                                  0830008300
+BUFFORD RD                                                  0830008300
+BULL FORK RD                                                0830008300
+BUNKER LN                                                   0830008300
+BUTTERNUT LN                                                0830008300
+BYRDE RIDGE RD                                              0830008300
+C LN                                                        0830008300
+CAMP JUDY LANE RD                                           0830008300
+CANE MILL RD                                                0830008300
+CANNOY DR                                                   0830108301
+CANYON RIDGE                                                0830008300
+CARDINAL RD                                                 0830008300
+CARRINGTON BRANCH RD                                        0830008300
+CARRINGTON GREEN RD                                         0830008300
+CAVE RUN HTS                                                0830008300
+CEDAR LN                                                    0830008300
+CENTER LN                                                   0830008300
+CHAMP LN                                                    0830008300
+CHARLES TRUSTY RD                                           0830008300
+CHARLIE FERRELL RD                                          0830008300
+CHARLIE INGRAM RD                                           0830008300
+CHARLIE WILSON RD                                           0830008300
+CHASE CT                                                    0830008300
+CHEROKEE RD                                                 0830008300
+CHERRY LN                                                   0830008300
+CHESTER CARTY RD                                            0830008300
+CHESTNUT LN                                                 0830008300
+CITY HTS                                                    0830108301
+CLAYLICK RD                                                 0830008300
+CLEM BRANCH RD                                              0830008300
+CLEVE ROBERTSON RD                                          0830008300
+CLIFF DR                                                    0830008300
+CLIFTON RD                                                  0830008300
+CLINTON STILTNER RD                                         0830008300
+CLOVER LN                                                   0830008300
+CLYDE BANKS RD                                              0830008300
+CLYDE PECK RD                                               0830008300
+COAL BANKS RD                                               0830008300
+COATNEY MOUNTAIN RD                                         0830008300
+COLDIRON RD                                                 0830008300
+COLEMAN RD                                                  0830008300
+COMBS JEWELL DAY CEMETERY                                   0830008300
+COMBS LN                                                    0830008300
+CONDOR RD                                                   0830008300
+CONWAY RD                                                   0830008300
+COOLIDGE COMBS RD                                           0830008300
+COON CREEK RD                                               0830008300
+COOPERTOWN CT                                               0830108301
+COPE LN                                                     0830008300
+COPE RIDGE RD                                               0830008300
+CORNER RIDGE RD                                             0830008300
+CORNWELL BRANCH RD                                          0830008300
+CORNWELL STA                                                0830008300
+CORP DR                                                     0830008300
+COUNTRY CABIN HL                                            0830008300
+COUNTY PARK RD                                              0830008300
+COURTNEY PECK RD                                            0830008300
+COWBOY LN                                                   0830008300
+COYOTE LN                                                   0830008300
+CRAIG LN                                                    0830108301
+CRAIN CIRCLE                                                0830008300
+CRAIN CIRCLE                                                0830108301
+CREEK VIEW RD                                               0830008300
+CRESENT HILL LN                                             0830008300
+CROSSCREEK LN                                               0830008300
+CUB RUN CT                                                  0830008300
+CUB RUN RD                                                  0830008300
+DALE BACK RD                                                0830008300
+DAN RIDGE RD                                                0830008300
+DANIEL MORRISON RD                                          0830008300
+DASHOUND LN                                                 0830008300
+DAUGHTERY RD                                                0830008300
+DAWN DR                                                     0830008300
+DEER RUN RD                                                 0830008300
+DEERPARK DR                                                 0830008300
+DENNIS LN                                                   0830008300
+DENNISTON CEMETERY                                          0830008300
+DESKINS LN                                                  0830008300
+DESKINS SPUR                                                0830008300
+DEWLON CT                                                   0830008300
+DICKEY WELLS RD                                             0830008300
+DILLION RD                                                  0830008300
+DOC MULLINS RD                                              0830008300
+DOE DR                                                      0830008300
+DOE VIEW DR                                                 0830008300
+DOG TROT RD                                                 0830008300
+DOGWOOD DR                                                  0830008300
+DON LAWSON RD                                               0830008300
+DOUBLE D FARM RD                                            0830008300
+DOUGLAS BRANCH RD                                           0830008300
+DOVE HILL RD                                                0830008300
+E FORK INDIAN CREEK RD                                      0830008300
+E FORK RD                                                   0830008300
+E KNOTT RD                                                  0830008300
+E OLD STATE RD                                              0830008300
+EAGLE LN                                                    0830008300
+EAGLE NEST LN                                               0830008300
+EARL LITTLE RD                                              0830008300
+EASY ST                                                     0830008300
+EBONS RD                                                    0830008300
+EDGE LN                                                     0830008300
+EGELSTON LN                                                 0830008300
+ELMER COLLINS RD                                            0830008300
+ELMER HENRY RD                                              0830008300
+EMILY ROSE LN                                               0830008300
+FAGAN CEMETERY RD                                           0830008300
+FALLEN TIMBER BRANCH RD                                     0830008300
+FARRELL MEMORY LN                                           0830008300
+FAST LN                                                     0830008300
+FAWNWAY RD                                                  0830008300
+FERGUSON HOLLOW RD                                          0830008300
+FERN RD                                                     0830008300
+FLETCHER RIDGE RD                                           0830008300
+FORESTRY ROAD NO23                                          0990008300
+FOUR SEASONS RD                                             0830008300
+FOXFIRE RD                                                  0830008300
+FRANK HURT RD                                               0830008300
+FRENCHBURG CT                                               0830108301
+FRIENDS DRIVE LEFT FORK                                     0830008300
+FRISBY LN                                                   0830008300
+FROSTY CT                                                   0830108301
+FUGATE NORTH RD                                             0830008300
+FUGATE NORTH ROAD EXT                                       0830008300
+GIBBS CEMETERY RD                                           0830008300
+GLADYS TOLSON RD                                            0830008300
+GOLDENROD LN                                                0830008300
+GREENFIELD RD                                               0830008300
+GREENWADE CEMETERY                                          0830008300
+GROUSE LN                                                   0830008300
+GROVER LAWSON LOOP RD                                       0830008300
+GROVER LAWSON RD                                            0830008300
+HALES LN                                                    0830008300
+HALLS RIDGE RD                                              0830008300
+HALSEY LN                                                   0830008300
+HAMILTON CHP CEMETERY                                       0830008300
+HAMM LN                                                     0830008300
+HARDWOOD HL                                                 0830008300
+HARRISON DR                                                 0830108301
+HARVEY RATLIFF RD                                           0830008300
+HATTON RIDGE RD                                             0830008300
+HAVEN RD                                                    0830008300
+HAWKINS BRANCH RD                                           0830008300
+HEATHER LN                                                  0830008300
+HEIZER HILL RD                                              0830008300
+HEMLOCK RD                                                  0830008300
+HENSLEY HILL RD                                             0830008300
+HICKORY LN                                                  0830008300
+HIDDEN CT                                                   0830008300
+HIDDEN HOLLOW RD                                            0830008300
+HIGH ROCK LN                                                0830008300
+HIGHLEY RD                                                  0830008300
+HILL TOP LANE SPUR                                          0830008300
+HILL TOP LN                                                 0830008300
+HILLTOP LN                                                  0830008300
+HOG BRANCH RD                                               0830008300
+HOOSTER RUN RD                                              0830008300
+HOPE MEANS RD                                               0830008300
+HORSESHOE RD                                                0830008300
+HUDSON CEMETERY                                             0830008300
+IGO RIDGE RD                                                0830008300
+INDIAN CREEK RD                                             0830008300
+INDIAN CREEK RD                                             0830108301
+INDUSTRIAL PARK RD                                          0830008300
+ISSAC DR                                                    0830008300
+JACKS DR                                                    0830008300
+JACQUELYNNE LN                                              0830008300
+JAMIES RD                                                   0830008300
+JDT RD                                                      0830008300
+JERRY ADKINS RD                                             0830008300
+JIMS BRANCH RD                                              0830008300
+JO DEAN LN                                                  0830008300
+JOB CORP WAY                                                0830008300
+JOE HARMON                                                  0830008300
+JOHNSON BRANCH RD                                           0830008300
+JOURNEYS END                                                0830008300
+JR BOWMAN RD                                                0830008300
+JUMP OFF RD                                                 0830008300
+KASH TRL                                                    0830008300
+KATTER RIDGE RD                                             0830008300
+KEETONS LAKE RD                                             0830008300
+KEITHS LOOP                                                 0830008300
+KENDRICK RIDGE RD                                           0830008300
+KESTREL DR                                                  0830008300
+KIMBERLY LN                                                 0830008300
+KLABER RIDGE RD                                             0830008300
+KY1196                                                      0830008300
+KY1274                                                      0830008300
+KY2071                                                      0830011900
+KY3341                                                      0830008300
+KY36                                                        0830008300
+KY36                                                        0830108301
+KY946                                                       0830008300
+LAKESTONE RD                                                0830008300
+LANDRUM LN                                                  0830008300
+LANTERN WAY                                                 0830108301
+LARIAT RD                                                   0830008300
+LARK LN                                                     0830008300
+LAUREL LN                                                   0830008300
+LAWSON HILL RD                                              0830008300
+LEADRUNNER LN                                               0830008300
+LEATHERWOOD FORK INDIAN CREEK RD                            0830008300
+LEATHERWOOD NO2 RD                                          0830008300
+LEE LN                                                      0830008300
+LEE TERRELL RD                                              0830008300
+LEWIS CEMETERY                                              0830008300
+LEWIS CHAMBERS CEMETERY                                     0830008300
+LINDSEY LN                                                  0830008300
+LITTLE BLACK WATER                                          0830008300
+LITTLE EGYPT RD                                             0830008300
+LITTLE LEAGUE LN                                            0830008300
+LIZZARD RIDGE RD                                            0830008300
+LLOYD BALLARD RD                                            0830008300
+LONG BRANCH RD                                              0830008300
+LONG RUN RD                                                 0830008300
+LONGBOW RD                                                  0830008300
+LONGRIDGE RD                                                0830008300
+LOOKOUT HEIGHTS RD                                          0830008300
+LOST AND FOUND VILLAGE RD                                   0830008300
+LOVELACE RD                                                 0830008300
+LOWELL CIR                                                  0830008300
+LOWER STALLION RD                                           0830008300
+LUCKY LN                                                    0830008300
+LYONS LN                                                    0830108301
+MACK CEMETERY RD                                            0830008300
+MAJOR WILHOIT RD                                            0830008300
+MALTESE LN                                                  0830008300
+MANESS LN                                                   0830008300
+MANN CEMETERY RD                                            0830008300
+MAPLEWOOD RD                                                0830008300
+MARBLE LN                                                   0830008300
+MARION BROWN RD                                             0830008300
+MARY ELLEN CT                                               0830008300
+MAY APPLE LN                                                0830008300
+MAYNARD LN                                                  0830008300
+MCCAUSEY RIDGE RD                                           0830008300
+MEADOW VIEW RD                                              0830008300
+MEANS CT                                                    0830008300
+MELVIN WELLS RD                                             0830008300
+MEYERS BRANCH FORK RD                                       0830008300
+MEYERS FORK RD                                              0830008300
+MIDNIGHT PASS RD                                            0830008300
+MILKGAP RD                                                  0830008300
+MILL RUN RD                                                 0830008300
+MILL RUN RD N                                               0830008300
+MILL RUN RD S                                               0830008300
+MILL STONE RD                                               0830008300
+MORGAN HOLW                                                 0830008300
+MORGAN WAY                                                  0830008300
+MORGANVIEW RD                                               0830008300
+MORRIS RD                                                   0830008300
+MORRISON COLDIRON CEMETERY                                  0830008300
+MORT BOTTS CEMETERY                                         0830008300
+MORT BOTTS RD                                               0830008300
+MORT STULL RD                                               0830008300
+MOTLEY CT                                                   0830108301
+MOUNTAIN RIDGE RD                                           0830008300
+MOUNTAIN VALLEY CT                                          0830008300
+MOUNTAIN VIEW LN                                            0830008300
+MURDER BRANCH RD                                            0830008300
+MURPHY TOWNSEND RD                                          0830008300
+MYNX LN                                                     0830008300
+N POMEROYTON RD                                             0830008300
+N RAYMOND RD                                                0830008300
+NEW GROUND RD                                               0830008300
+NICKLE LN                                                   0830008300
+NOLAN RD                                                    0830008300
+NORRIS CEMETERY                                             0830008300
+OAK LN                                                      0830008300
+OHAIR LN                                                    0830008300
+OLD BEAVER RD                                               0830008300
+OLD CAMPUS RD                                               0830108301
+OLINGER RD                                                  0830008300
+OPOSSOM HOLW                                                0830008300
+OWL HEAD LN                                                 0830008300
+PANSY LN                                                    0830008300
+PARK RD                                                     0830008300
+PARKWAY LN                                                  0830008300
+PARSONS LN                                                  0830008300
+PATRICK CEMETERY RD                                         0830008300
+PATRIOT LN                                                  0830008300
+PAUL HALL RD                                                0830008300
+PAYTON LN                                                   0830008300
+PEACHY WILLIAMS RD                                          0830008300
+PERRY RD                                                    0830008300
+PETER TRACE RD                                              0830008300
+PHEASANT LN                                                 0830008300
+PHILLIPS CEMETERY RD                                        0830008300
+PHYILLIS DR                                                 0830008300
+PICNIC RD                                                   0830008300
+PIERCE FORK RD                                              0830008300
+PIERCE RD                                                   0830008300
+PINE TREE RENTALS                                           0830008300
+PINEWOOD DR                                                 0830008300
+PIPELINE HL                                                 0830008300
+PLAINS RD                                                   0830008300
+PLEASANT VW                                                 0830008300
+POMEROYTON WELLINGTON RD                                    0830008300
+POND CIRCLE RD                                              0830008300
+PONDER BRANCH RD                                            0830008300
+PONDER BRANCH RD                                            0830108301
+POPLAR COVE RD                                              0830008300
+POST OAK LN                                                 0830008300
+POTTERSVILLE RD                                             0830008300
+POWERS RD                                                   0830008300
+PRATER RIDGE RD                                             0830008300
+PRETTY RIDGE RD                                             0830008300
+PUGH BR                                                     0830008300
+PUMPKIN HOLLOW RD                                           0830008300
+RATLIFF RD                                                  0830008300
+RAY PECK RD                                                 0830008300
+RAYMOND RD                                                  0830008300
+RED RIVER RD                                                1190008300
+REDBUD LN                                                   0830008300
+REDWOOD DR                                                  0830008300
+RICHARDSON BRANCH CREEK RD                                  0830008300
+RIDGEWAY RD                                                 0830008300
+ROBERT BYRD RD                                              0830008300
+ROBIN LN                                                    0830008300
+ROBINFIELD RD                                               0830008300
+ROBINSON LN                                                 0830008300
+ROCKWOOD RD                                                 0830008300
+ROE HILL RD                                                 0830008300
+ROLLING HILLS RD                                            0830008300
+ROSE LN                                                     0830008300
+ROSEBUD LN                                                  0830008300
+ROTHWELL RIDGE RD                                           0830008300
+ROVER LN                                                    0830008300
+ROWE RD                                                     0830008300
+RUDDWAY LN                                                  0830008300
+RUNNING RIDGE RD                                            0830008300
+S POMEROYTON RD                                             0830008300
+SALT LICK RD                                                0830008300
+SAM HELTON CEMETERY                                         0830008300
+SARGENT LN                                                  0830008300
+SASSAFRAS DR                                                0830008300
+SCENIC RIDGE RD                                             0830008300
+SCOTT JONES RD                                              0830008300
+SCOTTY LN                                                   0830008300
+SCRANTON RD                                                 0830008300
+SERENE ST                                                   0830008300
+SEXTON LN                                                   0830008300
+SHADY LN                                                    0830008300
+SHANNON ST                                                  0830008300
+SHERMILL LN                                                 0830008300
+SHORT RUN RD                                                0830008300
+SHORT ST                                                    0830008300
+SHOTGUN HOLLOW RD                                           0830008300
+SIDE RUN RD                                                 0830008300
+SIERRA DR                                                   0830008300
+SILVER MINE RD                                              0830008300
+SIM LONG RD                                                 0830008300
+SIMON RD                                                    0830008300
+SINGLETON BRANCH RD                                         0830008300
+SLABCAMP RD                                                 0830008300
+SLED RUN RD                                                 0830008300
+SLEEPY HOLLOW RD                                            0830008300
+SMALLWOOD CEMETERY RD                                       0830008300
+SMALLWOOD LN                                                0830008300
+SMITH CIR                                                   0830008300
+SMITH LN                                                    0830008300
+SORRELL LN                                                  0830108301
+SPAAS CREEK RD                                              0830008300
+SPARROW RD                                                  0830008300
+SPENCER ESTATE CEMETERY RD                                  0830008300
+SPENCER RD                                                  0830008300
+SPRINGHILL RD                                               0830008300
+STAMPER RD                                                  0830008300
+STANLEY CLARK RD                                            0830008300
+STEPHEN RD                                                  0830008300
+STETSON LN                                                  0830008300
+STEVE COMBS RD                                              0830008300
+STONEQUARRY RD                                              0830008300
+SUITER RD                                                   0830008300
+SUMAC HILL RD                                               0830008300
+SUNFLOWER LN                                                0830008300
+SUNNY LN                                                    0830008300
+SUNRISE LN                                                  0830008300
+SUNSET PATH RD                                              0830008300
+SYCAMORE ST                                                 0830108301
+TABBY RD                                                    0830008300
+TALLY HO RD                                                 0830008300
+TARR RIDGE RD                                               0830008300
+TEABERRY LN                                                 0830008300
+TERRI DRAPER RD                                             0830008300
+TEXAS COVE RD                                               0830008300
+THOMAS LN                                                   0830008300
+THORN LN                                                    0830008300
+TILLYS LN                                                   0830008300
+TILLYS RD                                                   0830008300
+TIMBER LN                                                   0830008300
+TIMBERWOOD RD                                               0830008300
+TINSLEY EVERSOLE RD                                         0830008300
+TOBACCO LN                                                  0830008300
+TODDS LN                                                    0830008300
+TOLAN RD                                                    0830108301
+TOM STAMPER RD                                              0830008300
+TOWER RD                                                    0830008300
+TOWNSEND MURPHY RD                                          0830008300
+TOWNSHIP CT                                                 0830108301
+TRAIL PINES LN                                              0830008300
+TRIMBLE BEND RD                                             0830008300
+TRIMBLE BEND SPUR RD                                        0830008300
+TRINITY WAY                                                 0830008300
+TUFFY STULL RD                                              0830008300
+TURKEY POINT SPUR                                           0830008300
+TURKEY PT                                                   0830008300
+TURKEY RIDGE RD                                             0830008300
+TWIN OAKS RD                                                0830008300
+UNKNOWN                                                     0830008300
+UPPER STALLION RD                                           0830008300
+US460 E                                                     0830008300
+US460 E                                                     0830108301
+US460 W                                                     0830008300
+US460 W                                                     0830108301
+VALLEY VIEW RD                                              0830008300
+VANDER LN                                                   0830008300
+W HAVEN RD                                                  0830008300
+W OLD STATE RD                                              0830008300
+WALKER PL                                                   0830008300
+WALNUT GROVE CT                                             0830108301
+WALNUT ST                                                   0830108301
+WEDGEWOOD LN                                                0830008300
+WELLS RATLIFF CEMETERY                                      0830008300
+WHISPERING PINE RD                                          0830008300
+WHISPERING WOODS RD                                         0830008300
+WHITES BRANCH RD                                            0830008300
+WHITTS ACRES                                                0830008300
+WILHOIT LN                                                  0830008300
+WILL INGRAM CEMETERY                                        0830008300
+WILLIAMS CEMETERY                                           0830008300
+WILLIAMS LN                                                 0830008300
+WILLIAMS LN W                                               0830008300
+WILLIAMS ST                                                 0830108301
+WILLOW LN                                                   0830008300
+WRIGHT RD                                                   0830008300
+WYNN BRANCH RD                                              0830008300
+ZILPO RD                                                    0830008300

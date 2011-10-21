@@ -1,0 +1,646 @@
+3RD ST                                                      0290102901
+4TH ST                                                      0290102901
+5TH ST                                                      0290102901
+6TH ST                                                      0290102901
+7TH ST                                                      0290102901
+A O SHARP RD                                                0290002900
+ABBY LN                                                     0290002900
+ABNEY RD                                                    0290002900
+AKIN RD                                                     0290002900
+ALBANY LOOP NO2 RD                                          0290002900
+ALBANY LOOP NO3 RD                                          0290002900
+ALBANY RD                                                   0290002900
+ALLEN RD                                                    0290002900
+ALLEN ST                                                    0290102901
+ALLENS CREEK RD                                             0290002900
+ALVA HOOTS RD                                               0290002900
+ALVIS LONG RD                                               0290002900
+ANDERSON DR                                                 0290002900
+ANDERSON LN                                                 0290002900
+ANDERSON MELTON RD                                          0290002900
+ANDERSON RD                                                 0290002900
+ANGEL FALLS NO2 RD                                          0290002900
+ANGEL FALLS RD                                              0290002900
+ANN HOPE RD                                                 0290002900
+ARAT RD                                                     0290002900
+ARMSTRONG RD                                                0290002900
+ASHLOCK BOTTOM RD                                           0290002900
+ASHLOCK RD                                                  0290002900
+ASHLOCK SCOTT RD                                            0290002900
+AUDIE WATSON RD                                             0290002900
+AUSTIN SCOTT RD                                             0290002900
+B GROCE RD                                                  0290002900
+B W LONG RD                                                 0290002900
+BAISE MCCOY RD                                              0290002900
+BAKER ST                                                    0290102901
+BANK ST                                                     0290102901
+BARGER RD                                                   0290002900
+BARGER SPUR RD                                              0290002900
+BARNETT RD                                                  0290002900
+BASIN ROCK RD                                               0290002900
+BEAR CREEK CHURCH RD                                        0290002900
+BEAR CREEK RD                                               0290002900
+BEAR CREEK SPUR RD                                          0290002900
+BEAUCHAMP RD                                                0290002900
+BEE RILEY RD                                                0290002900
+BEECH BRANCH RD                                             0290002900
+BEECH GROVE CHURCH RD                                       0290002900
+BEECH GROVE RD                                              0290002900
+BERT GARMON RD                                              0290002900
+BETHEL SCOTT RD                                             0290002900
+BLACKS BRANCH RD                                            0290002900
+BLACKS FERRY RD                                             0290002900
+BLAKELY RD                                                  0290002900
+BLAKLEY RD                                                  0290002900
+BLUFF VIEW RD                                               0290002900
+BLYTHE LN                                                   0290002900
+BOB HOLLOW RD                                               0290002900
+BOBTOWN RD                                                  0290002900
+BOLTEN RD                                                   0290002900
+BOMBSHELL CREEK RD                                          0290002900
+BOW CEMETERY RD                                             0290002900
+BOW RD                                                      0290002900
+BOYD MILTON RD                                              0290002900
+BRADSHAW DR                                                 0290002900
+BRANHAM RD                                                  0290002900
+BRUMMETT CEMETERY RD                                        0290002900
+BRUTON HOLLOW RD                                            0290002900
+BRYANTS WAY                                                 0290002900
+BULL RIDGE RD                                               0290002900
+BURCHETT CIR                                                0290002900
+BYPASS DR                                                   0290102901
+C RIDDLE RD                                                 0290002900
+C W FLETCHER RD                                             0290002900
+CAMPBELL GILBERT RD                                         0290002900
+CAPPS CEMETERY RD                                           0290002900
+CAPPS KEY CEMETERY RD                                       0290002900
+CAPPS RD                                                    0290002900
+CAPPS ST                                                    0290102901
+CARL SCOTT RD                                               0290002900
+CARL THRASHER RD                                            0290002900
+CARLOS COOP RD                                              0290002900
+CARMEN WELLS RD                                             0290002900
+CARTER BRANCH SPUR                                          0290002900
+CARY LN                                                     0290102901
+CASEY BRANCH RD                                             0290002900
+CASH RD                                                     0290002900
+CEDAR CREEK DR                                              0290102901
+CELINA RD                                                   0290002900
+CELINA RD                                                   0290102901
+CEMETERY RD                                                 0290002900
+CEMETERY SPUR RD                                            0290002900
+CHARLES NORRIS RD                                           0290002900
+CHARLES SHAW RD                                             0290002900
+CHERRY TREE RD                                              0290002900
+CHERRY TREE RIDGE RD                                        0290002900
+CHISM RD                                                    0290002900
+CHISM SPUR RD                                               0290002900
+CHOWNING RD                                                 0290002900
+CHRISTIAN CHAPEL RD                                         0290002900
+CLAY SHORT RD                                               0290002900
+CLAYWELL CHAPEL RD                                          0290002900
+CLIFF HUDDLESTON RD                                         0290002900
+CLIFF ST                                                    0290102901
+CLOYDS FERRY RD                                             0290002900
+CLOYDS LANDING RD                                           0290002900
+COE RIDGE CEMETERY RD                                       0290002900
+COLD SPRINGS RD                                             0290002900
+COLLINS LN                                                  0290002900
+CONNECTING RD                                               0290002900
+COOKSEY RD                                                  0290002900
+COOLIDGE HUMPHREY RD                                        0290002900
+COOP JENNINGS RD                                            0290002900
+COOPER LN                                                   0290102901
+COPPERHEAD RD                                               0290002900
+CORNETT RD                                                  0290002900
+COUNTRY JUNCTION RD                                         0290002900
+COURTNEY LN                                                 0290002900
+CRAWLEY RD                                                  0290002900
+CRESTVIEW DR                                                0290002900
+CROCUS BLUFF RD                                             0290002900
+CROSS RD                                                    0290002900
+CUMBERLAND COUNTY SCHOOL DR                                 0290102901
+CUMBERLAND DR                                               0290102901
+CUMBERLAND HOUSE RD                                         0290002900
+CUMBERLAND POINT RD                                         0290002900
+CUMMINS RD                                                  0290002900
+DALE HOLLOW STATE PARK RD                                   0290002900
+DALE HOLLOW VIEW RD                                         0290002900
+DARRELL MOONS RD                                            0290002900
+DAVID WILLIS RD                                             0290002900
+DAVIDSON RD                                                 0290002900
+DAVIS CEMETERY RD                                           0290002900
+DAVIS FRANKLIN CEMETERY RD                                  0290002900
+DEER TRL                                                    0290002900
+DEER VALLEY RD                                              0290002900
+DELTON WATSON RD                                            0290002900
+DELUS DAY RD                                                0290102901
+DENNY RD                                                    0290002900
+DEREK JOSH RD                                               0290002900
+DEWEY YOUNG RD                                              0290002900
+DIMPLE SHARPE RD                                            0290002900
+DIVIDING RIDGE RD                                           0290002900
+DIXIE HOLLOW RD                                             0290002900
+DOC COMPTON RD                                              0290002900
+DOC PRUITT RD                                               0290002900
+DOGWOOD LN                                                  0290002900
+DON GRAY RD                                                 0290002900
+DONNIE SMITH RD                                             0290002900
+DOUG SELLS RD                                               0290002900
+DOUG SPEARS RD                                              0290002900
+DUCK HOLLOW RD                                              0290002900
+DUDLEY BRANHAM RD                                           0290002900
+DUG HOLLOW RD                                               0290002900
+DULWORTH RD                                                 0290002900
+DUTCH CREEK CEMETERY RD                                     0290002900
+DUTCH CREEK RD                                              0290002900
+DUTCHMANS LN                                                0290002900
+DYER LOBB RD                                                0290002900
+DYER RD                                                     0290002900
+E ALLEY ST                                                  0290102901
+E ASHLOCK SPUR RD                                           0290002900
+E CARTER BRANCH RD                                          0290002900
+E CHURCH ST                                                 0290102901
+E DAVIDSON RD                                               0290002900
+E E SPEARS RD                                               0290002900
+E PARK ROAD D                                               0290002900
+E PINE BRANCH RD                                            0290002900
+E RAFT CREEK RD                                             0290002900
+E RUSH RD                                                   0290002900
+E SMITH ST                                                  0290102901
+E SPENCER ST                                                0290102901
+E TAYLOR RD                                                 0290002900
+E VOTE HOUSE RD                                             0290002900
+E WHITE HILL CHURCH RD                                      0290002900
+EARL WATSON RD                                              0290002900
+EBENEZER LN                                                 0290002900
+EBENEZER RD                                                 0290002900
+EDEN LN                                                     0290002900
+EDEN SPROULS RD                                             0290002900
+ELLIOTT SEWELL RD                                           0290002900
+ELLIS RD                                                    0290002900
+ELLIS ST                                                    0290102901
+ELM ST                                                      0290102901
+ENGLE HOLLOW RD                                             0290002900
+ERNEST M LAWSON LN                                          0290102901
+EVA YOUNG RD                                                0290002900
+EVERETT MOON RD                                             0290002900
+FANNY CREEK RD                                              0290002900
+FERGUSON ST                                                 0290102901
+FINLEY RD                                                   0290002900
+FISHERMANS RD                                               0290002900
+FOGGY BOTTOM RD                                             0290002900
+FOREST HILL RD                                              0290002900
+FORREST COTTAGE RD                                          0290002900
+FRANK CRAFT RD                                              0290002900
+FRANK CRAFT SPUR RD                                         0290002900
+FRANK MURLEY RD                                             0290002900
+FRANKLIN SPEARS RD                                          0290002900
+FRANKLIN SPEARS SPUR RD                                     0290002900
+FRED GORDON RD                                              0290002900
+FREE FERRY RD                                               0290002900
+FROGUE RD                                                   0290002900
+GARMAN FERRY RD                                             0290002900
+GARMAN FERRY RD                                             0290102901
+GARNER CEMETERY RD                                          0290002900
+GARNER NORRIS RD                                            0290002900
+GARNER RD                                                   0290002900
+GARRETT CREEK RD                                            0290002900
+GARRETT CREEK SPUR RD                                       0290002900
+GARRETT LACY RD                                             0290002900
+GARY MORGAN RD                                              0290002900
+GARY RD                                                     0290002900
+GARY SLAUGHTER RD                                           0290002900
+GENE ANDERSON RD                                            0290002900
+GLASGOW RD                                                  0290002900
+GLASGOW RD                                                  0290102901
+GLEE KEY RD                                                 0290002900
+GLIDEWELL RD                                                0290002900
+GLIDEWELL SPUR RD                                           0290002900
+GLIDWELL NO2                                                0290002900
+GOODWIN RD                                                  0290002900
+GOOSE CREEK RD                                              0290002900
+GOOSE CREEK SPUR RD                                         0290002900
+GRACE UNION RD                                              0290002900
+GRAVEL PATH LN                                              0290002900
+GRIFFITH LN                                                 0290002900
+GROCE ST                                                    0290102901
+GUTHRIE RD                                                  0290002900
+GUY WATKINS RD                                              0290002900
+H ALLEN RD                                                  0290002900
+H SCOTT RD                                                  0290002900
+HAGGARD BRANCH RD                                           0290002900
+HAPPY VALEEY RD                                             0290002900
+HARDIN RD                                                   0290002900
+HARDIN SPUR RD                                              0290002900
+HARDWOOD DR                                                 0290002900
+HARDWOOD TRL                                                0290002900
+HARDY CEMETERY RD                                           0290002900
+HARDY CEMETERY SPUR RD                                      0290002900
+HARODS BOTTOM RD                                            0290002900
+HAROLD POINDEXTER RD                                        0290002900
+HARRIS RD                                                   0290002900
+HARRY LN                                                    0290002900
+HEGIRA RD                                                   0290002900
+HELLEN SCOTT RD                                             0290002900
+HENRY SPEARS RD                                             0290002900
+HERD ST                                                     0290102901
+HIGH ST                                                     0290102901
+HILL ST                                                     0290102901
+HILL VIEW DR                                                0290002900
+HILL VIEW DR                                                0290102901
+HOLCOMB LANDING                                             0290002900
+HOMER GRIDER RD                                             0290002900
+HOMER WATSON RD                                             0290002900
+HOMER WATSON SPUR RD                                        0290002900
+HOMINY CREEK RD                                             0290002900
+HOOD RD                                                     0290002900
+HOPE LN                                                     0290002900
+HOPPER RD                                                   0290002900
+HOWARD DAVIDSON RD                                          0290002900
+HOWARD ROACH RD                                             0290002900
+HOWARD SPEARS RD                                            0290002900
+HOWARDS BOTTOM RD                                           0290002900
+HOWARDS BOTTOM SPUR RD                                      0290002900
+HUB GROCE RD                                                0290002900
+HUDDLESTON CEMETERY RD                                      0290002900
+HUGH SPEARS RD                                              0290002900
+HULSE RD                                                    0290002900
+HUMPHREY HOLLOW RD                                          0290002900
+HURT DR                                                     0290002900
+ILL WILL RD                                                 0290002900
+ISLAND RD                                                   0290002900
+J C WATSON RD                                               0290002900
+J C WATSON SPUR RD                                          0290002900
+J SCOTT RD                                                  0290002900
+J T SPEARS CEMETERY RD                                      0290002900
+JACKSON HOLLOW RD                                           0290002900
+JAMES BURTON RD                                             0290002900
+JAMES OLIVER RD                                             0290002900
+JAMES WILLIAMS RD                                           0290002900
+JEFF LEE RD                                                 0290002900
+JENNINGS RD                                                 0290002900
+JERRY DODSON RD                                             0290002900
+JEWELL FLOWERS RD                                           0290002900
+JEWITT BACK RD                                              0290002900
+JOE SCOTT RD                                                0290002900
+JOE WATSON RD                                               0290002900
+JOHN BAKER RD                                               0290002900
+JOHN ED SMITH RD                                            0290002900
+JOHN MURPHY RD                                              0290002900
+JOHNSON ST                                                  0290102901
+JONES RIDGE RD                                              0290002900
+JUDIO CREEK RD                                              0290002900
+JUDIO RD                                                    0290002900
+JUNIOR CARTER RD                                            0290002900
+JUNIOR WINFREY RD                                           0290002900
+KEARNEY DICKENS RD                                          0290002900
+KEEN ST                                                     0290102901
+KEETON LOOP RD                                              0290002900
+KEETON LOOP SPUR RD                                         0290002900
+KELLY SCOTT BRANCH RD                                       0290002900
+KEN WHEELDON RD                                             0290002900
+KENNETH BALLOU RD                                           0290002900
+KETTLE RD                                                   0290002900
+KIM MCCOY RD                                                0290002900
+KING ST                                                     0290102901
+KOCIS RD                                                    0290002900
+KRISTIE LN                                                  0290002900
+KUCZMA RD                                                   0290002900
+KY 449 CONNECTOR RD                                         0290002900
+KY1312                                                      0290002900
+KY1341                                                      0290102901
+KY1351                                                      0290002900
+KY1424                                                      0290002900
+KY2064                                                      0290002900
+KY214                                                       0290002900
+KY2276                                                      0290002900
+KY2276                                                      0290102901
+KY3104                                                      0290002900
+KY3108 W                                                    0290002900
+KY3115                                                      0290002900
+KY3146                                                      0290002900
+KY379                                                       0290002900
+KY449                                                       0290002900
+KY485 E                                                     0290002900
+KY485 W                                                     0290002900
+KY61                                                        0290002900
+KY61                                                        0290102901
+KY61 N                                                      0290002900
+KY704                                                       0290002900
+KY912                                                       0290002900
+LAKE VIEW DR                                                0290002900
+LARKIN CEMETERY RD                                          0290002900
+LAURENCE SCOTT RD                                           0290002900
+LAWRENCE SHEPARD RD                                         0290002900
+LAWSONS BOTTOM RD                                           0290002900
+LEATHERWOOD CUTOFF RD                                       0290002900
+LEATHERWOOD RD                                              0290002900
+LENNY WARD RD                                               0290002900
+LEONARD WATSON RD                                           0290002900
+LESLIE CEMETERY RD                                          0290002900
+LESLIE RD                                                   0290002900
+LEVI LN                                                     0290002900
+LEWIS CEMETERY RD                                           0290002900
+LEWIS FARM RD                                               0290002900
+LEWIS RD                                                    0290002900
+LIBERTY CHURCH RD                                           0290002900
+LICK BRANCH RD                                              0290002900
+LINDAS TRAILER PARK RD                                      0290002900
+LITTLE RENNOX RD                                            0290002900
+LITTLE WILLIS CREEK RD                                      0290002900
+LLIUS OWEN RD                                               0290002900
+LLOYD BEAN RD                                               0290002900
+LLOYD CEMETERY RD                                           0290002900
+LOGAN BRANCH RD                                             0290002900
+LOGAN RD                                                    0290002900
+LOWELL WELLS RD                                             0290002900
+LOWER RIVER ST                                              0290102901
+LOYD ADAMS RD                                               0290002900
+MADDIE SMITH RD                                             0290002900
+MADGE MURLEY RD                                             0290002900
+MAINTENANCE RD                                              0290002900
+MAPLE LN                                                    0290002900
+MARGIE SPEARS RD                                            0290002900
+MARSHALL JONES HOLLOW RD                                    0290002900
+MAUPIN ALY                                                  0290102901
+MAURICE WILLIAMS RD                                         0290002900
+MCCOY RD                                                    0290002900
+MCKINLEY JOHNSON RD                                         0290002900
+MEADOWS OF THE CUMBERLAND                                   0290002900
+MELTON RD                                                   0290002900
+MICHAEL WILLIAMS RD                                         0290002900
+MIDWAY CHURCH RD                                            0290002900
+MIKE IRBY RD                                                0290002900
+MIKELE ANDERSON RD                                          0290002900
+MILL HOLE RD                                                0290002900
+MILL ST                                                     0290102901
+MILLER HOLLOW RD                                            0290002900
+MILT FLUTY RD                                               0290002900
+MODOC RD                                                    0290002900
+MODOCK CEMETERY RD                                          0290002900
+MONSANTO RD                                                 0290002900
+MONTIE FLOWERS RD                                           0290002900
+MORGAN RD                                                   0290002900
+MORRIS STILTS RD                                            0290002900
+MOSBY DR                                                    0290002900
+MOUNTAIN VIEW DR                                            0290002900
+MT HOPE SPUR RD                                             0290002900
+MUD CAMP CEMETERY RD                                        0290002900
+MULLINIX HOLLOW RD                                          0290002900
+MURLEY CEMETERY RD                                          0290002900
+MURRAY BRANCH RD                                            0290002900
+MURRAY SPUR                                                 0290002900
+MUSE PITTMAN CREEK RD                                       0290002900
+MUSE SOLOMON RD                                             0290002900
+MYERS CEMETERY RD                                           0290002900
+N ELM ST                                                    0290102901
+N KING ST                                                   0290102901
+N MAIN ST                                                   0290102901
+N PARMLEY RD                                                0290002900
+N SCOTT CEMETERY RD                                         0290002900
+N SPEARS CHURCH RD                                          0290002900
+NATION RD                                                   0290002900
+NEAL RD                                                     0290002900
+NEEDHAM RD                                                  0290002900
+NEELEY RD                                                   0290002900
+NEELEYS FERRY RD                                            0290002900
+NEWBY DR                                                    0290102901
+NICHOLAS LN                                                 0290002900
+NINA CLAYWELL RD                                            0290002900
+NOAH HOLLOW RD                                              0290002900
+NORRIS BRANCH RD                                            0290002900
+NORRIS RD                                                   0290002900
+OAKLAND HTS                                                 0290102901
+OAKLAND ST                                                  0290102901
+OIL FORK EXTENSION RD                                       0290002900
+OIL FORK RD                                                 0290002900
+OLD GALLOWAY RD                                             0290002900
+OLD GLASGOW RD                                              0290002900
+OLD JUDIO RD                                                0290002900
+OLD KESSLER RIDGE SCHOOL RD                                 0290002900
+OLD KY 2228 RD                                              0290002900
+OLD KY 61 LOOP RD                                           0290002900
+OLD KY 61 LOOP RD N                                         0290002900
+OLD KY 61 RD                                                0290102901
+OLD KY 61 SOUTH SPUR RD                                     0290002900
+OLD WATERVIEW RD                                            0290002900
+OLETA DR                                                    0290002900
+OPAL RD                                                     0290002900
+OSCAR NORRIS RD                                             0290002900
+OSTANDER RD                                                 0290002900
+OTTER CREEK RD                                              0290002900
+OWENS RD                                                    0290002900
+OWSLEY ST                                                   0290102901
+OZ SPEARS RD                                                0290002900
+PA DUERSON RD                                               0290002900
+PALESTINE RD                                                0290002900
+PARK NO1 RD                                                 0290002900
+PARK NO2 RD                                                 0290002900
+PARK ROAD B                                                 0290002900
+PARK ROAD C                                                 0290002900
+PARK ROAD D                                                 0290002900
+PARRISH CHAPEL RD                                           0290002900
+PARRISH RD                                                  0290002900
+PARSE RD                                                    0290002900
+PAUL WILLIS RD                                              0290002900
+PEG GARMON RD                                               0290002900
+PERKINS CEMETERY RD                                         0290002900
+PERRY WILLIS RD                                             0290002900
+PEYTONSBURG RD                                              0290002900
+PEYTONSBURG SULFER RD                                       0290002900
+PHELPS RD                                                   0290002900
+PHILLIP WILLIS RD                                           0290002900
+PIERCY RD                                                   0290002900
+PINE BRANCH CEMETERY SPUR                                   0290002900
+PINE BRANCH RD                                              0290002900
+PINEVIEW RD                                                 0290002900
+PITCOCK LN                                                  0290002900
+PITTMAN CREEK RD                                            0290002900
+PLEASANT HILL RD                                            0290002900
+POINDEXTER RD                                               0290002900
+POOR HOUSE LN                                               0290102901
+POPLAR GROVE CEMETERY RD                                    0290002900
+POPLAR GROVE RD                                             0290002900
+PORTER MCCOY RD                                             0290102901
+POTTERS CREEK RD                                            0290002900
+PROJECT ST                                                  0290102901
+PRUITT CEMETERY RD                                          0290002900
+PRUITT RD                                                   0290002900
+PUBLIC SQUARE                                               0290102901
+PUNCHEON CAMP CREEK RD                                      0290002900
+PURGATORY HOLLOW RD                                         0290002900
+R SMITH RD                                                  0290002900
+RABBIT RUN TRL                                              0290002900
+RACHAEL LN                                                  0290002900
+RAFT CREEK RD                                               0290002900
+RAINBOW DR                                                  0290002900
+RAINBOW RD                                                  0290002900
+RALPH SHARP RD                                              0290002900
+RANDALL LONG RD                                             0290002900
+RAY RD                                                      0290002900
+RAYMOND SMITH RD                                            0290002900
+RED BANK CHURCH RD                                          0290002900
+REDWOOD DR                                                  0290002900
+REED FLETCHER RD                                            0290002900
+REED RD                                                     0290002900
+RICE HOLW                                                   0290002900
+RICH WILLIAMS RD                                            0290002900
+RIDDLE RD                                                   0290002900
+RITCHEY RADCLIFF RD                                         0290002900
+RITCHIE ANDERSON RD                                         0290002900
+RITCHY SHARP RD                                             0290002900
+RIVER BROOK TRL                                             0290002900
+RIVER MIST RD                                               0290002900
+RIVER RD                                                    0290002900
+RIVER RIDGE LN                                              0290002900
+RIVER VIEW TRL                                              0290002900
+RIVERBEND RD                                                0290002900
+ROADSIDE PARK RD                                            0290002900
+ROADSIDE SPUR RD                                            0290002900
+ROCKY BRANCH DR                                             0290102901
+ROGER SCOTT RD                                              0290002900
+RONNIE WATKINS RD                                           0290002900
+ROSILYN WAY                                                 0290002900
+ROY ANDERSON RD                                             0290002900
+ROY CRAFT RD                                                0290002900
+ROY RAY RD                                                  0290002900
+RUEL GLIDEWELL RD                                           0290002900
+RUSSELL SPEARS RD                                           0290002900
+RUTH WILLIS RD                                              0290002900
+RYAN RD                                                     0290002900
+S CAPPS RD                                                  0290002900
+S CARY LN                                                   0290102901
+S CHURCH ST                                                 0290102901
+S LOGAN BRANCH RD                                           0290002900
+S MAIN ST                                                   0290002900
+S MAIN ST                                                   0290102901
+S OWSLEY ST                                                 0290102901
+S PARMLEY RD                                                0290002900
+S SCOTT CEMETERY RD                                         0290002900
+S SPEARS CHURCH RD                                          0290002900
+SALEM PARK RD                                               0290002900
+SALVATION ARMY CAMP RD                                      0290002900
+SAWMILL HOLLOW RD                                           0290002900
+SAWMILL RD                                                  0290002900
+SCHICKEL LN                                                 0290102901
+SCHOOL ST                                                   0290102901
+SCOTT FINLEY RD                                             0290002900
+SCOTTS BOTTOM RD                                            0290002900
+SCOTTS FERRY RD                                             0290002900
+SDA CHURCH RD                                               0290002900
+SEMINARY CEMETERY RD                                        0290002900
+SEMINARY CHURCH RD                                          0290002900
+SEXTON FORK RD                                              0290002900
+SHAW MARTIN RD                                              0290002900
+SHAW MARTIN SPUR                                            0290002900
+SHEDTOWN RD                                                 0290002900
+SHEPHARD ST                                                 0290102901
+SHOESTRING RD                                               0290002900
+SHOOTER LN                                                  0290002900
+SHORT ST                                                    0290102901
+SHORTS CHAPEL CEMETERY RD                                   0290002900
+SKIPPER LN                                                  0290002900
+SKY CEMETERY RD                                             0290002900
+SKYVIEW DR                                                  0290102901
+SLATE ROCK RD                                               0290002900
+SMITH ALY                                                   0290102901
+SMITH BRANCH RD                                             0290002900
+SMITH GROVE BAKERTON FERRY RD                               0290002900
+SMITH GROVE BAKERTON FERRY ROAD CONNECTOR                   0290002900
+SMITH GROVE BAKERTON FERRY SPUR RD                          0290002900
+SMITH GROVE RD                                              0290002900
+SMITH LN                                                    0290002900
+SOUTH WIND DR                                               0290102901
+SOUTHWIND DR                                                0290002900
+SPARKS CHAPEL RD                                            0290002900
+SPEARS CEMETERY RD                                          0290002900
+SPEARS HARDIN RD                                            0290002900
+SPOON BRANCH RD                                             0290002900
+SPRING BRANCH DR                                            0290102901
+SPRING LN                                                   0290102901
+STALCUP ST                                                  0290102901
+STALEY FIELD RD                                             0290002900
+STATE PARK RD                                               0290002900
+STILLS BOTTOM RD                                            0290002900
+STOVER RD                                                   0290002900
+STRANGE CEMETERY RD                                         0290002900
+SUE WILLIAMS RD                                             0290002900
+SULPHER CREEK RD                                            0290002900
+SULPHER CREEK ROAD EXT                                      0290002900
+SUNSET DR                                                   0290102901
+TALLEY HOLLOW RD                                            0290002900
+TAYLOR RD                                                   0290002900
+TAYLORCRAFT RD                                              0290102901
+THACKER RD                                                  0290002900
+THOMAS LN                                                   0290002900
+THRASHER HOLLOW RD                                          0290002900
+THRASHER RD                                                 0290002900
+THURMAN RD                                                  0290002900
+TIMBERLAKE RD                                               0290002900
+TRACY SMITH RD                                              0290002900
+TRAYLOR CEMETERY RD                                         0290002900
+TRAYLOR RIDGE RD                                            0290002900
+TURKEY RUN LN                                               0290002900
+TURNER BRANCH RD                                            0290002900
+TURNER CEMETERY RD                                          0290002900
+UPPER RIVER ST                                              0290102901
+VALLEY DR                                                   0290102901
+VALLEY VIEW DR                                              0290002900
+VALLEY VIEW RD                                              0290002900
+VEACHEL SCOTT RD                                            0290002900
+VETERANS ALY                                                0290102901
+VETERANS ST                                                 0290102901
+VIBBERT LN                                                  0290002900
+VICKIE PRUITT RD                                            0290002900
+VINCENT CEMETERY RD                                         0290002900
+VOTING HOUSE RD                                             0290002900
+W ALLEN RD                                                  0290002900
+W ALLEY ST                                                  0290102901
+W ASHLOCK SPUR RD                                           0290002900
+W B WYATT RD                                                0290002900
+W CARTER BRANCH RD                                          0290002900
+W CHURCH ST                                                 0290102901
+W DAVIDSON RD                                               0290002900
+W FORK RD                                                   0290002900
+W FORK SPUR RD                                              0290002900
+W RUSH RD                                                   0290002900
+W SMITH ST                                                  0290102901
+W VOTE HOUSE RD                                             0290002900
+W WHITE HILL CHURCH RD                                      0290002900
+WADE BRANCH RD                                              0290002900
+WALNUT LN                                                   0290002900
+WARREN ST                                                   0290102901
+WARSAW BRANCH RD                                            0290002900
+WARSAW RIDGE RD                                             0290002900
+WARSAW SPUR NO2 RD                                          0290002900
+WARSAW SPUR RD                                              0290002900
+WATER PLANT RD                                              0290002900
+WATER PUMP RD                                               0290002900
+WATERVIEW CUTOFF RD                                         0290002900
+WATKINS RD                                                  0290002900
+WEEKENDER LN                                                0290002900
+WELBY GARMON RD                                             0290002900
+WETSTONE RD                                                 0290002900
+WHITE HILL CHURCH LOOP                                      0290002900
+WHITE RD                                                    0290002900
+WHITES BOTTOM RD                                            0290002900
+WILDCAT DR                                                  0290002900
+WILDCAT LN                                                  0290002900
+WILLEN RD                                                   0290002900
+WILLETT RD                                                  0290002900
+WILLIAM DYER RD                                             0290002900
+WILLIAMS FORK RD                                            0290002900
+WILLIS CREEK RD                                             0290002900
+WILSON CREEK RD                                             0290002900
+WILSON RD                                                   0290002900
+WINDY DR                                                    0290002900
+WISDOM RD                                                   0290002900
+WOOD RD                                                     0290002900
+WOODLAND ST                                                 0290102901
+WORKS POINT RD                                              0290002900
+YORK RD                                                     0290002900
+YOUNG RD                                                    0290002900
+ZEKETOWN RD                                                 0290002900
+ZELENAK RD                                                  0290002900
+ZINC MINE RD                                                0290002900

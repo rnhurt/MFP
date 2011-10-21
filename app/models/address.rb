@@ -1,6 +1,9 @@
 class Address < ActiveRecord::Base
   # belongs_to  :addressable, :polymorphic => true
-  belongs_to  :region
+  belongs_to  :country
+  belongs_to  :state
+  belongs_to  :county
+  belongs_to  :city
   has_many    :locations #, :as => :addressable
   has_many    :contacts, :through => :locations
 
@@ -18,7 +21,7 @@ class Address < ActiveRecord::Base
   end
 
   def full_address
-    "#{street_address}, #{city} #{region.try(:code)} #{postal_code}"
+    "#{street_address}, #{city} #{state} #{postal_code}"
   end
 
 end

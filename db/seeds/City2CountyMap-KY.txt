@@ -1,0 +1,422 @@
+Adairville|Logan
+Albany|Clinton
+Alexandria|Campbell
+Allen|Floyd
+Anchorage|Jefferson
+Arlington|Carlisle
+Ashland|Boyd
+Auburn|Logan
+Audubon Park|Jefferson
+Augusta|Bracken
+Bancroft|Jefferson
+Barbourmeade|Jefferson
+Barbourville|Knox
+Bardstown|Nelson
+Bardwell|Carlisle
+Barlow|Ballard
+Beattyville|Lee
+Beaver Dam|Ohio
+Bedford|Trimble
+Beechwood Village|Jefferson
+Bellefonte|Greenup
+Bellemeade|Jefferson
+Bellevue|Campbell
+Bellewood|Jefferson
+Benham|Harlan
+Benton|Marshall
+Berea|Madison
+Berry|Harrison
+Blackey|Letcher
+Blaine|Lawrence
+Bloomfield|Nelson
+Blue Ridge Manor|Jefferson
+Bonnieville|Hart
+Booneville|Owsley
+Bowling Green|Warren
+Bradfordsville|Marion
+Brandenburg|Meade
+Bremen|Muhlenberg
+Briarwood|Jefferson
+Brodhead|Rockcastle
+Broeck Pointe|Jefferson
+Bromley|Kenton
+Brooksville|Bracken
+Brownsboro Farm|Jefferson
+Brownsboro Village|Jefferson
+Brownsville|Edmonson
+Buckhorn|Perry
+Burgin|Mercer
+Burkesville|Cumberland
+Burlington|Boone
+Burnside|Pulaski
+Butler|Pendleton
+Cadiz|Trigg
+Calhoun|McLean
+California|Campbell
+Calvert City|Marshall
+Camargo|Montgomery
+Cambridge|Jefferson
+Campbellsburg|Henry
+Campbellsville|Taylor
+Campton|Wolfe
+Caneyville|Grayson
+Carlisle|Nicholas
+Carrollton|Carroll
+Carrsville|Livingston
+Catlettsburg|Boyd
+Cave City|Barren
+Centertown|Ohio
+Central City|Muhlenberg
+Clarkson|Grayson
+Clay|Webster
+Clay City|Powell
+Clinton|Hickman
+Cloverport|Breckinridge
+Coal Run Village|Pike
+Cold Spring|Campbell
+Coldstream|Jefferson
+Columbia|Adair
+Columbus|Hickman
+Concord|Lewis
+Corbin|Whitley Knox
+Corinth|Grant
+Corydon|Henderson
+Covington|Kenton
+Crab Orchard|Lincoln
+Creekside|Jefferson
+Crescent Springs|Kenton
+Crestview|Campbell
+Crestview Hills|Kenton
+Crestwood|Oldham
+Crittenden|Grant
+Crofton|Christian
+Crossgate|Jefferson
+Cumberland|Harlan
+Cundiff|Adair
+Cynthiana|Harrison
+Danville|Boyle
+Dawson Springs|Hopkins Caldwell
+Dayton|Campbell
+Dixon|Webster
+Douglass Hills|Jefferson
+Dover|Mason
+Drakesboro|Muhlenberg
+Druid Hills|Jefferson
+Dry Ridge|Grant
+Earlington|Hopkins
+Eddyville|Lyon
+Edgewood|Kenton
+Edmonton|Metcalfe
+Ekron|Meade
+Elizabethtown|Hardin
+Elkhorn City|Pike
+Elkton|Todd
+Elsmere|Kenton
+Eminence|Henry
+Erlanger|Kenton
+Eubank|Pulaski Lincoln
+Evarts|Harlan
+Ewing|Fleming
+Fairfield|Nelson
+Fairview|Kenton
+Falmouth|Pendleton
+Ferguson|Pulaski
+Fincastle|Jefferson
+Flatwoods|Greenup
+Fleming-Neon|Letcher
+Flemingsburg|Fleming
+Florence|Boone
+Fordsville|Ohio
+Forest Hills|Jefferson
+Fort Mitchell|Kenton
+Fort Thomas|Campbell
+Fort Wright|Kenton
+Fountain Run|Monroe
+Fox Chase|Bullitt
+Frankfort|Franklin
+Franklin|Simpson
+Fredonia|Caldwell
+Frenchburg|Menifee
+Fulton|Fulton
+Gamaliel|Monroe
+Georgetown|Scott
+Germantown|Bracken Mason
+Ghent|Carroll
+Glasgow|Barren
+Glencoe|Gallatin
+Glenview|Jefferson
+Glenview Hills|Jefferson
+Glenview Manor|Jefferson
+Goose Creek|Jefferson
+Goshen|Oldham
+Grand Rivers|Livingston
+Gratz|Owen
+Graymoor-Devondale|Jefferson
+Grayson|Carter
+Green Spring|Jefferson
+Greensburg|Green
+Greenup|Greenup
+Greenville|Muhlenberg
+Guthrie|Todd
+Hanson|Hopkins
+Hardin|Marshall
+Hardinsburg|Breckinridge
+Harlan|Harlan
+Harrodsburg|Mercer
+Hartford|Ohio
+Hawesville|Hancock
+Hazard|Perry
+Hazel|Calloway
+Hebron Estates|Bullitt
+Henderson|Henderson
+Hickman|Fulton
+Hickory Hill|Jefferson
+Highland Heights|Campbell
+Hills and Dales|Jefferson
+Hillview|Bullitt
+Hindman|Knott
+Hodgenville|Larue
+Hollow Creek|Jefferson
+Hollyvilla|Jefferson
+Hopkinsville|Christian
+Horse Cave|Hart
+Houston Acres|Jefferson
+Hunters Hollow|Bullitt
+Hurstbourne|Jefferson
+Hurstbourne Acres|Jefferson
+Hustonville|Lincoln
+Hyden|Leslie
+Independence|Kenton
+Indian Hills|Jefferson
+Inez|Martin
+Irvine|Estill
+Irvington|Breckinridge
+Island|McLean
+Jackson|Breathitt
+Jamestown|Russell
+Jeffersontown|Jefferson
+Jeffersonville|Montgomery
+Jenkins|Letcher
+Junction City|Boyle
+Kenton Vale|Kenton
+Kevil|Ballard
+Kingsley|Jefferson
+Knifley|Adair
+Kuttawa|Lyon
+LaCenter|Ballard
+LaFayette|Christian
+LaGrange|Oldham
+Lakeside Park|Kenton
+Lakeview Heights|Rowan
+Lancaster|Garrard
+Langdon Place|Jefferson
+Lawrenceburg|Anderson
+Lebanon|Marion
+Lebanon Junction|Bullitt
+Leitchfield|Grayson
+Lewisburg|Logan
+Lewisport|Hancock
+Lexington|Fayette
+Liberty|Casey
+Lincolnshire|Jefferson
+Livermore|McLean
+Livingston|Rockcastle
+London|Laurel
+Lone Oak|McCracken
+Loretto|Marion
+Louisa|Lawrence
+Louisville|Jefferson
+Loyall|Harlan
+Ludlow|Kenton
+Lynch|Harlan
+Lyndon|Jefferson
+Lynnview|Jefferson
+Mackville|Washington
+Madisonville|Hopkins
+Manchester|Clay
+Manor Creek|Jefferson
+Marion|Crittenden
+Martin|Floyd
+Maryhill Estates|Jefferson
+Mayfield|Graves
+Maysville|Mason
+McHenry|Ohio
+McKee|Jackson
+Meadow Vale|Jefferson
+Meadowbrook Farm|Jefferson
+Meadowview Estates|Jefferson
+Melbourne|Campbell
+Mentor|Campbell
+Middlesborough|Bell
+Middletown|Jefferson
+Midway|Woodford
+Millersburg|Bourbon
+Milton|Trimble
+Mockingbird Valley|Jefferson
+Monterey|Owen
+Monticello|Wayne
+Moorland|Jefferson
+Morehead|Rowan
+Morganfield|Union
+Morgantown|Butler
+Mortons Gap|Hopkins
+Mount Olivet|Robertson
+Mount Sterling|Montgomery
+Mount Vernon|Rockcastle
+Mount Washington|Bullitt
+Muldraugh|Meade
+Munfordville|Hart
+Murray|Calloway
+Murray Hill|Jefferson
+Nebo|Hopkins
+New Castle|Henry
+New Haven|Nelson
+Newport|Campbell
+Nicholasville|Jessamine
+Norbourne Estates|Jefferson
+North Middletown|Bourbon
+Northfield|Jefferson
+Nortonville|Hopkins
+Norwood|Jefferson
+Oak Grove|Christian
+Oakland|Warren
+Old Brownsboro Place|Jefferson
+Olive Hill|Carter
+Orchard Grass Hills|Oldham
+Owensboro|Daviess
+Owenton|Owen
+Owingsville|Bath
+Paducah|McCracken
+Paintsville|Johnson
+Paris|Bourbon
+Park City|Barren
+Park Hills|Kenton
+Parkway Village|Jefferson
+Pembroke|Christian
+Perryville|Boyle
+Pewee Valley|Oldham
+Pikeville|Pike
+Pineville|Bell
+Pioneer Village|Bullitt
+Pippa Passes|Knott
+Plantation|Jefferson
+Pleasureville|Henry Shelby
+Plum Springs|Warren
+Poplar Hills|Jefferson
+Powderly|Muhlenberg
+Prestonsburg|Floyd
+Prestonville|Carroll
+Princeton|Caldwell
+Prospect|Jefferson Oldham
+Providence|Webster
+Raceland|Greenup
+Radcliff|Hardin
+Ravenna|Estill
+Raywick|Marion
+Richlawn|Jefferson
+Richmond|Madison
+River Bluff|Oldham
+Riverwood|Jefferson
+Robards|Henderson
+Rochester|Butler
+Rockport|Ohio
+Rolling Fields|Jefferson
+Rolling Hills|Jefferson
+Russell|Greenup
+Russell Springs|Russell
+Russellville|Logan
+Ryland Heights|Kenton
+Sacramento|McLean
+Sadieville|Scott
+Saint Charles|Hopkins
+Saint Matthews|Jefferson
+Salem|Livingston
+Salt Lick|Bath
+Salyersville|Magoffin
+Sanders|Carroll
+Sandy Hook|Elliott
+Sardis|Mason Robertson
+Science Hill|Pulaski
+Scottsville|Allen
+Sebree|Webster
+Seneca Gardens|Jefferson
+Sharpsburg|Bath
+Shelbyville|Shelby
+Shepherdsville|Bullitt
+Shively|Jefferson
+Silver Grove|Campbell
+Simpsonville|Shelby
+Slaughters|Webster
+Smithfield|Henry
+Smithland|Livingston
+Smiths Grove|Warren
+Somerset|Pulaski
+Sonora|Hardin
+South Carrollton|Muhlenberg
+South Park View|Jefferson
+South Shore|Greenup
+Southgate|Campbell
+Sparta|Gallatin Owen
+Spring Mill|Jefferson
+Spring Valley|Jefferson
+Springfield|Washington
+St. Regis Park|Jefferson
+Stamping Ground|Scott
+Stanford|Lincoln
+Stanton|Powell
+Strathmoor Manor|Jefferson
+Strathmoor Village|Jefferson
+Sturgis|Union
+Sycamore|Jefferson
+Taylor Mill|Kenton
+Taylorsville|Spencer
+Ten Broeck|Jefferson
+Thornhill|Jefferson
+Tompkinsville|Monroe
+Trenton|Todd
+Union|Boone
+Uniontown|Union
+Upton|Hardin Larue
+Vanceburg|Lewis
+Versailles|Woodford
+Vicco|Perry
+Villa Hills|Kenton
+Vine Grove|Hardin
+Wallins Creek|Harlan
+Walton|Boone Kenton
+Warfield|Martin
+Warsaw|Gallatin
+Water Valley|Graves
+Watterson Park|Jefferson
+Waverly|Union
+Wayland|Floyd
+Wellington|Jefferson
+West Buechel|Jefferson
+West Liberty|Morgan
+West Point|Hardin
+Westwood|Jefferson
+Wheatcroft|Webster
+Wheelwright|Floyd
+White Plains|Hopkins
+Whitesburg|Letcher
+Whitesville|Daviess
+Whitley City|McCreary
+Wickliffe|Ballard
+Wilder|Campbell
+Wildwood|Jefferson
+Williamsburg|Whitley
+Williamstown|Grant Pendleton
+Willisburg|Washington
+Wilmore|Jessamine
+Winchester|Clark
+Windy Hills|Jefferson
+Wingo|Graves
+Woodburn|Warren
+Woodbury|Butler
+Woodland Hills|Jefferson
+Woodlawn|Campbell
+Woodlawn Park|Jefferson
+Worthington|Greenup
+Worthington Hills|Jefferson
+Worthville|Carroll
+Wurtland|Greenup

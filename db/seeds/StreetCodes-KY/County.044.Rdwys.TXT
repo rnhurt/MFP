@@ -1,0 +1,708 @@
+1ST ALY                                                     0440104401
+1ST ALY N                                                   0440104401
+1ST ALY S                                                   0440104401
+2ND ALLEY E                                                 0440104401
+A A PIERCE CEMETERY RD                                      0440004400
+A A PIERCE CEMETERY SPUR                                    0440004400
+A E WRIGHT RD                                               0440004400
+A HANCOCK RD                                                0440004400
+A SHIRRELL RD                                               0440004400
+ACADEMY ST                                                  0440104401
+ACREE LN                                                    0440004400
+AETNA GROVE CHURCH RD                                       0440004400
+AKIN LN                                                     0440004400
+AKIN RD                                                     0440004400
+AKINS NARROW PITTMAN CR RD                                  0440004400
+ALBERT SMITH RD                                             0440004400
+ALLEN INGRAM RD                                             0440004400
+ALLENE CARTER RD                                            0440004400
+ALLENHOUSE LN                                               0440004400
+ARLINGTON CIR                                               0440104401
+ARNETT BISHOP RD                                            0440004400
+ATWELL MORGAN RD                                            0440004400
+AUBREY KIDD RD                                              0440004400
+AUTUMN DR                                                   0440004400
+AVERY DR                                                    0440104401
+B ARNETT RD                                                 0440004400
+B EDWARDS RD                                                0440004400
+B HALL RD                                                   0440004400
+B JANES RD                                                  0440004400
+B MONTGOMERY                                                0440004400
+B VANARSDALE RD                                             0440004400
+BAILEY RD                                                   0440004400
+BALES MILL RD                                               0440004400
+BASTIN ASBURY RD                                            0440004400
+BEAMS PERKINS RD                                            0440004400
+BEDFORD RAYMOND LN                                          0440004400
+BEECHWOOD RD                                                0440004400
+BELL CEMETERY LOOP                                          0440004400
+BELMONT ST                                                  0440104401
+BENNETT LN                                                  0440004400
+BENNINGFIELD RD                                             0440004400
+BETHEL CH RD                                                0440004400
+BIG BRUSH CREEK RD                                          0440004400
+BILL DAVIS RD                                               0440004400
+BILL JONES RD                                               0440004400
+BILL SHUFFETT RD                                            0440004400
+BISHOP CEMETERY RD                                          0440004400
+BISHOP LN                                                   0440004400
+BLACK GNAT RD                                               0440004400
+BLANKENSHIP LN                                              0440004400
+BLEVINS RD                                                  0440004400
+BLOWING SPRINGS RD                                          0440004400
+BLOYDS BLUFF RD                                             0440004400
+BLUE BIRD LN                                                0440004400
+BLUE BIRD LN                                                0440104401
+BLUFF BOOM RD                                               0440004400
+BOYCE P MILBY RD                                            0440004400
+BRAMLETT KEMP RD                                            0440004400
+BRAMLETT LOOP                                               0440004400
+BRENTWOOD SCHOOL RD                                         0440004400
+BROWN CEMETERY RD                                           0440004400
+BROWN RD                                                    0440004400
+BRUMMAL AVE                                                 0440104401
+BRUSH ALY                                                   0440104401
+BRUSH CREEK CH RD                                           0440004400
+BRUSHY RD                                                   0440004400
+BUCK EDWARDS LN                                             0440004400
+BUCK RUB LN                                                 0440004400
+BUCKNER HILL RD                                             0440004400
+BUCKNERSVILLE RD                                            0440004400
+BUFORD AKIN RD                                              0440004400
+BUFORD DIAL RD                                              0440004400
+BUSY BAKER RD                                               0440004400
+C BOILS RD                                                  0440004400
+C E GRAHAM RD                                               0440004400
+C GARRISON RD                                               0440004400
+C H MILBY RD                                                0440004400
+C MAYS RD                                                   0440004400
+C PAXTON RD                                                 0440004400
+C WALKER RD                                                 0440004400
+CALDWELL RD                                                 0440004400
+CAMPBELLSVILLE RD                                           0440004400
+CAMPBELLSVILLE RD                                           0440104401
+CAMPGROUND SCHOOL RD                                        0440004400
+CAMPTON SCHOOL RD                                           0440004400
+CANEY FORK RD                                               0440004400
+CANEY VALLEY RD                                             0440004400
+CARDINAL DR                                                 0440104401
+CARLISLE AVE                                                0440004400
+CARLISLE AVE                                                0440104401
+CARLISLE MILBY CEMETERY RD                                  0440004400
+CARLOS SUTTON LN                                            0440004400
+CARNATION RD                                                0440004400
+CAVEN BEND RD                                               0440004400
+CAVEN JONES RD                                              0440004400
+CAVEN LN                                                    0440004400
+CEDAR GROVE RD                                              0440004400
+CEDAR ST                                                    0440104401
+CEMETERY RD                                                 0440104401
+CEMETERY SPUR                                               0440104401
+CEMETERY SPUR NO2                                           0440104401
+CEMETERY SPUR NO3                                           0440104401
+CEMETERY ST                                                 0440104401
+CENTER CRAIL HOPE RD                                        0440004400
+CHANEY CEMETERY RD                                          0440004400
+CHARLIE RHEA RD                                             0440004400
+CHASE DEWITT RD                                             0440004400
+CHAUDOIN CEMETERY RD                                        0440004400
+CHERRY RD                                                   0440004400
+CHESTNUT RIDGE RD                                           0440004400
+CIRCLE DR                                                   0440104401
+CLARK BAGBY RD                                              0440004400
+CLARK HOUK RD                                               0440004400
+CLAY WRIGHT RD                                              0440004400
+CLAYTON BONTA RD                                            0440004400
+CLOVER LICK RD                                              0440004400
+COAKLEY RD                                                  0440004400
+COAKLEY ST                                                  0440104401
+COBURG RD                                                   0440004400
+COFFEY LN                                                   0440004400
+COLLINS RD                                                  0440004400
+COLUMBIA HWY                                                0440004400
+COMMERCE DR                                                 0440104401
+COOK ST                                                     0440104401
+CORBIN LN                                                   0440004400
+CORBY PIERCE RD                                             0440004400
+COTTON CHAUDOIN RD                                          0440004400
+COUNTRY CORNER SPUR RD                                      0440004400
+COUNTY BARN RD                                              0440104401
+COX LN                                                      0440004400
+COXES BEND RD                                               0440004400
+CREASON LN                                                  0440004400
+CREASON RD                                                  0440004400
+CREEK BANK RD                                               0440004400
+CUNDIFF RD                                                  0440004400
+CURNUTTE LN                                                 0440004400
+CURRY LN                                                    0440004400
+CURRY LN N                                                  0440004400
+CURRY RD                                                    0440004400
+D A R CEMETERY RD                                           0440004400
+D HALL LN                                                   0440004400
+D JEFFRIES RD                                               0440004400
+D KIDD RD                                                   0440004400
+D MONTGOMERY RD                                             0440004400
+D PENICK RD                                                 0440004400
+DALE HOUK RD                                                0440004400
+DANDELION DR                                                0440004400
+DANNY ATWOOD RD                                             0440004400
+DANNY MEADOWS LN                                            0440004400
+DANNY NELSON LN                                             0440004400
+DARNELL RD                                                  0440004400
+DAVENPORT LN                                                0440004400
+DENNIS CHANEY RD                                            0440004400
+DENNIS MILBY RD                                             0440004400
+DENNIS WHITLOCK RD                                          0440004400
+DEPOT ST                                                    0440104401
+DESPAIN RD                                                  0440004400
+DEWITT CEMETERY RD                                          0440004400
+DIAL RD                                                     0440004400
+DIXIE CREEK RD                                              0440004400
+DOC WARD RD                                                 0440004400
+DON CHURCH RD                                               0440004400
+DONANSBURG NEW SALEM RD                                     0440004400
+DONNIE MILBY RD                                             0440004400
+DOYLE BISHOP RD                                             0440004400
+DRUIN LN                                                    0440004400
+DURHAM CT                                                   0440104401
+DURHAM ST                                                   0440104401
+DURHAM STREET ST N                                          0440104401
+DURRETT RD                                                  0440004400
+DUVAL RD                                                    0440004400
+E COLUMBIA AVE                                              0440104401
+E COURT ST                                                  0440104401
+E GOOSECREEK RD                                             0440104401
+E HODGENVILLE AVE                                           0440104401
+E HODGENVILLE ST                                            0440104401
+E KENTUCKY REA RD                                           0440004400
+E LOCUST ST                                                 0440104401
+E MEADOW CREEK RD                                           0440004400
+EARL DURRETT RD                                             0440004400
+EARL THOMPSON RD                                            0440004400
+EARL YOUNG RD                                               0440004400
+EBENEZER RD                                                 0440004400
+EDMONTON RD                                                 0440004400
+EDWARDS CEMETERY RD                                         0440004400
+ELAM PERKINS RD                                             0440004400
+ELM ST                                                      0440104401
+ELMORE HODGES RD                                            0440004400
+EMERALD LN                                                  0440004400
+EMMETT HINES RD                                             0440004400
+ENNIS PERKINS CEMETERY RD                                   0440004400
+ERNEST DAVIS RD                                             0440004400
+ERNEST WRIGHT LN                                            0440004400
+ERNIE SCOTT RD                                              0440004400
+EULIS T LOWE RD                                             0440004400
+EVE RD                                                      0440004400
+EVERETT SKAGGS RD                                           0440004400
+EWING HICKS RD                                              0440004400
+F BUCHANAN RD                                               0440004400
+F T PEPPER RD                                               0440004400
+FAIRVIEW RD                                                 0440004400
+FANCY RIDGE CEMETERY RD                                     0440004400
+FARLEY LN                                                   0440004400
+FERRY RD                                                    0440004400
+FINIS MILBY RD                                              0440004400
+FLORA JEFFRIES RD                                           0440004400
+FORGOTTEN TRAIL                                             0440004400
+FOSTER LN                                                   0440004400
+FRANK CLARK RD                                              0440004400
+FRY RIDGE RD                                                0440004400
+G GENTRY RD                                                 0440004400
+G HASELWOOD RD                                              0440004400
+G T EUBANK RD                                               0440004400
+G THOMPSON RD                                               0440004400
+G WILCOXSON RD                                              0440004400
+GABE PERKINS RD                                             0440004400
+GABE RD                                                     0440004400
+GABE WEBB RD                                                0440004400
+GABE WILSON CEMETERY RD                                     0440004400
+GARNETT BEAMS RD                                            0440004400
+GEORGE BELL RD                                              0440004400
+GEORGE DANGERFIELD RD                                       0440004400
+GEORGE DEWITT RD                                            0440004400
+GEORGE MILBY RD                                             0440004400
+GLADYS ANDERSON RD                                          0440004400
+GLENVIEW RD                                                 0440004400
+GOLF COURSE RD                                              0440004400
+GORDON MILBY LN                                             0440004400
+GRAB RD                                                     0440004400
+GRAHAM CEMETERY RD                                          0440004400
+GRAHAM CMETERY SPUR                                         0440004400
+GRAHAM CT                                                   0440104401
+GRASSY FLAT LN                                              0440004400
+GRASSY FLAT RD                                              0440004400
+GREEN ACRES                                                 0440004400
+GREEN RIVER DR                                              0440004400
+GREEN RIVER RANCH RD                                        0440004400
+GREENSBURG VILLAGE                                          0440004400
+GRISSOM RD                                                  0440004400
+GROVER GIVENS RD                                            0440004400
+GUMM CEMETERY RD                                            0440004400
+GUMM CEMETERY SPUR                                          0440004400
+H BURRIS RD                                                 0440004400
+H HANDY RD                                                  0440004400
+H MILBY RD                                                  0440004400
+H PATTERSON RD                                              0440004400
+H SIDEBOTTOM RD                                             0440004400
+HALL CEMETERY                                               0440004400
+HALL CEMETERY RD                                            0440004400
+HALL LN                                                     0440004400
+HANCOCK CEMETERY RD                                         0440004400
+HAND RD                                                     0440004400
+HAPPYVILLE RD                                               0440004400
+HARDWICK RD                                                 0440004400
+HARTFIELD RD                                                0440004400
+HASKINGSVILLE RD                                            0440004400
+HAWKINS RD                                                  0440004400
+HAWTHORNE RD                                                0440004400
+HAYES CEMETERY RD                                           0440004400
+HEATHERTON CIRCLE RD                                        0440004400
+HEDGESPETH LN                                               0440004400
+HENNEIN BERRY RD                                            0440004400
+HENRY FORD RD                                               0440004400
+HENRY ST                                                    0440104401
+HICKORY DR                                                  0440004400
+HICKORY LN                                                  0440004400
+HIDDEN LN                                                   0440004400
+HIDDEN VALLEY RD                                            0440104401
+HILL ST                                                     0440104401
+HILLERY SKAGGS RD                                           0440004400
+HILLVIEW ACRES                                              0440104401
+HILLVIEW TERRACE                                            0440104401
+HINES RD                                                    0440004400
+HODGENVILLE RD                                              0440004400
+HODGENVILLE RD                                              0440104401
+HODGES LN                                                   0440004400
+HODGES ST                                                   0440104401
+HOGARDS CHAPEL RD                                           0440004400
+HOLLY GROVE CHURCH RD                                       0440004400
+HOOT OWL HOLW                                               0440004400
+HORSESHOE BEND RD                                           0440004400
+HOUKS CHAPEL RD                                             0440004400
+HOWARD MARCUM RD                                            0440004400
+HOWARD SCHOOL RD                                            0440004400
+HOWARDS SCHOOL PICKETT RD                                   0440004400
+HOWELL CEMETERY RD                                          0440004400
+HOWELL RD                                                   0440004400
+HUBERT G WRIGHT SPUR                                        0440004400
+HUBERT WRIGHT RD                                            0440004400
+HUDGINS HWY                                                 0440004400
+HUDSON RD                                                   0440004400
+HUGH PAXTON RD                                              0440004400
+HUNTERS LN                                                  0440004400
+HUNTERS TRAIL                                               0440004400
+IMMANUAL RD                                                 0440004400
+INDUSTRIAL PARK NO2                                         0440104401
+INDUSTRIAL PARK RD                                          0440104401
+INDUSTRIAL RD                                               0440104401
+INEZ PRUITT RD                                              0440004400
+IRA WRIGHT EXT                                              0440004400
+IRA WRIGHT RD                                               0440004400
+IVY LN                                                      0440004400
+J ATWELL RD                                                 0440004400
+J BUTLER RD                                                 0440004400
+J CANTRELL RD                                               0440004400
+J M KELLY RD                                                0440004400
+J SIMPSON RD                                                0440004400
+J T JEFFRIES RD                                             0440004400
+J T RUSSELL RD                                              0440004400
+J T WARD RD                                                 0440004400
+J W STILTS RD                                               0440004400
+J WORKMAN RD                                                0440004400
+JAKE GRAHAM RD                                              0440004400
+JAMES HARMON RD                                             0440004400
+JAMES WALLACE RD                                            0440004400
+JASON TYLER RD                                              0440004400
+JERRY ARNETT RD                                             0440004400
+JERRY BISHOP RD                                             0440004400
+JERRY DILE RD                                               0440004400
+JERRY DURRETT RD                                            0440004400
+JERRY FIELDS RD                                             0440004400
+JESS NUNN RD                                                0440004400
+JIM MEADOWS RD                                              0440004400
+JIMMY OBANION RD                                            0440004400
+JIMMY RUSSELL RD                                            0440004400
+JOE SHUFFETT RD                                             0440004400
+JOEL MILBY RD                                               0440004400
+JOHN DEERE RD                                               0440004400
+JOHN GOFF RD                                                0440004400
+JONES CEMETERY RD                                           0440004400
+JONES MEADOWS RD                                            0440004400
+JONES RD                                                    0440004400
+JONES SCHOOL RD                                             0440004400
+JOSIE PIERCE RD                                             0440004400
+JUDD CEMETERY RD                                            0440004400
+JUDD CEMETERY SPUR RD                                       0440004400
+JUNIOR STILTS RD                                            0440004400
+KELLY CEMETERY RD                                           0440004400
+KELLY RD                                                    0440004400
+KELTNER MELL RIDGE RD                                       0440004400
+KEMP RD                                                     0440004400
+KENNETH ATWELL LN                                           0440004400
+KESSLER LN                                                  0440004400
+KIDD CEMETERY RD                                            0440004400
+KIDWELL RD                                                  0440004400
+KIDZ KORNER                                                 0440104401
+KOUNTRY KORNER RD                                           0440004400
+KY1048                                                      0440004400
+KY1464                                                      0440004400
+KY210                                                       0440004400
+KY210                                                       0620004400
+KY218                                                       0440004400
+KY323                                                       0440004400
+KY487                                                       0440004400
+KY566                                                       0440004400
+KY569                                                       0440004400
+KY61                                                        0440004400
+KY729                                                       0440004400
+KY793                                                       0440004400
+KY88                                                        0440004400
+KY936                                                       0440004400
+KY936                                                       0500004400
+L A MATNEY RD                                               0440004400
+L BALE RD                                                   0440004400
+L D SQUIRES RD                                              0440004400
+L KELLY RD                                                  0440004400
+L MILBY LN                                                  0440004400
+L R FROGGETT RD                                             0440004400
+L R HOUK RD                                                 0440004400
+L W SHIRLEY RD                                              0440004400
+L WALKER RD                                                 0440004400
+LATONYA BISHOP LN                                           0440004400
+LEE CEMETERY RD                                             0440004400
+LEGION PARK RD                                              0440004400
+LEGION PARK RD                                              0440104401
+LEGION PARK SPUR                                            0440104401
+LENA WARD RD                                                0440004400
+LEON DAVIS RD                                               0440004400
+LEWIS CT                                                    0440104401
+LEWIS DOBSON LN                                             0440004400
+LEWIS HIGGASON RD                                           0440004400
+LIBERTY CHURCH RD                                           0440004400
+LIBERTY LAWSON RD                                           0440004400
+LILETOWN CEMETERY                                           0440004400
+LILETOWN RD                                                 0440004400
+LINWOOD CURRY RD                                            0440004400
+LITTLE BARREN CHURCH RD                                     0440004400
+LIZZIE MEARS FARM RD                                        0440004400
+LOBB BEND RD                                                0440004400
+LOCUST GROVE LOOP                                           0440004400
+LOCUST GROVE RD                                             0440004400
+LOCUST RIDGE RD                                             0440004400
+LONE OAK RD                                                 0440004400
+LONG HUNTERS CAMP RD                                        0440004400
+LONG MEADOW DR                                              0440104401
+LONZIE SCOTT RD                                             0440004400
+LOVERS LN                                                   0440004400
+LOWE ST                                                     0440104401
+LOWER BRUSH CREEK RD                                        0440004400
+LOY RD                                                      0440004400
+LUTHER DR                                                   0440004400
+LYNN LEE DR                                                 0440004400
+M GOFF DR                                                   0440004400
+M KELLY RD                                                  0440004400
+MABIN SODE RD                                               0440004400
+MAC PITMAN RD                                               0440004400
+MACEDONIA CHURCH RD                                         0440004400
+MAHOGANY LN                                                 0440004400
+MAPLE AVE                                                   0440004400
+MAPLE HILL CH RD                                            0440004400
+MARCUM ERVIN RD                                             0440004400
+MARSHALL RIDGE RD                                           0440004400
+MARY MOSS RD                                                0440004400
+MATNEY RD                                                   0440004400
+MATTIE JONES RD                                             0440004400
+MAXIE HENDERSON RD                                          0440004400
+MCCOULLOUGH RD                                              0440004400
+MCFARLAND RD                                                0440004400
+MCKINNEY ST                                                 0440104401
+MEADOW LN                                                   0440104401
+MEADOWS MCKINNEY RD                                         0440004400
+MELBA JONES RD                                              0440004400
+MELL RD                                                     0440004400
+MIKE LOBB RD                                                0440004400
+MILBY RATTLIFF RD                                           0440004400
+MILBY ST                                                    0440104401
+MILLER RD                                                   0440004400
+MITCHELL CEMETERY RD                                        0440004400
+MITCHELL LONDON RD                                          0440004400
+MITCHELL WEBB RD                                            0440004400
+MONEY LN                                                    0440004400
+MONTGOMERY MILL RD                                          0440004400
+MONTGOMERY RD                                               0440004400
+MOORE AVE                                                   0440104401
+MOORE LN                                                    0440104401
+MOSS BALE LN                                                0440004400
+MOSS MILBY LN                                               0440004400
+MT LEBANON CH RD                                            0440004400
+MULE PATH RD                                                0440004400
+N 1ST ST                                                    0440104401
+N 2ND ST                                                    0440104401
+N GABE HENDERSON RD                                         0440004400
+N LUTHER DR                                                 0440004400
+N MCCULLUM AVE                                              0440104401
+N PARSON LN                                                 0440004400
+N PUBLIC SQ                                                 0440104401
+N SKAGGS DOBSON RD                                          0440004400
+NANCY ST                                                    0440104401
+NEAGLE RD                                                   0440004400
+NEARS MILBY                                                 0440004400
+NEW HOPE RD                                                 0440004400
+NOE LN                                                      0440004400
+NUNN RD                                                     0440004400
+O JONES RD                                                  0440004400
+O PATTERSON RD                                              0440004400
+O STRADER RD                                                0440004400
+OAKLAWN DR                                                  0440104401
+OAKS RD                                                     0440004400
+OLD CAVEN BEND RD                                           0440004400
+OLD CEDAR TOP RD                                            0440004400
+OLD CURRY CEMETERY RD                                       0440004400
+OLD HODGENVILLE RD                                          0440104401
+OLD LITTLE BARREN RD                                        0440004400
+OLD SALEM CH RD                                             0440004400
+OLD SPRING RD                                               0440004400
+OLD SUMMERSVILLE RD                                         0440004400
+OLD THOMPSON CEMETERY RD                                    0440004400
+OLLIE SHUFFETT RD                                           0440004400
+OMAR SULLIVAN RD                                            0440004400
+ORVILLE NOE RD                                              0440004400
+OSCAR MILBY LN                                              0440004400
+P PHILLIPS LN                                               0440004400
+PARK AVE                                                    0440104401
+PARK ROAD NO1                                               0440004400
+PARK ROAD NO10                                              0440004400
+PARK ROAD NO2                                               0440004400
+PARK ROAD NO3                                               0440004400
+PARK ROAD NO4                                               0440004400
+PARK ROAD NO5                                               0440004400
+PARK ROAD NO6                                               0440004400
+PARK ROAD NO7                                               0440004400
+PARK ROAD NO8                                               0440004400
+PARK ROAD NO9                                               0440004400
+PARKER RD                                                   0440004400
+PARROTT DR                                                  0440004400
+PARSON LN                                                   0440004400
+PATTERSON RD                                                0440004400
+PAUL CAVEN RD                                               0440004400
+PAUL ENNIS RD                                               0440004400
+PAUL PRICE RD                                               0440004400
+PAUL RODGERS RD                                             0440004400
+PAUL SHUFFETT RD                                            0440004400
+PEACH TREE RD                                               0440004400
+PEAR TREE RD                                                0440004400
+PENDLETON CT                                                0440104401
+PENICK AVE                                                  0440104401
+PENICK CEMETERY RD                                          0440004400
+PENITENTIARY BEND RD                                        0440004400
+PENNICK CEMETERY LN                                         0440004400
+PEPPER LN                                                   0440004400
+PERKINS LN                                                  0440004400
+PHILLIPS CEMETERY                                           0440004400
+PHILLIPS RD                                                 0440004400
+PIERCE CEMETERY RD                                          0440004400
+PIERCE DONANSBURG RD                                        0440004400
+PIERCE THURLOW RD                                           0440004400
+PIKE LN                                                     0440004400
+PIKEVIEW RD                                                 0440004400
+PILSON SMITH RD                                             0440004400
+PINE RD                                                     0440004400
+PINE VIEW RD                                                0440004400
+PLEASANT RUN CH RD                                          0440004400
+PLEASANT VALLEY RD                                          0440004400
+POPLAR GROVE SCHOOL RD                                      0440004400
+POSEY BEND RD                                               0440004400
+POWDER MILL SCHLHOUSE RD                                    0440004400
+PRIVATE RD                                                  0440104401
+PRUITT LN                                                   0440004400
+PRUITT RD                                                   0440004400
+QUAIL VALLEY DR                                             0440104401
+QUAIL VALLEY LN                                             0440104401
+QUINCY DOBSON RD                                            0440004400
+R DAWSON LN                                                 0440004400
+R DURHAM RD                                                 0440004400
+R L GENTRY RD                                               0440004400
+R MCKINNEY RD                                               0440004400
+R MILBY RD                                                  0440004400
+R MILLS RD                                                  0440004400
+R PICKETT LN                                                0440004400
+R PICKETT LN                                                0440104401
+R THOMPSON RD                                               0440004400
+R W THOMPSON RD                                             0440004400
+RAINBOW TROUT LN                                            0440004400
+RALPH VAUGHN RD                                             0440004400
+RAY DAVENPORT LN                                            0440004400
+RAY MCCUBBINS RD                                            0440004400
+RAYBURN RD                                                  0440004400
+RAYMOND DESPAIN RD                                          0440004400
+RAYMOND DOBSON RD                                           0440004400
+RAYMOND STILLWELL RD                                        0440004400
+REAR MAIN ST                                                0440104401
+RED OAK DR                                                  0440004400
+REDS LN                                                     0440004400
+RELIFORD RD                                                 0440004400
+RICKY LOYALL RD                                             0440004400
+RIVER BLUFF RD                                              0440004400
+RIVER RD                                                    0440004400
+RIVERSIDE DR                                                0440004400
+RIVERVIEW AVE                                               0440104401
+RIVERVIEW ST                                                0440104401
+ROACHVILLE FORD RD                                          0440004400
+ROACHVILLE RD                                               0440004400
+ROBERT LANDIS RD                                            0440004400
+ROBERT LANDIS SPUR                                          0440004400
+ROBERT LARIMORE RD                                          0440004400
+ROBERT SMITH RD                                             0440004400
+ROBERT SMITH SPUR RD                                        0440004400
+ROCKY TOP TRL                                               0440004400
+ROLLIN HEDGESPETH RD                                        0440004400
+RON THOMPSON RD                                             0440004400
+RONALD MILBY RD                                             0440004400
+RONDAL BRADSHAW RD                                          0440004400
+ROY BAGBY RD                                                0440004400
+ROY CHAUDOIN RD                                             0440004400
+RUSSELL AVE                                                 0440104401
+RUSSELL CEMETERY RD                                         0440004400
+RUSSELL CREEK RD                                            0440004400
+RUSSELL RD                                                  0440004400
+RUSSELL STEARMAN RD                                         0440004400
+RYAN RD                                                     0440004400
+S 1ST ST                                                    0440104401
+S 2ND ST                                                    0440104401
+S MCCULLUM AVE                                              0440104401
+S PUBLIC SQ                                                 0440104401
+S THURLOW RD                                                0440004400
+SAM ED LOWE RD                                              0440004400
+SAM GENTRY RD                                               0440004400
+SAM LOYALL RD                                               0440004400
+SAM MCKINNEY RD                                             0440004400
+SAM PERKINS RD                                              0440004400
+SAMBO DAVIS RD                                              0440004400
+SAMMY BONTA RD                                              0440004400
+SAMMY NUNN RD                                               0440004400
+SANDLICK CH RD                                              0440004400
+SANDLICK RD                                                 0440004400
+SANTIFEE ANDERSON RD                                        0440004400
+SCOTT CEMETERY RD                                           0440004400
+SCOTT MARCUM RD                                             0440004400
+SCOTTSVILLE ST                                              0440104401
+SHADY GROVE WHICKERVILLE RD                                 0440004400
+SHADY LN                                                    0440004400
+SHADY LN                                                    0440104401
+SHALLOW CREEK RD                                            0440004400
+SHANNON HEIGHTS RD                                          0440004400
+SHELBY PATTERSON RD                                         0440004400
+SHIRRELL CEMETERY RD                                        0440004400
+SHREVE AVE                                                  0440104401
+SIDEBOTTOM CEMETERY RD                                      0440004400
+SIMPSON LN                                                  0440004400
+SIMPSON RD                                                  0440004400
+SKAGGS DOBSON RD                                            0440004400
+SKINHOUSE BRANCH RD                                         0440004400
+SKYVIEW ESTATES                                             0440004400
+SLINKER RD                                                  0440004400
+SOUTH END RD                                                0440004400
+SOUTH THURLOW RD                                            0440004400
+SPARROW DR                                                  0440104401
+SPRINGWOOD DR                                               0440004400
+STEVE COFFEY RD                                             0440004400
+STEVENS RD                                                  0440004400
+STRAUSER LN                                                 0440004400
+STRAWBERRY LN                                               0440004400
+SULLIVAN RD                                                 0440004400
+SUMMERSVILLE COAKLEY RD                                     0440004400
+SUMMERSVILLE RD                                             0440004400
+SUNRISE DR                                                  0440104401
+SWEENEY RD                                                  0440004400
+SWIHART LN                                                  0440004400
+T DAVIS RD                                                  0440004400
+T NEAGLE RD                                                 0440004400
+T PEPPER RD                                                 0440004400
+TABERNACLE RD                                               0440004400
+TAYLOR AVE                                                  0440104401
+TAYLOR COX RD                                               0440004400
+TAYLORS CHAPEL RD                                           0440004400
+TEMPERANCE RD                                               0440004400
+TEMPERANCE SPUR                                             0440004400
+TERRELL LN                                                  0440004400
+TERRILL SCHOOL RD                                           0440004400
+TEXAS ST                                                    0440104401
+THOMPSON RD                                                 0440004400
+THUNDER RD                                                  0440004400
+TILL LN                                                     0440004400
+TODD GARDNER LN                                             0440004400
+TOM BURRIS RD                                               0440004400
+TOM STEARMAN RD                                             0440004400
+TRAILER PARK ST                                             0440104401
+TUCKER RD                                                   0440004400
+TUNNEL LN                                                   0440104401
+TURNER LN                                                   0440004400
+TWELVE OAKS RD                                              0440004400
+TWIN MEADOWS RD                                             0440004400
+UNDERWOOD LOOP RD                                           0440004400
+UNION CHURCH RD                                             0440004400
+US68                                                        0440004400
+US68                                                        0440104401
+V CLARK RD                                                  0440004400
+V D MILBY RD                                                0440004400
+VALLEY DR                                                   0440104401
+VAN HIGGASON RD                                             0440004400
+VANCE RD                                                    0440004400
+VANMETER RD                                                 0440004400
+VAUGHN RD                                                   0440004400
+VEATCH RD                                                   0440004400
+VIVIAN THOMPSON RD                                          0440004400
+W BUCKNER HILL RD                                           0440004400
+W C TURNER LN                                               0440004400
+W COLUMBIA AVE                                              0440104401
+W COURT ST                                                  0440104401
+W GOOSECREEK RD                                             0440104401
+W HODGENVILLE AVE                                           0440004400
+W HODGENVILLE AVE                                           0440104401
+W LOCUST ST                                                 0440104401
+WADE RD                                                     0440004400
+WALL PIKE                                                   0440004400
+WALLACE WHITE RD                                            0440004400
+WALNUT SPRINGS RD                                           0440004400
+WALSH RD                                                    0440004400
+WARDS RD                                                    0440004400
+WARF CEMETERY                                               0440004400
+WARREN HARDSHIP RD                                          0440004400
+WARREN RD                                                   0440004400
+WATER ST                                                    0440104401
+WAYNE HIGGASON RD                                           0440004400
+WAYNE JONES RD                                              0440004400
+WESLEY DR                                                   0440004400
+WHIPPOORWILL LN                                             0440004400
+WHITEWOOD RD                                                0440004400
+WHITLOCK CEMETERY RD                                        0440004400
+WHITLOW ELKINS RD                                           0440004400
+WHITLOW LN                                                  0440004400
+WILBURN BONTA RD                                            0440004400
+WILCOXSON CEMETERY RD                                       0440004400
+WILD TURKEY WAY                                             0440004400
+WILDFLOWER LN                                               0440004400
+WILL ED SHUFFETT RD                                         0440004400
+WILL LOYALL RD                                              0440004400
+WILL SHUFFETT RD                                            0440004400
+WILLARD LOBB RD                                             0440004400
+WILLIAM CEMETERY RD                                         0440004400
+WILLIAM DIAL RD                                             0440004400
+WILLIAM E LOBB DR                                           0440004400
+WILLIAM MILBY LN                                            0440004400
+WILLIE RICE RD                                              0440004400
+WILSON RD                                                   0440004400
+WILSON ST                                                   0440104401
+WINDING RIDGE RD                                            0440004400
+WINDY HILLS RD                                              0440004400
+WINFRED SIMPSON RD                                          0440004400
+WISDOM LOOP CENTER                                          0440004400
+WISDOM RD                                                   0440004400
+WOODFIELD ESTATES                                           0440004400
+WOODFIELD ESTATES SPUR                                      0440004400
+WOODLAND TRL                                                0440004400
+WOODROW SMITH RD                                            0440004400
+WOODSIDE LN                                                 0440004400
+WOODSON DR                                                  0440104401
+WRIGHT RD                                                   0440004400

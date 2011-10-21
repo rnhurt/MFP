@@ -1,0 +1,1317 @@
+149TH REGIMENT RD                                           0890008900
+14TH AVE                                                    0890008900
+201ST ENGINEER DR                                           0890008900
+238TH DR                                                    0890008900
+35TH DIVISION RD                                            0890008900
+38TH DIVISION RD                                            0890008900
+ADLER LN                                                    0890008900
+AILENE LN                                                   0890008900
+AIR SHAFT LN                                                0890008900
+AIRPORT RD                                                  0890008900
+AIRPORT RD                                                  0890108901
+AIRSTRIP RD                                                 0890008900
+ALBERTA LN                                                  0890008900
+ALEXANDRIA CIR                                              0890108901
+ALLEN CEMETERY LN                                           0890008900
+ALLEN LN                                                    0890008900
+ALLEN RD                                                    0890008900
+ALLEY NO1                                                   0890108901
+ALLEY NO2                                                   0890208902
+ALLISON ST                                                  0890108901
+ALUMINUM FACTORY ST                                         0890008900
+AMPLEX ST                                                   0890208902
+ANGELA WAY                                                  0890008900
+ANNA LN                                                     0890008900
+ANNA VODA TRL                                               0890008900
+APPLE DR                                                    0890008900
+ARNDELL LN                                                  0890008900
+ARNETT LN                                                   0890008900
+ARNOLD DR                                                   0890008900
+ARNOLD HILL RD                                              0890008900
+ARVIL DUKES LN                                              0890008900
+ASH ST                                                      0890208902
+AUTUMN LN                                                   0890008900
+B2                                                          0890008900
+B3                                                          0890008900
+B4                                                          0890008900
+B5                                                          0890008900
+BAGGETT LN                                                  0890008900
+BAKER RD                                                    0890008900
+BALLPARK LN                                                 0890008900
+BALLPARK ST                                                 0890008900
+BANDANA LN                                                  0890008900
+BARD GADSEN CEMETERY RD                                     0890008900
+BARD RD                                                     0890108901
+BARDS HILL RD                                               0890008900
+BARLOW PL                                                   0890108901
+BARNEY RD                                                   0890008900
+BARRETT ST                                                  0890008900
+BARRETT ST                                                  0891408914
+BARTON ST                                                   0890008900
+BASS LN                                                     0890008900
+BATSEL ST                                                   0890008900
+BEACHVIEW LN                                                0890008900
+BECHANNAS RD                                                0890008900
+BEECH CREEK BROWDER RD                                      0890008900
+BEECH CREEK RD                                              0890008900
+BEECH ST                                                    0890008900
+BEECHMONT DR                                                0890008900
+BELCHER LN                                                  0890008900
+BELILES CIR                                                 0890008900
+BELLAIRE CT                                                 0890208902
+BEN TOPMILLER DR                                            0890008900
+BENNETT LN                                                  0890008900
+BETHEL LN                                                   0890008900
+BETHEL PL                                                   0890108901
+BETHLEHEM CEMETERY LN                                       0890008900
+BETHLEHEM CHURCH RD                                         0890008900
+BEVIER RD                                                   0890008900
+BICKFORD RD                                                 0890008900
+BIG JOHN DR                                                 0890108901
+BIG SPRINGS RD                                              0890008900
+BILL LN                                                     0890008900
+BILL WILCUTT LN                                             0890308903
+BILLY DRAKE DR                                              0890008900
+BILYEU LN                                                   0890008900
+BIRCH ST                                                    0890008900
+BIRCH ST                                                    0890108901
+BIRCH STREET SPUR                                           0890108901
+BIRD LN                                                     0890008900
+BIRDIE PL                                                   0890208902
+BIVOUAC SITE NO7 RD                                         0890008900
+BLACKHAWK DR                                                0890108901
+BLACKLAKE RD                                                0890008900
+BLACKLAKE RD                                                0890808908
+BLACKWELL CEMETERY RD                                       0890008900
+BLAKEMAN LN                                                 0890008900
+BLUEBIRD ST                                                 0890008900
+BOAT RAMP LN                                                0890008900
+BOB KING LN                                                 0890008900
+BOGGESS BLVD                                                0890208902
+BOGGESS CEMETERY RD                                         0890008900
+BONHAM AVE                                                  0890108901
+BOONE CT                                                    0890008900
+BOWLES LN                                                   0890008900
+BOYCE NEWMAN RD                                             0890008900
+BRADFORD DR                                                 0890008900
+BRADLEY LANDING LN                                          0890008900
+BRADLEY SPUR LN                                             0890008900
+BRAKE ST                                                    0890008900
+BRAKE ST                                                    0890408904
+BRANK ST                                                    0890108901
+BRECKINRIDGE LP                                             0890008900
+BREMEN MILL RD                                              0890008900
+BREWER DR                                                   0890008900
+BREWER DR                                                   0890208902
+BRICK ST                                                    0890008900
+BRITTANY LN                                                 0890008900
+BROAD ST                                                    0890008900
+BROAD ST                                                    0890108901
+BROAD ST                                                    0890308903
+BROOKS HILL LN                                              0890008900
+BROOKS LN                                                   0890008900
+BROWDER CEMETERY RD                                         0890008900
+BROWDER CHURCH LN                                           0890008900
+BROWDER CUTOFF RD                                           0890008900
+BROWDER MINES LN                                            0890008900
+BROWN LN                                                    0890008900
+BROWN MEADOWS LN                                            0890208902
+BROWNING LN                                                 0890008900
+BROWNING LN                                                 0890108901
+BROWNWOOD DR                                                0890008900
+BRUCE LN                                                    0890008900
+BRYAN LAKE DR                                               0890008900
+BRYANT CIR                                                  0890108901
+BRYANT ST                                                   0890108901
+BUCHANAN RD                                                 0890008900
+BUFFALO DR                                                  0890308903
+BUNCH LN                                                    0890008900
+BURDEN HILL LN                                              0890008900
+BURGESS ST                                                  0890208902
+BURKLEY DR                                                  0890108901
+BUTTERCUP CT                                                0890108901
+BUTTERMILK RD                                               0890008900
+BUTTERMILK RD                                               0890808908
+BYARS DR                                                    0890008900
+BYERS LN                                                    0890008900
+C C HARRIS RD                                               0890008900
+CADEN RAY LN                                                0890008900
+CALIFORNIA ST                                               0890208902
+CAMBRIDGE DR                                                0890008900
+CAMPBELL LOOP                                               0890008900
+CANEY CREEK LN                                              0890008900
+CANYON RIM TRL                                              0890008900
+CANYON RUN RD                                               0890008900
+CARDINAL DR                                                 0890208902
+CARDINAL DR                                                 0890308903
+CAREER WAY                                                  0890408904
+CARL RD                                                     0890008900
+CAROLYN ST                                                  0890108901
+CARROLL ST                                                  0891408914
+CARTER CREEK RD                                             0890008900
+CARTWRIGHT LN                                               0890008900
+CARVER HANKINS LN                                           0890008900
+CARVER LN                                                   0890008900
+CARVER MILLER LN                                            0890008900
+CARY RD                                                     0890008900
+CASTLE HTS                                                  0890408904
+CATTLE LN                                                   0890008900
+CAVE SPRINGS CHURCH RD                                      0890008900
+CAVE SPRINGS RD                                             0890008900
+CEDAR GROVE RD                                              0890008900
+CEDAR HILL LN                                               0890008900
+CEDAR LN                                                    0890008900
+CEDAR ST                                                    0890208902
+CENTER ST                                                   0890108901
+CENTER ST                                                   0890208902
+CERALVO LN                                                  0890008900
+CESSNA RD                                                   0890408904
+CHAPMAN ST                                                  0890008900
+CHARLES ST                                                  0890208902
+CHARLES ST                                                  0890408904
+CHARLIE BROWN RD                                            0890008900
+CHATHAM LN                                                  0890108901
+CHEROKEE DR                                                 0890408904
+CHERRY BLOSSOM TRL                                          0890208902
+CHERRY GROVE LN                                             0890008900
+CHERRY HILL CUT OFF RD                                      0890008900
+CHERRY JUBILEE WAY                                          0890208902
+CHERRY ORCHARD PL                                           0890208902
+CHERRY ST                                                   0890208902
+CHERRYWOOD DR                                               0890208902
+CHESTNUT ST                                                 0890108901
+CHEYENNE LN                                                 0890008900
+CHICKEN WALK LN                                             0890108901
+CHRISTIAN ST                                                0890308903
+CHUMLEY LN                                                  0890008900
+CHURCH DR                                                   0890008900
+CHURCH LOOP                                                 0890008900
+CHURCH RD                                                   0890008900
+CHURCH ST                                                   0890008900
+CHURCH ST                                                   0890408904
+CHURCH STREET CONNECTOR                                     0890008900
+CIRCLE DR                                                   0890008900
+CIRCLE DR                                                   0890108901
+CIRCLE DR                                                   0890408904
+CIRCLE G LN                                                 0890008900
+CISNEY LN                                                   0890008900
+CLARK RD                                                    0890008900
+CLARK ST                                                    0890008900
+CLARK ST                                                    0891408914
+CLEATON HAUL RD                                             0890008900
+CLEATON LN                                                  0890008900
+CLEATON RD                                                  0890008900
+CLEATON RD                                                  0890108901
+CLEATON RD                                                  0890408904
+CLEMONS DR                                                  0890108901
+CLIFTON LN                                                  0890008900
+CLINIC DR                                                   0890008900
+CLUB VIEW DR                                                0890208902
+CLYDE WEE BROWN JR BLVD                                     0890208902
+COLLEGE PARK DR                                             0890208902
+COLLEGE ST                                                  0890108901
+COLLEGE ST                                                  0890808908
+COLYMER LN                                                  0890008900
+COMANCHE LN                                                 0890008900
+CONSERVATION DR                                             0890008900
+CONWAY RD                                                   0890008900
+COPPER CREEK DR                                             0890408904
+CORLEY CHAPEL RD                                            0890008900
+CORLEY RD                                                   0890008900
+CORNELIUS LN                                                0890008900
+CORNETTE RD                                                 0890008900
+CORNETTE ST                                                 0890308903
+CORUM LANDING RD                                            0890008900
+CORUM SPUR LN                                               0890008900
+CORVETTE LN                                                 0890008900
+COUNTRY CLUB DR                                             0890208902
+COUNTRY LANE DR                                             0890008900
+COUNTRY LANE DR                                             0890108901
+COUNTRY LANE RD                                             0890008900
+COUNTRY LANE SPUR                                           0890008900
+COUNTRYSIDE LOOP                                            0890008900
+COUNTY LINE RD                                              0890008900
+COURT ROW                                                   0890108901
+COURT ST                                                    0890108901
+COVINGTON LN                                                0890008900
+COX LN                                                      0890008900
+CRAIG LN                                                    0890008900
+CRAZY HORSE LN                                              0890008900
+CREEKSIDE DR                                                0890008900
+CRESCENT HAUL RD                                            0890008900
+CRESTWOOD DR                                                0890008900
+CRITTENDEN DR                                               0890008900
+CRITTENDEN DR                                               0890108901
+CROOKED CREEK LN                                            0890008900
+CROSS CREEK LN                                              0890008900
+CROSS ST                                                    0890408904
+CROSS ST                                                    0891408914
+CROSSING ST                                                 0890008900
+CROWDER ST                                                  0890408904
+CROXTON LN                                                  0890008900
+CURTIS LN                                                   0890008900
+CYPRESS CEMETERY LN                                         0890008900
+CYPRESS TRAIL LOOP                                          0890008900
+CYPRESS TRL                                                 0890008900
+DAME WAY                                                    0890108901
+DANIEL DR                                                   0890008900
+DAVE MORRIS ST                                              0890008900
+DAVENPORT LANDING LN                                        0890008900
+DAVENPORT LN                                                0890008900
+DAVID MARTIN LN                                             0890008900
+DAVIS CIR                                                   0891408914
+DAWN DR                                                     0890108901
+DAWSON BLVD                                                 0890008900
+DAY LN                                                      0890008900
+DEAN RD                                                     0890108901
+DEARMOND LN                                                 0890008900
+DEER PARK DR                                                0890008900
+DETACHMENT RD                                               0890008900
+DEVILS LAKE RD                                              0890008900
+DEVILS LAKE RD                                              0890208902
+DIAMOND BLOCK LN                                            0890008900
+DITNEY HILL RD                                              0890008900
+DIVINE ST                                                   0890208902
+DOCKINS RD                                                  0890008900
+DOGWOOD TRL                                                 0890408904
+DOODLE RD                                                   0890008900
+DORA LN                                                     0890008900
+DOSS LN                                                     0890008900
+DOSS RD                                                     0890008900
+DOUBLE J LN                                                 0890008900
+DOUGLAS RD                                                  0890008900
+DRAKE LN                                                    0890008900
+DRAKE RD                                                    0890008900
+DRAKE SCHOOL RD                                             0890008900
+DRAPER LN                                                   0890008900
+DRURY ST                                                    0890008900
+DUNCAN LN                                                   0890208902
+DUNMOR CEMETERY RD                                          0890008900
+DUNMOR CHURCH ST                                            0890008900
+DUNMOR SPUR RD                                              0890008900
+DUNN RD                                                     0890008900
+DUPONT ST                                                   0890208902
+DUVALL CHAPEL LN                                            0890008900
+DUVALL LN                                                   0890008900
+DUVALL SPUR                                                 0890008900
+DWYER RD                                                    0890008900
+E 2ND AVE                                                   0890208902
+E 3RD AVE                                                   0890208902
+E 4TH AVE                                                   0890208902
+E BROAD ST                                                  0890208902
+E CAMPBELL ST                                               0890108901
+E CHURCH ST                                                 0891408914
+E DEPOT ST                                                  0890108901
+E DRAKE ST                                                  0890308903
+E DRAKE STREET SPUR                                         0890308903
+E ELM ST                                                    0890008900
+E EVERLY BROTHERS BLVD                                      0890208902
+E MAIN CROSS ST                                             0890008900
+E MAIN CROSS ST                                             0890108901
+E MAIN ST                                                   0890408904
+E MANGRUM CT                                                0890808908
+E MOSE RAGER BLVD                                           0890308903
+E PENDLETON ST                                              0890208902
+E RAILROAD LOOP                                             0890008900
+E RESERVOIR AVE                                             0890208902
+E RIVER QUEEN RD                                            0890008900
+E STROUD LN                                                 0890208902
+E STROUDE LN                                                0890208902
+E TROWBRIDGE ST                                             0890108901
+E UNION CEMETERY LN                                         0890008900
+E WHITMER ST                                                0890208902
+EAGLE PL                                                    0890208902
+EAGLES DR                                                   0890208902
+EASTVIEW DR                                                 0890208902
+EASY ST                                                     0890008900
+EAVES ST                                                    0890408904
+EBENEZER LN                                                 0890008900
+ECHO POINT LN                                               0890008900
+EDWARDS DR                                                  0890408904
+EDWARDS LN                                                  0890008900
+EDWARDS RD                                                  0890008900
+EIGHT MILE LN                                               0890008900
+ELDON LN                                                    0890008900
+ELI LN                                                      0890008900
+ELK POND CREEK RD                                           0890008900
+ELKINS CEMETERY LN                                          0890008900
+ELLA AVE                                                    0890108901
+ELM ST                                                      0890108901
+ELM ST                                                      0890408904
+ELY LN                                                      0890008900
+EMBERRY CHURCH RD                                           0890008900
+ENGLISH ACRES LN                                            0890008900
+ESOR CIR                                                    0890008900
+ESSER ST                                                    0890208902
+EVANS ST                                                    0890108901
+EVERLY BROTHERS BLVD                                        0890008900
+EVERLY BROTHERS BLVD                                        0890208902
+EXIT RD                                                     0890008900
+FAIRVIEW RD                                                 0890008900
+FAIRVIEW ST                                                 0890108901
+FAIRWAY DR                                                  0890208902
+FARP RD                                                     0890008900
+FAYE ANN ST                                                 0890108901
+FEDERAL ST                                                  0890208902
+FERGUSON LN                                                 0890008900
+FIRE DEPARTMENT CUTOFF RD                                   0890008900
+FIREHOUSE LN                                                0890008900
+FIRETOWER RD                                                0890008900
+FISHER ST                                                   0890208902
+FITNESS DR                                                  0890008900
+FITZHUGH LN                                                 0890008900
+FLANAGAN ST                                                 0890308903
+FLOYD AVE                                                   0890008900
+FORD LN                                                     0890008900
+FORD ST                                                     0890008900
+FOREST HILL RD                                              0890008900
+FOREST OAK CHURCH RD                                        0890008900
+FOREST RETREAT LN                                           0890008900
+FORGY MILL RD                                               0890008900
+FORTNEY ST                                                  0890008900
+FORTNEY VILLAGE                                             0890208902
+FOX DR                                                      0890108901
+FOX LN                                                      0890008900
+FOX RUN                                                     0890008900
+FOX ST                                                      0890308903
+FOXHALL RD                                                  0890008900
+FOXHALL RD                                                  0890108901
+FRANK LN                                                    0890008900
+FRAZE LN                                                    0890008900
+FRAZIER ST                                                  0890308903
+FREE LN                                                     0890008900
+FRENCH LN                                                   0890008900
+FRIENDSHIP RD                                               0890008900
+FROGTOWN LOOP                                               0890008900
+FRONT ST                                                    0890008900
+FRONT ST                                                    0890208902
+FRONTAGE RD                                                 0890408904
+FRUIT HILL RD                                               0890208902
+FULKERSON LN                                                0890008900
+GARDNER LN                                                  0890008900
+GARRETT LN                                                  0890008900
+GAS LINE RD                                                 0890008900
+GASTON RD                                                   0890008900
+GEARY LN                                                    0890008900
+GENE JERNIGAN LN                                            0890008900
+GENE JONES RD                                               0890008900
+GEORGIA LN                                                  0890008900
+GIBSON LN                                                   0890008900
+GISH RD                                                     0890008900
+GISH ST                                                     0890208902
+GISHTON RD                                                  0890008900
+GLEN HILLS PL                                               0890208902
+GLEN LN                                                     0890008900
+GLENBROOK PARK                                              0890108901
+GOINS ST                                                    0890308903
+GOLDEN EAGLE DR                                             0890008900
+GOLDEN EAGLE DR                                             0890808908
+GOLDEN TIDE AVE                                             0890208902
+GOLF CART LN                                                0890208902
+GOODSON LN                                                  0890008900
+GOODVIEW LN                                                 0890008900
+GOOSE HOLLOW ST                                             0890308903
+GORDON BRADLEY RD                                           0890008900
+GORDON LUCAS RD                                             0890008900
+GORE FARM                                                   0890008900
+GOSSETT LN                                                  0890008900
+GOURMET DINING DR                                           0890108901
+GRAHAM CEMETERY RD                                          0890008900
+GRAHAM CYPRESS RD                                           0890008900
+GRAHAM SCHOOL LOOP                                          0890008900
+GRAHAM UNITED CHURCH LN                                     0890008900
+GRAVEL PIT RD                                               0890008900
+GRAYSON LN                                                  0890008900
+GREEN CEMETERY LN                                           0890008900
+GREEN MEADOWS ST                                            0890008900
+GREEN RIVER HAUL RD                                         0890008900
+GREEN RIVER PARK RD                                         0890008900
+GREEN RIVER PARK ROAD NO1                                   0890008900
+GREEN RIVER PARK ROAD NO2                                   0890008900
+GREEN ST                                                    0890008900
+GREEN VALLEY DR                                             0890208902
+GREENBERRY ROSE CEMETERY RD                                 0890008900
+GREENBRIER CEMETERY RD                                      0890008900
+GREENBRIER CHURCH RD                                        1100008900
+GREENBRIER LN                                               0890008900
+GREENE DR                                                   0890108901
+GREENFIELD LN                                               0890008900
+GREENHOUSE LN                                               0890008900
+GREENS CHAPEL RD                                            0890008900
+GREENTOWN LN                                                0890008900
+GREENVILLE RD                                               0890008900
+GREGORY LAKE RD                                             0890008900
+GREGORY ST                                                  0890108901
+GRIFFIN PL                                                  0890208902
+GRIGGS ST                                                   0890408904
+GRIMMETT LN                                                 0890008900
+GROGAN LN                                                   0890008900
+GROVES LN                                                   0890008900
+GRUBBS LN                                                   0890008900
+GUITAR AVE                                                  0890308903
+GUY ST                                                      0890008900
+H C MATHIS DR                                               0890108901
+H O LEE RD                                                  0890008900
+HALBERT LN                                                  0890008900
+HALL ST                                                     0890008900
+HAMMONDS LN                                                 0890008900
+HAPPY LN                                                    0890008900
+HAR KEN RD                                                  0890008900
+HARDISON LN                                                 0890008900
+HARMONY LN                                                  0890008900
+HARPER CIR                                                  0890008900
+HARPER LN                                                   0890408904
+HARPERS CIR                                                 0890008900
+HARPS HILL RD                                               0890008900
+HARRIS AVE                                                  0890208902
+HARRIS RD                                                   0890008900
+HARRIS ST                                                   0890308903
+HARRISON AVE                                                0890208902
+HART LN                                                     0890008900
+HAWK LN                                                     0890008900
+HAWKINS ST                                                  0890408904
+HAY MEADOW CT                                               0890008900
+HAYDEN CEMETERY LN                                          0890008900
+HAYES LN                                                    0890008900
+HAYES ST                                                    0890108901
+HAZEL CREEK RD                                              0890008900
+HAZELWOOD DR                                                0890008900
+HEADQUARTERS DR                                             0890008900
+HELIPORT DR                                                 0890008900
+HENDERSON LN                                                0890008900
+HENRY LN                                                    0890008900
+HENRY OATES RD                                              0890008900
+HERSHEL DAVIS RD                                            0890008900
+HEWEY LN                                                    0890008900
+HICKORY CT                                                  0890008900
+HICKORY LN                                                  0890008900
+HIDDEN ACRES LN                                             0890008900
+HIGGINS LN                                                  0890008900
+HIGH ST                                                     0890208902
+HIGHLAND AVE                                                0890008900
+HIGHLAND DR                                                 0890108901
+HILL HAVEN PL                                               0890008900
+HILL RD                                                     0890008900
+HILL ST                                                     0890108901
+HILLCREST ST                                                0890408904
+HILLSIDE DR                                                 0890008900
+HILLSIDE LN                                                 0890008900
+HILLSIDE RD                                                 0890008900
+HILLSIDE RD                                                 0890408904
+HILLSIDE ROAD SPUR                                          0890408904
+HILLSIDE TRL                                                0890008900
+HILLTOP LN                                                  0890008900
+HILLTOP LN                                                  0890108901
+HILLVIEW DR                                                 0890008900
+HILLVIEW ST                                                 0890008900
+HOLLOW LN                                                   0890008900
+HOLT RD                                                     0890008900
+HOMEPLACE DR                                                0890008900
+HONEY LN                                                    0890008900
+HOPE CEMETERY RD                                            0890008900
+HOPKINSVILLE ST                                             0890008900
+HOPKINSVILLE ST                                             0890108901
+HORSESHOE LOOP                                              0890008900
+HOWARD BOWERS RD                                            0890008900
+HOWERTON LN                                                 0890008900
+HUBERT LN                                                   0890008900
+HUDSON LN                                                   0890008900
+HUEHLS HILL ST                                              0890008900
+HUGH LN                                                     0890008900
+HUMPHREY RD                                                 0890008900
+HUNT RD                                                     0890008900
+HUNTER LN                                                   0890008900
+IKE EVERLY AVE                                              0890308903
+INDUSTRIAL DR                                               0890108901
+INN VIEW LN                                                 0890008900
+IRA MCDONALD LN                                             0890008900
+ISBELL LN                                                   0890008900
+J H MITCHELL RD                                             0890208902
+J P PORTER                                                  0890008900
+JACKSONTOWN RD                                              0890008900
+JADE CENTER DR                                              0890008900
+JADE EAST DR                                                0890008900
+JADE WEST DR                                                0890008900
+JAGO CEMETERY RD                                            0890008900
+JAGO CEMETERY ROAD SPUR                                     0890008900
+JAGOE ST                                                    0890208902
+JAMES JACKSON LN                                            0890008900
+JAMES ST                                                    0890008900
+JAMES TERRACE DR                                            0890008900
+JAMESON LN                                                  0890008900
+JARRELLS CREEK RD                                           0890008900
+JARVIS LN                                                   0890008900
+JARVIS RD                                                   0890008900
+JARVIS ST                                                   0890408904
+JASON ST                                                    0890008900
+JEFFERSON ST                                                0890208902
+JERNIGANS CHAPEL RD                                         0890008900
+JERRY KING LN                                               0890008900
+JESS WINN RD                                                0890008900
+JESSIE LN                                                   0890008900
+JESSUP LN                                                   0890008900
+JIM BOB LN                                                  0890008900
+JOB CORPS DR                                                0890008900
+JOCKEY CREEK LN                                             0890008900
+JOE DAVIS LOOP                                              0890008900
+JOHN DEERE LN                                               0890008900
+JOHN MOORE RD                                               0890008900
+JOHNSON LN                                                  0890008900
+JOHNSON RD                                                  0890008900
+JOHNSON ST                                                  0890008900
+JOHNSON ST                                                  0890108901
+JOHNSTON RD                                                 0890008900
+JONES AVE                                                   0890008900
+JONES AVE                                                   0890308903
+JONES LN                                                    0890008900
+JOSEPH LN                                                   0890008900
+JOY HILL LN                                                 0890008900
+JOYCE AVE                                                   0890108901
+JUSTIN LN                                                   0890008900
+KAMERON ST                                                  0890008900
+KAYLOR LN                                                   0890008900
+KEELING DR                                                  0890008900
+KEELING RD                                                  0890008900
+KEIGAN ST                                                   0890008900
+KEIGAN ST                                                   0890308903
+KEN LN                                                      0890008900
+KENNEDY BRASHER RD                                          0890008900
+KENNEDY BRASHER RD                                          0890108901
+KENNEDY JONES AVE                                           0890308903
+KENNEDY RD                                                  0890008900
+KENTON DR                                                   0890008900
+KENTUCKY BOY LN                                             0890008900
+KENTUCKY ST                                                 0890208902
+KENWOOD LN                                                  0890008900
+KEOWN DR                                                    0890208902
+KIMBERLY DR                                                 0890108901
+KINCADE LN                                                  0890008900
+KINCADE LOOP                                                0890008900
+KINNEY LN                                                   0890008900
+KIRKWOOD LN                                                 0890008900
+KIRTLEY RD                                                  0890008900
+KNIGHT LN                                                   0890008900
+KNIGHT LOOP                                                 0890008900
+KNIGHTS HILL LN                                             0890008900
+KUHN LN                                                     0890008900
+KY1031                                                      0890008900
+KY1163                                                      0890008900
+KY1379                                                      0890008900
+KY1380                                                      0890008900
+KY1380                                                      0890408904
+KY1473                                                      0890008900
+KY171                                                       0890008900
+KY175 N                                                     0890008900
+KY175 S                                                     0890008900
+KY176                                                       0890008900
+KY181 N                                                     0890008900
+KY189 BYP                                                   0890008900
+KY189 BYP                                                   0890108901
+KY189 CONNECTOR                                             0890108901
+KY189 S                                                     0890008900
+KY189C                                                      0890108901
+KY2107                                                      0890008900
+KY2270 E                                                    0890008900
+KY2270 W                                                    0890008900
+KY2533                                                      0890008900
+KY2551                                                      0890008900
+KY2584                                                      0890008900
+KY2590                                                      0890008900
+KY2695                                                      0890008900
+KY423                                                       0890008900
+KY600                                                       0890008900
+KY601                                                       0890008900
+KY602                                                       0890208902
+KY604                                                       0890008900
+KY6114                                                      0890008900
+KY70                                                        0890008900
+KY70 E                                                      0890008900
+KY70 W                                                      0890008900
+KY70 W                                                      0890208902
+KY81                                                        0890008900
+KY81                                                        0890808908
+KY81                                                        0891408914
+KY831                                                       0890008900
+KY853                                                       0890008900
+KY890                                                       0890008900
+KY949                                                       0890008900
+KY973                                                       0890008900
+LADSHAW RD                                                  0890008900
+LAKE DR                                                     0890008900
+LAKE DR                                                     0890108901
+LAKE LOOP                                                   0890008900
+LAKE MALONE STATE PARK RD                                   0890008900
+LAKE TRL                                                    0890008900
+LAKEVIEW DR                                                 0890008900
+LAKEVIEW DR                                                 0890208902
+LAKEVIEW DRIVE SPUR                                         0890208902
+LAKEVIEW LN                                                 0890008900
+LAKEVIEW TERRACE DR                                         0890008900
+LANDFILL RD                                                 0890008900
+LANDFILL SPUR RD                                            0890008900
+LANGLEY RD                                                  0890008900
+LASTER LN                                                   0890008900
+LATHAM ST                                                   0890008900
+LEAR LN                                                     0890008900
+LEARLAN RD                                                  0890008900
+LEE CEMETERY LN                                             0890008900
+LEE LN                                                      0890008900
+LEGION DR                                                   0890208902
+LEIGHS CHAPEL RD                                            0890008900
+LESLIE SMITH ST                                             0890308903
+LILE LN                                                     0890008900
+LILE WAY                                                    0890208902
+LIMESTONE ST                                                0891408914
+LITTLE CLIFF LN                                             0890008900
+LLOYD JOHNSON LN                                            0890008900
+LOCKETOWN RD                                                0890008900
+LOCUST HL                                                   0890008900
+LOCUST ST                                                   0890208902
+LOIS LN                                                     0890208902
+LONE STAR RD                                                0890008900
+LONE WOLF LN                                                0890008900
+LONELY LN                                                   0890008900
+LONEY LN                                                    0890008900
+LOVELL DR                                                   0890108901
+LOVELLS LN                                                  0890008900
+LUCKETT CEMETERY RD                                         0890008900
+LUZERNE DEPOY RD                                            0890008900
+LUZERNE DEPOY ROAD CONNECTOR                                0890008900
+LUZERNE DR                                                  0890108901
+LYNCH LN                                                    0890008900
+LYNN CITY CONNECTOR                                         0890008900
+LYNN CITY RD                                                0890008900
+MABEL LN                                                    0890008900
+MACEDONIC LOOP                                              0890008900
+MADISON DR                                                  0890008900
+MAE AVE                                                     0890108901
+MAGNOLIA ST                                                 0890208902
+MAIDEN LN                                                   0890208902
+MAIN ST                                                     0890008900
+MAIN ST                                                     0890808908
+MAIN ST                                                     0891408914
+MALONE FARM LN                                              0890008900
+MAPLE DR                                                    0890108901
+MAPLE LN                                                    0890208902
+MAPLE ST                                                    0890008900
+MAPLE ST                                                    0890108901
+MAPLE ST                                                    0890408904
+MARIAMA LN                                                  0890008900
+MARK AVE                                                    0890108901
+MARKWELL LN                                                 0890008900
+MARSHALL CT                                                 0890008900
+MARTIN LN                                                   0890008900
+MARTIN ST                                                   0890108901
+MARTWICK RD                                                 0890008900
+MASON LN                                                    0890008900
+MASON POYNER RD                                             0890008900
+MASONIC DR                                                  0890008900
+MASSEY DR                                                   0890208902
+MATTHEW CRESCENT                                            0890008900
+MAUDE VINCENT LN                                            0890008900
+MAY APPLE RD                                                0890008900
+MAY LN                                                      0890008900
+MAYHUGH LN                                                  0890008900
+MCCONNELL DR                                                0890008900
+MCCONNELL DRIVE CONNECTOR                                   0890008900
+MCDONALD ST                                                 0890108901
+MCELVAIN RD                                                 0890008900
+MCGINLEY LOOP                                               0890008900
+MCINTOSH RD                                                 0890008900
+MCNARY RD                                                   0890008900
+MCPHERSON LN                                                0890008900
+MCPHERSON RD                                                0890008900
+MEADOW HILL LN                                              0890208902
+MEDICAL CENTER DR                                           0890408904
+MEEKS LN                                                    0890008900
+MEFFORD LN                                                  0890008900
+MELLWOOD DR                                                 0890108901
+MERCER CEMETERY LN                                          0890008900
+MERCER LN                                                   0890008900
+MERCER ST                                                   0890408904
+MERLE TRAVIS HWY                                            0890008900
+MERULA LN                                                   0890008900
+MICHAEL DR                                                  0890108901
+MIDDLE ST                                                   0890408904
+MIDLAND GISHTON RD                                          0890008900
+MIDLAND SPRINGS LN                                          0890008900
+MILITARY LN                                                 0890008900
+MILL RD                                                     0890008900
+MILL ST                                                     0890108901
+MILLER CEMETERY LOOP                                        0890008900
+MILLER LN                                                   0890008900
+MILLER LN                                                   0890408904
+MILLER RD                                                   0890008900
+MILLIGAN LN                                                 0890008900
+MILLPORT SACRAMENTO RD                                      0890008900
+MINE RIDGE RD                                               0890208902
+MINERS HALL RD                                              0890008900
+MINERS LOOP                                                 0890008900
+MINUTEMAN RD                                                0890008900
+MITCHELL LN                                                 0890008900
+MITTIE RENDER AVE                                           0890208902
+MOCKINGBIRD LN                                              0890008900
+MOHON LN                                                    0890008900
+MONSANTO HAUL RD                                            0890008900
+MONTGOMERY LOOP                                             0890008900
+MOORE CEMETERY RD                                           0890008900
+MOORE ST                                                    0890208902
+MOORMAN CEMETERY RD                                         0890008900
+MOREHEAD LN                                                 0890008900
+MOREHEAD RD                                                 0890008900
+MOREHEAD ST                                                 0890208902
+MORGAN LN                                                   0890108901
+MORGAN RD                                                   0890008900
+MORGAN RICKARD LN                                           0890008900
+MORPHEW LN                                                  0890008900
+MOTES LN                                                    0890008900
+MOUNTAIN LAUREL LN                                          0890008900
+MT MORIAH RD                                                0890008900
+MT OLIVET LN                                                0890008900
+MT PISGAH RD                                                0890008900
+MUD RIVER MINE RD                                           0890008900
+MUD RIVER UNION RD                                          0890008900
+MUD ST                                                      0890008900
+MUDDY FORK LN                                               0890008900
+MUHLENBERG DR                                               0890108901
+MULBERRY LN                                                 0890008900
+MYERS CHAPEL RD                                             0890008900
+MYERS LN                                                    0890008900
+N 1ST ST                                                    0890208902
+N 2ND ST                                                    0890008900
+N 2ND ST                                                    0890208902
+N 38TH DIVISION RD                                          0890008900
+N 3RD ST                                                    0890208902
+N 4TH ST                                                    0890208902
+N 5TH ST                                                    0890208902
+N 6TH ST                                                    0890208902
+N 7TH ST                                                    0890208902
+N 8TH ST                                                    0890008900
+N 8TH ST                                                    0890208902
+N BOGGESS AVE                                               0890108901
+N CHERRY HILL RD                                            0890208902
+N CHERRY ST                                                 0890108901
+N CHURCH ST                                                 0890008900
+N CHURCH ST                                                 0890808908
+N HEDGES DR                                                 0890008900
+N JOHN PRINE AVE                                            0890308903
+N LEIGH CHAPEL LN                                           0890008900
+N MAIN ST                                                   0890008900
+N MAIN ST                                                   0890108901
+N MINE ST                                                   0890008900
+N MINE ST                                                   0890308903
+N PARK DR                                                   0890008900
+N PARK DR                                                   0890108901
+N PARK DRIVE NO1                                            0890108901
+N PARK DRIVE NO2                                            0890108901
+N WEBB RD                                                   0890008900
+NAZARETH ST                                                 0890008900
+NEAL ST                                                     0890208902
+NEBO CEMETERY RD                                            0890008900
+NEBO LN                                                     0890008900
+NELSON LN                                                   0890008900
+NEW CYPRESS RD                                              0890008900
+NEW HOPE LN                                                 0890008900
+NEW PARADISE LN                                             0890008900
+NEWMAN DR                                                   0890108901
+NEWMAN ST                                                   0890208902
+NICHOLAS LN                                                 0890008900
+NOAH LN                                                     0890008900
+NOBLE ST                                                    0890208902
+NOFFSINGER LN                                               0890008900
+NOLEN LN                                                    0890008900
+NONNELL CUTOFF RD                                           0890008900
+NORMAN CIR                                                  0890108901
+NORTHWOODS DR                                               0890008900
+NORTHWOODS LOOP                                             0890008900
+OAK ST                                                      0890008900
+OAK ST                                                      0890108901
+OAK ST                                                      0890808908
+OAK TREE DR                                                 0890208902
+OAKHURST RD                                                 0890008900
+OAKLEY LN                                                   0890008900
+OAKTREE PLZ                                                 0890208902
+OAKVIEW DR                                                  0890108901
+OAKVIEW DR                                                  0890408904
+OAKWOOD DR                                                  0890008900
+OBANNON LN                                                  0890008900
+OBBA LN                                                     0890008900
+OBRIEN ST                                                   0890108901
+OBSTACLE COURSE RD                                          0890008900
+ODD KID LN                                                  0890008900
+ODESSA DR                                                   0890008900
+OLD BROWNIE RD                                              0890208902
+OLD CENTRAL CITY RD                                         0890008900
+OLD COUNTY LN                                               0890008900
+OLD ENNIS RD                                                0890008900
+OLD GREENVILLE RD                                           0890008900
+OLD HEBRON LN                                               0890008900
+OLD KY 2693                                                 0890008900
+OLD KY 6115                                                 0890008900
+OLD LIBERTY RD                                              0890008900
+OLD NONNELL LN                                              0890008900
+OLD SALEM LN                                                0890008900
+OLD SAWMILL RD                                              0890008900
+OLD US 431                                                  0890008900
+OLD WYATT CEMETERY                                          0890008900
+OLDHAM LN                                                   0890008900
+OLDHAM ST                                                   0890408904
+OLIVE HILL TRL                                              0890008900
+OPOSSUM LN                                                  0890008900
+OPPORTUNITY WAY                                             0890008900
+OPPORTUNITY WAY                                             0890108901
+ORCHARD LN                                                  0890008900
+ORCHARD ST                                                  0890208902
+OREO DR                                                     0890008900
+ORION LN                                                    0890008900
+OSBORNE LN                                                  0890008900
+OTIS LN                                                     0890008900
+OUTER YORK ST                                               0890008900
+OUTER YORK ST                                               0890108901
+P AND M HAUL RD                                             0890008900
+PALLETT MILL                                                0890008900
+PAM PL                                                      0890208902
+PAR LN                                                      0890208902
+PAR PL                                                      0890208902
+PARADISE BOAT RAMP                                          0890008900
+PARADISE RD                                                 0890008900
+PARADISE RD                                                 0890108901
+PARADISE RD                                                 0890408904
+PARADISE ST                                                 0890108901
+PARHAM DR                                                   0890108901
+PARHAM LN                                                   0890008900
+PARK DR                                                     0890008900
+PARK ST                                                     0890008900
+PARK ST                                                     0890208902
+PARK ST                                                     0890808908
+PARKER ST                                                   0890008900
+PARKWAY LN                                                  0890008900
+PARSON LN                                                   0890008900
+PATTONTOWN DR                                               0890208902
+PATTY LN                                                    0890008900
+PAYTON LN                                                   0890008900
+PEABODY RD N                                                0890008900
+PEABODY RD S                                                0890008900
+PEACH TREE CIR                                              0890208902
+PEARSON LN                                                  0890008900
+PENDLEY MILL LN                                             0890008900
+PENDLEY RD                                                  0890008900
+PENDLEY ST                                                  0890408904
+PENROD CUTOFF RD                                            0890008900
+PENROD LN                                                   0890008900
+PERKINS ST                                                  0890208902
+PERRY LN                                                    0890008900
+PETE LN                                                     0890008900
+PETERS ST                                                   0890208902
+PHILLIP STONE WAY                                           0890008900
+PHILLIP STONE WAY                                           0890208902
+PHILLIP UZZLE LN                                            0890008900
+PHILLIPSTOWN RD                                             0890008900
+PINE ST                                                     0890008900
+PIPER LN                                                    0890008900
+PISTOL SADDLER LN                                           0890008900
+PITTINGER LN                                                0890008900
+PITTMAN ST                                                  0890208902
+PLEASANT HILL RD                                            0890008900
+PLUM ST                                                     0890008900
+POGUE RD                                                    0890008900
+PONDEROSA LOOP                                              0890008900
+POPLAR ST                                                   0890208902
+POST OFFICE LN                                              0890008900
+POWER LINE ST                                               0890008900
+POWER PLANT DR                                              0890008900
+POWERHOUSE LN                                               0890008900
+PREACHER KING RD                                            0890008900
+PREMIUM DR                                                  0890008900
+PRINCE ST                                                   0890208902
+PRISON RD                                                   0890008900
+PRITCHETT DR                                                0890108901
+PRITCHETT LN                                                0890008900
+PROPELLER DR                                                0890108901
+PUTNAM LN                                                   0890008900
+RABBIT RUN LN                                               0890008900
+RABBITT RIDGE LN                                            0890008900
+RAGER HUNT LN                                               0890008900
+RAGER LN                                                    0890008900
+RAGLAND LN                                                  0890008900
+RAILROAD LN                                                 0890008900
+RAILROAD ST                                                 0890208902
+RALPH LN                                                    0890008900
+RAYMER MASSEY LN                                            0890008900
+RECTOR LN                                                   0890008900
+RED BRICK RD                                                0890008900
+RED HOUSE LN                                                0890008900
+REDBUD LN                                                   0890408904
+REED CEMETERY LN                                            0890008900
+REMINGTON LN                                                0890008900
+RENAULT AVE                                                 0890108901
+RENO LOOP                                                   0890008900
+RENO RD                                                     0890008900
+REVELETTE LN                                                0890008900
+REYNOLDS CEMETERY LN                                        0890008900
+REYNOLDS DR                                                 0890008900
+REYNOLDS DR                                                 0890108901
+REYNOLDS ST                                                 0890208902
+RHOADES AVE                                                 0890208902
+RHONDA AVE                                                  0890008900
+RICE CIR                                                    0890008900
+RICE LN                                                     0890108901
+RICEDALE CIR                                                0890308903
+RICHARDSON LN                                               0890008900
+RICHARDSON RD                                               0890108901
+RICHARDSON ST                                               0890408904
+RICHMOND LN                                                 0890008900
+RIDGE RD                                                    0890008900
+RIDGE ST                                                    0890008900
+RIDGEWOOD LN                                                0890008900
+RIVER HAUL RD                                               0890008900
+RIVER RD                                                    0890008900
+RIVER RD                                                    0890208902
+RIVERSIDE CHURCH RD                                         0890008900
+RIVERSIDE RD                                                0890008900
+RIVERVIEW DR                                                0890008900
+ROARK LN                                                    0890008900
+ROBARDS LN                                                  0890008900
+ROBERT L DRAPER WAY                                         0890008900
+ROBERT L DRAPER WAY                                         0890108901
+ROBERT L DRAPER WAY                                         0890408904
+ROBERTSON LN                                                0890008900
+ROBERTSON ST                                                0890008900
+ROBINSON LN                                                 0890008900
+ROBINWOOD DR                                                0890108901
+ROCKPORT LN                                                 0890008900
+ROCKPORT PARADISE RD                                        0890008900
+ROGERS AVE                                                  0890108901
+ROGERS RD                                                   0890008900
+ROLAND LN                                                   0890008900
+ROLLEY LN                                                   0890008900
+ROMANS LN                                                   0890008900
+ROMANS SPUR                                                 0890008900
+ROSE AVE                                                    0890108901
+ROSE HILL CEMETERY A                                        0890208902
+ROSE HILL CEMETERY B                                        0890208902
+ROSE HILL CEMETERY C                                        0890208902
+ROSE HILL CEMETERY D                                        0890208902
+ROSE HILL CEMETERY E                                        0890208902
+ROSE HILL DR                                                0890208902
+ROSE SCHOOL RD                                              0890008900
+ROSES LN                                                    0890808908
+ROSEWOOD RD                                                 0890008900
+ROYCE MORGAN DR                                             0890008900
+RUMSEY LN                                                   0890008900
+RUSS LN                                                     0890008900
+RUSSELL JONES LN                                            0890008900
+RUSSELL ST                                                  0890108901
+RUST LN                                                     0890008900
+RUTLEDGE HILL RD                                            0890008900
+RYAN ST                                                     0890208902
+S 1ST ST                                                    0890208902
+S 2ND ST                                                    0890208902
+S 3RD ST                                                    0890208902
+S 4TH ST                                                    0890208902
+S 5TH ST                                                    0890208902
+S 6TH ST                                                    0890208902
+S 7TH ST                                                    0890208902
+S 8TH ST                                                    0890208902
+S 9TH ST                                                    0890208902
+S BOGGESS AVE                                               0890108901
+S CARROLLTON ST                                             0890008900
+S CHERRY HILL RD                                            0890008900
+S CHERRY ST                                                 0890108901
+S CHURCH ST                                                 0890808908
+S JOHN PRINE AVE                                            0890308903
+S MAIN LN                                                   0890108901
+S MAIN ST                                                   0890008900
+S MAIN ST                                                   0890108901
+S MINE ST                                                   0890008900
+S MINE ST                                                   0890308903
+S WEBB RD                                                   0890008900
+SADDLE CLUB LN                                              0890008900
+SADDLER LN                                                  0890008900
+SALINITY DR                                                 0890108901
+SANDUSKY AVE                                                0890208902
+SAPP LN                                                     0890008900
+SARAS LN                                                    0890108901
+SAW MILL LN                                                 0890008900
+SCHOOLHOUSE LN                                              0890008900
+SCHUCK RD                                                   0890008900
+SCOTT RD                                                    0890008900
+SEARS CEMETERY LN                                           0890008900
+SEARS ST                                                    0890008900
+SEGERS RD                                                   0890008900
+SHADELAND LN                                                0890408904
+SHADY ACRES LN                                              0890008900
+SHADY LN                                                    0890008900
+SHADY OAK DR                                                0890208902
+SHANKS LN                                                   0890008900
+SHANKS NELSON LN                                            0890008900
+SHARON CHURCH LN                                            0890008900
+SHARON DEPOY RD                                             0890008900
+SHAVER DR                                                   0890008900
+SHAVER DR                                                   0890808908
+SHAVERS CEMETERY RD                                         0890008900
+SHELBY LN                                                   0890008900
+SHELTON RD                                                  0890008900
+SHEPHERDS CIR                                               0890208902
+SHERWOOD CV                                                 0890008900
+SHERWOOD POINT LN                                           0890008900
+SHIPP ST                                                    0890208902
+SHOREVIEW LN                                                0890008900
+SHORT ST                                                    0890008900
+SHORT ST                                                    0890108901
+SHORT ST                                                    0890208902
+SHOWN LN                                                    0890008900
+SHOWN LN                                                    0890208902
+SILVER LAUREL CT                                            0890108901
+SIMMONS ST                                                  0890308903
+SINKING ST                                                  0891408914
+SKIPWORTH LN                                                0890008900
+SMITH CEMETERY LN                                           0890008900
+SMITH LN                                                    0890008900
+SMOKEY LN                                                   0890008900
+SNYDER LN                                                   0890008900
+SOUTHRIDGE LN                                               0890008900
+SPA LANE LOOP                                               0890208902
+SPA LN                                                      0890208902
+SPARTAN DR                                                  0890008900
+SPARTAN DR                                                  0890408904
+SPRING DR                                                   0890008900
+SPRING HILL LN                                              0890008900
+SPRING ST                                                   0891408914
+ST CLAIR RD                                                 0890008900
+ST JAMES WAY                                                0890208902
+STANLEY LN                                                  0890008900
+STAR QUEEN RD                                               0890008900
+STATE ST                                                    0890208902
+STEED AV SPUR                                               0890308903
+STEED AVE                                                   0890308903
+STEVEN MEADOWS LN                                           0890008900
+STEVENS LN                                                  0890008900
+STEWARD FRONTAGE RD                                         0890008900
+STEWARD FRONTAGE RD                                         0890208902
+STILLHOUSE BEND LN                                          0890008900
+STOBAUGH LN                                                 0890008900
+STONEBLUFF AVE                                              0890208902
+STOVALL CT                                                  0890108901
+STRADER LN                                                  0890008900
+STRAIN LN                                                   0890008900
+STRINGTOWN RD                                               0890008900
+STRINGTOWN RD                                               0890208902
+SUMNER AVE                                                  0890108901
+SUNNYSIDE RD                                                0890008900
+SUNSET DR                                                   0890408904
+SUNSET PARK                                                 0890008900
+SUNSET RIDGE                                                0890108901
+SUNSHINE DR                                                 0890008900
+SUTTON LN                                                   0890008900
+SWEENEY LN                                                  0890008900
+SYLVANIA ST                                                 0890008900
+TABB LN                                                     0890008900
+TAGGART LN                                                  0890008900
+TALAN LN                                                    0890008900
+TAMMIE LN                                                   0890108901
+TAMMY DR                                                    0890208902
+TANGLEWOOD PL                                               0890208902
+TAPP ST                                                     0890208902
+TAR SPRINGS DR                                              0890108901
+TARRANCE RD                                                 0890008900
+TAYLOR RD                                                   0890208902
+TEASLEY ST                                                  0890008900
+TEMPLE ST                                                   0890208902
+TERREBONE LOOP                                              0890008900
+THOM BRESH AVE                                              0890308903
+THOROFARE RD                                                0890008900
+THREE CREEKS LN                                             0890008900
+THREE SISTERS LN                                            0890008900
+TICK LN                                                     0890008900
+TIFFANY AVE                                                 0890108901
+TIGER DR                                                    0890008900
+TIPPLE ST                                                   0890408904
+TODD DR                                                     0890008900
+TODD DUKES LN                                               0890008900
+TOLBERT LN                                                  0890008900
+TOM HALL RD                                                 0890008900
+TOMMY FLINT AVE                                             0890308903
+TOMS LN                                                     0890008900
+TOOMBS LN                                                   0890008900
+TORIE LN                                                    0890008900
+TOWER RD                                                    0890008900
+TRAIL OF TEARS                                              0890408904
+TRAINING AREA NO3 LOOP                                      0890008900
+TROY LN                                                     0890008900
+TURLEY DR                                                   0890008900
+TWIN DRIVE LN                                               0890008900
+TWIN HILLS DR                                               0890108901
+TWIN OAKS DR                                                0890008900
+TWIN SPRINGS RD                                             0890008900
+UNDERWOOD LN                                                0890008900
+UNION CHAPEL LN                                             0890008900
+UNION CHURCH LN                                             0890008900
+UNION RIDGE RD                                              0890008900
+UNITY ACRES LN                                              0890008900
+UNITY FARMS LN                                              0890008900
+US431                                                       0890008900
+US431 N                                                     0890008900
+US431 N                                                     0890208902
+US431 N                                                     0891408914
+US431 S                                                     0890008900
+US62                                                        0890008900
+US62                                                        0890408904
+US62 E                                                      0890008900
+US62 E                                                      0890208902
+US62 E                                                      0890408904
+US62 W                                                      0890008900
+UZZLE LN                                                    0890008900
+VALLEY CT                                                   0890308903
+VALLEY LN                                                   0890008900
+VALLEY TRL                                                  0890008900
+VALLEY VIEW DR                                              0890108901
+VALLEY VIEW LN                                              0890208902
+VAUGHT LN                                                   0890008900
+VINCENT LN                                                  0890008900
+VINEYARD ST                                                 0890408904
+VIRGINIA LN                                                 0890108901
+VIVID CT                                                    0890208902
+VOLNEY LN                                                   0890008900
+W 1ST AVE                                                   0890208902
+W 2ND AVE                                                   0890208902
+W 3RD AVE                                                   0890208902
+W 4TH AVE                                                   0890208902
+W 5TH AVE                                                   0890208902
+W 6TH ST                                                    0890208902
+W 7TH AVE                                                   0890208902
+W A MOHON LN                                                0890008900
+W BROAD ST                                                  0890208902
+W CAMPBELL ST                                               0890108901
+W CHURCH ST                                                 0891408914
+W DEPOT ST                                                  0890108901
+W DRAKE ST                                                  0890308903
+W ELM ST                                                    0890008900
+W EVERLY BROTHERS BLVD                                      0890008900
+W EVERLY BROTHERS BLVD                                      0890208902
+W MAIN CROSS ST                                             0890108901
+W MAIN ST                                                   0890408904
+W MANGRUM CT                                                0890808908
+W MOREHEAD ST                                               0890208902
+W MOSE RAGER BLVD                                           0890308903
+W PENDLETON ST                                              0890208902
+W RAILROAD LOOP                                             0890008900
+W RESERVOIR AVE                                             0890208902
+W RIVER QUEEN RD                                            0890008900
+W RIVER QUEEN TANK TRL                                      0890008900
+W STROUD LN                                                 0890208902
+W TROWBRIDGE ST                                             0890108901
+W WHITMER ST                                                0890008900
+W WHITMER ST                                                0890208902
+WADE RD                                                     0890008900
+WALKER AVE                                                  0890108901
+WALKER LN                                                   0890008900
+WALKER SPRINGS LN                                           0890008900
+WALNUT ST                                                   0890108901
+WALNUT ST                                                   0890208902
+WALNUT ST                                                   0890408904
+WALNUT ST                                                   0891408914
+WALTER LN                                                   0890008900
+WALTERS RIDGE                                               0890008900
+WALTERS RIDGE W                                             0890008900
+WALTERS TRCE                                                0890108901
+WARD LN                                                     0890008900
+WARFORD ST                                                  0890308903
+WASHINGTON ST                                               0890308903
+WASTEWATER DR                                               0890108901
+WATER ST                                                    0891408914
+WATER TOWER LN                                              0890008900
+WATERWORKS RD                                               0890008900
+WAYNE WOODS RD                                              0890008900
+WAYNES LN                                                   0890008900
+WEAVER LN                                                   0890008900
+WEBB ST                                                     0890408904
+WEIR SCHOOL HOUSE RD                                        0890008900
+WEIR ST                                                     0890008900
+WEIR ST                                                     0890108901
+WELBORN ST                                                  0890208902
+WELLS RD                                                    0890008900
+WELLS STRADER RD                                            0890008900
+WEST LN                                                     0890008900
+WESTCHESTER WAY                                             0890008900
+WESTER DR                                                   0890008900
+WESTER LN                                                   0890008900
+WESTERFIELD DR                                              0890008900
+WESTERN ST                                                  0890208902
+WESTVIEW DR                                                 0890208902
+WHEELER AVE                                                 0890108901
+WHIPPOORWILL HL                                             0890008900
+WHISPERING HILLS LN                                         0890008900
+WHITAKER RD                                                 0890008900
+WHITE DR                                                    0890008900
+WHITEFEATHER LOOP                                           0890008900
+WHITMER ANDERSON RD                                         0890008900
+WHITMER DR                                                  0890008900
+WHITMER ST                                                  0890008900
+WHITNEY LN                                                  0890008900
+WHITNEY RD                                                  0890008900
+WHITSON LN                                                  0890008900
+WICKLIFFE ST                                                0890108901
+WIGGINS FARM RD                                             0890208902
+WILCOX CEMETERY RD                                          0890008900
+WILD HORSE LN                                               0890008900
+WILDWOOD DR                                                 0890008900
+WILKINS LN                                                  0890008900
+WILLIAMS DR                                                 0890108901
+WILLIAMS LN                                                 0890008900
+WILLIAMS LOOP                                               0890008900
+WILLIS DR                                                   0890408904
+WILLOW GLEN RD                                              0890008900
+WILSON RD                                                   0890008900
+WILSON ST                                                   0890108901
+WIMBERLY LN                                                 0890008900
+WINSTONS LN                                                 0890008900
+WITHROW ST                                                  0890208902
+WK9001 E                                                    0890008900
+WK9001 E EXIT48 OFF RAMP TO KY175                           0890008900
+WK9001 E EXIT48 OFF RAMP TO KY175 N                         0890008900
+WK9001 E EXIT48 OFF RAMP TO KY175 S                         0890008900
+WK9001 E EXIT48 ON RAMP FROM KY175                          0890008900
+WK9001 E EXIT48 ON RAMP FROM KY175 N                        0890008900
+WK9001 E EXIT48 ON RAMP FROM KY175 S                        0890008900
+WK9001 E EXIT53 OFF RAMP TO KY181                           0890008900
+WK9001 E EXIT53 ON RAMP FROM KY181                          0890008900
+WK9001 E EXIT53 ON RAMP FROM KY181 N                        0890008900
+WK9001 E EXIT53 ON RAMP FROM KY181 S                        0890008900
+WK9001 E EXIT58 CROSSOVER US431                             0890008900
+WK9001 E EXIT58 OFF RAMP TO US431                           0890208902
+WK9001 E EXIT58 ON RAMP FROM US431                          0890008900
+WK9001 TURN AROUND45                                        0890008900
+WK9001 TURN AROUND49                                        0890008900
+WK9001 TURN AROUND55                                        0890008900
+WK9001 TURN AROUND61                                        0890008900
+WK9001 TURN AROUND65                                        0890008900
+WK9001 W                                                    0890008900
+WK9001 W EXIT48 OFF RAMP TO KY2693                          0890008900
+WK9001 W EXIT48 ON RAMP FROM KY2693                         0890008900
+WK9001 W EXIT53 OFF RAMP TO KY181                           0890008900
+WK9001 W EXIT53 ON RAMP FROM KY181                          0890008900
+WK9001 W EXIT58 CROSSOVER US431                             0890208902
+WK9001 W EXIT58 OFF RAMP TO US431                           0890208902
+WK9001 W EXIT58 ON RAMP FROM US431                          0890208902
+WOLCUT LN                                                   0890008900
+WOLF CREEK EST                                              0890008900
+WOLF CREEK ESTATE SPUR                                      0890008900
+WOODBRIDGE ST                                               0890008900
+WOODLAND HILLS LN                                           0890008900
+WOODLAND RD                                                 0890008900
+WOODLINE TRL                                                0890008900
+WOODROW LN                                                  0890008900
+WOODRUFF LN                                                 0890008900
+WOOTEN LN                                                   0890008900
+WORTHINGTON WAY                                             0890008900
+WRIGHT LN                                                   0890008900
+WRIGHT LOOP                                                 0890008900
+WYATT CEMETERY RD                                           0890008900
+YEARGINS LN                                                 0890008900
+YONTS LN                                                    0890008900
+YONTS ST                                                    0890108901
+YORK ST                                                     0890108901
+YOUNGSTOWN RD                                               0890008900
+ZACHARY LN                                                  0890008900
+ZANE LN                                                     0890008900

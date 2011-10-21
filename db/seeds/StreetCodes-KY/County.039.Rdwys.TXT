@@ -1,0 +1,294 @@
+1ST ST                                                      0390103901
+2ND ST                                                      0390103901
+3RD ST                                                      0390103901
+4TH ST                                                      0390103901
+ABES LN                                                     0390003900
+ADAMS RIDGE                                                 0390003900
+ALAN LN                                                     0390003900
+ALLEY                                                       0390103901
+ALLEY                                                       0390303903
+AMBER DR                                                    0390003900
+AMBROSE RD                                                  0390003900
+ASBURY POINTE DR                                            0390003900
+BAKER LN                                                    0390003900
+BAKER RD                                                    0390003900
+BARNSIDE DR                                                 0390003900
+BAY DR                                                      0390003900
+BEA SCOTT DR                                                0390103901
+BEARS TRAIL CONNECTOR                                       0390003900
+BEARS TRL                                                   0390003900
+BEECHWOOD CIR                                               0390003900
+BEVINS LN                                                   0390003900
+BISCHOFF RD                                                 0390003900
+BLUE HERON BLVD                                             0390003900
+BLUFFSIDE DR                                                0390003900
+BOAZ DR                                                     0390103901
+BOONE RD                                                    0390003900
+BOONE RD                                                    0390203902
+BOONE TRL                                                   0390003900
+BRANCH COURT LN                                             0390003900
+BROWN AVE                                                   0390003900
+BUCKS LN                                                    0390003900
+CAMPBELL RD                                                 0390003900
+CARLISLE AVE                                                0390103901
+CARVERS TRL                                                 0390003900
+CEDAR LN                                                    0390003900
+CEDAR POINTE LN                                             0390003900
+CEMETERY RD                                                 0390303903
+CENTER ST                                                   0390103901
+CHAPEL HILL RD                                              0390003900
+CHAPMAN LN                                                  0390303903
+CHARLOTTE DR                                                0390003900
+CHURCH LN                                                   0390003900
+CLASSIC LN                                                  0390003900
+COLLINS ST                                                  0390303903
+CONCORD RD                                                  0390003900
+CONCRETE PLANT LN                                           0390203902
+CORDA LN                                                    0390003900
+COUNTRY VIEW LN                                             0390003900
+COUNTY LINE DR                                              0390003900
+COURTNEY LN                                                 0390303903
+CRAIG RD                                                    0390003900
+CRAIGS CREEK RD                                             0390003900
+CRAWFORD RIDGE                                              0390003900
+CRESTVIEW RIDGE                                             0390003900
+CRYSTAL LAKE DR                                             0390003900
+DALLAS LN                                                   0390003900
+DAVIES LN                                                   0390003900
+DAVIS DR                                                    0390103901
+DAVIS RD                                                    0390003900
+DAYS LN                                                     0390003900
+DEER RUN RD                                                 0390003900
+DELLA CT                                                    0390003900
+DOOLIN LN                                                   0390003900
+DORMAN DR                                                   0390003900
+DRIFTWOOD DR                                                0390003900
+DRY CREEK RD                                                0390003900
+DRYER LN                                                    0390003900
+E HICKORY LN                                                0390003900
+E HIGH ST                                                   0390103901
+E HOWARD ST                                                 0390303903
+E MAIN ST                                                   0390103901
+E MARKET ST                                                 0390103901
+E PEARL ST                                                  0390103901
+EAGLE TUNNEL RD                                             0390003900
+ELLIS LN                                                    0390003900
+ELLISTON NAPOLEON RD                                        0390003900
+ESTATE RIDGE SPUR                                           0390003900
+ESTATES RIDGE                                               0390003900
+ETHRIDGE LN                                                 0390303903
+FOGG RD                                                     0390003900
+FOGG ROAD SPUR                                              0390003900
+FRANKLIN ST                                                 0390103901
+FURNISH RD                                                  0390003900
+GLENCOE FOLSOM RD                                           0390003900
+GLENCOE SPARTA RD                                           0390003900
+GLENCOE SPARTA RD                                           0390203902
+GOULD RD                                                    0390003900
+GRACE ST                                                    0390303903
+GREEN ST                                                    0390303903
+GRIDLEY HILL RD                                             0390003900
+HACKBERRY ST                                                0390103901
+HANCE RD                                                    0390003900
+HARLEY RD                                                   0390003900
+HAWTHORNE ST                                                0390303903
+HAYMOND LN                                                  0390203902
+HENDRIX AVE                                                 0390103901
+HERITAGE DR                                                 0390003900
+HICKORY LN                                                  0390003900
+HIGHLANDER CT                                               0390003900
+HILL ST                                                     0390203902
+HILLANDALE SOUTH WING                                       0390003900
+HILLANDALE ST                                               0390003900
+HILLTOP ST                                                  0390003900
+HITTER RD                                                   0390003900
+HOBBS ACKERMANN LN                                          0390003900
+HOBBS ACKERMANN LN                                          0390203902
+HOBBS LN                                                    0390003900
+HOMESTEAD DR                                                0390003900
+HUDEPOHL LN                                                 0390003900
+HUNTERS RIDGE                                               0390003900
+I71 N                                                       0390003900
+I71 N                                                       0390203902
+I71 N                                                       0390303903
+I71 N EXIT55 OFF RAMP TO KY1130                             0390003900
+I71 N EXIT55 ON RAMP FROM KY1130                            0390003900
+I71 N EXIT57 OFF RAMP TO KY35                               0390203902
+I71 N EXIT57 ON RAMP FROM KY35                              0390203902
+I71 N EXIT57 ON RAMP FROM KY35 N                            0390203902
+I71 N EXIT57 ON RAMP FROM KY35 S                            0390203902
+I71 N EXIT62 OFF RAMP TO US127                              0390003900
+I71 N EXIT62 OFF RAMP TO US127                              0390303903
+I71 N EXIT62 ON RAMP FROM US127                             0390303903
+I71 S                                                       0390003900
+I71 S                                                       0390203902
+I71 S                                                       0390303903
+I71 S EXIT55 OFF RAMP TO KY1130                             0390003900
+I71 S EXIT55 ON RAMP FROM KY1130                            0390003900
+I71 S EXIT57 OFF RAMP TO KY35                               0390203902
+I71 S EXIT57 ON RAMP FROM KY35                              0390203902
+I71 S EXIT57 ON RAMP FROM KY35 N                            0390203902
+I71 S EXIT57 ON RAMP FROM KY35 S                            0390203902
+I71 S EXIT62 OFF RAMP TO US127                              0390303903
+I71 S EXIT62 ON RAMP FROM US127                             0390003900
+JACKSONS LNDG                                               0390003900
+JACOBS RIDGE                                                0390003900
+JENNA DR                                                    0390003900
+JENNINGS RD                                                 0390003900
+JERICHO RD                                                  0390003900
+JOHNS LN                                                    0390003900
+JOHNSON HILL RD                                             0390003900
+JOSHUA DR                                                   0390003900
+JUDY LN                                                     0390003900
+KENTUCKY SPEEDWAY BLVD                                      0390203902
+KIRBY AVE                                                   0390103901
+KNOX LILLARD RD                                             0390003900
+KNOX LILLARD ROAD CONNECTOR                                 0390003900
+KNOX LILLARD ROAD LOOP NO1                                  0390003900
+KNOX LILLARD ROAD LOOP NO2                                  0390003900
+KNOX LILLARD ROAD SPUR                                      0390003900
+KY1039                                                      0390003900
+KY1039 S                                                    0390003900
+KY1039 SPUR                                                 0390003900
+KY1130 CONNECTOR                                            0390003900
+KY1130S                                                     0390003900
+KY16                                                        0390003900
+KY16                                                        0390303903
+KY47                                                        0390003900
+KY562                                                       0390003900
+LAKEVIEW DR                                                 0390003900
+LAWSON REDDEN RD                                            0390003900
+LEONARD ST                                                  0390103901
+LICK LN                                                     0390003900
+LINDA LN                                                    0390003900
+LITTLE CHURCH HL                                            0390003900
+LITTLE SUGAR CREEK RD                                       0390003900
+LOCUST ST                                                   0390103901
+LONE OAK ST                                                 0390103901
+LOOKOUT LN                                                  0390003900
+LOTHRIDGE LN                                                0390003900
+LOWE RD                                                     0390003900
+LUCKY ACRES                                                 0390003900
+LYKINS LN                                                   0390003900
+MADDOX RD                                                   0390303903
+MAIN CROSS                                                  0390103901
+MAIN ST                                                     0390203902
+MAINTENANCE RD                                              0390003900
+MARKSBERRY LN                                               0390003900
+MARS DR                                                     0390003900
+MARSHALL LN                                                 0390003900
+MASON LN                                                    0390003900
+MAUDE CRAWFORD RD                                           0390003900
+MEADOW CREEK LN                                             0390103901
+MEADOWLARK LN                                               0390003900
+MICAH RIDGE                                                 0390003900
+MIDDLETON RD                                                0390003900
+MIDWAY CT                                                   0390003900
+MILLERS RIDGE                                               0390003900
+MONTGOMERY RD                                               0390003900
+MORTON AVE                                                  0390103901
+MOURNING DOVE DR                                            0390003900
+MT ZION VERONA RD                                           0390003900
+MULLINS LN                                                  0390003900
+MUNK RD                                                     0390003900
+MUNK SPUR                                                   0390003900
+MYERS AND NEWMAN LN                                         0390003900
+N MAIN ST                                                   0390303903
+NOEL ST                                                     0390303903
+OLD KY 1130                                                 0390003900
+OLD KY 1130 RD                                              0390203902
+OLD KY 16                                                   0390003900
+OLD SPARTA PIKE                                             0390203902
+OLD US 127                                                  0390003900
+PAINTLICK DR                                                0390003900
+PARK AVE                                                    0390103901
+PARK RIDGE RD                                               0390003900
+PATRICIA CT                                                 0390003900
+PAYNE AVE                                                   0390103901
+PEACEFUL RD                                                 0390003900
+PONDEROSA DR                                                0390003900
+PORTER ST                                                   0390303903
+PRIME LN                                                    0390003900
+RAILROAD ST                                                 0390303903
+RAISOR LN                                                   0390003900
+RALEIGH LN                                                  0390003900
+RED BUD DR                                                  0390003900
+RED CROSS AVE                                               0390103901
+RIPPLE RUN                                                  0390003900
+RISNER LN                                                   0390003900
+RIVER COURT DR                                              0390003900
+RIVER VALLEY RUN                                            0390003900
+RIVERSIDE DR                                                0390003900
+RIVERVIEW DR                                                0390103901
+ROBERTA DR                                                  0390103901
+ROBERTS RD                                                  0390003900
+ROCKY BRANCH RD                                             0390003900
+ROYAL PINES DR                                              0390103901
+RUDD LN                                                     0390003900
+S MAIN ST                                                   0390303903
+SANDPIPER LN                                                0390003900
+SARABETH DR                                                 0390003900
+SARAH CT                                                    0390003900
+SAYERSVILLE RD                                              0390003900
+SHARON RIDGE                                                0390003900
+SHIELDS RD                                                  0390003900
+SHORT LN                                                    0390003900
+SIERRA DR                                                   0390003900
+SMITH AVE                                                   0390103901
+SNOW FARM RD                                                0390003900
+SOUTHFORK RD                                                0390003900
+SOUTHRIDGE EST                                              0390003900
+SPARTA PIKE                                                 0390003900
+SPARTA PIKE                                                 0390103901
+SPARTA PIKE                                                 0390203902
+SPARTA SANDERS RD                                           0390003900
+SPARTA SANDERS RD                                           0390203902
+SPENCER RD                                                  0390003900
+STAFFORD AVE                                                0390103901
+STAGECOACH TRL                                              0390003900
+STEELES BOTTOM RD                                           0390003900
+STEPHENSON ST                                               0390303903
+SUGAR BAY DR                                                0390003900
+SUNSET RD                                                   0390003900
+SYCAMORE CIR                                                0390003900
+TAPERING POINT RD                                           0390003900
+THE RIDGE                                                   0390003900
+THOMAS LN                                                   0390003900
+THUNDERBIRD RD                                              0390003900
+TIMBER RIDGE RD                                             0390003900
+TIMBERBROOK LN                                              0390003900
+TIMBERLINE ST                                               0390003900
+TOWER DR                                                    0390003900
+US127                                                       0390003900
+US127                                                       0390303903
+US42                                                        0390003900
+US42 E                                                      0390003900
+US42 W                                                      0390003900
+US42 W                                                      0390103901
+VALLEYVIEW DR                                               0390003900
+VERA CRUZ RD                                                0390003900
+VISTA VIEW CIR                                              0390003900
+W HIGH ST                                                   0390103901
+W HOWARD ST                                                 0390303903
+W MAIN ST                                                   0390103901
+W MARKET ST                                                 0390103901
+W PEARL ST                                                  0390103901
+WALNUT LICK                                                 0390003900
+WALNUT VALLEY RD                                            0390003900
+WANDA CT                                                    0390003900
+WARDS RUN                                                   0390003900
+WASHINGTON ST                                               0390103901
+WATERSIDE CT                                                0390003900
+WATERWORKS BLVD                                             0390103901
+WEBSTER ST                                                  0390303903
+WELDON WAY                                                  0390103901
+WELLS RIDGE                                                 0390003900
+WIDEVIEW DR                                                 0390003900
+WILDER CT                                                   0390003900
+WILDWOOD CT                                                 0390003900
+WILLIAM JUMP LN                                             0390003900
+WILLOW POINTE DR                                            0390003900
+WILSONS LN                                                  0390003900
+WINDY RODGE                                                 0390003900
+WINN RD                                                     0390003900
+ZALLA RUN                                                   0390003900

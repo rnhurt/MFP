@@ -1,0 +1,522 @@
+1198                                                        0060000600
+1198                                                        0060200602
+2ND ST                                                      0060400604
+ADAMS RD                                                    0060000600
+AKERS DR                                                    0060000600
+ALCAR RD                                                    0060000600
+ALEXANDER DR                                                0060000600
+ANDERSON RD                                                 0060000600
+APACHE MH PARK                                              0060000600
+APPALOOSA LN                                                0060000600
+ARROWHEAD RD                                                0060000600
+ASH RD                                                      0060000600
+ATKINSON RD                                                 0060000600
+BACK ALY                                                    0060000600
+BACK ST                                                     0060200602
+BAIT SHOP RD                                                0060000600
+BALD EAGLE RD                                               0060000600
+BANKER ST                                                   0060100601
+BANTA RD                                                    0060000600
+BARBARA LYNN DR                                             0060100601
+BAT CAMPG RD                                                0060000600
+BATH AVE                                                    0060100601
+BATH MFG DR                                                 0060000600
+BAYOU LN                                                    0060000600
+BEACH RD                                                    0060000600
+BETHEL CEMETERY RD                                          0060000600
+BETHEL RD                                                   0060000600
+BETHEL RIDGE RD                                             0060000600
+BETHEL SCHOOL RD                                            0060000600
+BLACK SULPHER RD                                            0060000600
+BLACKBERRY RD                                               0060000600
+BLEVINS VALLEY RD                                           0060000600
+BLUE BANK RD                                                0060000600
+BLUEBERRY LN                                                0060000600
+BLUEBIRD LN                                                 0060000600
+BOAT RAMP                                                   0060000600
+BOB O LINK DR                                               0060000600
+BOBCAT LN                                                   0060000600
+BOWLING RD                                                  0060000600
+BRANDY LN                                                   0060000600
+BRENDAN ST                                                  0060100601
+BRENT LN                                                    0060000600
+BUCK RUN RD                                                 0060000600
+BUCKSKIN TRAILHEAD RD                                       0060000600
+BURBRIDGE BRANCH RD                                         0060000600
+BURLEY RD                                                   0060000600
+BURTON RD                                                   0060000600
+BUSH LN                                                     0060000600
+BYPASS RD                                                   0060000600
+BYPASS RD                                                   0060400604
+C AND O RD                                                  0060000600
+CAMERON LN                                                  0060000600
+CAMPGROUND RD                                               0060000600
+CANEY AVE                                                   0060400604
+CANEY RD                                                    0060000600
+CANEY RD                                                    0060400604
+CARDINAL CAMPGROUND RD                                      0060000600
+CARDINAL LN                                                 0060000600
+CARRINGTON BR                                               0060000600
+CARRINGTON DR                                               0060000600
+CASSITY LN                                                  0060400604
+CAVE RUN LAKE RD                                            0060000600
+CECIL AVE                                                   0060100601
+CEDAR CREEK DR                                              0060100601
+CEDER RD                                                    0060000600
+CEMETERY ST                                                 0060100601
+CENTER FIRE LN                                              0060000600
+CENTER ST                                                   0060400604
+CHAD RD                                                     0060000600
+CHANDLER RD                                                 0060000600
+CHENAULT DR                                                 0060100601
+CHEROKEE DR                                                 0060100601
+CHERRY LN                                                   0060000600
+CHESAPEAKE DR                                               0060000600
+CHEYENNE RD                                                 0060000600
+CHURCH DR                                                   0060000600
+CHURCH RD                                                   0060000600
+CHURCH ST                                                   0060400604
+CLEAR CREEK CAMPGROUND B                                    0060000600
+CLEAR CREEK CAMPGROUND C                                    0060000600
+CLEAR CREEK PICNIC AREA                                     0060000600
+CLEAR CREEK RD                                              0060000600
+CLEOS CORNER                                                0060000600
+CLINE RD                                                    0060000600
+COLUMBIA RD                                                 0060000600
+CONN RD                                                     0060000600
+CONYERS RD                                                  0060000600
+COPHER RD                                                   0060000600
+COREY RD                                                    0060000600
+COUNTRY LN                                                  0060000600
+COW CREEK RD                                                0060000600
+COYLE ST                                                    0060100601
+COYOTE RD                                                   0060000600
+CRAIN RD                                                    0060000600
+CRAIN ROAD CONNECTOR                                        0060000600
+CRAYCRAFT RD                                                0060000600
+CREEKSIDE DR                                                0060000600
+CROCKETT DR                                                 0060000600
+CROSSFIRE RD                                                0060000600
+CROUCH RD                                                   0060000600
+CSX DR                                                      0060000600
+CUSTOM FOODS DR                                             0060000600
+DALMA RD                                                    0060000600
+DARLINGTON RD                                               0060000600
+DARNELL DR                                                  0060000600
+DAVID ST                                                    0060100601
+DAVIS HOLLOW RD                                             0060000600
+DAY RD                                                      0060000600
+DEER CAMP RD                                                0060000600
+DEER RD                                                     0060000600
+DEER SPUR RD                                                0060000600
+DENTON DR                                                   0060100601
+DEVON DR                                                    0060000600
+DIANA DR                                                    0060000600
+DICKERSON CEM RD                                            0060000600
+DICKERSON CEM RD                                            0060400604
+DOGWOOD LN                                                  0060000600
+DONATECH DR                                                 0060000600
+DONOHEW RD                                                  0060000600
+DOYLE DR                                                    0060200602
+DUMP STATION                                                0060000600
+DUMP STATION NO2                                            0060000600
+DUSTY RD                                                    0060000600
+E ASH ST                                                    0060200602
+E C AND O RD                                                0060000600
+E CHURCH ST                                                 0060200602
+E HIGH ST                                                   0060100601
+E MAIN ST                                                   0060100601
+E MILL ST                                                   0060200602
+E OAK ST                                                    0060200602
+E PUBLIC ST                                                 0060200602
+E TUNNEL HILL RD                                            0060000600
+E WATER ST                                                  0060200602
+EAGLE RD                                                    0060000600
+EAGLE RIDGE LN                                              0060000600
+EAST ALY                                                    0060100601
+EAST FORK RD                                                0060000600
+EDWIN RD                                                    0060000600
+ELDON HILL RD                                               0060000600
+ELK LICK RD                                                 0060000600
+ELM RD                                                      0060000600
+ELYS BRANCH RD                                              0060000600
+ESOX LN                                                     0060000600
+EVANS RD                                                    0060000600
+EVERMAN RD                                                  0060000600
+FALCON RD                                                   0060000600
+FANNING LN                                                  0060400604
+FARM RD                                                     0060000600
+FEARING RD                                                  0060000600
+FERGUSON RD                                                 0060000600
+FLAT BOTTOM RD                                              0060000600
+FLAT CREEK RD                                               0060000600
+FLOOD HOLLOW RD                                             0060000600
+FONTANE RD                                                  0060000600
+FORD RD                                                     0060000600
+FOREST DR                                                   0060200602
+FORGE HILL RD                                               0060000600
+FOX RD                                                      0060000600
+FOXCLIFF RD                                                 0060000600
+FOXFIRE LN                                                  0060000600
+FRALEY RD                                                   0060000600
+GARLAND HOLLOW RD                                           0060000600
+GARNER LN                                                   0060100601
+GIBBS LN                                                    0060400604
+GLADY HOLLOW BRANCH RD                                      0060000600
+GLADY HOLLOW RD                                             0060000600
+GLADYS AVE                                                  0060100601
+GOLDENROD RD                                                0060000600
+GOODPASTER AVE                                              0060100601
+GOODPASTER CEMETERY RD                                      0060000600
+GOODPASTER RD                                               0060000600
+GOOSE RD                                                    0060000600
+GOSSETT RD                                                  0060000600
+GREEN TREE DR N                                             0060000600
+GREEN TREE DR S                                             0060000600
+GREENBRIER RD                                               0060000600
+GREENHOUSE RD                                               0060000600
+GREENMEADOW RD                                              0060000600
+GREENWAY DR                                                 0060000600
+GRIGGS RD                                                   0060000600
+GUDGELL AVE                                                 0060100601
+HAPPY HOLLOW RD                                             0060000600
+HARDIN RD                                                   0060000600
+HARRISBURG AVE                                              0060000600
+HARRISBURG AVE                                              0060100601
+HART PIKE                                                   0060000600
+HARTGROVE CEM RD                                            0060000600
+HARTGROVE RD                                                0060000600
+HAWK RD                                                     0060000600
+HEAD OF CANEY RD                                            0060000600
+HELTON RD                                                   0060000600
+HENDRIX RD                                                  0060000600
+HERITAGE HILL DR                                            0060100601
+HERON CONNECTOR RD                                          0060000600
+HERON RD                                                    0060000600
+HICKEY RD                                                   0060000600
+HIGH ST                                                     0060100601
+HIGHVIEW RD                                                 0060000600
+HILLCREST LN                                                0060000600
+HOMESTEAD RD                                                0060000600
+HUMMINGBIRD LN                                              0060000600
+HUNT RD                                                     0060000600
+I64 E                                                       0060000600
+I64 E EXIT121 OFF RAMP TO KY36                              0060000600
+I64 E EXIT121 ON RAMP FROM KY36                             0060000600
+I64 E EXIT123 OFF RAMP TO US60                              0060000600
+I64 E EXIT123 ON RAMP FROM US60                             0060000600
+I64 W                                                       0060000600
+I64 W EXIT121 OFF RAMP TO KY36                              0060000600
+I64 W EXIT121 ON RAMP FROM KY36                             0060000600
+I64 W EXIT123 OFF RAMP TO US60                              0060000600
+I64 W EXIT123 ON RAMP FROM US60                             0060000600
+ILES MILL RD                                                0060000600
+INDIAN CREEK RD                                             0060000600
+JACKSON CEMETERY RD                                         0060000600
+JAY RD                                                      0060000600
+JOHN STAN ST                                                0060100601
+JOHNSON DR                                                  0060000600
+JOHNSON FORD RD                                             0060000600
+JONES CEMETERY RD                                           0060000600
+JONES RD                                                    0060000600
+JULIE LN                                                    0060000600
+KANNON DR                                                   0060000600
+KARRICK DR                                                  0060000600
+KENDALL SPRINGS AVE                                         0060100601
+KENDALL SPRINGS CEM RD                                      0060000600
+KENDALL SPRINGS RD                                          0060000600
+KNIGHT AVE                                                  0060200602
+KNOB LICKS RD                                               0060000600
+KY11                                                        0060000600
+KY11                                                        0060200602
+KY1106                                                      0060000600
+KY1198                                                      0060000600
+KY1198                                                      0060200602
+KY211 S                                                     0060000600
+KY3289                                                      0060000600
+KY36                                                        0060000600
+KY36 E                                                      0060000600
+KY36 W                                                      0060000600
+KY36 W                                                      0060100601
+KY6219                                                      0060000600
+KY801 N                                                     0060000600
+KY801 S                                                     0060000600
+L TIPTON HILL RD                                            0060000600
+LAFAYETTE RD                                                0060000600
+LAKEVIEW DR                                                 0060000600
+LARANDA CT                                                  0060000600
+LEE DR                                                      0060000600
+LEE ST                                                      0060100601
+LEWIS LN                                                    0060000600
+LILY RD                                                     0060000600
+LOCUST RD                                                   0060000600
+LOW WATER RD                                                0060000600
+LOWER SALT LICK CEM RD                                      0060000600
+LYONS RD                                                    0060000600
+MAGNOLIA RD                                                 0060000600
+MAIN ST                                                     0060000600
+MAIN ST                                                     0060200602
+MAIN ST                                                     0060400604
+MALIBU DR                                                   0060000600
+MALIBU DR                                                   0060100601
+MANDY DR                                                    0060100601
+MAPLE LN                                                    0060000600
+MAPLE ST                                                    0060200602
+MAPLE ST                                                    0060400604
+MARIELLA DR                                                 0060100601
+MARLOW CEM RD                                               0060000600
+MARTINS BRANCH RD                                           0060000600
+MAYBERRY WAY                                                0060000600
+MAZE LN                                                     0060400604
+MCCARTY BRANCH RD                                           0060000600
+MCCLAIN CEMETERY ROAD NO1                                   0060000600
+MCCULLOUGH HOLLOW RD                                        0060000600
+MCDOLE BRANCH RD                                            0060000600
+MCKENZIE RD                                                 0060000600
+MCQUITHY RD                                                 0060000600
+MCVEY RD                                                    0060000600
+MEMORIAL RD                                                 0060000600
+MIDDLETON RD                                                0060000600
+MIDLAND RD                                                  0060000600
+MILL CREEK RD                                               0060000600
+MILL DR                                                     0060000600
+MILLER DR                                                   0060100601
+MILLER SCENIC VIEW DR                                       0060100601
+MONTGOMERY ST                                               0060200602
+MOOREFIELD RD                                               0060000600
+MOORES FERRY RD                                             0060000600
+MORNING VIEW LN                                             0060000600
+MOUNTAINVIEW DR                                             0060100601
+MOUNTAINVIEW DRIVE NO2                                      0060100601
+MUDLICK RD                                                  0060000600
+MULBERRY RD                                                 0060000600
+MUSKIE RD                                                   0060000600
+N BROOKS ALY                                                0060100601
+N CONVICT PIKE                                              0060000600
+N DICKERSON ST                                              0060400604
+N LICK BRANCH RD                                            0060000600
+N LITTLE FLAT LEDFORD RD                                    0060000600
+N MINKS RUN RD                                              0060000600
+N SANDERSON RD                                              0060000600
+N STEPSTONE RD                                              0060000600
+N TERESA DR                                                 0060100601
+NAYLOR RD                                                   0060000600
+NEWCOMB RD                                                  0060000600
+NICHOLE DR                                                  0060000600
+NIXON RD                                                    0060000600
+NORTH CT                                                    0060100601
+NORTH LONG BRANCH RD                                        0060000600
+OAK LN                                                      0060000600
+OAKLAND RD                                                  0060000600
+OAKLAWN DR                                                  0060000600
+OAKLEY PEBBLE RD                                            0060000600
+OAKWAY DR                                                   0060000600
+OBERLINE ST                                                 0060100601
+OLD BYPASS RD                                               0060000600
+OLD FERRY RD                                                0060000600
+OLD KY 11                                                   0060000600
+OLD KY 11 CONNECTOR                                         0060000600
+OLD KY 11 N                                                 0060000600
+OLD KY 36                                                   0060100601
+OLD MIDLAND TRL                                             0060000600
+OLD OAKLEY RD                                               0060000600
+OLD PEASTICKS RD                                            0060000600
+OLD PLACE LN                                                0060000600
+OLD QUARRY RD                                               0060000600
+OLD RIVER RD                                                0060000600
+OLD SAND RD                                                 0060000600
+OLD STATE RD                                                0060000600
+OLD TATER KNOB RD                                           0060000600
+OLD TATER KNOB ROAD NO2                                     0060000600
+OLD WYOMING RD                                              0060000600
+OLYMPIA SPRINGS RD                                          0060000600
+ONEY LN                                                     0060000600
+ORE MINES RD                                                0060000600
+OUTLOOK DR                                                  0060000600
+PANHANDLE RD                                                0060000600
+PARADISE LN                                                 0060000600
+PARKER RD                                                   0060000600
+PASADENA DR                                                 0060000600
+PATTERSON RD                                                0060000600
+PEASTICKS RD                                                0060000600
+PECK PIKE                                                   0060000600
+PEELED OAK RD                                               0060000600
+PENDLETON BRANCH RD                                         0060000600
+PERGREM RD                                                  0060000600
+PETER CAVE RD                                               0060000600
+PHILLIPS RD                                                 0060000600
+PICKSHIEN RD                                                0060000600
+PIERSELL CEM RD                                             0060000600
+PIGEON FORGE RD                                             0060000600
+PINE GROVE RD                                               0060000600
+PIONEER RD                                                  0060000600
+PISTOL RD                                                   0060000600
+PLUM RD                                                     0060000600
+POINT RD                                                    0060000600
+POLKSVILLE CEM RD                                           0060000600
+POLKSVILLE RD                                               0060000600
+POND CIR                                                    0060000600
+POND LICK RD                                                0060000600
+POND RD                                                     0060000600
+POPULAR RD                                                  0060000600
+POTTERSVILLE RD                                             0060000600
+POWERS BRANCH RD                                            0060000600
+PRESTON CEM RD                                              0060000600
+PRESTON CEMETERY RD                                         0060000600
+PRESTON RD                                                  0060000600
+PRICKLY ASH RD                                              0060000600
+PULPWOOD RD                                                 0060000600
+QUARTER HORSE ALLEY                                         0060000600
+RACCOON RD                                                  0060000600
+RAILROAD ST                                                 0060400604
+RAMEY RD                                                    0060000600
+RATLIFF RD                                                  0060000600
+RAVEN DR                                                    0060000600
+RAWLEIGH HAVENS DR                                          0060100601
+RED BIRD RD                                                 0060000600
+RED HILL RD                                                 0060000600
+REEVES LN                                                   0060400604
+REFFITT RD                                                  0060000600
+REYNOLDS HOLLOW RD                                          0060000600
+REYNOLDS RD                                                 0060000600
+RICE RD                                                     0060000600
+RICK DR                                                     0060000600
+RIDDLE RD                                                   0060000600
+RIDGE CREST RD                                              0060000600
+RIDGE RD                                                    0060000600
+RIDGEWAY DR                                                 0060000600
+RIVERSIDE DR                                                0060000600
+ROBERTS RD                                                  0060000600
+ROCK SPRING DR                                              0060000600
+ROCKY LN                                                    0060000600
+ROGERS MILL RD                                              0060000600
+ROLLING HILLS RD                                            0060000600
+ROOSTER RUN RD                                              0060000600
+ROSEBUSH LN                                                 0060000600
+ROSELAWN CT                                                 0060000600
+ROWLAND AVE                                                 0060100601
+RUEY LN                                                     0060000600
+S BROOKS ALY                                                0060100601
+S DICKERSON ST                                              0060400604
+S GARRETT RD                                                0060000600
+S LICK BRANCH RD                                            0060000600
+S LITTLE FLAT LEDFORD RD                                    0060000600
+S MINKS RUN RD                                              0060000600
+S STEPSTONE RD                                              0060000600
+S TERESA DR                                                 0060100601
+SALTWELL RD                                                 0060000600
+SANDERSON RD                                                0060000600
+SATTERFIELD LN                                              0060000600
+SAWMILL RD                                                  0060000600
+SCHOOL RD                                                   0060000600
+SHADY LANE RD                                               0060000600
+SHARON ROSE DR                                              0060100601
+SHARP RD                                                    0060000600
+SHERMAN CT                                                  0060100601
+SHERRI LN                                                   0060400604
+SHIELDS RD                                                  0060000600
+SHORT RD                                                    0060000600
+SHROUT RD                                                   0060000600
+SKILLET BRANCH RD                                           0060000600
+SLATE AVE                                                   0060000600
+SLATE AVE                                                   0060100601
+SLATE BEND RD                                               0060000600
+SLATE LICK RD                                               0060000600
+SLICK ROCK RD                                               0060000600
+SMITH RD                                                    0060000600
+SMOKEY HOLLOW RD                                            0060000600
+SMOOT DR                                                    0060100601
+SNEDEGAR RD                                                 0060000600
+SOUR SPRINGS RD                                             0060000600
+SOUTH CT                                                    0060100601
+SPARROW RD                                                  0060000600
+SPILLWAY RD                                                 0060000600
+SPRING HOLLOW RD                                            0060000600
+SPRINGVIEW DR                                               0060000600
+SPRUCE LN                                                   0060000600
+STACY DR                                                    0060100601
+STARSHADER LN                                               0060000600
+STEVENS RD                                                  0060000600
+STONY COVE LOOP                                             0060000600
+STONY COVE RD                                               0060000600
+STULL RD                                                    0060000600
+STULLTOWN RD                                                0060000600
+SUDDITH ST                                                  0060100601
+SUGAR GROVE RD                                              0060000600
+SULFER BRANCH RD                                            0060000600
+SUNSHINE RD                                                 0060000600
+SWAMPY HOLLOW RD                                            0060000600
+SWARTZ CEMETERY ROAD NO1                                    0060000600
+SWARTZ CEMETERY ROAD NO2                                    0060000600
+SWARTZ DR                                                   0060100601
+SYCAMORE RD                                                 0060000600
+SYCAMORE ST                                                 0060400604
+TABOR RD                                                    0060000600
+TAMRIC RD                                                   0060000600
+TAP LN                                                      0060000600
+TARGET RD                                                   0060000600
+THOMPSON DR                                                 0060100601
+THOMPSON RD                                                 0060000600
+TIPTON RD                                                   0060000600
+TOBACCO RD                                                  0060000600
+TOWER RD                                                    0060000600
+TOY RD                                                      0060000600
+TREADWAY DR                                                 0060100601
+TREES RD                                                    0060000600
+TROTTERS TRL                                                0060000600
+TULIP RD                                                    0060000600
+US60                                                        0060000600
+US60                                                        0060400604
+US60 E                                                      0060000600
+US60 W                                                      0060000600
+VALLEY RD                                                   0060000600
+VALLEYVIEW DR                                               0060100601
+VANCE RD                                                    0060000600
+VANCES LAKE RD                                              0060000600
+VANLANDINGHAM RD                                            0060000600
+VENTURA RD                                                  0060000600
+VICE RD                                                     0060000600
+VISTA LN                                                    0060000600
+W ASH ST                                                    0060200602
+W CHURCH ST                                                 0060200602
+W MAIN ST                                                   0060000600
+W MAIN ST                                                   0060100601
+W MILL ST                                                   0060200602
+W OAK ST                                                    0060200602
+W PAUL LEWIS DR                                             0060100601
+W PUBLIC ST                                                 0060200602
+WADE DR                                                     0060000600
+WALKER RD                                                   0060000600
+WALKING HORSE WAY                                           0060000600
+WALNUT RD                                                   0060000600
+WALNUT ST                                                   0060200602
+WALTERS RD                                                  0060000600
+WARNER LN                                                   0060000600
+WASHINGTON BRANCH RD                                        0060000600
+WATER DELL RD                                               0060000600
+WATER PLANT RD                                              0060100601
+WATER ST                                                    0060100601
+WATER ST                                                    0060400604
+WATERSHED RD                                                0060000600
+WEAVER LN                                                   0060000600
+WELLS AVE                                                   0060100601
+WELLS RD                                                    0060000600
+WHITE MAPLE LN                                              0060000600
+WHITE OAK RD                                                0060000600
+WILDCAT RD                                                  0060000600
+WILDER LN                                                   0060000600
+WILLIAMS AVE                                                0060100601
+WILLIAMS RD                                                 0060000600
+WILLOW LN                                                   0060000600
+WILSON AVE                                                  0060000600
+WINDING WAY                                                 0060000600
+WONDERFUL LN                                                0060000600
+WOODCREST DR                                                0060000600
+WOODS LN                                                    0060000600
+WOODS LN                                                    0060400604
+WRIGHT CEM RD                                               0060000600
+WRIGHT RD                                                   0060000600
+WWATER ST                                                   0060200602
+WYOMING RD                                                  0060000600
+YOUNG RD                                                    0060000600
+ZILPO RD                                                    0060000600

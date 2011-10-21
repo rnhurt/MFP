@@ -2,6 +2,8 @@ class Contact < ActiveRecord::Base
 
   belongs_to  :race
   belongs_to  :gender
+  belongs_to  :hair_color
+  belongs_to  :eye_color
   has_many    :locations #, :as => :addressable
   has_many    :addresses, :through => :locations
   has_many    :aliases

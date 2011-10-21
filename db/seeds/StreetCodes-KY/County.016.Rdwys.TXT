@@ -1,0 +1,727 @@
+A B TYREE RD                                                0160001600
+A COX RD                                                    0160001600
+A MEREDITH NORTH RD                                         0160001600
+A MEREDITH RD                                               0160001600
+A T LAYNE RD                                                0160001600
+ABERDEEN CEMETERY RD                                        0160001600
+ABERDEEN WEST RD                                            0160001600
+ADAM FLENER RD                                              0160001600
+AL EMBRY RD                                                 0160001600
+ALLEN DR                                                    0160101601
+ALTON LN                                                    0160001600
+ALUM SPRINGS RD                                             0160001600
+ALUM SPRINGS SCHOOL RD                                      0160001600
+ANDERSON CEMETERY RD                                        0160001600
+ANDERSON LN                                                 0160001600
+ANDREW CIR                                                  0160001600
+ANNIS FERRY RD                                              0160001600
+ANNIS SPUR RD                                               0160001600
+ARCH MOORE ST                                               0160101601
+ARNDELL RD                                                  0160001600
+ARNOLD RIDGE LOOP                                           0160001600
+ARNOLD RIDGE OIL FIELD RD                                   0160001600
+ARNOLD RIDGE RD                                             0160001600
+ASHLEY DR                                                   0160101601
+B BRATCHER RD                                               0160001600
+B CHILDERS RD                                               0160001600
+B GIVENS RD                                                 0160001600
+B LAWRENCE RD                                               0160001600
+B MCGUIRE RD                                                0160001600
+BALL FIELD LN                                               0160101601
+BARBEE LN                                                   0160001600
+BARLOW ST                                                   0160101601
+BARREN RIVER RD                                             0160001600
+BARREN RIVER RD                                             0161301613
+BASHAM RD                                                   0160001600
+BEAVER DAM RD                                               0160001600
+BEECH GROVE SPUR RD                                         0160001600
+BELCHER RD                                                  0160001600
+BELLAR CEMETERY RD                                          0160001600
+BELMONT CHURCH RD                                           0160001600
+BEN BROWN RD                                                0160001600
+BERRYS LICK RD                                              0160001600
+BETHEL CEMETERY RD                                          0160001600
+BETHLEHEM CEMETERY RD                                       0160001600
+BIG D RD                                                    0160001600
+BIG JIM RD                                                  0160001600
+BIG MUDDY CEMETERY RD                                       0160001600
+BIG MUDDY CHURCH LOOP RD                                    0160001600
+BIG OAK ST                                                  0160001600
+BIG SPRING RD                                               0160001600
+BIGGERSTAFF RD                                              0160001600
+BILL LEWIS RD                                               0160001600
+BILL RUEFF RD                                               0160001600
+BINGHAM CEMETERY RD                                         0160001600
+BLACK SWAMP RD                                              0160001600
+BLAINE CEMETERY RD                                          0160001600
+BLAINE RD                                                   0160001600
+BLUWETT MCCOY EAST RD                                       0160001600
+BLUWETT MCCOY RD                                            0160001600
+BOAT FACTORY RD                                             0160101601
+BOSS HOG RD                                                 0160001600
+BOSTON SCHOOL RD                                            0160001600
+BOWLING GREEN RD                                            0160001600
+BOYS CAMP RD                                                0160001600
+BRANDON RD                                                  0160001600
+BRATCHER RD                                                 0160001600
+BRIZENDINE RD                                               0160001600
+BROOKLYN CHAPEL RD                                          0160001600
+BROOKLYN GRANCER RD                                         0160001600
+BROOKLYN RD                                                 0160001600
+BROWN CEMETERY RD                                           0160001600
+BROWNS STORE RD                                             0160001600
+BROWNSVILLE RD                                              0160001600
+BROWNSVILLE RD                                              0160101601
+BRYANT HOLLOW RD                                            0160001600
+BRYANT RIDGE RD                                             0160001600
+BRYANT SCHOOL RD                                            0160001600
+BUCKCHAISE LN                                               0160001600
+BURNS CEMETERY RD                                           0160001600
+BUTLER PHELPS CEMETERY RD                                   0160001600
+C BECK RD                                                   0160001600
+C CHRISTY RD                                                0160001600
+C DAUGHERTY RD                                              0160001600
+C DEWEESE RD                                                0160001600
+C EMBRY RD                                                  0160001600
+C JOHNSON RD                                                0160001600
+C KING RD                                                   0160001600
+C KINSER RD                                                 0160001600
+C LAWRENCE SPUR RD                                          0160001600
+C MARTIN RD                                                 0160001600
+C MCKINNEY                                                  0160001600
+C SHEPHERD RD                                               0160001600
+C WHITAKER RD                                               0160001600
+C WHITTINGHILL RD                                           0160001600
+CANE RIDGE CHURCH RD                                        0160001600
+CANE RIDGE RD                                               0160001600
+CANEY FORK RD                                               0160001600
+CANEYVILLE RD                                               0160001600
+CARDWELL CEMETERY EAST RD                                   0160001600
+CARDWELL CEMETERY RD                                        0160001600
+CARL FARIS RD                                               0160001600
+CARLEY STAPLES RD                                           0160001600
+CARLEY STAPLES RD E                                         0160001600
+CARLEY STAPLES RD W                                         0160001600
+CARROLL RD                                                  0160001600
+CARSON BRIDGE RD                                            0160001600
+CARVE ROCK CEMETERY RD                                      0160001600
+CEDAR DALE DR                                               0160001600
+CEDAR RIDGE RD                                              0160001600
+CEMETERY ST                                                 0160301603
+CHAPEL UNION CEMETERY RD                                    0160001600
+CHARLES BLACK RD                                            0160101601
+CHARLTON RD                                                 0160001600
+CHEROKEE DR                                                 0160101601
+CHICKASAW DR                                                0160101601
+CHILDERS CEDAR LN                                           0160001600
+CHILDRESS RD                                                0160001600
+CHURCH ST                                                   0161301613
+CITY SERVICE RD                                             0160001600
+CLARK CEMETERY RD                                           0160001600
+CLARK LANDING RD                                            0160001600
+CLARK RD                                                    0160001600
+CLARK ST                                                    0160101601
+CLAY KEITH RD                                               0160001600
+COAL RD                                                     0160001600
+COATES CEMETERY RD                                          0160001600
+COLBURN RD                                                  0160001600
+COLLEGE ST                                                  0160301603
+CONCORD CEMETERY RD                                         0160001600
+CONSERVATION RD                                             0160001600
+COOK CEMETERY RD                                            0160001600
+COOK ST                                                     0160301603
+COOL SPRING RD                                              0160001600
+COOTS RD                                                    0160001600
+COREY LN                                                    0160001600
+COUNTY RD                                                   0160001600
+COX RD                                                      0160001600
+COZY OAKS RD                                                0160001600
+CREAMERY ST                                                 0160301603
+CROMWELL RD                                                 0160001600
+D HAYNES RD                                                 0160001600
+D LINDSEY RD                                                0160001600
+D MORRIS RD                                                 0160001600
+D SIMPSON RD                                                0160001600
+D WHITE RD                                                  0160001600
+DABBS DR                                                    0160101601
+DAN JOHNSON RD                                              0160001600
+DAVE GASKEY LN                                              0160101601
+DEER POND RD                                                0160001600
+DEERLICK CREEK RD                                           0160001600
+DEXTERVILLE BANOCK RD                                       0160001600
+DEXTERVILLE GILSTRAP RD                                     0160001600
+DEXTERVILLE OAK RIDGE RD                                    0160001600
+DIMPLE RD                                                   0160001600
+DINK MCKINNEY RD                                            0160001600
+DOC HAMPTON RD                                              0160001600
+DOC PARRISH RD                                              0160001600
+DOCKERY RIDGE RD                                            0160001600
+DOGCREEK RD                                                 0160001600
+DOOLIN LAKE RD                                              0160001600
+DOOLIN RONE CEMETERY RD                                     0160001600
+DRAKE RD                                                    0160001600
+DUNBAR COAL RD                                              0160001600
+DUNBAR LEETOWN RD                                           0160001600
+DUNCAN RD                                                   0160001600
+DUNN STORE RD                                               0160001600
+DUTCHMANS LN                                                0160001600
+E BELL ST                                                   0160101601
+E CEMETERY ST                                               0160101601
+E CLARK RD                                                  0160001600
+E G L SMITH ST                                              0160101601
+E HUTCHISON RD                                              0160001600
+E MORGAN RD                                                 0160001600
+E MORRISON ST                                               0160101601
+E OHIO ST                                                   0160101601
+E PORTER ST                                                 0160101601
+E ROBERTS ST                                                0160101601
+E WHALEN RD                                                 0160001600
+E WHITE RD                                                  0160001600
+EARL COMBS LN                                               0160001600
+EBENEZER CHURCH RD                                          0160001600
+EDEN DR                                                     0160001600
+EDEN LOOP                                                   0160001600
+EDEN SCHOOL RD                                              0160001600
+EDGARS FERRY RD                                             0160001600
+ELVIS MCCOY RD                                              0160001600
+ELVIS PHELPS RD                                             0160001600
+ELZIE PENDLEY RD                                            0160001600
+EMBRY CEMETERY RD                                           0160001600
+EMBRY LOOP                                                  0160001600
+EMBRY WAY                                                   0160001600
+ERIC YOUNG RD                                               0160001600
+EVANS CEMETERY RD                                           0160001600
+EWING RD                                                    0160001600
+F C CARDWELL RD                                             0160001600
+F KITCHENS RD                                               0160001600
+F NEWTON RD                                                 0160001600
+F STAPLES RD                                                0160001600
+FAIRVIEW CHURCH CEMETERY RD                                 0160001600
+FANNY RONE CEMETERY RD                                      0160001600
+FAY HENDERSON RD                                            0160001600
+FELMONT OIL COMPANY RD                                      0160001600
+FELTY CEMETERY RD                                           0160001600
+FELTY JOHNSON RD                                            0160001600
+FERRY RD                                                    0160301603
+FINDLEY RD                                                  0160001600
+FLAT BRANCH RD                                              0160001600
+FLAT ROCK RD                                                0160001600
+FLENER LOOP                                                 0160001600
+FLINT SPRINGS RD                                            0160001600
+FORGYS MILL RD                                              0160001600
+FORGYTOWN CEMETERY RD                                       0160001600
+FOYEST WEST ST                                              0160101601
+FRAMES RD                                                   0160001600
+FRAMES SPUR RD                                              0160001600
+FRED TUCK DR                                                0160101601
+FULLER WOOLRIDGE RD                                         0160001600
+FULLER WOOLRIDGE SPUR RD                                    0160001600
+G BAND RD                                                   0160001600
+G BIGGERSTAFF RD                                            0160001600
+G CARDWELL RD                                               0160001600
+G MCCOY RD                                                  0160001600
+G MEREDITH RD                                               0160001600
+G SOUTHERLAND RD                                            0160001600
+G STEPHENS RD                                               0160001600
+GABBARD BRANCH RD                                           0160001600
+GABBARD RD                                                  0160001600
+GARDNER CAMP RD                                             0160001600
+GARY RIDGE RD                                               0160001600
+GETTIE WEST RD                                              0160001600
+GIDCUMB CEMETERY RD                                         0160001600
+GIDCUMB RD                                                  0160001600
+GILBERT BORDERS RD                                          0160001600
+GILLS CEMETERY RD                                           0160001600
+GILLS CEMETERY RD S                                         0160001600
+GILSTRAP COMMUNITY CENTER RD                                0160001600
+GILSTRAP INDIAN CREEK RD                                    0160001600
+GILSTRAP RD                                                 0160001600
+GITHENS CEMETERY RD                                         0160001600
+GIVENS CEMETERY RD                                          0160001600
+GIVENS RD                                                   0160001600
+GLEN HILL DR                                                0160101601
+GLOVER RD                                                   0160001600
+GRAHAM SCHOOL RD                                            0160001600
+GRANCER RD                                                  0160001600
+GRANNYS ROCKHOUSE RD                                        0160001600
+GRANT CEMETERY RD                                           0160001600
+GRAVELTOWN RD                                               0160001600
+GRAVES RD                                                   0160001600
+GREEN HILL CEMETERY RD                                      0160001600
+GREEN VALLEY DR                                             0160001600
+GREG DRAKE RD                                               0160001600
+GREGORY DR                                                  0160001600
+GRUBBS RD                                                   0160001600
+GUY RD                                                      0160001600
+H DOCKERY NORTH RD                                          0160001600
+H DOCKERY RD                                                0160001600
+H FLENER RD                                                 0160001600
+H HAVENS RD                                                 0160001600
+H PHELPS RD                                                 0160001600
+H THOMPSON RD                                               0160001600
+HAMPTON RD                                                  0160001600
+HAPPY HOLLOW RD                                             0160001600
+HARPER CIRCLE RD                                            0160001600
+HARPER RD                                                   0160001600
+HATCHER RD                                                  0160001600
+HAWES RD                                                    0160001600
+HAYS RD                                                     0160001600
+HAYWARD EMBRY RD                                            0160001600
+HEATHER DR                                                  0160001600
+HELM LN                                                     0160101601
+HENDERSON CEMETERY RD                                       0160001600
+HICKORY CAMP CREEK RD                                       0160001600
+HICKORY CT                                                  0160001600
+HIDDEN VALLEY RD                                            0160001600
+HIGH GROVE SCHOOL RD                                        0160001600
+HILL ST                                                     0160001600
+HILLSIDE DR                                                 0160101601
+HILLTOP DR                                                  0161301613
+HILLVIEW DR                                                 0160101601
+HILLVIEW LN                                                 0160001600
+HINES DR                                                    0160101601
+HINES ST                                                    0161301613
+HOLLY TRL                                                   0160001600
+HOLSTON HOLLOW RD                                           0160001600
+HONAKER CEMETERY RD                                         0160001600
+HOOD RD                                                     0160001600
+HORSE SHOE BEND RD                                          0160001600
+HUDSON CEMETERY RD                                          0160001600
+HUDSON RD                                                   0160001600
+HUFF RIDGE RD                                               0160001600
+HULDEVILLE RD                                               0160001600
+HUNT RD                                                     0160001600
+HUNTERS POINT DR                                            0160001600
+HUNTS CHURCH RD                                             0160001600
+HUNTSVILLE METHODIST CEMETERY RD                            0160001600
+HUNTSVILLE QUALITY RD                                       0160001600
+IMCO DR                                                     0160001600
+INDUSTRIAL DR                                               0160001600
+INDUSTRIAL DR N                                             0160101601
+INDUSTRIAL DR S                                             0160001600
+J ARNOLD RD                                                 0160001600
+J ARNOLD RD W                                               0160001600
+J CARDWELL RD                                               0160001600
+J R RONE HL                                                 0160101601
+J ROSS RD                                                   0160001600
+J TOMES RD                                                  0160001600
+JACK ORANGE RD                                              0160001600
+JACKSON RD                                                  0160001600
+JAKE PHARRIS RD                                             0160001600
+JAY BIRD LN                                                 0160101601
+JENKINS BLVD                                                0160101601
+JETSON CUTOFF RD                                            0160001600
+JIM EMBRY RD                                                0160001600
+JIM EMBRY RD                                                0160101601
+JIMMY DR                                                    0160001600
+JIMMY SMITH CEMETERY RD                                     0160001600
+JOHN DEERE RD                                               0160001600
+JOHN GIVENS RD                                              0160001600
+JOHNIE FLENER RD                                            0160001600
+JOHNSON CEMETERY RD                                         0160001600
+JOHNSON HOLLOW RD                                           0160001600
+JOHNSON ST                                                  0160001600
+JOLERTOWN LN                                                0160001600
+JOLERTOWN RD                                                0160001600
+JONES CT                                                    0160101601
+JUNIOR SWIFT RD                                             0160001600
+K HUNT RD                                                   0160001600
+K SEARLES RD                                                0160001600
+KENT MANOR DR                                               0160101601
+KEOWN RD                                                    0160001600
+KING RD                                                     0160001600
+KITCHENS RD                                                 0160001600
+KY1187                                                      0160001600
+KY2263                                                      0160301603
+KY269                                                       0160001600
+L AUSTON RD                                                 0160001600
+L HUNT RD                                                   0160001600
+L JENKINS RD                                                0160001600
+L MOORE RD                                                  0160001600
+L WATKINS RD                                                0160001600
+LACEFIELD CEMETERY RD                                       0160001600
+LACEFIELD RD                                                0160001600
+LAKE RD                                                     0160301603
+LAWSON EMBRY CEMETERY RD                                    0160001600
+LENA BROOKS RD                                              0160001600
+LEONARD OAK CHURCH RD                                       0160001600
+LEONARD OAK RD                                              0160001600
+LES ANDERSON RD                                             0160001600
+LEVER RIDGE RD                                              0160001600
+LEVI TAYLOR EAST RD                                         0160001600
+LEVI TAYLOR RD                                              0160001600
+LILY PAD LN                                                 0160001600
+LINDSEY CEMETERY RD                                         0160001600
+LINDSEY DR                                                  0160001600
+LINDSEY HOLLOW RD                                           0160001600
+LITTLE MUDDY CHURCH RD                                      0160001600
+LITTLE REEDY RD                                             0160001600
+LITTLE RICHLAND CREEK RD                                    0160001600
+LOCK NO4 RD                                                 0160001600
+LOCK NO4 RD                                                 0161301613
+LOCK NO5 RD                                                 0160001600
+LOGANSPORT RD                                               0160001600
+LOGANSPORT RD                                               0160101601
+LONG BRANCH SCHOOL RD                                       0160001600
+LONNIE SNODGRASS RD                                         0160001600
+LOVE BROOKLYN RD                                            0160001600
+LOVE LEE RD                                                 0160001600
+LUMBUSTOWN CEMETERY RD                                      0160001600
+LUMBUSTOWN RD                                               0160001600
+M DEWEESE RD                                                0160001600
+M SCHULTZ RD                                                0160001600
+M WHALEN RD                                                 0160001600
+M WHITE RD                                                  0160001600
+MAPLE ST                                                    0160101601
+MARTIN LAKE RD                                              0160001600
+MARTIN PHELPS RD                                            0160001600
+MARTIN RD                                                   0160001600
+MARTIN WILSON RD                                            0160001600
+MASON CEMETERY RD                                           0160001600
+MCKENDREE CHAPEL RD                                         0160001600
+MEADORS LAKE RD                                             0160001600
+MEADOW LARK DR                                              0160001600
+MIDDLE FERRY RD                                             0160101601
+MIDDLE LAKE RD                                              0160001600
+MIKE ALLEN RD                                               0160001600
+MILLER LN                                                   0160001600
+MILLSHED RD                                                 0160001600
+MINTON CEMETERY                                             0160001600
+MINTONS CIR                                                 0160101601
+MITCHELL DR                                                 0160001600
+MONFORD RD                                                  0160001600
+MONTICELLO CEMETERY RD                                      0160001600
+MONTICELLO CHURCH RD                                        0160001600
+MOORETOWN RD                                                0160001600
+MORGAN MANOR                                                0160101601
+MORGAN SMITH CEMETERY RD                                    0160001600
+MORGANTOWN MFG RD                                           0160101601
+MORRISON LN                                                 0160001600
+MT LIBERTY CEMETERY RD                                      0160001600
+MT OLIVET CEMETERY RD                                       0160001600
+MT UNION CHURCH RD                                          0160001600
+MT VERNON CEMETERY RD                                       0160001600
+MT VERNON CHURCH RD                                         0160001600
+MT ZION CEMETERY RD                                         0160001600
+MT ZION SCHOOL RD                                           0160001600
+MUD RIVER MINE RD                                           0160001600
+MUDDY CREEK RD                                              0160001600
+MUDDY CREEK RD E                                            0160001600
+N ASHALLEN RD                                               0160001600
+N BUTLER DR                                                 0160001600
+N HOBSON ST                                                 0160101601
+N LOGAN SCHOOL RD                                           0160001600
+N MAIN ST                                                   0160101601
+N TAYLOR ST                                                 0160101601
+N TEDDY AVE                                                 0160101601
+N TYLER ST                                                  0160101601
+N W JOHNSON RD                                              0160001600
+N WARD AVE                                                  0160101601
+N WARD ST                                                   0160101601
+N WARREN ST                                                 0160101601
+NAN BRIDGE RD                                               0160001600
+NEAFUS FRONTAGE RD                                          0160001600
+NEAFUS RD                                                   0160001600
+NEEDMORE CEMETERY RD                                        0160001600
+NEEDMORE RD                                                 0160001600
+NEIL DRAKE RD                                               0160001600
+NEW BUCKHORN LN                                             0160001600
+NEW CUT RD                                                  0160001600
+NEW CUT SOUTH RD                                            0160001600
+NEW HOPE RD                                                 0160001600
+NEW LIBERTY CEMETERY RD                                     0160001600
+NEW MIDWAY CEMETERY RD                                      0160001600
+NEWTON CEMETERY RD                                          0160001600
+NEWTON RD                                                   0160001600
+NOAH JOHNSON CEMETERY RD                                    0160001600
+NORMAN ARNOLD RD                                            0160001600
+NORRIS LN                                                   0160001600
+NORTHLAN CIR                                                0160001600
+NYLAS AVE                                                   0160101601
+NYLAS LN                                                    0160101601
+O EMBRY RD                                                  0160001600
+O J BASHAM RD                                               0160001600
+O KING RD                                                   0160001600
+OAK GROVE LN                                                0160001600
+OAK GROVE SCHOOL RD                                         0160001600
+OAK HILL DR                                                 0160101601
+OAK RIDGE CEMETERY RD                                       0160001600
+OAK RIDGE RD                                                0160001600
+OAK VALLEY DR                                               0160101601
+OBERHAUSEN RD                                               0160001600
+OLD BAPTIST CHURCH RD                                       0160001600
+OLD BIG SPRINGS RD                                          0160001600
+OLD BROOKLYN SCHOOL RD                                      0160001600
+OLD BUCKHORN RD                                             0160001600
+OLD CANE RIDGE RD                                           0160001600
+OLD CEDAR GROVE SCHOOL RD                                   0160001600
+OLD DIMPLE RD                                               0160001600
+OLD ETHEL SCHOOL RD                                         0160001600
+OLD FERRY DR                                                0160001600
+OLD FERRY DR                                                0160101601
+OLD FERRY RIVER RD                                          0160001600
+OLD FLENER MONFORD RD                                       0160001600
+OLD FORGY MILL RD                                           0160001600
+OLD GRAVELTOWN RD                                           0160001600
+OLD HICKORY STAND SCHOOL RD                                 0160001600
+OLD HICKORY STAND SCHOOL RD S                               0160001600
+OLD MINING CITY RD                                          0160001600
+OLD MOORETOWN RD                                            0160001600
+OLD MORGANTOWN BROWNSVILLE RD                               0160001600
+OLD PEA RIDGE RD                                            0160001600
+OLD PISGAH SCHOOL RD                                        0160001600
+OLD PROVO RD                                                0160001600
+OLD STRINGTOWN RD                                           0160001600
+OLD SUNNY LN                                                0160001600
+OLD TAYLORS SPRING RD                                       0160001600
+OLD UNION SCHOOL RD                                         0160001600
+OLD WOODBURY RD                                             0160001600
+OLD YOUNGTOWN RD                                            0160001600
+ORANGE CEMETERY RD                                          0160001600
+ORCHARD ST                                                  0161301613
+OVAL CLARK RD                                               0160001600
+P HAMPTON RD                                                0160001600
+PANTHER CREEK RD                                            0160001600
+PARADISE VIEW RD                                            0160001600
+PARK LN                                                     0160101601
+PARK ST                                                     0161301613
+PARKER LN                                                   0160001600
+PARKWAY LN                                                  0160001600
+PAYTON PHELPS CEMETERY RD                                   0160001600
+PEA RIDGE RD                                                0160001600
+PEACH NORTH RD                                              0160001600
+PEARSON RD                                                  0160001600
+PEAY CEMETERY RD                                            0160001600
+PENDLEY DR                                                  0160101601
+PENDLEY RD                                                  0160001600
+PENNY LN                                                    0160001600
+PENROD RD                                                   0160001600
+PERRY HARPER RD                                             0160001600
+PHAIRWAY DR                                                 0160001600
+PHELPS COOTS RD                                             0160001600
+PHELPS LN                                                   0160001600
+PINE DR                                                     0160101601
+PITCHER RD                                                  0160001600
+PITCHER RD S                                                0160001600
+PITCHER RD S                                                0160101601
+PLEASANT HILL CEMETERY RD                                   0160001600
+POINT PLEASANT CHURCH RD                                    0160001600
+POLK ST                                                     0160101601
+PORTER CEMETERY RD                                          0160001600
+PORTER RD                                                   0160001600
+PORTER WAY                                                  0160001600
+POSSUM HOLLOW RD                                            0160001600
+PRESS CLARK RD                                              0160001600
+PRESTO GARY RD                                              0160001600
+PROVO RD                                                    0160001600
+PROVO RD                                                    0160301603
+QUALITY CEMETERY RD                                         0160001600
+R CARDWELL RD                                               0160001600
+R ELLIS RD                                                  0160001600
+R MCPHERSON RD                                              0160001600
+R SMITH RD                                                  0160001600
+R SOUTHERLAND                                               0160001600
+RAGLAND CEMETERY RD                                         0160001600
+READ RD                                                     0160001600
+REEDS FERRY RD                                              0160001600
+REEDYVILLE RD                                               0160001600
+REGION RD                                                   0160001600
+REGION REEDYVILLE RD                                        0160001600
+RENFROW CEMETERY RD                                         0160001600
+RICHELIEU RD                                                0160001600
+RICHLAND CHURCH RD                                          0160001600
+RIVERSIDE DR                                                0160001600
+ROCHESTER CEMETERY                                          0160301603
+ROCHESTER CEMETERY NO2                                      0160301603
+ROCHESTER GREEN RIVER RD                                    0160001600
+ROCHESTER GREEN RIVER RD                                    0160301603
+ROCHESTER RD                                                0160001600
+ROCHESTER RD                                                0160301603
+ROCK SPRINGS CEMETERY RD                                    0160001600
+ROCKHOUSE RD                                                0160001600
+ROCKY HOLLOW RD                                             0160001600
+RONE LN                                                     0160001600
+ROSCOE TAYLOR RD                                            0160001600
+ROY GIVENS RD                                               0160001600
+RURAL NORTHERN RD                                           0160001600
+RUSSELLVILLE RD                                             0160001600
+RUSSELLVILLE ST                                             0160301603
+RUSTY RD                                                    0160001600
+S ASHALLEN RD                                               0160001600
+S CARROL RD                                                 0160001600
+S HOBSON ST                                                 0160101601
+S LOGAN RD                                                  0160001600
+S MAIN ST                                                   0160001600
+S MAIN ST                                                   0160101601
+S S WHITE RIDGE RD                                          0160001600
+S TEDDY AVE                                                 0160101601
+S TYLER ST                                                  0160101601
+S WARREN ST                                                 0160101601
+SAILING CIR                                                 0160101601
+SAM GARY RD                                                 0160001600
+SANDERS RD                                                  0160001600
+SANDY CREEK CEMETERY RD                                     0160001600
+SANDY CREEK RD                                              0160001600
+SAWMILL RD                                                  0160101601
+SCHOOL ST                                                   0160301603
+SCHOOLHOUSE RD                                              0160001600
+SERENITY LOOP                                               0160001600
+SERENITY PL                                                 0160001600
+SHA RO LEY LN                                               0160001600
+SHAFTER HOWARD DR                                           0160101601
+SHALLOW FORD CEMETERY RD                                    0160001600
+SHARER RD                                                   0160001600
+SHEA ST                                                     0160101601
+SHELBY LEE RD                                               0160001600
+SHELBY WESTER RD                                            0160001600
+SHILOH CEMETERY RD                                          0160001600
+SHORT ST                                                    0161301613
+SID HUDNALL RD                                              0160001600
+SILVER CITY HUNTSVILLE RD                                   0160001600
+SLEEPY HOLLOW RD                                            0160001600
+SMITH CEMETERY RD                                           0160001600
+SMITH HILL DR                                               0160101601
+SMITH HOME CEMETERY RD                                      0160001600
+SNODGRASS CEMETERY RD                                       0160001600
+SPORTSMAN CLUB RD                                           0160001600
+SQUIRE RIDGE RD                                             0160001600
+STACY LN                                                    0160101601
+STAPLES CEMETERY RD                                         0160001600
+STEPHENS CHAPEL RD                                          0160001600
+STEWART LN                                                  0160001600
+STRINGTOWN RD                                               0160001600
+SUGAR GROVE RD                                              0160001600
+SUNNY LANE RICHELIEU RD                                     0160001600
+SUNRISE DR                                                  0160101601
+SUNSET LOOP ST                                              0160101601
+SUNSET RIDGE                                                0160001600
+SUSAN HATCHER RD                                            0160001600
+SWIFT CEMETERY RD                                           0160001600
+SWIFT RD                                                    0160001600
+SYCAMORE ST                                                 0160101601
+T ABBOTT                                                    0160001600
+T AMOS RD                                                   0160001600
+T ANNIS FERRY RD                                            0160001600
+T DAUGHERTY RD                                              0160001600
+T LAWRENCE RD                                               0160001600
+T RAY LN                                                    0160001600
+TALLOW BRANCH RD                                            0160001600
+TARVIN EMBREY RD                                            0160001600
+TAYLOR CAMP RD                                              0160001600
+TAYLOR CEMETERY RD                                          0160001600
+TAYLORS LAKE RD                                             0160001600
+TEMPLEVIEW CEMETERY RD                                      0160001600
+THRELKEL CEMETERY RD                                        0160001600
+THRELKEL GREEN RIVER RD                                     0160001600
+THRELKEL RD                                                 0160001600
+TIDDLER CEMETERY RD                                         0160001600
+TIDDLER RIDGE RD                                            0160001600
+TOY SPRINGS RD                                              0160001600
+TUCK ST                                                     0160101601
+TURCI NEVINS RD                                             0160001600
+TURNERTOWN LN                                               0160001600
+TWIN OAKS LN                                                0160001600
+TYREE CEMETERY RD                                           0160001600
+UNION CEMETERY RD                                           0160001600
+UPPER SMITH RD                                              0160001600
+V DWYER RD                                                  0160001600
+V PEACH RD                                                  0160001600
+V WHITE RD                                                  0160001600
+VALLEY VIEW DR                                              0160001600
+VETERANS WAY                                                0160001600
+VETERANS WAY                                                0160101601
+VETETO LN                                                   0160001600
+VFW DR                                                      0160101601
+VILES CEMETERY RD                                           0160001600
+VOTING HOUSE RD                                             0160001600
+W ANNIS RD                                                  0160001600
+W CEMETERY ST                                               0160101601
+W F WOODRUM RD                                              0160001600
+W G L SMITH ST                                              0160101601
+W H TINES RD                                                0160001600
+W MORRISON ST                                               0160101601
+W OHIO ST                                                   0160101601
+W PORTER ST                                                 0160101601
+W ROBERTS ST                                                0160101601
+W S ROMANS RD                                               0160001600
+W THOMAS ST                                                 0160101601
+WADE CEMETERY RD                                            0160001600
+WAITRESS EMBRY RD                                           0160001600
+WALNUT GROVE CHURCH RD                                      0160001600
+WALNUT LN                                                   0160001600
+WAND CEMETERY RD                                            0161301613
+WARRENS MILL CEMETERY RD                                    0160001600
+WATKINS RD                                                  0160001600
+WAVERLY SCHOOL RD                                           0160001600
+WEBSTER CEMETERY RD                                         0160001600
+WELCOME RD                                                  0160001600
+WELDON CARDWELL RD                                          0160001600
+WESTER CEMETERY RD                                          0160001600
+WHALEN CEMETERY RD                                          0160001600
+WHITE RIDGE RD                                              0160001600
+WHITE ST                                                    0160101601
+WHITE WAY                                                   0160101601
+WHITTINGHILL RD                                             0160001600
+WILLIS CT                                                   0160301603
+WILLIS FARMS RD                                             0160001600
+WILLIS GIVENS RD                                            0160001600
+WILLIS RD                                                   0160001600
+WILSON CEMETERY RD                                          0160001600
+WILSON DR                                                   0160101601
+WK9001 E                                                    0160001600
+WK9001 W                                                    0160001600
+WN9007 N                                                    0160001600
+WN9007 N                                                    0160101601
+WN9007 N EXIT26 OFF RAMP TO US231                           0160001600
+WN9007 N EXIT26 OFF RAMP TO US231 N                         0160001600
+WN9007 N EXIT26 OFF RAMP TO US231 S                         0160001600
+WN9007 N EXIT26 ON RAMP FROM US231                          0160001600
+WN9007 N EXIT26 ON RAMP FROM US231 N                        0160001600
+WN9007 N EXIT26 ON RAMP FROM US231 S                        0160001600
+WN9007 N EXIT27 OFF RAMP TO KY70                            0160101601
+WN9007 N EXIT27 OFF RAMP TO KY70 E                          0160101601
+WN9007 N EXIT27 OFF RAMP TO KY70 W                          0160101601
+WN9007 N EXIT27 ON RAMP FROM KY70                           0160001600
+WN9007 N EXIT27 ON RAMP FROM KY70 E                         0160001600
+WN9007 N EXIT27 ON RAMP FROM KY70 W                         0160001600
+WN9007 N EXIT34 OFF RAMP TO US231                           0160001600
+WN9007 N EXIT34 OFF RAMP TO US231 N                         0160001600
+WN9007 N EXIT34 OFF RAMP TO US231 S                         0160001600
+WN9007 N EXIT34 ON RAMP FROM US231                          0160001600
+WN9007 N EXIT34 ON RAMP FROM US231 N                        0160001600
+WN9007 N EXIT34 ON RAMP FROM US231 S                        0160001600
+WN9007 S                                                    0160001600
+WN9007 S                                                    0160101601
+WN9007 S EXIT26 OFF RAMP TO US231                           0160001600
+WN9007 S EXIT26 OFF RAMP TO US231 N                         0160001600
+WN9007 S EXIT26 OFF RAMP TO US231 S                         0160001600
+WN9007 S EXIT26 ON RAMP FROM US231                          0160001600
+WN9007 S EXIT26 ON RAMP FROM US231 N                        0160001600
+WN9007 S EXIT26 ON RAMP FROM US231 S                        0160001600
+WN9007 S EXIT27 OFF RAMP TO KY70                            0160001600
+WN9007 S EXIT27 OFF RAMP TO KY70 E                          0160001600
+WN9007 S EXIT27 OFF RAMP TO KY70 W                          0160001600
+WN9007 S EXIT27 ON RAMP FROM KY70                           0160101601
+WN9007 S EXIT27 ON RAMP FROM KY70 E                         0160001600
+WN9007 S EXIT27 ON RAMP FROM KY70 W                         0160001600
+WN9007 S EXIT34 OFF RAMP TO US231                           0160001600
+WN9007 S EXIT34 OFF RAMP TO US231 N                         0160001600
+WN9007 S EXIT34 OFF RAMP TO US231 S                         0160001600
+WN9007 S EXIT34 ON RAMP FROM US231                          0160001600
+WN9007 S EXIT34 ON RAMP FROM US231 N                        0160001600
+WN9007 S EXIT34 ON RAMP FROM US231 S                        0160001600
+WN9007 W EXIT34 CROSSOVER FROM US231 N                      0160001600
+WOLFPEN HOLLOW RD                                           0160001600
+WOMACK CEMETERY RD                                          0160001600
+WOMACK MCKINNEY RD                                          0160001600
+WOODBURY LOOP                                               0160001600
+WOODBURY LOOP                                               0161301613
+WOODCOCK ST                                                 0160101601
+WOODLAN DR                                                  0160001600
+WOODROW MOORE LN                                            0160001600
+WOODROW MOORE RD                                            0160001600
+WOOLRIDGE RD                                                0160001600
+WOOSLEY RD                                                  0160001600
+YOUNGS FERRY RD                                             0160001600
+YOUNGSTOWN RD                                               0160001600
+ZIONS HARMONY CEMETERY RD                                   0160001600

@@ -1,3 +1,3 @@
 class Offense < Code
-  default_scope { where(:region_code => StaticData.region_code) }
+  default_scope { where(:state_id => StaticData.state_id) }
 end

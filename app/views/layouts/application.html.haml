@@ -18,7 +18,7 @@
           %a{:href => root_url} #{StaticData.site_name}
 
         %a#large-logo{:href => root_url, :title => "#{yield :title}"}
-          %img{:src => "/assets/badge.png"}/
+          =image_tag "badge.png"
         - unless params[:controller] == "dashboard"
           = render :partial => "shared/dashboard_buttons"
 

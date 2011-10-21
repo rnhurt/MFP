@@ -1,0 +1,1076 @@
+10TH PL                                                     0510105101
+10TH ST                                                     0510105101
+11TH ST                                                     0510105101
+12TH ST                                                     0510105101
+13TH ST                                                     0510105101
+14TH ST                                                     0510105101
+1ST AVE                                                     0510005100
+1ST ST                                                      0510005100
+1ST ST                                                      0510105101
+1ST ST                                                      0510205102
+1ST ST                                                      0510405104
+2ND AVE                                                     0510005100
+2ND ST                                                      0510005100
+2ND ST                                                      0510105101
+2ND ST                                                      0510405104
+3RD ST                                                      0510005100
+3RD ST                                                      0510105101
+3RD ST                                                      0510205102
+3RD ST                                                      0510405104
+4TH ST                                                      0510105101
+4TH ST                                                      0510205102
+5TH ST                                                      0510105101
+5TH ST                                                      0510205102
+6TH ST                                                      0510105101
+6TH ST                                                      0510205102
+7TH ST                                                      0510105101
+7TH ST                                                      0510205102
+8TH ST                                                      0510105101
+8TH ST                                                      0510205102
+8TH STREET CT                                               0510105101
+9TH PL                                                      0510105101
+9TH ST                                                      0510105101
+9TH ST                                                      0510205102
+A C WALKER RD                                               0510005100
+ACORN VILLAGE                                               0510105101
+ADAMS LN                                                    0510005100
+ADAMS LN                                                    0510105101
+AIRLINE RD                                                  0510005100
+AIRLINE RD                                                  0510105101
+ALASTAIR DR                                                 0510105101
+ALCAN ALUMINUM RD                                           0510005100
+ALEXANDER ST                                                0510005100
+ALMA AVE                                                    0510005100
+ALVES FERRY RD                                              0510005100
+ALZEY UNIONTOWN RD                                          0510005100
+AMBERFIELD CT                                               0510105101
+AMIET RD                                                    0510005100
+ANGUS DR                                                    0510105101
+ANNE DR                                                     0510105101
+ANTHOSTON FROG ISLAND RD                                    0510005100
+ARBOR DR                                                    0510105101
+ARBOR DRIVE NO1                                             0510105101
+ARBOR DRIVE NO2                                             0510105101
+ARBOR DRIVE NO3                                             0510105101
+ARGYLE WAY                                                  0510105101
+ARLINGTON CT                                                0510105101
+ARNETT LN                                                   0510005100
+ARROW WAY                                                   0510105101
+ASHWOOD CT                                                  0510105101
+ASHWORTH CT                                                 0510005100
+ASPEN CT                                                    0510105101
+ATKINSON PARK CIR                                           0510105101
+ATKINSON PARK RD                                            0510105101
+ATKINSON PARK ROAD CONNECTOR                                0510105101
+ATKINSON ST                                                 0510105101
+AU9005 E                                                    0510005100
+AU9005 E                                                    0510105101
+AU9005 E EXIT10 OFF RAMP TO KY416                           0510005100
+AU9005 E EXIT10 ON RAMP FROM KY416                          0510005100
+AU9005 E EXIT10 ON RAMP FROM KY416 N                        0510005100
+AU9005 E EXIT10 ON RAMP FROM KY416 S                        0510005100
+AU9005 E EXIT5 OFF RAMP TO KY1078                           0510005100
+AU9005 E EXIT5 ON RAMP FROM KY1078                          0510005100
+AU9005 E EXIT5 ON RAMP FROM KY1078 N                        0510005100
+AU9005 W                                                    0510005100
+AU9005 W                                                    0510105101
+AU9005 W EXIT10 OFF RAMP TO KY416                           0510005100
+AU9005 W EXIT10 ON RAMP FROM KY416                          0510005100
+AU9005 W EXIT10 ON RAMP FROM KY416 N                        0510005100
+AU9005 W EXIT10 ON RAMP FROM KY416 S                        0510005100
+AU9005 W EXIT5 OFF RAMP TO KY1078                           0510005100
+AU9005 W EXIT5 ON RAMP FROM KY1078                          0510005100
+AU9005 W EXIT5 ON RAMP FROM KY1078 S                        0510005100
+AUDUBON CT                                                  0510105101
+AUDUBON ST                                                  0510105101
+AUGUSTA DR                                                  0510105101
+AUTUMN LANE EXTENSION                                       0510005100
+AUTUMN LN                                                   0510005100
+AZALEA TRL                                                  0510005100
+B F OVERFIELD RD                                            0510005100
+BAILEY ST                                                   0510105101
+BALMORAL DR                                                 0510105101
+BANNOCKBURN DR                                              0510105101
+BARKER RD                                                   0510105101
+BARNETT DR                                                  0510105101
+BARREN CHURCH RD                                            0510005100
+BARREN CHURCH RD N                                          0510005100
+BARREN CHURCH RD S                                          0510005100
+BARRET BLVD                                                 0510105101
+BARRETT BLVD                                                0510105101
+BARRETT CT                                                  0510105101
+BARRETT PT                                                  0510105101
+BASKETT ALY                                                 0510005100
+BASKETT CEMETERY RD                                         0510005100
+BASKETT RIDGE RD                                            0510005100
+BAUERN CT                                                   0510005100
+BAYBERRY CT                                                 0510105101
+BEALS ALY                                                   0510105101
+BEECHWOOD DR                                                0510105101
+BELL ST                                                     0510205102
+BELLE WOOD DR                                               0510105101
+BELLEMONT DR                                                0510105101
+BELLEWOOD DR                                                0510105101
+BELLFIELD BAPTIST CHURCH RD                                 0510005100
+BELLFIELD RD                                                0510005100
+BEND GATE RD                                                0510105101
+BENT TREE LN                                                0510105101
+BIRK CITY RD                                                0510005100
+BIRK CITY SPUR                                              0510005100
+BIRKHALL WAY                                                0510105101
+BISHOP LN                                                   0510005100
+BITTERSWEET LN                                              0510105101
+BLUE RIDGE DR                                               0510105101
+BLUEGRASS DR                                                0510105101
+BLUFF CITY NEWMAN RD                                        0510005100
+BLUFF CITY RD                                               0510005100
+BLUFF CITY SPOTTSVILLE RD                                   0510005100
+BOATMAN RD                                                  0510005100
+BOB POSEY ST                                                0510105101
+BOOK LN                                                     0510005100
+BOOK ST                                                     0510105101
+BORAX DR                                                    0510105101
+BOSWELL RD                                                  0510005100
+BOWLING LN                                                  0510005100
+BRADLEY RD                                                  0510005100
+BRAMBLEBERRY CT                                             0510105101
+BRAXTON PARK DR                                             0510105101
+BRECKINRIDGE DR                                             0510105101
+BREEZEPORT CT                                               0510105101
+BRENDA DR                                                   0510105101
+BRENTWOOD DR                                                0510005100
+BRETTWOOD LN                                                0510105101
+BRIANS WAY                                                  0510005100
+BRIARCLIFF TRL                                              0510105101
+BRIARPATCH LN                                               0510105101
+BRIARWOOD DR                                                0510005100
+BRICKYARD ST                                                0510205102
+BRINSON AVE                                                 0510105101
+BRISCOE BENTON RD                                           0510005100
+BROADWAY ST                                                 0510005100
+BROADWAY ST                                                 0510205102
+BROOKSTONE DR                                               0510105101
+BROOMSAGE LN                                                0510105101
+BROWN DR                                                    0510105101
+BRUCE ST                                                    0510105101
+BURBANK RD                                                  0510005100
+BURCHWOOD CT                                                0510105101
+BURDETTE ST                                                 0510105101
+BURRIS ST                                                   0510105101
+BUSBY DENTON RD                                             0510005100
+BUSBY HOLLOW RD                                             0510405104
+BUSBY STATION RD                                            0510005100
+C H ROBERTS RD                                              0510005100
+C N TILLOTSON RD                                            0510005100
+CAIRO DIXIE RD                                              0510005100
+CAIRO HICKORY GROVE RD                                      0510005100
+CAIRO LILES RD                                              0510005100
+CALDWELL DR                                                 0510105101
+CAMELOT DR                                                  0510005100
+CAMERO CT                                                   0510105101
+CAMERO DR                                                   0510105101
+CANARY LN                                                   0510105101
+CANOE CREEK DR                                              0510105101
+CANTERBURY CT                                               0510105101
+CARDINAL LN                                                 0510105101
+CARLINBURG RD                                               0510005100
+CARLISLE ST                                                 0510105101
+CARRIAGE HOMES PARK                                         0510105101
+CARRIAGE HOMES PARK NO1                                     0510105101
+CARRIAGE HOMES PARK NO2                                     0510105101
+CARRIAGE HOMES PARK NO3                                     0510105101
+CARRIAGE HOMES PARK NO4                                     0510105101
+CARSON DR                                                   0510005100
+CARTER DR                                                   0510105101
+CATALINA DR                                                 0510105101
+CATALPA CT                                                  0510005100
+CENTER CIR                                                  0510105101
+CENTER ST                                                   0510005100
+CENTER ST                                                   0510105101
+CENTER ST                                                   0510205102
+CENTRAL AVE                                                 0510005100
+CENTRAL LN                                                  0510005100
+CHADWICK LN                                                 0510105101
+CHAMBERS PL                                                 0510105101
+CHANEY RD                                                   0510005100
+CHASE RD                                                    0510005100
+CHEANEY DR                                                  0510105101
+CHEATHAM RD                                                 0510005100
+CHEATHAM TOY RD                                             0510005100
+CHEROKEE RD                                                 0510105101
+CHERRY HILL RD                                              0510005100
+CHERRY ST                                                   0510105101
+CHESTNUT ST                                                 0510105101
+CHIMNEY HILL LN                                             0510105101
+CHRIS AVE                                                   0510005100
+CHURCH ST                                                   0510005100
+CHURCHILL CT                                                0510105101
+CINEMA DR                                                   0510105101
+CIRCLE B TRAILER PARK                                       0510105101
+CIRCLE B TRAILER PARK NO1                                   0510105101
+CIRCLE B TRAILER PARK NO2                                   0510105101
+CLARK ST                                                    0510105101
+CLARK ST                                                    0510205102
+CLARK ST                                                    0510405104
+CLAY CEMETERY RD                                            0510005100
+CLAY ST                                                     0510105101
+CLAYMARK WAY                                                0510105101
+CLAYTON PL                                                  0510105101
+CLEMENT PT                                                  0510105101
+CLORE CT                                                    0510105101
+COAL MINE RD                                                0510405104
+COBBLESTONE DR                                              0510105101
+COLD SPRINGS CT                                             0510105101
+COLE DR                                                     0510105101
+COLE TRAILER PARK                                           0510105101
+COLE TRAILER PARK NO1                                       0510105101
+COLE TRAILER PARK NO2                                       0510105101
+COLLIER RD                                                  0510005100
+COLLINS RD                                                  0510005100
+COLONIAL AVE                                                0510105101
+COLONIAL CT                                                 0510105101
+COMANCHE DR                                                 0510105101
+COMMERCE CT                                                 0510005100
+COMMONWEALTH DR                                             0510105101
+COMMUNITY DR                                                0510105101
+CONAWAY RD                                                  0510005100
+CONGRESS AVE                                                0510105101
+CONLEY THOMAS RD                                            0510005100
+CONNECTOR                                                   0510105101
+CONNELL ST                                                  0510105101
+CONSTANZA CT                                                0510105101
+CONSTANZA DR                                                0510105101
+COOPER COOPER RD                                            0510005100
+COPPER CREEK DR                                             0510105101
+CORPORATE CT                                                0510105101
+CORYDON CEMETERY RD                                         0510005100
+CORYDON D FELLOWS RD                                        0510005100
+CORYDON GENEVA RD                                           0510005100
+CORYDON GREEN LICK RD                                       0510005100
+COSBY DR                                                    0510105101
+COTTAGE ST                                                  0510105101
+COTTINGHAM LN                                               0510005100
+COTTON LN                                                   0510005100
+COUNTRY CLUB DR                                             0510005100
+COUNTRY DR                                                  0510105101
+COVE                                                        0510105101
+COVE A                                                      0510105101
+COVE B                                                      0510105101
+COVE CT                                                     0510105101
+COX RD                                                      0510005100
+CRAIG DR                                                    0510105101
+CREEKSIDE CT                                                0510105101
+CRESLINE DR                                                 0510105101
+CRESTVIEW DR                                                0510105101
+CRESTWOOD CT                                                0510005100
+CROOKED RD                                                  0510005100
+CULPEPPER CT                                                0510105101
+CUMNOCK ST                                                  0510105101
+CURDSVILLE RD                                               0510005100
+DAM AND LOCK RD                                             0510005100
+DAM NO48 RD                                                 0510005100
+DANA DR                                                     0510005100
+DEEPWOOD DR                                                 0510005100
+DEER LN                                                     0510105101
+DEKEMPER DR                                                 0510105101
+DENISE DR                                                   0510105101
+DIAMOND ISLAND RD                                           0510005100
+DICK SMITH RD                                               0510005100
+DIXIE LN                                                    0510005100
+DIXIE ROCK SPRINGS RD                                       0510005100
+DIXON ROAD NO1                                              0510005100
+DIXON ROAD NO2                                              0510005100
+DIXON ST                                                    0510105101
+DOE LN                                                      0510005100
+DOGWOOD LN                                                  0510005100
+DOLL RD                                                     0510005100
+DONALDSON DR                                                0510105101
+DONNA DR                                                    0510105101
+DORSEY ST                                                   0510205102
+DOUBLETREE DR                                               0510005100
+DOVE TRL                                                    0510105101
+DR FLOYD RD                                                 0510005100
+DR HODGE RD                                                 0510005100
+DR HODGE SPUR                                               0510005100
+DR MARTIN LUTHER KING JR AVE                                0510105101
+DRURY LN                                                    0510105101
+DUNDEE DR                                                   0510105101
+DUNDONNELL DR                                               0510105101
+DYLAN CIR                                                   0510105101
+E CHERRY ST                                                 0510005100
+E DAFFODIL CT                                               0510105101
+E DOUBLETREE DR                                             0510005100
+E E BRIARWOOD DR                                            0510005100
+E ELM ST                                                    0510005100
+E FOX HOLLOW RUN                                            0510105101
+E GRANT ST                                                  0510105101
+E HARDING AVE                                               0510105101
+E KNIGHT CT                                                 0510105101
+E MARSHALL ST                                               0510005100
+E MILL ST                                                   0510005100
+E PIKE'S LANDING RD                                         0510005100
+E RAILROAD ST                                               0510405104
+E T ROYSTER RD                                              0510005100
+E W H NEGLEY RD                                             0510005100
+EAKINS ST                                                   0510405104
+EARL ST                                                     0510105101
+EASTLAND DR                                                 0510005100
+EASY ST                                                     0510405104
+EASY STREET NORTH LOOP                                      0510405104
+EASY STREET SOUTH LOOP                                      0510405104
+EB9004 N                                                    0510005100
+EB9004 N                                                    0510105101
+EB9004 N EXIT68 CROSSOVER FROM KY416 E                      0510005100
+EB9004 N EXIT68 ON RAMP FROM KY416                          0510005100
+EB9004 N EXIT68 ON RAMP FROM KY416 E                        0510005100
+EB9004 N EXIT68 ON RAMP FROM KY416 W                        0510005100
+EB9004 N EXIT76 ON RAMP FROM KY425 N                        0510005100
+EB9004 N EXIT76 ON RAMP TO KY425 S                          0510005100
+EB9004 N EXIT77 OFF RAMP TO AU9005 E                        0510105101
+EB9004 N EXIT77 ON RAMP FROM AU9005 W                       0510105101
+EB9004 S                                                    0510005100
+EB9004 S                                                    0510105101
+EB9004 S EXIT68 CROSSOVER TO KY416 E                        0510005100
+EB9004 S EXIT68 OFF RAMP TO KY416                           0510005100
+EB9004 S EXIT68 OFF RAMP TO KY416 E                         0510005100
+EB9004 S EXIT68 OFF RAMP TO KY416 W                         0510005100
+EB9004 S EXIT76 OFF RAMP TO KY425 S                         0510005100
+EB9004 S EXIT76 ON RAMP FROM KY425 N                        0510005100
+EB9004 S EXIT77 OFF RAMP FROM AU9005 W                      0510105101
+EB9004 S EXIT77 OFF RAMP TO AU9005 E                        0510105101
+EBLEN HANCOCK RD                                            0510005100
+EBLEN RD                                                    0510005100
+ED OTEY RD                                                  0510005100
+EDDS AVE                                                    0510105101
+EDWARDS RD                                                  0510005100
+ELK AVE                                                     0510105101
+ELLIS HAAS RD                                               0510005100
+ELLIS PARK ENTRANCE                                         0510005100
+ELMWOOD DR                                                  0510105101
+ERNEST LN                                                   0510005100
+EUTOPIA RD                                                  0510005100
+EUTOPIA SPUR                                                0510005100
+EVERGREEN CT                                                0510105101
+FACTORY ST                                                  0510005100
+FAGAN SQ                                                    0510105101
+FAGAN ST                                                    0510105101
+FAIR ST                                                     0510105101
+FAIRGROUND LN                                               0510105101
+FAIRMONT AVE                                                0510005100
+FAIRVIEW DR                                                 0510105101
+FARLEY RD                                                   0510005100
+FAWN LN                                                     0510005100
+FAYE WAY                                                    0510105101
+FENCE POST LN                                               0510105101
+FERNWOOD AVE                                                0510105101
+FIELD STONE DR                                              0510105101
+FLINTLOCK DR                                                0510105101
+FORREST AVE                                                 0510105101
+FRANCIS DR                                                  0510105101
+FRANKLIN AVE                                                0510105101
+FRANKLIN ST                                                 0510105101
+FREEMAN PERCY RD                                            0510005100
+FREETOWN RD                                                 0510005100
+FROG ISLAND RD                                              0510005100
+FRONTIER DR                                                 0510105101
+FRUIT LN                                                    0510005100
+FRYER DR                                                    0510105101
+FULCHER AVE                                                 0510105101
+FULTON YATES RD                                             0510005100
+G H SIGHTS RD                                               0510005100
+GABE ST                                                     0510105101
+GABHART LATTA RD                                            0510005100
+GADWALL LN                                                  0510005100
+GALLOWAY RD                                                 0510005100
+GARDEN LN                                                   0510105101
+GARFIELD AVE                                                0510105101
+GASLIGHT DR                                                 0510105101
+GIBSON DR                                                   0510005100
+GLENGARRY WAY                                               0510105101
+GLENSHIELD WAY                                              0510105101
+GLENWOOD DELL CT                                            0510005100
+GLENWOOD DR                                                 0510005100
+GLOVER DR                                                   0510105101
+GRACE CT                                                    0510105101
+GRAND AVE                                                   0510105101
+GRANDPA JONES DR                                            0510005100
+GRAVES DR                                                   0510105101
+GRAY ALDRIDGE RD                                            0510005100
+GRAY STONE CT                                               0510105101
+GREEN FARM RD                                               0510005100
+GREEN LEAF CT                                               0510105101
+GREEN LICK BAPTIST CHURCH RD                                0510005100
+GREEN RD                                                    0510005100
+GREEN RIDGE DR                                              0510105101
+GREEN RIVER ROAD NO1                                        0510005100
+GREEN RIVER ROAD NO1                                        0510105101
+GREEN RIVER ROAD NO2                                        0510005100
+GREEN VALLEY PL                                             0510105101
+GREENBRIAR DR                                               0510105101
+GREGORY DR                                                  0510105101
+GREGORY RD                                                  0510005100
+GRIFFEE LN                                                  0510005100
+GRIFFIN GRAVES CREEK RD                                     0510005100
+GRIFFIN GRIFFIN RD                                          0510005100
+GUM ST                                                      0510105101
+H AND H AVE                                                 0510105101
+HACKBERRY                                                   0510105101
+HAIRES ALY                                                  0510005100
+HALEY LN                                                    0510005100
+HALLWAY DR                                                  0510105101
+HANCOCK ST                                                  0510105101
+HANCOCK ST                                                  0510205102
+HANDLEY RD                                                  0510005100
+HANDY AVE                                                   0510105101
+HARDING AVE                                                 0510105101
+HARMONY LN                                                  0510105101
+HARPTH GLEN TRCE                                            0510105101
+HARRIS DR                                                   0510105101
+HARTS ALY                                                   0510105101
+HATCHETT MILL RD                                            0510005100
+HAYWORTH DR                                                 0510105101
+HEARTHSTONE LN                                              0510105101
+HEATHER LN                                                  0510105101
+HEAVENLY PL                                                 0510405104
+HEBBARDSVILLE CEMETERY RD                                   0510005100
+HEBBARDSVILLE MASON LANDING RD                              0510005100
+HEILMAN ST                                                  0510105101
+HELM ST                                                     0510105101
+HENDERSON COMMUNITY COLLEGE                                 0510105101
+HENDERSON COMMUNITY COLLEGE NO1                             0510105101
+HENDERSON COMMUNITY COLLEGE NO3                             0510105101
+HENDERSON COMMUNITY COLLEGE NO4                             0510105101
+HENDERSON COMMUNITY COLLEGE NO5                             0510105101
+HENDERSON COMMUNITY PARK                                    0510105101
+HENRYS WAY                                                  0510005100
+HERRON AVE                                                  0510105101
+HI DR                                                       0510105101
+HICKORY RIDGE RD                                            0510005100
+HICKORY WOOD CT                                             0510105101
+HICKS ST                                                    0510105101
+HIDDEN CREEK DR                                             0510005100
+HIGH HOWSE RD                                               0510005100
+HIGHLAND DR                                                 0510105101
+HIGHLAND RD                                                 0510005100
+HILL LN                                                     0510105101
+HILLCREST TER                                               0510005100
+HILLMONT DR                                                 0510105101
+HILLSIDE DR                                                 0510105101
+HILLSIDE LN                                                 0510005100
+HILLSIDE TERRACE TRAILER PARK                               0510105101
+HILLSIDE TERRACE TRAILER PARK NO1                           0510105101
+HILLSIDE TERRACE TRAILER PARK NO2                           0510105101
+HILLTOP DR                                                  0510005100
+HILLWOOD DR                                                 0510005100
+HOFFMAN DR                                                  0510105101
+HOLIDAY CT                                                  0510105101
+HOLLOWAY LN                                                 0510005100
+HOLLY TREE CT                                               0510105101
+HOLMES AVE                                                  0510005100
+HOMER TAYLOR RD                                             0510005100
+HOMESTEAD PT                                                0510105101
+HOMESTEAD TRL                                               0510105101
+HONEYLARK LN                                                0510105101
+HONEYSUCKLE LN                                              0510105101
+HOOVER CT                                                   0510105101
+HORSESHOE DR                                                0510105101
+HORSESHOE RD                                                0510005100
+HOSSMAN NEWBURGH RD                                         0510005100
+HOUSE BRIDGE RD                                             0510005100
+HUBBARD LN                                                  0510105101
+HUGHES SIGHTS RD                                            0510005100
+HUNTER LN                                                   0510005100
+HUNTS DR                                                    0510105101
+HUNTS POINT WAY                                             0510105101
+ILEX DR                                                     0510105101
+INDUSTRIAL PARK DR                                          0510005100
+IRISH IVY LN                                                0510105101
+IRONWOOD DR                                                 0510105101
+IVY TRL                                                     0510005100
+J B RESORT RD                                               0510005100
+J DANCE RD                                                  0510005100
+J GIBSON RD                                                 0510005100
+J J UTLEY RD                                                0510005100
+J ROYSTER RD                                                0510005100
+J SAUERS RD                                                 0510005100
+JACKSON ST                                                  0510105101
+JAMERSON DR                                                 0510105101
+JAMESTOWN DR                                                0510105101
+JANALEE DR                                                  0510105101
+JANE DR                                                     0510105101
+JANE POSEY RD                                               0510005100
+JARBOE LN                                                   0510005100
+JASON AVE                                                   0510005100
+JEFFERSON ST                                                0510105101
+JIHAN CT                                                    0510105101
+JOHN JAMES AUDUBON STATE PARK                               0510105101
+JOHN JAMES AUDUBON STATE PARK NO1                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO10                          0510105101
+JOHN JAMES AUDUBON STATE PARK NO2                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO3                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO4                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO6                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO7                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO8                           0510105101
+JOHN JAMES AUDUBON STATE PARK NO9                           0510105101
+JOHN STEELE RD                                              0510005100
+JOHN TAPP RD                                                0510005100
+JOHNSON DR                                                  0510105101
+JOHNSON ST                                                  0510205102
+JONES BROS RD                                               0510005100
+JONES BROTHERS RD                                           0510005100
+JONESBURG RD                                                0510005100
+JUDITH ANN DR                                               0510005100
+JUDSON PL                                                   0510105101
+JULIANNE PL                                                 0510105101
+KAYAK LN                                                    0510105101
+KEACH DR                                                    0510005100
+KELLY CT                                                    0510105101
+KENNEDY CIR                                                 0510105101
+KENNEDY CIRCLE EXT                                          0510105101
+KENTUCKY AVE                                                0510105101
+KERRY LN                                                    0510105101
+KEY WAY SPUR                                                0510005100
+KEYWAY DR                                                   0510005100
+KIAWAH DR                                                   0510105101
+KILLICRANKIE DR                                             0510105101
+KIMSEY LN                                                   0510005100
+KIMSEY LN                                                   0510105101
+KINGS MILL RD                                               0510005100
+KINGSWAY CT                                                 0510105101
+KINMONT WAY                                                 0510105101
+KLEYMEYER ST                                                0510105101
+KLONDIKE RD                                                 0510005100
+KLUTEY AVE                                                  0510105101
+KLUTEY PARK PLAZA DR                                        0510105101
+KNOB LN                                                     0510105101
+KNOBLIC RD                                                  0510005100
+KNOBLIC RD                                                  0510405104
+KNOLL TOP LN                                                0510105101
+KONSLER DENTON RD                                           0510005100
+KRESGE DR                                                   0510105101
+KRIELS ALY                                                  0510105101
+KY1078 N                                                    0510005100
+KY1078 S                                                    0510005100
+KY1299                                                      0510005100
+KY136                                                       0510005100
+KY136                                                       0510105101
+KY136 E                                                     0510005100
+KY136 E                                                     0510105101
+KY136 W                                                     0510005100
+KY145                                                       0510005100
+KY145                                                       0510205102
+KY2084                                                      0510105101
+KY2084 W                                                    0510105101
+KY266                                                       0510005100
+KY266                                                       0510205102
+KY2668                                                      0510005100
+KY268                                                       0510005100
+KY2685                                                      0510005100
+KY283                                                       0510005100
+KY3344                                                      0510005100
+KY3522                                                      0510005100
+KY359                                                       0510005100
+KY416 E                                                     0510005100
+KY416 W                                                     0510005100
+KY416 W                                                     0510405104
+KY425                                                       0510005100
+KY425                                                       0510105101
+KY425 S                                                     0510005100
+KY811                                                       0510005100
+KYCONNECTOR                                                 0510005100
+LAKE DR                                                     0510105101
+LAKECREST RD                                                0510105101
+LAKEVIEW DR                                                 0510105101
+LAMBERT ST                                                  0510105101
+LAMONT LN                                                   0510105101
+LANDING MEADOWS DR                                          0510105101
+LARKSPUR CT                                                 0510105101
+LARKVIEW DR                                                 0510105101
+LARUE RD                                                    0510005100
+LARUE RD                                                    0510105101
+LAUREL TRL                                                  0510005100
+LAUREN CT                                                   0510005100
+LAWNDALE APARTMENTS                                         0510105101
+LEE DR                                                      0510105101
+LETCHER ST                                                  0510105101
+LETT CT                                                     0510105101
+LETT ST                                                     0510105101
+LEXINGTON DR                                                0510105101
+LIEBER ST                                                   0510105101
+LINCOLN AVE                                                 0510105101
+LOCK ST                                                     0510005100
+LOCUST DR                                                   0510105101
+LOCUST ST                                                   0510005100
+LOD POWELL RD                                               0510005100
+LOEB ST                                                     0510105101
+LOVERS LN                                                   0510005100
+LOWER DELAWARE RD                                           0510005100
+LST DR                                                      0510005100
+MACLERIE ST                                                 0510105101
+MADISON CT                                                  0510105101
+MADISON ST                                                  0510105101
+MAGENZER LN                                                 0510005100
+MAGNOLIA MNR                                                0510105101
+MAGNOLIA ST                                                 0510105101
+MAIN ST                                                     0510005100
+MALLARD LN                                                  0510005100
+MANOR DR                                                    0510105101
+MAPLE ST                                                    0510005100
+MAPLE ST                                                    0510105101
+MARCH LN                                                    0510005100
+MARIAH DR                                                   0510005100
+MARIAN POINTE                                               0510105101
+MARK DR                                                     0510105101
+MARKET ST                                                   0510105101
+MARLOW CT                                                   0510105101
+MARLYN LN                                                   0510005100
+MARSHALL DR                                                 0510105101
+MARTIN AND MARTIN RD                                        0510005100
+MARTIN DR                                                   0510105101
+MARYWOOD DR                                                 0510105101
+MASON LANDING RD                                            0510005100
+MATTINGLY DR                                                0510105101
+MAYER ST                                                    0510105101
+MCDONALD LANDING RD                                         0510005100
+MCDONALD OHIO RIVER RD                                      0510005100
+MCGUIRE LN                                                  0510105101
+MEADOW LN                                                   0510005100
+MEADOW ST                                                   0510105101
+MEADOWLARK LN                                               0510105101
+MEAHL CATES RD                                              0510005100
+MELODY LN                                                   0510005100
+MELS LN                                                     0510105101
+MELTON RD                                                   0510005100
+MELWOOD DR                                                  0510105101
+MELWOOD PL                                                  0510105101
+MERRITT DR                                                  0510105101
+METHODIST HOSPITAL                                          0510105101
+MICHAEL DR                                                  0510005100
+MIDDLE DELAWARE RD                                          0510005100
+MIDWAY RD                                                   0510005100
+MILL POND RD                                                0510005100
+MILL ST                                                     0510005100
+MILL ST                                                     0510105101
+MILLCREEK DR                                                0510105101
+MIMOSA DR                                                   0510105101
+MOORE ST                                                    0510005100
+MORNING DOVE CT                                             0510105101
+MORNINGSIDE DR                                              0510005100
+MORRIS DR                                                   0510005100
+MOSS MOSS RD                                                0510005100
+MOSSY TREE LN                                               0510105101
+MOUND RIDGE RD                                              0510005100
+MT VERNON UNIONTOWN RD                                      0510005100
+MUDD RD                                                     0510005100
+MULBERRY LN                                                 0510005100
+MULLINS LN                                                  0510005100
+MURPHY RD                                                   0510005100
+MYRENE DR                                                   0510105101
+McCLAIN AVE                                                 0510105101
+McCLURE AVE                                                 0510105101
+N ADAMS ST                                                  0510105101
+N ALVASIA ST                                                0510105101
+N ALVES ST                                                  0510105101
+N ARLINGTON DR                                              0510105101
+N BAKERS STORE RD                                           0510005100
+N BOB O LINK RUN                                            0510105101
+N DOWNEY DR                                                 0510105101
+N ELM ST                                                    0510105101
+N EUTOPIA RD                                                0510005100
+N FENCE ROW LN                                              0510105101
+N FOREST OAK                                                0510005100
+N GARDEN MILE RD                                            0510005100
+N GARDEN MILE RD                                            0510105101
+N GARDENGATE DR                                             0510105101
+N GREEN ST                                                  0510105101
+N HOLLOWAY ST                                               0510105101
+N INGRAM ST                                                 0510105101
+N JULIA ST                                                  0510105101
+N MAIN ST                                                   0510105101
+N MARCH LN                                                  0510005100
+N MCKINLEY ST                                               0510105101
+N NEGLEY RD                                                 0510005100
+N PARTRIDGE RUN                                             0510105101
+N PLEASANT VALLEY RD                                        0510005100
+N QUAIL RUN                                                 0510105101
+N RIDGE PATH                                                0510105101
+N TRIGG HOOPER RD                                           0510005100
+N WATER ST                                                  0510105101
+N WOOD ST                                                   0510005100
+NEELY LN                                                    0510005100
+NEW CASH CREEK RD                                           0510005100
+NEW CHASE RD                                                0510005100
+NEW HOPE LN                                                 0510005100
+NEW RD                                                      0510005100
+NEWMAN ST                                                   0510005100
+NONE KNOWN                                                  0510005100
+NONE KNOWN                                                  0510105101
+NORRIS LN                                                   0510105101
+NORTHERN STAR WAY                                           0510005100
+NORTHPARK DR                                                0510105101
+O ROYSTER RD                                                0510005100
+OAK AVE                                                     0510105101
+OAK HURST                                                   0510005100
+OAKCREST CT                                                 0510105101
+OAKCREST DR                                                 0510105101
+OAKLAND RD                                                  0510005100
+OAKWAY ST                                                   0510105101
+OBYRNE ST                                                   0510105101
+OGRADY ST                                                   0510005100
+OHIO DR                                                     0510005100
+OHIO RIVER NO1 RD                                           0510005100
+OHIO RIVER NO2 RD                                           0510005100
+OLD BARN CT                                                 0510105101
+OLD CORYDON GENEVA RD                                       0510005100
+OLD CORYDON RD                                              0510005100
+OLD CURDSVILLE RD                                           0510005100
+OLD GENEVA RD                                               0510005100
+OLD HENDERSON CORYDON RD                                    0510005100
+OLD HENDERSON EVANSVILLE RD                                 0510005100
+OLD HENDERSON SPOTTSVILLE RD                                0510005100
+OLD KNOBLICK RD                                             0510005100
+OLD KY 416                                                  0510005100
+OLD KY 416 SPUR                                             0510005100
+OLD KY 54                                                   0510005100
+OLD MADISONVILLE RD                                         0510005100
+OLD MADISONVILLE RD                                         0510105101
+OLD MADISONVILLE SPUR                                       0510005100
+OLD MADISONVILLE SPUR RD                                    0510005100
+OLD ORCHARD LN                                              0510105101
+OLD POSEY BALL SPUR                                         0510005100
+OLD RIVER RD                                                0510005100
+OLD ROBARDS RD                                              0510005100
+OLD TOM SMITH RD                                            0510005100
+OLD US 60                                                   0510005100
+OLD US 60 E                                                 0510005100
+OLD US 60 LOOP NO1 SPUR                                     0510005100
+OLD US 60 NO2 LOOP                                          0510005100
+ONAN LN                                                     0510005100
+ONIONVILLE RD                                               0510005100
+ONIONVILLE SPUR                                             0510005100
+ORIOLE DR                                                   0510105101
+OSAGE DR                                                    0510105101
+P T LATTA DR                                                0510005100
+PADDOCK CT                                                  0510105101
+PALMER CIR                                                  0510105101
+PARAGON DR                                                  0510105101
+PARK DR                                                     0510105101
+PARK WAY DR                                                 0510105101
+PARKSIDE DR                                                 0510005100
+PARKWOOD CT                                                 0510005100
+PAUL DR                                                     0510105101
+PAUL HAYNES RD                                              0510005100
+PEACH ORCHARD RD                                            0510005100
+PEACHTREE DR                                                0510005100
+PEBBLE CREEK DR                                             0510105101
+PEDLER McDONALD RD                                          0510005100
+PEGGY DR                                                    0510105101
+PENNELL ST                                                  0510105101
+PENTECOST ST                                                0510205102
+PETERS LONDON RD                                            0510005100
+PETERS RD                                                   0510005100
+PETERSBURG RD                                               0510005100
+PHILLIP CT                                                  0510105101
+PHILLIPS LN                                                 0510005100
+PINES DR                                                    0510105101
+PIONEER PASS                                                0510105101
+PIPER LN                                                    0510105101
+PLEASANT HILL RD                                            0510005100
+PLUM ST                                                     0510105101
+POND ST                                                     0510105101
+POPE ST                                                     0510105101
+POPLAR AVE                                                  0510105101
+PORT PLZ                                                    0510005100
+PORTER DR                                                   0510105101
+POSEY BALL RD                                               0510005100
+POSEY BALL SPUR                                             0510005100
+POSEY CHAPEL RD                                             0510005100
+POWELL ST                                                   0510005100
+POWELL ST                                                   0510105101
+POWELL ST                                                   0510205102
+POWELL TAPP RD                                              0510005100
+PRIEST ST                                                   0510105101
+PRINGLE ST                                                  0510105101
+PRITCHETT CROOKS RD                                         0510005100
+PRITCHETT ST                                                0510205102
+PRUITT AGNEW RD                                             0510005100
+QUINNS LANDING RD                                           0510005100
+RABBIT RUN                                                  0510105101
+RACETRACK RD                                                0510105101
+RAGAN AVE                                                   0510105101
+RAILROAD ST                                                 0510005100
+RAILROAD ST                                                 0510405104
+RANCH RD                                                    0510005100
+RANKIN AVE                                                  0510105101
+RASHAD CT                                                   0510105101
+RAY ST                                                      0510105101
+REDBIRD LN                                                  0510105101
+REDBUD LN                                                   0510105101
+REED ALY                                                    0510005100
+REED BLUFF CITY RD                                          0510005100
+REED OWENSBORO RD                                           0510005100
+REID DR                                                     0510105101
+RESINERG RD                                                 0510005100
+RETTIG RD                                                   0510105101
+RICE LN                                                     0510105101
+RICHARDSON AVE                                              0510105101
+RIDGELANE DR                                                0510005100
+RIDGEWOOD RD                                                0510005100
+RIVERDALE CT                                                0510105101
+RIVERPORT RD                                                0510005100
+RIVERVIEW DR                                                0510105101
+ROB ROY RD                                                  0510105101
+ROBARDS BUSBY STATION RD                                    0510005100
+ROBARDS BUSBY STATION RD                                    0510405104
+ROBARDS POOLE RD                                            0510005100
+ROBARDS POOLE SPUR                                          0510005100
+ROBERTS RD                                                  0510005100
+ROBIN RD                                                    0510105101
+ROCKHOUSE RD                                                0510405104
+ROCKS RD                                                    0510005100
+ROCKS RD                                                    0510105101
+ROONEY DR                                                   0510105101
+ROOSEVELT ST                                                0510105101
+ROSEWOOD CV                                                 0510105101
+RUCKER NO2 RD                                               0510005100
+RUCKER ROAD NO1                                             0510005100
+RUCKER ROAD NO2                                             0510005100
+RUDY AVE                                                    0510105101
+RUDY RD                                                     0510005100
+RULLION GREEN WAY                                           0510105101
+RUNNING CREEK CT                                            0510105101
+RUSSELL DR                                                  0510105101
+S ADAMS ST                                                  0510105101
+S ALVASIA ST                                                0510105101
+S ALVES ST                                                  0510105101
+S ARLINGTON DR                                              0510105101
+S BAKERS STORE RD                                           0510005100
+S BOB O LINK RUN                                            0510105101
+S DOWNEY DR                                                 0510105101
+S DYLAN PASS                                                0510105101
+S ELM PL                                                    0510105101
+S ELM ST                                                    0510105101
+S FENCE ROW LN                                              0510105101
+S FOREST OAK                                                0510005100
+S GARDENGATE DR                                             0510105101
+S GREEN ST                                                  0510105101
+S HOLLOWAY ST                                               0510105101
+S INGRAM ST                                                 0510105101
+S JULIA ST                                                  0510105101
+S MAIN ST                                                   0510105101
+S MCKINLEY ST                                               0510105101
+S NEGLEY RD                                                 0510005100
+S PARKWAY DR                                                0510105101
+S PARTRIDGE RUN                                             0510105101
+S PLEASANT VALLEY RD                                        0510005100
+S QUAIL RUN                                                 0510105101
+S W N ROYSTER RD                                            0510005100
+S WATER ST                                                  0510105101
+S WOOD ST                                                   0510005100
+SADDLEBROOK DR                                              0510105101
+SADDLEBROOK DRIVE NO2                                       0510105101
+SADDLEBROOK DRIVE NO3                                       0510105101
+SADDLEBROOK DRIVE NO4                                       0510105101
+SADDLEBROOK DRIVE NO5                                       0510105101
+SADDLEBROOK DRIVE NO6                                       0510105101
+SAND CASTLE DR                                              0510105101
+SAND LN                                                     0510105101
+SANDEFUR DR                                                 0510105101
+SAUER LN                                                    0510005100
+SCHOOL ST                                                   0510005100
+SCHUETTE LN                                                 0510005100
+SEDGEFIELD DR                                               0510005100
+SEMINARY ST                                                 0510405104
+SHADY HOLLOW DR                                             0510005100
+SHAWNEE LN                                                  0510005100
+SHELBY ST                                                   0510105101
+SHENANDOAH PL                                               0510105101
+SHORT 7TH ST                                                0510105101
+SHORT ST                                                    0510005100
+SINCLAIR AVE                                                0510105101
+SINGLETREE DR                                               0510005100
+SIOUX LN                                                    0510105101
+SMITH AVE                                                   0510105101
+SMITH CT                                                    0510105101
+SMITH DENTON RD                                             0510005100
+SMITH MILLS CEMETERY RD                                     0510005100
+SMITH STAPLES RD                                            0510005100
+SMOKERISE LN                                                0510105101
+SOAPER CROWDER RD                                           0510005100
+SOUTHSIDE DR                                                0510105101
+SPENCER THORNSBERRY RD                                      0510005100
+SPORTSMANS CLUB RD                                          0510005100
+SPOTTSVILLE CAMP RD                                         0510005100
+SPRING GARDEN RD                                            0510105101
+SPRING ST                                                   0510005100
+SPRINGER DR                                                 0510105101
+SPRINGER RD                                                 0510105101
+SPRINGFIELD DR                                              0510005100
+SPRINGWOOD DR                                               0510105101
+SPRUCE DR                                                   0510105101
+ST JAMES AVE                                                0510005100
+ST JOHNS CHURCH RD                                          0510005100
+ST OLAF CIR                                                 0510005100
+ST PATRICK DR                                               0510105101
+ST PAUL MISSIONARY CHURCH RD                                0510005100
+STADIUM DR                                                  0510105101
+STAPP DR                                                    0510105101
+STAR SCHOOL RD                                              0510005100
+STARLIGHT DR                                                0510105101
+STATE ST                                                    0510005100
+STEPPING STONE LN                                           0510105101
+STEWART AVE                                                 0510105101
+STILYARD AVE                                                0510005100
+STONE MCCLELLEN RD                                          0510005100
+STONEGATE DR                                                0510105101
+STONEGATE NO1 DR                                            0510105101
+STONEGATE NO2 DR                                            0510105101
+STRAIGHT LINE RD                                            0510005100
+STRATMAN RD                                                 0510005100
+STRAWBERRY LN                                               0510005100
+SULPHUR SPRINGS RD                                          0510005100
+SUMMER HILL LN                                              0510105101
+SUMMIT DR                                                   0510105101
+SUNRISE CT                                                  0510105101
+SUNSET LN                                                   0510005100
+SUNSET LN                                                   0510105101
+SUREWAY DR                                                  0510105101
+SUSAN'S CT                                                  0510005100
+SUTTON DR                                                   0510105101
+SUZANNE DR                                                  0510105101
+SWANN LN                                                    0510005100
+SYCAMORE CV                                                 0510005100
+TANDY LN                                                    0510005100
+TANGLEWOOD DR                                               0510005100
+TAPP DUNCAN RD                                              0510005100
+TARANSAY DR                                                 0510105101
+TARN CT                                                     0510105101
+TARTAN DR                                                   0510105101
+TATE DR                                                     0510105101
+TAVISTOCK AVE                                               0510105101
+TAYLOR DR                                                   0510105101
+TEAL LN                                                     0510005100
+TERMINAL DR                                                 0510105101
+TERRACE CT                                                  0510105101
+THOMASON RD                                                 0510005100
+THOMPSON ST                                                 0510105101
+THORN RIDGE DR                                              0510005100
+THORNRIDGE DR                                               0510005100
+THORNSBERRY LN                                              0510005100
+THORNTON PL                                                 0510105101
+TILLMAN BETHEL RD                                           0510005100
+TILLOTSON RD                                                0510005100
+TIMBERLANE CT W                                             0510005100
+TIMBERLANE DR                                               0510005100
+TIMBERS DR                                                  0510105101
+TIPPECANOE TRL                                              0510105101
+TOM SMITH RD                                                0510005100
+TOWLES ST                                                   0510105101
+TOY ANTHOSTON RD                                            0510005100
+TRACE CHAIN RD                                              0510005100
+TRAIL DR                                                    0510105101
+TRAM RD                                                     0510005100
+TREE LINE RD                                                0510105101
+TRIGG HOOPER RD                                             0510005100
+TRIGG RD                                                    0510005100
+TRIGG ROAD SPUR                                             0510005100
+TRIGG TURNER RD                                             0510005100
+TRUMAN ST                                                   0510105101
+TSCHARNER RD                                                0510005100
+TUPELO CT                                                   0510005100
+TURNAGAIN DR                                                0510105101
+TURNER AVE                                                  0510105101
+UPPER DELAWARE RD                                           0510005100
+US41                                                        0510005100
+US41                                                        0510105101
+US41 ALT                                                    0510005100
+US41 ALT                                                    0510105101
+US41 N                                                      0510005100
+US41 N                                                      0510105101
+US41 S                                                      0510005100
+US41 S                                                      0510105101
+US41 S                                                      0510405104
+US60                                                        0510005100
+US60                                                        0510105101
+US60                                                        0510205102
+US60 W                                                      0510205102
+UTLEY UTLEY RD                                              0510005100
+VALLEY ST                                                   0510005100
+VAN WYK RD                                                  0510105101
+VANGUARD AVE                                                0510105101
+VAYDEN ST                                                   0510205102
+VILLA DR                                                    0510105101
+VILLAGE BROOK DR                                            0510105101
+VILLAGE CT                                                  0510105101
+VILLAGE DR                                                  0510105101
+VINE ST                                                     0510005100
+VINE ST                                                     0510105101
+VINE ST                                                     0510405104
+W DAFFODIL CT                                               0510105101
+W FOX HOLLOW RUN                                            0510105101
+W FRANKLIN RD                                               0510005100
+W GRANT ST                                                  0510105101
+W H NEGLEY RD                                               0510005100
+W KNIGHT CT                                                 0510105101
+W MAIN ST                                                   0510105101
+W N ROYSTER RD                                              0510005100
+W PIKE'S LANDING RD                                         0510005100
+W SMOKERISE LN                                              0510105101
+W T ROYSTER RD                                              0510005100
+WALKER DR                                                   0510105101
+WALLENMEYER RD                                              0510005100
+WALNUT LN                                                   0510105101
+WALTER RD                                                   0510005100
+WASHINGTON ST                                               0510105101
+WATER TANK PL                                               0510105101
+WATHEN LN                                                   0510005100
+WATHEN LN                                                   0510105101
+WATSON LN                                                   0510105101
+WEDDING LN                                                  0510005100
+WEDGEWOOD DR                                                0510105101
+WELDON LN                                                   0510005100
+WENTWORTH DR                                                0510105101
+WESLEY DR                                                   0510105101
+WESTBURY CT                                                 0510005100
+WESTFIELD LN                                                0510105101
+WESTWOOD CT                                                 0510105101
+WHEELER RD                                                  0510005100
+WHETTSTONE DR                                               0510105101
+WHIMSTEAD RD                                                0510005100
+WHITELICK RD                                                0510005100
+WHITEOAK CT                                                 0510105101
+WIGEON LN                                                   0510005100
+WILDERNESS DR                                               0510105101
+WILDWOOD CREEK LN                                           0510105101
+WILLETT LN                                                  0510005100
+WILLETT ST                                                  0510205102
+WILLIAM AND MARY CT                                         0510105101
+WILLIAMS KEENE RD                                           0510005100
+WILLOW DR                                                   0510105101
+WILSON DR                                                   0510105101
+WILSON LN                                                   0510205102
+WILSON ST                                                   0510005100
+WILSON STATION RD                                           0510005100
+WINCHESTER RD                                               0510005100
+WINDING TRAIL DR                                            0510005100
+WINSTEAD AVE                                                0510105101
+WOLF HILLS BLVD                                             0510105101
+WOLF HILLS RD                                               0510005100
+WOOD DR                                                     0510105101
+WOODFIELD CT                                                0510105101
+WOODLAND APARTMENT DRIVE NO1                                0510105101
+WOODLAND APARTMENT DRIVE NO2                                0510105101
+WOODLAND APARTMENT DRIVE NO3                                0510105101
+WOODLAND CT                                                 0510005100
+WOODLAND DR                                                 0510105101
+WOODSPOINT                                                  0510005100
+WOODSPOINT DR                                               0510005100
+WOODSPOINT DR                                               0510105101
+WRIGHT ST                                                   0510105101
+YEAMAN AVE                                                  0510105101
+YMCA DR                                                     0510105101
+YOUNG ST                                                    0510105101
+ZEHNER LN                                                   0510105101
+ZION RD                                                     0510005100
+ZION RD                                                     0510105101

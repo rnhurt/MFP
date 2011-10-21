@@ -1,0 +1,712 @@
+14TH ST                                                     0700307003
+15TH ST                                                     0700307003
+1ST ST                                                      0700007000
+1ST ST                                                      0701107011
+2ND ST                                                      0701107011
+3RD ST                                                      0701107011
+8TH ST                                                      0700307003
+ACCESS ROAD NO4                                             0700007000
+ADAM RD                                                     0700007000
+ADMINISTRATION DR                                           0700007000
+AIRLINE RD                                                  0700007000
+ALDERDICE LN                                                0700007000
+ALLEY                                                       0700507005
+ALLEY LN                                                    0700007000
+ALLEY LN                                                    0700507005
+ALSOBROOK CEMETERY RD                                       0700007000
+ANGIE DR                                                    0700007000
+ANITA LN                                                    0700007000
+ANTLER ALY                                                  0700007000
+ARETTA CIR                                                  0700007000
+ARMSTRONG RD                                                0700007000
+ASHLEY CIR                                                  0700007000
+AUGUSTA CT                                                  0700007000
+AUTUMN RIDGE                                                0700007000
+B R T RD                                                    0700007000
+B R T SPUR                                                  0700007000
+BABB LN                                                     0700507005
+BABB MINE RD                                                0700007000
+BACK ST                                                     0700007000
+BADGETT DR                                                  0700007000
+BADGETT DR                                                  0700307003
+BADGETT RD                                                  0700007000
+BAKER RD                                                    0700007000
+BALL PARK LOOP                                              0700007000
+BARKLEY DAM BOAT RAMP RD                                    0700307003
+BARKLEY DAM OVERLOOK RD                                     0700007000
+BARKLEY DAM RD                                              0700007000
+BARKLEY DAM RD                                              0700307003
+BARKLEY DR                                                  0700307003
+BARNETT CHAPEL RD                                           0700007000
+BARNETT RD                                                  0700007000
+BAYOU CREEK RD                                              0700007000
+BAYSIDE DR                                                  0700307003
+BAYVIEW PT                                                  0700307003
+BEAR RD                                                     0700007000
+BEECHMONT ST                                                0700507005
+BELCHER RD                                                  0700007000
+BELL ST                                                     0700007000
+BELT SUITS RD                                               0700007000
+BENNETT RD                                                  0700007000
+BERRY ST                                                    0700507005
+BERTHA ST                                                   0700507005
+BETHEL CEMETERY RD                                          0700007000
+BETHEL CEMETERY ROAD NO2                                    0700007000
+BETHEL HILL RD                                              0700007000
+BID SOUTHERN RD                                             0700007000
+BIRDSVILLE BOAT RAMP                                        0700007000
+BIRDSVILLE CAMPGROUND                                       0700007000
+BIRDSVILLE RD                                               0700007000
+BIRDSVILLE SPUR RD                                          0700007000
+BISHOP RD                                                   0700007000
+BIZZELL BLUFF RD                                            0700007000
+BLACK BOTTOM RD                                             0700007000
+BLACK RD                                                    0700007000
+BLACK ST                                                    0700007000
+BLANKENSHIP RD                                              0700007000
+BLOODWORTH RD                                               0700007000
+BLUE HERON DR                                               0700307003
+BLUE RIDGE RD                                               0700007000
+BLUFF RD                                                    0700007000
+BOHANON SPIVA RD                                            0700007000
+BONANZA RD                                                  0700007000
+BRANDON DR                                                  0700007000
+BRAXTON BND                                                 0700007000
+BRAXTON CT                                                  0700007000
+BRIDGE RD                                                   0700007000
+BRUMMITTE RD                                                0700007000
+BRYAN RD                                                    0700007000
+BUCHANON LN                                                 0700307003
+BUFORD RD                                                   0700007000
+BUGHER DR                                                   0700007000
+BURD LN                                                     0700007000
+BURNA CHURCH RD                                             0700007000
+BUTLER LN                                                   0700507005
+BUTLER RD                                                   0700007000
+CALHOUN DR                                                  0700007000
+CAMPGROUND RD                                               0700007000
+CAMPGROUND RD                                               0700307003
+CARLA DR                                                    0700007000
+CARROLL LN                                                  0700007000
+CARROLL WALKER RD                                           0700007000
+CARRSVILLE RD                                               0700007000
+CASEY LN                                                    0700007000
+CAVE SPRINGS RD                                             0700007000
+CAVE SPRINGS RD                                             0701107011
+CAYNE RD                                                    0700007000
+CECIL LN                                                    0700007000
+CEDAR GROVE LOOKOUT TOWER RD                                0700007000
+CEDAR GROVE RD                                              0700007000
+CEDAR LN                                                    0700107001
+CEDAR RIDGE RD                                              0700007000
+CEMETERY ST                                                 0700107001
+CENTER ST                                                   0700007000
+CENTRAL RD                                                  0700007000
+CHANDLER CT                                                 0700307003
+CHANEY ST                                                   0700007000
+CHAPPELL CEMETERY RD                                        0700007000
+CHARLENE ALY                                                0700007000
+CHARLOTTE ST                                                0700507005
+CHELSEA DR                                                  0700007000
+CHEROKEE DR                                                 0700007000
+CHERRY ST                                                   0700007000
+CHERYL ST                                                   0700007000
+CHESTNUT LAKE RD                                            0700007000
+CHIPPS RD                                                   0700007000
+CHITTENDEN RD                                               0700007000
+CHURCH ST                                                   0700007000
+CHURCH ST                                                   0701107011
+CINDY DR                                                    0700007000
+CLARK CEMETERY RD                                           0700007000
+CLARKS FERRY RD                                             0700007000
+CLARKS FERRY ROAD EXT                                       0700007000
+CLARKS FERRY ROAD SPUR                                      0700007000
+CLAUDE JENNINGS RD                                          0700007000
+CLUBHOUSE DR                                                0700007000
+COBB RD                                                     0700007000
+CODY COOPER RD                                              0700007000
+COFFER LN                                                   0700007000
+COLIN RD                                                    0700007000
+COLLEGE ST                                                  0700507005
+COLLINS ST                                                  0700007000
+COMPLEX DR                                                  0700007000
+CONANT LN                                                   0700107001
+CONDRA RD                                                   0700007000
+CONGRESS ALY                                                0700107001
+CONNOR DR                                                   0700007000
+COOK SPRING RD                                              0700007000
+COON CHAPEL RD                                              0700007000
+CORINTH CEMETERY RD                                         0700007000
+CORINTH CHURCH RD                                           0700007000
+CORPS ACCESS ROAD NO2                                       0700307003
+COSBY ST                                                    0700007000
+COTHRAN CEMETERY RD                                         0700007000
+COTHRON RD                                                  0700007000
+COUNTRY RD                                                  0700007000
+COURT ST                                                    0700107001
+COURT ST                                                    0700507005
+COUSINS RD                                                  0700007000
+COWEN RD                                                    0700007000
+COYOTE DR                                                   0700007000
+CRAWFORD LANE SPUR                                          0700007000
+CRAWFORD LN                                                 0700007000
+CRAWFORD LN                                                 0700507005
+CROFT DR                                                    0700507005
+CROFT ST                                                    0700007000
+CROUCH RD                                                   0700007000
+CROUCH STORE RD                                             0700007000
+CROWLEY ROBINSON CEMETERY RD                                0700007000
+CRUCE RD                                                    0700007000
+CRUTCHER RD                                                 0700007000
+CRYSTAL DR                                                  0700007000
+CULVER LN                                                   0700007000
+CUMBERLAND LN                                               0700007000
+CURNEL RD                                                   0700007000
+CUSACK RD                                                   0700007000
+CUTOFF RD                                                   0700007000
+CYPRESS CREEK RD                                            0700007000
+DANIEL CEMETERY RD                                          0700007000
+DAVENPORT RD                                                0700007000
+DAVID LN                                                    0700007000
+DAVIDSON RD                                                 0700007000
+DAYLIGHT DR                                                 0700007000
+DEANNE DR                                                   0700007000
+DEBBIE DR                                                   0700007000
+DEER LAKES DR                                               0700507005
+DEFEW RD                                                    0700007000
+DELTA DR                                                    0700007000
+DENDY RD                                                    0700007000
+DENLY RD                                                    0700307003
+DENLY ROAD LOOP                                             0700307003
+DENTON DR                                                   0700007000
+DEPOT RD                                                    0700007000
+DESERT STORM DR                                             0700007000
+DEVINE RD                                                   0700007000
+DICKERSON RD                                                0700007000
+DITNEY RD                                                   0700007000
+DIVISION ST                                                 0700007000
+DIXON RD                                                    0700307003
+DOBSON BLUFF RD                                             0700007000
+DODDS TAYLOR RD                                             0700007000
+DOE RUN                                                     0700007000
+DOOM RD                                                     0700007000
+DORAL CT                                                    0700007000
+DOSSEY RD                                                   0700007000
+DOVER RD                                                    0700007000
+DOVER RD                                                    0700307003
+DOVER ST                                                    0700307003
+DRISKILL CEMETERY RD                                        0700007000
+DRISKILL RD                                                 0700007000
+DRY BRIDGE RD                                               0700007000
+DULEY RD                                                    0700007000
+DUNLAP RD                                                   0700007000
+DUNNING RD                                                  0700007000
+DUNNING ST                                                  0700007000
+DYER HILL CEMETERY RD                                       0700007000
+DYER HILL MINE RD                                           0700007000
+E ADAIR ST                                                  0700107001
+E CHARLOTTE ST                                              0700107001
+E COMMERCE ST                                               0700307003
+E CUMBERLAND AVE                                            0700307003
+E LION ST                                                   0700507005
+E MAIN ST                                                   0700507005
+E MISSISSIPPI AVE                                           0700307003
+E TENNESSEE AVE                                             0700307003
+EASTERDAY RD                                                0700007000
+ECKLES LN                                                   0700007000
+EDMONDS CEMETERY RD                                         0700007000
+EDMONDS LN                                                  0700007000
+EISON DR                                                    0700007000
+ELIZABETH ST                                                0700007000
+ELMWOOD DR                                                  0700007000
+EOC DR                                                      0700007000
+ERWIN CIR                                                   0700007000
+EUGENE MILLER RD                                            0700007000
+EVANS CEMETERY RD                                           0700007000
+EVELYN RD                                                   0700007000
+EVELYN ST                                                   0700507005
+FARIS SPRING RD                                             0700007000
+FARRIS ST                                                   0700507005
+FAULKNER LN                                                 0700007000
+FAWN RD                                                     0700007000
+FAYE DR                                                     0700007000
+FELLOWSHIP RD                                               0700007000
+FERGUSON CEMETERY RD                                        0700007000
+FERREN RD                                                   0700007000
+FLEET ST                                                    0700007000
+FLEET ST                                                    0701107011
+FLEMING ST                                                  0700007000
+FOLEY RD                                                    0700007000
+FORREST RD                                                  0700007000
+FOWLER RD                                                   0700007000
+FRANK MAY RD                                                0700007000
+FRED TRACY RD                                               0700007000
+FULKS LN                                                    0700007000
+FURNACE POND RD                                             0700007000
+GAINES RD                                                   0700007000
+GARRETT RD                                                  0700007000
+GASS RD                                                     0700007000
+GENE DR                                                     0700007000
+GENEVA LN                                                   0700007000
+GENTRY RD                                                   0700007000
+GEORGE LN                                                   0700007000
+GEORGE ST                                                   0700507005
+GILLAHAN RD                                                 0700007000
+GILLUM RD                                                   0700007000
+GLENHART DR                                                 0700507005
+GLENN ABBEY RD                                              0700007000
+GLENN DR                                                    0700507005
+GLENS VW                                                    0700007000
+GOLCONDA FERRY RD                                           0700007000
+GOLDEN MEADOW DR                                            0700007000
+GORDON RD                                                   0700007000
+GRAVEL LN                                                   0700007000
+GREEN HILLL RD                                              0700007000
+GREEN ST                                                    0700507005
+GREEN THUMB RD                                              0700007000
+GREEN TURTLE BAY DR                                         0700307003
+GREENHAVEN DR                                               0700007000
+GREENWOOD RD                                                0700007000
+GREGORY LN                                                  0700007000
+GRISSOM LN                                                  0700007000
+GROVES CHAPEL CEMETERY RD                                   0700007000
+GUESS RD                                                    0700007000
+GUILL LN                                                    0700007000
+GULL HARBOR CV                                              0700307003
+GULL HARBOR LN                                              0700307003
+H L C LN                                                    0700007000
+HADDOX FERRY RD                                             0700007000
+HAGAN DR                                                    0700007000
+HALE ST                                                     0700107001
+HALL RD                                                     0700007000
+HAMPTON CEMETERY RD                                         0700007000
+HAMPTON RD                                                  0700007000
+HARBORVIEW DR                                               0700307003
+HARDIN RD                                                   0700007000
+HARGROVE LN                                                 0700007000
+HARP RD                                                     0700007000
+HARPER DR                                                   0700007000
+HARRIS CIR                                                  0700507005
+HARRIS RD                                                   0700007000
+HARRIS ST                                                   0700007000
+HAYNES PARK RD                                              0700007000
+HAZEL DEMERY RD                                             0700007000
+HEAD RD                                                     0700007000
+HEATER CEMETERY RD                                          0700007000
+HEATER STORE RD                                             0700007000
+HEATHER LN                                                  0700007000
+HELTON LN                                                   0700007000
+HENRY RD                                                    0700007000
+HENSON RD                                                   0700007000
+HICKORY CREEK RD                                            0700007000
+HICKS LN                                                    0700007000
+HIGDON RD                                                   0700007000
+HIGHLAND ST                                                 0700507005
+HILL DR                                                     0700007000
+HILL GROVE RD                                               0700007000
+HILL RD                                                     0700007000
+HILLCREST DR                                                0700007000
+HILLTOP DR                                                  0700007000
+HODGE LANDING RD                                            0700007000
+HODGE RD                                                    0700007000
+HOLLAND RD                                                  0700007000
+HOLLEY RD                                                   0700007000
+HOLLMAND RD                                                 0700007000
+HOOK DR                                                     0700507005
+HOPEWELL CEMETERY RD                                        0700007000
+HOPKINS AVE                                                 0700007000
+HORNSBY LN                                                  0700007000
+HOSPITAL DR                                                 0700507005
+HOWARD LN                                                   0700507005
+HUBBARD LN                                                  0700007000
+HUGHES RD                                                   0700007000
+HUNTER DR                                                   0700007000
+HUNTER LN                                                   0700007000
+HURLEY RD                                                   0700007000
+HURST HAVEN DR                                              0700307003
+I24 E                                                       0700007000
+I24 E EXIT31 CROSSOVER KY453                                0700007000
+I24 E EXIT31 OFF RAMP TO KY453                              0700007000
+I24 E EXIT31 ON RAMP FROM KY453                             0700007000
+I24 TURN AROUND33 RAMP                                      0700007000
+I24 W                                                       0700007000
+I24 W EXIT31 CROSSOVER KY453                                0700007000
+I24 W EXIT31 OFF RAMP TO KY453                              0700007000
+I24 W EXIT31 ON RAMP FROM KY453                             0700007000
+IRENE DR                                                    0700007000
+IRMA RD                                                     0700007000
+IUKA CEMETERY RD                                            0700007000
+IUKA RD                                                     0700007000
+J H OBRYAN AVE                                              0700007000
+J H OBRYAN AVE                                              0700307003
+J P DR                                                      0700007000
+J W LAKE RD                                                 0700007000
+JACK WALKER RD                                              0700007000
+JACOB RD                                                    0700007000
+JAKE DUKES RD                                               0700007000
+JAMES DR                                                    0700007000
+JAMESON CEMETERY RD                                         0700007000
+JAMESON LN                                                  0700007000
+JASON LN                                                    0700007000
+JAYNA LN                                                    0700007000
+JENNIFER DR                                                 0700007000
+JENNINGS RD                                                 0700007000
+JERRY DR                                                    0700007000
+JETTY DR                                                    0700307003
+JEWELL DR                                                   0700007000
+JIM WILSON LOOP                                             0700007000
+JIMISON RD                                                  0700007000
+JOHNSON RD                                                  0700007000
+JOINER RD                                                   0700007000
+JONES SCHOOL RD                                             0700007000
+JUSTIN LN                                                   0700007000
+KARR RD                                                     0700007000
+KEITH DR                                                    0700007000
+KELLUM RD                                                   0700007000
+KELLY DR                                                    0700007000
+KEMP LN                                                     0700007000
+KEN DEL LOOP                                                0700007000
+KENNEDY SPRINGS RD                                          0700007000
+KENNEDY SPRINGS SPUR                                        0700007000
+KENNETH DR                                                  0700007000
+KENNY HARDIN LN                                             0700007000
+KENNY LN                                                    0700007000
+KEVIN DR                                                    0700007000
+KIRK RD                                                     0700007000
+KITCHEN RD                                                  0700007000
+KLONDIKE MINE RD                                            0700007000
+KOON RD                                                     0700007000
+KRISTY DR                                                   0700007000
+KY6005                                                      0700007000
+KYLE ST                                                     0700007000
+LAKEVIEW DR                                                 0700007000
+LANDRUM CEMETERY RD                                         0700007000
+LANTRIPP RD                                                 0700007000
+LAWRENCE RD                                                 0700007000
+LAWSON AVE                                                  0700307003
+LEDBETTER RD                                                0700007000
+LEEPER CEMETERY RD                                          0700007000
+LEMON LANDING RD                                            0700007000
+LEONA DR                                                    0700007000
+LEVEL ST                                                    0700107001
+LEWIS RD                                                    0700007000
+LICK SKILLET RD                                             0700007000
+LIGHTHOUSE CAY                                              0700307003
+LINDLEY LN                                                  0700507005
+LINDSEY RD                                                  0700007000
+LINLEY RD                                                   0700007000
+LITTLE LAKE VILLAGE DR                                      0700307003
+LITTLE MEXICO LN                                            0700007000
+LIVINGSTON WATER PLANT RD                                   0700007000
+LOCKHART RD                                                 0700007000
+LOCUST ST                                                   0700007000
+LOCUST ST                                                   0701107011
+LODGE RD                                                    0700007000
+LOIS LN                                                     0700007000
+LOLA CEMETERY RD                                            0700007000
+LOLA RD                                                     0700007000
+LOLA RD                                                     0700507005
+LONG DR                                                     0700007000
+LONG VIEW LN                                                0700007000
+LORETTA DR                                                  0700007000
+LOVE CHAPEL CEMETERY RD                                     0700007000
+LOVE RD                                                     0700007000
+LOVELESS CEMETERY RD                                        0700007000
+LOVETT CT                                                   0700007000
+MACON LN                                                    0700007000
+MADDOX LOOP                                                 0700007000
+MADDUX AVE                                                  0700507005
+MAIN ST                                                     0700007000
+MAIN ST                                                     0701107011
+MALLARD LN                                                  0700007000
+MANHART RD                                                  0700007000
+MANTLE ROCK RD                                              0700007000
+MAPLE LN                                                    0700007000
+MAPLE ST                                                    0700507005
+MARICA DR                                                   0700007000
+MARIE DR                                                    0700007000
+MARINA VILLAGE DR                                           0700307003
+MARINE DR                                                   0700007000
+MARSHA DR                                                   0700007000
+MARSHALL DR                                                 0700007000
+MARSHALL RD                                                 0700007000
+MARY ANN CIR                                                0700007000
+MARY DR                                                     0700007000
+MAXFIELD RD                                                 0700007000
+MAXWELL ST                                                  0700307003
+MAYHUGH RD                                                  0700007000
+MCCAIN DR                                                   0700007000
+MCCLURE RD                                                  0700007000
+MCCOLLUM LN                                                 0700007000
+MCDONALD RD                                                 0700007000
+MCGEE LN                                                    0700007000
+MCGREW RD                                                   0700007000
+MCGUIRE RD                                                  0700007000
+MCMURRAY RD                                                 0700007000
+MEADOWLARK LN                                               0700307003
+MEADOWS LN                                                  0700007000
+MEGAN DR                                                    0700007000
+MILL ST                                                     0700107001
+MILL ST                                                     0700507005
+MILLER CEMETERY RD                                          0700007000
+MILLER LN                                                   0700007000
+MITCHELL RD                                                 0700007000
+MLC LN                                                      0700007000
+MONTEVISTA DR                                               0700507005
+MOODIE ST                                                   0700307003
+MOORE RD                                                    0700007000
+MORRIS DR                                                   0700007000
+MORROW DR                                                   0700307003
+MOUNTAIN RD                                                 0700007000
+MOXLEY RD                                                   0700007000
+MT PISGAH CHURCH RD                                         0700007000
+MT ZION RD                                                  0700007000
+MUD DRAG LN                                                 0700007000
+MURPHY RD                                                   0700007000
+MYRICK FARM RD                                              0700007000
+N 12TH ST                                                   0700307003
+N CHURCH ST                                                 0700507005
+N HAYDEN AVE                                                0700007000
+N HAYDEN AVE                                                0700507005
+NANCY ST                                                    0700007000
+NASH DR                                                     0700007000
+NAUTICAL DR                                                 0700307003
+NELMS LN                                                    0700007000
+NELSON RD                                                   0700007000
+NEW GOOD HOPE CEMETERY RD                                   0700007000
+NEW HAMPTON CEMETERY RD                                     0700007000
+NEW UNION CHURCH RD                                         0700007000
+NEWBERN RD                                                  0700007000
+NEWCOMB ST                                                  0700307003
+NICHOLAS DR                                                 0700007000
+NICKELL ST                                                  0700307003
+OAK GROVE CEMETERY RD                                       0700007000
+OAK LN                                                      0700007000
+OAKLAWN DR                                                  0700007000
+OAKLAWN ST                                                  0700507005
+OHIO AVE                                                    0700307003
+OLD BARRETT QUARRY SPUR RD                                  0700007000
+OLD GILBERSTVILLE RD                                        0700007000
+OLD GILBERTSVILLE RD                                        0700007000
+OLD GOOD HOPE CEMETERY RD                                   0700007000
+OLD SALEM CEMETERY RD                                       0700007000
+OLD SALEM CHURCH RD                                         0700007000
+OLIVER HALL LN                                              0700007000
+OLIVER RD                                                   0700007000
+OLLIE LOOP                                                  0700007000
+OSBURN LN                                                   0700007000
+OSTLE LOOP                                                  0700007000
+OVERLOOK DR                                                 0700007000
+OWEN RHEA RD                                                0700007000
+PACE RD                                                     0700007000
+PADON EAST RD                                               0700007000
+PADON RD                                                    0700007000
+PALMER RD                                                   0700007000
+PARADISE CEMETERY RD                                        0700007000
+PARADISE RD                                                 0700007000
+PARIS RD                                                    0700007000
+PARKER RD                                                   0700007000
+PAT DR                                                      0700007000
+PAT LUMMUS ST                                               0700307003
+PAYNE ST                                                    0700307003
+PEACEFUL COVE                                               0700307003
+PEACEFUL VALLEY RD                                          0700007000
+PEACH ORCHARD RD                                            0700007000
+PEARL ST                                                    0700507005
+PECK BRANCH RD                                              0700007000
+PECK CT                                                     0700007000
+PEDEN HOLLOW RD                                             0700007000
+PELICAN POINT LOOP                                          0700307003
+PENTECOSTAL CHURCH RD                                       0700007000
+PERSIMMON RIDGE RD                                          0700007000
+PHILLIPS LN                                                 0700007000
+PIN OAK DR                                                  0700007000
+PINCKNEYVILLE BOAT RAMP RD                                  0700007000
+PINCKNEYVILLE RD                                            0700007000
+PINE ST                                                     0700007000
+PISGAH RD                                                   0700007000
+PLEASANTVIEW DR                                             0700007000
+POINDEXTER RD                                               0700007000
+POPULAR DR                                                  0700007000
+PULLEN RD                                                   0700007000
+QUAIL LN                                                    0700007000
+QUARRY RD                                                   0700007000
+QUERTERMOUS RD                                              0700007000
+RADCLIFF ST                                                 0700107001
+RAILROAD HILL DR                                            0700007000
+RALPH HARDIN RD                                             0700007000
+RAMAGE CEMETERY RD                                          0700007000
+RAMAGE DR                                                   0700007000
+RAMAGE LN                                                   0700007000
+RAMEY DR                                                    0700307003
+RAPPOLEE RD                                                 0700007000
+RED BUD RD                                                  0700007000
+REDNOUR RD                                                  0700007000
+REED DR                                                     0700307003
+REED RD                                                     0700007000
+RICHARDS LN                                                 0700007000
+RIDGE RD                                                    0700007000
+RILEY LN                                                    0700007000
+RINGSTAFF RD                                                0700007000
+RIVER RD                                                    0700007000
+RIVERFRONT DR                                               0700107001
+RIVERSIDE DR                                                0700007000
+RIVERVIEW DR                                                0700007000
+ROBERTSON RD                                                0700007000
+ROBINSON RD                                                 0700007000
+ROCKY LN                                                    0700007000
+ROLLING MEADOWS RD                                          0700007000
+ROSE DR                                                     0700007000
+ROSS CEMETERY RD                                            0700007000
+ROSS DR                                                     0700007000
+ROWLAND DR                                                  0700007000
+RUBY RIDGE RD                                               0700007000
+RUDD SPEES RD                                               0700007000
+RUDD ST                                                     0700007000
+RUDD ST                                                     0700107001
+RUE STOKES RD                                               0700007000
+S 12TH ST                                                   0700307003
+S CHURCH ST                                                 0700507005
+S HAYDEN AVE                                                0700507005
+SAFE HAVEN DR                                               0700307003
+SAFE HAVEN DR W                                             0700307003
+SAMS ST                                                     0700107001
+SAND HILL RD                                                0700007000
+SANDERS ARCHAELOGICAL SITE                                  0700007000
+SANDERS CEMETERY RD                                         0700007000
+SANDY DR                                                    0700007000
+SAWMILL RD                                                  0700007000
+SCHOOL ST                                                   0700007000
+SCOTT RD                                                    0700007000
+SCOTTS CHAPEL RD                                            0700007000
+SEXTON DR                                                   0700007000
+SEXTON DR                                                   0700307003
+SHARON DR                                                   0700007000
+SHELBY RD                                                   0700007000
+SHELBY RD                                                   0700507005
+SHELIA DR                                                   0700007000
+SHELLY DR                                                   0700007000
+SHORT DR                                                    0700007000
+SHOUSE RD                                                   0700007000
+SHUECRAFT RD                                                0700007000
+SILVER MINE RD                                              0700007000
+SLOCUM RD                                                   0700007000
+SMITH BOSWELL RD                                            0700007000
+SMITH ST                                                    0700107001
+SMITHLAND BERRYS FERRY RIVER RD                             0700007000
+SMITHLAND CEMETERY RD                                       0700107001
+SMITHLAND DAM RD                                            0700007000
+SMITHLAND DAM ROAD SPUR                                     0700007000
+SPENCER RD                                                  0700007000
+SPICER RD                                                   0700007000
+SPYGLASS DR                                                 0700007000
+STAFFORD PL                                                 0700307003
+STALLION DR                                                 0700007000
+STALLIONS RD                                                0700007000
+STATE DR                                                    0700007000
+STATE ST                                                    0700107001
+STEAMBOAT ST                                                0700307003
+STEWART RD                                                  0700007000
+STONEBREAKER RD                                             0700007000
+STORY RD                                                    0700007000
+STRINGTOWN RD                                               0700007000
+SUGAR CAMP RD                                               0700007000
+SUGAR CAMP SPUR                                             0700007000
+SUGAR CREEK RD                                              0700007000
+SULLIVANT RD                                                0700007000
+SUMMERLIN DR                                                0700007000
+SUNDERLAND RD                                               0700007000
+SUNRISE DR                                                  0700507005
+SUNSET DR                                                   0700007000
+SWINFORD LN                                                 0700007000
+TAASHA LN                                                   0700007000
+TALEISHA LN                                                 0700007000
+TALLEY RD                                                   0700007000
+TAYLOR ST                                                   0700507005
+TEENEY CIR                                                  0700007000
+TENNESSEE ST                                                0700007000
+TERRACE LN                                                  0700007000
+THARP DR                                                    0700007000
+THOMASON LOOP                                               0700007000
+THOMPSON AVE                                                0700307003
+THREE RIVERS QUARRY RD                                      0700007000
+THREE RIVERS ROCK RD                                        0700007000
+THRELKELD RD                                                0700007000
+TILINE CEMETERY RD                                          0700007000
+TILINE DYCUSBURG RD                                         0700007000
+TILINE RD                                                   0700007000
+TILINE RD                                                   0700107001
+TIMMONS RD                                                  0700007000
+TINKER LN                                                   0700007000
+TINSLEY DR                                                  0700007000
+TOLU RD                                                     0700007000
+TOM DOOM RD                                                 0700007000
+TOMEHAWK RD                                                 0700007000
+TONY THOMPSON RD                                            0700007000
+TORI LN                                                     0700007000
+TORREY PINES DR                                             0700007000
+TORTUGA LN                                                  0700307003
+TRAIL DR                                                    0700007000
+TRIPLE CREEK RD                                             0700007000
+TUCKER TEMPLE RD                                            0700007000
+TWETTLE RD                                                  0700007000
+TYNER ST                                                    0700007000
+UNION DR                                                    0700107001
+US60                                                        0700007000
+US60 W                                                      0700007000
+US62                                                        0700007000
+US62 W                                                      0700007000
+VALLEY RD                                                   0700007000
+VANHOOSER RD                                                0700007000
+VARNELL RD                                                  0700007000
+VAUGHN RD                                                   0700007000
+VICK RD                                                     0700007000
+VICKSBURG RD                                                0700007000
+VICTORIAN LN                                                0700007000
+VINE ST                                                     0700007000
+VINE ST                                                     0701107011
+VIRGINIA ST                                                 0700007000
+VIRJON LN                                                   0700307003
+VULCAN RD                                                   0700007000
+W ADAIR ST                                                  0700107001
+W CHARLOTTE ST                                              0700107001
+W COMMERCE ST                                               0700307003
+W CUMBERLAND AVE                                            0700307003
+W LION ST                                                   0700507005
+W MAIN ST                                                   0700507005
+W MISSISSIPPI AVE                                           0700307003
+W TENNESSEE AVE                                             0700307003
+WABASH AVE                                                  0700307003
+WADDY DR                                                    0700007000
+WALKER DR                                                   0700007000
+WALKER ST                                                   0700307003
+WALNUT LN                                                   0700007000
+WALNUT ST                                                   0700107001
+WALNUT ST                                                   0701107011
+WARD LN                                                     0700007000
+WARFIED DR                                                  0700107001
+WARREN RD                                                   0700007000
+WATER TOWER RD                                              0700007000
+WATER TOWER RD                                              0700307003
+WATSON RD                                                   0700007000
+WATTS LN                                                    0700007000
+WEAVER RD                                                   0700007000
+WELLS LN                                                    0700007000
+WENTWORTH DR                                                0700007000
+WESLEY LN                                                   0700007000
+WHICKER LN                                                  0700007000
+WHITE CHURCH CEMETERY RD                                    0700007000
+WILKES LN                                                   0700007000
+WILLARD LN                                                  0700007000
+WILLETT LN                                                  0700007000
+WILLIAMS RD                                                 0700007000
+WILLOW POND DR                                              0700007000
+WILSON AVE                                                  0700107001
+WILSON LN                                                   0700007000
+WIMBERLY CT                                                 0700007000
+WOOD DUCK CV                                                0700307003
+WOOD LN                                                     0700007000
+WORKMAN RD                                                  0700007000
+WRIGHT RD                                                   0700007000
+WYNDOTTE WAY                                                0700007000
+YACHT DR                                                    0700307003

@@ -1,0 +1,697 @@
+A T DEAN RD                                                 0840008400
+ACCESS ST                                                   0840208402
+ADA DR                                                      0840108401
+ADAMS LN                                                    0840008400
+ADAMS LN                                                    0840108401
+ADKINSON LN                                                 0840008400
+AGEE ST                                                     0840108401
+ALFORD RD                                                   0840008400
+ALLAH AVE                                                   0840108401
+ALLIN DR                                                    0840108401
+AMMONS LN                                                   0840008400
+ANDERSON CT                                                 0840008400
+ANDERSON DEAN NO4 PARK                                      0840008400
+ANDERSON DEAN PARK                                          0840008400
+ANDERSON DEAN PARK                                          0840108401
+ANDERSON DEAN PARK NO2                                      0840008400
+ANDERSON DEAN PARK NO3                                      0840008400
+ANDERSON DEAN PARK NO4                                      0840008400
+ANDERSON DEAN PARK NO5                                      0840008400
+ANDERSON DEAN PARK NO6                                      0840008400
+ANDERSON DEAN PARK NO7                                      0840008400
+ANDERSON DEAN PARK NO8                                      0840008400
+ANDERSON DEAN PARK NO9                                      0840008400
+ANGIE AVE                                                   0840108401
+APACHE TRL                                                  0840108401
+AQUA AVE                                                    0840108401
+ARDEN AVE                                                   0840108401
+ARRASMITH CT                                                0840008400
+ARROWHEAD RD                                                0840008400
+ARROWHEAD RD                                                0840108401
+ARTHUR CT                                                   0840008400
+ASH BROOK LN                                                0840108401
+ASHLEY CAMP RD                                              0840008400
+ASHLEY DR                                                   0840108401
+ASHLEY SQ                                                   0840208402
+ASHWOOD CT                                                  0840108401
+ASPEN CT                                                    0840108401
+ASPEN HALL DR                                               0840108401
+ATLEE DR                                                    0840108401
+AZALEA ST                                                   0840108401
+BACON CT                                                    0840108401
+BAILEY PIKE                                                 0840008400
+BALDEN RD                                                   0840008400
+BALLARD ST                                                  0840108401
+BARDSTOWN RD                                                0840008400
+BARR ST                                                     0840108401
+BARRETT LN                                                  0840208402
+BATES ST                                                    0840108401
+BATTLEFIELD RD                                              0840008400
+BAXTER RD                                                   0840008400
+BEAMS DR                                                    0840008400
+BEAUMONT AVE                                                0840008400
+BEAUMONT AVE                                                0840108401
+BEAUMONT INN DR                                             0840108401
+BEAUMONT PLZ                                                0840108401
+BELLAIRE DR                                                 0840008400
+BELLAIRE DR                                                 0840108401
+BELLOWS MILL RD                                             0840008400
+BELLOWS MILL RD                                             0840108401
+BELLWICK ST                                                 0840108401
+BELMONT CIR                                                 0840108401
+BELMONT ST                                                  0840108401
+BENTON ST                                                   0840208402
+BEREA HTS                                                   0840008400
+BERRY DR                                                    0840008400
+BETHEL RD                                                   0840008400
+BG9002 E                                                    0840008400
+BG9002 W                                                    0840008400
+BILLY HORN LN                                               0840008400
+BIRCH AVE                                                   0840008400
+BLAKE DR                                                    0840108401
+BLANKENSHIP DR                                              0840008400
+BLEU BROOK DR                                               0840108401
+BLUEGRASS DR                                                0840108401
+BOB O LINK DR                                               0840108401
+BOHON RD                                                    0840008400
+BOHON RD                                                    0840108401
+BONDVILLE RD                                                0840008400
+BONNY LYNN DR                                               0840108401
+BONTA DR                                                    0840108401
+BOONE ST                                                    0840108401
+BOSWELL ST                                                  0840108401
+BOTTOMS CT                                                  0840108401
+BOWER ST                                                    0840108401
+BOWMAN ST                                                   0840108401
+BOYLE AVE                                                   0840008400
+BRADFORD LN                                                 0840008400
+BRADLEY LN                                                  0840008400
+BRADSHAW LN                                                 0840008400
+BREEDING DR                                                 0840008400
+BRENTWOOD ST                                                0840108401
+BREWERS MILL RD                                             0840008400
+BRIGHTLEAF ACCESS RD                                        0840008400
+BRIGHTLEAF ACCESS RD                                        0840108401
+BRIGHTLEAF ACCESS ROAD NO2                                  0840008400
+BRIGHTLEAF ACCESS ROAD NO2                                  0840108401
+BRIGHTLEAF ACCESS ROAD NO3                                  0840008400
+BRIGHTLEAF DR                                               0840008400
+BRITTON RD                                                  0840008400
+BROCEBURKE DR                                               0840008400
+BROCK LN                                                    0840008400
+BROOK ST                                                    0840208402
+BROWN DR                                                    0840208402
+BRUMMETT ST                                                 0840208402
+BRUNERS CHAPEL RD                                           0840008400
+BUD JAMES LN                                                0840008400
+BUENA VISTA EST ST                                          0840008400
+BUGG RD                                                     0840008400
+BUM LESTER RD                                               0840008400
+BURGIN RD                                                   0840008400
+BURLEY ST                                                   0840108401
+BUSHTOWN RD                                                 0840008400
+BUSTER PIKE                                                 0840008400
+CALVARY RD                                                  0840008400
+CAMPBELL DR                                                 0840108401
+CAMPSITE NO2 RD                                             0840008400
+CAMPSITE RD                                                 0840008400
+CANAAN LAND RD                                              0840008400
+CANE RUN CAMP RD                                            0840008400
+CANE RUN ST                                                 0840008400
+CANE RUN ST                                                 0840108401
+CANNEY LN                                                   0840008400
+CAP BOTTOM LN                                               0840008400
+CARDINAL DR                                                 0840108401
+CARDINAL MDWS                                               0840108401
+CARDINAL MEADOWS RD                                         0840108401
+CARDWELL AVE                                                0840108401
+CARL LAY LN                                                 0840008400
+CARMICHAEL RD                                               0840008400
+CARSON CT                                                   0840108401
+CASTLE HTS                                                  0840108401
+CATALPA WAY                                                 0840008400
+CATLETT RD                                                  0840008400
+CEDAR ST                                                    0840108401
+CEDARWOOD CT                                                0840008400
+CEMETERY ST                                                 0840108401
+CENTER ST                                                   0840108401
+CENTRAL PIKE                                                0840008400
+CHARLES CARR DR                                             0840108401
+CHATHAM RD                                                  0840008400
+CHERRY DR                                                   0840008400
+CHESAPEAKE DR                                               0840108401
+CHESTNUT ST                                                 0840108401
+CHESTNUT STREET APARTMENTS                                  0840108401
+CHESTNUT STREET APARTMENTS LN                               0840108401
+CHILTON LN                                                  0840008400
+CHIMNEY ROCK RD                                             0840008400
+CHIMNEY ROCK SPUR                                           0840008400
+CHINN LN                                                    0840008400
+CHIPPEWA DR                                                 0840108401
+CHRISTINA DR                                                0840008400
+CHURCH ST                                                   0840008400
+CLAIRE DE LUNE                                              0840008400
+CLARK ST                                                    0840108401
+CLAY AVE                                                    0840108401
+CLAY LICK CHURCH RD                                         0030008400
+CLAY LICK CHURCH RD                                         0840008400
+CLAY LICK RD                                                0030008400
+CLAY LICK RD                                                0480000300
+CLAY LICK RD                                                0840008400
+CLOVERDALE DR                                               0840108401
+COCANOUGHER RD                                              0840008400
+COGAR AVE                                                   0840108401
+COGHILL LN                                                  0840008400
+COLD SPRINGS DR                                             0840008400
+COLE RD                                                     0840008400
+COLEMAN CT                                                  0840008400
+COLLEGE MNR                                                 0840108401
+COLLIN DR                                                   0840108401
+COLTON DR                                                   0840108401
+COMMERCE DR                                                 0840108401
+COMMERCIAL DR                                               0840108401
+CONOVER DR                                                  0840108401
+COOKE AVE                                                   0840108401
+CORNISHVILLE RD                                             0840008400
+CORNISHVILLE ST                                             0840108401
+COSBY LN                                                    0840008400
+COTTONWOOD ST                                               0840008400
+COUNTRYSIDE ESTATES DR                                      0840108401
+CRESTHILL DR                                                0840008400
+CRESTHILL DR                                                0840108401
+CREWS ST                                                    0840008400
+CROSS ST                                                    0840108401
+CROZER AVE                                                  0840108401
+CUMMINS DR                                                  0840108401
+CUMMINS FERRY RD                                            0840008400
+CURDSVILLE RD                                               0840008400
+CURDSVILLE RD                                               0840208402
+CURRENS RD                                                  0840008400
+CURRY AVE                                                   0840108401
+CURRY PIKE                                                  0840008400
+CYPRESS HILLS APARTMENTS ACCESS RD                          0840108401
+DAISY ST                                                    0840108401
+DANIEL LN                                                   0840208402
+DANVILLE RD                                                 0840008400
+DANVILLE RD                                                 0840108401
+DANVILLE ST                                                 0840208402
+DAVENPORT RD                                                0840008400
+DAVIESS ST                                                  0840108401
+DEAN DR                                                     0840208402
+DEDMAN ST                                                   0840108401
+DEE DEE ST                                                  0840108401
+DEEP CREEK RD                                               0840008400
+DEVINE RD                                                   0840008400
+DIX DAM RD                                                  0840008400
+DIXIE MNR                                                   0840108401
+DOE RUN                                                     0840008400
+DON ROBINSON DR                                             0840108401
+DONOVAN CIR                                                 0840108401
+DORY DR                                                     0840008400
+DOSSETT LN                                                  0840008400
+DOVE CT                                                     0840108401
+DRAKE LN                                                    0840008400
+DREW ST                                                     0840108401
+DRY BRANCH RD                                               0840008400
+DUDLEY DR                                                   0840108401
+DUGANSVILLE RD                                              0840008400
+DUNN LN                                                     0840008400
+E BROADWAY ST                                               0840108401
+E COURT ST                                                  0840208402
+E FACTORY ST                                                0840108401
+E LEXINGTON ST                                              0840108401
+E MAIN ST                                                   0840208402
+E MILL ST                                                   0840208402
+E OFFICE ST                                                 0840108401
+E POPLAR ST                                                 0840108401
+E WATER ST                                                  0840208402
+EAGLE ST                                                    0840108401
+EAST RD                                                     0840008400
+EDGEWOOD EST ST                                             0840008400
+EIGHT OAKS LN                                               0840008400
+ELIZABETH CT                                                0840108401
+ELLERSON DR                                                 0840108401
+ELLIOTT RD                                                  0840008400
+ELM ST                                                      0840108401
+ELMWOOD DR                                                  0840008400
+EMINENCE AVE                                                0840108401
+ENGLISH AVE                                                 0840108401
+EVAN HARLOW WAY                                             0840108401
+EVERGREEN LN                                                0840008400
+EWING AVE                                                   0840108401
+FAIRGROUNDS RD                                              0840108401
+FAIRVIEW CT                                                 0840108401
+FAIRVIEW RD                                                 0840008400
+FAIRWAY DR                                                  0840108401
+FALCON ST                                                   0840108401
+FALLIS RUN RD                                               0840008400
+FAYETTE CT                                                  0840008400
+FIELDLARK WAY                                               0840108401
+FINLEY CT                                                   0840108401
+FISH AND GAME FARM RD                                       0840008400
+FLORIAN LN                                                  0840008400
+FORSYTHE ST                                                 0840108401
+FORT HARROD ST                                              0840108401
+FORT ST                                                     0840108401
+FOUNTAINE TRCE                                              0840008400
+FOUNTAINE TRCE                                              0840108401
+FRANKS CT                                                   0840108401
+FREEMAN DR                                                  0840108401
+FREEMAN LN                                                  0840008400
+GAITHER AVE                                                 0840108401
+GARRARD ST                                                  0840008400
+GARRIOTT LN                                                 0840008400
+GASH RD                                                     0840008400
+GAYLE ST                                                    0840208402
+GELL LN                                                     0840008400
+GENTRY RD                                                   0840008400
+GODDARD ST                                                  0840108401
+GOODLETT RD                                                 0840008400
+GRACE CT                                                    0840108401
+GRAHAM AVE                                                  0840108401
+GRANT ST                                                    0840108401
+GRAPEVINE RD                                                0840008400
+GREENBRIAR DR                                               0840108401
+GREENWOOD DR                                                0840108401
+GRITTON RD                                                  0840008400
+HADDIX ST                                                   0840008400
+HAGAN LN                                                    0840008400
+HAGERS CAMP RD                                              0840008400
+HAMNER RD                                                   0840008400
+HANCOCK CIR                                                 0840008400
+HANDY RD                                                    0840008400
+HARDIN HEIGHTS                                              0840008400
+HARDIN HEIGHTS N                                            0840008400
+HARLOW LN                                                   0840008400
+HARRODS CT                                                  0840108401
+HARRODS TRACE DR                                            0840108401
+HARVEST LN                                                  0840108401
+HARVEY PIKE                                                 0840008400
+HAWES LN                                                    0840008400
+HAWKINS LN                                                  0840008400
+HENRICO RD                                                  0840108401
+HENRY ROBINSON RD                                           0840008400
+HENSLEY HTS                                                 0840108401
+HERITAGE WOODS                                              0840008400
+HERRINGTON WOODS                                            0840008400
+HICKORY CT                                                  0840008400
+HICKORY DR                                                  0840008400
+HIGH ST                                                     0840108401
+HIGH ST                                                     0840208402
+HILDEEN DR                                                  0840108401
+HILL ST                                                     0840108401
+HILLCREST ST                                                0840108401
+HOGUE LN                                                    0840008400
+HOLLIDAY CT                                                 0840008400
+HOPEWELL RD                                                 0840008400
+HORN RD                                                     0840008400
+HOWARD LN                                                   0840008400
+HUDSON RD                                                   0840008400
+HUDSON ROAD CONNECTOR                                       0840008400
+HUFFMAN RD                                                  0840008400
+HUGHLEY LN                                                  0840008400
+HUMMINGBIRD DR                                              0840008400
+HUNTER DR                                                   0840008400
+HURST DR                                                    0840008400
+HYCLIFF ST                                                  0840108401
+INDIAN CREEK RD                                             0840008400
+INDUSTRY RD                                                 0840008400
+INDUSTRY RD                                                 0840108401
+INMAN ST                                                    0840008400
+IRISH RIDGE RD                                              0840008400
+ISON LN                                                     0840008400
+ISON ST                                                     0840208402
+JACKSON PIKE                                                0840008400
+JAMES ST                                                    0840108401
+JEFFERSON ST                                                0840008400
+JENN OAK LN                                                 0840008400
+JENN OAK LN                                                 0840108401
+JIM FORSYTHE LN                                             0840008400
+JOE ST                                                      0840108401
+JOHN D BROWN AVE                                            0840208402
+JOHN JONES RD                                               0840008400
+JOHNSON RD                                                  0840008400
+JONES ST                                                    0840108401
+JOSEPH DR                                                   0840108401
+JOSHUA WAY                                                  0840108401
+JOYCE ST                                                    0840208402
+JUNIPER HL                                                  0840008400
+K LEIGH DR                                                  0840008400
+KABLER DR                                                   0840008400
+KATE RD                                                     0840008400
+KEENON RD                                                   0840008400
+KENDRICK LN                                                 0840008400
+KENNEDY BRIDGE RD                                           0840008400
+KENNEDY BRIDGE RD                                           0840208402
+KENNETH KING WAY                                            0840108401
+KIRKWOOD RD                                                 0840008400
+KLEIN CT                                                    0840008400
+KY33 S                                                      0840008400
+KYLE LN                                                     0840008400
+L F ISON DR                                                 0840008400
+L F ISON SPUR                                               0840008400
+LA COLLINE                                                  0840008400
+LAKE DR                                                     0840008400
+LAKE VILLAGE DR                                             0840008400
+LAKELAND DR                                                 0840008400
+LAKESHORE DR                                                0840008400
+LAKEVIEW POINT                                              0840008400
+LAMBERT LN                                                  0840008400
+LAND LN                                                     0840008400
+LARCHMONT AVE                                               0840108401
+LARK ST                                                     0840108401
+LARUE ST                                                    0840108401
+LAUREN DR                                                   0840008400
+LAUREN DR                                                   0840108401
+LEE CT                                                      0840008400
+LEE OAK CIR                                                 0840008400
+LEESBURG RD                                                 0840008400
+LEGION DR                                                   0840108401
+LESTER RD                                                   0840008400
+LEWIS CT                                                    0840108401
+LEXINGTON RD                                                0840008400
+LINCOLN AVE                                                 0840008400
+LINDEN AVE                                                  0840108401
+LIONS PARK                                                  0840108401
+LITSEY AVE                                                  0840108401
+LOGUE RD                                                    0840008400
+LONG LN                                                     0840008400
+LONGVIEW ST                                                 0840108401
+LOUISVILLE RD                                               0840008400
+LOUISVILLE RD                                               0840108401
+LOVETTE LN                                                  0840008400
+LUCKY MAN WAY                                               0840008400
+LUCKY MAN WAY                                               0840108401
+LUNSFORD LN                                                 0840008400
+LYNN DR                                                     0840108401
+LYNZIE DR                                                   0840008400
+MAC CT                                                      0840108401
+MACKVILLE RD                                                0840008400
+MACKVILLE RD                                                0840108401
+MAGOFFIN AVE                                                0840108401
+MAIN ST                                                     0840008400
+MALLARD CV                                                  0840008400
+MAN O WAR DR                                                0840008400
+MANNS RD                                                    0840008400
+MAPLE HILL RD                                               0840008400
+MAPLE ST                                                    0840108401
+MAPLE ST                                                    0840208402
+MARIMON AVE                                                 0840108401
+MARTIN LN                                                   0840008400
+MAUDE LN                                                    0840208402
+MCAFEE LN                                                   0840008400
+MCAFEE STATION DR                                           0840008400
+MCBRAYER DR                                                 0840108401
+MCCLELLAN DR                                                0840108401
+MCCOUNS FERRY RD                                            0840008400
+MCCOY RD                                                    0840008400
+MCCROSKEY PIKE                                              0840008400
+MEADOW LN                                                   0840108401
+MEADOWBROOK LN                                              0840108401
+MELVA BROOK LN                                              0840008400
+MERCER AVE                                                  0840008400
+MERCER COUNTY SERVICE COMPLEX RD                            0840108401
+MEREDITH AVE                                                0840208402
+MIDLAND CT                                                  0840108401
+MIDLAND DR                                                  0840108401
+MILLER DEAN RD                                              0840008400
+MILWARD DR                                                  0840108401
+MOBERLY RD                                                  0840108401
+MOCKINGBIRD DR                                              0840108401
+MONTGOMERY LN                                               0840008400
+MONTGOMERY WAY                                              0840108401
+MONTROSE AVE                                                0840108401
+MOORE LN                                                    0840008400
+MOORELAND AVE                                               0840108401
+MORGAN AVE                                                  0840108401
+MORGAN SOAPER DR                                            0840108401
+MORRIS DR                                                   0840108401
+MOTLEY LN                                                   0840008400
+MT PLEASANT RD                                              0840008400
+MULBERRY ST                                                 0840208402
+MUNDAYS LANDING RD                                          0840008400
+MURPHY LANE SPUR                                            0840208402
+MURPHY LN                                                   0840208402
+N 1ST ST                                                    0840208402
+N 2ND ST                                                    0840208402
+N 3RD ST                                                    0840208402
+N CHILES ST                                                 0840108401
+N COLLEGE ST                                                0840008400
+N COLLEGE ST                                                0840108401
+N DEPOT ST                                                  0840208402
+N EAST ST                                                   0840108401
+N GREENVILLE ST                                             0840108401
+N MAGNOLIA ST                                               0840108401
+N MAIN ST                                                   0840108401
+N PEACH ST                                                  0840208402
+N SYCAMORE ST                                               0840208402
+N WHITES LN                                                 0840008400
+NEW DIXVILLE RD                                             0840008400
+NEWBY CT                                                    0840108401
+NICHOLS AVE                                                 0840108401
+NICOLE DR                                                   0840208402
+NOEL AVE                                                    0840108401
+NORMANS CAMP RD                                             0840008400
+NORTH LN                                                    0840108401
+NOTTER DR                                                   0840008400
+NOTTER SPUR                                                 0840008400
+OAK ST                                                      0840108401
+OAKLAND LN                                                  0840008400
+OAKLEY AVE                                                  0840108401
+OAKWOOD DR                                                  0840008400
+OATFIELD RD                                                 0840108401
+OLD BROWN RD                                                0840008400
+OLD BUSHTOWN RD                                             0840008400
+OLD DANVILLE RD                                             0840008400
+OLD DANVILLE RD                                             0840108401
+OLD DIXVILLE RD                                             0840008400
+OLD FORT LOOP                                               0840008400
+OLD FORT SPUR                                               0840008400
+OLD LEWIS RD                                                0840008400
+OLD LOUISVILLE RD                                           0840008400
+OLD LOUISVILLE ROAD CONNECTOR                               0840008400
+OLD MACKVILLE RD                                            0840008400
+OLD PERRYVILLE LOOP                                         0840008400
+OLE MILL RD                                                 0840008400
+OREGON LANDING RD                                           0840008400
+OREGON RD                                                   0840008400
+OSTER DR                                                    0840008400
+OTT ELLIOTT LN                                              0840008400
+PALISADES LN                                                0840008400
+PALISADES PARK                                              0840008400
+PALISADES RD                                                0840008400
+PALISADES TRL                                               0840008400
+PALM DR                                                     0840008400
+PALOMINO DR                                                 0840108401
+PANDORA COVE                                                0840008400
+PANDORA DR                                                  0840008400
+PARADISE CAMP RD                                            0840008400
+PARK AVE                                                    0840108401
+PARK WAY AVE                                                0840108401
+PARKVIEW AVE                                                0840108401
+PARKWOOD AVE                                                0840008400
+PARKWOOD AVE                                                0840108401
+PARSON CT                                                   0840108401
+PARSONS LN                                                  0840008400
+PATTERSON LN                                                0840008400
+PAWNEE DR                                                   0840108401
+PAXTON RD                                                   0840008400
+PEARSON ST                                                  0840108401
+PERKINS DR                                                  0840008400
+PERRYVILLE RD                                               0840008400
+PERRYVILLE ST                                               0840108401
+PERSIMMON WAY                                               0840008400
+PHEASANT DR                                                 0840108401
+PHILLIPS LN                                                 0840008400
+PIGEON CT                                                   0840108401
+PIN OAK TER                                                 0840008400
+PINEHURST DR                                                0840008400
+PINEHURST DR                                                0840108401
+PINKSTON CT                                                 0840108401
+PIONEER ST                                                  0840108401
+PIONEER WAY                                                 0840108401
+PLEASANT HILL DR                                            0840008400
+PLEASANT HILL DR                                            0840208402
+POPE AVE                                                    0840108401
+POTEET ST                                                   0840108401
+PRICE AVE                                                   0840108401
+PROSPEROUS WAY                                              0840108401
+PROVIDENCE RD                                               0840008400
+QUAIL RUN                                                   0840108401
+QUARRY SPUR                                                 0840008400
+QUIRKS RUN RD                                               0840008400
+RAGONA CT                                                   0840008400
+RAILROAD ST                                                 0840208402
+RAINBOW CT                                                  0840108401
+RAINTREE RD                                                 0840008400
+RAVEN ST                                                    0840108401
+REDWING DR                                                  0840008400
+REDWOOD TER                                                 0840008400
+RELEFORD LN                                                 0840008400
+RIDGE CREST DR                                              0840108401
+RIDGE RD                                                    0840008400
+RIDGEWAY DR                                                 0840008400
+RIVERSIDE DR                                                0840008400
+ROANOKE DR                                                  0840108401
+ROBARDS CT                                                  0840108401
+ROBB RD                                                     0840008400
+ROBIN ST                                                    0840108401
+ROBINSON RD                                                 0840008400
+ROCKY RD                                                    0840008400
+ROGERS CT                                                   0840108401
+RONEY RD                                                    0840008400
+ROSE HILL LN                                                0840008400
+ROSE LN                                                     0840008400
+ROSEWOOD ST                                                 0840108401
+ROSS AVE                                                    0840108401
+ROYAL CT                                                    0840108401
+ROYALTY HTS                                                 0840008400
+RUNYON RD                                                   0840108401
+RUSSELL BRANCH RD                                           0840008400
+RUSSELL ST                                                  0840208402
+S 1ST ST                                                    0840208402
+S 2ND ST                                                    0840208402
+S 3RD ST                                                    0840208402
+S CEDAR LN                                                  0840008400
+S CHILES ST                                                 0840108401
+S COLLEGE ST                                                0840108401
+S DEPOT ST                                                  0840208402
+S EAST ST                                                   0840108401
+S GREENVILLE ST                                             0840108401
+S MAGNOLIA ST                                               0840108401
+S MAIN ST                                                   0840108401
+S PEACH ST                                                  0840208402
+S SUNSET LN                                                 0840108401
+S SYCAMORE ST                                               0840208402
+SALLEE LN                                                   0840008400
+SALT RIVER PARK                                             0840108401
+SCENIC DR                                                   0840008400
+SCOOTER AVE                                                 0840108401
+SECRETARIAT DR                                              0840008400
+SEXTON RD                                                   0840008400
+SHADOWBROOK DR                                              0840108401
+SHAKER DR                                                   0840108401
+SHAKERS FERRY RD                                            0840008400
+SHAKERS LANDING RD                                          0840008400
+SHAKERTOWN LOOP                                             0840008400
+SHAKERTOWN RD                                               0840008400
+SHANNON AVE                                                 0840108401
+SHANNON OAKS DR                                             0840008400
+SHAWNEE DR                                                  0840108401
+SHAWNEE FARM NO1 RD                                         0840008400
+SHAWNEE FARM NO2 RD                                         0840008400
+SHAWNEE FARM NO3 RD                                         0840008400
+SHAWNEE FARM NO4 RD                                         0840008400
+SHAWNEE FARM NO5 RD                                         0840008400
+SHAWNEE FARM NO6 RD                                         0840008400
+SHAWNEE FARM NO7 RD                                         0840008400
+SHAWNEE FARM NO8 RD                                         0840008400
+SHAWNEE RUN RD                                              0840008400
+SHENANDOAH DR                                               0840108401
+SHEWMAKER LN                                                0840108401
+SHORT RD                                                    0840008400
+SHORT ST                                                    0840108401
+SIMPSON LN                                                  0840008400
+SIMS LN                                                     0840108401
+SLAMA CIR                                                   0840008400
+SLEEPY HOLLOW RD                                            0840008400
+SLEEPY HOLLOW RD                                            0840108401
+SOUTHGATE DR                                                0840108401
+SOUTHWORTH LN                                               0840008400
+SPARROW LN                                                  0840008400
+SPARROW LN                                                  0840108401
+SPICE ST                                                    0840008400
+SPRING HILL CEMETERY NO1 ST                                 0840108401
+SPRING HILL CEMETERY NO10 ST                                0840108401
+SPRING HILL CEMETERY NO11 ST                                0840108401
+SPRING HILL CEMETERY NO12 ST                                0840108401
+SPRING HILL CEMETERY NO13 ST                                0840108401
+SPRING HILL CEMETERY NO14 ST                                0840108401
+SPRING HILL CEMETERY NO15 ST                                0840108401
+SPRING HILL CEMETERY NO16 ST                                0840108401
+SPRING HILL CEMETERY NO17 ST                                0840108401
+SPRING HILL CEMETERY NO18 ST                                0840108401
+SPRING HILL CEMETERY NO2 ST                                 0840108401
+SPRING HILL CEMETERY NO3 ST                                 0840108401
+SPRING HILL CEMETERY NO4 ST                                 0840108401
+SPRING HILL CEMETERY NO5 ST                                 0840108401
+SPRING HILL CEMETERY NO6 ST                                 0840108401
+SPRING HILL CEMETERY NO7 ST                                 0840108401
+SPRING HILL CEMETERY NO8 ST                                 0840108401
+SPRING HILL CEMETERY NO9 ST                                 0840108401
+SPRING LAKE DR                                              0840108401
+SPRING ST                                                   0840208402
+SPRUCE AVE                                                  0840008400
+STAGG ST                                                    0840108401
+STONE CREST LN                                              0840108401
+STONER ST                                                   0840108401
+STOPHER LN                                                  0840008400
+STORY AVE                                                   0840108401
+STRATTON RD                                                 0840008400
+SUGAR ST                                                    0840008400
+SUNRISE SHORES                                              0840008400
+SUNRISE SHORES N                                            0840008400
+SUNSET DR                                                   0840008400
+SUNSET LN                                                   0840108401
+SYCAMORE CT                                                 0840108401
+TABLER AVE                                                  0840108401
+TALMAGE MAYO RD                                             0840008400
+TAPP RD                                                     0840108401
+TEWMEY LN                                                   0840008400
+THOMPSON DR                                                 0840108401
+THURMAN LN                                                  0840008400
+TITANS WAY                                                  0840108401
+TOMAHAWK DR                                                 0840108401
+TRAILS END                                                  0840008400
+TULIP AVE                                                   0840108401
+TYLER AVE                                                   0840008400
+UNITY RD                                                    0840008400
+US127 BYP N                                                 0840008400
+US127 BYP S                                                 0840008400
+VALLEY DR                                                   0840108401
+VANARSDALL DR                                               0840108401
+VANARSDALL RD                                               0840008400
+VETERANS PARK DR                                            0840108401
+VIRGINIA AVE                                                0840008400
+VIRGINIA AVE                                                0840108401
+VOTAW RD                                                    0840008400
+W BONTA LN                                                  0840208402
+W BROADWAY ST                                               0840108401
+W COURT ST                                                  0840208402
+W FACTORY ST                                                0840108401
+W LANE PARK                                                 0840108401
+W LEXINGTON ST                                              0840108401
+W MAIN ST                                                   0840208402
+W MILL ST                                                   0840208402
+W OFFICE ST                                                 0840108401
+W POPLAR ST                                                 0840108401
+W WATER ST                                                  0840208402
+WADE LN                                                     0840008400
+WAGGENER DR                                                 0840008400
+WALNUT ST                                                   0840008400
+WALNUT ST                                                   0840108401
+WARD LN                                                     0840008400
+WARREN RD                                                   0840008400
+WARWICK RD                                                  0840008400
+WARWICK RD                                                  0840108401
+WASHINGTON ST                                               0840008400
+WATERSHORE DR                                               0840008400
+WEBB RD                                                     0840008400
+WEST LN                                                     0840108401
+WEST LOT                                                    0840008400
+WHEAT SCHOOL RD                                             0030008400
+WHEATFIELD RD                                               0840108401
+WHITENACK RD                                                0840008400
+WHITES LN                                                   0840008400
+WICKLIFFE RD                                                0840108401
+WILDWOOD RD                                                 0840008400
+WILLIAMS RD                                                 0840008400
+WILLOW CT                                                   0840108401
+WILMOTT LN                                                  0840008400
+WOODFORD PL                                                 0840008400
+WOODLAND AVE                                                0840108401
+WOODS AVE                                                   0840008400
+WOODSLAND DR                                                0840108401
+WREN ST                                                     0840108401
+YORK ST                                                     0840108401
+YOUNGS PARK LOOP                                            0840108401

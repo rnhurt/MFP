@@ -1,0 +1,2 @@
+class CallsForServiceController < ApplicationController
+end

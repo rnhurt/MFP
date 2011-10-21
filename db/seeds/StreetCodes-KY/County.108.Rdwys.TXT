@@ -1,0 +1,547 @@
+1ST ST                                                      1080010800
+2ND ST                                                      1080010800
+4TH ST                                                      1080010800
+5TH ST                                                      1080010800
+A D NOEL RD                                                 1080010800
+ACORN CT                                                    1080010800
+ADRIANNA WAY                                                1080010800
+AIRPORT RD                                                  1080010800
+AKINS RD                                                    1080010800
+ALLEN NETHERLY RD                                           1080010800
+ALLEN PL                                                    1080010800
+ALLEN PL E                                                  1080010800
+ALLEN PL W                                                  1080010800
+ALLEN PLACE NORTH DR                                        1080010800
+AMBER CT                                                    1080010800
+ANDREW CT                                                   1080010800
+ANDREW DR                                                   1080010800
+ANDREW PKWY                                                 1080010800
+ANNA LEE DR                                                 1080010800
+APPALOOSA DR                                                1080010800
+APPLE LN                                                    1080010800
+ARBOR GREEN WAY                                             1080010800
+ARBOR PL                                                    1080010800
+ARIANA DR                                                   1080010800
+ARTHUR RD                                                   1080010800
+ASHES CREEK LN                                              1080010800
+ASHES LN                                                    1080010800
+ASHLAND MDWS                                                1080010800
+ASHLAND MEADOWS BAY                                         1080010800
+ASHTON CT                                                   1080010800
+AUDREY CT                                                   1080010800
+AUTUMN CT                                                   1080010800
+AUTUMN DR                                                   1080010800
+BACK ALY                                                    1080110801
+BAILEY CT                                                   1080010800
+BAKER CT                                                    1080010800
+BANK ST                                                     1080110801
+BATTERY LN                                                  1080010800
+BEECH CREEK RD                                              1080010800
+BENJAMIN BLVD                                               1080010800
+BENNETT SPUR                                                1080010800
+BENTLEY LN                                                  1080010800
+BETTY CT                                                    1080010800
+BILLY COULTER RD                                            1080010800
+BINKLEY LN                                                  1080010800
+BLAIR RD                                                    1080010800
+BLOOMFIELD RD                                               1080010800
+BLUEGRASS ACRES RD                                          1080010800
+BLUEGRASS DR                                                1080010800
+BLUFFVIEW DR                                                1080010800
+BOBWHITE LN                                                 1080010800
+BONNIE LN                                                   1080110801
+BOSTON BRANCH CT                                            1080010800
+BOWMAN LN                                                   1080010800
+BOWMAN RD                                                   1080010800
+BRANDON CT                                                  1080010800
+BRASHEARS CREEK RD                                          1080010800
+BRASHEARS MDWS                                              1080010800
+BRASHEARS POINT RD                                          1080010800
+BRIANNA CT                                                  1080010800
+BRIAR HL                                                    1080010800
+BRIAR RDG                                                   1080010800
+BRIAR RUN                                                   1080010800
+BRISCOE LN                                                  1080010800
+BUCK CREEK CT                                               1080010800
+BUCK CREEK DR                                               1080010800
+BUD MCKINNEY RD                                             1080010800
+BURGIN NOEL RD                                              1080010800
+BURLEY BLVD                                                 1080010800
+BURNS LN                                                    1080010800
+CAMBRIDGE PL                                                1080010800
+CAPTAINS COVE DR                                            1080010800
+CARDINAL CT                                                 1080010800
+CARL MONROE RD                                              1080010800
+CAROL DR                                                    1080010800
+CARRITHERS LN                                               1080010800
+CARTER CT                                                   1080010800
+CECIL NOEL RD                                               1080010800
+CEDAR CT                                                    1080010800
+CEDAR MAC LN                                                1080010800
+CEDAR POINT RD                                              1080010800
+CEDAR SPRINGS DR                                            1080010800
+CESSNA CT                                                   1080010800
+CHADWICK DR                                                 1080010800
+CHAPLIN RD                                                  1080010800
+CHARLENE CT                                                 1080010800
+CHARLESTON CT                                               1080010800
+CHATMAN LN                                                  1080010800
+CHELSEA PARK DR                                             1080010800
+CHEROKEE CT                                                 1080010800
+CHEROKEE TER                                                1080010800
+CHERRY ORCHARD LN                                           1080010800
+CHLOE LN                                                    1080010800
+CHOLE CT                                                    1080010800
+CHOWNING LN                                                 1080010800
+CHRISTIAN CT                                                1080010800
+CLAYLEEN WAY                                                1080010800
+CLINTON CT                                                  1080010800
+COCHRANE DR                                                 1080010800
+CODY CT                                                     1080010800
+CONNIE LN                                                   1080010800
+COOK RD                                                     1080010800
+COOKS LN                                                    1080010800
+COOPER LN                                                   1080010800
+COPLEY CT                                                   1080010800
+CORPS RD                                                    1080010800
+COTTON LN                                                   1080010800
+COTTONWOOD CT                                               1080010800
+COULTER RD                                                  1080010800
+COUNTRY SIDE DR                                             1080010800
+COURTNEY LN                                                 1080010800
+CRAFTON DR                                                  1080010800
+CREEK VALLEY RD                                             1080010800
+CREEKSIDE DR                                                1080010800
+CREEKVIEW CT                                                1080010800
+CREEKVIEW DR                                                1080010800
+CRENSHAW LN                                                 1080010800
+CRESCENT RIDGE DR                                           1080010800
+CROOKED CREEK RD                                            1080010800
+CRUME CT                                                    1080110801
+CULL RD                                                     1080010800
+CURTIS WAY                                                  1080010800
+CYNTHIAS RDG                                                1080010800
+DALE LN                                                     1080010800
+DAVIS LN                                                    1080110801
+DAY RD                                                      1080010800
+DEER CREEK LN                                               1080010800
+DEER RUN PT                                                 1080010800
+DEERWOOD CT                                                 1080010800
+DEERWOOD DR                                                 1080010800
+DELTA RD                                                    1080010800
+DOE RUN CT                                                  1080010800
+DOGWOOD CIR                                                 1080010800
+DONNA AVE                                                   1080010800
+DONNA CT                                                    1080010800
+DONOVAN HILL RD                                             1080010800
+DORMAN RD                                                   1080010800
+DOTSON CT                                                   1080010800
+DOVE TRL                                                    1080010800
+DRAKES RIDGE RD                                             1080010800
+DRIFTWOOD CT                                                1080010800
+DRISCOLL RD                                                 1080010800
+DRYDEN RD                                                   1080010800
+DUTCHMAN CREEK RD                                           1080010800
+E MAIN ST                                                   1080110801
+E RIVER RD                                                  1080010800
+EARLY WYNE DR                                               1080010800
+EASTVIEW DR                                                 1080010800
+EASTVIEW DRIVE LOOP                                         1080010800
+EDGEWATER CT                                                1080010800
+EDMONDSON RD                                                1080010800
+EGGEN RD                                                    1080010800
+EISENHOWER CT                                               1080010800
+ELDER DR                                                    1080010800
+ELK CHASE CT                                                1080010800
+ELK CHASE DR                                                1080010800
+ELK CREEK CT                                                1080010800
+ELK CREEK RD                                                1080010800
+ELK PARK DR                                                 1080010800
+ELLIOTT CT                                                  1080010800
+ELM TREE LN                                                 1080010800
+ELMERS CT                                                   1080010800
+ESSEX WAY                                                   1080010800
+EUGENE HALL RD                                              1080010800
+EVELYN DR                                                   1080010800
+EVERGREEN CT                                                1080010800
+FAIRGROUNDS RD                                              1080010800
+FAIRWAY CT                                                  1080010800
+FARMERS TRCE                                                1080010800
+FAWN CT                                                     1080010800
+FEATHERBED HOLW                                             1080010800
+FLOYD ST                                                    1080010800
+FOX LAIR BLVD                                               1080010800
+FOX RUN DR                                                  1080010800
+FOXMOORE DR                                                 1080010800
+FRANKLIN RD                                                 1080010800
+FRED BAUER RD                                               1080010800
+FRONTIER AVE                                                1080010800
+FROST CT                                                    1080010800
+GARDEN DR                                                   1080010800
+GARRARD ST                                                  1080110801
+GLEN WAY                                                    1080010800
+GLENVIEW DR                                                 1080010800
+GO STALLIONS SPUR                                           1080110801
+GOEBEL RD                                                   1080010800
+GOLDSTEIN ST                                                1080010800
+GOODLETT RD                                                 1080010800
+GOOSE CREEK CT                                              1080010800
+GOOSE CREEK RD                                              1080010800
+GORDON CT                                                   1080010800
+GORDON DR                                                   1080010800
+GRANDVIEW CT                                                1080010800
+GRANDVIEW DR                                                1080010800
+GRANT CT                                                    1080010800
+GRAPE VINEYARD WAY                                          1080010800
+GRAYS RUN RD                                                1080010800
+GREEN ACRES RD                                              1080010800
+GREENS LN                                                   1080010800
+GREER MARTIN RD                                             1080010800
+GREER RD                                                    1080010800
+HALEY RD                                                    1080010800
+HALL RD                                                     1080010800
+HAMPTON CT                                                  1080010800
+HARDESTY RIDGE RD                                           1080010800
+HARDIN CT                                                   1080110801
+HARDIN ST                                                   1080110801
+HARLEY DR                                                   1080010800
+HARRIS DR                                                   1080010800
+HARVEST DR                                                  1080010800
+HENRY CT                                                    1080010800
+HERITAGE WAY                                                1080010800
+HICKMAN LN                                                  1080010800
+HICKORY LN                                                  1080010800
+HICKORY RDG                                                 1080010800
+HICKORY WOODS CT                                            1080010800
+HICKORY WOODS DR                                            1080010800
+HIDDEN CREEK LN                                             1080010800
+HIDDEN VLY                                                  1080010800
+HIGHGROVE RD                                                1080009000
+HIGHVIEW DR                                                 1080010800
+HIGHWAY TO HEAVEN                                           1080010800
+HILL AND DALE DR                                            1080010800
+HILL RIDGE DR                                               1080010800
+HILL ST                                                     1080010800
+HILL ST                                                     1080110801
+HILLARY MARTIN RD                                           1080010800
+HILLSIDE CT                                                 1080010800
+HILLVALLEY DR                                               1080010800
+HILLVIEW CT                                                 1080010800
+HOAGLAND HILL RD                                            1080010800
+HOCHSTRASSER RD                                             1080010800
+HOLLY CT                                                    1080010800
+HOUGHLIN RD                                                 1080010800
+HOUSTON CT                                                  1080110801
+HUDSON DR                                                   1080010800
+HUMES LN                                                    1080010800
+HUNTER RD                                                   1080010800
+HUNTER SPUR                                                 1080010800
+HUNTERS TRCE                                                1080010800
+INDIAN RIDGE CT                                             1080010800
+INDIAN RIDGE DR                                             1080010800
+INDIAN WAY                                                  1080010800
+INDUSTRIAL RD                                               1080010800
+INGHRAM LN                                                  1080010800
+INGLENOOK DR                                                1080010800
+INGRAHM MOUNTAIN RD                                         1080010800
+INMAN LN                                                    1080010800
+ISAAC WAY                                                   1080010800
+J T JOHNSON RD                                              1080010800
+JANES WAY                                                   1080010800
+JEFFERSON ST                                                1080110801
+JEFFIERS LN                                                 1080010800
+JENNIFERS PT                                                1080010800
+JEREMY CT                                                   1080010800
+JESSE CT                                                    1080010800
+JESSICA CT                                                  1080010800
+JEWELL VALLEY RD                                            1080010800
+JIMS CT                                                     1080010800
+JOHN HENRY RD                                               1080010800
+JOHN SPARROW LN                                             1080010800
+JOHNSON LN                                                  1080010800
+JONI LN                                                     1080010800
+JULIA CT                                                    1080010800
+JUSTIN BLVD                                                 1080010800
+KEELING LN                                                  1080010800
+KELLY CT                                                    1080010800
+KELLY DR                                                    1080010800
+KIMBERLY CT                                                 1080010800
+KINGS CHURCH RD                                             0150010800
+KRISTEN DR                                                  1080010800
+KY1633 CONNECTOR                                            1080010800
+L G DAVIS RD                                                1080010800
+LAKEPOINT CT                                                1080010800
+LAKESIDE DR                                                 1080010800
+LAKEVIEW DR                                                 1080010800
+LANTER LN                                                   1080010800
+LAWSON LN                                                   1080010800
+LEANN DR                                                    1080010800
+LEE CT                                                      1080010800
+LEE STEVENS RD                                              1080010800
+LILLY PIKE                                                  1080010800
+LINCOLN CT                                                  1080010800
+LINCOLN DR                                                  1080010800
+LINCOLN TRCE                                                1080010800
+LISTER SPARROW RD                                           1080010800
+LITTLE BEECH LN                                             1080010800
+LITTLE CROOKED CREEK RD                                     1080000300
+LITTLE ELK RD                                               1080010800
+LITTLE MOUNT CHURCH RD                                      1080010800
+LITTLE MOUNT RD                                             1080010800
+LITTLE UNION RD                                             1080010800
+LITTLEWOODS CT                                              1080010800
+LOCUST DR                                                   1080010800
+LONE OAK DR                                                 1080010800
+LOOP RD                                                     1080010800
+LORETTA DR                                                  1080010800
+LORRAINE WAY                                                1080010800
+LOUISE CT                                                   1080010800
+LOUISVILLE RD                                               1080010800
+LOVE LN                                                     1080010800
+MADDOX AVE                                                  1080010800
+MADDOX RD                                                   1080010800
+MADISON CT                                                  1080010800
+MAGGIE CT                                                   1080010800
+MAIN CROSS                                                  1080110801
+MAPLE AVE                                                   1080110801
+MAPLE LEAF CT                                               1080010800
+MARKET ST                                                   1080010800
+MARTIN LN                                                   1080010800
+MARY HOUGHLIN RD                                            1080010800
+MASTERS CT                                                  1080010800
+MASTERS LN                                                  1080010800
+MATTIE DR                                                   1080010800
+MAX ROUSE RD                                                1080010800
+MCALLISTER LN                                               1080010800
+MCCALL WAY                                                  1080010800
+MCCLAIN HEIGHTS DR                                          1080010800
+MCINTOSH CT                                                 1080010800
+MCINTOSH DR                                                 1080010800
+MEADOWLAKE CT                                               1080010800
+MEADOWLAKE DR                                               1080010800
+MEADOWRIDGE DR                                              1080010800
+MEADOWVIEW CT                                               1080010800
+MEADOWVIEW DR                                               1080010800
+MEGAN BLVD                                                  1080010800
+MERRIFIELD DR                                               1080010800
+MICHAEL CT                                                  1080010800
+MIKE BROWN RD                                               1080010800
+MILL HL                                                     1080010800
+MILL HL                                                     1080110801
+MILL RD                                                     1080010800
+MILL ST                                                     1080010800
+MILL ST                                                     1080110801
+MILLER RD                                                   1080010800
+MITCHELL LN                                                 1080010800
+MOCKINGBIRD DR                                              1080010800
+MT EDEN RD                                                  1080010800
+MT WASHINGTON RD                                            1080010800
+MURPHY LN                                                   1080010800
+MURRAY RD                                                   1080010800
+NATURE TRL                                                  1080010800
+NETHERTON LN                                                1080010800
+NETHERY RD                                                  1080010800
+NEVIN LN                                                    1080010800
+NONE KNOWN                                                  1080010800
+NONE KNOWN                                                  1080110801
+NORMANDY CT                                                 1080010800
+NORMANDY HEIGHTS RD                                         1080010800
+NORMANDY RD                                                 1080010800
+NORMANDY STATION RD                                         1080010800
+OAK HAVEN CT                                                1080010800
+OAK LEAF CT                                                 1080010800
+OAK RIDGE DR                                                1080010800
+OAK TREE WAY                                                1080010800
+OCHS LN                                                     1080010800
+ODELL CT                                                    1080110801
+OLD ASHES CREEK RD                                          1080010800
+OLD BRIAR RIDGE RD                                          1080010800
+OLD HEADY RD                                                1080010800
+OLD KY 1795                                                 1080010800
+OLD POSSUM RIDGE RD                                         1080010800
+OLD VAN BUREN RD                                            1080010800
+OVERDALE LN                                                 1080010800
+OVERLOOK CT                                                 1080010800
+OVERLOOK RD                                                 1080010800
+P J CT                                                      1080010800
+PARDNER LN                                                  1080010800
+PARK ALY                                                    1080110801
+PARK PL                                                     1080010800
+PARK RD                                                     1080010800
+PARKERS CV                                                  1080010800
+PATTON LN                                                   1080010800
+PATTON SPUR                                                 1080010800
+PAUL AVE                                                    1080010800
+PAUL FINN RD                                                1080010800
+PEACH ORCHARD CIR                                           1080010800
+PEACHTREE CT                                                1080010800
+PEACHTREE LN                                                1080010800
+PEARL CT                                                    1080010800
+PERSIMMON DR                                                1080010800
+PETERSON DR                                                 1080010800
+PHILLIPS LN                                                 1080010800
+PILOTS WAY                                                  1080010800
+PIN OAK CT                                                  1080010800
+PIN OAK DR                                                  1080010800
+PINE CT                                                     1080010800
+PIONEER DR                                                  1080010800
+PLANTATION CT                                               1080010800
+PLEASANT RAILWAY                                            1080010800
+PLUM CREEK RD                                               1080010800
+PLUM RIDGE RD                                               1080010800
+POINT ST                                                    1080110801
+PREVALLEY RD                                                1080010800
+PROGRESSIVE DR                                              1080010800
+QUAIL CALL CT                                               1080010800
+RAILROAD ST                                                 1080110801
+RALPH SPRAGGENS RD                                          1080010800
+RAVENS WOOD                                                 1080010800
+RAY RD                                                      1080010800
+REASOR AVE                                                  1080110801
+RED BUD CIR                                                 1080010800
+RED BUD CT                                                  1080010800
+RED BUD WAY                                                 1080010800
+RED ROW ST                                                  1080110801
+RICE LN                                                     1080010800
+RICHIE CT                                                   1080010800
+RIDGECREST                                                  1080010800
+RIDGECREST DR                                               1080010800
+RISING SUN DR                                               1080010800
+RIVER HEIGHTS BLVD                                          1080010800
+RIVER HILL CT                                               1080010800
+RIVER HILL DR                                               1080010800
+RIVER PARK BLVD                                             1080010800
+ROBERTS RD                                                  1080010800
+ROCK FENCE CT                                               1080010800
+ROLLING TRL                                                 1080010800
+ROSE LN                                                     1080010800
+ROSS CT                                                     1080010800
+RYDER LN                                                    1080010800
+SADDLEBROOK TRL                                             1080010800
+SARAH CT                                                    1080010800
+SARAH ELIZABETH WAY                                         1080010800
+SAVANNAH CT                                                 1080010800
+SCARSDALE LN                                                1080010800
+SCHULTZ LN                                                  1080010800
+SEGO RD                                                     1080010800
+SETTLERS BLVD                                               1080010800
+SETTLERS CENTER RD                                          1080010800
+SETTLERS CTR                                                1080010800
+SETTLERS POINT DR                                           1080010800
+SETTLERS TRACE RD                                           1080010800
+SHAGBARK DR                                                 1080010800
+SHAWNEE RUN                                                 1080010800
+SHELBY DR                                                   1080010800
+SHELBYVILLE RD                                              1080010800
+SHOUSE CT                                                   1080010800
+SKYLINE DR                                                  1080010800
+SMITHA RD                                                   1080010800
+SNIDER RD                                                   1080010800
+SPEARS DR                                                   1080010800
+SPILLWAY RD                                                 1080010800
+SPINPOINTE RD                                               1080010800
+SPRING MEADOWS DR                                           1080010800
+STEPHANIE AVE                                               1080010800
+STEVEN CT                                                   1080010800
+STEVENS FARM LN                                             1080010800
+STEVENS LN                                                  1080010800
+STEWART RIDGE RD                                            1080010800
+STONE CT                                                    1080010800
+STONECREEK DR                                               1080010800
+STONECREST CT                                               1080010800
+STONECREST DR                                               1080010800
+STONERIDGE CT                                               1080010800
+STONERIDGE DR                                               1080010800
+STONEVIEW CT                                                1080010800
+STONEY HOLLOW RD                                            1080010800
+STRIKE HOUND CT                                             1080010800
+STUMPS LN                                                   1080010800
+SUFFOLK DR                                                  1080010800
+SUGARBERRY LN                                               1080010800
+SUMMER CT                                                   1080010800
+SUMMER PLACE DR                                             1080010800
+SWAN WAY                                                    1080010800
+SYCAMORE DR                                                 1080010800
+TALLY HO CT                                                 1080010800
+TANGLEWOOD CT                                               1080010800
+TANGLEWOOD DR                                               1080010800
+TAYLORSVILLE RD                                             1080010800
+TAYLORSVILLE RD                                             1080110801
+TAYLORSVILLE ROAD RAMP                                      1080010800
+TEN MILE CREEK RD                                           1080010800
+TEN MILE RD                                                 1080010800
+THE LANDINGS                                                1080010800
+THOMAS LN                                                   1080010800
+THOMAS TRCE                                                 1080010800
+THOMPSON RD                                                 1080010800
+TIMBERLINE CT                                               1080010800
+TIMBERLINE DR                                               1080010800
+TINDALE DR                                                  1080010800
+TOBACCO RD                                                  1080010800
+TOMMY LEWIS RD                                              1080010800
+TOWNHILL RD                                                 1080010800
+TOWNHILL RD                                                 1080110801
+TRAVIS RD                                                   1080010800
+TREE STAND CT                                               1080010800
+TRIPLE D DR                                                 1080010800
+TRUAX LN                                                    1080010800
+TRUMAN CT                                                   1080010800
+TSUEDA DR                                                   1080010800
+TURKEY RUN CT                                               1080010800
+TURNPIKE AVE                                                1080010800
+TWIN CEDARS CT                                              1080010800
+TWIN CREEK RD                                               1080010800
+TYLER CT                                                    1080010800
+VALERIE CT                                                  1080010800
+VALLEYVIEW DR                                               1080010800
+VAN BUREN RD                                                1080010800
+VAN DYKE AVE                                                1080010800
+VAN DYKE MILL RD                                            1080010800
+VEECH RD                                                    1080010800
+VILLAGE DR                                                  1080010800
+VINTAGE CT                                                  1080010800
+VINTAGE PL                                                  1080010800
+VISITOR CENTER PARKING LOT                                  1080010800
+W MAIN ST                                                   1080110801
+W RIVER RD                                                  1080010800
+WAGON TRL                                                   1080010800
+WALNUT GROVE DR                                             1080010800
+WALNUT LN                                                   1080010800
+WASHBURN LN                                                 1080010800
+WASHINGTON ST                                               1080010800
+WASHINGTON ST                                               1080110801
+WATER ST                                                    1080110801
+WATERFORD CT                                                1080010800
+WATERFORD LOOP                                              1080010800
+WATKINS GLEN WAY                                            1080010800
+WEBB LN                                                     1080010800
+WHEELER CT                                                  1080010800
+WHITE OAK DR                                                1080010800
+WHITETAIL DR                                                1080010800
+WHITFIELD LN                                                1080010800
+WILDER RD                                                   1080010800
+WILDWOOD CT                                                 1080010800
+WILLIAMS LANDFILL RD                                        1080010800
+WILLIS WAY                                                  1080010800
+WILLOW CT                                                   1080010800
+WILLOW RIDGE CT                                             1080010800
+WILLOW RUN CT                                               1080010800
+WILLOW RUN DR                                               1080010800
+WILLOWBROOK CT                                              1080010800
+WILLOWBROOK DR                                              1080010800
+WILSONVILLE HEIGHTS DR                                      1080010800
+WILSONVILLE RD                                              1080010800
+WINDING CT                                                  1080010800
+WINDSONG CT                                                 1080010800
+WINTER CT                                                   1080010800
+WINTER DR                                                   1080010800
+WITHROW PL                                                  1080010800
+WOODED CREEK CT                                             1080010800
+WOODLAND HILLS DR                                           1080010800
+WOODLAWN DR                                                 1080010800
+WOODSON CT                                                  1080010800
+WORNINGFORD DR                                              1080010800
+WYNEMER DR                                                  1080010800
+YATES RD                                                    1080010800
+YODER STATION RD                                            1080010800
+YODER TIPTON RD                                             1080010800

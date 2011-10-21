@@ -1,0 +1,854 @@
+10TH ST                                                     0580105801
+11TH ST                                                     0580105801
+12TH ST                                                     0580105801
+1ST FORK RIVER RD                                           0580005800
+1ST ST                                                      0580005800
+2ND FORK RIVER RD                                           0580005800
+2ND ST                                                      0580105801
+3RD ST                                                      0580005800
+3RD ST                                                      0580105801
+4TH ST                                                      0580105801
+5TH ST                                                      0580105801
+6TH ST                                                      0580105801
+7TH ST                                                      0580105801
+8TH ST                                                      0580105801
+9TH ST                                                      0580105801
+A AND M LN                                                  0580005800
+A HILL LN                                                   0580005800
+ADAMS CEMETERY RD                                           0580005800
+ADAMS CEMETERY ROAD SPUR                                    0580005800
+AIRPORT RD                                                  0580005800
+AKERS HOLW                                                  0580005800
+ALBERT HORNE RD                                             0580005800
+AMERICAN STREET ANDARD DR                                   0580005800
+ANDREA CIR                                                  0580105801
+ANNIES LN                                                   0580005800
+APACHE DR                                                   0580005800
+APPLE JACK BR                                               0580005800
+APPLE ST                                                    0580005800
+ARLAND HTS                                                  0580005800
+ARLEN DR                                                    0580005800
+ARROWHEAD EST                                               0580005800
+ARROWOOD HOLW                                               0580005800
+ARROWOOD SUBDIVISION DR                                     0580005800
+ASA CRK                                                     0580005800
+ASHLEY DR                                                   0580005800
+ATKINSON AVE                                                0580005800
+AUIER SUBDIVISION RD                                        0580005800
+AUXIER AVE                                                  0580105801
+B J DANIELS RD                                              0580005800
+BAILEY BRANCH RD                                            0580005800
+BAKER BR                                                    0580005800
+BAKER BRANCH HL                                             0580005800
+BANJER BR                                                   0580005800
+BARBER BR                                                   0580005800
+BARNETTS CREEK RD                                           0580005800
+BART BR                                                     0580005800
+BEAR BR                                                     0580005800
+BEAR HOLW                                                   0580005800
+BEE BRANCH RD                                               0580005800
+BENT BRANC RD                                               0580005800
+BIG LICK BR                                                 0580005800
+BIG LICK FORK RD                                            0580005800
+BIG LICK SUBDIVISION RD                                     0580005800
+BIG LICK SUBDIVISION SPUR                                   0580005800
+BIG SANDY SHRINE RD                                         0580005800
+BILLY SALYERS BR                                            0580005800
+BLAIR DR                                                    0580005800
+BLAIR LN                                                    0580105801
+BLAIR RD                                                    0580005800
+BLANCH LN                                                   0580005800
+BLANTON BR                                                  0580005800
+BLANTON DR                                                  0580005800
+BLEVINS BR                                                  0580005800
+BLEVINS DR                                                  0580105801
+BLOSSOM BR                                                  0580005800
+BLUE GRASS DR                                               0580005800
+BOAT GUNNELL FORK                                           0580005800
+BOBS BR                                                     0580005800
+BOLIN BR                                                    0580005800
+BOYD BR                                                     0580005800
+BOYD ST                                                     0580005800
+BOYD ST                                                     0580105801
+BRADLEY CREEKOSSING RD                                      0580005800
+BRIDGE DR                                                   0580005800
+BRIDGE ST                                                   0580105801
+BRIDGE STREET CROSS CREEK                                   0580005800
+BRIER FORK                                                  0580005800
+BROAD ST                                                    0580005800
+BROADWAY ST                                                 0580105801
+BROOKS CONLEY RD                                            0580005800
+BROWN BR                                                    0580005800
+BROWN ST                                                    0580105801
+BROWNS FORK                                                 0580005800
+BRUSHY FORK RD                                              0580005800
+BUELL WILLIAMS DR                                           0580005800
+BUFFALO CRK                                                 0580005800
+BURCHETT HOLW                                               0580005800
+BURKE LN                                                    0580005800
+BURKSHIRE LNDG                                              0580005800
+BURNT CABIN BR                                              0580005800
+BURNT CABIN RD                                              0580005800
+BURNT CABIN TOWER RD                                        0580005800
+BURTON DR                                                   0580005800
+BURTON LN                                                   0580005800
+BUSKIRK DR                                                  0580005800
+BUTCHER CEMETERY RD                                         0580005800
+BUTCHER HOLW                                                0580005800
+BUTTERMILK BR                                               0580005800
+BUTTERMILK BRANCH RD                                        0580005800
+BUZZARD BRANCH RD                                           0580005800
+BUZZARD BRANCH SPUR                                         0580005800
+BUZZARD NEST BR                                             0580005800
+BUZZARD NEST SPUR                                           0580005800
+C BUTCHER RD                                                0580005800
+C DR                                                        0580005800
+C MCKENZIE RD                                               0580005800
+C VANHOOSE DR                                               0580005800
+CABIN CREEK RD                                              0580005800
+CACTUS RD                                                   0580005800
+CALDWELL BRANCH RD                                          0580005800
+CAMP BR                                                     0580005800
+CAMPBELL BR                                                 0580005800
+CAMPIGATTA HOLW                                             0580005800
+CANE BR                                                     0580005800
+CANNEL COAL GAP                                             0580005800
+CANNELL COAL GAP RD                                         0580005800
+CANNELL LN                                                  0580005800
+CANTRELL FORK                                               0580005800
+CARNATION RD                                                0580005800
+CARTER LN                                                   0580105801
+CASEY DR                                                    0580005800
+CASSIE BURNS DR                                             0580005800
+CASTLE CEMETERY RD                                          0580005800
+CASTLE DR                                                   0580005800
+CASTLE FORK                                                 0580005800
+CASTLE HOLLOW RD                                            0580005800
+CAUDILL BR                                                  0580005800
+CAUDILL FORK                                                0580005800
+CAVE FORK                                                   0580005800
+CAVINS BR                                                   0580005800
+CEMETERY RD                                                 0580005800
+CEMETERY RD                                                 0580105801
+CENTRAL ELEMENTARY DR                                       0580105801
+CERAMIC DR                                                  0580005800
+CHANDLER DR                                                 0580005800
+CHARCOAL DR                                                 0580005800
+CHERRY HILL LN                                              0580005800
+CHERRY ST                                                   0580005800
+CHESSIE LN                                                  0580105801
+CHESTNUT CRK                                                0580005800
+CHESTNUT RD                                                 0580005800
+CHET TACKETT HOLW                                           0580005800
+CHILDERS DR                                                 0580005800
+CHRISTIAN WAY                                               0580005800
+CHURCH DR                                                   0580005800
+CHURCH ST                                                   0580105801
+CIRCLE DR                                                   0580005800
+CIRCLE SPUR                                                 0580005800
+CLARA DR                                                    0580005800
+CLARKS DR                                                   0580005800
+CLAY AVE                                                    0580005800
+COLE RD                                                     0580005800
+COLEMAN BR                                                  0580005800
+COLLEGE ST                                                  0580105801
+COLLINS BRANCH RD                                           0580005800
+COLLINS CEMETERY RD                                         0580005800
+COLLINS DR                                                  0580005800
+COLLINS FORK RD                                             0580005800
+COLVIN BR                                                   0580005800
+COLVIN CEMETERY RD                                          0580005800
+COMBS DR                                                    0580005800
+COMMUNITY DR                                                0580005800
+CONLEY CEMETERY RD                                          0580005800
+CONLEY DR                                                   0580005800
+CONLEY HOLLOW RD                                            0580005800
+CONLEY RD                                                   0580005800
+CONNER DR                                                   0580005800
+COURT ST                                                    0580105801
+COX BR                                                      0580005800
+CRIGGER CRK                                                 0580005800
+CROSS CREEK RD                                              0580005800
+CROSS CRK                                                   0580005800
+CUBA BRANCH PATTI FLAT RD                                   0580005800
+CUMBO CEMETERY RD                                           0580005800
+CURTIS DR                                                   0580005800
+D COLLIER RD                                                0580005800
+D CONLEY BR                                                 0580005800
+DAISY LN                                                    0580005800
+DAISY ST                                                    0580105801
+DAN GAMBILL DR                                              0580005800
+DANIEL DR                                                   0580005800
+DANIEL POTTER DR                                            0580005800
+DANIELS BRANCH RD                                           0580005800
+DANIELS LN                                                  0580005800
+DANIELS VILLAGE RD                                          0580005800
+DAVIS BR                                                    0580005800
+DAVIS LN                                                    0580005800
+DAVIS ST                                                    0580105801
+DEAD FALL BR                                                0580005800
+DEBOARDS HOLW                                               0580005800
+DELONG RD                                                   0580005800
+DENNIS HOLW                                                 0580005800
+DENNISON BR                                                 0580005800
+DENVER BR                                                   0580005800
+DENVER BRANCH SPUR                                          0580005800
+DEPOT RD                                                    0580005800
+DEPOT RD                                                    0580105801
+DEPOT ST                                                    0580105801
+DERBY DR                                                    0580005800
+DETENTION CENTER RD                                         0580005800
+DICEY FORK                                                  0580005800
+DIXIE DR                                                    0580005800
+DIXON BRANCH RD                                             0580005800
+DIXON ST                                                    0580005800
+DOBSON RD                                                   0580005800
+DOG FORK                                                    0580005800
+DOGWOOD FORK                                                0580005800
+DOGWOOD LN                                                  0580105801
+DORTON ST                                                   0580005800
+DRY BR                                                      0580005800
+DUGAN DR                                                    0580005800
+DUNCAN ST                                                   0580005800
+E BURTON RD                                                 0580005800
+E CLAY AVE                                                  0580005800
+E DORTON BLVD                                               0580005800
+EAST ST                                                     0580105801
+EASY ST                                                     0580005800
+EBBS LN                                                     0580005800
+ELM ST                                                      0580105801
+ELWOOD LN                                                   0580005800
+EMMA DR                                                     0580005800
+ENGLAND DR                                                  0580005800
+ENSIGN DR                                                   0580005800
+ESTEP BR                                                    0580005800
+ESTEP CEMETERY RD                                           0580005800
+ESTEP CT                                                    0580005800
+ESTEP LN                                                    0580005800
+EUCLID AVE                                                  0580005800
+EUCLID AVE                                                  0580105801
+EUDELL BR                                                   0580005800
+F HITCHCOCK RD                                              0580005800
+FAIRCHILD BR                                                0580005800
+FAIRCHILD HL                                                0580005800
+FAIRCHILD LN                                                0580005800
+FALLS RD                                                    0580005800
+FEDERAL DR                                                  0580005800
+FIRE DEPARTMENT DR                                          0580005800
+FISHTRAP HL                                                 0580005800
+FITCH BR                                                    0580005800
+FITCH LN                                                    0580105801
+FLAT GAP DR                                                 0580005800
+FLATGAP LOOKOUT TOWER RD                                    0580005800
+FLATWOOD BR                                                 0580005800
+FM STAFFORD AVE                                             0580105801
+FOREST PARK RD                                              0580105801
+FOX HUNTERS RIDGE                                           0580005800
+FRALEY HOLLOW RD                                            0580005800
+FRANK BLEVINS DR                                            0580005800
+FRANK ST                                                    0580105801
+FRANK VANHOOSE BR                                           0580005800
+FRANKLIN DR                                                 0580005800
+FRANKS CRK                                                  0580005800
+FRANKS ST                                                   0580105801
+FREEMAN RD                                                  0580005800
+FROGNERY BR                                                 0580005800
+FROZEN BR                                                   0580005800
+FYFFE BR                                                    0580005800
+GARLAND DR                                                  0580005800
+GEORGE CREEK CHURCH RD                                      0580005800
+GERALD CARR BR                                              0580005800
+GETTY BLVD                                                  0580005800
+GILLEM BR                                                   0580005800
+GLADE BR                                                    0580005800
+GOBLE BR                                                    0580005800
+GOBLE LN                                                    0580005800
+GRASSY CREEK RD                                             0580005800
+GRASSY CRK                                                  0580005800
+GRASSY LN                                                   0580005800
+GRAY MARE BR                                                0580005800
+GREASY BR                                                   0580005800
+GREASY BRANCH RD                                            0580005800
+GREEN VALLEY RD                                             0580005800
+GREENROCK FORK                                              0580005800
+GREENTOWN LN                                                0580005800
+GREENTOWN LOOP                                              0580005800
+GREER BR                                                    0580005800
+GRIM HOLW                                                   0580005800
+GROUND HOG DR                                               0580005800
+GROVER LAWSON BR                                            0580005800
+H HALE DR                                                   0580005800
+HACKNEY HOLW                                                0580005800
+HAGER HILL FREEWILL BAPTIST CHURCH RD                       0580005800
+HAGER HILL LOOP                                             0580005800
+HAGER HILL POST OFFICE RD                                   0580005800
+HALE DR                                                     0580005800
+HALL BR                                                     0580005800
+HALL ST                                                     0580005800
+HAMILTON DR                                                 0580005800
+HAMMOND RD                                                  0580005800
+HANNAH FORK                                                 0580005800
+HANNERS BR                                                  0580005800
+HAPPY HOLLOW RD                                             0580005800
+HAPPY TRL                                                   0580005800
+HARGIS CRK                                                  0580005800
+HAROLD CONLEY RD                                            0580005800
+HARRIS BR                                                   0580005800
+HARRY VANHOOSE CEMETERY RD                                  0580005800
+HARVEST DR                                                  0580005800
+HASKELL RATLIFF RD                                          0580005800
+HAWES FORK                                                  0580005800
+HAYES BR                                                    0580005800
+HEAD OF HOOD CRK                                            0580005800
+HEAD OF MUDLICK RD                                          0580005800
+HEAD OF PICKLE FORK                                         0580005800
+HENRY ST                                                    0580105801
+HIDDEN VALLEY RD                                            0580005800
+HIGHLAND AVE                                                0580105801
+HIGHLAND MEMORIAL CEMETERY RD                               0580005800
+HILL ST                                                     0580005800
+HILL TOP RD                                                 0580005800
+HILLSIDE FARM RD                                            0580005800
+HILTON HOLW                                                 0580005800
+HIRAM REED RD                                               0580005800
+HITCHCOCK BR                                                0580005800
+HITCHCOCK LOOP                                              0580005800
+HOLBROOK BR                                                 0580005800
+HOMESTEAD ESTATES LN                                        0580005800
+HOMESTEAD LN                                                0580005800
+HONEY LN                                                    0580005800
+HONEYCUTT BR                                                0580005800
+HORNE BR                                                    0580005800
+HORSE PICTURE BR                                            0580005800
+HORSESHOE ST                                                0580005800
+HURRICANE BR                                                0580005800
+HYDEN BR                                                    0580005800
+I WARD RD                                                   0580005800
+INDUSTRIAL PARK RD                                          0580005800
+IRIS ST                                                     0580105801
+IRVIN LN                                                    0580005800
+IVA SEGRAVS HOLW                                            0580005800
+IZABELLA DR                                                 0580005800
+J C ESTATE DRIVE NO2                                        0580005800
+J C ESTATES DR                                              0580005800
+J SALYER RD                                                 0580005800
+J T BAILEY RD                                               0580005800
+JACKS DR                                                    0580005800
+JACKSON DR                                                  0580005800
+JACKSON FORK                                                0580005800
+JAMES BAYES RD                                              0580005800
+JAMES S TRIMBLE BLVD                                        0580105801
+JASPER LN                                                   0580005800
+JEFFERSON AVE                                               0580105801
+JENNIFER DR                                                 0580105801
+JENNYS CREEK SUBDIVISION                                    0580005800
+JENNYS CRK                                                  0580005800
+JESSICA W YATES DR                                          0580005800
+JIM ARMS BR                                                 0580005800
+JIM GAMBILL DR                                              0580005800
+JIM STAMBAUGH RD                                            0580005800
+JIMMY SALYER BR                                             0580005800
+JOHNSON BR                                                  0580005800
+JOHNSON CENTRAL HIGH SCHOOL DR                              0580105801
+JOHNSON HOLW                                                0580005800
+JONATHAN WEBB BR                                            0580005800
+JOSHUA DR                                                   0580005800
+JOY MCCARTY RD                                              0580005800
+K FORK                                                      0580005800
+KATIE LN                                                    0580005800
+KEEL DR                                                     0580005800
+KELLY DR                                                    0580005800
+KENTUCKY LN                                                 0580105801
+KIMBLER LN                                                  0580005800
+KING CEMETERY RD                                            0580005800
+KING DR                                                     0580105801
+KING LN                                                     0580105801
+KITE HOLW                                                   0580005800
+KY1092                                                      0580005800
+KY1100                                                      0580005800
+KY1107                                                      0580005800
+KY1145                                                      0580005800
+KY1409                                                      0580005800
+KY1428                                                      0580005800
+KY1559                                                      0580005800
+KY1596                                                      0580005800
+KY1614                                                      0580005800
+KY1624                                                      0580005800
+KY172                                                       0580005800
+KY1750                                                      0580005800
+KY201                                                       0580005800
+KY2039                                                      0580005800
+KY2040                                                      0580005800
+KY2275                                                      0580005800
+KY2318                                                      0580005800
+KY2381                                                      0580005800
+KY2559                                                      0580005800
+KY3                                                         0580005800
+KY302                                                       0580005800
+KY321                                                       0580005800
+KY321                                                       0580105801
+KY321 BUS                                                   0580105801
+KY321 N                                                     0580005800
+KY3214                                                      0580005800
+KY3214                                                      0880005800
+KY3224                                                      0580005800
+KY3387                                                      0580005800
+KY3390                                                      0580005800
+KY3507                                                      0580005800
+KY3516                                                      0580005800
+KY40                                                        0580005800
+KY40                                                        0580105801
+KY40 E                                                      0580005800
+KY40 W                                                      0580005800
+KY469                                                       0580005800
+KY580                                                       0580005800
+KY581                                                       0580005800
+KY581                                                       0580105801
+KY689                                                       0580005800
+KY689 E                                                     0580005800
+KY825                                                       0580005800
+KY993                                                       0580005800
+L BARKER BR                                                 0580005800
+L BOGGS RD                                                  0580005800
+L CONLEY RD                                                 0580005800
+L GREEN RD                                                  0580005800
+LAKEVIEW CEMETERY RD                                        0580005800
+LANEY DR                                                    0580005800
+LAUREL BRANCH RD                                            0580005800
+LAUREL CRK                                                  0580005800
+LAUREL ST                                                   0580105801
+LEES TRAILER COURT RD                                       0580005800
+LEFT FORK BROWNS FORK                                       0580005800
+LEFT FORK CAUDILL BR                                        0580005800
+LEFT FORK DANIELS CREEK                                     0580005800
+LEFT FORK DANIELS CREEK RD                                  0580005800
+LEFT FORK DOGWOOD FORK                                      0580005800
+LEFT FORK HAMMOND CREEK                                     0580005800
+LEFT FORK HARRIS BR                                         0580005800
+LEFT FORK HOOD CREEK                                        0580005800
+LEFT FORK LICK BR                                           0580005800
+LEFT FORK LITTLE PAINT RD                                   0580005800
+LEFT FORK MARSHALL LN                                       0580005800
+LEFT FORK MUSIC BR                                          0580005800
+LEFT FORK ROBINSON DR                                       0580005800
+LEFT FORK SPARKS BR                                         0580005800
+LEFT FORK TEAYS BR                                          0580005800
+LEFT FORK TWO MILE CREEK                                    0580005800
+LEMASTER CEMETERY RD                                        0580005800
+LEN ST                                                      0580005800
+LEWIS BR                                                    0580005800
+LEWIS DR                                                    0580005800
+LICK BRANCH RD                                              0580005800
+LICK FORK DR                                                0580005800
+LILAC ST                                                    0580105801
+LINCOLN AVE                                                 0580105801
+LINCOLN ST                                                  0580105801
+LINDY BR                                                    0580005800
+LITTERAL CEMETERY RD                                        0580005800
+LITTLE LICK FORK RD                                         0580005800
+LITTLE MINE FORK                                            0580005800
+LITTLE MUDLICK RD                                           0580005800
+LITTLE PAINT CHURCH RD                                      0580005800
+LITTLE PAINT CRK                                            0580005800
+LIVELY LN                                                   0580005800
+LOCUST GROVE RD                                             0580005800
+LOON BR                                                     0580005800
+LOW GAP FORK                                                0580005800
+LOWER ST                                                    0580105801
+LOWER TWIN BR                                               0580005800
+LOWES CASTLE RD                                             0580005800
+LOWRY AVE                                                   0580105801
+LUCY CASTLE HOLW                                            0580005800
+LUCY LN                                                     0580005800
+LUNDY JUSTICE BR                                            0580005800
+LYON DR                                                     0580105801
+M MOLLETTE RD                                               0580005800
+M SALYERS BR                                                0580005800
+M VANOVER BR                                                0580005800
+MADISON AVE                                                 0580105801
+MAIN CAMP BR                                                0580005800
+MAIN CAMP SPUR                                              0580005800
+MAIN ST                                                     0580005800
+MAIN ST                                                     0580105801
+MAIN STREET ALY                                             0580005800
+MAPLE ST                                                    0580105801
+MAPLE TREE DR                                               0580005800
+MARGARET HTS                                                0580105801
+MARINA RD                                                   0580005800
+MARSHALL LANE SPUR                                          0580005800
+MART BR                                                     0580005800
+MARTIN CHILDERS DR                                          0580005800
+MARTIN PRESTON LN                                           0580005800
+MARY MEEK RD                                                0580005800
+MASON ST                                                    0580005800
+MASONS LN                                                   0580005800
+MAY CEMETERY RD                                             0580005800
+MAYFAIR VILLAGE APARTMENTS DR                               0580005800
+MC CARTY BR                                                 0580005800
+MCCLOUD DR                                                  0580005800
+MCCLURE ST                                                  0580005800
+MCCLURE VILLAGE                                             0580005800
+MCKENZIE ADDITION                                           0580005800
+MCKENZIE BR                                                 0580005800
+MCKENZIE CEMETERY RD                                        0580005800
+MCKENZIE FORK                                               0580005800
+MCKINLEY WEBB DR                                            0580005800
+MEADE BR                                                    0580005800
+MEADE HOLLOW RD                                             0580005800
+MEADOW FORK                                                 0580005800
+MEADOW LN                                                   0580005800
+MEEK BR                                                     0580005800
+MEEK ST                                                     0580005800
+MELVIN DR                                                   0580005800
+MEMORY LN                                                   0580005800
+MENDOTA VILLAGE                                             0580005800
+MIDDLE FORK                                                 0580005800
+MIDDLE FORK JENNYS CREEK RD                                 0580005800
+MIDDLE GREASY CRK                                           0580005800
+MILL BR                                                     0580005800
+MILL BRANCH RD                                              0580005800
+MILL CRK                                                    0580005800
+MILL CRK                                                    0580105801
+MILL ST                                                     0580105801
+MILLERS CRK                                                 0580005800
+MINE NO1 RD                                                 0580005800
+MINE NO2 RD                                                 0580005800
+MINIFEE DR                                                  0580005800
+MOCCASIN BR                                                 0580005800
+MOLLETT BR                                                  0580005800
+MOLLETTE CEMETERY RD                                        0580005800
+MONTGOMERY BR                                               0580005800
+MOODY BR                                                    0580005800
+MOORE BR                                                    0580005800
+MORNING BR                                                  0580005800
+MORT MULLINS RD                                             0580005800
+MOUNTAIN HOMEPLACE RD                                       0580005800
+MOUNTAIN SPRING RD                                          0580005800
+MOUNTAIN VIEW DR                                            0580005800
+MUDLICK CRK                                                 0580005800
+MUDLICK SUBDIVISION RD                                      0580005800
+MULLINS DR                                                  0580005800
+MUNCEY FORK                                                 0580005800
+MURRAY AVE                                                  0580105801
+MURRAY DR                                                   0580005800
+MUSIC BR                                                    0580005800
+N BUCKINGHAM AVE                                            0580005800
+N BURGLAR HOLW                                              0580005800
+N CLAY AVE                                                  0580005800
+N DANIELS CRK                                               0580005800
+N DAWKINS AVE                                               0580005800
+N DOGWOOD FORK                                              0580005800
+N DRAKES CRK                                                0580005800
+N RAILROAD ST                                               0580005800
+N TRAVIS DR                                                 0580005800
+NARROWS FORK                                                0580005800
+NATHANS BR                                                  0580005800
+NELLIE LN                                                   0580005800
+NOAH STAPLETON BR                                           0580005800
+NOISY BR                                                    0580005800
+NOISY BRANCH RD                                             0580005800
+NONE KNOWN                                                  0580105801
+NORTHGATE SUBDIVISION RD                                    0580105801
+NUMBER NO1 HOLW                                             0580005800
+OAK LOG CRK                                                 0580005800
+OAKLAWN DR                                                  0580005800
+OAKLAWN EST                                                 0580005800
+OAKLEY WARD BR                                              0580005800
+OAKLOG CREEK RD                                             0580005800
+OLD BALDWIN PL                                              0580005800
+OLD BARNETTS CRK                                            0580005800
+OLD FRIENDSHIP RD                                           0580005800
+OLD JENNYS CRK                                              0580005800
+OLD JOHNS CRK                                               0580005800
+OLD KY 3 LOOP D                                             0580005800
+OLD KY 3 LOOP E                                             0580005800
+OLD KY 302                                                  0580005800
+OLD KY 302 SPUR                                             0580005800
+OLD KY 40 ACCESS NO2 RD                                     0580005800
+OLD KY 40 ACCESS RD                                         0580005800
+OLD RATLIFF RD                                              0580005800
+OLD RT3 LOOP B                                              0580005800
+OLD RT3 LOOP C                                              0580005800
+OLD SCHOOL HOUSE BR                                         0580005800
+OLD US 23                                                   0580005800
+OLD US 23                                                   0580105801
+OLD US 23 SOUTH A                                           0580005800
+OLD US 23 SOUTH B                                           0580005800
+OLD US 23 SOUTH C                                           0580005800
+OLD US 460 W                                                0580005800
+OLD WILEY BR                                                0580005800
+OLDKY3 LOOP C                                               0580005800
+ORCHARD BR                                                  0580005800
+OTTER BR                                                    0580005800
+P FYFEE RD                                                  0580005800
+PACK HILL DR                                                0580005800
+PANTHER BLVD                                                0580005800
+PANTHER BR                                                  0580005800
+PANTHER BRANCH LEFT FORK RD                                 0580005800
+PANTHER BRANCH RIGHT FORK RD                                0580005800
+PARADISE ACRES                                              0580005800
+PARADISE CT                                                 0580105801
+PARADISE LN                                                 0580005800
+PARADISE VALLEY                                             0580005800
+PARK COURT ST                                               0580105801
+PARK CT                                                     0580105801
+PARK LOOP                                                   0580005800
+PARK RD                                                     0580005800
+PARKVIEW DR                                                 0580105801
+PATOAKER HOLW                                               0580005800
+PATS LN                                                     0580005800
+PATTERSON CRK                                               0580005800
+PEA VINE BR                                                 0580005800
+PEACH ST                                                    0580005800
+PEGGY LANE DR                                               0580005800
+PENI CEMETERY RD                                            0580005800
+PIGEON BR                                                   0580005800
+PIGEON CRK                                                  0580005800
+PIGEONROOST RD                                              0580005800
+PINE ST                                                     0580105801
+PINE TREE DR                                                0580005800
+PINE VALLEY RD                                              0580005800
+PINEVIEW LN                                                 0580105801
+POINTVIEW CT                                                0580105801
+PONDEROSA APARTMENTS DR                                     0580005800
+PONDEROSA DR                                                0580005800
+POPLAR HILL DR                                              0580005800
+POPPY TOP LN                                                0580005800
+POSSUM HOLW                                                 0580005800
+POUNDING MILL RD                                            0580005800
+PRESTON BR                                                  0580005800
+PRESTON ESTS                                                0580005800
+PRESTON RIDGE                                               0580005800
+PRESTON ST                                                  0580105801
+PRICE CEMETERY RD                                           0580005800
+PRICETOWN FRONTAGE RD                                       0580005800
+PRICETOWN RD                                                0580005800
+PRIVATE DR                                                  0580005800
+PRIVATE RAMP                                                0580005800
+PUNCHEON CREEK RD                                           0580005800
+R FOSTER RD                                                 0580005800
+R FOSTER SPUR                                               0580005800
+R WARD RD                                                   0580005800
+RADNOR DR                                                   0580005800
+RAILROAD LN                                                 0580105801
+RAILROAD ST                                                 0580005800
+RAMEY BR                                                    0580005800
+RAMEY HOLW                                                  0580005800
+RATLIFF RD                                                  0580005800
+REBECCA LN                                                  0580005800
+REED BR                                                     0580005800
+RICE CEMETERY RD                                            0580005800
+RICE PLACE DR                                               0580005800
+RICEVILLE RD                                                0580005800
+RICEVILLE SCHOOL RD                                         0580005800
+RICHARD WILLIAMS SUBDIVISION RD                             0580005800
+RICHMOND HILL DR                                            0580005800
+RICHMOND HILL SUBDIVISION SPUR                              0580005800
+RICHMOND HL                                                 0580005800
+RICHMOND ST                                                 0580005800
+RICHMOND ST                                                 0580105801
+RIDGEWAY DR                                                 0580105801
+RIGHT BRANCH ROCKHOUSE NO1                                  0580005800
+RIGHT BRANCH ROCKHOUSE NO2                                  0580005800
+RIGHT BRANCH ROCKHOUSE NO3                                  0580005800
+RIGHT FORK BEE BR                                           0580005800
+RIGHT FORK BUFFALO RD                                       0580005800
+RIGHT FORK BURCHETT HOLW                                    0580005800
+RIGHT FORK FROZEN RD                                        0580005800
+RIGHT FORK GREASY CREEK                                     0580005800
+RIGHT FORK HURRICANE BR                                     0580005800
+RIGHT FORK LINDY BR                                         0580005800
+RIGHT FORK LITTLE LICK                                      0580005800
+RIGHT FORK LOCUST GROVE RD                                  0580005800
+RIGHT FORK SHORT BR                                         0580005800
+RIGHT FORK SPRING BR                                        0580005800
+RIGHT FORK SPRING KNOB LOOKOUT TOWER RD                     0580005800
+RIGHT FORK STAMBAUGH BR                                     0580005800
+RIGHT FORK STAPLETON BR                                     0580005800
+RIGHT FORK SWAMP BR                                         0580005800
+RIGHT FORK THEALKA RD                                       0580005800
+RIGHT FORK TICK VANHOOSE VILLAGE                            0580005800
+RIGHT FORK VANHOOSE BRANCH                                  0580005800
+RIGHT FORK WEBB HOLW                                        0580005800
+RIGHT FORK WILLIAMS BR                                      0580005800
+RIVER RD                                                    0580105801
+RIVERDALE DR                                                0580005800
+RIVERVIEW DR                                                0580005800
+RIVERVIEW LN                                                0580105801
+ROBERT BLEVINS RD                                           0580005800
+ROBERTS HOLLOW RD                                           0580005800
+ROBERTS HOLW                                                0580005800
+ROBIN CT                                                    0580105801
+ROBIN HILL RD                                               0580105801
+ROBINSON DR                                                 0580005800
+ROBINSON RD                                                 0580005800
+ROCKHOUSE RD                                                0580005800
+ROCKY HILL RD                                               0580005800
+ROCKY KNOB BR                                               0580005800
+ROLLING HLS                                                 0580005800
+ROSE RD                                                     0580005800
+ROSS BR                                                     0580005800
+ROSS CRK                                                    0580005800
+ROTHWELL BR                                                 0580005800
+ROWLAND BR                                                  0580005800
+RULE BR                                                     0580005800
+RUSH FORK LN                                                0580005800
+S BUCKINGHAM AVE                                            0580005800
+S BURGLAR HOLW                                              0580005800
+S CARTER DR                                                 0580005800
+S CASTLE DR                                                 0580005800
+S CLAY AVE                                                  0580005800
+S DANIELS CRK                                               0580005800
+S DAWKINS AVE                                               0580005800
+S RAILROAD ST                                               0580005800
+SADLER DR                                                   0580005800
+SALTWELL ST                                                 0580105801
+SALYER BR                                                   0580005800
+SALYERS BR                                                  0580005800
+SALYERS FORK                                                0580005800
+SALYERS HL                                                  0580005800
+SAM BLAIR CEMETERY RD                                       0580005800
+SAMANTHA CIR                                                0580105801
+SAMMONS BR                                                  0580005800
+SAMUEL DR                                                   0580005800
+SANDY DR                                                    0580005800
+SCHOOLHOUSE HOLW                                            0580005800
+SCOTT PERRY                                                 0580005800
+SCURLOCK DR                                                 0580005800
+SEAGRAVES BR                                                0580005800
+SHADY LN                                                    0580005800
+SHELTON DR                                                  0580005800
+SHERIDAN ESTEP CEMETERY RD                                  0580005800
+SHOP BR                                                     0580005800
+SHOP HOLLOW RD                                              0580005800
+SHORT BR                                                    0580005800
+SHORT ST                                                    0580005800
+SHORT ST                                                    0580105801
+SHORT STREET VAN LEAR                                       0580005800
+SILK STOCKING LOOP                                          0580005800
+SILK STOCKING RD                                            0580005800
+SKATE RD                                                    0580005800
+SKY HARBOR RD                                               0580005800
+SLATE BR                                                    0580005800
+SLOANE BR                                                   0580005800
+SLONE LN                                                    0580005800
+SMOKEY HOLW                                                 0580005800
+SORGHUM HOLW                                                0580005800
+SOUTHSIDE LN                                                0580105801
+SPARKS BR                                                   0580005800
+SPARKS BRANCH DR                                            0580005800
+SPRADLIN ST                                                 0580005800
+SPRIGGS LN                                                  0580005800
+SPRING BR                                                   0580005800
+SPRING KNOB RD                                              0580005800
+STAFFORD AVE                                                0580105801
+STAFFORD CEMETERY DR                                        0580005800
+STAFFORD SPRINGS                                            0580005800
+STAFFORD ST                                                 0580005800
+STAFFORD ST                                                 0580105801
+STAMBAUGH BR                                                0580005800
+STAPLETON BR                                                0580005800
+STAPLETON HOLLOW RD                                         0580005800
+STAPLETON LN                                                0580005800
+STAR HOLW                                                   0580005800
+STATE ST                                                    0580105801
+STAVE BR                                                    0580005800
+STEEP HILL RD                                               0580005800
+STEWART RD                                                  0580005800
+STILLHOUSE HOLLOW RD                                        0580005800
+STONECOAL FORK                                              0580005800
+STONECOAL RD                                                0580005800
+STONEY BROOK DR                                             0580005800
+STOREHOUSE HOLW                                             0580005800
+SUBDIVISION RD                                              0580005800
+SUGAR CAMP BR                                               0580005800
+SUGARGROVE RD                                               0580005800
+SUNSET HOLW                                                 0580005800
+SWAMP BR                                                    0580005800
+SYCAMORE CRK                                                0580005800
+SYCAMORE ST                                                 0580105801
+T SALYER BR                                                 0580005800
+TACKETT RD                                                  0580005800
+TALLIES LN                                                  0580005800
+TAYLOR BR                                                   0580005800
+TAYS BRANCH RD                                              0580005800
+THELMA FLATS RD                                             0580005800
+THELMA LAKE DR                                              0580005800
+THOMAS BR                                                   0580005800
+TICK LICK CREEK RD                                          0580005800
+TICK LICK CRK                                               0580005800
+TICK VANHOOSE VILLAGE                                       0580005800
+TINY BR                                                     0580005800
+TOBACCO RD                                                  0580005800
+TOBE WHEELER HOLW                                           0580005800
+TOLVER BR                                                   0580005800
+TOM HOLW                                                    0580005800
+TRAILER PARK DR                                             0580005800
+TRAVIS DR                                                   0580005800
+TRIMBLE LN                                                  0580005800
+TUBBY BLANTON ALY                                           0580105801
+TULIP ST                                                    0580105801
+TURKEY KNOB ST                                              0580105801
+TURNER ST                                                   0580105801
+TWIN HILLS DR                                               0580005800
+TWIN OAK DR                                                 0580105801
+TYLER CT                                                    0580005800
+UBOS WILLIAMS CEMETERY RD                                   0580005800
+UNKNOWN                                                     0580005800
+UNNAMED RD                                                  0580005800
+UPPER ST                                                    0580105801
+UPPER TWIN BR                                               0580005800
+UPPER TWIN CREEK RD                                         0580005800
+US23                                                        0580005800
+US23 N                                                      0580005800
+US23 S                                                      0580005800
+US460                                                       0580005800
+VANHOOSE BR                                                 0580005800
+VANHOOSE BRANCH RD                                          0580005800
+VANHOOSE CEMETERY RD                                        0580005800
+VANHOOSE DR                                                 0580005800
+VERNE HORNE DR                                              0580005800
+VILLAGE GREEN DR                                            0580005800
+W CLAY AVE                                                  0580005800
+W DORTON BLVD                                               0580005800
+W DRAKE RD                                                  0580005800
+WALBRIDGE CT                                                0580005800
+WALKER BR                                                   0580005800
+WALKER HILL RD                                              0580005800
+WALKER HL                                                   0580005800
+WALKER HL N                                                 0580005800
+WALLEN DR                                                   0580005800
+WALNUT AVE                                                  0580105801
+WALTERS BR                                                  0580005800
+WARD DR                                                     0580005800
+WASHINGTON AVE                                              0580105801
+WATTS BR                                                    0580005800
+WEBB BR                                                     0580005800
+WEBB HOLW                                                   0580005800
+WELCH FARM LN                                               0580005800
+WELL BR                                                     0580005800
+WELL HOLW                                                   0580005800
+WELSH FARM LN                                               0580005800
+WEST ST                                                     0580105801
+WHEATFIELD LOOP                                             0580005800
+WHIPPOORWILL RD                                             0580005800
+WHITEHOUSE RD                                               0580005800
+WILCOX BR                                                   0580005800
+WILDCAT DR                                                  0580005800
+WILEY BRANCH SPUR                                           0580005800
+WILEY LN                                                    0580105801
+WILLIAM HENRY DIXON BLVD                                    0580105801
+WILLIAMS BR                                                 0580005800
+WILLOW DR                                                   0580005800
+WIN RD                                                      0580005800
+WINDING WAY DR                                              0580005800
+WITTEN LN                                                   0580005800
+WITTEN RD                                                   0580005800
+WOLFPEN BR                                                  0580005800
+WOODLAND CT                                                 0580105801
+WOODLAND DR                                                 0580105801
+WOODLAND EST                                                0580005800
+WOODLAND VW                                                 0580005800
+WRIGHT BR                                                   0580005800
+YOUNGS BRANCH LOST CREEK                                    0580005800
+ZEB BR                                                      0580005800

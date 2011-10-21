@@ -3,7 +3,7 @@ class CreateCodes < ActiveRecord::Migration
     create_table :codes do |t|
       t.string  :type
       t.integer :parent_id
-      t.string  :region_code
+      t.integer :state_id
       t.string  :code
       t.string  :value
 

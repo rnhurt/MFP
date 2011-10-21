@@ -1,0 +1,1016 @@
+1ST ST                                                      0680006800
+1ST ST                                                      0680506805
+2ND ST                                                      0680106801
+3RD ST                                                      0680006800
+3RD ST                                                      0680106801
+4MILE FARM RD                                               0680006800
+A DYER RD                                                   0680006800
+A THOMAS LN                                                 0680006800
+AA HWY                                                      0680006800
+AA HWY                                                      0680106801
+AARON LN                                                    0680006800
+ABERCROMBIE LN                                              0680006800
+ABIGAIL LN                                                  0680006800
+ADAMS LN                                                    0680006800
+ADRIAN LN                                                   0680006800
+ALBY LN                                                     0680006800
+ALLEN LN                                                    0680006800
+ALMUS LN                                                    0680006800
+ALUM ROCK RIDGE RD                                          0680006800
+ALUM ROCK RIDGE SPUR                                        0680006800
+AMISH HOUSE LN                                              0680006800
+AMISH HOUSE SPUR                                            0680006800
+AMY LN                                                      0680106801
+ANDERSON LN                                                 0680006800
+ANDREW MASON RD                                             0680006800
+ANDY LN                                                     0680006800
+ANGEL LN                                                    0680006800
+ANN LN                                                      0680006800
+ANN MARIE LN                                                0680006800
+APPLE LN                                                    0680006800
+APPLEGATE LN                                                0680006800
+APPLETREE TRAILER PARK                                      0680106801
+APRICOT LN                                                  0680006800
+APRIL LN                                                    0680006800
+ARMSTRONG CEMETERY                                          0680006800
+ARMSTRONG CHURCH RD                                         0680006800
+ARMSTRONG CHURCH ROAD SPUR                                  0680006800
+ARTHUR EXT                                                  0680006800
+ARTHUR LN                                                   0680006800
+ASHTON LN                                                   0680006800
+ATHLETIC FIELD ACCESS RD                                    0680006800
+ATHLETIC FIELD ACCESS ROAD FORK                             0680006800
+AUCTION LN                                                  0680006800
+AUTUMN LN                                                   0680006800
+BAILY LN                                                    0680006800
+BANK ST                                                     0680006800
+BARNETT LN                                                  0680006800
+BATE LN                                                     0680006800
+BB LN                                                       0680006800
+BEAR BR                                                     0680006800
+BEAR BRANCH SPUR                                            0680006800
+BECKETT LN                                                  0680006800
+BEDFORD BRANCH RD                                           0680006800
+BEE BRANCH RD                                               0680006800
+BEE MART LN                                                 0680106801
+BEECH GROVE RD                                              0680006800
+BEECHY CREEK RD                                             0680006800
+BEECHY HOLW                                                 0680006800
+BEL AIR DR                                                  0680006800
+BELLEVUE LN                                                 0680006800
+BEN WILLEN BR                                               0680006800
+BENNETT ALY                                                 0680506805
+BENNETT ST                                                  0680006800
+BENS ALY                                                    0680106801
+BENTLEY ALY                                                 0680006800
+BENTLEY LN                                                  0680006800
+BENTON ST                                                   0680006800
+BERTRAM LN                                                  0680006800
+BETHESDA ASSEMBLY CHURCH                                    0680006800
+BETHESDA ASSEMBLY CHURCH                                    0680106801
+BIG SULPHER                                                 0680006800
+BIGDEN HOLLOW RD                                            0680006800
+BILL CHAIN RD                                               0680006800
+BILL CHAIN SPUR                                             0680006800
+BILL CONLEY PL                                              0680006800
+BILL JORDAN RD                                              0680006800
+BILMAN LN                                                   0680106801
+BIRCH LN                                                    0680006800
+BIRD DOG DR                                                 0680006800
+BIVENS BR                                                   0680006800
+BIVENS BRANCH SPUR                                          0680006800
+BIVENS CEMETERY LN                                          0680006800
+BIVENS LN                                                   0680006800
+BLACK JOHN HOLW                                             0680006800
+BLACK LICK BR                                               0680006800
+BLACK OAK CEMETERY RD                                       0680006800
+BLACK OAK CEMETERY ROAD SPUR                                0680006800
+BLACK OAK FIRE RD                                           0680006800
+BLACKHAWK LN                                                0680006800
+BLACKTOP PLANT RD                                           0680006800
+BLAIN LN                                                    0680006800
+BLAKE LN                                                    0680006800
+BLANKENSHIP LN                                              0680006800
+BLEVINS LN                                                  0680006800
+BLOOM LN                                                    0680006800
+BLOOMFIELD LN                                               0680006800
+BLUE CEDAR LN                                               0680006800
+BLUE SPRINGS BRANCH RD                                      0680006800
+BLUE WATERS DR                                              0680006800
+BOGDENS HOLLOW RD                                           0680006800
+BOGGS LN                                                    0680006800
+BOLANDER LN                                                 0680006800
+BOLING LN                                                   0680006800
+BOLTON LN                                                   0680006800
+BOND LN                                                     0680006800
+BOND LN                                                     0680106801
+BOONE ST                                                    0680006800
+BOTTOMS LN                                                  0680006800
+BOURBON EST                                                 0680006800
+BOURBON ESTATES ADDITION                                    0680006800
+BRACKMAN HOLLOW DRIVEWAY                                    0680006800
+BRACKMAN HOLW                                               0680006800
+BRADFORD LN                                                 0680006800
+BRADY LN                                                    0680006800
+BRAGG ST                                                    0680106801
+BRAGG STREET SPUR                                           0680106801
+BRANDY LN                                                   0680006800
+BREEZE RD                                                   0680006800
+BRENTWOOD LN                                                0680006800
+BREWER LN                                                   0680006800
+BRIAR PATCH RD                                              0680006800
+BRIARY RD                                                   0680006800
+BRICK LN                                                    0680006800
+BRICKELS BR                                                 0680006800
+BRIERY CONNECTOR RD                                         0680006800
+BRIERY CREEK RD                                             0680006800
+BROOK LN                                                    0680006800
+BROWNS RUN RD                                               0680006800
+BRUCE LN                                                    0680006800
+BRUCE ST                                                    0680106801
+BRYANT LN                                                   0680006800
+BUCK LICK BR                                                0680006800
+BUCK LICK RIGHT BRANCH FORK                                 0680006800
+BUCKLER LN                                                  0680006800
+BUCKNER LN                                                  0680006800
+BURNS LN                                                    0680006800
+BURNT CABIN BR                                              0680006800
+BURNT CABIN BRANCH SPUR                                     0680006800
+BURT LOGAN RD                                               0680006800
+BURTON RD                                                   0680006800
+BURTONVILLE CEMETERY RD                                     0680006800
+BURTONVILLE CEMETERY ROAD NO2                               0680006800
+BUSSELL LN                                                  0680006800
+BUTLER BRANCH RD                                            0680006800
+BY STEVE REESE                                              0680006800
+CABELL LN                                                   0680006800
+CABELL SPUR                                                 0680006800
+CABIN CREEK RD                                              0680006800
+CABIN LN                                                    0680006800
+CALLIHAN LN                                                 0680006800
+CAMP LN                                                     0680106801
+CAMPBELL RD                                                 0680006800
+CANAAN CHURCH SPUR                                          0680006800
+CANAAN CHURCH SUBDIVISION                                   0680006800
+CANTER LN                                                   0680006800
+CARL BR                                                     0680006800
+CARMELLA LN                                                 0680006800
+CARMEN LN                                                   0680006800
+CARPENTER LN                                                0680006800
+CARRS HILL RD                                               0680006800
+CARVER AVE                                                  0680006800
+CASEMAN EXT                                                 0680106801
+CASEMAN LN                                                  0680006800
+CASEY LN                                                    0680006800
+CECIL SKAGGS DR                                             0680006800
+CEDAR GROVE CHURCH                                          0680006800
+CEDAR HILL RD                                               0680006800
+CEDAR HILL ROAD SPUR                                        0680006800
+CEDAR LN                                                    0680006800
+CEDAR RUN RD                                                0680006800
+CEMETERY                                                    0680006800
+CENTRAL ELEMENTARY                                          0680106801
+CENTRAL ELEMENTARY SPUR                                     0680106801
+CHALK RIDGE RD                                              0680006800
+CHANEY LN                                                   0680006800
+CHARLES ST                                                  0680006800
+CHARTER SPUR                                                0680006800
+CHARTERS DR                                                 0680006800
+CHEROKEE LANE RAMP                                          0680006800
+CHEROKEE LN                                                 0680006800
+CHESTNUT ST                                                 0680106801
+CHRISTY DR                                                  0680006800
+CHRISTY LN                                                  0680006800
+CHRISTY RD                                                  0680006800
+CHRISTY TRAILER PARK                                        0680006800
+CHURCH LN                                                   0680006800
+CHURCH ST                                                   0680006800
+CINDY RD                                                    0680006800
+CK LN                                                       0680006800
+CLARA KAMER LN                                              0680006800
+CLARENCE LN                                                 0680006800
+CLARK LN                                                    0680006800
+CLARKSBURG BR                                               0680006800
+CLARKSBURG BRANCH SPUR                                      0680006800
+CLARKSBURG RD                                               0680006800
+CLARKSBURG RD                                               0680106801
+CLAY LN                                                     0680006800
+CLAYTON LN                                                  0680006800
+CLEARCREEK RD                                               0680006800
+CLINT LN                                                    0680106801
+CLOVERLEAF LN                                               0680006800
+COLE BIVENS LN                                              0680006800
+COLLIER LN                                                  0680006800
+COLLIER SPUR                                                0680006800
+COLLINS LN                                                  0680006800
+COLONY VILLAGE                                              0680106801
+COLTON LN                                                   0680006800
+COLUMBIA LN                                                 0680006800
+COMMONWEALTH RD                                             0680006800
+CONCORD CEMETARY RD                                         0680506805
+CONCORD TRINITY RD                                          0680006800
+CONLEY LN                                                   0680006800
+CONSTRUCTION LN                                             0680006800
+COOLEY LN                                                   0680006800
+COOPER DR                                                   0680006800
+COOPER FORK                                                 0680006800
+COOPER LN                                                   0680006800
+COOPER ST                                                   0680106801
+COOPER WILLIS CEMETERY RD                                   0680006800
+COPENS WAY RD                                               0680006800
+CORKTREE LN                                                 0680006800
+CORNS LN                                                    0680006800
+COTTAGEVILLE CHURCH LN                                      0680006800
+COTTAGEVILLE CHURCH RD                                      0680006800
+COUNTRY LN                                                  0680006800
+COUNTY DR                                                   0680006800
+COUNTY RD                                                   0680006800
+COURT ST                                                    0680106801
+COURTNEY WAY                                                0680006800
+CR1363                                                      0680006800
+CRAIG AVE                                                   0680006800
+CRAYCRAFT RD                                                0680006800
+CREAMERY PIKE                                               0680006800
+CREEK BANK RD                                               0680006800
+CROOKED CREEK RD                                            0680006800
+CROPPER LN                                                  0680006800
+CROSSPOINTE DR                                              0680006800
+CURTIS LN                                                   0680006800
+CUSHARD LN                                                  0680006800
+CYPRESS LN                                                  0680006800
+DAISY LN                                                    0680006800
+DALE DR                                                     0680006800
+DAMON LN                                                    0680006800
+DAN LN                                                      0680006800
+DAN ST                                                      0680006800
+DARCY LN                                                    0680006800
+DAREN LN                                                    0680006800
+DAVID LN                                                    0680006800
+DAVIS LN                                                    0680006800
+DAWN LN                                                     0680006800
+DAYHILL LN                                                  0680106801
+DB LN                                                       0680006800
+DEARING LN                                                  0680006800
+DEEP HOLE BR                                                0680006800
+DEEREVIEW LN                                                0680006800
+DELL LN                                                     0680006800
+DENHAM TRAILER PARK                                         0680106801
+DENTON LN                                                   0680006800
+DIKAL LN                                                    0680106801
+DILLOW LN                                                   0680006800
+DOGWOOD DR                                                  0680006800
+DOROTHY LN                                                  0680006800
+DOUBLE R FARM RD                                            0680006800
+DOUGLAS LN                                                  0680006800
+DOVE TREE LN                                                0680006800
+DOYLE LN                                                    0680006800
+DRY HOLW                                                    0680006800
+DUDLEY AVE                                                  0680006800
+DUMMITT BR                                                  0680006800
+DUMMITT BRANCH SPUR                                         0680006800
+DUNAWAY BR                                                  0680006800
+DUNBAR LN                                                   0680006800
+DUNBAR RD                                                   0680006800
+DYE LN                                                      0680006800
+DYE SPUR                                                    0680006800
+DYER RD                                                     0680006800
+DYLAN LN                                                    0680006800
+E 3RD ST                                                    0680106801
+E BENTLEY ST                                                0680006800
+E CANAAN CHURCH                                             0680006800
+E EVANS RD                                                  0680006800
+E FORK CEMETARY RD                                          0680006800
+E FORK CHURCH                                               0680006800
+E FORK SPUR                                                 0680006800
+E PLUMMERS LN                                               0680106801
+E SHAW HOLLOW RD                                            0680006800
+EASTHAM ST                                                  0680106801
+EC LN                                                       0680006800
+ECHO HILLS APARTMENTS                                       0680006800
+EDINGTON BR                                                 0680006800
+EDINGTON BRANCH SPUR                                        0680006800
+EDINGTON CAMP LN                                            0680006800
+EDNA LN                                                     0680006800
+EGBERT LN                                                   0680006800
+EL LN                                                       0680006800
+ELDERBERRY LN                                               0680006800
+ELDRIDGE LN                                                 0680006800
+ELK LICK BR                                                 0680006800
+ELKINS ST                                                   0680006800
+ELLIE MAY LN                                                0680006800
+ELLIOTT LN                                                  0680006800
+ELM ST                                                      0680006800
+ELMWOOD LN                                                  0680006800
+ELWOOD LN                                                   0680106801
+EMMA LN                                                     0680006800
+ERIC LN                                                     0680006800
+ERNEST LN                                                   0680006800
+ERSKINE LN                                                  0680006800
+ERVIN LN                                                    0680006800
+ESHAM BR                                                    0680006800
+ESHAM CEMETERY                                              0680006800
+ESHAM LN                                                    0680006800
+ESTATE LN                                                   0680006800
+ETHAN LN                                                    0680006800
+EUGENE LN                                                   0680006800
+EULETT LN                                                   0680006800
+EVANS LN                                                    0680006800
+EVERMAN LN                                                  0680006800
+EVERMANS DREAMVIEW                                          0680006800
+FAIRLANE DR                                                 0680106801
+FANNIN BR                                                   0680006800
+FANNIN LN                                                   0680006800
+FARM LN                                                     0680006800
+FARM RD                                                     0680006800
+FETTERS LN                                                  0680006800
+FEVER TREE LN                                               0680006800
+FIELDS LN                                                   0680006800
+FINGER BOARD RIGHT FORK                                     0680006800
+FINGERBOARD CEMETERY RD                                     0680006800
+FINGERBOARD LEFT SPUR                                       0680006800
+FINGERBOARD RD                                              0680006800
+FINGERBOARD RIGHT SPUR                                      0680006800
+FIREBRICK INDIAN RUN RD                                     0680006800
+FITCH BRANCH RD                                             0680006800
+FITCH FORK RD                                               0680006800
+FITCH FORK ROAD SPUR                                        0680006800
+FITCH LN                                                    0680006800
+FITE HOLLOW RD                                              0680006800
+FLAG PT                                                     0680006800
+FLINDERS CEMETARY SPUR                                      0680006800
+FLINDERS CEMETERY                                           0680006800
+FLINDERS DR                                                 0680106801
+FLINDERS DRIVE SPUR                                         0680106801
+FLY BRANCH RD                                               0680006800
+FORD LN                                                     0680006800
+FORK CEMETARY ROAD NO2 E                                    0680006800
+FORMANS LN                                                  0680006800
+FRALEY LN                                                   0680006800
+FRANKLIN LN                                                 0680006800
+FRONT ST                                                    0680106801
+FRYE LN                                                     0680006800
+FUGATE LN                                                   0680006800
+FUGATE SPUR                                                 0680006800
+FULLER BR                                                   0680006800
+FULLERTON LN                                                0680006800
+GAIL AVE                                                    0680006800
+GANDER BR                                                   0680106801
+GARDEN BR                                                   0680006800
+GARDEN BRANCH SPUR                                          0680006800
+GARRAD RD                                                   0680006800
+GARRISON ELEMENTARY                                         0680006800
+GARRISON ELEMENTARY SPUR                                    0680006800
+GARRISON LAUNCH RAMP                                        0680006800
+GARRISON LN                                                 0680006800
+GERIKE RD                                                   0680006800
+GHOST HOLW                                                  0680006800
+GILBERT LN                                                  0680006800
+GILLESPIE LN                                                0680006800
+GILLIAM BRANCH RD                                           0680006800
+GILLIAM CEMETERY RD                                         0680006800
+GILLIAM LN                                                  0680006800
+GINN CT                                                     0680006800
+GINN LN                                                     0680006800
+GINNS TRAILER PARK                                          0680106801
+GINNS TRAILER PARK ENTRANCE                                 0680106801
+GLEN HILL SPRINGS RD                                        0680006800
+GOLDEN LARCH LN                                             0680006800
+GOLDEN RIDGE                                                0680006800
+GOODWIN BRANCH RD                                           0680006800
+GOODWIN LN                                                  0680006800
+GRACE DR                                                    0680006800
+GRAF LN                                                     0680006800
+GRANGER LN                                                  0680006800
+GRANNY THOMAS CEMETERY                                      0680006800
+GRAY LN                                                     0680006800
+GRAYSON LN                                                  0680006800
+GRAYSON SPUR                                                0680006800
+GREEN ACRE LN                                               0680006800
+GREEN ASH LN                                                0680006800
+GREEN CEMETERY                                              0680006800
+GREEN CEMETERY EXT                                          0680006800
+GREEN ST                                                    0680106801
+GREEN VALLEY RD                                             0680006800
+GREENBRIAR HOLW                                             0680006800
+GREENHOW BRANCH RD                                          0680006800
+GREENHOW BRANCH SPUR RD                                     0680006800
+GRIFFITH SPUR                                               0680006800
+GRIGSON LN                                                  0680006800
+GTE LN                                                      0680006800
+GUTTER LN                                                   0680006800
+GYM ACCESS RD                                               0680006800
+H DELONG                                                    0680006800
+H VOIERS LN                                                 0680006800
+HACKWORTH CEMETERY RD                                       0680006800
+HACKWORTH HOLLOW RD                                         0680006800
+HACKWORTH HOLW                                              0680006800
+HALBERT AVE                                                 0680106801
+HALEY LN                                                    0680006800
+HALL LANE SPUR                                              0680006800
+HALL LN                                                     0680006800
+HALL RD                                                     0680006800
+HAMILTON BR                                                 0680006800
+HAMLIN BR                                                   0680006800
+HAMLIN LN                                                   0680006800
+HAMLIN SPUR                                                 0680006800
+HAMPSHIRE AVE                                               0680006800
+HAMPTON LN                                                  0680006800
+HAMRICK HOLW                                                0680006800
+HAPPY HOLW                                                  0680006800
+HARDEN ALY                                                  0680106801
+HARDY FORK                                                  0680006800
+HARMON LN                                                   0680006800
+HAROLD LN                                                   0680006800
+HARPER ST                                                   0680106801
+HARRISON HOLLOW RD                                          0680006800
+HAZEL RD                                                    0680006800
+HENDERSON LN                                                0680006800
+HENDERSON ST                                                0680106801
+HESTER RIDGE RD                                             0680003500
+HICKLE LN                                                   0680006800
+HICKORY HOLW                                                0680006800
+HICKORY LN                                                  0680106801
+HICKS LN                                                    0680006800
+HIDDEN TREASURE LN                                          0680006800
+HIGH LN                                                     0680006800
+HIGH SCHOOL CIR                                             0680006800
+HIGH SCHOOL LN                                              0680006800
+HIGH ST                                                     0680106801
+HIGHFIELD LN                                                0680006800
+HIGHLANDER LN                                               0680006800
+HILTON HILL LN                                              0680006800
+HIMES LN                                                    0680006800
+HOFFMAN LN                                                  0680006800
+HOLBROOK HOLW                                               0680006800
+HOLIDAY DR                                                  0680106801
+HOLLY BR                                                    0680006800
+HOPE DR                                                     0680006800
+HORD LN                                                     0680006800
+HORSESHOE BEND                                              0680006800
+HORSLEY LN                                                  0680006800
+HOWARD CEMETERY RD                                          0680006800
+HOWARD LN                                                   0680006800
+HOWE LN                                                     0680006800
+HOWE ST                                                     0680106801
+HOWEY LN                                                    0680006800
+HS STUDENT PARKING LOT NO2                                  0680006800
+HUGHES LN                                                   0680006800
+HUGHES SPUR                                                 0680006800
+HULL FARM LN                                                0680006800
+HUNTER LN                                                   0680006800
+HYRNE DR                                                    0680006800
+IELEER BR                                                   0680006800
+IELEER BRANCH SPUR                                          0680006800
+INDIAN HILLS CIR                                            0680006800
+INDUSTRIAL PARK RD                                          0680006800
+ISON LN                                                     0680006800
+JACK LN                                                     0680006800
+JACKSON ST                                                  0680506805
+JAMES CT                                                    0680006800
+JAMES LN                                                    0680006800
+JAMISON CEMETERY                                            0680006800
+JAMISON DR                                                  0680006800
+JAMISON LN                                                  0680006800
+JASON LN                                                    0680006800
+JEFFERY LN                                                  0680006800
+JERRY LN                                                    0680006800
+JERRY LYNN LN                                               0680006800
+JESSIE LN                                                   0680006800
+JEWEL LN                                                    0680006800
+JOE PAUL GILBERT LN                                         0680006800
+JOHN LN                                                     0680006800
+JOHN ST                                                     0680106801
+JONES CEMETERY RD                                           0680006800
+JORDAN LN                                                   0680006800
+JORDAN SPUR                                                 0680006800
+JUNIPER LN                                                  0680006800
+KAMER LN                                                    0680006800
+KAREN LN                                                    0680006800
+KATELYN LN                                                  0680006800
+KATHY LN                                                    0680006800
+KC LN                                                       0680006800
+KEITH WAY                                                   0680006800
+KELLY LN                                                    0680006800
+KENDRA LN                                                   0680006800
+KENNY BRANCH RD                                             0680006800
+KENTON AVE                                                  0680006800
+KENTUCKY DR                                                 0680006800
+KENTUCKY HTS                                                0680006800
+KIELMAN LN                                                  0680006800
+KILBRETH LN                                                 0680006800
+KILBRITH RD                                                 0680006800
+KILGORE RD                                                  0680006800
+KILLIFILLIAN HOLLOW SPUR                                    0680006800
+KILLIFILLIAN HOLW                                           0680006800
+KING LANE SPUR                                              0680006800
+KING LN                                                     0220006800
+KING LN                                                     0680006800
+KING RD                                                     0680006800
+KINNEY RD                                                   0680006800
+KIRK LN                                                     0680006800
+KLG RD                                                      0680006800
+KURT ZORNES RD                                              0680006800
+KY10                                                        0680006800
+KY10 E                                                      0680006800
+KY3020                                                      0680006800
+KY344                                                       0680006800
+KY3550 W                                                    0680006800
+KY3550 W                                                    0680506805
+KY377                                                       0680006800
+KY559                                                       0680006800
+KY57                                                        0680006800
+KY59                                                        0680006800
+KY59                                                        0680106801
+KY8                                                         0680006800
+KY8                                                         0680106801
+KY8                                                         0680506805
+KY8 E                                                       0680006800
+KY8 W                                                       0680006800
+KY8C E                                                      0680006800
+KY9                                                         0680006800
+LAMBERT BR                                                  0680006800
+LANCE LN                                                    0680006800
+LANSBERRY LN                                                0680006800
+LAURAL SCHOOL RD                                            0680006800
+LAUREL CREEK RD                                             0680006800
+LAUREL CRK                                                  0680006800
+LAUREL POINT CEMETERY RD                                    0680006800
+LAUREL POINT CEMETERY ROAD FORK                             0680006800
+LAVON LN                                                    0680006800
+LAWNVIEW LN                                                 0680006800
+LAZY BEE LN                                                 0680006800
+LEAF LN                                                     0680006800
+LEE LN                                                      0680006800
+LEFT BUTLER BRANCH SPUR                                     0680006800
+LEMASTER LN                                                 0680006800
+LESLIE ST                                                   0680106801
+LESTER LN                                                   0680006800
+LEWIS LN                                                    0680006800
+LEWIS RD                                                    0680006800
+LEXIE LN                                                    0680006800
+LIBBY LN                                                    0680006800
+LICKING VALLEY SCHOOL LN                                    0680006800
+LINDEN LN                                                   0680006800
+LIONS CLUB RD                                               0680006800
+LIONS LN                                                    0680006800
+LIONS WAY                                                   0680006800
+LITTLE CABIN CRK                                            0680006800
+LITTLE HOLLY RD                                             0680006800
+LITTLE HOLLY ROAD SPUR                                      0680006800
+LITTLE SULFER                                               0680006800
+LITTLE SULPHUR RD                                           0680006800
+LITTLE TRACE BR                                             0680006800
+LOGAN LN                                                    0680006800
+LONG BR                                                     0680006800
+LORENA LN                                                   0680006800
+LORI LN                                                     0680006800
+LOW BRIDGE LN                                               0680006800
+LOWDER LN                                                   0680006800
+LOWELL ST                                                   0680006800
+LOWER KINNEY RD                                             0680006800
+LOWER TWIN BRANCH RD                                        0680006800
+LOWER TWIN BRANCH SPUR                                      0680006800
+LUDWICK LN                                                  0680006800
+LUMBER JACK LN                                              0680006800
+LYKINS LN                                                   0680106801
+LYKINS ST                                                   0680106801
+LYLES LN                                                    0680006800
+LYLES RD                                                    0680006800
+LYONS LN                                                    0680006800
+MACY LN                                                     0680006800
+MADDY CEMETERY LN                                           0680006800
+MAGNOLIA LN                                                 0680006800
+MAIN ST                                                     0680106801
+MAIN ST                                                     0680506805
+MALONE LN                                                   0680006800
+MANDIE LN                                                   0680006800
+MANLEY HOLLOW RD                                            0680006800
+MANOR CT                                                    0680006800
+MAPLE RD                                                    0680006800
+MAPLE ST                                                    0680006800
+MARKET DR                                                   0680006800
+MARKET DR                                                   0680106801
+MARKET ST                                                   0680106801
+MARTHA LN                                                   0680006800
+MARTIN LN                                                   0680006800
+MARTY LN                                                    0680006800
+MARY AVE                                                    0680006800
+MAY HOLLOW BRANCH RD                                        0680006800
+MAY HOLLOW SPUR                                             0680006800
+MAY HOLW                                                    0680006800
+MAY LN                                                      0680006800
+MCCALL LN                                                   0680006800
+MCCANE LN                                                   0680006800
+MCCANN LN                                                   0680006800
+MCCANN RD                                                   0680006800
+MCCARTHY BEND                                               0680006800
+MCCLEESE HOLW                                               0680006800
+MCCLURG ALY                                                 0680506805
+MCCLURG LN                                                  0680006800
+MCCLURG SPUR                                                0680006800
+MCCRAY BRANCH RD                                            0680006800
+MCDOWELLS CREEK RD                                          0680006800
+MCELDOWNEY CEMETERY                                         0680006800
+MCGLONE LN                                                  0680006800
+MCKINNEY LN                                                 0680006800
+MEADOWBROOK RD                                              0680006800
+MEFFORD DR                                                  0680006800
+MELVIN LN                                                   0680006800
+MEMORY GARDEN CEMETERY RD                                   0680006800
+MEMORY GARDEN CEMETERY ROAD SPUR                            0680006800
+MERRITT LN                                                  0680006800
+METHODIST CEMETARY RD                                       0680006800
+MIDDLE SCHOOL LN                                            0680006800
+MIDDLE SCHOOL LOOP                                          0680006800
+MIDWAY AVE                                                  0680006800
+MIKE GRAYSON SPUR                                           0680006800
+MILLER LN                                                   0680006800
+MILLS BRANCH RD                                             0680006800
+MISSIONARY ST                                               0680106801
+MONTEITH RD                                                 0680006800
+MONTGOMERY RD                                               0680006800
+MOORE DR                                                    0680006800
+MOORE HOLLOW RD                                             0680006800
+MOORE HOLW                                                  0680006800
+MOORE ST                                                    0680106801
+MORGAN CEMETERY                                             0680006800
+MORGAN CEMETERY FORK                                        0680006800
+MORGAN LN                                                   0680106801
+MORNING LN                                                  0680006800
+MOSBY BRANCH RD                                             0680006800
+MOSBY CEMETERY RD                                           0680006800
+MOSBY SUNSET CEMETERY RD                                    0680006800
+MOUNTAINVIEW LN                                             0680006800
+MUD LICK RD                                                 0680006800
+MUD LICK SPUR                                               0680006800
+MULLIGAN HOLLOW RD                                          0680006800
+MURPHYS LN                                                  0680006800
+N BANE RD                                                   0680006800
+N FORK RIDGE                                                0680006800
+N LICKING RIVER RD                                          0680006800
+NASH LN                                                     0680006800
+NASHTOWN HOLLOW RD                                          0680006800
+NASHTOWN LN                                                 0680006800
+NELLIE LN                                                   0680006800
+NELSON LN                                                   0680006800
+NEWSOME LN                                                  0680006800
+NOLAN BR                                                    0680006800
+NOLDER LN                                                   0680006800
+NORMAN LN                                                   0680006800
+NURSING HOME LN                                             0680106801
+OAK RIDGE RD                                                0680006800
+OAK ST                                                      0680006800
+OAKLAND PARK ACCESS RD                                      0680006800
+OAKLAND PARK RD                                             0680006800
+OAKLEIGH LN                                                 0680006800
+OCONNELL DR                                                 0680006800
+OCULL LN                                                    0680006800
+OLD COUNTY RD                                               0680006800
+OLD DAM CIRCLE RD                                           0680006800
+OLD KY 10                                                   0680006800
+OLD KY 1149                                                 0680006800
+OLD LOCK AND DAM NO31                                       0680006800
+OLD LOCK AND DAM NO31 EXT                                   0680006800
+OLD LOCK NO32                                               0680006800
+OLD RANKIN RD                                               0680006800
+OLD RIBOLT RD                                               0680006800
+OLD SCHOOL LN                                               0680106801
+OLD SPYRUN RD                                               0680006800
+OLD STATE ROUTE SPUR                                        0680006800
+OLD TOWN BR                                                 0680006800
+OLD TOWN BRANCH ROAD EXT                                    0680006800
+OLD TOWN BRANCH SPUR                                        0680006800
+OLD TRACE CREEK SPUR                                        0680006800
+OLD TRACE CRK                                               0680006800
+ORVILLE LN                                                  0680006800
+OSBORNE RD                                                  0680006800
+OSMAN LN                                                    0680006800
+OVAL LN                                                     0680006800
+OVERLOOK LN                                                 0680006800
+OWENS LN                                                    0680006800
+OWENS RD                                                    0680006800
+PA LANE SPUR                                                0680006800
+PA LN                                                       0680006800
+PAINT LICK BRANCH RD                                        0680006800
+PAINT LICK BRANCH ROAD SPUR                                 0680006800
+PARKER DR                                                   0680006800
+PAYTON RD                                                   0680006800
+PEACH ORCHARD RD                                            0680006800
+PEBBLES                                                     0680006800
+PELL HOLLOW RD                                              0680006800
+PELPHREY LN                                                 0680006800
+PENNSYLVANIA AVE                                            0680006800
+PEPOON LN                                                   0680006800
+PERRY BR                                                    0680006800
+PERSIMMON LN                                                0680006800
+PETAL LN                                                    0680006800
+PETTIT LN                                                   0680006800
+PINE GROVE CHURCH RD                                        0680006800
+PINE GROVE SPUR RD                                          0680006800
+PINE TREE LN                                                0680006800
+PINE VALLEY RD                                              0680006800
+PLAY LN                                                     0680006800
+PLUMMER PL                                                  0680006800
+PLUMMER PLACE EXT                                           0680006800
+PLUMMER ST                                                  0680106801
+PLUMMERS LN                                                 0680106801
+POLLITT LN                                                  0680006800
+POOL BR                                                     0680006800
+POOL BRANCH SPUR                                            0680006800
+POPLAR ESTATES LN                                           0680006800
+POPLAR FLAT CHURCH                                          0680006800
+POPLAR FLAT RD                                              0680006800
+POTTER LN                                                   0680006800
+POWDER LICK RD                                              0680006800
+POWERS LN                                                   0680006800
+PRADER RD                                                   0680006800
+PRATER LN                                                   0680006800
+PRESTON LN                                                  0680006800
+PRICHARD LN                                                 0680006800
+PUMPING STATION RD                                          0680006800
+PUMPING STATION SPUR                                        0680006800
+QUICKS RUN RD                                               0680006800
+R PLACE                                                     0680006800
+RACCOON BR                                                  0680006800
+RACCOON BRANCH SPUR                                         0680006800
+RACEWAY LN                                                  0680006800
+RACEWAY PARK DR                                             0680006800
+RACHEL LN                                                   0680006800
+RADIO TOWER RD                                              0680006800
+RAILROAD BASE LN                                            0680006800
+RAILROAD LN                                                 0680506805
+RAILROAD ST                                                 0680106801
+RANDOLF LN                                                  0680006800
+RANGER LN                                                   0680006800
+RATTLESNAKE LN                                              0680006800
+RAY HOLT DR                                                 0680006800
+RAY LN                                                      0680006800
+RAYBURN FORK RD                                             0680006800
+RAYBURN LN                                                  0680006800
+RB LN                                                       0680006800
+RC LN                                                       0680006800
+RED BRUSH HILL RD                                           0680006800
+RED CEDAR LN                                                0680006800
+RED FOX BR                                                  0680006800
+REDDELL ST                                                  0680506805
+REEDER LN                                                   0680006800
+REESE RD                                                    0680006800
+REIS LN                                                     0680006800
+RIBOLT EPWORTH RD                                           0680006800
+RIBOLT EPWORTH SPUR                                         0680006800
+RICHARD LN                                                  0680006800
+RICHARDSON LN                                               0680006800
+RICHMOND LN                                                 0680006800
+RICHMOND RD                                                 0680006800
+RICKETT ST                                                  0680106801
+RIDDLE LN                                                   0680006800
+RIDER LN                                                    0680006800
+RIDGE RD                                                    0680006800
+RIGGS LN                                                    0680006800
+RIGHT BUTLER BRANCH SPUR                                    0680006800
+RILEY LN                                                    0680006800
+RIVER RD                                                    0680006800
+RIVER ST                                                    0680006800
+RIVER ST                                                    0680106801
+RIVER VIEW RD                                               0680006800
+RIVERVIEW ADDITION NO1                                      0680006800
+RIVERVIEW ADDITION NO2                                      0680006800
+RIVERVIEW DR                                                0680006800
+ROBERT LN                                                   0680006800
+ROBERTS RD                                                  0680006800
+ROBEY LN                                                    0680006800
+ROBEY SPUR                                                  0680006800
+ROBIN LN                                                    0680006800
+ROBIN RD                                                    0680006800
+ROBINSON AVE                                                0680006800
+ROCK CAMP BRANCH RD                                         0680006800
+ROCK CRK                                                    0680006800
+ROCK RUN                                                    0680006800
+ROE LN                                                      0680006800
+ROGERS LN                                                   0680006800
+ROLLING HILLS EST                                           0680006800
+ROLLING HILLS ESTATE SPUR                                   0680006800
+ROSCOE LN                                                   0680006800
+ROSE LN                                                     0680006800
+ROSE MOUNTAIN RD                                            0680006800
+ROSEWOOD LN                                                 0680006800
+ROSEY LN                                                    0680006800
+ROWLEY ST                                                   0680106801
+RUBY LN                                                     0680006800
+RUCKEL LN                                                   0680006800
+RUGGLES CAMP GROUND RD                                      0680006800
+RUGGLES LN                                                  0680006800
+RUNYAN HOLW                                                 0680006800
+S BANE RD                                                   0680006800
+SALT LICK RD                                                0680006800
+SAM LN                                                      0680006800
+SAND BR                                                     0680006800
+SAND HILL SPUR                                              0680006800
+SANDY LN                                                    0680006800
+SARA LN                                                     0680006800
+SARGENT BR                                                  0680006800
+SAUNDERS LN                                                 0680006800
+SAW PIT BR                                                  0680006800
+SAWMILL LN                                                  0680006800
+SAYLOR BRANCH RD                                            0680006800
+SCAFFOLD LICK RD                                            0680006800
+SCAGGS LN                                                   0680006800
+SCHRODER LN                                                 0680006800
+SCOTT LN                                                    0680006800
+SCOTTS BRANCH RD                                            0680002200
+SCRAPPERS LN                                                0680006800
+SECLUDED DR                                                 0680006800
+SETH LN                                                     0680006800
+SEWER PLANT ALY                                             0680006800
+SEXTON LN                                                   0680006800
+SHAE LN                                                     0680006800
+SHANNON RD                                                  0680006800
+SHAWNEE BOTTOMS                                             0680006800
+SHAWNEE DR                                                  0680006800
+SHELTON DR                                                  0680006800
+SHELTON DR                                                  0680106801
+SHORT ST                                                    0680106801
+SHUMATE LN                                                  0680006800
+SILVER LICK HOLW                                            0680006800
+SILVER LN                                                   0680006800
+SILVER MAPLE LN                                             0680006800
+SIMMONS RD                                                  0680006800
+SIMMONS SPUR                                                0680006800
+SIMPSON LN                                                  0680006800
+SINGLE BR                                                   0680006800
+SKIDMORE CEMETARY RD                                        0680006800
+SKIDMORE CEMETARY ROAD SPUR                                 0680006800
+SKIDMORE CT                                                 0680006800
+SKIDMORE LN                                                 0680006800
+SKIDMORE SPUR                                               0680006800
+SLATE CHURCH RD                                             0680106801
+SLATE POINT RD                                              0680006800
+SLATE ST                                                    0680006800
+SLATE ST                                                    0680106801
+SLATE STREET SPUR                                           0680106801
+SMITH LN                                                    0680006800
+SMOOT LN                                                    0680006800
+SMOOTH ROCK RD                                              0680006800
+SMOOTH ROCK SPUR                                            0680006800
+SOLDIER CEMETERY                                            0680006800
+SOUTH BEND RD                                               0680006800
+SOUTHERN MANOR RD                                           0680006800
+SPARKS DR                                                   0680006800
+SPARKS LN                                                   0680006800
+SPENCE                                                      0680006800
+SPENCER LN                                                  0680006800
+SPENCER ST                                                  0680106801
+SPRIGGS LN                                                  0680006800
+SPRING BR                                                   0680006800
+SPYRUN                                                      0680006800
+SPYRUN CEMETARY                                             0680006800
+SQUIRES LN                                                  0680006800
+ST ANDREWS PL                                               0680006800
+ST ENGLE RD                                                 0680006800
+ST ENGLE ROAD FRK                                           0680006800
+STACY LN                                                    0680006800
+STAGGS LN                                                   0680006800
+STAMM LN                                                    0680006800
+STAMM RD                                                    0680006800
+STAMPER BR                                                  0680006800
+STAMPER CEMETERY RD                                         0680006800
+STAMPER LN                                                  0680006800
+STAMPER RD                                                  0680006800
+STANFIELD LN                                                0680006800
+STATE ROAD FORK                                             0680006800
+STATE ROAD FORK SPUR                                        0680006800
+STATES LN                                                   0680106801
+STEEP LN                                                    0680006800
+STEIN ST                                                    0680106801
+STEVENS LN                                                  0680006800
+STEVENS RIDGE RD                                            0680006800
+STEVES ALY                                                  0680106801
+STEVIE LN                                                   0680006800
+STONE BR                                                    0680006800
+STONE BRANCH DAVIS FORK                                     0680006800
+STONE CEMETERY                                              0680006800
+STONE LN                                                    0680006800
+STOWER LN                                                   0680006800
+STRAIGHT FORK RD                                            0680006800
+STUDENT PARKING LN                                          0680006800
+SULLIVAN RIDGE                                              0680006800
+SUNSET CEMETERY                                             0680006800
+SWEARINGEN BRANCH RD                                        0680006800
+SYCAMORE CREEK RD                                           0680006800
+SYDNEY LN                                                   0680006800
+TACKETT LN                                                  0680006800
+TAR CAMP RD                                                 0680006800
+TAR FORK                                                    0680006800
+TAYLOR LN                                                   0680006800
+TC LN                                                       0680006800
+TEAGER HOLW                                                 0680006800
+TED LN                                                      0680006800
+TERRY LN                                                    0680006800
+THAMER RAYBURN RD                                           0680006800
+THAYER LN                                                   0680006800
+THOMAS LN                                                   0680006800
+THORNSBERRY LN                                              0680006800
+THORP RIDGE RD                                              0680006800
+THROCKMORTON LN                                             0680006800
+THURMAN BR                                                  0680006800
+THURMAN DR                                                  0680006800
+THURMAN LN                                                  0680006800
+THURMAN SPUR                                                0680006800
+TIBBS LN                                                    0680006800
+TILDEN LN                                                   0680006800
+TIN CAN ALY                                                 0680006800
+TINA DR                                                     0680106801
+TOBY LN                                                     0680006800
+TOLLER BRANCH RD                                            0680006800
+TOLLESBORO ELEMENTARY SCHOOL                                0680006800
+TOLLESBORO ELEMENTARY SCHOOL NO2                            0680006800
+TOLLESBORO SCHOOL LN                                        0680006800
+TOMMY LN                                                    0680006800
+TONIA LN                                                    0680006800
+TONY LN                                                     0680006800
+TOWN BR                                                     0680006800
+TOWN BR                                                     0680106801
+TOWNBRANCH RD                                               0680106801
+TRACE                                                       0680006800
+TRACE BRANCH CONNECTOR                                      0680006800
+TRACE BRANCH SPUR                                           0680006800
+TRAXEL LANE SPUR                                            0680006800
+TRAXEL LN                                                   0680006800
+TRINITY RD                                                  0680006800
+TRINITY STATION                                             0680006800
+TRINITY STATION LEFT FORK                                   0680006800
+TRISHA LN                                                   0680006800
+TRUCKER LN                                                  0680006800
+TULLEY LN                                                   0680006800
+TULLY                                                       0680006800
+TULLY DR                                                    0680006800
+TUMLIN LN                                                   0680006800
+TURNER LN                                                   0680006800
+TWELVE TREES LN                                             0680006800
+TWELVEACRE BRANCH RD                                        0680006800
+TWIN VALLEY FARMS                                           0680006800
+UNION HILL RD                                               0680006800
+UPPER TWIN BR                                               0680006800
+VALLEY CEMETERY RD                                          0680006800
+VALLEY LN                                                   0680006800
+VALLEY VIEW SUBDIVISION                                     0680006800
+VANCE CRK                                                   0680006800
+VANCE LN                                                    0680006800
+VANCEBURG BOAT RAMP                                         0680006800
+VANCEBURG SENIOR APARTMENT                                  0680106801
+VANCEBURG SEWER PLANT RD                                    0680006800
+VANHOOSE LN                                                 0680006800
+VELMA LN                                                    0680006800
+VICE ST                                                     0680006800
+VICKIE LN                                                   0680006800
+VINCE LN                                                    0680106801
+VIOLET LN                                                   0680006800
+VOCATIONAL DR                                               0680006800
+W 2ND ST                                                    0680106801
+W BENTLEY ST                                                0680006800
+W CANAAN CHURCH                                             0680006800
+W EVANS RD                                                  0680006800
+W KY10                                                      0680006800
+W SHAW HOLLOW RD                                            0680006800
+WALKER LN                                                   0680006800
+WALNUT ST                                                   0680106801
+WALTER ST                                                   0680106801
+WALTERS LN                                                  0680006800
+WARING CEMETARY RD                                          0680006800
+WARING CEMETARY ROAD SPUR                                   0680006800
+WARRICK LN                                                  0680006800
+WASHINGTON AVE                                              0680106801
+WASHINGTON ST                                               0680506805
+WEBSTER CEMETERY RD                                         0680006800
+WEDDINGTON LN                                               0680006800
+WELLS LN                                                    0680006800
+WERLINE LN                                                  0680006800
+WES COOPER DR                                               0680006800
+WESLEY LN                                                   0680006800
+WESTERFIELD LN                                              0680006800
+WHITE ASH LN                                                0680006800
+WHITE FIR LN                                                0680006800
+WHITE LN                                                    0680106801
+WHITE OAK RD                                                0680006800
+WHITE PINE LN                                               0680006800
+WHITE ST                                                    0680106801
+WHITEWOOD LN                                                0680006800
+WILBURN LN                                                  0680006800
+WILDWOOD TRAIL DR                                           0680006800
+WILLIAMS LN                                                 0680006800
+WILLIE LN                                                   0680006800
+WILLIS BRANCH RD                                            0680006800
+WILLIS LN                                                   0680006800
+WILSON BOTTOM RD                                            0680006800
+WILSON DR                                                   0680006800
+WILSON LN                                                   0680006800
+WITTEN CEMETERY RD                                          0680006800
+WOLF HOLW                                                   0680006800
+WOLFE CREEK RD                                              0680006800
+WOODLAWN CEMETARY SPUR                                      0680006800
+WOODLAWN CEMETERY                                           0680006800
+WOODLAWN CEMETERY                                           0680106801
+WRIGHT LN                                                   0680006800
+ZANE LN                                                     0680006800
+ZEEK SECRETS RD                                             0680006800
+ZORNS LN                                                    0680006800

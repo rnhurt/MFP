@@ -1,0 +1,1341 @@
+A F WHITE RD                                                0010000100
+A JONES RD                                                  0010000100
+A P WHITE DR                                                0010000100
+A SMITH RD                                                  0010000100
+A Z BURRIS RD                                               0010000100
+ABRELL RD                                                   0010000100
+ACCESS ROAD NO1                                             0010000100
+ACCESS ROAD NO2                                             0010000100
+ACREE RD                                                    0010000100
+ADAIR AVE                                                   0010100101
+ADAMS ALY W                                                 0010100101
+ADAMS RIDGE RD                                              0010000100
+ADAMS ST                                                    0010100101
+ADD SHEPHERD RD                                             0010000100
+ADDITION ONE DR                                             0010100101
+AKIN RD                                                     0010000100
+AKIN ST                                                     0010100101
+ALBERT FURKIN RD                                            0010000100
+ALEXANDER ST                                                0010000100
+ALICE LN                                                    0010000100
+ALLEN CEMETERY LN                                           0010000100
+ALLEN CEMETERY RD                                           0010000100
+ALLEN CURRY RD                                              0010000100
+ALLEN SCHOOLHOUSE RD                                        0010000100
+ALLEN SPARKS RD                                             0010000100
+ALLEN ST                                                    0010100101
+ALLISON LN                                                  0010100101
+ALLVIE BEARD RD                                             0010000100
+ALMON WOLFORD RD                                            0010000100
+ALVIN WILLIS RD                                             0010000100
+AMERI RD                                                    0010000100
+AMON SPOON RD                                               0010000100
+ANDERSON RD                                                 0010000100
+ANGUS LN                                                    0010000100
+ANTIOCH CHURCH RD                                           0010000100
+APPEN AVE                                                   0010100101
+APPLEBY DR                                                  0010100101
+ARBOR LN                                                    0010000100
+ARLIS GRANT RD                                              0010000100
+ARLO NEAT RD                                                0010000100
+ARNOLD CURRY RD                                             0010000100
+ARNOLDS LANDING                                             0010000100
+ARTHUR MCQUEARY RD                                          0010000100
+ARVIL BURTON RD                                             0010000100
+ASHLAND LN                                                  0010000100
+ASHLEY CT                                                   0010100101
+ASHTON LN                                                   0010000100
+ATCHLEY RD                                                  0010000100
+ATHLETA TRCE                                                0010000100
+ATKINS RD                                                   0010000100
+ATTWOOD RD                                                  0010000100
+AUTUMN PLACE LOOP                                           0010000100
+AVERY ROOKS RD                                              0010000100
+B GOODIN RD                                                 0010000100
+B HARVEY RD                                                 0010000100
+B HURT RD                                                   0010000100
+B KELTNER RD                                                0010000100
+B LOY RD                                                    0010000100
+B MURRELL RD                                                0010000100
+B NEAT RD                                                   0010000100
+B P RD                                                      0010000100
+BADGLEY RD                                                  0010000100
+BAKER RD                                                    0010000100
+BAKER ST                                                    0010100101
+BALLARD RD                                                  0010000100
+BANDY RD                                                    0010000100
+BARDIN RD                                                   0010000100
+BARNETTS CREEK RD                                           0010000100
+BAULT RD                                                    0010000100
+BEAGLE LN                                                   0010000100
+BEARD RD                                                    0010000100
+BEARWALLOW CEMETERY RD                                      0010000100
+BECAM ROGERS RD                                             0010000100
+BECKHAM GADBERRY RD                                         0010000100
+BECKHAM LOY RD                                              0010000100
+BEECHTOP LN                                                 0010000100
+BEECHTOP RD                                                 0010000100
+BEN SMITH RD                                                0010000100
+BENNETT CEMETERY RD                                         0010000100
+BENNETT RIDGE RD W                                          0010000100
+BENNIE BURTON RD                                            0010000100
+BESS PICKETT RD                                             0010000100
+BEST WAY                                                    0010000100
+BETHANY LN                                                  0010000100
+BETTY STOTTS RD                                             0010000100
+BEULAH CHAPEL RD                                            0010000100
+BIGGS RD                                                    0010000100
+BIGGS ST                                                    0010000100
+BILL HANDY LN                                               0010000100
+BILL HANDY RD                                               0010000100
+BILL JESSIE RD                                              0010000100
+BILL NUTE CURVE RD                                          0010000100
+BILL TURNER RD                                              0010000100
+BILLY COFFEY RD                                             0010000100
+BILLY HARMON RD                                             0010000100
+BILLY RODGERS RD                                            0010000100
+BILLY SULLIVAN RD                                           0010000100
+BINGHAM RD                                                  0010000100
+BIRCH RD                                                    0010000100
+BIRD RD                                                     0010000100
+BLACK BARN LN                                               0010000100
+BLACKBERRY LN                                               0010000100
+BLACKBY RD                                                  0010000100
+BLAIR RD                                                    0010000100
+BLAIR SCHOOL RD                                             0010000100
+BLANKENSHIP RD                                              0010000100
+BLEDSOE RD                                                  0010000100
+BLISS RD                                                    0010000100
+BLOOMINGTON CHURCH RD                                       0010000100
+BLOYDS RD                                                   0010000100
+BLUE BIRD CT                                                0010000100
+BLUE BRANCH RD                                              0010000100
+BLUE RAIDER DR                                              0010100101
+BLUE RIDGE CIR                                              0010000100
+BLUEGRASS DR                                                0010100101
+BOAT RAMP RD                                                0010000100
+BOB HATCHER RD                                              0010000100
+BOB PICKETT RD                                              0010000100
+BOB SMITH RD                                                0010000100
+BOB SPENCER RD                                              0010000100
+BOBBIE ST                                                   0010100101
+BOBBY DALE LN                                               0010000100
+BOHANNON RD                                                 0010000100
+BOLDER LN                                                   0010100101
+BOMAR HTS                                                   0010100101
+BOSS RD                                                     0010000100
+BOVINE LN                                                   0010000100
+BOWEN ST                                                    0010100101
+BRADBURY DR                                                 0010000100
+BRADSHAW RD                                                 0010000100
+BRAGG CEMETERY RD                                           0010000100
+BRAGG RD                                                    0010000100
+BRANHAM RD                                                  0010000100
+BREEDING LOOP                                               0010000100
+BREWSTERS LN                                                0010000100
+BRIDGEWATER RD                                              0010000100
+BROADUS LOY RD                                              0010000100
+BROCK BURRIS RD                                             0010000100
+BROCK RD                                                    0010000100
+BROCK ST                                                    0010100101
+BROCKMAN KELTNER RD                                         0010000100
+BROCKMAN RD                                                 0010000100
+BROOKPORT DR                                                0010000100
+BROWN RD N                                                  0010000100
+BROWN RD S                                                  0010000100
+BROWN ST                                                    0010100101
+BRUMMETT RD                                                 0010000100
+BRYANT CEMETERY LN                                          0010000100
+BRYANT CEMETERY RD                                          0010000100
+BRYANT ST                                                   0010100101
+BRYCE MORRISON RD                                           0010000100
+BUCK WATSON RD                                              0010000100
+BUEL HADLEY RD                                              0010000100
+BUELL COLLINS RD                                            0010000100
+BUELL RODGERS LN                                            0010000100
+BUELL RODGERS RD                                            0010000100
+BUFFALO CLIFFS                                              0010000100
+BULL RUN LN                                                 0010000100
+BULL RUN RD                                                 0010000100
+BUNNYHOP LN                                                 0010000100
+BURCHETT CEMETERY RD                                        0010000100
+BURKESVILLE LOOP                                            0010000100
+BURKESVILLE LOOP                                            0010100101
+BURKESVILLE LOOP CONNECTOR                                  0010100101
+BURKESVILLE RD                                              0010000100
+BURKESVILLE RD                                              0010100101
+BURKESVILLE ST                                              0010100101
+BURNETT RD                                                  0010000100
+BURNETT RD S                                                0010000100
+BURNETT ROAD CONNECTOR                                      0010000100
+BURRIS RD                                                   0010000100
+BURRIS SNEED RD                                             0010000100
+BURT CO PIKE                                                0010000100
+BURTON GARMON LN                                            0010000100
+BURTON GARMON RD                                            0010000100
+BUTLER BRANCH RD                                            0010000100
+BUTLER COVE RD                                              0010000100
+BUTLER SPUR NO1                                             0010000100
+BUTLER SPUR NO2                                             0010000100
+BUTLER ST                                                   0010100101
+C BURTON RD                                                 0010000100
+C CURRY RD                                                  0010000100
+C ESTES RD                                                  0010000100
+C G SCOTT DAIRY LN                                          0010000100
+C KERR RD                                                   0010000100
+C LONG LN                                                   0010000100
+C LONG RD                                                   0010000100
+C R JONES RD                                                0010000100
+C SIMPSON RD                                                0010000100
+C W BRYANT RD                                               0010000100
+CALDWELL LOOP                                               0010000100
+CALDWELL RD                                                 0010000100
+CALDWELL RIDGE RD                                           0010000100
+CALLAHAN LOOP                                               0010000100
+CALLIE LN                                                   0010100101
+CAMPBELL RD                                                 0010000100
+CAMPBELLSVILLE RD                                           0010000100
+CAMPBELLSVILLE RD                                           0010100101
+CAMPBELLSVILLE ST                                           0010100101
+CAMPGROUND RD                                               0010000100
+CAMPGROUND ROAD NO2                                         0010000100
+CANAAN LAND RD                                              0010000100
+CANE VALLEY CEMETERY RD                                     0010000100
+CANE VALLEY CHURCH RD                                       0010000100
+CANE VALLEY MILL RD                                         0010000100
+CANE VALLEY RD                                              0010000100
+CANE VALLEY SCHOOL RD                                       0010000100
+CAPE RD                                                     0010000100
+CARDINAL DR                                                 0010100101
+CARLOS BALLOU RD                                            0010000100
+CARLOS STOTTS RD                                            0010000100
+CARRIE BOLIN DR                                             0010100101
+CARROLL RD                                                  0010000100
+CARSON LEWIS RD                                             0010000100
+CARTER KELTNER RD                                           0010000100
+CARTER KELTNER SPUR RD                                      0010000100
+CASEY CIR                                                   0010100101
+CASEY CIRCLE RD                                             0010000100
+CASEY CREEK RD                                              0010000100
+CASEY LOY RD                                                0010000100
+CASEY STATION DR                                            0010000100
+CATFISH CT                                                  0010000100
+CECIL BLAIR RD                                              0010000100
+CEDAR GROVE RD                                              0010000100
+CEDAR HILL LN                                               0010000100
+CEDAR LANE RD                                               0010000100
+CEDAR ST                                                    0010100101
+CEMETERY RD                                                 0010000100
+CENTER ST                                                   0010100101
+CHANCE RD                                                   0010000100
+CHARLES COLE RD                                             0010000100
+CHARLES HELM RD                                             0010000100
+CHARLES ST                                                  0010100101
+CHARLEY SMITH RD                                            0010000100
+CHARLIE FRANK PYLES RD                                      0010000100
+CHARLIE MORRISON RD                                         0010000100
+CHEATHAM RD                                                 0010000100
+CHERRY TREE LN                                              0010000100
+CHESTER WHITEHEAD RD                                        0010000100
+CHESTNUT CORNER RD                                          0010000100
+CHESTNUT FLAT RD                                            0010000100
+CHESTNUT GROVE RD                                           0010000100
+CHICKADEE LN                                                0010000100
+CHRIS COLE RD                                               0010000100
+CHRIS COWAN RD                                              0010000100
+CHRISTINE RD                                                0010000100
+CHRISTINE SANO RD                                           0010000100
+CHURCH DR                                                   0010000100
+CHURCH ST                                                   0010100101
+CIRCLE LN                                                   0010000100
+CLARK RD                                                    0010000100
+CLAUDY KEMP RD                                              0010000100
+CLEAR SPRINGS LN                                            0010000100
+CLEAR SPRINGS RD                                            0010000100
+CLELL PARSON RD                                             0010000100
+CLEM GOODIN RD                                              0010000100
+CLIFTY VIEW RD                                              0010000100
+CLINTON ST                                                  0010100101
+CLISTEN PICKETT RD                                          0010000100
+CLOVERPORT DR                                               0010000100
+CLYDE CHEATHAM RD                                           0010000100
+CLYDE PETTY RD                                              0010000100
+CLYNUS MCCLISTER RD                                         0010000100
+COBURG LN                                                   0010000100
+COBURG RD                                                   0010000100
+COFFEY RD                                                   0010000100
+COLE ST                                                     0010100101
+COLLEGE PARK                                                0010100101
+COLLINS RD                                                  0010000100
+COLONY DR                                                   0010100101
+COLUMBIA BYP                                                0010000100
+COLUMBIA BYP                                                0010100101
+COLUMBIA LN                                                 0010000100
+COMBEST DR                                                  0010000100
+COMPTON CIR                                                 0010000100
+CONNIE ST                                                   0010100101
+CONOVER CEMETERY RD                                         0010000100
+CONOVER LN                                                  0010000100
+COOMER DR                                                   0010000100
+COOMER RD                                                   0010000100
+COOPER RIDGE RD                                             0010000100
+COPPAGE RD                                                  0010000100
+CORBIN RD                                                   0010000100
+CORBIN RICHARDS RD                                          0010000100
+CORBINS BEND LN                                             0010000100
+CORBINS BEND RD                                             0010000100
+CORP RD                                                     0010000100
+COSBY CUNDIFF RD                                            0010000100
+COTTON ST                                                   0010100101
+COUNTRY CLUB RD                                             0010000100
+COUNTRY PLACE DR                                            0010100101
+COUNTY LINE RD                                              0010000100
+COX CEMETERY RD                                             0010000100
+COX RD                                                      0010000100
+COX SPUR                                                    0010000100
+COY CLAYWELL RD                                             0010000100
+COY TRCE                                                    0010000100
+COYOTE RD                                                   0010000100
+CRAVENS RD                                                  0010000100
+CREAD LACY RD                                               0010000100
+CREEK BEND DR                                               0010000100
+CREEK MANAGEMENT RD                                         0010000100
+CREEKPORT DR                                                0010000100
+CREEKVIEW DR                                                0010100101
+CRESTVIEW LOOP                                              0010100101
+CROCUS RD                                                   0010000100
+CROCUS VIEW RD                                              0010000100
+CROOKED CREEK RD                                            0010000100
+CROUCH RD                                                   0010000100
+CUNDIFF CEMETERY RD                                         0010000100
+CURRY RD                                                    0010000100
+CURRY ST                                                    0010100101
+CURT KELTNER RD                                             0010000100
+CURTIS LN                                                   0010000100
+D ACREE RD                                                  0010000100
+D BRIDGEWATER RD                                            0010000100
+D COOMER RD                                                 0010000100
+D GOWAN RD                                                  0010000100
+D KERR RD                                                   0010000100
+D UPCHURCH RD                                               0010000100
+D WILSON RD                                                 0010000100
+DAFFODIL HILL RD                                            0010000100
+DAIRY LN                                                    0010000100
+DAISY LN                                                    0010000100
+DALE MORRISON RD                                            0010000100
+DAMRONS CREEK RD                                            0010000100
+DARRELL OVERSTREET RD                                       0010000100
+DARYLS DR                                                   0010000100
+DAVID BUTLER RD                                             0010000100
+DAVIS LN                                                    0010000100
+DAY RD                                                      0010000100
+DEAN WOODS RD                                               0010000100
+DEMSEY LN                                                   0010000100
+DENSON RD                                                   0010000100
+DENTON CEMETERY RD                                          0010000100
+DENTON RD                                                   0010000100
+DENVER DR                                                   0010100100
+DERBY DR                                                    0010000100
+DETWEILER RD                                                0010000100
+DETWEILER SPUR RD                                           0010000100
+DICK GRANT RD                                               0010000100
+DICK SNEED RD                                               0010000100
+DILLON BRAGG RD                                             0010000100
+DILLON ST                                                   0010100101
+DIMPLE GRAVES RD                                            0010000100
+DIXON WALKER RD                                             0010000100
+DOC WALKER RD                                               0010100101
+DOE RUN RD                                                  0010000100
+DOGWOOD TRCE                                                0010000100
+DONNA LN                                                    0010000100
+DOTSON RD                                                   0010000100
+DOUG WHITE RD                                               0010000100
+DOWNEY LAKE RD                                              0010000100
+DOWNEY LN                                                   0010000100
+DOWNEYS DR                                                  0010000100
+DRAKE RD                                                    0010000100
+DRY CREEK RD                                                0010000100
+DRY HOLLOW RD                                               0010000100
+DUCKBILL RD                                                 0010000100
+DULWORTH RD                                                 0010000100
+DUNBAR ST                                                   0010000100
+DUNNVILLE RD                                                0010000100
+DWIGHT CURRY RD                                             0010000100
+DYKES LN                                                    0010000100
+E BIG CREEK SCHOOL RD                                       0010000100
+E CURRY RD                                                  0010000100
+E FORTUNE ST                                                0010100101
+E FRAZIER AVE                                               0010100101
+E GUARDIAN ST                                               0010100101
+E JANES RD                                                  0010000100
+E RIDGE RD                                                  0010000100
+E SHARP RD                                                  0010000100
+E STOTTS RD                                                 0010000100
+E WILSON DR                                                 0010000100
+EAGLE DR                                                    0010000100
+EARNEST SPARKS RD                                           0010000100
+EAST80 DR                                                   0010000100
+EASTRIDGE CEMETERY RD                                       0010000100
+EASTRIDGE CEMETERY RD                                       1090000100
+ED CORBIN RD                                                0010000100
+ED HADLEY RD                                                0010000100
+ED IRVIN RD                                                 0010000100
+ED MILLER RD                                                0010000100
+EDD ASHLEY RD                                               0010000100
+EDDIE COMPTON RD                                            0010000100
+EDGAR JAMES RD                                              0010000100
+EDGAR JESSEE RD                                             0010000100
+EDGEWOOD DR                                                 0010100101
+EDMONTON RD                                                 0010000100
+EDNA DR                                                     0010100101
+EDRO HARVEY RD                                              0010000100
+EDWIN BRANT RD                                              0010000100
+EDWIN BRYANT RD                                             0010000100
+ELBERT BURTON RD                                            0010000100
+ELBERT FRANKUM RD                                           0010000100
+ELKHORN RD                                                  0010000100
+ELLIS RD                                                    0010000100
+ELM ST                                                      0010100101
+ELROY COFFEY RD                                             0010000100
+ENCHANTED FOREST LN                                         0010000100
+ENGLAND COOK RD                                             0010000100
+ENGLISH LN                                                  0010000100
+ENID LEIBY RD                                               0010000100
+EPISCOPAL CHURCH RD                                         0010000100
+ESTE MCKINNEY CEMETERY RD                                   0010000100
+ESTEL ASBURY RD                                             0010000100
+ESTEL BARNETT RD                                            0010000100
+ESTIL JESSIE RD                                             0010000100
+EUNICE DUNNVILLE RD                                         0010000100
+EVANS CAMP RD                                               0010000100
+EWING ST                                                    0010100101
+F AKIN RD                                                   0010000100
+F BURRIS RD                                                 0010000100
+F BURTON RD                                                 0010000100
+F HOLLIDAY RD                                               0010000100
+F MURRELL RD                                                0010000100
+FAIR RD                                                     0010000100
+FAIRPLAY RD                                                 0010000100
+FAIRVIEW RD                                                 0010000100
+FAITH HILL DR                                               0010000100
+FARM RD                                                     0010000100
+FARMINGTON WAY                                              0010000100
+FARR LN                                                     0010100101
+FARRIS RD                                                   0010000100
+FEATHERSBURG RD N                                           0010000100
+FEATHERSBURG SOUTH                                          0010000100
+FEESE RD                                                    0010000100
+FELTON FUDGE RD                                             0010000100
+FINCH LN                                                    0010000100
+FIRE DEPT LN                                                0010000100
+FIRQUIN RD                                                  0010000100
+FLAT ROCK RD                                                0010000100
+FLATWOODS RD                                                0010000100
+FLOYD ROY RD                                                0010000100
+FOWL LN                                                     0010000100
+FOX RUN                                                     0010000100
+FRANCES DR                                                  0010000100
+FRANK DOHONEY RD                                            0010000100
+FRANKLIN TERRACE                                            0010100101
+FRANKUM RD                                                  0010000100
+FRED FUDGE RD                                               0010000100
+FREE UNION RD                                               0010000100
+FREEDOM CEMETERY RD                                         0010000100
+FREEDOM CHURCH RD                                           0010000100
+FREEMAN COOMER RD                                           0010000100
+FUDGE CEMETERY RD                                           0010000100
+FUDGE RD                                                    0010000100
+G B BARDIN RD                                               0010000100
+G BROWNING RD                                               0010000100
+G CHEATHAM RD                                               0010000100
+G CONOVER RD                                                0010000100
+G D KELTNER RD                                              0010000100
+G RUSSELL RD                                                0010000100
+G STEPHENS RD                                               0010000100
+G TAYLOR RD                                                 0010000100
+G W KELTNER RD                                              0010000100
+GARDEN LN                                                   0010100101
+GARMON RD                                                   0010000100
+GARNETT BAKER RD                                            0010000100
+GARNETT KESSLER RD                                          0010000100
+GARRETT RD                                                  0010000100
+GARRETT ST                                                  0010100101
+GARRISON RD                                                 0010000100
+GARVIS GRANT RD                                             0010000100
+GARY DOWNEY RD                                              0010000100
+GASTON AVE                                                  0010100101
+GAULT LN                                                    0010000100
+GAYLORD HENSON RD                                           0010000100
+GEN JOHN ADAIR RD                                           0010100101
+GEN PATTON RD                                               0010000100
+GENESIS RD                                                  0010010900
+GENNIE HILL LN                                              0010000100
+GENNIE HILL RD                                              0010000100
+GENTRY MILL RD                                              0010000100
+GENTRY RD                                                   0010000100
+GIBSON RD                                                   0010000100
+GIFFORD RD                                                  0010000100
+GILBERT RD                                                  0010000100
+GILBERT SMITH RD                                            0010000100
+GILES RD                                                    0010000100
+GLEN BENNETT RD                                             0010000100
+GLENMARY DR                                                 0010100101
+GLENSFORK RD                                                0010000100
+GLORY LN                                                    0010000100
+GODBY RD                                                    0010000100
+GOODE AND REDMON RD                                         0010000100
+GOSSETT RD                                                  0010000100
+GRADY LOOP                                                  0010100101
+GRADY RD                                                    0010000100
+GRADYVILLE CLUB RD                                          0010000100
+GRANT BROCKMAN RD                                           0010000100
+GRANT LN                                                    0010100101
+GRASSY SPRINGS RD                                           0010000100
+GREENBRIAR RD                                               0010000100
+GREENHILLS RD                                               0010000101
+GREENHILLS RD                                               0010100101
+GREENHILLS SPUR DR                                          0010000100
+GREENSBURG RD                                               0010000100
+GREENSBURG ST                                               0010000100
+GREENSBURG ST                                               0010100101
+GRIDER RD                                                   0010000100
+GRISSOM ST                                                  0010100101
+GROSSBEAK LN                                                0010000100
+GUFFEY RD                                                   0010000100
+GUTHRIE ST                                                  0010100101
+H CORBIN RD                                                 0010000100
+H GOWEN RD                                                  0010000100
+H GRANT RD                                                  0010000100
+H LACY RD                                                   0010000100
+H LAWLESS RD                                                0010000100
+H RICHARDS RD                                               0010000100
+HADLEY CHURCH RD                                            0010000100
+HADLEY FARM RD                                              0010000100
+HALF ACRE CIR                                               0010000100
+HALLIE STULTS RD                                            0010000100
+HAMLET RD                                                   0010000100
+HAMMON RD                                                   0010000100
+HANCOCK RD                                                  0010000100
+HANLEY LN                                                   0010100101
+HAPPY RIDGE LN                                              0010000100
+HARDESTY RD                                                 0010000100
+HARLAN BROWN RD                                             0010000100
+HARM SHELTON RD                                             0010000100
+HAROLD SCHOLL RD                                            0010000100
+HARRIS RD                                                   0010000100
+HARRISON RD                                                 0010000100
+HARRODS FORK CIR                                            0010000100
+HARRODS FORK CONNECTOR RD                                   0010000100
+HARRY SULLIVAN RD                                           0010000100
+HARVEY CEMETERY RD                                          0010000100
+HARVEY ST                                                   0010100101
+HATCHER RD                                                  0010000100
+HATCHER WHITE RD                                            0010000100
+HAVEN DR                                                    0010000100
+HAYES ST                                                    0010100101
+HAZEL CLARK RD                                              0010000100
+HEARTLAND CIR                                               0010000100
+HEATHER LN                                                  0010000100
+HELLEN FLATT DR                                             0010100101
+HELLUM RD                                                   0010000100
+HELM CEMETERY RD                                            0010000100
+HEMLOCK CIR                                                 0010100101
+HENDRICKSON DR                                              0010000100
+HENDRICKSON RD                                              0010000100
+HENRY GARNETT RD                                            0010000100
+HENSON RD                                                   0010000100
+HERBERT HANDY RD                                            0010000100
+HESKAMP ST                                                  0010100101
+HILL CREST LN                                               0010000100
+HILL ST                                                     0010100101
+HILLTOP LN                                                  0010000100
+HINDMAN ST                                                  0010100101
+HOLLADAY CEM RD                                             0010000100
+HOLLADAY CEMETERY RD                                        0010000100
+HOLLIDAY RD                                                 0010000100
+HOLLY GATE RD                                               0010000100
+HOLMES BEND CORP NO1 RD                                     0010000100
+HOLMES BEND CORP NO2 RD                                     0010000100
+HOLMES BEND CORP RD                                         0010000100
+HOLMES BEND RD                                              0010000100
+HOLSTEIN LN                                                 0010000100
+HOLT RD                                                     0010000100
+HOLT SPUR RD                                                0010000100
+HONEY BEE DR                                                0010000100
+HONEY HOUSE LN                                              0010000100
+HOOD CEMETERY RD                                            0010000100
+HOOT OWL HOLLER                                             0010000100
+HOOTERVILLE RD                                              0010000100
+HOPE LN                                                     0010000100
+HORSESHOE BEND RD                                           0010000100
+HORSESHOE DR                                                0010000100
+HORTON DR                                                   0010000100
+HOVIOUS RIDGE RD                                            0010000100
+HOWARD CHRISTINE ST                                         0010100101
+HOWARD DULIN RD                                             0010000100
+HOWARD SAMUELS RD                                           0010000100
+HUDDLESTON RD                                               0010000100
+HUDSON ST                                                   0010000100
+HUDSON ST                                                   0010100101
+HUGHES RD                                                   0010000100
+HUGHES ST                                                   0010100101
+HUMMINGBIRD LN                                              0010100101
+HUNT MORGAN TRL                                             0010000100
+HUNTING HILLS DR                                            0010000100
+HUNTINGTON WAY                                              0010000100
+HURT ST                                                     0010100101
+HUTCH LN                                                    0010000100
+HUTCHISON LOY RD                                            0010000100
+HUTCHISON RD                                                0010000100
+HUTCHISON ROAD RIGHT                                        0010000100
+INDEPENDENCE RIDGE RD                                       0010000100
+INDIAN DR                                                   0010100101
+INDUSTRIAL PARK RD                                          0010100101
+INGRAM RD                                                   0010000100
+IRA ROOKS RD                                                0010000100
+IVAN CABBELL RD                                             0010000100
+IVY LN                                                      0010000100
+J B BLEDSOE RD                                              0010000100
+J B PATTERSON RD                                            0010000100
+J B WHITE RD                                                0010000100
+J BRUMMETT RD                                               0010000100
+J BURBRIDGE RD                                              0010000100
+J BURTON RD                                                 0010000100
+J C GENTRY RD                                               0010000100
+J C JOHNSON RD                                              0010000100
+J C LASLEY RD                                               0010000100
+J COFFEY RD                                                 0010000100
+J COOMER RD                                                 0010000100
+J D MICKINNEY RD                                            0010000100
+J DETWIELER RD                                              0010000100
+J E FLETCHER RD                                             0010000100
+J E TILLER RD                                               0010000100
+J GRANT RD                                                  0010000100
+J H SMITH RD                                                0010000100
+J KERR RD                                                   0010000100
+J KNIFLEY RD                                                0010000100
+J L BLADES RD                                               0010000100
+J MONTGOMERY RD                                             0010000100
+J SAMUEL RD                                                 0010000100
+J WEATHINGTON RD                                            0010000100
+J YATES RD                                                  0010000100
+JACK SMITH RD                                               0010000100
+JACKIE BARDIN RD                                            0010000100
+JACKSON RD                                                  0010000100
+JAMES BEAN RD                                               0010000100
+JAMES CAPE RD                                               0010000100
+JAMES KARNES RD                                             0010000100
+JAMES R GASKIN RD                                           0010000100
+JAMESTOWN ST                                                0010100101
+JANE DR                                                     0010100101
+JANES RD                                                    0010000100
+JASON TYLER RD                                              0010000100
+JASPER ST                                                   0010000100
+JAY WHEELER RD                                              0010000100
+JEFFERSON ALLEY                                             0010100101
+JEFFRIES RD                                                 0010000100
+JERRY LOY RD                                                0010000100
+JERSEY LN                                                   0010000100
+JESSIE MURRELL RD                                           0010000100
+JESSIE RD                                                   0010000100
+JESSIE ST                                                   0010100101
+JIM BLAIR DR                                                0010000100
+JIM WHITEHEAD RD                                            0010000100
+JIMMY BENNETT LN                                            0010000100
+JIMMY COFFEY RD                                             0010000100
+JO ANN LN                                                   0010000100
+JOE ABRELL RD                                               0010000100
+JOE CONOVER RD                                              0010000100
+JOE GRIDER RD                                               0010000100
+JOE GRIDER SPUR RD                                          0010000100
+JOE JANES RD                                                0010000100
+JOE R BARBEE RD                                             0010000100
+JOE TOM GRANT RD                                            0010000100
+JOHN LN                                                     0010000100
+JOHN ROSE RD                                                0010100101
+JOHN STREEVAL RD                                            0010000100
+JOHNNIES LN                                                 0010000100
+JOHNNY HARVEY RD                                            0010000100
+JOHNNY JANES RD                                             0010000100
+JOHNNY WILSON RD                                            0010000100
+JOHNSON CEMETERY RD                                         0010000100
+JOHNSON SCHOOL RD                                           0010000100
+JONES CHAPEL RD                                             0010000100
+JONES CHAPEL SPUR RD                                        0010000100
+JONES RD                                                    0010000100
+JONES ST                                                    0010100101
+JONES WRIGHT CT                                             0010100101
+JR BAILEY RD                                                0010000100
+JR BURTON RD                                                0010000100
+JR GILES RD                                                 0010000100
+JUNIOR LOY RD                                               0010000100
+JUNIOR SPOON RD                                             0010000100
+K JESSIE RD                                                 0010000100
+K TARTER RD                                                 0010000100
+KAREN DR                                                    0010000100
+KARNES RD                                                   0010000100
+KASSEM RD                                                   0010000100
+KASSEM RD                                                   0010100101
+KAY CARTER RD                                               0010000100
+KAY DUNBAR RD                                               0010000100
+KEEN DR                                                     0010100101
+KEEN WILSON RD                                              0010000100
+KEITH STOTTS RD                                             0010000100
+KELLYVILLE RD                                               0010000100
+KELTNER CEMETERY RD                                         0010000100
+KELTNER LEGG RD                                             0010000100
+KELTNER MELL RD                                             0010000100
+KELTNER MELL RIDGE RD                                       0010000100
+KELTNER RD                                                  0010000100
+KELTNERTOWN RD                                              0010000100
+KEMP RD                                                     0010000100
+KENNETH BLEDSOE RD                                          0010000100
+KENNY DOWNEY RD                                             0010000100
+KILL DEER RUN                                               0010000100
+KING RD                                                     0010000100
+KNIFLEY RD                                                  0010000100
+KNOX ST                                                     0010100101
+KY1952                                                      0010000100
+KY439 CONN                                                  0010000100
+KY55 S                                                      0010000100
+KY55X                                                       0010100101
+KY768                                                       0010000100
+KY80                                                        0010000100
+KY900                                                       0010000100
+KYLE CIR                                                    0010000100
+KYNDAL LN                                                   0010000100
+L BENNETT RD                                                0010000100
+L BROCKMAN RD                                               0010000100
+L C WILLIS RD                                               0010000100
+L COFFEY RD                                                 0010000100
+L ENGLAND RD                                                0010000100
+L GRIDER RD                                                 0010000100
+L HANCOCK RD                                                0010000100
+L JEFFRIES RD                                               0010000100
+L JONES RD                                                  0010000100
+L SMITH RD                                                  0010000100
+L SULLIVAN RD                                               0010000100
+L V WILSON RD                                               0010000100
+L WHEAT RD                                                  0010000100
+L WILLIS RD                                                 0010000100
+LADYBUG LN                                                  0010000100
+LAKEVIEW DR                                                 0010000100
+LAMPTON LN                                                  0010000100
+LANCASTER DR                                                0010100101
+LASLEY RD                                                   0010000100
+LAWHORN RD                                                  0010000100
+LAY LN                                                      0010000100
+LAY RD                                                      0010000100
+LAYMON NORRIS RD                                            0010000100
+LEATHERWOOD CHURCH RD                                       0010000100
+LEE BOB CARTER RD                                           0010000100
+LEE HUCKABY RD                                              0010000100
+LEE ST                                                      0010100101
+LEGG EAST RD                                                0010000100
+LEGG WEST RD                                                0010000100
+LEMON RD                                                    0010000100
+LEMUEL BRAGG RD                                             0010000100
+LEONARD BURTON RD                                           0010000100
+LESLIE KELTNER RD                                           0010000100
+LETHER BURTON RD                                            0010000100
+LEWIS GARRISON RD                                           0010000100
+LIBERTY HILL DR                                             0010000100
+LIBERTY RD                                                  0010000100
+LIBERTY RD                                                  0010100101
+LILY DR                                                     0010100101
+LILY LN                                                     0010100101
+LINCOLN DR                                                  0010000100
+LINDSEY WILSON ST                                           0010100101
+LINVIL BRYANT                                               0010000100
+LITTLE CAKE RD                                              0010000100
+LITTLE JOE CONOVER RD                                       0010000100
+LITTLE LN                                                   0010000100
+LN9008 E                                                    0010000100
+LN9008 E                                                    0010100101
+LN9008 E EXIT46 OFF RAMP TO KY61                            0010000100
+LN9008 E EXIT46 ON RAMP FROM KY61                           0010000100
+LN9008 E EXIT46 ON RAMP FROM KY61 N                         0010000100
+LN9008 E EXIT46 ON RAMP FROM KY61 S                         0010000100
+LN9008 E EXIT49 OFF RAMP TO KY55                            0010100101
+LN9008 E EXIT49 OFF RAMP TO KY55 N                          0010100101
+LN9008 E EXIT49 OFF RAMP TO KY55 S                          0010100101
+LN9008 E EXIT49 ON RAMP FROM KY55                           0010100101
+LN9008 E EXIT49 ON RAMP FROM KY55 N                         0010100101
+LN9008 E EXIT49 ON RAMP FROM KY55 S                         0010100101
+LN9008 EXIT46 CROSSOVER                                     0010000100
+LN9008 W                                                    0010000100
+LN9008 W                                                    0010100101
+LN9008 W EXIT46 OFF RAMP TO KY61                            0010000100
+LN9008 W EXIT46 ON RAMP FROM KY61                           0010000100
+LN9008 W EXIT46 ON RAMP FROM KY61 N                         0010000100
+LN9008 W EXIT46 ON RAMP FROM KY61 S                         0010000100
+LN9008 W EXIT49 OFF RAMP TO KY55                            0010100101
+LN9008 W EXIT49 OFF RAMP TO KY55 N                          0010100101
+LN9008 W EXIT49 OFF RAMP TO KY55 S                          0010100101
+LN9008 W EXIT49 ON RAMP FROM KY55                           0010100101
+LN9008 W EXIT49 ON RAMP FROM KY55 N                         0010100101
+LN9008 W EXIT49 ON RAMP FROM KY55 S                         0010100101
+LOCUST LN                                                   0010000100
+LONGVIEW LN                                                 0010000100
+LOREN COLLINS RD                                            0010000100
+LORY RD                                                     0010000100
+LOUIE DR                                                    0010000100
+LOUIE RAY RD                                                0010000100
+LOVELESS RD                                                 0010000100
+LOWES LN                                                    0010100101
+LOY CEMETERY RD                                             0010000100
+LOY ST                                                      0010100101
+LOYS DR                                                     0010000100
+LV SCOTT RD                                                 0010000100
+M BRYANT RD                                                 0010000100
+M CALDWELL RD                                               0010000100
+M CAMPBELL RD                                               0010000100
+M COOMER RD                                                 0010000100
+M F HUCKABY RD                                              0010000100
+M ROWE RD                                                   0010000100
+M SCOTT RD                                                  0010000100
+MAC LEWIS RD                                                0010000100
+MACK ST                                                     0010100101
+MACKS DR                                                    0010000100
+MACKY SPOON RD                                              0010000100
+MADISON ALLEY                                               0010100101
+MAGGIE ST                                                   0010100101
+MAGNOLIA DR                                                 0010100101
+MAJESTIC WAY                                                0010100101
+MAJESTIC WAY CONNECTOR                                      0010100101
+MALLORY RD                                                  0010000100
+MAPLE ST                                                    0010100101
+MAPLE TREE ST                                               0010100101
+MARION FUDGE RD                                             0010000100
+MARION SMITH RD                                             0010000100
+MARKLE RD                                                   0010000100
+MARLO CAMPBELL RD                                           0010000100
+MARSHALL ST                                                 0010100101
+MARVIN JONES LN                                             0010000100
+MARVIN JONES RD                                             0010000100
+MARY ALLENDER RD                                            0010000100
+MARYLIN LN                                                  0010000100
+MARYS DR                                                    0010000100
+MASON LN                                                    0010100101
+MAUPIN RD                                                   0010000100
+MAYNE LN                                                    0010100101
+MCDONALD DR                                                 0010000100
+MCGUFFIN RD                                                 0010000100
+MEADOWVIEW DR                                               0010100101
+MELSON CEMETERY RD                                          0010000100
+MELSON RIDGE RD                                             0010000100
+MERCHANT ST                                                 0010100101
+MERCY LN                                                    0010000100
+MEYERS RD                                                   0010000100
+MICHUM RD                                                   0010000100
+MIDWAY RD                                                   0010000100
+MILKY WAY DR                                                0010000100
+MILLARD KELTNER RD                                          0010000100
+MILLER AVE                                                  0010100101
+MILLERFIELD RD                                              0010000100
+MILLTOWN CHURCH RD                                          0010000100
+MILLTOWN RD                                                 0010000100
+MINOR ST                                                    0010100101
+MIRANDA SPUR                                                0010000100
+MITCHELL ST                                                 0010100101
+MOCKINGBIRD LN                                              0010000100
+MONTGOMERY ST                                               0010100101
+MONTPELIER RD                                               0010000100
+MONTS LN                                                    0010000100
+MOORE CEMETERY RD                                           0010000100
+MOORE ST                                                    0010100101
+MORRIS CHAPEL RD                                            0010000100
+MORRISON DR                                                 0010000100
+MORRISON RD                                                 0010000100
+MORROW LN                                                   0010000100
+MOSELEY DR                                                  0010100101
+MOSS CEMETERY RD                                            0010000100
+MOSS FAMILY CEMETERY RD                                     0010000100
+MOSS RD                                                     0010000100
+MOTLEY RD                                                   0010000100
+MT CARMEL CEMETERY RD                                       0010000100
+MT CARMEL RD                                                0010000100
+MT TUSSELL RD                                               0010000100
+MT VERNON CHURCH RD                                         0010000100
+MULBERRY RD                                                 0010000100
+MULLINIX DR                                                 0010100101
+MURLEY RD                                                   0010000100
+MURRAH RD                                                   0010000100
+MURRAY LN                                                   0010000100
+MURRAY LN                                                   0010100101
+MURRAY TRCE                                                 0010000100
+MUSHROOM RD                                                 0010000100
+MUSKIE RD                                                   0010000100
+MYERS DR                                                    0010100101
+MYRTLE DR                                                   0010100101
+N BRAMBLETT ST                                              0010100101
+N FIFTY FIVE CUT RD                                         0010000100
+N HIGH ST                                                   0010100101
+N MONROE ST                                                 0010100101
+N MURRAY TRCE                                               0010000100
+N OWL HOLLOW RD                                             0010000100
+N REED ST                                                   0010100101
+NANCY COBB RD                                               0010000100
+NATHAN CURRY RD                                             0010000100
+NEAT HOLLOW RD                                              0010000100
+NEAT RD                                                     0010000100
+NEED MORE RD                                                0010000100
+NELSON RD                                                   0010000100
+NEVA FAY LN                                                 0010000100
+NEW CONCORD RD                                              0010000100
+NEW HOPE CHURCH RD                                          0010000100
+NEWSPAPER CIR                                               0010100101
+NIXON RD                                                    0010000100
+NOBLE RD                                                    0010000100
+NOBLES FARM RD                                              0010000100
+NOONON RD                                                   0010000100
+NORMAN GRANT RD                                             0010000100
+O FLATT RD                                                  0010000100
+OAK GROVE RD                                                0010000100
+OAK ST                                                      0010100101
+OAKES RD                                                    0010000100
+OBREY BRANHAM RD                                            0010000100
+OFFICE PARK DR                                              0010100101
+OLD CLEAR SPRINGS RD                                        0010000100
+OLD GLENSFORK RD                                            0010000100
+OLD GRADYVILLE CHURCH RD                                    0010000100
+OLD GRADYVILLE RD                                           0010000100
+OLD JOHNSON RD                                              0010000100
+OLD KY 55 LOOP                                              0010000100
+OLD KY 61                                                   0010000100
+OLD KY 61 NO2                                               0010000100
+OLD KY 61 NO2 CONNECTOR                                     0010000100
+OLD MONTPELIER RD                                           0010000100
+OLD PERKINS RD                                              0010000100
+OLD PORTLAND RD                                             0010000100
+OLD SOMERSET RD                                             0010000100
+OLD SPRINGFIELD RD                                          0010000100
+OLD SULPHUR SPRINGS RD                                      0010000100
+OLIE BROWN RD                                               0010000100
+OLIVER WAY                                                  0010000100
+OLK ENGLAND RD                                              0010000100
+ONE MORE DR                                                 0010000100
+ORA PAGE RD                                                 0010000100
+ORBY BRANHAM RD                                             0010000100
+ORVIS GRIDER DR                                             0010100101
+OTHA BRYANT RD                                              0010000100
+OTTER LN                                                    0010000100
+OVAL PETTY RD                                               0010000100
+OVERSTREET RD                                               0010000100
+OWEN KEMP RD                                                0010000100
+OWL HOLLOW RD                                               0010000100
+OXFORD PLACE                                                0010000100
+OZARK TRAIL                                                 0010000100
+P AND C LN                                                  0010000100
+P D PYLES RD                                                0010000100
+PAGE RD                                                     0010000100
+PAGE ST                                                     0010100101
+PARADISE LN                                                 0010000100
+PARKER CEMETERY RD                                          0010000100
+PARKER RD                                                   0010000100
+PARKVIEW DR                                                 0010100101
+PARKWAY VW                                                  0010100101
+PARNELL CEMETERY RD                                         0010000100
+PARNELL RD                                                  0010000100
+PARROTT AVE                                                 0010100101
+PATTY CT                                                    0010100101
+PAUL COOMER RD                                              0010000100
+PAUL FRANKUM RD                                             0010000100
+PAUL JONES RD                                               0010000100
+PAUL MANN RD                                                0010000100
+PAUL ROGERS RD                                              0010000100
+PAUL THOMAS RD                                              0010000100
+PAULINE RODGERS RD                                          0010000100
+PAULL ST                                                    0010100101
+PAYNE JANES RD                                              0010000100
+PEACH TREE LN                                               0010000100
+PEANUT HARMON RD                                            0010000100
+PEANUT RD                                                   0010000100
+PEAR TREE LN                                                0010000100
+PEG BROCKMAN RD                                             0010000100
+PELHAM BRANCH RD                                            0010000100
+PELHAM BRANCH RD                                            0010100101
+PELLY LN                                                    0010000100
+PELLYTON EAST RD                                            0010000100
+PELLYTON WEST RD                                            0010000100
+PELSTON CEMETERY RD                                         0010000100
+PELSTON RD                                                  0010000100
+PERKINS LOOP                                                0010000100
+PERRY NEWBY RD                                              0010000100
+PERSIMMON LN                                                0010000100
+PETTY RD                                                    0010000100
+PHILLIP YARBERRY RD                                         0010000100
+PHIPS KELTNER RD                                            0010000100
+PICKETT HILL RD                                             0010100101
+PICKETT MELL RD                                             0010000100
+PICKETT ST                                                  0010100101
+PICKNEY CT                                                  0010100101
+PIERCY LN                                                   0010000100
+PIERCY RD                                                   0010000100
+PIG SMITH RD                                                0010000100
+PINE LAKE DR                                                0010100101
+PINE TOP RD                                                 0010000100
+PINE TREE ST                                                0010100101
+PINEVIEW DR                                                 0010000100
+PINEVIEW LOOP                                               0010000100
+PINEWOOD DR                                                 0010000100
+PIPER LN                                                    0010000100
+PITMAN ST                                                   0010100101
+PLEASANT HILL CHURCH RD                                     0010000100
+PLEASANT RIDGE CEMETERY RD                                  0010000100
+PLEASANT RIDGE RD                                           0010000100
+PLEASANT VIEW DR                                            0010100101
+PLUM POINT RD                                               0010000100
+POLLARD RD                                                  0010000100
+POLLARDS CHAPEL RD                                          0010000100
+POOR MANS DR                                                0010000100
+POPLAR CT                                                   0010000100
+POPLAR LN                                                   0010000100
+PORTER WAGONER LN                                           0010000100
+PORTLAND RD                                                 0010000100
+POSSEY RD                                                   0010000100
+POST OFFICE LN                                              0010100101
+POWELL CREEK LN                                             0010000100
+POWELL CREEK RD                                             0010000100
+POWELL RD                                                   0010000100
+PRES MITCHUM RD                                             0010000100
+PRESLEY LN                                                  0010000100
+PRESTON CAPE RD                                             0010000100
+PRESTON HADLEY RD                                           0010000100
+PRESTON SULLIVAN RD                                         0010000100
+PRICES CREEK RD                                             0010000100
+PRIMROSE LN                                                 0010000100
+PROGRESS DR                                                 0010100101
+PROVIDENCE CHURCH RD                                        0010000100
+PROVIDENCE RD                                               0010000100
+PUBLIC SQ                                                   0010100101
+PURDY SANO LN                                               0010000100
+PURDY SANO RD                                               0010000100
+PYLES CT                                                    0010100101
+QUAIL TRCE                                                  0010000100
+QUINN HOLLOW LN                                             0010000100
+QUINN HOLLOW RD                                             0010000100
+R B CURRY RD                                                0010000100
+R B TURNER RD                                               0010000100
+R BEARD RD                                                  0010000100
+R D PARNELL RD                                              0010000100
+R GOWAN RD                                                  0010000100
+R GRIDER RD                                                 0010000100
+R HOLMES RD                                                 0010000100
+R LAWHORN RD                                                0010000100
+R LOY RD                                                    0010000100
+R MCGUFFIN RD                                               0010000100
+R PAGE RD                                                   0010000100
+RABBIT TRCE                                                 0010000100
+RACCOON WALK                                                0010000100
+RAINBOW DR                                                  0010000100
+RAINES RD                                                   0010000100
+RAINWATER RD                                                0010000100
+RALPH HADLEY RD                                             0010000100
+RANDY LN                                                    0010000100
+RANDY YOUNG RD                                              0010000100
+RATTLER CURRY RD                                            0010000100
+RAY ABRELL RD                                               0010000100
+RAY BAULT RD                                                0010000100
+RAY COFFEY RD                                               0010000100
+RAY MILLER RD                                               0010000100
+RAY WILLIAMS RD                                             0010000100
+RAYMOND POWELL RD                                           0010000100
+REAMS RD                                                    0010000100
+RED OAK RD                                                  0010000100
+REDBUD LN                                                   0010000100
+REDDIE TUCKER RD                                            0010000100
+REDLICK RD                                                  0010000100
+REDMON RD                                                   0010000100
+REECE LN                                                    0010000100
+REECE ST                                                    0010100101
+REEDER RD                                                   0010000100
+REEVES RD                                                   0010000100
+RENFRO BALLOU RD                                            0010000100
+RENFRO RD                                                   0010000100
+REXROAT RD                                                  0010000100
+REYNOLDS LN                                                 0010000100
+RICE DR                                                     0010100101
+RICE RD                                                     0010000100
+RICHARDS HOLLOW RD                                          0010000100
+RICHARDS HOLLOW SPUR                                        0010000100
+RICHARDS LN                                                 0010000100
+RICHARDS SPUR RD                                            0010000100
+RICHARDSON RD                                               0010000100
+RICKY LOY RD                                                0010000100
+RIDGE CREST LN                                              0010100100
+RIGHT FORK OVERSTREET RD                                    0010000100
+RIPPETOE RD                                                 0010000100
+ROB SMITH RD                                                0010000100
+ROBERT BURRIS RD                                            0010000100
+ROBERT HAGGY RD                                             0010000100
+ROBERT MELSON RD                                            0010000100
+ROBERTSON RD                                                0010000100
+ROBINHILL LN                                                0010000100
+ROBINSON RIDGE RD                                           0010000100
+ROCKIE TOP LN                                               0010000100
+ROCKY HILL RD                                               0010000100
+ROGERS LN                                                   0010000100
+ROLEY YUMA RD                                               0010000100
+ROLLIN BLADES RD                                            0010000100
+ROLLIN COOMER RD                                            0010000100
+ROLLIN KEMP RD                                              0010000100
+ROLLING KERNS RD                                            0010000100
+ROLLING LN                                                  0010000100
+ROOKS DENTON RD                                             0010000100
+ROSE LN                                                     0010000100
+ROSS CEMETERY RD                                            0010000100
+ROSS CURRY RD                                               0010000100
+ROSSON RD                                                   0010000100
+ROSSON ST                                                   0010100101
+ROWETOWN RD                                                 0010000100
+ROY ANTEL RD                                                0010000100
+ROY GARRISON RD                                             0010000100
+ROY RD                                                      0010000100
+ROYAL CIR                                                   0010000100
+ROYAL OAKS DR                                               0010000100
+ROYSE RD                                                    0010000100
+RULE ST                                                     0010100101
+RUSSELL RD                                                  0010100101
+RUSSELL SPRINGS RD                                          0010000100
+RUSSELL SPRINGS RD                                          0010100101
+RUSTY LN                                                    0010000100
+RUTH ALLEN RD                                               0010000100
+RUTLEDGE RD                                                 0010000100
+S BRAMBLETT ST                                              0010100101
+S HIGH ST                                                   0010100101
+S MONROE ST                                                 0010100101
+S REED ST                                                   0010100101
+SALT PETER CAVE RD                                          0010000100
+SAM RECTOR RD                                               0010000100
+SAMS LN                                                     0010000100
+SANDERS RD                                                  0010000100
+SANDERS RIDGE RD                                            0010000100
+SANDLICK RD                                                 0010000100
+SANDSTONE LN                                                0010000100
+SANDUSKY ST                                                 0010100101
+SANDY FORK RD                                               0010000100
+SANO RD                                                     0010000100
+SAWMILL RD                                                  0010000100
+SCOTT DIAL RD                                               0010000100
+SCOTT HILL RD                                               0010000100
+SCOTT ST                                                    0010100101
+SERVICE RD                                                  0010100101
+SETH TRCE                                                   0010000100
+SEXTON DR                                                   0010100101
+SEXTON RD                                                   0010000100
+SHADY LN                                                    0010100101
+SHARP RD                                                    0010000100
+SHEARER CEMETERY RD                                         0010000100
+SHELTON LN                                                  0010000100
+SHELTON RD                                                  0010000100
+SHILOH CEMETERY RD                                          0010000100
+SHIRLEY BROCK RD                                            0010000100
+SHIRLEY BROCK RD                                            0010100101
+SHIRLEY GLASGOW RD                                          0010000100
+SHIRLEY RD                                                  0010000100
+SHIVELY PARNELL RD                                          0010000100
+SHORT CREEK RD                                              0010000100
+SHORT CUT RD                                                0010000100
+SHORT LN                                                    0010000100
+SHORT ST                                                    0010100101
+SHOW GAIT LN                                                0010000100
+SIMPSON KELTNER RD                                          0010000100
+SIMPSON RELIFORD RD                                         0010000100
+SKYLINE DR                                                  0010000100
+SLICK ROCK WEST RD                                          0010000100
+SMITH ST                                                    0010100101
+SNAKE CREEK LANDING RD                                      0010000100
+SNAKE CREEK RD                                              0010000100
+SNOW CREST DR                                               0010000100
+SNOWY DR                                                    0010000100
+SOUTH BURKESVILLE RD                                        0010000100
+SOUTH BURKESVILLE RD                                        0010100101
+SPARKS RD                                                   0010000100
+SPARKSVILLE RD                                              0010000100
+SPEEDWAY COVE                                               0010000100
+SPENCER RD                                                  0010000100
+SPICKARD DR                                                 0010100101
+SPOON CEMETERY RD                                           0010000100
+SPOON LOY RD                                                0010000100
+SPORTMANS CLUB RD                                           0010100101
+SPOUT SPRINGS RD                                            0010000100
+SPRING DR                                                   0010100101
+SPRUCE PINE RD                                              0010000100
+STACY BENNETT RD                                            0010000100
+STATE PARK RD                                               0010000100
+STATE PARK ROAD CONNECTOR                                   0010000100
+STEEL RD                                                    0010000100
+STEVE BREEDING RD                                           0010000100
+STINSON RD                                                  0010000100
+STONE BRIDGE RD                                             0010000100
+STONE CEMETERY RD                                           0010000100
+STONECYPHER RD                                              0010000100
+STULTS ST                                                   0010100101
+SULLIVAN RD                                                 0010000100
+SULPHUR CREEK RD                                            0010000100
+SULPHUR SPRINGS RD                                          0010000100
+SUMMER HILL DR                                              0010000100
+SUNFLOWER WAY                                               0010000100
+SUNNY HILL DR                                               0010100101
+SUNSET DR                                                   0010100101
+SYCAMORE RD                                                 0010000100
+SYLVESTER RD                                                0010000100
+T BRADSHAW RD                                               0010000100
+T BRYANT RD                                                 0010000100
+T CORBIN RD                                                 0010000100
+T FLATT RD                                                  0010000100
+T P CUNDIFF RD                                              0010000100
+T RICE RD                                                   0010000100
+T STOTTS RD                                                 0010000100
+TABERNACLE CEMETERY RD                                      0010000100
+TANNER WAY                                                  0010000100
+TARTER RD                                                   0010000100
+TAXUS ST                                                    0010100101
+TAYLOR FORD RD                                              0010000100
+TAYLOR ST                                                   0010100101
+TED TURNER RD                                               0010000100
+TEN GALLON DR                                               0010000100
+TERR MATT RD                                                0010000100
+TERRY FARRIS RD                                             0010000100
+TERRY ST                                                    0010100101
+TESSA LOOP                                                  0010000100
+TEXAS EASTERN RD                                            0010000100
+THEA RD                                                     0010000100
+THERON AKIN RD                                              0010000100
+THOMAS COFFEY RD                                            0010000100
+THOMAS DR                                                   0010000100
+THOMPSON HARVEY RD                                          0010000100
+THORTON RD                                                  0010000100
+TIFTON LOY RD                                               0010000100
+TIM ST                                                      0010100101
+TIMBER LN                                                   0010000100
+TODD ST                                                     0010100101
+TOM ANDREWS RD                                              0010000100
+TOM EDWARDS RD                                              0010000100
+TOM LEWIS RD                                                0010000100
+TOM ROY RD                                                  0010000100
+TOMMY DOWELL RD                                             0010000100
+TOMMY NOBLES RD                                             0010000100
+TORIA RD                                                    0010000100
+TOWER RD                                                    0010000100
+TRABUE ST                                                   0010100101
+TRAVIS BRYANT RD                                            0010000100
+TRAVIS ST                                                   0010100101
+TREE TOP LN                                                 0010000100
+TUCKER ST                                                   0010000100
+TUCKER WARREN RD                                            0010000100
+TUCKER WOODS RD                                             0010000100
+TUCKER WOODS SOUTH RD                                       0010000100
+TURKEY TRCE                                                 0010000100
+TURNER TRAIL                                                0010000100
+TUTMAN RD                                                   0010000100
+TUTT ST                                                     0010100101
+UDELL SHIRLEY RD                                            0010000100
+UNION CEMETERY RD                                           0010000100
+UNION CHURCH LN                                             0010000100
+UNION CHURCH RD                                             0010000100
+UNION HILL LN                                               0010000100
+UNION LN                                                    0010000100
+UNION RD                                                    0010000100
+V P HENRY DR                                                0010000100
+VALLEYVIEW RD                                               0010000100
+VAN HOY LN                                                  0010000100
+VESTER RD                                                   0010000100
+VICTORY LN                                                  0010000100
+VIRGIL CAPE RD                                              0010000100
+VIRGINIA AVE                                                0010100101
+W BARBEE ST                                                 0010000100
+W BARBEE ST                                                 0010100101
+W EGYPT RD                                                  0010000100
+W FEESE RD                                                  0010000100
+W FORTUNE ST                                                0010100101
+W FRAZIER AVE                                               0010100101
+W GUARDIAN ST                                               0010100101
+W HATCHER RD                                                0010000100
+W JOHNSON RD                                                0010000100
+W JONES RD                                                  0010000100
+W PAGE RD                                                   0010000100
+W PAGE ST                                                   0010100101
+W PARK DR                                                   0010000100
+W SULPHUR CREEK RD                                          0010000100
+WAIN ST                                                     0010100101
+WALKER EAST RD                                              0010000100
+WALKER LN                                                   0010000100
+WALKER MURRELL RD                                           0010000100
+WALKER MURRELL RD                                           0010100101
+WALKER ST                                                   0010100101
+WALKING HORSE LN                                            0010000100
+WALL ST                                                     0010100101
+WALLEYE RD                                                  0010000100
+WALLS RD                                                    0010000100
+WALNUT GROVE RD                                             0010000100
+WALTER R GASKIN RD                                          0010000100
+WAREHOUSE RD                                                0010000100
+WASHINGTON LN                                               0010000100
+WATERWORKS ST                                               0010100101
+WATSON ST                                                   0010100101
+WAYNE HADLEY RD                                             0010000100
+WAYNE VANNOY RD                                             0010000100
+WEBSTER RD                                                  0010000100
+WEDGEWOOD LN                                                0010000100
+WEED KELTNER RD                                             0010000100
+WEED SPARKSVILLE RD                                         0010000100
+WELBY POSEY RD                                              0010000100
+WENDELL TAYLOR RD                                           0010000100
+WESLEY GOODIN RD                                            0010000100
+WESLEY RD                                                   0010000100
+WESTLAKE DR                                                 0010100101
+WESTWOOD DR                                                 0010100101
+WESTWOOD DRIVE CONNECTOR                                    0010100101
+WESTWOOD DRIVE SPUR                                         0010100101
+WESTWOOD LOOP                                               0010100101
+WETHINGTON RD                                               0010000100
+WGRB RD                                                     0010000100
+WHEAT RD                                                    0010000100
+WHISPERING PINES RD                                         0010000100
+WHITE LN                                                    0010000100
+WHITE OAK CHURCH RD                                         0010000100
+WHITE RD                                                    0010000100
+WHITE ROCK DR                                               0010000100
+WHITNEY RD                                                  0010000100
+WHO DAT RD                                                  0010000100
+WIDS RD                                                     0010000100
+WILDLIFE LN                                                 0010000100
+WILKINSON RD                                                0010000100
+WILL BOOHER RD                                              0010000100
+WILL CAPE RD                                                0010000100
+WILL WALKER LN                                              0010000100
+WILLARD GRANT RD                                            0010000100
+WILLARD STONE RD                                            0010000100
+WILLIAM BRYANT RD                                           0010000100
+WILLIAMS RD                                                 0010000100
+WILLIAMS ST                                                 0010100101
+WILLIE GRANT RD                                             0010000100
+WILLIE NELL RD                                              0010000100
+WILLIES DR                                                  0010000100
+WILLIS RD                                                   0010000100
+WILLIS ST                                                   0010100101
+WILSON DR                                                   0010000100
+WILSON RD                                                   0010000100
+WILSON RIDGE RD                                             0010000100
+WIMSATT LN                                                  0010000100
+WINFREY HILL RD                                             0010000100
+WINNERS CIR                                                 0010000100
+WINTER PARK LN                                              0010000100
+WISDOM LN                                                   0010000100
+WM JUDD RD                                                  0010000100
+WOLFORD AVE                                                 0010100101
+WOLFORD RD                                                  0010000100
+WOODLAND ACRES                                              0010000100
+WOODY AVE                                                   0010100101
+WOOLRIDGE RD                                                0010000100
+WREN TRCE                                                   0010000100
+WRIGHT DR                                                   0010100101
+YARBERRY RD                                                 0010000100
+YATES RD                                                    0010000100
+YATES ST                                                    0010100101
+YELLOW HAMMER RD                                            0010000100
+YOUNG ST                                                    0010100101
+ZACK SAMUELLS RD                                            0010000100
+ZION RD                                                     0010000100

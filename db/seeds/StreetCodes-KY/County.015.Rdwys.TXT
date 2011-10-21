@@ -1,0 +1,1874 @@
+191ST TANK BATTALION RD                                     0150001500
+19TH TANK BATTALION RD                                      0150001500
+1ST ST                                                      0150001500
+1ST ST                                                      0150301503
+2ND AVE                                                     0150101501
+2ND ST                                                      0150001500
+3RD AVE                                                     0150101501
+3RD ST                                                      0150001500
+4TH AVE                                                     0150101501
+4TH ST                                                      0150001500
+4TH ST                                                      0150201502
+5TH AVE                                                     0150101501
+5TH ST                                                      0150001500
+5TH ST                                                      0150501505
+6TH AVE                                                     0150101501
+7TH AVE                                                     0150101501
+AAA STORAGE                                                 0150001500
+AAR RD                                                      0150001500
+ABBOTT ST                                                   0150101501
+ABLES MOUNTAIN LN                                           0150001500
+ABUNDANCE DR                                                0150001500
+ACACIA DR                                                   0150601506
+ACE CT                                                      0150001500
+ADAM SHEPHERD PKWY                                          0150101501
+ADAMS DR                                                    0150301503
+ADENA DR                                                    0150001500
+ADRIAN AVE                                                  0150301503
+AIRPORT DR                                                  0150701507
+ALEK AVE                                                    0150001500
+ALGONQUIN CT                                                0150101501
+ALLEY MT WASHINGTON                                         0150301503
+ALLEY NO2                                                   0150101501
+ALLEY SHEPHERDSVILLE                                        0150101501
+ALLISON CT                                                  0150501505
+ALPAR LN                                                    0150001500
+ALYSSA BROOKE CT                                            0150001500
+ALYSSA BROOKE DR                                            0150001500
+ALYSSA DR                                                   0150101501
+AMANDA CT                                                   0150001500
+AMPLE WAY                                                   0150001500
+ANDOVER LN                                                  0150101501
+ANGELIA DR                                                  0150001500
+ANGELINA RD                                                 0150701507
+ANGLE AVE                                                   0150001500
+ANGLES CT                                                   0150001500
+ANNA DR                                                     0150001500
+APACHE WAY                                                  0150001500
+APARTMENTS                                                  0150301503
+APOLLO DR                                                   0150301503
+APPLE VALLEY WAY                                            0150001500
+APPLEGATE RUN                                               0150001500
+AQUA VIEW DR                                                0150001500
+ARBOR TRCE                                                  0150701507
+ARCADIA CT                                                  0150701507
+ARMSTRONG LN                                                0150001500
+ARMSTRONG PASSWAY                                           0150001500
+ARNOLD DR                                                   0150501505
+ARNOLD LN                                                   0150001500
+ARROW CREEK RD                                              0150101501
+ARROWHEAD CT                                                0150101501
+ARROWHEAD LN                                                0150101501
+ARROYO TRL                                                  0150501505
+ARTHURS CT                                                  0150001500
+ASH DR                                                      0150001500
+ASH HOLLOW RD                                               0150001500
+ASH ST                                                      0150201502
+ASHBY LN                                                    0150001500
+ASHFORD DR                                                  0150001500
+ASHLEY BLVD                                                 0150101501
+ASHLEY CT                                                   0150501505
+AUDUBON AVE                                                 0150001500
+AUDUBON AVE                                                 0150601506
+AUDUBON DR                                                  0150001500
+AUDUBON LN                                                  0150001500
+AULBERN CT                                                  0150301503
+AULBERN DR                                                  0150301503
+AULBERN DR E                                                0150301503
+AULBERN DR W                                                0150301503
+AUTUMN GLEN DR                                              0150001500
+AUTUMN GLEN DR                                              0150301503
+AUTUMN GLEN PATIO HOMES                                     0150301503
+AUTUMN LEAF DR                                              0150001500
+AUTUMN RIDGE DR                                             0150001500
+AUTUMN RIDGE DR                                             0150301503
+AUTUMN WAY                                                  0150001500
+AZURE DR                                                    0150001500
+BALBOA PL                                                   0150701507
+BALL PARK RD                                                0150201502
+BALLY CASTLE CT                                             0150001500
+BAMBI WAY                                                   0150001500
+BANGER WAY                                                  0150501505
+BANK ST                                                     0150201502
+BARACHA CT                                                  0150701507
+BARBARA SUE LN                                              0150301503
+BARDSTOWN RD                                                0150001500
+BARDSTOWN RD                                                0150301503
+BARR DR                                                     0150201502
+BARRALLTON HILL RD                                          0150001500
+BARRICKS RD                                                 0150001500
+BATES LN                                                    0150001500
+BAY ST                                                      0150101501
+BAYBERRY CT                                                 0150301503
+BAYWOOD CT                                                  0150301503
+BEAGLE RUN                                                  0150001500
+BEAN DR                                                     0150101501
+BEARCAMP RD                                                 0150001500
+BECKY MCKINLEY AVE                                          0150301503
+BECNEL LN                                                   0150001500
+BEECH DR                                                    0150001500
+BEECH GROVE RD                                              0150001500
+BEECH GROVE RD                                              0150101501
+BEECH VALLEY CT                                             0150001500
+BEECHCLIFF CIR                                              0150101501
+BEECHLAND RD                                                0150501505
+BEECHNUT CT                                                 0150101501
+BEECHTREE DR                                                0150001500
+BEECHTREE LN                                                0150001500
+BEECHWOOD AVE                                               0150101501
+BEECHWOOD CIR                                               0150001500
+BEECHWOOD LN                                                0150301503
+BELAIR DR                                                   0150101501
+BELLS MILL RD                                               0150001500
+BELLS MILL RD                                               0150501505
+BELMONT DR                                                  0150601506
+BELMONT FARM LN                                             0150001500
+BELMONT RD                                                  0150001500
+BENJAMIN PL                                                 0150001500
+BENTWOOD DR                                                 0150001500
+BERNARD DR                                                  0150001500
+BERNHEIM ENTRANCE RD                                        0150001500
+BETHANY CT                                                  0150001500
+BETHEL BRANCH WAY                                           0150001500
+BETHEL BRANCH WAY                                           0150301503
+BETHEL CHURCH RD                                            0150001500
+BIG CEDAR CREEK TRL                                         0150001500
+BIG CLIFTY DR                                               0150101501
+BIG COUNTRY CT                                              0150001500
+BIG COUNTRY E                                               0150001500
+BIG COUNTRY W                                               0150001500
+BIG OAKS DR                                                 0150001500
+BIG SPRINGS CT                                              0150001500
+BIG SPRINGS DR                                              0150001500
+BIG VALLEY DR                                               0150001500
+BIGWOOD CT                                                  0150001500
+BIGWOOD WAY                                                 0150501505
+BILL ST                                                     0150001500
+BILLIKEN CT                                                 0150001500
+BINDER LN                                                   0150001500
+BIRCH DR                                                    0150001500
+BIRCH ST                                                    0150001500
+BIRCHWOOD DR                                                0150001500
+BISCHOFF WAY                                                0150001500
+BISHOP LN                                                   0150101501
+BISHOP TRL                                                  0150001500
+BITTERSWEET CT                                              0150301503
+BIVINS PT                                                   0150001500
+BLACK OAK DR                                                0150301503
+BLACKBERRY CIR                                              0150301503
+BLACKSTONE TRCE                                             0150001500
+BLARNEY LN                                                  0150001500
+BLEEMEL LN                                                  0150001500
+BLOSSOM RD                                                  0150501505
+BLOSSOM RIDGE DR                                            0150001500
+BLUE ASH DR                                                 0150101501
+BLUE BIRD CT                                                0150001500
+BLUE CREEK RD                                               0150001500
+BLUE CUMBERLAND CT                                          0150001500
+BLUE LICK MOBILE HOME PARK NO1                              0150101501
+BLUE LICK MOBILE HOME PARK NO2                              0150101501
+BLUE LICK MOBILE HOME PARK NO3                              0150101501
+BLUEBILL CT                                                 0150101501
+BLUEGRASS WAY                                               0150001500
+BLUELICK DR                                                 0150001500
+BLUELICK DR                                                 0150501505
+BOARDWALK AVE                                               0150001500
+BOAZ LN                                                     0150301503
+BOB O LINK RD                                               0150001500
+BOGARD LN                                                   0150001500
+BOHANON LN                                                  0150001500
+BOLTEN CT                                                   0150001500
+BOLTON DR                                                   0150501505
+BOOTH ST                                                    0150101501
+BOUNTIFUL BLVD                                              0150001500
+BOWLES LN                                                   0150001500
+BOWMAN CT                                                   0150301503
+BOXWOOD RUN                                                 0150001500
+BRADFORD PL                                                 0150001500
+BRAEBURN DR                                                 0150001500
+BRANCH CT                                                   0150101501
+BRANHAM WAY                                                 0150301503
+BRENDA DR                                                   0150501505
+BRENTON WAY                                                 0150001500
+BRETON CT                                                   0150501505
+BRIAN CT                                                    0150301503
+BRIAN DR                                                    0150001500
+BRIARCLIFF CT                                               0150301503
+BRIARWAY DR                                                 0150001500
+BRIARWOOD CT                                                0150001500
+BRIARWOOD LN                                                0150501505
+BROADLAND CT                                                0150501505
+BRONZE WOOD WAY                                             0150301503
+BROOKDALE RD                                                0150001500
+BROOKEWAY DR                                                0150001500
+BROOKLAND CEMETERY NO1                                      0150001500
+BROOKLAND CEMETERY NO2                                      0150001500
+BROOKLAND CEMETERY NO3                                      0150001500
+BROOKLAND CEMETERY NO4                                      0150001500
+BROOKLAND CEMETERY NO5                                      0150001500
+BROOKLAND CEMETERY RD                                       0150001500
+BROOKLEY DR                                                 0150501505
+BROOKS FOREST RD                                            0150001500
+BROOKS HILL RD                                              0150001500
+BROOKS RUN                                                  0150501505
+BROOKS SCHOOLHOUSE RD                                       0150001500
+BROOKS STATION DR                                           0150001500
+BROOKS STATION LN                                           0150001500
+BROOKS VALLEY RD                                            0150001500
+BROOKSVIEW CIR                                              0150001500
+BROOKSVIEW RD                                               0150001500
+BROWNING CT                                                 0150001500
+BROWNINGTOWN RD                                             0150001500
+BRUCE CLARK LN                                              0150001500
+BRUCE ST                                                    0150201502
+BRYANT PL                                                   0150201502
+BRYANT ST                                                   0150101501
+BRYCE WAY                                                   0150301503
+BUCKMAN HOLLOW RD                                           0150001500
+BUCKY BURTON DR                                             0150501505
+BUFFALO RUN RD                                              0150101501
+BUFFALO TRL                                                 0150001500
+BULLITT COUNTY EMS                                          0150101501
+BULLITT COUNTY STONE CO                                     0150501505
+BULLITT CREEK DR                                            0150101501
+BULLITT LICK MIDDLE SCHOOL                                  0150101501
+BURDEN CIR                                                  0150001500
+BURKLAND BLVD                                               0150001500
+BURLWOOD CIR                                                0150301503
+BURLWOOD CT                                                 0150301503
+BURNT SIENNA DR                                             0150001500
+BURNT SIENNA DR                                             0150301503
+BUTTERFLY LN                                                0150001500
+BUTTONWOOD CT                                               0150101501
+C E SMITH RD                                                0150001500
+CABIN CREEK CT                                              0150001500
+CABIN CREEK DR                                              0150001500
+CABIN LN                                                    0150001500
+CACTUS CT                                                   0150501505
+CADENZA CT                                                  0150501505
+CAESARS CT                                                  0150001500
+CALIFORNIA AVE                                              0150301503
+CALUMET CIR                                                 0150001500
+CAMBRIDGE CT                                                0150601506
+CAMBRIDGE DR                                                0150001500
+CAMELLIA CT                                                 0150701507
+CAMMI DR                                                    0150001500
+CAMPBELL LN                                                 0150001500
+CANDY APPLE CT                                              0150001500
+CANNON CT                                                   0150701507
+CANYON CT                                                   0150501505
+CAPELLA CT                                                  0150301503
+CARDINAL AVE                                                0150601506
+CARDINAL DR                                                 0150601506
+CARDINAL RD                                                 0150001500
+CARLA DR                                                    0150301503
+CAROLINA AVE                                                0150301503
+CAROLYNS CV                                                 0150001500
+CARPENTER ST                                                0150101501
+CARRIAGE TRCE                                               0150001500
+CARRIAGEWAY RD                                              0150001500
+CARRIE LN                                                   0150101501
+CARRINGTON CT                                               0150001500
+CARRISSA CT                                                 0150501505
+CARTER AVE                                                  0150501505
+CARTER CIR                                                  0150301503
+CASTLEMAN BRANCH RD                                         0150001500
+CASTLEROCK DR                                               0150001500
+CATHY WAY                                                   0150501505
+CAVE HOLLOW RD                                              0150001500
+CAVE SPRINGS DR                                             0150001500
+CEDAR AVE                                                   0150101501
+CEDAR BROOK CT                                              0150001500
+CEDAR BROOK DR                                              0150001500
+CEDAR CREEK LN                                              0150001500
+CEDAR CREEK RD                                              0150001500
+CEDAR DALE CT                                               0150001500
+CEDAR DR                                                    0150001500
+CEDAR GROVE RD                                              0150001500
+CEDAR GROVE RD                                              0150101501
+CEDAR HILL CT                                               0150001500
+CEDAR LAKE DR                                               0150001500
+CEDAR PLACE DR                                              0150001500
+CEDAR POINT DR                                              0150001500
+CEDAR RIDGE CT                                              0150001500
+CEDAR RIDGE RD                                              0150001500
+CEDAR SPRING DR                                             0150001500
+CEDAR ST                                                    0150101501
+CEDARVIEW DR                                                0150101501
+CEMETERY                                                    0150301503
+CEMETERY DR                                                 0150301503
+CENTER ST                                                   0150201502
+CENTERVIEW DR                                               0150101501
+CENTRAL BLVD                                                0150301503
+CENTRE DR                                                   0150501505
+CHALET DR                                                   0150001500
+CHAPARRAL DR                                                0150101501
+CHAPEZE LN                                                  0150001500
+CHAPPEL RIDGE RD                                            0150001500
+CHARLES CT                                                  0150001500
+CHARLES HAMILTON WAY                                        0150101501
+CHATEAUGAY CIR                                              0150001500
+CHEROKEE CIR                                                0150301503
+CHEROKEE CT                                                 0150101501
+CHERRY HILL LN                                              0150001500
+CHERRY HILL PKWY                                            0150301503
+CHERRY ST                                                   0150101501
+CHESKA WAY                                                  0150001500
+CHESNUT DR                                                  0150001500
+CHESTER LN                                                  0150001500
+CHILLICOOP RD                                               0150001500
+CHIMNEY ROCK DR                                             0150001500
+CHOCTAW CT                                                  0150001500
+CHRISTMAN LN                                                0150001500
+CHRISTOPHER DR                                              0150001500
+CHURCH AVE                                                  0150001500
+CHURCH ST                                                   0150201502
+CHURCHVIEW RD                                               0150001500
+CINNAMON DR                                                 0150001500
+CIRCLE DR                                                   0150101501
+CIRCLE VALLEY DR                                            0150501505
+CIRCLECREST DR                                              0150001500
+CIRCLECREST DR                                              0150501505
+CITATION CT                                                 0150001500
+CLARA DR                                                    0150001500
+CLARKS DR                                                   0150001500
+CLARKS LN                                                   0150001500
+CLEAR CREEK DR                                              0150301503
+CLEAR LAKE DR                                               0150101501
+CLEAR RUN CT                                                0150001500
+CLEARBROOK DR                                               0150001500
+CLEARVIEW CT                                                0150001500
+CLEARVIEW DR                                                0150001500
+CLERMONT RD                                                 0150001500
+CLIFFSIDE DR                                                0150101501
+CLIFFVIEW CT                                                0150101501
+CLIFTON HALL CT                                             0150001500
+CLINTON ST                                                  0150501505
+CLOVER COVE CT                                              0150101501
+CLOVER COVE DR                                              0150101501
+CLOVER RD                                                   0150501505
+CLOVER WOOD LN                                              0150001500
+CLOVIS CT                                                   0150001500
+COBBLESTONE CIR                                             0150001500
+COBBLESTONE WAY                                             0150001500
+COCKEREL RD                                                 0150001500
+COCO BAY CT                                                 0150101501
+CODY LN                                                     0150501505
+COLD SPRINGS DR                                             0150001500
+COLERIDGE DR                                                0150101501
+COLLEGE ST                                                  0150301503
+COLLIERS WAY                                                0150001500
+COLLINGS HILL RD                                            0150001500
+COLLINGS HILL RD                                            0150201502
+COLONIAL DR                                                 0150301503
+COLT LN                                                     0150001500
+COLUMBIA LN                                                 0150001500
+COLUMBIA LN E                                               0150001500
+COLYER LN                                                   0150001500
+COMBS CT                                                    0150101501
+CONCORD DR                                                  0150301503
+CONESTOGA PKWY                                              0150101501
+COOL SPRINGS RD                                             0150001500
+COOPER LN                                                   0150001500
+COOPER RUN RD                                               0150001500
+COPPER CREEK DR                                             0150001500
+CORAL BAY CT                                                0150101501
+CORAL RIDGE RD                                              0150001500
+CORNELL AVE                                                 0150001500
+CORNUCOPIA CT                                               0150301503
+COTTONWOOD DR                                               0150001500
+COUNTRY LN                                                  0150001500
+COUNTRY MANOR LN                                            0150001500
+COUNTRY TRACE CT                                            0150001500
+COUNTRY TRACE DR                                            0150001500
+COUNTRY TRCE                                                0150001500
+COUNTRYVIEW DR                                              0150001500
+COUNTY LINE RD                                              0150001500
+COW BRANCH RD                                               0150001500
+COXS DR                                                     0150101501
+COXS LN                                                     0150001500
+CRATOR DR                                                   0150501505
+CREEKSIDE CT                                                0150001500
+CREEKSIDE DR                                                0150001500
+CREEKVIEW CT                                                0150001500
+CREEKVIEW CT                                                0150101501
+CREEKWOOD DR                                                0150001500
+CRENSHAW DR                                                 0150001500
+CRENSHAW RD                                                 0150001500
+CRESCENT VIEW DR                                            0150001500
+CRESTWOOD LN                                                0150501505
+CRIMSON CREEK DR                                            0150001500
+CRIMSON CREEK DR                                            0150301503
+CROMWELL LN                                                 0150001500
+CROOKED CREEK RD                                            0150001500
+CROOKED OAK CT                                              0150101501
+CROSS CREEK LN                                              0150001500
+CROSS CREEK RD                                              0150001500
+CROSS ST                                                    0150001500
+CRUMBACKER LN                                               0150001500
+CUNDIFF HOLLOW RD                                           0150001500
+CUNDIFF LN                                                  0150101501
+CUPIO LN                                                    0150001500
+CUPIO LODGE RD                                              0150001500
+CUPIOD RD                                                   0150001500
+CUT THROUGH                                                 0150201502
+CV CONDOS                                                   0150301503
+DAKOTA CT                                                   0150001500
+DALE CT                                                     0150501505
+DALE LN                                                     0150001500
+DALE RD                                                     0150501505
+DALE VIEW DR                                                0150001500
+DANIEL DR                                                   0150001500
+DANIELLE DR                                                 0150001500
+DARBY DAN CIR                                               0150001500
+DAVIDS DR                                                   0150001500
+DAVIDS LN                                                   0150001500
+DAWSON CORNETT RD                                           0150001500
+DAWSON DR                                                   0150101501
+DAWSON DRIVE EXTENTION                                      0150101501
+DAWSON HILL RD                                              0150001500
+DEACON TRCE                                                 0150001500
+DEAN ST                                                     0150001500
+DEATSVILLE RD                                               0150001500
+DEEP CREEK DR                                               0150001500
+DEER LAKE RD                                                0150001500
+DEER LAKE RD                                                0150101501
+DEER PARK WAY                                               0150001500
+DEER RUN CT                                                 0150001500
+DEER RUN DR                                                 0150001500
+DEERFIELD CT                                                0150101501
+DEERWOOD DR                                                 0150001500
+DELANIA DR                                                  0150301503
+DELAWARE XING                                               0150301503
+DELIAHS WAY                                                 0150001500
+DELK RD                                                     0150001500
+DENNIS DR                                                   0150001500
+DENNIS RD                                                   0150201502
+DERBY ST                                                    0150201502
+DEREK RD                                                    0150001500
+DESCO CT                                                    0150001500
+DESERT CT                                                   0150501505
+DESMONTA WAY                                                0150001500
+DEVER FARM LN                                               0150001500
+DEVIN DR                                                    0150001500
+DEWBERRY RD                                                 0150501505
+DIAMOND CT                                                  0150001500
+DOEWOOD LN                                                  0150001500
+DOGWOOD CIR                                                 0150001500
+DOGWOOD CT                                                  0150301503
+DOGWOOD DR                                                  0150001500
+DOGWOOD DR                                                  0150301503
+DOGWOOD RUN                                                 0150101501
+DOGWOOD TRL                                                 0150101501
+DOOLEY DR                                                   0150301503
+DORIS DR                                                    0150001500
+DORIS WAY                                                   0150001500
+DOROTHY CT                                                  0150001500
+DOUGLAS DR                                                  0150001500
+DOVER CT                                                    0150301503
+DOVES TRL                                                   0150001500
+DOWNS LN                                                    0150001500
+DR ARLA WAY                                                 0150501505
+DRAKE DR                                                    0150101501
+DRIFTWOOD DR                                                0150101501
+DUANE WAY                                                   0150301503
+DUBLIN CIR                                                  0150001500
+DULCIE CT                                                   0150501505
+DUSTIN WAY                                                  0150101501
+DUSTY LN                                                    0150001500
+E 1ST ST                                                    0150101501
+E 2ND ST                                                    0150101501
+E 3RD ST                                                    0150101501
+E 4TH ST                                                    0150101501
+E AIRPORT RD                                                0150201502
+E AUDUBON DR                                                0150001500
+E BLUE LICK RD                                              0150001500
+E BLUE LICK RD                                              0150501505
+E BLUEJAY RD                                                0150001500
+E BLUEJAY RD                                                0150501505
+E BROOKEPOINTE DR                                           0150001500
+E DELMAR DR                                                 0150301503
+E EMERALD CIR                                               0150001500
+E EMERALD CIR                                               0150301503
+E HEBRON LN                                                 0150001500
+E INDIAN STONE RD                                           0150001500
+E JOYCE LN                                                  0150001500
+E LAKEVIEW DR                                               0150301503
+E LAUREL RIVER DR                                           0150001500
+E MARTIN PL                                                 0150001500
+E MILLWATER FALLS                                           0150001500
+E OAK ST                                                    0150201502
+E PEACEFUL CT                                               0150001500
+E PIONEER CT                                                0150001500
+E PIONEER DR                                                0150001500
+E SANDERS LN                                                0150001500
+E SHANNON LN                                                0150301503
+E SPRINGMILL DR                                             0150001500
+E VALLEYVIEW DR                                             0150001500
+E VAUGHN RD                                                 0150001500
+E WALNUT DR                                                 0150001500
+E WILLIAMS LN                                               0150001500
+E WOODLAKE CIR                                              0150301503
+EAGLES BLUFF CT                                             0150001500
+EAGLES RD                                                   0150001500
+EARLYWOOD WAY                                               0150001500
+EARLYWOOD WAY                                               0150501505
+EAST ST                                                     0150301503
+EAST STREET NO2                                             0150101501
+EASTBROOKE CT                                               0150001500
+EASTVIEW DR                                                 0150101501
+EATHAN CT                                                   0150001500
+EDDINGTON LN                                                0150001500
+EDGEWOOD AVE                                                0150101501
+EDNA LEE LN                                                 0150001500
+EDWARD CT                                                   0150001500
+ELAINE WAY                                                  0150301503
+ELKS RD                                                     0150001500
+ELLA DR                                                     0150001500
+ELLIS COOK RD                                               0150001500
+ELLIS LN                                                    0150001500
+ELM DR                                                      0150001500
+ELM LN                                                      0150001500
+ELPIS ST                                                    0150201502
+EMERALD CT                                                  0150001500
+EMERALD DR                                                  0150001500
+EMILY DR                                                    0150301503
+EMILY LN                                                    0150001500
+EMMA CT                                                     0150301503
+EQUINOX BLVD                                                0150001500
+ERIC CHRISTY RD                                             0150001500
+ERIE CT                                                     0150101501
+ERIKA NICOLE BLVD                                           0150001500
+ERIKAS CT                                                   0150001500
+ERIN CIR                                                    0150301503
+ESKRIDGE DR                                                 0150201502
+ESTES CT                                                    0150201502
+ESTES LN                                                    0150001500
+ETHERIDGE LN                                                0150001500
+EVA MICHELE LN                                              0150001500
+EVANS LN                                                    0150301503
+EVERETT CT                                                  0150001500
+EVERGREEN ST                                                0150001500
+EVERGREEN TRL                                               0150001500
+EXCALIBUR CT                                                0150301503
+EXIT RD                                                     0150001500
+FAIRGROUNDS RD                                              0150101501
+FAIRLANE DR                                                 0150301503
+FAIRVIEW LN                                                 0150001500
+FAIRWAY DR                                                  0150301503
+FAIRWOOD WAY                                                0150001500
+FALCON CREST                                                0150001500
+FALLING LEAF DR                                             0150301503
+FALLS LN                                                    0150001500
+FARMVIEW DR                                                 0150001500
+FARO CIR                                                    0150001500
+FARO CT                                                     0150001500
+FARRIS LN                                                   0150001500
+FAWN CT                                                     0150501505
+FAWN WAY                                                    0150301503
+FEDERAL HILL DR                                             0150001500
+FERGUSEN LN                                                 0150001500
+FERN MILL ST                                                0150001500
+FERN WAY                                                    0150001500
+FERNWOOD DR                                                 0150301503
+FEY CT                                                      0150001500
+FEY DR                                                      0150001500
+FIDDLER LN                                                  0150001500
+FILLMOR CIR                                                 0150301503
+FILLY DR                                                    0150001500
+FINCASTLE CT                                                0150101501
+FINCASTLE WAY                                               0150101501
+FIR ST                                                      0150001500
+FISHER LN                                                   0150001500
+FISHER RD                                                   0150001500
+FLAMINGO DR                                                 0150001500
+FLATLICK RD                                                 0150001500
+FLATLICK RD                                                 0150301503
+FLEA MARKET                                                 0150001500
+FLINTSTONE CT                                               0150101501
+FLORIDA AVE                                                 0150301503
+FLOYDS FORK DR                                              0150001500
+FOLEY RD                                                    0150001500
+FORD DR                                                     0150001500
+FORD HL                                                     0150001500
+FOREST DR                                                   0150001500
+FOREST HILL CT                                              0150001500
+FOREST HILL RD                                              0150001500
+FOREST HILL RD                                              0150101501
+FOREST PARK DR                                              0150001500
+FOREST RIDGE DR                                             0150001500
+FORREST HILL DR                                             0150001500
+FORTNEY CT                                                  0150301503
+FORTNEY LN                                                  0150301503
+FOSTER LN                                                   0150001500
+FOUNTAIN ST                                                 0150001500
+FOX CAMP RD                                                 0150001500
+FOX CHASE DR                                                0150001500
+FOX DEN APARTMENTS NO                                       0150301503
+FOX DEN APARTMENTS NO1                                      0150301503
+FOX RIDGE WAY                                               0150001500
+FOXFIRE DR                                                  0150001500
+FOXTAIL CT                                                  0150301503
+FRANK E SIMON AVE                                           0150101501
+FRANK LN                                                    0150001500
+FREDERICK CT                                                0150001500
+FUGATE LN                                                   0150101501
+FUGERSON CT                                                 0150001500
+FUNERAL HOME                                                0150101501
+GAITHER WOODS CT                                            0150001500
+GALA CT                                                     0150001500
+GALWAY DR                                                   0150301503
+GARDEN CT                                                   0150001500
+GARDEN DR                                                   0150001500
+GARDNER CT                                                  0150001500
+GARY WAY                                                    0150001500
+GELDING WAY                                                 0150001500
+GENE ST                                                     0150301503
+GENTRY LN                                                   0150001500
+GEORGIA AVE                                                 0150301503
+GIBRALTAR DR                                                0150101501
+GILBERT WAY                                                 0150001500
+GINA CT                                                     0150101501
+GINGER DR                                                   0150001500
+GLENN FRICK FARM RD                                         0150001500
+GLENVIEW CT                                                 0150501505
+GLENVIEW RD                                                 0150501505
+GLORY RD                                                    0150001500
+GOFTON CT                                                   0150501505
+GOLDENROD CT                                                0150001500
+GOOD CT                                                     0150001500
+GORDON DR                                                   0150301503
+GORDON INDUSTRIAL RD                                        0150101501
+GOSPEL KINGDOM RD                                           0150001500
+GRAND AVE                                                   0150001500
+GRAND LOOP DR                                               0150001500
+GRAND OAK BLVD                                              0150001500
+GRANDVIEW DR                                                0150101501
+GRANDVIEW WAY                                               0150001500
+GRANITE AVE                                                 0150001500
+GRANITE CT                                                  0150001500
+GRANT CT                                                    0150001500
+GRANT DR                                                    0150301503
+GRAZING TRACE CT                                            0150001500
+GREEN VALLEY DR                                             0150001500
+GREEN WOOD DR                                               0150301503
+GREENBRIAR CT                                               0150001500
+GREENBRIAR LN                                               0150501505
+GREENBRIAR RD                                               0150001500
+GREENBRIAR RD                                               0150301503
+GREENFIELD CIR                                              0150001500
+GREENWELL FORD RD                                           0150001500
+GREENWELL RD                                                0150001500
+GREYMONT DR                                                 0150501505
+GREYMOOR CT                                                 0150501505
+GRIFFIN WAY                                                 0150001500
+GRIFFIS LN                                                  0150001500
+GRIGSBY LN                                                  0150001500
+GRINDSTONE DR                                               0150001500
+GROVE VIEW DR                                               0150001500
+GUERILLA HOLLOW RD                                          0150001500
+GUN CLUB RD                                                 0150001500
+HACKBERRY LN                                                0150101501
+HALEY AVE                                                   0150101501
+HALF MOON DR                                                0150301503
+HALLS LN                                                    0150001500
+HALLS LN                                                    0150101501
+HAMILTON CT                                                 0150001500
+HAMILTON DR                                                 0150101501
+HAMILTONS PL                                                0150001500
+HAMMOND RD                                                  0150001500
+HAMPTON CT                                                  0150001500
+HANNAH WAY                                                  0150101501
+HAPPY HOLLOW RD                                             0150001500
+HARDAWAY LN                                                 0150001500
+HARDING DR                                                  0150301503
+HARDWOOD DR                                                 0150301503
+HARDY CV                                                    0150001500
+HARDY LN                                                    0150001500
+HARE LN                                                     0150301503
+HARLEY DR                                                   0150101501
+HARPER DR                                                   0150601506
+HARRELL ST                                                  0150201502
+HARRIS DR                                                   0150301503
+HARRIS PASSWAY                                              0150001500
+HARRISON CIR                                                0150001500
+HARRISON CT                                                 0150001500
+HARRISON FORK RD                                            0150001500
+HARSHFIELD LN                                               0150101501
+HARTFORD DR                                                 0150301503
+HARTS FERRY CT                                              0150001500
+HARTS FERRY RD                                              0150001500
+HARVEST LN                                                  0150001500
+HAYLEE CT                                                   0150001500
+HEBRON CEMETERY NO1 DR                                      0150001500
+HEBRON CEMETERY NO2 DR                                      0150001500
+HEBRON CEMETERY NO3 DR                                      0150001500
+HEBRON CEMETERY NO4 DR                                      0150001500
+HEBRON CEMETERY NO5 DR                                      0150001500
+HEDGEWOOD CT                                                0150001500
+HEFT AVE                                                    0150201502
+HELM LN                                                     0150001500
+HELM LN                                                     0150301503
+HELMWOOD CIR                                                0150301503
+HELMWOOD DR                                                 0150301503
+HEMLOCK DR                                                  0150001500
+HENSLEY RD                                                  0150001500
+HERBS LN                                                    0150001500
+HERITAGE HILL PKWY                                          0150001500
+HERITAGE WAY                                                0150301503
+HESTER CT                                                   0150101501
+HESTER ST                                                   0150101501
+HEXAGON AVE                                                 0150001500
+HICKORY ACRES DR                                            0150001500
+HICKORY ACRES E                                             0150001500
+HICKORY CIR                                                 0150001500
+HICKORY HOLLOW LN                                           0150001500
+HICKORY LN                                                  0150001500
+HICKORY TRL                                                 0150001500
+HICKS LN                                                    0150001500
+HIGH PINE DR                                                0150001500
+HIGH POINT CT                                               0150001500
+HIGH POINT CT                                               0150301503
+HIGH RIDGE DR                                               0150001500
+HIGH SCHOOL DR                                              0150101501
+HIGHLAND CT                                                 0150101501
+HIGHLAND SPRINGS CT                                         0150001500
+HIGHLAND SPRINGS DR                                         0150001500
+HIGHLANDS MEMORIAL CEMETERY NO1                             0150301503
+HIGHLANDS MEMORIAL CEMETERY NO2                             0150301503
+HIGHLANDS MEMORIAL CEMETERY NO3                             0150301503
+HIGHLANDS MEMORIAL CEMETERY NO4                             0150301503
+HIGHLANDS MEMORIAL CEMETERY NO5                             0150301503
+HIGHLANDS MEMORIAL CEMETERY NO6                             0150301503
+HIGHLANDS MEMORIAL CEMETERY NO7                             0150301503
+HIGHWATER RD                                                0150001500
+HILAND DR                                                   0150001500
+HILLBROOK DR                                                0150001500
+HILLCREEK CT                                                0150001500
+HILLCREEK DR                                                0150001500
+HILLCREEK RD                                                0150001500
+HILLCREST AVE                                               0150201502
+HILLCREST DR                                                0150301503
+HILLOCK DR                                                  0150001500
+HILLSIDE RD                                                 0150501505
+HILLTOP DR                                                  0150301503
+HILLTOP RD                                                  0150001500
+HILLVIEW BLVD                                               0150001500
+HILLVIEW BLVD                                               0150501505
+HILLVIEW BLVD                                               0150701507
+HILLVIEW LN                                                 0150001500
+HILLVIEW WOODS PKWY                                         0150001500
+HILLVIEW WOODS PKWY                                         0150501505
+HOAGLAND HILL RD                                            0150001500
+HODGES LN                                                   0150001500
+HOLLOW HILLS RD                                             0150001500
+HOLLY DR                                                    0150001500
+HOLLY LN                                                    0150001500
+HOLLY MARIE DR                                              0150001500
+HOLMES DR                                                   0150001500
+HOLSCLAW CT                                                 0150001500
+HOLSCLAW HILL RD                                            0150001500
+HONEYSUCKLE MOBILE HOME PARK                                0150001500
+HOOT OWL RD                                                 0150101501
+HOOVER CIR                                                  0150301503
+HOOVER CT                                                   0150001500
+HOPE RD                                                     0150301503
+HORIZON CT                                                  0150001500
+HORSE RUN CT                                                0150001500
+HORSEFLY HOLLOW RD                                          0150001500
+HORSESHOE CT                                                0150001500
+HORTICULTURE AREA RD                                        0150001500
+HOUGH RUN                                                   0150001500
+HOWLETT RD                                                  0150101501
+HUBBARD LN                                                  0150001500
+HUBER STATION RD                                            0150001500
+HUMPHREY LN                                                 0150001500
+HURON CT                                                    0150101501
+HURST RD                                                    0150001500
+HUSTON DR                                                   0150101501
+I65 N                                                       0150001500
+I65 N                                                       0150101501
+I65 N                                                       0150201502
+I65 N EXIT105 OFF RAMP TO KY61                              0150201502
+I65 N EXIT105 OFF RAMP TO KY61 E                            0150201502
+I65 N EXIT105 OFF RAMP TO KY61 W                            0150201502
+I65 N EXIT105 ON RAMP FROM KY61                             0150201502
+I65 N EXIT105 ON RAMP FROM KY61 E                           0150201502
+I65 N EXIT105 ON RAMP FROM KY61 W                           0150201502
+I65 N EXIT112 OFF RAMP TO KY245                             0150001500
+I65 N EXIT112 ON RAMP FROM KY245                            0150001500
+I65 N EXIT116 OFF RAMP TO KY480                             0150101501
+I65 N EXIT116 ON RAMP FROM KY480                            0150101501
+I65 N EXIT117 OFF RAMP TO KY44                              0150101501
+I65 N EXIT117 ON RAMP FROM KY44                             0150101501
+I65 N EXIT121 OFF RAMP TO KY1526                            0150001500
+I65 N EXIT121 ON RAMP FROM KY1526                           0150001500
+I65 S                                                       0150001500
+I65 S                                                       0150101501
+I65 S                                                       0150201502
+I65 S EXIT105 OFF RAMP TO KY61                              0150201502
+I65 S EXIT105 OFF RAMP TO KY61 E                            0150201502
+I65 S EXIT105 OFF RAMP TO KY61 W                            0150201502
+I65 S EXIT105 ON RAMP FROM KY61                             0150201502
+I65 S EXIT105 ON RAMP FROM KY61 E                           0150201502
+I65 S EXIT105 ON RAMP FROM KY61 W                           0150201502
+I65 S EXIT112 OFF RAMP TO KY245                             0150001500
+I65 S EXIT112 ON RAMP FROM KY245                            0150001500
+I65 S EXIT116 OFF RAMP TO KY480                             0150101501
+I65 S EXIT116 ON RAMP FROM KY480                            0150101501
+I65 S EXIT117 OFF RAMP TO KY44                              0150101501
+I65 S EXIT117 ON RAMP FROM KY44                             0150101501
+I65 S EXIT121 OFF RAMP TO KY1526                            0150001500
+I65 S EXIT121 ON RAMP FROM KY1526                           0150001500
+I65 S REST AREA113 CAR LANE                                 0150001500
+I65 S REST AREA113 OFF RAMP                                 0150001500
+I65 S REST AREA113 ON RAMP                                  0150001500
+I65 S REST AREA113 SERVICE LANE                             0150001500
+I65 S REST AREA113 TRUCK LANE                               0150001500
+IDYLEWILD DR                                                0150001500
+INDIAN TRCE                                                 0150001500
+INDIGO DR                                                   0150301503
+INGES CT                                                    0150001500
+INGRID DR                                                   0150001500
+INTERNATIONAL BLVD                                          0150001500
+IRISH CT                                                    0150301503
+IRONWOOD CT                                                 0150001500
+IRONWOOD TRL                                                0150001500
+IROQUOIS CT                                                 0150101501
+IVY DR                                                      0150001500
+JACKIE WAY                                                  0150101501
+JACKSON HOLLOW RD                                           0150001500
+JADE DR                                                     0150101501
+JARKI MOBILE HOME PARK                                      0150101501
+JASPER CT                                                   0150301503
+JASPER LN                                                   0150301503
+JEFFERSON COUNTY SPORTSMAN CLUB                             0150001500
+JEFFERSON CT                                                0150301503
+JEFFERSON WAY                                               0150301503
+JEFFIE LN                                                   0150001500
+JENNIFER DR                                                 0150001500
+JENNYMAC CT                                                 0150001500
+JENNYMAC DR                                                 0150001500
+JENNYMAC DR                                                 0150501505
+JERNETTE CT                                                 0150001500
+JERRY DR                                                    0150001500
+JESSE WAY                                                   0150001500
+JESSICA CT                                                  0150101501
+JIM CT                                                      0150001500
+JOEY CT                                                     0150301503
+JOHANNA CT                                                  0150501505
+JOHN AUSTIN LN                                              0150301503
+JOHN HARPER RD                                              0150001500
+JOHN HARPER RD                                              0150501505
+JOHN LEE RD                                                 0150001500
+JOHN R GAITHER CT                                           0150001500
+JOHNS LN                                                    0150001500
+JOHNSON DR                                                  0150101501
+JOHNSON HOLLOW RD                                           0150001500
+JONATHAN WAY                                                0150001500
+JOSEPH AVE                                                  0150501505
+JOSEPH DR                                                   0150001500
+JOSHUA CT                                                   0150001500
+JOY AVE                                                     0150001500
+JOY CT                                                      0150001500
+JOY LN                                                      0150001500
+JUDY DR                                                     0150001500
+JUDY LYNN CT                                                0150101501
+JUSTIN CT                                                   0150001500
+JUSTIN TRL                                                  0150301503
+KAMP DR                                                     0150001500
+KATHERINE STATION RD                                        0150001500
+KEEBLER DR                                                  0150501505
+KEENELAND DR                                                0150001500
+KEITH DR                                                    0150001500
+KEITH HOLLOW RD                                             0150001500
+KELLERMAN WARREN LN                                         0150001500
+KENNEDY DR                                                  0150001500
+KENT DR                                                     0150001500
+KENTUCKY CT                                                 0150001500
+KERR LN                                                     0150001500
+KEVIN PL                                                    0150301503
+KEYSTONE CROSSROAD DR                                       0150101501
+KIM CT                                                      0150101501
+KIMBERLY CT                                                 0150301503
+KIMBERLY DR                                                 0150301503
+KINDER LN                                                   0150001500
+KING HOLLOW RD                                              0150001500
+KINGS CHURCH CT                                             0150001500
+KINGS CHURCH RD                                             0150001500
+KINGS CHURCH RD                                             0150301503
+KINGS LAKE DR                                               0150001500
+KINGSLEY DR                                                 0150501505
+KINGSWOOD AVE                                               0150001500
+KINGSWOOD CT                                                0150001500
+KINGSWOOD DR                                                0150001500
+KIRSTI CT                                                   0150501505
+KLAPPER RD                                                  0150001500
+KNIGHTS CT                                                  0150001500
+KNOB CREEK CIR                                              0150001500
+KNOB CREEK RD                                               0150001500
+KNOBVIEW AVE                                                0150201502
+KNOBVIEW DR                                                 0150201502
+KNOLLWOOD CIR                                               0150501505
+KNOXSIDE DR                                                 0150001500
+KNOXVILLE AVE                                               0150201502
+KOOL SPRINGS DR                                             0150001500
+KOUSA DR                                                    0150101501
+KRISTAL SPRINGS DR                                          0150001500
+KRISTAL SPRINGS ST                                          0150001500
+KRISTI SHELLS CT                                            0150001500
+LAKE EDGE DR                                                0150101501
+LAKE ELMO RD                                                0150001500
+LAKE FRONT CT                                               0150001500
+LAKE HURON CT                                               0150101501
+LAKE NEVIN RD                                               0150001500
+LAKE PARK CT                                                0150101501
+LAKECREST CT                                                0150001500
+LAKES OF DOGWOOD BLVD                                       0150101501
+LAKESIDE DR                                                 0150001500
+LAKEVIEW DR                                                 0150101501
+LAKEVIEW GARDENS DR                                         0150101501
+LAKEVIEW TRL                                                0150001500
+LAKEWOOD DR                                                 0150301503
+LANDIS LN                                                   0150001500
+LANDIS LN                                                   0150301503
+LANDMARK CT                                                 0150101501
+LARRY LN                                                    0150001500
+LAUREN WAY                                                  0150001500
+LAVERNE CT                                                  0150001500
+LAWRENCE LN                                                 0150101501
+LAZY RIVER DR                                               0150001500
+LAZY RIVER NORTH PKWY                                       0150001500
+LAZY RIVER PKWY N                                           0150001500
+LEATH CT                                                    0150001500
+LEDGEWOOD CT                                                0150001500
+LEE BOOTH RD                                                0150001500
+LEE ST                                                      0150101501
+LEE VILLA CIR                                               0150001500
+LEE VILLA CT                                                0150001500
+LEES LANE NORTH                                             0150501505
+LEES LN                                                     0150101501
+LEES VALLEY RD                                              0150101501
+LEIGH ANNA LN                                               0150001500
+LEIZURE DR                                                  0150001500
+LENONA WAY                                                  0150001500
+LENTZ LN                                                    0150001500
+LETTS RD                                                    0150001500
+LEXINGTON DR                                                0150301503
+LICK CREEK CT                                               0150001500
+LICK CREEK RD                                               0150001500
+LICKSKILLET DR                                              0150001500
+LIFESTYLE WAY                                               0150001500
+LIGHT LN                                                    0150001500
+LILLIAN CT                                                  0150001500
+LINCOLN DR                                                  0150301503
+LINDA DR                                                    0150001500
+LINDA DRIVE NO2                                             0150301503
+LINKWOOD CT                                                 0150001500
+LISA DR                                                     0150001500
+LITTLE BEND TRCE                                            0150001500
+LITTLE DOVE TRL                                             0150001500
+LITTLE KENTUCKY DR                                          0150001500
+LITTLE ROCK DR                                              0150001500
+LIVERS LN                                                   0150001500
+LLOYD CT                                                    0150301503
+LLOYD LN                                                    0150001500
+LLOYD LN                                                    0150301503
+LOBB PT                                                     0150001500
+LOCUST DR                                                   0150001500
+LOCUST GROVE CT                                             0150001500
+LOCUST GROVE DR                                             0150001500
+LOCUST ST                                                   0150001500
+LODGE LN                                                    0150001500
+LODIE LN                                                    0150001500
+LOG CABIN LN                                                0150001500
+LONDON SQ                                                   0150301503
+LONE OAK DR                                                 0150001500
+LONG LICK FARM RD                                           0150001500
+LONGVIEW DR                                                 0150001500
+LORETTA DR                                                  0150001500
+LORY LN                                                     0150001500
+LOTUS DR                                                    0150001500
+LOTUS RD                                                    0150001500
+LOUIS LN                                                    0150001500
+LOUIS LN                                                    0150301503
+LOUISE CT                                                   0150301503
+LOUISE WAY                                                  0150301503
+LOVE AVE                                                    0150001500
+LOVE CT                                                     0150001500
+LOVERS LEAP LN                                              0150001500
+LOWES LN                                                    0150001500
+LUPTON CT                                                   0150501505
+LUTZ LN                                                     0150001500
+LYNNWOOD CT                                                 0150301503
+LYNNWOOD DR                                                 0150301503
+MAC MANUFACTURING NO1                                       0150201502
+MAC MANUFACTURING NO2                                       0150201502
+MACK DR                                                     0150001500
+MADISON CT                                                  0150001500
+MADISON RAE BLVD                                            0150101501
+MAGNOLIA DR                                                 0150001500
+MAGO LN                                                     0150001500
+MAGRUDER MEADOW RD                                          0150001500
+MAIN ST                                                     0150201502
+MAIN STREET NO2                                             0150001500
+MAJESTIC BLVD                                               0150001500
+MAJESTIC BLVD                                               0150501505
+MAJESTIC RUN RD                                             0150001500
+MALLARD CROSSING DR                                         0150101501
+MALLARD LAKE BLVD                                           0150101501
+MALLARD POINTE BLVD                                         0150001500
+MALLARD POINTE BLVD                                         0150101501
+MALLARD TRL                                                 0150101501
+MAPLE LN                                                    0150001500
+MAPLE TRL                                                   0150001500
+MAPLEVIEW CT                                                0150001500
+MAPLEVIEW DR                                                0150001500
+MAPLEWOOD DR                                                0150001500
+MARAMAN LN                                                  0150001500
+MARAMAN RD                                                  0150201502
+MARBLE WAY                                                  0150001500
+MARIE AVE                                                   0150501505
+MARILYN RD                                                  0150001500
+MARILYN WAY                                                 0150001500
+MARK AVE                                                    0150301503
+MARKET PLACE DR                                             0150501505
+MARKWELL LN                                                 0150001500
+MARTHAS CT                                                  0150301503
+MARTIN HILL RD                                              0150001500
+MARVIN AVE                                                  0150001500
+MARY DAVID DR                                               0150001500
+MARY DR                                                     0150301503
+MARY FOSTER RD                                              0150001500
+MARYS CT                                                    0150001500
+MASDEN ST                                                   0150201502
+MASSEY RD                                                   0150001500
+MASSEY RD                                                   0150201502
+MATTHEW BLEEMEL DR                                          0150001500
+MATTINGLY RD                                                0150001500
+MAURICE DR                                                  0150301503
+MAYFLOWER RD                                                0150001500
+MAYFLOWER RD                                                0150501505
+MCCRARY LN                                                  0150001500
+MCCUBBINS FARM LN                                           0150001500
+MCCUBBINS RD                                                0150001500
+MCELVAIN LN                                                 0150001500
+MCFARLAND AVE                                               0150301503
+MCGRUDER LN                                                 0150001500
+MEADOR MOUNTAIN                                             0150001500
+MEADOW CREST DR                                             0150001500
+MEADOW CT                                                   0150001500
+MEADOW PARK CT                                              0150001500
+MEADOW RD                                                   0150001500
+MEADOWBROOK CIR                                             0150001500
+MEADOWBROOK CT                                              0150001500
+MEADOWBROOK DR                                              0150001500
+MEADOWLAND TRL                                              0150001500
+MEADOWLARK LN                                               0150001500
+MEADOWOOD DR                                                0150001500
+MEADOWOOD RD                                                0150501505
+MEADOWS DR                                                  0150001500
+MEADOWS DR                                                  0150301503
+MEADOWS DRIVE APARTMENT NO1                                 0150001500
+MEADOWS DRIVE APARTMENT NO2                                 0150001500
+MEADOWS DRIVE APARTMENT NO3                                 0150001500
+MEADOWS DRIVE APARTMENT NO4                                 0150001500
+MEADOWVIEW CT                                               0150301503
+MEADOWVIEW DR                                               0150301503
+MEDLEY LN                                                   0150001500
+MELODY LN                                                   0150001500
+MELWOOD DR                                                  0150101501
+MEMORIES ISLE CT                                            0150101501
+MERIDIAN CT                                                 0150001500
+MERKER LN                                                   0150001500
+MERLOT CT                                                   0150301503
+MEYER DR                                                    0150001500
+MGM CT                                                      0150301503
+MICHELLE DR                                                 0150001500
+MICHIGAN CT                                                 0150101501
+MIDLAND CT                                                  0150001500
+MIDLAND LN                                                  0150001500
+MILES DR                                                    0150101501
+MILL BROOK CIR                                              0150001500
+MILL CREEK CT                                               0150001500
+MILL FALLS ST                                               0150001500
+MILL RUN                                                    0150001500
+MILL TRCE                                                   0150001500
+MILL WHEEL CT                                               0150001500
+MILLER DR                                                   0150101501
+MILLERS DR                                                  0150001500
+MILLERS LN                                                  0150001500
+MILLERS RIDGE                                               0150201502
+MILLERS XING                                                0150001500
+MILLS CT                                                    0150001500
+MILLS LN                                                    0150001500
+MILLS RD                                                    0150001500
+MILLSTONE CT                                                0150001500
+MILLWOOD CT                                                 0150001500
+MILLWOOD DR                                                 0150001500
+MINNIE LN                                                   0150001500
+MITCH CT                                                    0150101501
+MITCHELL DR                                                 0150001500
+MITCHELL WAY                                                0150001500
+MOBILE HOME PARK NO1                                        0150301503
+MOBILE HOME PARK NO2                                        0150301503
+MOBILE HOME PARK NO3                                        0150001500
+MOBILE HOME PARK NO4                                        0150301503
+MOBILE HOME PARK NO5                                        0150001500
+MOBILE HOME PARK NO6                                        0150001500
+MOBILE HOME PARK NO7                                        0150001500
+MOBILE HOME PARK NO7                                        0150101501
+MOBILE HOME PARK NO8                                        0150101501
+MOBLEY LN                                                   0150001500
+MOCKINGBIRD CT                                              0150001500
+MOCKINGBIRD LN                                              0150001500
+MOCKINGBIRD WAY                                             0150001500
+MOONEY LN                                                   0150001500
+MOONGLOW CT                                                 0150001500
+MOORE LN                                                    0150001500
+MOORES FARM LN                                              0150001500
+MORNING GLORY AVE                                           0150301503
+MORNINGSIDE DR                                              0150501505
+MOSSY OAK CT                                                0150101501
+MOST AWESOME FLEA MARKET                                    0150101501
+MT CARMEL CHURCH RD                                         0150001500
+MT EDEN RD                                                  0150001500
+MT ELMIRA RD                                                0150001500
+MUD HEN DR                                                  0150001500
+MULBERRY LN                                                 0150001500
+MYERS KNOB RD                                               0150001500
+MYERS RD                                                    0150001500
+MYRTLE CT                                                   0150001500
+MYRTLE SOUTH DR                                             0150001500
+N BARDSTOWN RD                                              0150001500
+N BARDSTOWN RD                                              0150301503
+N BELMONT DR                                                0150601506
+N BROOK ST                                                  0150201502
+N BROOKWOOD DR                                              0150501505
+N BULLITT HIGH SCHOOL DR                                    0150001500
+N COLERIDGE DR                                              0150101501
+N HICKORY LN                                                0150101501
+N LAKEVIEW DR                                               0150001500
+N MAPLE ST                                                  0150101501
+N MYERS RD                                                  0150001500
+N PEAK AVE                                                  0150001500
+N PLUM ST                                                   0150101501
+N POPLAR ST                                                 0150201502
+N PRESTON HWY                                               0150001500
+N PRESTON HWY                                               0150501505
+N PRESTON HWY                                               0150601506
+N SANDERS LN                                                0150001500
+N SKYLINE DR                                                0150501505
+N STEEDLAND DR                                              0150501505
+N STONEHURST DR                                             0150001500
+N SUMMITT DR                                                0150001500
+N SUNSHINE DR                                               0150001500
+N TRIANGLE LN                                               0150001500
+N TRIANGLE LN                                               0150501505
+N WALNUT ST                                                 0150101501
+N WILLIAMS LN                                               0150001500
+NALLEY LN                                                   0150001500
+NAMI CT                                                     0150301503
+NAN CT                                                      0150001500
+NELIDA WAY                                                  0150001500
+NELLIE WAY                                                  0150001500
+NEW CHRISTMAN LN                                            0150001500
+NEW ED QUICK RD                                             0150001500
+NEWMAN HILL RD                                              0150001500
+NEWMAN WAY                                                  0150301503
+NEWTON CT                                                   0150001500
+NEWTON FARM RD                                              0150001500
+NEZ PERCE WAY                                               0560205602
+NICHOLS HILL RD                                             0150001500
+NIGHTINGALE WAY                                             0150001500
+NIGHTSKY CT                                                 0150001500
+NIPPER CT                                                   0150001500
+NOE WAY                                                     0150001500
+NORMAN DALE RD                                              0150001500
+NORTH ST                                                    0150001500
+NORTHSIDE AVE                                               0150101501
+NORTHVIEW DR                                                0150001500
+NORWOOD WAY                                                 0150501505
+OAK CREEK CIR                                               0150001500
+OAK CREEK DR                                                0150001500
+OAK DR                                                      0150001500
+OAK GROVE BLVD                                              0150101501
+OAK HILL CT                                                 0150001500
+OAK HILL RD                                                 0150001500
+OAK LEAF CT                                                 0150001500
+OAK PARK CT                                                 0150001500
+OAK PARK DR                                                 0150001500
+OAK POINTE DR                                               0150001500
+OAK ST                                                      0150101501
+OAK VALLEY CT                                               0150001500
+OAK VALLEY DR                                               0150001500
+OAK VIEW CT                                                 0150001500
+OAK VIEW WAY                                                0150001500
+OAKCREST CT                                                 0150001500
+OAKCREST DR                                                 0150001500
+OAKRIDGE CT                                                 0150001500
+OAKRIDGE DR                                                 0150001500
+OAKRUN DR                                                   0150001500
+OAKWOOD DR                                                  0150001500
+OAKWOOD PT                                                  0150001500
+OCTAGON AVE                                                 0150001500
+OHENRY AVE                                                  0150001500
+OHM DR                                                      0150001500
+OLD BEECH GROVE RD N                                        0150101501
+OLD BEECHGROVE RD S                                         0150001500
+OLD BELMONT RD                                              0150001500
+OLD BOSTON RD                                               0150001500
+OLD BOSTON RD                                               0150201502
+OLD BROOKS HILL RD                                          0150001500
+OLD CABIN CT                                                0150001500
+OLD CLERMONT RD                                             0150001500
+OLD DAVIS RD                                                0150001500
+OLD FORD RD                                                 0150101501
+OLD GAP KNOB                                                0150001500
+OLD HICKORY HILL LN                                         0150001500
+OLD KY 245                                                  0150001500
+OLD KY 245 W                                                0150001500
+OLD KY 44 E                                                 0150001500
+OLD MILL RD                                                 0150001500
+OLD MILL RD                                                 0150101501
+OLD MILL RD                                                 0150301503
+OLD MILL STREAM LN                                          0150001500
+OLD PITTS POINT RD                                          0150001500
+OLD PRESTON HWY                                             0150001500
+OLD PRESTON HWY                                             0150501505
+OLD PRESTON HWY N                                           0150001500
+OLD PRESTON HWY N                                           0150501505
+OLD PRESTON HWY N                                           0150601506
+OLD RD                                                      0150501505
+OLD RIDGE RD                                                0150001500
+OLD SPRINGHOUSE RD                                          0150001500
+OLD STONE RD                                                0150001500
+OLD US 27 LOOP S                                            0150001500
+OLDE COLONY CT                                              0150301503
+OLOFIELD LN                                                 0150001500
+OMEGA PARKWAY PKWY                                          0150001500
+OMEGA PKWY                                                  0150001500
+OMICRON CT                                                  0150001500
+ONTARIO CT                                                  0150101501
+OPA RD                                                      0150001500
+ORCHARD BROOK DR                                            0150001500
+ORCHID CT                                                   0150001500
+ORION CT                                                    0150001500
+OSHARA CT                                                   0150001500
+OVAL AVE                                                    0150001500
+OVERDALE CHURCH PARKING LOT RD                              0150501505
+OVERDALE DR                                                 0150501505
+OVERHILL DR                                                 0150001500
+OVERLOOK ACRES                                              0150001500
+OVERLOOK DR                                                 0150001500
+OVERLOOK ESTATES DR                                         0150101501
+OVERLOOK RD                                                 0150501505
+OWEN LN                                                     0150001500
+OWEN RD                                                     0150301503
+OWL CREEK CT                                                0150001500
+OWL CREEK LN                                                0150001500
+OXFORD CT                                                   0150601506
+OXFORD LN                                                   0150501505
+PADDOCK RD                                                  0150001500
+PAGODA CT                                                   0150101501
+PARAQUET SPRINGS DR                                         0150101501
+PARE CT                                                     0150001500
+PARK AVE                                                    0150001500
+PARK DR                                                     0150101501
+PARK HILL LN                                                0150301503
+PARK PLAYGROUND                                             0150301503
+PARK RIDGE DR                                               0150001500
+PARKLAND TRCE                                               0150301503
+PARTRIDGE RUN                                               0150001500
+PATRICIA LN                                                 0150001500
+PATS LN                                                     0150001500
+PATTERSON LN                                                0150101501
+PATTON LN                                                   0150001500
+PAUL HARNED RD                                              0150001500
+PAULA LN                                                    0150001500
+PAULEYS GAP RD                                              0150001500
+PAULS POINT RD                                              0150001500
+PAYNE LN                                                    0150001500
+PEACE AVE                                                   0150001500
+PEACEFUL WAY                                                0150001500
+PEACOCK HOLLOW RD                                           0150001500
+PEBBLEBROOK DR                                              0150001500
+PEBBLECREEK DR                                              0150001500
+PECAN CT                                                    0150001500
+PECAN LN                                                    0150001500
+PEDDLERS CT                                                 0150001500
+PEDDLERS RUN RD                                             0150001500
+PENDLETON RD                                                0150001500
+PENN RUN RD                                                 0150001500
+PERKINS CT                                                  0150001500
+PERKINS LN                                                  0150001500
+PERSIMMON DR                                                0150001500
+PHELPS RD                                                   0150001500
+PHILLIP CT                                                  0150101501
+PHILLIPS LN                                                 0150001500
+PIERCE AVE                                                  0150301503
+PIKE AND PAINE LN                                           0150001500
+PIKE ST                                                     0150201502
+PIKELAND WAY                                                0150001500
+PIN OAK                                                     0150001500
+PIN OAK                                                     0150301503
+PIN OAK DR                                                  0150001500
+PIN TAIL CT                                                 0150101501
+PINE AND OAK DR                                             0150201502
+PINE CREEK CT                                               0150001500
+PINE CREEK RD                                               0150001500
+PINE CREEK TRL                                              0150001500
+PINE DR                                                     0150001500
+PINE GLEN CT                                                0150101501
+PINE TAVERN RD                                              0150001500
+PINE TAVERN RD                                              0150201502
+PINE VALLEY CT                                              0150001500
+PINE VALLEY DR                                              0150001500
+PINE VIEW CT                                                0150001500
+PINECREST DR                                                0150001500
+PINOAK CIR                                                  0150301503
+PIONEER DR                                                  0150001500
+PIONEER TRL                                                 0150601506
+PITTS POINT RD                                              0150001500
+PLANE TREE CT                                               0150101501
+PLEASANT VIEW CT                                            0150001500
+PLENGE CT                                                   0150001500
+PLENMAR DR                                                  0150001500
+PLENTIFUL PL                                                0150001500
+PLUM CREEK CT                                               0150001500
+POINTE BLVD                                                 0150001500
+POINTE BLVD                                                 0150101501
+PONDEROSA PL                                                0150001500
+POPE ST                                                     0150201502
+POPLAR CIR                                                  0150001500
+PORTER ST                                                   0150301503
+PPOOLE LN                                                   0150001500
+PRAIRIE CT                                                  0150501505
+PRAIRIE DR                                                  0150501505
+PRESTON HWY                                                 0150001500
+PRESTON HWY                                                 0150101501
+PRESTON HWY                                                 0150201502
+PRESTON HWY                                                 0150601506
+PRESTON PKWY                                                0150001500
+PRIMROSE DR                                                 0150001500
+PRINCE CT                                                   0150001500
+PRINCESS CT                                                 0150001500
+PROBUS DR                                                   0150301503
+PROCTOR LN                                                  0150001500
+PRYOR VALLEY RD                                             0150001500
+PUMPKIN RD                                                  0150001500
+QUAIL HOLLOW RD                                             0150001500
+QUALITY STONE AND READY MIX                                 0150001500
+QUARTERMOUSE RD                                             0150001500
+QUEENS CT                                                   0150001500
+RAILROAD AVE                                                0150201502
+RAMBLIN RD                                                  0150001500
+RAMESES CT                                                  0150001500
+RAMS RUN                                                    0150001500
+RANCH RD                                                    0150001500
+RANGE VALLEY CT                                             0150001500
+RAYHILL DR                                                  0150001500
+RAYMOND RD                                                  0150001500
+READER LN                                                   0150001500
+RECTANGLE RD                                                0150001500
+RED BIRD CT                                                 0150501505
+RED BIRD RD                                                 0150501505
+RED CARDINAL DR                                             0150001500
+RED OAK DR                                                  0150101501
+RED PINE DR                                                 0150501505
+RED ROCK DR                                                 0150001500
+REDBUD DR                                                   0150301503
+REDBUD LN                                                   0150001500
+REDCREST DR                                                 0150001500
+REDDEN TRL                                                  0150001500
+REICHMUTH LN                                                0150101501
+REMINGTON CT                                                0150001500
+RESERVES BLVD                                               0150101501
+RETIREMENT LN                                               0150001500
+RHODES LN                                                   0150001500
+RICHARDS CT                                                 0150001500
+RICKETTS LN                                                 0150001500
+RICKY CT                                                    0150001500
+RICKY DR                                                    0150001500
+RIDGE RD                                                    0150001500
+RIDGECREST CT                                               0150001500
+RIDGEMONT DR                                                0150501505
+RIDGEMONT RD                                                0150501505
+RIDGEVIEW CT                                                0150001500
+RIDGEVIEW DR                                                0150001500
+RIDGEWAY CT                                                 0150501505
+RIDGEWAY FARM RD                                            0150001500
+RIED EST                                                    0150001500
+RIGEL CT                                                    0150301503
+RISEN RD                                                    0150001500
+RISING SUN RD                                               0150001500
+RITA MARY CT                                                0150501505
+RITCHEY LN                                                  0150001500
+RIVER CLIFF DR                                              0150001500
+RIVER EDGE DR                                               0150001500
+RIVER OAKS CT                                               0150001500
+RIVER OAKS DR                                               0150001500
+RIVER RIDGE DR                                              0150001500
+RIVER ROCK DR                                               0150001500
+RIVER TRACE DR                                              0150001500
+RIVER TRCE                                                  0150001500
+RIVERCHASE DR                                               0150001500
+RIVERPORT RD                                                0150101501
+RIVERVIEW DR                                                0150001500
+RIVERVIEW LN                                                0150101501
+ROBERT BURDEN RD                                            0150001500
+ROBERT CT                                                   0150001500
+ROBIN CT                                                    0150001500
+ROBIN LN                                                    0150001500
+ROBIN RD                                                    0150001500
+ROBIN WAY                                                   0150001500
+ROCKCASTLE VILLA                                            0150001500
+ROCKWOOD CT                                                 0150001500
+ROCKWOOD LN                                                 0150001500
+ROCKY HOLLOW LN                                             0150001500
+ROCKY RD                                                    0150001500
+ROCKY RUN CT                                                0150001500
+RODGERS LN                                                  0150001500
+RODGERS RD                                                  0150001500
+ROE HILL RD                                                 0150001500
+ROGERS AVE                                                  0150001500
+ROGERS AVE                                                  0150501505
+ROGERS DR                                                   0150501505
+ROGERS HOLLOW RD                                            0150001500
+ROLLING FORK RD                                             0150001500
+ROLLING RIDGE LN                                            0150001500
+RONEY RD                                                    0150001500
+ROPER LN                                                    0150001500
+ROSEWOOD LN                                                 0150501505
+ROUTION WAY                                                 0150001500
+ROUTT RD                                                    0150001500
+ROY LAYNE RD                                                0150001500
+RUBY WAY                                                    0150001500
+RUDD AVE                                                    0150201502
+RUDOLPH CT                                                  0150001500
+RUMMAGE RD                                                  0150001500
+RUNNING CREEK CIR                                           0150001500
+RUNNING CREEK CT                                            0150001500
+RUNNING CREEK DR                                            0150001500
+RUNNING CREEK DR                                            0150501505
+RUNNING FOX DR                                              0150001500
+RUSTIC LN                                                   0150001500
+RUSTIC WAY                                                  0150001500
+RYAN PATRICK DR                                             0150001500
+S BARDSTOWN RD                                              0150301503
+S BROOK ST                                                  0150201502
+S BROOKWOOD DR                                              0150501505
+S COLERIDGE DR                                              0150101501
+S DOWNS LN                                                  0150001500
+S HICKORY LN                                                0150101501
+S PEAK AVE                                                  0150001500
+S PEAK AVE                                                  0150101501
+S PLUM ST                                                   0150101501
+S POPLAR ST                                                 0150201502
+S SANDERS LN                                                0150001500
+S SHORE DR                                                  0150101501
+S STEEDLAND DR                                              0150501505
+S SUMMITT DR                                                0150001500
+S VALLEYVIEW DR                                             0150001500
+SABINE WAY                                                  0150501505
+SAGUARO CT                                                  0150501505
+SAGUARO DR                                                  0150501505
+SALT LICK LN                                                0150001500
+SALT RIVER DR                                               0150101501
+SALT RIVER PLANT RD                                         0150101501
+SALT RIVER RD                                               0150101501
+SALT WELL CT                                                0150101501
+SALT WELL RD                                                0150001500
+SALT WELL RD                                                0150101501
+SAMMYS CT                                                   0150301503
+SAMPSONS RD                                                 0150001500
+SAMUELS CT                                                  0150001500
+SAMUELS FARM LN                                             0150001500
+SAMUELS LN                                                  0150001500
+SAND DOLLAR CT                                              0150101501
+SANDRA DR                                                   0150301503
+SANDSTONE RD                                                0150001500
+SANDY DR                                                    0150001500
+SANDY HILL RD                                               0150001500
+SANNA DR                                                    0150501505
+SARA CT                                                     0150101501
+SARA WAY                                                    0150001500
+SARAH WAY                                                   0150101501
+SARATOGA CT                                                 0150601506
+SARATOGA WAY                                                0150001500
+SARVER LN                                                   0150001500
+SAULS CT                                                    0150001500
+SCENIC CT                                                   0150301503
+SCENIC DR                                                   0150001500
+SCENIC TRL                                                  0150001500
+SCENIC VIEW DR                                              0150301503
+SCOTTS GAP RD                                               0150001500
+SEMINOLE CT                                                 0150101501
+SENATE LN                                                   0150301503
+SERVICE ENTRANCE                                            0150001500
+SETTLERS CT                                                 0150001500
+SETTLERS TRCE                                               0150001500
+SHADOW WOOD CT                                              0150001500
+SHADOWLAWN DR                                               0150001500
+SHADY BROOK LN                                              0150501505
+SHADY GLENN CIR                                             0150101501
+SHADY LN                                                    0150001500
+SHADY OAK CT                                                0150001500
+SHADY POND LN                                               0150001500
+SHAKELAND DR                                                0150001500
+SHARON DR                                                   0150001500
+SHARON RD                                                   0150001500
+SHAWNEE CIR                                                 0150301503
+SHAWNEE DR                                                  0150101501
+SHEBAS WAY                                                  0150001500
+SHELBY CIR                                                  0150001500
+SHELLEY CT                                                  0150001500
+SHELVIS CT                                                  0150001500
+SHEPHERDS WAY                                               0150001500
+SHEPHERDSVILLE RD                                           0150001500
+SHERLEYS CT                                                 0150101501
+SHIRL NEL LN                                                0150001500
+SHORT ST                                                    0150101501
+SHORT STREET NO2                                            0150201502
+SHUFFITT LN                                                 0150001500
+SHULTHISE LN                                                0150001500
+SIMMONS LN                                                  0150001500
+SITKA CT                                                    0150501505
+SKYVIEW CT                                                  0150001500
+SKYVIEW RD                                                  0150001500
+SLATE BLUFF TRL                                             0150001500
+SMITH LANDFILL RD                                           0150001500
+SMITH LN                                                    0150001500
+SMITH RD                                                    0150001500
+SNAPP ST                                                    0150301503
+SOLOMAN RD                                                  0150001500
+SOMBER WAY                                                  0150001500
+SOMERSET DR                                                 0150501505
+SOUTH ST                                                    0150101501
+SOUTHGATE DR                                                0150301503
+SOWDER LN                                                   0150001500
+SPARKS DR                                                   0150001500
+SPARROW DR                                                  0150101501
+SPARROW DRIVE EXT                                           0150101501
+SPENCER LN                                                  0150301503
+SPENDTHRIFT DR                                              0150001500
+SPHERE ST                                                   0150001500
+SPRING CT                                                   0150001500
+SPRING DR                                                   0150001500
+SPRING FARM TRL                                             0150001500
+SPRING HOUSE LN                                             0150501505
+SPRING LAKE CT                                              0150501505
+SPRING LEAF CT                                              0150501505
+SPRING LEAF DR                                              0150001500
+SPRING MEADOW CT                                            0150501505
+SPRING MEADOW DR                                            0150501505
+SPRING MEADOWS CT                                           0150501505
+SPRING TRACE CT                                             0150501505
+SPRING TRACE DR                                             0150001500
+SPRINGBROOK DR                                              0150001500
+SPRINGCREST CT                                              0150001500
+SPRINGDALE CT                                               0150501505
+SPRINGDALE DR                                               0150301503
+SPRINGFALLS CT                                              0150501505
+SPRINGFIELD CT                                              0150501505
+SPRINGVIEW CT                                               0150001500
+SPRINGWOOD DR                                               0150501505
+SPRUCE LN                                                   0150001500
+SPRUCE ST                                                   0150001500
+ST ANDREWS WAY                                              0150101501
+STACEY LN                                                   0150501505
+STALLION WAY                                                0150001500
+STANLEY DR                                                  0150001500
+STANSBURY PL                                                0150001500
+STARGEL LN                                                  0150001500
+STARLITE CT                                                 0150501505
+STARLITE DR                                                 0150501505
+STARSHINE CT                                                0150001500
+STATION CT                                                  0150001500
+STATION WAY                                                 0150001500
+STAVE MILL RD                                               0150001500
+STEEDLAND CT                                                0150501505
+STELLAR DR                                                  0150101501
+STEPHANIE RD                                                0150001500
+STEVEN DR                                                   0150101501
+STONE CREEK CT                                              0150001500
+STONE CREEK DR                                              0150201502
+STONE MEADOW DR                                             0150001500
+STONELEDGE DR                                               0150301503
+STONEPOST RD                                                0150501505
+STONESIDE CT                                                0150001500
+STONEWOOD CT                                                0150001500
+STONEY LN                                                   0150001500
+STONEYCREST CT                                              0150001500
+STONEYRIDGE WYNDE                                           0150001500
+STOUT LN                                                    0150301503
+STOUT ST                                                    0150301503
+STRATFORD AVE                                               0150001500
+STRATFORD LN                                                0150001500
+STREBLE FARM LN                                             0150001500
+STRINGER LN                                                 0150001500
+STRINGER LN                                                 0150301503
+STRIP MALL                                                  0150601506
+SUMMERS DR                                                  0150501505
+SUMMIT DR                                                   0150501505
+SUMMIT DR                                                   0150601506
+SUMMITT DR                                                  0150601506
+SUNDAY SILENCE DR                                           0150301503
+SUNDOWN CT                                                  0150001500
+SUNNY CT                                                    0150001500
+SUNNY HILL DR                                               0150001500
+SUNNYSIDE DR                                                0150301503
+SUNRISE CT                                                  0150001500
+SUNSET CT                                                   0150001500
+SUNSET LN                                                   0150501505
+SUNSHINE CAMP RD                                            0150001500
+SUNSHINE CT                                                 0150001500
+SUNVIEW CT                                                  0150001500
+SUNVIEW DR                                                  0150001500
+SUPERFUND SITE                                              0150001500
+SUPERIOR CT                                                 0150101501
+SUSSEX DR                                                   0150001500
+SWALLOW RD                                                  0150001500
+SWEARENGEN CT                                               0150001500
+SYCAMORE CIR                                                0150201502
+SYCAMORE DR                                                 0150001500
+SYCAMORE DR                                                 0150101501
+SYCAMORE DR N                                               0150001500
+SYMMETRIC ST                                                0150001500
+TAFT CT                                                     0150301503
+TALLY HO DR                                                 0150001500
+TAMMY LN                                                    0150001500
+TANAGER LN                                                  0150101501
+TANGLEWOOD RD                                               0150001500
+TANYARD SPRINGS BLVD                                        0150501505
+TARA CIR                                                    0150001500
+TARA CIR                                                    0150101501
+TARA DAWN DR                                                0150101501
+TAYLOR CT                                                   0150301503
+TAYLOR WAY                                                  0150001500
+TEABERRY CT                                                 0150501505
+TEAKWOOD CIR                                                0150301503
+TECUMSEH DR                                                 0150101501
+TEMBROKE DR                                                 0150001500
+TERESA KAY DR                                               0150301503
+TERRY BLVD                                                  0150001500
+TERRY DR                                                    0150001500
+TEXAS AVE                                                   0150301503
+THIRY RD                                                    0150001500
+THIXTON LN                                                  0150001500
+THOMASON CT                                                 0150001500
+THOMPSON AVE                                                0150201502
+THOMPSON RD                                                 0150001500
+THOUSAND OAKS CIR                                           0150001500
+THUNDER RD                                                  0150001500
+TIFFANY CT                                                  0150001500
+TIMBER RIDGE CT                                             0150001500
+TIMBERLAKE TRL                                              0150001500
+TIMBERLINE DR                                               0150001500
+TODD DR                                                     0150301503
+TOLLIVER CT                                                 0150501505
+TOLLVIEW DR                                                 0150101501
+TONY LN                                                     0150001500
+TOPFIELD RD                                                 0150001500
+TOWER RD                                                    0150001500
+TOY CT                                                      0150501505
+TRACY LYNN LN                                               0150001500
+TRAPPERS RD                                                 0150001500
+TRAVIS CT                                                   0150001500
+TRAVIS LN                                                   0150001500
+TRAVIS RD                                                   0150001500
+TREASURE BAY CT                                             0150101501
+TREVA CT                                                    0150301503
+TREVA DR                                                    0150301503
+TREVOR CT                                                   0150301503
+TREY DR                                                     0150301503
+TRINITY DR                                                  0150301503
+TRJ LN                                                      0150001500
+TRUCK AMERICA TRAINING SCHOOL                               0150001500
+TRUMAN DR                                                   0150001500
+TUMBLEWEED RD                                               0150501505
+TURNPIKE LN                                                 0150201502
+TURTLE BAY CT                                               0150101501
+TUTS RD                                                     0150001500
+TWELVE OAKS DR                                              0150001500
+TWIN ACRES DR                                               0150001500
+TWIN BROOK DR                                               0150001500
+TWIN EAGLES DR                                              0150301503
+TWIN FALLS RD                                               0150001500
+TWIN OAKS DR                                                0150001500
+TYLER DR                                                    0150001500
+TYLER PARK APARTMENTS                                       0150001500
+TYLER PKWY                                                  0150101501
+VALLEY DR                                                   0150301503
+VALLEY LN                                                   0150001500
+VALLEY RD                                                   0150501505
+VALLEY VIEW DR                                              0150001500
+VAUGHN RD                                                   0150001500
+VELVA DR                                                    0150501505
+VEN CT                                                      0150501505
+VICKIE WAY                                                  0150001500
+VICKIE WAY                                                  0150601506
+VICTORIA DR                                                 0150001500
+VILLAGE CIRCLE DR                                           0150101501
+VILLAGE DR                                                  0150101501
+VILLAGE LN                                                  0150001500
+VILLAGE LN                                                  0150301503
+VINE HILL RD                                                0150001500
+VINE ST                                                     0150101501
+VISTA CT                                                    0150001500
+VIVIAN WAY                                                  0150001500
+W 1ST ST                                                    0150101501
+W 2ND ST                                                    0150101501
+W 3RD ST                                                    0150101501
+W 4TH ST                                                    0150101501
+W AIRPORT RD                                                0150201502
+W AUDUBON DR                                                0150001500
+W BEECH GROVE RD                                            0150001500
+W BLUE LICK RD                                              0150001500
+W BLUE LICK RD                                              0150101501
+W BLUEJAY RD                                                0150501505
+W DELMAR DR                                                 0150301503
+W EMERALD CIR                                               0150301503
+W HEBRON LN                                                 0150001500
+W HILL CREEK RD                                             0150001500
+W INDIAN STONE RD                                           0150001500
+W JOYCE LN                                                  0150001500
+W KOOL SPRINGS DR                                           0150001500
+W LAUREL RIVER DR                                           0150001500
+W MAPLE                                                     0150201502
+W MARTIN PL                                                 0150001500
+W MILLWATER FALLS                                           0150001500
+W OAK ST                                                    0150201502
+W PEACEFUL CT                                               0150001500
+W SHANNON LN                                                0150101501
+W SPRINGMILL DR                                             0150001500
+W TRIANGLE LN                                               0150001500
+W WOODLAKE CIR                                              0150301503
+WADDELL LN                                                  0150001500
+WADE RD                                                     0150001500
+WALES RUN RD                                                0150001500
+WALL ST                                                     0150201502
+WALLACE DR                                                  0150001500
+WALLS HOLLOW NORTH                                          0150001500
+WALLS HOLLOW RD                                             0150001500
+WALNUT AVE                                                  0150001500
+WALNUT DR                                                   0150001500
+WALNUT WAY                                                  0150001500
+WALTER RD                                                   0150001500
+WARREN LN                                                   0150001500
+WASHINGTON CT                                               0150301503
+WASHINGTON DR                                               0150301503
+WATER ST                                                    0150301503
+WATERFALL CT                                                0150001500
+WATERFORD RD                                                0150001500
+WATERGATE DR                                                0150001500
+WATERLILLY CT                                               0150001500
+WATERTOWER RD                                               0150201502
+WATERWOOD LN                                                0150501505
+WATERWORKS DR                                               0150001500
+WAVA DR                                                     0150001500
+WEAVERS RUN RD                                              0150001500
+WEBBWOOD CT                                                 0150001500
+WEIRD RD                                                    0150001500
+WELCH ST                                                    0150201502
+WEST AVE                                                    0150301503
+WEST ST                                                     0150301503
+WESTERN RD                                                  0150501505
+WESTWOOD CT                                                 0150001500
+WESTWOOD DR                                                 0150001500
+WHEELER LN                                                  0150001500
+WHIRLAWAY CIR                                               0150001500
+WHISPERING OAKS DR                                          0150001500
+WHITE BLOSSOM DR                                            0150101501
+WHITE OAK DR                                                0150001500
+WHITE OAK WAY                                               0150001500
+WHITE OAK WAY                                               0150301503
+WHITE RUN RD                                                0150001500
+WHITE SPRUCE CT                                             0560205602
+WHITE SPRUCE DR                                             0150501505
+WHITE ST                                                    0150001500
+WHITE TAIL CIR                                              0150001500
+WHITEHOUSE RD                                               0150001500
+WHITFIELD LN                                                0150001500
+WHITLEDGE LN                                                0150001500
+WHITNEY CT                                                  0150001500
+WICKER LN                                                   0150001500
+WIGEON CT                                                   0150101501
+WIGGLEVILLE RD                                              0150001500
+WILCHAR BLVD                                                0150301503
+WILD WAY                                                    0150501505
+WILDERNESS CT                                               0150001500
+WILDERNESS RD                                               0150001500
+WILDERNESS TRL                                              0150001500
+WILDERNESS WAY                                              0150001500
+WILDWOOD TRL                                                0150001500
+WILKERSON DR                                                0150001500
+WILLABROOK DR                                               0150001500
+WILLIAMS CT                                                 0150001500
+WILLIAMS RD                                                 0150001500
+WILLOW CREEK DR                                             0150001500
+WILLOW DR                                                   0150001500
+WILLOW LN                                                   0150001500
+WILLOW WAY                                                  0150001500
+WILLOW WOOD DR                                              0150001500
+WILMA AVE                                                   0150001500
+WILMA AVE                                                   0150501505
+WILMINGTON DR                                               0150301503
+WILSON CREEK RD                                             0150001500
+WILSON LN                                                   0150001500
+WILSON RUN RD                                               0150001500
+WINCHESTER CT                                               0150001500
+WINCHESTER DR                                               0150301503
+WINDING CREEK DR                                            0150001500
+WINDING HOLLOW LN                                           0150001500
+WINDING WOODS TRL                                           0150301503
+WINDWARD WAY                                                0150001500
+WINDY HILL RD                                               0150001500
+WINDY HILL SPUR                                             0150001500
+WINDY RIDGE RD                                              0150001500
+WINNING COLORS DR                                           0150301503
+WINSTON CT                                                  0150501505
+WINTER LEAF DR                                              0150001500
+WIRTH DR                                                    0150001500
+WISE CT                                                     0150501505
+WISE RD                                                     0150201502
+WISELAND WAY                                                0150501505
+WOLFE RD                                                    0150001500
+WOOD DUCK CT                                                0150101501
+WOOD GATE DR                                                0150301503
+WOOD ROCK CT                                                0150301503
+WOOD VALLEY CT                                              0150001500
+WOOD VALLEY LN                                              0150001500
+WOODED WAY                                                  0150501505
+WOODLAKE CT                                                 0150301503
+WOODLAKE DR                                                 0150001500
+WOODLAKE DR                                                 0150301503
+WOODLAND AVE                                                0150001500
+WOODLAND DR                                                 0150001500
+WOODLAND PASS                                               0150301503
+WOODPOINTE CT                                               0150001500
+WOODROW LN                                                  0150001500
+WOODS BEND DR                                               0150001500
+WOODS LN                                                    0150001500
+WOODSDALE FARM CT                                           0150001500
+WOODSDALE FARM DR                                           0150001500
+WOODSDALE RD                                                0150001500
+WOODSIDE CT                                                 0150001500
+WOODWIND CT                                                 0150301503
+WORKMAN DR                                                  0150001500
+WORLD TOP CT                                                0150001500
+WORLDVIEW CIR                                               0150001500
+WORTH AVE                                                   0150001500
+WORTH ST                                                    0150101501
+WYANDOT CT                                                  0150101501
+WYNDINGBROOK DR                                             0150001500
+YEARLING DR                                                 0150001500
+YORKSHIRE BLVD                                              0150001500
+YOUNGSTOWN PARK DR                                          0150301503
+ZAPPOSDOTCOM BLVD                                           0150101501
+ZEBRA PL                                                    0150001500
+ZELMA PL                                                    0150001500
+ZINNA DR                                                    0150001500
+ZINNIA WAY                                                  0150001500
+ZONETON RD                                                  0150001500
+ZORRO PL                                                    0150001500

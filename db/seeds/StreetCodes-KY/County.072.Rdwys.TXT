@@ -1,0 +1,732 @@
+10TH ST                                                     0720307203
+11TH ST                                                     0720007200
+1ST ST                                                      0720307203
+2ND ST                                                      0720307203
+3RD ST                                                      0720207202
+3RD ST                                                      0720307203
+4TH ST                                                      0720307203
+5TH ST                                                      0720307203
+6TH ST                                                      0720307203
+7TH ST N                                                    0720307203
+7TH ST S                                                    0720307203
+8TH ST                                                      0720307203
+9TH ST                                                      0720307203
+ACORN LN                                                    0720007200
+ACTS DR                                                     0720007200
+ALGONQUIN RD                                                0720007200
+AMBER CT                                                    0720207202
+ARLINGTON CT                                                0720007200
+ARROWHEAD RD                                                0720007200
+AUSENBAUGH RD                                               0720007200
+AUTUMN TRCE                                                 0720307203
+BACKSTROM HTS                                               0720007200
+BAMBOO TRL                                                  0720007200
+BAR LN                                                      0720007200
+BARBEE CT                                                   0720007200
+BARK DR                                                     0720007200
+BARKLEY DAM DR                                              0720007200
+BARKLEY DAM POWERPLANT ROAD LOOP                            0720007200
+BARNETT RD                                                  0720007200
+BARRETT RD                                                  0720007200
+BATHHOUSE LOOP                                              0720007200
+BAYVIEW DR                                                  0720007200
+BECK RD                                                     0720007200
+BEECH ST                                                    0720007200
+BEECH ST                                                    0720307203
+BEECHWOOD DR                                                0720007200
+BENBERRY CT                                                 0720007200
+BENNETT JONES RD                                            0720007200
+BENT TREE LN                                                0720007200
+BETHLEHEM CEMETERY RD                                       0720007200
+BEVIVINO WAY                                                0720007200
+BILL THOMPSON RD                                            0720007200
+BIRCH DR                                                    0720007200
+BIRCH ST                                                    0720307203
+BIRDIE BANNISTER RD                                         0720007200
+BIRMINGHAM FERRY RD                                         0720007200
+BLACKBERRY DR                                               0720007200
+BLACKBIRD LN                                                0720207202
+BLUEBIRD HOLW                                               0720007200
+BLUEGRASS HTS                                               0720007200
+BLUEJAY DR                                                  0720007200
+BLUERIDGE RD                                                0720007200
+BLUERIDGE SPUR                                              0720007200
+BOAT RAMP NO6                                               0720007200
+BOAT RAMP RD                                                0720007200
+BOONE GRAY RD                                               0720007200
+BOXWOOD LN                                                  0720007200
+BOYD LANDING                                                0720007200
+BRANDON CHAPEL RD                                           0720007200
+BRANDON RD                                                  0720007200
+BRASHER RD                                                  0720007200
+BREEZY LOOP                                                 0720007200
+BROADBENT DR                                                0720307203
+BROADWAY                                                    0720207202
+BROWN SPRINGS RD                                            0720007200
+BRYSON RD                                                   0720007200
+BUCKBERRY TRL                                               0720007200
+BUDDY FRALICX RD                                            0720007200
+BURKS LN                                                    0720007200
+BUSINESS ROW                                                0720207202
+BUZZARD ROCK BOAT RAMP                                      0720007200
+BUZZARD ROCK RD                                             0720007200
+BUZZARD ROCK RESORT                                         0720007200
+CALHOUN RD                                                  0720007200
+CANARY DR                                                   0720007200
+CANNON RD                                                   0720007200
+CANTRELL RD                                                 0720007200
+CARDINAL DR                                                 0720207202
+CARLYLE LN                                                  0720007200
+CARTER DR                                                   0720307203
+CARTER DRIVE SPUR                                           0720307203
+CASEY DR                                                    0720007200
+CASH RD                                                     0720007200
+CECIL RD                                                    0720007200
+CEDAR COVE DR                                               0720007200
+CEDAR COVE LN                                               0720007200
+CEDAR CT                                                    0720207202
+CEDAR DR                                                    0720007200
+CEDAR ST                                                    0720207202
+CEDAR ST                                                    0720307203
+CEDAR STREET SPUR                                           0720307203
+CENTER RIDGE RD                                             0720007200
+CHAMPION HLS                                                0720007200
+CHANDLER RD                                                 0720007200
+CHELSEA RD                                                  0720007200
+CHEROKEE LOOP                                               0720007200
+CHERRY ST                                                   0720207202
+CHESTNUT OAK RD                                             0720007200
+CHESTNUT ST                                                 0720207202
+CHESTNUT ST                                                 0720307203
+CHICADEE DR                                                 0720007200
+CHICKEN RIDGE RD                                            0720007200
+CHURCH LN                                                   0720207202
+CINDER LN                                                   0720007200
+CIRCLE CREST DR                                             0720007200
+CLIFF DR                                                    0720007200
+CLIFF DR                                                    0720307203
+CLIFFORD DR                                                 0720007200
+CLIFT RD                                                    0720007200
+CLINT LN                                                    0720007200
+CLINT RD                                                    0720007200
+COLEMAN BRIDGE BOAT RAMP                                    0720007200
+COLEMAN DOLES RD                                            0720007200
+COMMERCE LANDING RD                                         0720007200
+COMMERCE ST                                                 0720207202
+COMMUNITY DR                                                0720207202
+CONFEDERATE RD                                              0720007200
+COOK RD                                                     0720007200
+COPPERSMITH BOAT RAMP                                       0720007200
+COPPERSMITH RIM                                             0720007200
+COPPERSMITH TRCE                                            0720007200
+CORINNE DR                                                  0720207202
+COTTON RD                                                   0720007200
+COUNTRY HILLS DR                                            0720007200
+CR1140J                                                     0720007200
+CRAVENS BAY RD                                              0720007200
+CROSS HILL RD                                               0720207202
+CROSSOVER                                                   0720207202
+CROSSROADS CHURCH RD                                        0720007200
+CRUCE RD                                                    0720007200
+CRUISE RD                                                   0720007200
+CUMBERLAND DR                                               0720007200
+CUMMINS LN                                                  0720007200
+CURVE RD                                                    0720007200
+CUSTER DR                                                   0720007200
+CYPRESS CT                                                  0720307203
+DAMON LN                                                    0720007200
+DANIEL BOONE RD                                             0720007200
+DANIELLE AVE                                                0720207202
+DAVIS DR                                                    0720007200
+DAWSON DR                                                   0720007200
+DAYS INN DR                                                 0720307203
+DEER RUN LOOP                                               0720007200
+DEFEW RD                                                    0720007200
+DEMUMBERS BAY LAKE ACCESS                                   0720007200
+DEPOT RD                                                    0720007200
+DEPOT RD                                                    0720207202
+DIAMOND SPRINGS CT                                          0720307203
+DIANNE RD                                                   0720007200
+DILLY CT                                                    0720007200
+DIXON LN                                                    0720007200
+DOGWOOD AVE                                                 0720207202
+DOGWOOD CT                                                  0720307203
+DOGWOOD DR                                                  0720007200
+DOOM CHAPEL RD                                              0720007200
+DORROH RD                                                   0720007200
+DOW RD                                                      0720007200
+DRIFTWOOD DR                                                0720007200
+DRISKILL RD                                                 0720007200
+DRISKILL RD                                                 0720307203
+DRY FORK CREEK RD                                           0720007200
+DRYDEN CREEK                                                0720007200
+DRYDENS CREEK BOAT RAMP                                     0720007200
+DULANEY RD                                                  0720007200
+DUNCAN BAY RD                                               0720007200
+DUNCAN BAY SPUR                                             0720007200
+DUSTIN RD                                                   0720007200
+DYCUS RD                                                    0720007200
+DYCUS SPUR                                                  0720007200
+DYER RD                                                     0720007200
+E CATALPA CIR                                               0720307203
+E CLOUGH DR                                                 0720307203
+E COBBLESTONE CT                                            0720007200
+E DALE AVE                                                  0720207202
+E DEVILLEZ RD                                               0720007200
+E DOGWOOD DR                                                0720307203
+E FAIRVIEW AVE                                              0720207202
+E RIDGE RD                                                  0720007200
+EAGLE POINT DR                                              0720007200
+EAGLE'S WAY                                                 0720007200
+EDDY CREEK                                                  0720007200
+EDDY CREEK MARINA RD                                        0720007200
+EDDYVILLE BOAT RAMP                                         0720207202
+EDEN BAY DR                                                 0720007200
+EDNA LN                                                     0720007200
+ELDER DR                                                    0720007200
+ELIZABETH DR                                                0720007200
+ELKHORN TAVERN RD                                           0720007200
+ELKHORN TAVERN RD                                           0720207202
+ELM GROVE RD                                                0720007200
+ELM LN                                                      0720007200
+ELM ST                                                      0720307203
+ELMO RD                                                     0720007200
+ELWOOD RD                                                   0720007200
+ENFIELD RD                                                  0720007200
+ESHLER LOOP                                                 0720007200
+ESTES RD                                                    0720007200
+EUREKA DAY USE AREA RD                                      0720007200
+EUREKA DAY USE AREA ROAD SPUR                               0720007200
+EUREKA RECREATION AREA                                      0720007200
+FAIRVIEW AVE                                                0720207202
+FALCON DR                                                   0720007200
+FERGUSON RD                                                 0720007200
+FINCH LN                                                    0720207202
+FIR ST                                                      0720307203
+FLOYD BELL RD                                               0720007200
+FOREST GLEN DR                                              0720007200
+FOREST LN                                                   0720007200
+FORSYTHE RD                                                 0720007200
+FOWLER RD                                                   0720007200
+FRANKLIN DR                                                 0720207202
+FRANKLIN ST                                                 0720207202
+FREDRICKS RD                                                0720007200
+FRIENDSHIP RD                                               0720007200
+FRIENDSHIP SPUR                                             0720007200
+FRONTAGE ROAD NO6                                           0720007200
+FRONTAGE ROAD NO7                                           0720007200
+FULTON BAY RD                                               0720007200
+FUNWAY DR                                                   0720207202
+GALLANT RD                                                  0720007200
+GAYLON DUNCAN RD                                            0720007200
+GEORGE THOMAS RD                                            0720007200
+GILL PIKE RD                                                0720007200
+GLEN CHAPEL RD                                              0720007200
+GOBBLERS KNOB RD                                            0720007200
+GOODMAN RD                                                  0720007200
+GRANDVIEW LN                                                0720007200
+GRAPEVIEW DR                                                0720007200
+GRAY FARM RD                                                0720007200
+GRAY VANQUESS CEMETERY RD                                   0720007200
+GREEN RD                                                    0720007200
+GREENBRIAR DR                                               0720007200
+GREGORY RD                                                  0720207202
+GRESHAM RD                                                  0720007200
+GREY HAWK RD                                                0720007200
+GUESS RD                                                    0720007200
+GUM ST                                                      0720307203
+HAMMONDS RD                                                 0720007200
+HAMPTON DR                                                  0720007200
+HARBOR DR                                                   0720007200
+HAWES RD                                                    0720007200
+HAWKS NEST LN                                               0720007200
+HAYDEN DR                                                   0720207202
+HAYDEN RD                                                   0720007200
+HEATH RD                                                    0720007200
+HEATHER RD                                                  0720007200
+HEMLOCK LN                                                  0720007200
+HERON CT                                                    0720007200
+HERON LN                                                    0720007200
+HICKORY HL                                                  0720007200
+HICKORY LN                                                  0720307203
+HIGHPOINT DR                                                0720007200
+HILDRETH CEMETERY RD                                        0720007200
+HILLCREST DR                                                0720007200
+HILLCREST RAMP                                              0720007200
+HILLMAN FERRY RD                                            0720007200
+HILLSIDE DR                                                 0720007200
+HILLSIDE TRL                                                0720007200
+HILLVIEW HEIGHTS RD                                         0720007200
+HILLWOOD ST                                                 0720207202
+HOLIDAY HILLS DR                                            0720007200
+HOLLY LN                                                    0720307203
+HOLT RD                                                     0720007200
+HOPEWELL RD                                                 0720007200
+HORSESHOE BEND                                              0720007200
+HOWARD RD                                                   0720007200
+HUDSON ST                                                   0720007200
+HUGH DR                                                     0720007200
+HUMMINGBIRD LN                                              0720007200
+HUNTER RD                                                   0720007200
+HYLAN DR                                                    0720007200
+I24 E                                                       0720007200
+I24 E                                                       0720207202
+I24 E EXIT40 CROSSOVER US62                                 0720007200
+I24 E EXIT40 OFF RAMP TO US62                               0720007200
+I24 E EXIT40 OFF RAMP TO US62 W                             0720007200
+I24 E EXIT40 ON RAMP FROM US62 E                            0720007200
+I24 E EXIT42 RAMP FROM I24 E                                0720207202
+I24 E EXIT42 RAMP TO WK9001 E                               0720207202
+I24 E EXIT45 CROSSOVER KY293                                0720007200
+I24 E EXIT45 OFF RAMP TO KY293                              0720007200
+I24 E EXIT45 ON RAMP FROM KY293                             0720007200
+I24 E WEIGH STATION36                                       0720007200
+I24 E WEIGH STATION36 OFF RAMP                              0720007200
+I24 E WEIGH STATION36 ON RAMP                               0720007200
+I24 TURN AROUND47                                           0720007200
+I24 TURN AROUND52                                           0720007200
+I24 W                                                       0720007200
+I24 W                                                       0720207202
+I24 W                                                       0720307203
+I24 W EXIT40 CROSSOVER US62                                 0720007200
+I24 W EXIT40 OFF RAMP TO US62 E                             0720007200
+I24 W EXIT40 ON RAMP FROM US62 W                            0720007200
+I24 W EXIT42 RAMP TO I24 E                                  0720207202
+I24 W EXIT42 RAMP TO WK9001 E                               0720207202
+I24 W EXIT45 CROSSOVER KY293                                0720007200
+I24 W EXIT45 OFF RAMP TO KY293                              0720007200
+I24 W EXIT45 ON RAMP FROM KY293                             0720007200
+I24 W REST AREA35 CAR LANE                                  0720007200
+I24 W REST AREA35 OFF RAMP                                  0720007200
+I24 W REST AREA35 ON RAMP                                   0720007200
+I24 W REST AREA35 TRUCK LANE                                0720007200
+I24 W WEIGH STATION36                                       0720007200
+I24 W WEIGH STATION36 OFF RAMP                              0720007200
+I24 W WEIGH STATION36 ON RAMP                               0720007200
+INDIAN HILLS DR                                             0720007200
+INDIAN HILLS TRL                                            0720007200
+INDUSTRIAL PARK RD                                          0720207202
+IRON HILL CIR                                               0720007200
+IRON HILL RD                                                0720007200
+IUKA FERRY RD                                               0720007200
+J C GARNER RD                                               0720007200
+J D DR                                                      0720007200
+JACK THOMASON RD                                            0720007200
+JACKS WAY                                                   0720007200
+JACKSON RD                                                  0720007200
+JARRETT LOOP                                                0720007200
+JENKINS RD                                                  0720007200
+JENKINS RD                                                  0720207202
+JENNIFER LN                                                 0720007200
+JESSE ST                                                    0720007200
+JOE PEEK RD                                                 0720007200
+KEEL RD                                                     0720007200
+KELLY RD                                                    0720007200
+KELSEY JOE LN                                               0720007200
+KENNEDY RD                                                  0720007200
+KENOAK DR                                                   0720207202
+KENTUCKY LAKE DR                                            0720007200
+KINGFISHER CT                                               0720007200
+KINGFISHER RD                                               0720007200
+KINGSRIDGE CT                                               0720007200
+KIPLING CIR N                                               0720007200
+KIPLING CIR S                                               0720007200
+KIRBY LN                                                    0720007200
+KNIGHT RD                                                   0720007200
+KNOB ST                                                     0720207202
+KUTTAWA LNDG                                                0720007200
+KUTTAWA SPRINGS CT                                          0720307203
+KUTTAWA SPRINGS RD                                          0720207202
+KUTTAWA SPRINGS RD                                          0720307203
+KUTTAWA SPRINGS SPUR                                        0720307203
+KY1055                                                      0720007200
+KY1055                                                      0720207202
+KY1097                                                      0720007200
+KY1113                                                      0720007200
+KY1271                                                      0720007200
+KY1272                                                      0720007200
+KY1943                                                      0720007200
+KY274                                                       0720007200
+KY293                                                       0720007200
+KY295                                                       0720007200
+KY295                                                       0720207202
+KY295                                                       0720307203
+KY3171                                                      0720007200
+KY3305                                                      0720007200
+KY3305                                                      0720207202
+KY373                                                       0720007200
+KY373                                                       0720207202
+KY373                                                       0720307203
+KY6012                                                      0720007200
+KY6018                                                      0720007200
+KY6060                                                      0720007200
+KY730                                                       0720007200
+KY730 E                                                     0720007200
+KY730 W                                                     0720007200
+KY730 W                                                     0720207202
+KY778                                                       0720007200
+KY810 N                                                     0720007200
+KY810 S                                                     0720007200
+KY818 S                                                     0720007200
+KY819                                                       0720007200
+KY903                                                       0720007200
+KY93                                                        0720007200
+KY93 N                                                      0720007200
+KY93 N                                                      0720307203
+KY93 S                                                      0720007200
+KY93 S                                                      0720207202
+KY93 S                                                      1110007200
+LADD RD                                                     0720007200
+LADY CEMETERY RD                                            0720007200
+LAGUS RD                                                    0720007200
+LAKE BARKLEY DR                                             0720007200
+LAKE BARKLEY DR                                             0720307203
+LAKE DR                                                     0720007200
+LAKE SCENE DR                                               0720207202
+LAKESHORE DR                                                0720007200
+LAKESHORE DR                                                0720207202
+LAKESHORE DR                                                0720307203
+LAKEVIEW DR                                                 0720007200
+LAKEVIEW DR                                                 0720207202
+LANE DR                                                     0720007200
+LAUREL AVE                                                  0720307203
+LAURENS WAY                                                 0720207202
+LAWWILL RD                                                  0720007200
+LAZY K LN                                                   0720007200
+LEE RD                                                      0720007200
+LEE S JONES PARK RD                                         0720207202
+LEEWARD CIR                                                 0720007200
+LEROY RD                                                    0720007200
+LESLEY LN                                                   0720207202
+LESLIE DUNNING DR                                           0720007200
+LIBERTY CHURCH RD                                           0720007200
+LIBERTY RD                                                  0720007200
+LINDEN AVE                                                  0720207202
+LISANBY RD                                                  0720007200
+LOCKHART RD                                                 0720007200
+LOCKHART RD                                                 0720307203
+LOCUST DR                                                   0720007200
+LOCUST ST                                                   0720307203
+LOG CABIN DR                                                0720007200
+LOOP DR                                                     0720007200
+LOOP RD                                                     0720007200
+LOUARD BELL RD                                              0720207202
+LOUISE CT                                                   0720007200
+LYON COUNTY PARK RD                                         0720007200
+MAGNOLIA CT                                                 0720307203
+MAGNOLIA DR                                                 0720307203
+MAGNOLIA ST                                                 0720207202
+MAIL CARRIER RD                                             0720007200
+MAIN ST                                                     0720207202
+MAJORS LOOP                                                 0720007200
+MALLARD DR                                                  0720007200
+MALLARD DR                                                  0720307203
+MAMIE PUGH RD                                               0720007200
+MAPLE LOOP                                                  0720007200
+MAPLE ST                                                    0720207202
+MARQUESS RD                                                 0720007200
+MARSHALL RD                                                 0720007200
+MARTINS CHAPEL RD                                           0720007200
+MARY BECK RD                                                0720007200
+MARY BLUE RD                                                0720007200
+MARY BLUE RD                                                0720307203
+MAYHUGH RD                                                  0720007200
+MCCOLLUM RD                                                 0720007200
+MCKINNEY RD                                                 0720007200
+MCNABB RD                                                   0720007200
+MEADOW RD                                                   0720207202
+MEADOWLARK LN                                               0720207202
+METHODIST LN                                                0720207202
+MILES RD                                                    0720007200
+MILL POND LN                                                0720007200
+MIMOSA DR                                                   0720007200
+MINERAL MOUND RD                                            0720207202
+MINT SPRING DR                                              0720307203
+MISTLETOE LN                                                0720007200
+MITCHELL RD                                                 0720007200
+MIX RD                                                      0720007200
+MOBILE DR                                                   0720007200
+MOLLOY RD                                                   0720007200
+MOON BAY DR                                                 0720007200
+MOON BAY DR                                                 0720307203
+MORELAND RD                                                 0720007200
+MOSE LANDERS RD                                             0720207202
+MOTLEY CIR                                                  0720007200
+MOUNTAIN VIEW DR                                            0720007200
+MT PLEASANT RD                                              0720007200
+MT ZION RD                                                  0720007200
+MULBERRY ST                                                 0720207202
+MURPHYS WAY                                                 0720307203
+MY REFUGE RD                                                0720007200
+N ASH ST                                                    0720307203
+N KUTTAWA LNDG                                              0720007200
+N WELLS RD                                                  0720007200
+N WILL ELI RD                                               0720007200
+N WILLOW WAY                                                0720307203
+N WORTHINGTON WAY                                           0720007200
+NEW BETHEL RD                                               0720007200
+NEW CIRCLE DR S                                             0720007200
+NEW CIRCLE RD N                                             0720007200
+NEWBY CEMETERY RD                                           0720007200
+NEWMAN DR                                                   0720207202
+NICKELL BRANCH LAKE ACCESS RD                               0720007200
+NIDA RD                                                     0720007200
+NOBLE LN                                                    0720207202
+NOBLE ORR RD                                                0720307203
+NULL'S DR                                                   0720007200
+OAK GROVE LOOP                                              0720007200
+OAK ST                                                      0720207202
+OAK TREE CT                                                 0720307203
+OAK VIEW LN                                                 0720207202
+ODOM RD                                                     0720207202
+OLD FERRY RD E                                              0720007200
+OLD FERRY RD W                                              0720007200
+OLD GOOSE PEN RD                                            0720007200
+OLD KUTTAWA RD                                              0720007200
+OLD KUTTAWA RD                                              0720307203
+OLD KY 730                                                  0720207202
+OLD KY 818                                                  0720007200
+OLD US 62                                                   0720307203
+OLIVE ST                                                    0720307203
+OLIVER CEMETERY LN                                          0720007200
+OLIVER CEMETERY RD                                          0720007200
+ORIOLE DR                                                   0720007200
+ORMAN RD                                                    0720007200
+OSAGE CT                                                    0720307203
+OUTLET AVE                                                  0720207202
+OUTLET AVENUE EXT                                           0720207202
+OVERLOOK CONNECTOR                                          0720007200
+OVERLOOK DR                                                 0720007200
+OVERLOOK DR                                                 0720207202
+OWEN RD                                                     0720007200
+PALISADES DR                                                0720007200
+PANTHER CREEK RD                                            0720007200
+PARADISE HLS                                                0720007200
+PARK AVE                                                    0720207202
+PARK LN                                                     0720207202
+PARKERSVILLE RD                                             0720007200
+PARKVIEW DR                                                 0720007200
+PARRENT CT                                                  0720007200
+PARRISH RD                                                  0720007200
+PARRISH SPUR                                                0720007200
+PAUL COMBS DR                                               0720007200
+PAULINE DR                                                  0720007200
+PEACHTREE LN                                                0720207202
+PEBBLE CREEK DR                                             0720207202
+PEBBLE DR                                                   0720007200
+PEEK CEMETERY RD                                            0720007200
+PENINSULA DR                                                0720007200
+PERRY SPRINGS RD                                            0720007200
+PIERCE LN                                                   0720007200
+PINE CT                                                     0720207202
+PINE ST                                                     0720207202
+PINE ST                                                     0720307203
+PINNACLE LN                                                 0720007200
+PISGAH PT                                                   0720007200
+PLEASANT VALLEY RD                                          0720007200
+PONDEROSA DR                                                0720007200
+POPLAR CREEK BOAT RAMP                                      0720007200
+POPLAR CREEK CONNECTOR                                      0720007200
+POPLAR CREEK RD                                             0720007200
+POPLAR CREEK RD                                             0720307203
+POPLAR ST                                                   0720307203
+PORT AUTHORITY RD                                           0720207202
+PRIMROSE LN                                                 0720007200
+PRINCE DR                                                   0720007200
+PRIVATE ROAD NO1015                                         0720007200
+PRIVATE ROAD NO1108                                         0720007200
+PRIVATE ROAD NO1121                                         0720007200
+PRIVATE ROAD NO1125                                         0720007200
+PROVIDENCE RD                                               0720007200
+R AND P LN                                                  0720007200
+RACE TRACK HOLLOW RD                                        0720007200
+RAILROAD JUNCTION                                           0720007200
+RAINTREE DR                                                 0720007200
+RALPH BEATTY RD                                             0720007200
+RANEY RD                                                    0720007200
+RAVEN CT                                                    0720007200
+RED ROCK RD                                                 0720007200
+REDBUD CT                                                   0720307203
+REDBUD DR                                                   0720007200
+REDBUD DR                                                   0720307203
+REED RD                                                     0720007200
+RENEE DR                                                    0720207202
+RICE RD                                                     0720007200
+RICHMOND DR                                                 0720007200
+RIDGEWOOD RD                                                0720007200
+RIDGEWOOD SPUR                                              0720007200
+RIVER BEND RD                                               0720007200
+RIVER BEND ROAD SPUR                                        0720007200
+RIVERWOOD BLVD                                              0720007200
+ROBERTSON RD                                                0720007200
+ROBIN LN                                                    0720007200
+ROCK BOWL SPRINGS                                           0720307203
+ROLLING MILL RD                                             0720007200
+ROSE LN                                                     0720007200
+ROY HARRIS RD                                               0720007200
+RUBE ADAMS LN                                               0720007200
+RUCKER LN                                                   0720307203
+RUE DU LAC                                                  0720007200
+RUSTY RIDGE RD                                              0720007200
+S ASH ST                                                    0720307203
+S KUTTAWA LNDG                                              0720007200
+S M MARTIN DR                                               0720207202
+S WELLS RD                                                  0720007200
+S WILL ELI RD                                               0720007200
+S WILLOW WAY                                                0720307203
+S WORTHINGTON WAY                                           0720007200
+SADLER RD                                                   0720007200
+SARA LN                                                     0720007200
+SARAH LN                                                    0720207202
+SARATOGA HTS                                                0720007200
+SARDIS RD                                                   0720007200
+SAWMILL LN                                                  0720007200
+SCOTT RD                                                    0720007200
+SELLS RD                                                    0720007200
+SERVICE RD                                                  0720007200
+SEWER PLANT RD                                              0720207202
+SEWER PLANT RD                                              0720307203
+SHELBY LN                                                   0720007200
+SHILOH CT                                                   0720007200
+SHIRLEY LN                                                  0720007200
+SILVER TRL                                                  0720007200
+SKYLINE RD                                                  0720007200
+SLOVER DR                                                   0720007200
+SMITH BAY RD                                                0720007200
+SMITH CEMETERY RD                                           0720007200
+SMITH RD                                                    0720007200
+SODEN HILLS RD                                              0720207202
+SPARROW CT                                                  0720007200
+SPRING HILL DR                                              0720007200
+SPRING HL                                                   0720007200
+SPRING ST                                                   0720207202
+SPRINGS ESTATE DR                                           0720007200
+SPRINGS RD                                                  0720007200
+ST STEVENS CHURCH RD                                        0720007200
+STANLEY FAUGHN RD                                           0720007200
+STAR CAMP LOOP                                              0720007200
+STARLIGHT DR                                                0720007200
+STEINBAUGH CEMETERY RD                                      0720007200
+STEPHENS RD                                                 0720007200
+STETSON DR                                                  0720007200
+SUMAC DR                                                    0720007200
+SUMMER DR                                                   0720007200
+SUMMER LN                                                   0720307203
+SUNNYSIDE LOOP                                              0720007200
+SUWANEE HL                                                  0720007200
+SYCAMORE DR                                                 0720007200
+SYCAMORE ST                                                 0720207202
+TANNER AVE                                                  0720207202
+TARRYON TOO DR                                              0720307203
+TED EMBRY RD                                                0720007200
+TERRACE PL                                                  0720207202
+THE TRACE                                                   0720007200
+THRUSH LN                                                   0720007200
+TIDWELL RD                                                  0720007200
+TIDWELL ROAD SPUR                                           0720007200
+TIMBER LAKE DR                                              0720007200
+TIMBER LN                                                   0720007200
+TINSLEY CREEK RD                                            0720007200
+TITUS RD                                                    0720007200
+TOM PEEK RD                                                 0720007200
+TRADE AVE                                                   0720207202
+TRAILS END                                                  0720007200
+TRAVIS RD                                                   0720007200
+TREADWAY LN                                                 0720007200
+TRINITY LN                                                  0720007200
+TWIN LAKES BOAT RAMP RD                                     0720007200
+TWIN LAKES CAMPGROUND RD                                    0720007200
+TWIN LAKES CAMPGROUND ROAD SPUR                             0720007200
+TYLENE RD                                                   0720007200
+US62                                                        0720007200
+US62                                                        0720307203
+US62 E                                                      0720007200
+US62 E                                                      0720207202
+US62 W                                                      0720007200
+US62 W                                                      0720207202
+US62 W                                                      0720307203
+US641 N                                                     0720007200
+US641 N                                                     0720207202
+VALLEY DR                                                   0720007200
+VIA LEON                                                    0720007200
+VISTA DR                                                    0720307203
+VISTA RIDGE DR                                              0720307203
+W CATALPA ST                                                0720307203
+W CLOUGH DR                                                 0720307203
+W COBBLESTONE CT                                            0720007200
+W DALE AVE                                                  0720207202
+W DEVILLEZ RD                                               0720007200
+W DOGWOOD DR                                                0720307203
+W MAIN ST                                                   0720207202
+W RIDGE RD                                                  0720007200
+WADLINGTON RD                                               0720007200
+WALKER RD                                                   0720007200
+WALL ST                                                     0720007200
+WALNUT CT                                                   0720207202
+WALNUT DR                                                   0720307203
+WALTERS RD                                                  0720007200
+WARBLER CT                                                  0720007200
+WASCHICK RD                                                 0720007200
+WASHINGTON WAY                                              0720007200
+WATER ST                                                    0720207202
+WATER TOWER ACESS RD                                        0720007200
+WATERFORD RD                                                0720007200
+WATERS RD                                                   0720007200
+WELLINGSTON WAY                                             0720007200
+WELLSLEY WAY                                                0720007200
+WENDY DR                                                    0720207202
+WENTWORTH WAY                                               0720007200
+WESTCHESTER WAY                                             0720007200
+WESTMINISTER WAY                                            0720007200
+WESTON RD                                                   0720007200
+WEYMOUTH WAY                                                0720007200
+WHEATON WAY                                                 0720007200
+WHIPPERWILL DR                                              0720007200
+WHISPERING HLS                                              0720007200
+WHITE DORROH RD                                             0720007200
+WHITE OAK HL                                                0720007200
+WHITLEY WAY                                                 0720007200
+WILD ROSE SPRING                                            0720307203
+WILDERNESS RD                                               0720007200
+WILEY RD                                                    0720007200
+WILLANCO DR                                                 0720007200
+WILLETT RD                                                  0720007200
+WILLIAMS RD                                                 0720007200
+WILLIS LN                                                   0720007200
+WILLOW WAY CIR                                              0720307203
+WILLOW WAY CT                                               0720307203
+WINCHESTER CT                                               0720007200
+WINDWARD LN                                                 0720007200
+WINTER CT                                                   0720307203
+WINTERS RD                                                  0720007200
+WK9001 E                                                    0720007200
+WK9001 E                                                    0720207202
+WK9001 E EXIT4 CROSSOVER US62                               0720207202
+WK9001 E EXIT4 OFF RAMP TO US62                             0720007200
+WK9001 E EXIT4 OFF RAMP TO US62 E                           0720007200
+WK9001 E EXIT4 OFF RAMP TO US62 E                           0720207202
+WK9001 E EXIT4 ON RAMP FROM US62                            0720007200
+WK9001 E EXIT4 ON RAMP FROM US62 W                          0720007200
+WK9001 TURN AROUND4                                         0720007200
+WK9001 TURN AROUND6                                         0720007200
+WK9001 W                                                    0720007200
+WK9001 W                                                    0720207202
+WK9001 W EXIT4 CROSSOVER US62                               0720207202
+WK9001 W EXIT4 OFF RAMP TO US62                             0720007200
+WK9001 W EXIT4 OFF RAMP TO US62 W                           0720007200
+WK9001 W EXIT4 OFF RAMP TO US62 W                           0720207202
+WK9001 W EXIT4 ON RAMP FROM US62                            0720007200
+WK9001 W EXIT4 ON RAMP FROM US62 E                          0720207202
+WK9001 W EXIT42 RAMP TO I24 E                               0720207202
+WOOD LAWN RD                                                0720207202
+WOODALL RD                                                  0720007200
+WOODLANE CIR                                                0720007200
+WOODRIDGE DR                                                0720007200
+WOODROW ST                                                  0720207202
+WOODSON CHAPEL RD                                           0720007200
+WOODSON RD                                                  0720007200
+WREN LN                                                     0720207202
+WYCLIFF WAY                                                 0720007200
+WYNN RD                                                     0720007200
+YOPP RD                                                     0720007200
+ZANE CT                                                     0720007200

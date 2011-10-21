@@ -1,0 +1,688 @@
+1ST AVE                                                     1170211702
+1ST ST                                                      1170311703
+2ND AVE                                                     1170211702
+2ND CROSS ST                                                1170911709
+2ND ST                                                      1170311703
+3RD AVE                                                     1170211702
+ADAM LN                                                     1170311703
+ADAMS ST                                                    1170211702
+AIRLINE RD                                                  1170011300
+AIRPORT RD                                                  1170011700
+AIRPORT RD                                                  1170211702
+ALDRIDGE LN                                                 1170011700
+ALLEY                                                       1170411704
+ALLEY NO1                                                   1170411704
+ALLEY ST                                                    1170211702
+ALLEY ST                                                    1170911709
+ANDY SISK RD                                                1170011700
+ASHBY LN                                                    1170011700
+ASHBY ST                                                    1170911709
+ASHER RD                                                    1170011700
+ASHLAND CHURCH RD                                           1170011700
+AUSTIN RD                                                   1170011700
+B C LANGLEY RD                                              1170011700
+B D LUCK RD                                                 1170011700
+BABE RAKESTRAW RD                                           1170011700
+BAKER AVE                                                   1170011700
+BAKER LN                                                    1170211702
+BAKER ST                                                    1170211702
+BALD KNOB HILL RD                                           1170011700
+BALDWIN FORD RD                                             1170011700
+BALDWIN FORD SPUR RD                                        1170011700
+BANK ALY                                                    1170311703
+BANK ST                                                     1170211702
+BAPTIST HILL RD                                             1170011700
+BAPTIST HILL RD                                             1170211702
+BARBOUR ST                                                  1170211702
+BARNES ST                                                   1170211702
+BARRETT ST                                                  1170211702
+BECKLEY OSBORNE RD                                          1170011700
+BELLVIEW AVE                                                1170411704
+BELLVILLE RD                                                1170011700
+BELLVILLE RD                                                1170211702
+BENJAMIN TER                                                1170211702
+BILL DORRIS RD                                              1170011700
+BISHOP ST                                                   1170211702
+BLACKBURN ST                                                1170011700
+BLACKBURN ST                                                1170311703
+BLACKFORD FIRST ST                                          1170011700
+BLACKFORD FOURTH ST                                         1170011700
+BLACKFORD SECOND ST                                         1170011700
+BLACKFORD SULLIVAN RD                                       1170011700
+BLAKE ST                                                    1170211702
+BLANCHE MCGILL RD                                           1170011700
+BLANKENSHIP LN                                              1170011700
+BLUFF ST                                                    1170211702
+BOB HATLEY RD                                               1170011700
+BOB ROMAN RD                                                1170411704
+BOGGESS ST                                                  1170411704
+BOURLAND AVE                                                1170111701
+BOYD JACKSON RD                                             1170011700
+BRADLEY ST                                                  1170211702
+BRANSON RD                                                  1170011700
+BRANTLEY LN                                                 1170011700
+BRETON RD                                                   1170011700
+BRIDWELL RD                                                 1170011700
+BROOKS ST                                                   1170011700
+BROWN LN                                                    1170011700
+BROWN MINE RD                                               1170011700
+BROWN MINE SPUR                                             1170011700
+BUCHANAN RD                                                 1170011700
+BUD ASHER MOONEY RD                                         1170011700
+BURNT MILL RD                                               1170011700
+BYRUM ST                                                    1170211702
+CALDWELL LN                                                 1170011700
+CAM WILLIAMS RD                                             1170011700
+CAMP MINE RD                                                1170011700
+CARHARTT RD                                                 1170011700
+CARL PRICE RD                                               1170011700
+CARLISLE RD                                                 1170011700
+CARLISLE RD W                                               1170011700
+CARNAL ST                                                   1170911709
+CARNEL BROOKS RD                                            1170011700
+CARROLL SUGG RD                                             1170011700
+CARTER LN                                                   1170011700
+CARVER RD                                                   1170011700
+CARVILLE CLARK RD                                           1170011700
+CATESVILLE PROVIDENCE RD                                    1170011700
+CAVANAUGH RD                                                1170011700
+CEDAR HILL RD                                               1170011700
+CEDAR ST                                                    1170211702
+CEMETERY ST                                                 1170011700
+CEMETERY ST                                                 1170211702
+CEMETERY STREET CUTBACK                                     1170211702
+CENTER ST                                                   1170211702
+CENTERIDGE DR                                               1170211702
+CHALYBEATE CEMETERY RD                                      1170011700
+CHARLES BUCHANAN LN                                         1170011700
+CHARLES CROWLEY RD                                          1170011700
+CHARLES CROWLEY RD W                                        1170011700
+CHESTNUT ST                                                 1170211702
+CHIGGER HILL RD                                             1170011700
+CHOICE CLARK RD                                             1170011700
+CHOICE CLARK RD                                             1170111701
+CHURCH ST                                                   1170211702
+CHURCH ST                                                   1170911709
+CLARK ST                                                    1170211702
+CLARK ST                                                    1170311703
+CLAY ST                                                     1170611706
+CLAYTON RD                                                  1170011700
+CLETUS RICH RD                                              1170011700
+CLINE NELSON RD                                             1170011700
+COBB DR                                                     1170211702
+COFFMAN ST                                                  1170911709
+COLE RD                                                     1170011700
+COLEMAN AVE                                                 1170211702
+COLLEGE AVE                                                 1170211702
+COLLEGE ST                                                  1170311703
+COLLINS RD                                                  1170011700
+COOK ST                                                     1170311703
+CORINTH CHURCH RD                                           1170011700
+CORY RD                                                     1170011700
+COTTINGHAM PRATT RD                                         1170011700
+COTTINGHAM PRATT RD S                                       1170011700
+COUNTRY CLUB RD                                             1170211702
+COUNTRY MEAD                                                1170211702
+COUNTRY MEADOWS DR                                          1170211702
+COUNTRYSIDE DR                                              1170011700
+CRABORCHARD CREEK RD                                        1170011700
+CRAWFORD BRANTLEY RD                                        1170011700
+CROWDER RD                                                  1170011700
+DAB BROWN RD                                                1170011700
+DAISY DR                                                    1170011700
+DAISY SHELTON RD                                            1170011700
+DAVE BROWN RD                                               1170011700
+DAVE KELLY RD                                               1170011700
+DAVE MILLER RD                                              1170011700
+DAVIS RD                                                    1170011700
+DENTON RD                                                   1170011700
+DIAMOND AVE                                                 1170011700
+DIAMOND GREEN GROVE RD                                      1170011700
+DIANE RD N                                                  1170011700
+DIANE RD S                                                  1170011700
+DIRT DR                                                     1170011700
+DIRT DRIVE SPUR                                             1170011700
+DON MILLER RD                                               1170011700
+DONAHOO RD                                                  1170011700
+DONAHOO RD                                                  1170411704
+DONAN DR                                                    1170211702
+DORRIS LINK RD                                              1170011700
+DORRIS MELTON RD                                            1170011700
+DOVER LN                                                    1170411704
+DRIVER BROTHERS RD                                          1170011700
+DUNCAN LN                                                   1170211702
+E 2ND ST                                                    1170911709
+E BARKLEY ST                                                1170411704
+E BROADWAY ST                                               1170611706
+E CULLEN ST                                                 1170611706
+E CUMBERLAND ST                                             1170211702
+E DIXON ST                                                  1170411704
+E ELM ST                                                    1170011700
+E ELM ST                                                    1170311703
+E HALL ST                                                   1170411704
+E HAMMOCK ST                                                1170011700
+E HAMMOCK ST                                                1170611706
+E HILL ST                                                   1170411704
+E JEFFERSON ST                                              1170411704
+E MADISON ST                                                1170411704
+E MAIN ST                                                   1170211702
+E RAILROAD ST                                               1170311703
+E SHORT ST                                                  1170311703
+E VICK ST                                                   1170311703
+E WASHINGTON ST                                             1170411704
+E WEBSTER ST                                                1170411704
+EAKINS ST                                                   1170411704
+EARL ST                                                     1170211702
+EASTWOOD FERRY RD                                           1170011700
+EB9004 N                                                    1170011700
+EB9004 N EXIT63 CROSSOVER KY56                              1170011700
+EB9004 N EXIT63 OFF RAMP TO KY56                            1170011700
+EB9004 N EXIT63 OFF RAMP TO KY56 E                          1170011700
+EB9004 N EXIT63 OFF RAMP TO KY56 W                          1170011700
+EB9004 N EXIT63 ON RAMP FROM KY56                           1170011700
+EB9004 N EXIT63 ON RAMP FROM KY56 E                         1170011700
+EB9004 N EXIT63 ON RAMP FROM KY56 W                         1170011700
+EB9004 S                                                    1170011700
+EB9004 S EXIT63 CROSSOVER KY56                              1170011700
+EB9004 S EXIT63 OFF RAMP TO KY56                            1170011700
+EB9004 S EXIT63 OFF RAMP TO KY56 E                          1170011700
+EB9004 S EXIT63 OFF RAMP TO KY56 W                          1170011700
+EB9004 S EXIT63 ON RAMP FROM KY56                           1170011700
+EB9004 S EXIT63 ON RAMP FROM KY56 E                         1170011700
+EB9004 S EXIT63 ON RAMP FROM KY56 W                         1170011700
+ELDER LN                                                    1170211702
+ELLIS ST                                                    1170211702
+ESSELL MITCHELL RD                                          1170011700
+ESSELL TOWNSEND RD                                          1170011700
+EVERGREEN LN                                                1170211702
+EVERGREEN MOBILE HOME A                                     1170011700
+EVERGREEN MOBILE HOME B                                     1170011700
+EWING PL                                                    1170211702
+F ROGERS LN                                                 1170011700
+FAIRMONT MINE RD                                            1170011700
+FAIRWAY ACRES                                               1170211702
+FERGUSON ST                                                 1170211702
+FERRY ST                                                    1170011700
+FISHTRAP DERBY MINE RD                                      1170011700
+FIVE MINE RD                                                1170011700
+FLETCHER DR                                                 1170011700
+FLOYD RD                                                    1170011700
+FRANK BENSON RD                                             1170011700
+FRANK BROGAN RD                                             1170011700
+FRANKLIN AVE                                                1170111701
+FRANKLIN DR                                                 1170311703
+FRED EASTWOOD RD                                            1170411704
+FREE UNION TILDEN RD                                        1170011700
+FRONTAGE RD                                                 1170011700
+FUQUAY AVE                                                  1170111701
+G J LN                                                      1170011700
+GARDNER LN                                                  1170011700
+GARDNER SAWMILL RD                                          1170011700
+GARDNER SAWMILL RD                                          1170111701
+GASS ST                                                     1170011700
+GENE SHELTON RD                                             1170011700
+GEORGE OAKLEY RD                                            1170011700
+GIBSON RD                                                   1170011700
+GISH RD                                                     1170011700
+GIVENS RD                                                   1170011700
+GIVENS ST                                                   1170211702
+GOOCH JONES RD                                              1170011700
+GOWER RD                                                    1170011700
+GRANNY HILL RD                                              1170011700
+GRAVEL PIT RD                                               1170011700
+GREEN RD                                                    1170011700
+GREENBRIAR APARTMENTS                                       1170211702
+GREG HUDSON DR                                              1170211702
+GRIGGS SPRINGER RD                                          1170011700
+GROVE RD                                                    1170011700
+GROVE ST                                                    1170311703
+GULF ST                                                     1170211702
+GUY CLARK RD                                                1170011700
+HALL ST                                                     1170011700
+HALL ST                                                     1170311703
+HAMMOCK RD                                                  1170011700
+HARMON ST                                                   1170211702
+HARRIS LN                                                   1170211702
+HARRY ASHBY RD                                              1170011700
+HEARIN BORDLEY RD                                           1170011700
+HEARIN ST                                                   1170311703
+HENRY DR                                                    1170311703
+HENRY MITCHELL RD                                           1170011700
+HENRY PIGMAN RD                                             1170011700
+HENRY RD                                                    1170011700
+HESTER WINSTEAD RD                                          1170011700
+HICKORY ST                                                  1170211702
+HICKS RD                                                    1170011700
+HIGHLAND AVE                                                1170211702
+HIGHWATER RD                                                1170011700
+HILLVIEW RD                                                 1170011700
+HOBART GARDNER RD                                           1170011700
+HOBGOOD CEMETARY RD                                         1170011700
+HOKET NEBO RD                                               1170011700
+HOLEMAN RD                                                  1170011700
+HOMER BROWN RD                                              1170011700
+HONEYSUCKLE LN                                              1170011700
+HOPPY LIGHT RD                                              1170011700
+HUDSON LN                                                   1170011700
+HUGH DAVIS RD                                               1170011700
+IMPERIAL APARTMENTS                                         1170211702
+IMPERIAL APARTMENTS LEFT DR                                 1170211702
+IMPERIAL APARTMENTS RIGHT DR                                1170211702
+J H WELDON RD                                               1170011700
+J R HALL RD                                                 1170011700
+J R HEAD RD                                                 1170011700
+J Z SHELTON RD                                              1170011700
+JACK ALLEN RD                                               1170011700
+JACKSON ST                                                  1170411704
+JAMES ASHBY RD                                              1170011700
+JEFFERSON ST                                                1170211702
+JEN LYNN RD                                                 1170011700
+JENNETTA CT                                                 1170211702
+JESS WHITE RD                                               1170011700
+JIM LEWIS RD                                                1170011700
+JIM VILLINES RD                                             1170011700
+JIM WILSON RD                                               1170011700
+JOBE RD                                                     1170011700
+JOHN DYE ST                                                 1170011700
+JOHN FRANKLIN RD                                            1170011700
+JOHN ROACH RD                                               1170011700
+JONES RD                                                    1170011700
+JR LN                                                       1170011700
+JUSTICE LN                                                  1170011700
+KENTUCKY AVE                                                1170011700
+KENTUCKY AVE                                                1170211702
+KENTUCKY AVE                                                1170311703
+KNIGHT RD                                                   1170011700
+KNOBLICK CREEK RD                                           1170011700
+KY1063                                                      1170011700
+KY1069                                                      1170011700
+KY109 N                                                     1170011700
+KY109 N                                                     1170311703
+KY109 N                                                     1170611706
+KY109 S                                                     1170011700
+KY109 S                                                     1170311703
+KY1191                                                      1170011700
+KY120 E                                                     1170011700
+KY120 E                                                     1170911709
+KY120 W                                                     1170011700
+KY132                                                       1170011700
+KY132 E                                                     1170011700
+KY132 E                                                     1170111701
+KY132 E                                                     1170411704
+KY132 W                                                     1170011700
+KY132 W                                                     1170111701
+KY132 W                                                     1170311703
+KY1340                                                      1170011700
+KY1340                                                      1170111701
+KY138                                                       1170011700
+KY138                                                       1170911709
+KY1405                                                      1170011700
+KY143                                                       1170011700
+KY143 N                                                     1170011700
+KY143 S                                                     1170011700
+KY145                                                       1170011700
+KY147                                                       1170011700
+KY1525                                                      1170011700
+KY1672                                                      1170011700
+KY1835                                                      1170011700
+KY2087                                                      1170111701
+KY2089                                                      1170011700
+KY270                                                       1170011700
+KY270 W                                                     1170011700
+KY283                                                       1170011700
+KY2836                                                      1170011700
+KY2837                                                      1170011700
+KY2837                                                      1170611706
+KY2838                                                      1170011700
+KY2839                                                      1170011700
+KY293 N                                                     1170011700
+KY293 S                                                     1170011700
+KY293 S                                                     1170211702
+KY3167                                                      1170011700
+KY370 E                                                     1170011700
+KY370 E                                                     1170411704
+KY493                                                       1170011700
+KY494                                                       1170011700
+KY56                                                        1170011700
+KY56                                                        1170411704
+KY56 E                                                      1170011700
+KY56 E                                                      1170411704
+KY56 W                                                      1170011700
+KY630                                                       1170011700
+KY670                                                       1170011700
+KY670                                                       1170211702
+KY814                                                       1170211702
+KY857                                                       1170011700
+KY873                                                       1170011700
+KY874                                                       1170011700
+KY983                                                       1170011700
+KY983                                                       1170111701
+L AND N RAILROAD BED                                        1170311703
+LAKE ST                                                     1170211702
+LAKEVIEW DR                                                 1170111701
+LAKEVIEW ST                                                 1170211702
+LANGLEY AVE                                                 1170211702
+LANHAM ST                                                   1170611706
+LARK HANOR RD                                               1170011700
+LEEPER LN                                                   1170011700
+LEEPER LN                                                   1170211702
+LEO HUST RD                                                 1170011700
+LETCHER MELTON RD                                           1170011700
+LEXINGTON AVE                                               1170211702
+LEXINGTON ST                                                1170611706
+LINCOLN ST                                                  1170411704
+LINK RD                                                     1170011700
+LISMAN MT MYRIA RD                                          1170011700
+LISMAN ST                                                   1170011700
+LISMAN ST                                                   1170311703
+LITTLE ZION TILDEN RD                                       1170011700
+LOCUST ST                                                   1170211702
+LOGAN ST                                                    1170211702
+LOWER ST                                                    1170211702
+LUCAS RD                                                    1170011700
+LUTONTOWN LISMAN RD                                         1170011700
+LYCE DUNCAN RD                                              1170011700
+LYDIA ST                                                    1170111701
+MADISON ST                                                  1170211702
+MAIN CROSS ST                                               1170911709
+MAIN ST                                                     1170411704
+MAPLE ST                                                    1170211702
+MARION TOWE RD                                              1170011700
+MARKS POOLE RD                                              1170011700
+MARLIN ST                                                   1170211702
+MARTIN LUTHER KING JR BLVD                                  1170211702
+MCCOY RD                                                    1170011700
+MCDONALD RD                                                 1170011700
+MCELROY DR                                                  1170211702
+MCGILL RD                                                   1170011700
+MELTON RD                                                   1170011700
+MIDDLE ST                                                   1170211702
+MILL ST                                                     1170411704
+MINOR RD                                                    1170011700
+MITCHELL ST                                                 1170211702
+MONROE GIBSON RD                                            1170011700
+MONTGOMERY ST                                               1170011700
+MONTGOMERY ST                                               1170211702
+MONTGOMERY ST                                               1170611706
+MOONEY SCHOOLHOUSE RD                                       1170011700
+MOONEY SCHOOLHOUSE WEST RD                                  1170011700
+MORGAN ST                                                   1170011700
+MORGAN ST                                                   1170211702
+MT GILEAD MOUNT PLEASANT RD                                 1170011700
+MT GILEAD MT PLEASANT RD                                    1170011700
+MT LEBANON RD                                               1170011700
+MULBERRY ST                                                 1170211702
+N BROADWAY ST                                               1170211702
+N COLLEGE ST                                                1170111701
+N COVINGTON AVE                                             1170211702
+N FINLEY ST                                                 1170011700
+N FINLEY ST                                                 1170211702
+N FOXWELL ST                                                1170211702
+N FREEMONT AVE                                              1170211702
+N GREEN ST                                                  1170211702
+N HENDERSON ST                                              1170411704
+N HUGHES ST                                                 1170211702
+N POPLAR ST                                                 1170211702
+N RAILROAD ST                                               1170411704
+N ROSEMONT ST                                               1170211702
+N SELLERS ST                                                1170411704
+N SHORT ST                                                  1170411704
+N SIMPSON ST                                                1170211702
+N SPRING ST                                                 1170411704
+N STATE ST                                                  1170411704
+N VAUGHN ST                                                 1170011700
+N VAUGHN ST                                                 1170211702
+N VAUGHN ST                                                 1170311703
+N WALKER ST                                                 1170411704
+N WILLOW ST                                                 1170211702
+NALL ST                                                     1170311703
+NANCE JACKSON RD                                            1170011700
+NAT TAYLOR RD                                               1170011700
+NEELY TOWNSEND RD                                           1170011700
+NELSON ST                                                   1170311703
+NEW CEDAR GROVE CHURCH RD                                   1170011700
+NEW HOPE RD                                                 1170011700
+NEW HOPEWELL CHURCH RD                                      1170011700
+NEW STEAMPORT RD                                            1170011700
+NEW STEAMPORT SPUR                                          1170011700
+NISBET ST                                                   1170211702
+NOBLE ALY                                                   1170211702
+NOBLE CROWLEY RD                                            1170011700
+O ROYSTER RD                                                1170011700
+OAK GROVE CHURCH RD                                         1170011700
+OAK HEIGHTS JONESSTAND RD                                   1170011700
+OAK HILL RD                                                 1170011700
+OAK ST                                                      1170211702
+OAKLAWN DR                                                  1170211702
+OAKLEY ST                                                   1170211702
+OGDEN ST                                                    1170911709
+OLD BEECH GROVE RD                                          1170011700
+OLD CATESVILLE RD                                           1170011700
+OLD CLIFTY RD                                               1170011700
+OLD DIXON SLAUGHTERS RD                                     1170011700
+OLD HENDERSON RD                                            1170211702
+OLD MADISONVILLE RD                                         1170211702
+OLD MORGANFIELD DIXON RD                                    1170011700
+OLD PROVIDENCE CLAY RD                                      1170011700
+OLD STANHOPE RD                                             1170011700
+OLD STEAMPORT RD                                            1170411704
+OLD SULLIVAN RD                                             1170011700
+OLIVE ST                                                    1170211702
+ORTIZ RD                                                    1170011700
+ORVILLE NALL RD                                             1170011700
+OSCAR TODD RD                                               1170011700
+OVERBY LN                                                   1170011700
+OVERFIELD RD                                                1170011700
+PARK ST                                                     1170311703
+PARKER NANCE RD                                             1170011700
+PARKER RD                                                   1170011700
+PARKWAY THREE RD                                            1170011700
+PARKWAY TWO RD                                              1170011700
+PARRISH RD                                                  1170011700
+PARRISH RD                                                  1170111701
+PAUL SHELTON RD                                             1170011700
+PAYNE AVE                                                   1170211702
+PERRY ST                                                    1170611706
+PETE GIBSON RD                                              1170011700
+PICAS AUSTIN RD                                             1170011700
+PINOAK LN                                                   1170011700
+PINOAK RD                                                   1170011700
+PITTMAN CREEK RD                                            1170011700
+PLEASANT VALLEY RD                                          1170011700
+POOLE MILL RD                                               1170011700
+POST OFFICE ALY                                             1170311703
+POWELL RD                                                   1170011700
+PRESTON CATES RD                                            1170011700
+PRINCETON ST                                                1170211702
+PROVIDENCE CITY LAKE RD                                     1170011700
+PULLAM THRELKELD RD                                         1170011700
+QUAIL RUN DR                                                1170011700
+RAILROAD LN                                                 1170011700
+RAILROAD ST                                                 1170111701
+RAKESTRAW BOTTOMS RD                                        1170011700
+RAY MELTON RD                                               1170011700
+RAY RD N                                                    1170011700
+RAY RD S                                                    1170011700
+RED OAK SCHOOL RD                                           1170011700
+RHONDA RD                                                   1170011700
+RICH RD                                                     1170011700
+RICH RD E                                                   1170011700
+RICKARD LN                                                  1170211702
+RIDDLE ST                                                   1170111701
+RIDEN RD                                                    1170011700
+RITZ RD                                                     1170011700
+RIVER BOTTOM RD                                             1170011700
+ROBERT HILL DR                                              1170111701
+ROCK STILE HILL RD                                          1170011700
+ROGER POWELL RD                                             1170011700
+ROGER POWELL RD                                             1170411704
+ROLAND LANDING RD                                           1170011700
+ROY WILKINS DR                                              1170211702
+ROYSTER ROBARDS RD                                          1170011700
+RUFF BOTTOM RD                                              1170011700
+RUSSELL FARMS RD                                            1170011700
+RUSSELL LOOP                                                1170011700
+RUSSELL ST                                                  1170311703
+S BROADWAY ST                                               1170211702
+S COLLEGE ST                                                1170111701
+S COVINGTON AVE                                             1170211702
+S COVINGTON ST                                              1170211702
+S DEAN DR                                                   1170411704
+S DIRT DR                                                   1170011700
+S DIRT DRIVE SPUR                                           1170011700
+S FINLEY ST                                                 1170211702
+S FOXWELL ST                                                1170211702
+S GREEN ST                                                  1170211702
+S HENDERSON ST                                              1170411704
+S HUGHES ST                                                 1170211702
+S MAIN ST                                                   1170611706
+S OAK ST                                                    1170411704
+S POPLAR ST                                                 1170211702
+S RAILROAD ST                                               1170411704
+S ROSEMONT ST                                               1170211702
+S SHORT ST                                                  1170411704
+S SPRING ST                                                 1170411704
+S STATE ST                                                  1170411704
+S VAUGHN ST                                                 1170211702
+S WILDWOOD DR                                               1170411704
+S WILLOW ST                                                 1170211702
+SADDLE CLUB APARTMENTS                                      1170211702
+SADDLE CLUB RD                                              1170011700
+SADDLE CLUB RD                                              1170111701
+SAM FUQUAY RD                                               1170011700
+SAM GRAY RD                                                 1170011700
+SAM SIMPSON RD                                              1170011700
+SANDEFUR RD                                                 1170011700
+SASSAFRAS GROVE RD                                          1170011700
+SAVAGE ST                                                   1170211702
+SCOTT ST                                                    1170211702
+SEBREE PRATT RD                                             1170011700
+SEBREE SLAUGHTERS RD                                        1170011700
+SEBREE SLAUGHTERS RD                                        1170411704
+SEBREE SPRINGS RD                                           1170011700
+SHADY GROVE KNOBLICK RD                                     1170011700
+SHELTON CEMETERY RD                                         1170011700
+SHERRI LN                                                   1170411704
+SHORT ST                                                    1170111701
+SHORTY VAUGHN RD                                            1170011700
+SIMPSON RD                                                  1170011700
+SLAUGHTERS CEMETERY RD                                      1170011700
+SLAUGHTERS CEMETERY RD                                      1170911709
+SLAUGHTERS ELMWOOD RD                                       1170011700
+SLOVER CREEK RD                                             1170011700
+SMITH BRANTLEY RD                                           1170011700
+SMITH RD                                                    1170011700
+SMITH RD W                                                  1170011700
+SOUTHERLAND DR                                              1170211702
+SPRINGER CURRY RD                                           1170011700
+SPRINGFIELD RD                                              1170011700
+ST BERNARD ST                                               1170211702
+ST JOSEPH ST                                                1170211702
+ST LOUIS AVE                                                1170211702
+ST THOMAS ST                                                1170211702
+STAGECOACH RD                                               1170011700
+STARL SHELTON RD                                            1170011700
+STATE ST                                                    1170211702
+STEGAL ST                                                   1170111701
+STEVENS CEMETERY RD                                         1170011700
+STEWART ST                                                  1170211702
+STODGILL LN                                                 1170011700
+STODGILL RD                                                 1170011700
+STONE LN                                                    1170111701
+SUGG ST                                                     1170211702
+SUNSET INN RD                                               1170011700
+SYCAMORE ST                                                 1170211702
+T A POWELL RD                                               1170011700
+TAPP LN                                                     1170011700
+TAPP LN                                                     1170111701
+TAPP ST                                                     1170211702
+TATTING AVE                                                 1170011700
+TAYLOR ST                                                   1170011700
+TAYLOR ST                                                   1170311703
+THOMAS ST                                                   1170411704
+THOMPSON AVE                                                1170211702
+TOM DAVIS RD                                                1170011700
+TOSH ST                                                     1170011700
+TOWER DR                                                    1170211702
+TOWNSEND PIKE RD                                            1170011700
+TRADER DR                                                   1170211702
+TRENTON AVE                                                 1170411704
+TROY DR                                                     1170411704
+UNION ST                                                    1170211702
+UPPER ST                                                    1170211702
+US41 ALT N                                                  1170011700
+US41 ALT N                                                  1170111701
+US41 ALT S                                                  1170011700
+US41 ALT S                                                  1170111701
+US41 ALT S                                                  1170211702
+US41 N                                                      1170011700
+US41 N                                                      1170411704
+US41 S                                                      1170011700
+US41 S                                                      1170411704
+V F W LN                                                    1170211702
+VANDERBURG LISMAN RD                                        1170011700
+VANDERBURG WINSTEAD RD                                      1170011700
+VANOVER RD                                                  1170011700
+VFW LN                                                      1170211702
+VINCENT RD                                                  1170011700
+VINE ST                                                     1170211702
+VIONA LN                                                    1170011700
+VIRGINIA MINE RD                                            1170011700
+VONDA LN                                                    1170411704
+VONNIE HERRON RD                                            1170011700
+W 2ND ST                                                    1170911709
+W A HENRY RD                                                1170011700
+W CULLEN ST                                                 1170611706
+W CUMBERLAND ST                                             1170211702
+W DIXON ST                                                  1170411704
+W ELM ST                                                    1170011700
+W ELM ST                                                    1170311703
+W HAMMOCK ST                                                1170611706
+W JEFFERSON ST                                              1170411704
+W MADISON ST                                                1170411704
+W MAIN ST                                                   1170211702
+W RAILROAD ST                                               1170311703
+W SHORT ST                                                  1170311703
+W WALLACE ST                                                1170611706
+W WASHINGTON ST                                             1170411704
+W WEBSTER ST                                                1170411704
+WAGGONER CH CHALYBEATE RD                                   1170011700
+WAGGONER CH CRABORCHARD RD                                  1170011700
+WALL ST                                                     1170211702
+WALLACE ST                                                  1170211702
+WALNUT ST                                                   1170211702
+WALTER THRELKELD RD                                         1170011700
+WANAMAKER RD                                                1170011700
+WASHINGTON AVE                                              1170211702
+WATKINS SCHOOL RD                                           1170011700
+WATKINS SEBREE RD                                           1170011700
+WATKINS SEBREE RD                                           1170411704
+WATSON LN                                                   1170011700
+WEDGEWOOD DR                                                1170211702
+WELDON RD                                                   1170011700
+WEST SIDE TRAILER PARK                                      1170211702
+WESTERFIELD DR                                              1170211702
+WHITE LICK RD                                               1170011700
+WHITSELL ST                                                 1170911709
+WILKERSON RD                                                1170011700
+WILKERSON SPUR                                              1170011700
+WILLIAMS CLAY RD                                            1170011700
+WILLIAMS CLAY RD                                            1170311703
+WILLIAMS RD                                                 1170011700
+WILLIAMS ST                                                 1170211702
+WILLOW ST                                                   1170211702
+WILSON CEMETERY RD                                          1170011700
+WILSON RD                                                   1170011700
+WILSON ST                                                   1170211702
+WINDYS LN                                                   1170111701
+WINSTEAD CEMETERY RD                                        1170011700
+WOMACK RD                                                   1170011700
+WOODLAND ACRES DR                                           1170111701
+WOODSON ST                                                  1170211702
+WOOLFOLK ST                                                 1170211702
+WRIGHT CLAYTON RD                                           1170011700
+WRIGHTSBURG RD                                              1170011700
+WRIGHTSBURG SPUR                                            1170011700
+YOUNG ST                                                    1170011700
+ZIMMERMAN AVE                                               1170211702
+ZION CHURCH RD                                              1170011700

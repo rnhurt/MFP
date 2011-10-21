@@ -1,0 +1,969 @@
+1ST AVE                                                     0130101301
+ABBIE VIC RD                                                0130001300
+ABE COLE DR                                                 0130001300
+ABE JOHNSON RD                                              0130001300
+ADAMS DR                                                    0130001300
+AIRPLANE HOLW                                               0130001300
+AIRPORT RD                                                  0130001300
+ALBERT LN                                                   0130001300
+ALEX DALE COLE CEMETERY RD                                  0130001300
+ALEX HERALD CEMETERY RD                                     0130001300
+ALFRED COMBS CEMETERY RD                                    0130001300
+ALICE B TURNER CEMETERY RD                                  0130001300
+ALLEN CEMETERY NO1 RD                                       0130001300
+ALLEN CEMETERY NO2 RD                                       0130001300
+ALLEN FARM RD                                               0130001300
+ALLEN FUGATE CEMETERY RD                                    0130001300
+ALLMOND AVE                                                 0130001300
+ALTRO RD                                                    0130001300
+ALYSSA LN                                                   0130001300
+AMERIDA MORRIS CEMETERY RD                                  0130001300
+ANDERSON CEMETERY NO1 RD                                    0130001300
+ANDERSON HL                                                 0130001300
+ANDREW RD                                                   0130001300
+ANDY HAYES RD                                               0130001300
+APPLE RIDGE LN                                              0130001300
+ARBUTIS DR                                                  0130001300
+ARCH CRAWFORD CEMETERY RD                                   0130001300
+ARIE TAULBEE CEMETERY RD                                    0130001300
+ARMORY DR                                                   0130001300
+ARMORY DR                                                   0130101301
+ARNETT CEMETERY RD                                          0130001300
+ARROWOOD CEMETERY NO3 RD                                    0130001300
+ARROWOOD DR                                                 0130101301
+ASHANA RD                                                   0130001300
+AUDREY LN                                                   0130001300
+BACH CEMETERY NO2 RD                                        0130001300
+BACK CEMETERY NO3 RD                                        0130001300
+BACK LN                                                     0130101301
+BACK ST                                                     0130001300
+BACK STEVENS CEMETERY RD                                    0130001300
+BAILEY CEMETERY RD                                          0130001300
+BAKER DR                                                    0130001300
+BANKS CEMETERY NO1 RD                                       0130001300
+BANKS RD                                                    0130001300
+BARB HOLLOW RD                                              0130001300
+BARGE CREEK RD                                              0130001300
+BARWICK RD                                                  0130001300
+BAYS ST                                                     0130101301
+BEACH TURNER RD                                             0130001300
+BEAN FORK RD                                                0130001300
+BEAR BRANCH CLAYHOLE RD                                     0130001300
+BEAR FORK                                                   0130001300
+BEATTYVILLE RD                                              0130001300
+BEECH GROVE RD                                              0130001300
+BEECH POINT EST                                             0130001300
+BEECHER DR                                                  0130001300
+BELCHER CANEY FORK RD                                       0130001300
+BELCHER CEMETERY NO1 RD                                     0130001300
+BELCHER FORK RD                                             0130001300
+BELCHER TURNER RD                                           0130001300
+BELCHER TURNER SPUR RD                                      0130001300
+BENNY LN                                                    0130001300
+BERRY LN                                                    0130001300
+BERTHA LN                                                   0130001300
+BETHANY RD                                                  0130001300
+BETHEL CHURCH RD                                            0130001300
+BETHLEHEM RD                                                0130001300
+BEVERLY HEIGHTS RD                                          0130001300
+BEVERLY HILLS RD                                            0130001300
+BIG BRANCH RD                                               0130001300
+BIG BRANCH SOUTH FORK RD                                    0130001300
+BIG FORK RD                                                 0130001300
+BIG LOVELY RD                                               0130001300
+BILL COMBS CEMETERY RD                                      0130001300
+BILL FUGATE DR                                              0130001300
+BILLY HALL CEMETERY RD                                      0130001300
+BILLY RILEY RD                                              0130001300
+BIRCH LN                                                    0130001300
+BJ FUGATE DR                                                0130001300
+BLACKBERRY DR                                               0130001300
+BLAKE DR                                                    0130101301
+BLUE JAY DR                                                 0130001300
+BOB GILLUM DR                                               0130001300
+BOB TURNER CEMETERY RD                                      0130001300
+BOB TURNER RD                                               0130001300
+BOBCAT LN                                                   0130101301
+BOGGS DR                                                    0130001300
+BOOMER LN                                                   0130001300
+BOOT HILL RD                                                0130001300
+BOWLING COVE RD                                             0130001300
+BOWLING RD                                                  0130001300
+BOWLINGS CREEK RD                                           0130001300
+BOWMAN CEMETERY RD                                          0130001300
+BOWMAN FORK RD                                              0130001300
+BOYD HOLLOW RD                                              0130001300
+BRADLEY CEMETERY NO2 RD                                     0130001300
+BRADLEY FAMILY CEMETERY RD                                  0130001300
+BREWER CEMETERY NO1 RD                                      0130001300
+BREWER CEMETERY NO3 RD                                      0130001300
+BREWER FAMILY CEMETERY RD                                   0130001300
+BREWER FORK                                                 0130001300
+BREWER TRAILER PARK RD                                      0130101301
+BREWERS DR                                                  0130101301
+BRIDGE HOLLOW RD                                            0130101301
+BRIDGE POINTE LN                                            0130001300
+BRIGITTE DR                                                 0130001300
+BRITNI LN                                                   0130101301
+BROADWAY                                                    0130101301
+BROADWAY SPUR                                               0130101301
+BROOKLYN BRIDGE LN                                          0130001300
+BROWN CEMETERY NO1 RD                                       0130001300
+BROWN ST                                                    0130101301
+BRYANTS CREEK RD                                            0130001300
+BUCK HERALD CEMETERY RD                                     0130001300
+BUCKHORN RD                                                 0130001300
+BUD BOWLING CEMETERY RD                                     0130001300
+BURCHAM FORK RD                                             0130001300
+BURNETT ST                                                  0130101301
+BUTTER POINT RD                                             0130001300
+BUTTER RD                                                   0130001300
+BUZZARD FORK RD                                             0130001300
+BUZZARD HOLLOW RD                                           0130001300
+C SMITH FAMILY CEMETERY RD                                  0130001300
+CABIN HILL RD                                               0130001300
+CALHOUN BRANCH RD                                           0130001300
+CALLAHAN LN                                                 0130001300
+CALLIE LN                                                   0130001300
+CALVIN MORRIS RD                                            0130001300
+CAMP LEWIS                                                  0130001300
+CAMPBELL AND FRANCIS CEMETERY RD                            0130001300
+CAMPBELL BRANCH RD                                          0130001300
+CAMPBELL CIR                                                0130101301
+CAMPBELL LN                                                 0130001300
+CANE CREEK RD                                               0130001300
+CARDINAL BRANCH RD                                          0130001300
+CARL HOLBROOK CEMETERY RD                                   0130001300
+CARL JR WILLIAMS CEMETERY RD                                0130001300
+CARPENTER CEMETERY NO1 RD                                   0130001300
+CARPENTER CEMETERY NO2 RD                                   0130001300
+CARPENTER LN                                                0130001300
+CARPENTERS BRANCH RD                                        0130001300
+CARTER LN                                                   0130001300
+CARVER STRONG DR                                            0130001300
+CASSIDY DR                                                  0130001300
+CAUDILL CEMETERY NO1 RD                                     0130001300
+CAUDILL FAMILY CEMETERY RD                                  0130001300
+CAUDILL RD                                                  0130001300
+CBA CREEK RD                                                0130001300
+CEDAR BEND RD                                               0130001300
+CEDAR HL                                                    0130001300
+CEMETERY LN                                                 0130001300
+CEMETERY RD                                                 0130001300
+CENTERS AND ROBINSON DR                                     0130001300
+CHAMBERS CEMETERY RD                                        0130001300
+CHAPMAN RD                                                  0130001300
+CHELCIE HL                                                  0130001300
+CHENOWEE BRANCH RD                                          0130001300
+CHERRY ST                                                   0130101301
+CHERRY TREE LN                                              0130001300
+CHESTER BAILEY RD                                           0130001300
+CHESTNUT DR                                                 0130001300
+CHESTNUT GAP RD                                             0130001300
+CHICK LITTLE RD                                             0130001300
+CHILDERS CEMETERY RD                                        0130001300
+CHILDERS LN                                                 0130001300
+CHRISTY LN                                                  0130001300
+CLEAR FORK CEMETERY RD                                      0130001300
+CLEAR FORK RD                                               0130001300
+CLELL LN                                                    0130001300
+CLEMONS BR                                                  0130001300
+CLEMONS FORK                                                0130001300
+CLEMONS HARDIN CEMETERY RD                                  0130001300
+CLEMONS LN                                                  0130001300
+CLEMONS PRATER CEMETERY RD                                  0130001300
+CLEMONS RITCHIE CEMETERY RD                                 0130001300
+CLEMONS SALYER CEMETERY RD                                  0130001300
+CLISO DR                                                    0130001300
+CLOVER FORK                                                 0130001300
+COCHRAN DR                                                  0130001300
+COCKRELL FORK RD                                            0130001300
+COLE CEMETERY RD                                            0130001300
+COLE LN                                                     0130101301
+COLLEGE AVE                                                 0130101301
+COLLIER AVE                                                 0130101301
+COLLINS RD                                                  0130001300
+COLLINS ROAD RAMP                                           0130001300
+COLTS FORK RD                                               0130001300
+COMBS AND PERRY RD                                          0130001300
+COMBS BR                                                    0130001300
+COMBS BRANCH RD                                             0130001300
+COMBS FAMILY CEMETERY RD                                    0130001300
+COMBS ST                                                    0130001300
+COMBS ST                                                    0130101301
+COMMUNITY WAY                                               0130101301
+CONDIFF CEMETERY RD                                         0130001300
+COOCHIE BR                                                  0130001300
+COOK FORK RD                                                0130001300
+COPE FORK                                                   0130001300
+CORBIN GRAY RD                                              0130001300
+COUNTRY LN                                                  0130001300
+COURT ST                                                    0130101301
+COURTNEY LN                                                 0130001300
+COVE HOLW                                                   0130001300
+COW BRANCH RD                                               0130001300
+COX DR                                                      0130001300
+CRASE DR                                                    0130001300
+CRIPPLE CREEK RD                                            0130001300
+CROCKETSVILLE CEMETERY RD                                   0130001300
+CROCKETTSVILLE RD                                           0130001300
+CULVERT RD                                                  0130001300
+CURT RD                                                     0130001300
+CUTCHIN RD                                                  0130001300
+D B HENSON DR                                               0130001300
+DAN DEREK DR                                                0130001300
+DANGE CREEK                                                 0130001300
+DANIEL DR                                                   0130001300
+DANIEL TAULBEE CEMETERY RD                                  0130001300
+DARRELL THARP RD                                            0130001300
+DAVE GODSEY DR                                              0130001300
+DAVES RD                                                    0130001300
+DAVIS FORK                                                  0130001300
+DAVIS ST                                                    0130101301
+DAY CEMETERY RD                                             0130001300
+DAYMOND DR                                                  0130001300
+DEATON LN                                                   0130001300
+DEATON RD                                                   0130001300
+DEBBIE BRANCH RD                                            0130001300
+DEIDRE ST                                                   0130101301
+DEMOCRAT DR                                                 0130001300
+DESSIE HADDIX LN                                            0130001300
+DEVON LN                                                    0130001300
+DOGWOOD DR                                                  0130001300
+DRIVE IN LN                                                 0130001300
+DRY BREAD RD                                                0130001300
+DUBE RD                                                     0130001300
+DUCK HOLLOW RD                                              0130001300
+DULSENA LN                                                  0130001300
+DUMB BETTY BR                                               0130001300
+DUMONT RIDGE RD                                             0130001300
+DUNN CEMETERY NO1 RD                                        0130001300
+DUNN LN                                                     0130001300
+DUSTIN DYLAN DR                                             0130001300
+E L NOBLE CEMETERY RD                                       0130001300
+E S LITTLE RD                                               0130001300
+E THOMPSON ST                                               0130101301
+EARL JOHNSON RD                                             0130001300
+ED CARPENTER CEMETERY RD                                    0130001300
+EDDIEVILLE DR                                               0130001300
+EIGHT PACK DR                                               0130001300
+ELAM CEMETERY RD                                            0130001300
+ELIGE ROBERTS RD                                            0130001300
+ELLA LN                                                     0130001300
+ELLIOTT TURNER LN                                           0130001300
+ELM ST                                                      0130101301
+ELMER SMITH RD                                              0130001300
+ELSOME CREEK RD                                             0130001300
+EMILY DR                                                    0130001300
+ESTILL DR                                                   0130001300
+ETHAN DR                                                    0130001300
+EYE FORK RD                                                 0130001300
+EZRA DR                                                     0130001300
+FALCON RD                                                   0130001300
+FALLEN ROCK RD                                              0130001300
+FALLS BRANCH RD                                             0130001300
+FAM LEE CIR                                                 0130101301
+FELTNER LN                                                  0130001300
+FIELD BRANCH CEMETERY                                       0130001300
+FINLEY RD                                                   0130001300
+FIRE STATION DR                                             0130101301
+FIRE TRAIL RD                                               0130001300
+FISH POND LOOP                                              0130001300
+FISH POND RD                                                0130001300
+FISHTRAP BRANCH RD                                          0130001300
+FISHTRAP BRANCH WHICK RD                                    0130001300
+FLAT BR                                                     0130001300
+FLETCHER CEMETERY RD                                        0130001300
+FLETCHER FORK RD                                            0130001300
+FLETCHER RD                                                 0130001300
+FLINT HILL CEMETERY RD                                      0130001300
+FLINT RIDGE RD                                              0130001300
+FLOYD HENSLEY HOLW                                          0130001300
+FLOYD SPICER DR                                             0130001300
+FOREST BRYANT RD                                            0130001300
+FOURMILE RD                                                 0130001300
+FRANCIS DR                                                  0130001300
+FRANK TURNER DR                                             0130001300
+FRANKS RD                                                   0130001300
+FRAZIER LN                                                  0130001300
+FRAZIER TAYLOR CEMETERY RD                                  0130001300
+FRED HOLBROOK CEMETERY RD                                   0130001300
+FRED STEWART LN                                             0130001300
+FREEMAN FORK RD                                             0130001300
+FUGATE CEMETERY NO1 RD                                      0130001300
+G AND G LN                                                  0130101301
+G JOHNSON RD                                                0130001300
+G P DR                                                      0130101301
+GABBARD CEMETERYNO1 RD                                      0130001300
+GABBARD HILL RD                                             0130001300
+GABBARD RD                                                  0130001300
+GANDERBILL BRANCH RD                                        0130001300
+GARDEN LN                                                   0130001300
+GAYS CREEK RIDGE LN                                         0130001300
+GB LN                                                       0130001300
+GEORGE GRIFFITH FORK RD                                     0130001300
+GEORGE RILEY DR                                             0130001300
+GILBERT CEMETERY NO1 RD                                     0130001300
+GILBERT RD                                                  0130001300
+GILLUM CEMETERY NO1 RD                                      0130001300
+GLORY BRANCH RD                                             0130001300
+GOBBLERS KNOB                                               0130001300
+GRAHAM BR                                                   0130001300
+GRAHAM CEMETERY RD                                          0130001300
+GRANNYS BR                                                  0130001300
+GRASS ROOTS LN                                              0130001300
+GRAY HAWK LN                                                0130001300
+GREASER LANE SPUR                                           0130001300
+GREASER LN                                                  0130001300
+GREASY CREEK RD                                             0130001300
+GREEN SOUTH HOLLOW RD                                       0130001300
+GRIFFITH BRANCH RD                                          0130001300
+GRIFFITH CEMETERY NO2 RD                                    0130001300
+GRIFFITH RD                                                 0130001300
+GROSS COMBS CEMETERY RD                                     0130001300
+GROSS FORK RD                                               0130001300
+GROSS LOOP                                                  0130001300
+GROSS VALLEY RD                                             0130001300
+GROSS WATKINS CEMETERY RD                                   0130001300
+GROUNDHOG RD                                                0130009700
+GUM LOG BRANCH RD                                           0130001300
+H G WILLIAMS DR                                             0130001300
+HADDIX CHURCH DR                                            0130001300
+HADDIX DEPOT RD                                             0130001300
+HADDIX DR                                                   0130001300
+HADDIX FORK RD                                              0130001300
+HALL BRANCH RD                                              0130001300
+HALL CEMETERY RD                                            0130001300
+HALLS DR                                                    0130001300
+HANNAH SEBASTIAN CEMETERY RD                                0130001300
+HAPPY HOLLOW RD                                             0130001300
+HARDIN BRANCH RD                                            0130001300
+HARDSHELL CANEY RD                                          0130001300
+HARDSHELL FUGATE FORK RD                                    0130001300
+HARGIS HILL DR                                              0130101301
+HARGIS LN                                                   0130101301
+HARGIS ST                                                   0130101301
+HARLEY DAVIDSON LN                                          0130001300
+HARVEY ALLEN CEMETERY RD                                    0130001300
+HARVEY BEND RD                                              0130001300
+HARVEYS LN                                                  0130001300
+HATMAKER HL                                                 0130001300
+HAWK ST                                                     0130101301
+HAYES BRANCH RD                                             0130001300
+HAYS AVE                                                    0130101301
+HAYS CEMETERY RD                                            0130001300
+HAZEL LN                                                    0130001300
+HB BANKS RD                                                 0130001300
+HEATHER LN                                                  0130001300
+HEDGEAPPLE RD                                               0130001300
+HELTON LN                                                   0130001300
+HENRY C CALHOUN CEMETERY RD                                 0130001300
+HENSLEY CEMETERY NO1 RD                                     0130001300
+HENSLEY CEMETERY NO3 RD                                     0130001300
+HENSLEY RD                                                  0130001300
+HENSON HOLLOW RD                                            0130001300
+HENSON HOUNSHELL CEMETERY RD                                0130001300
+HERALD LANE RAMP                                            0130001300
+HERALD LN                                                   0130001300
+HERBERT LN                                                  0130001300
+HESS LN                                                     0130001300
+HIGGINS DR                                                  0130001300
+HIGHLAND AVE                                                0130101301
+HIGHLAND RD                                                 0130001300
+HIGHLAND SCHOOL RD                                          0130001300
+HILL TOP DR                                                 0130001300
+HILLBILLY DR                                                0130001300
+HILLCREST DR                                                0130101301
+HOGG ST                                                     0130101301
+HOLBROOK FAMILY CEMETERY RD                                 0130001300
+HOLLAN ST                                                   0130101301
+HOLLER POINT RD                                             0130001300
+HOLLEY BRANCH RD                                            0130001300
+HOLLY FORK CEMETERY RD                                      0130001300
+HOLLY FORK RD                                               0130001300
+HOOVER BRIDGE RD                                            0130001300
+HOOVER DR                                                   0130001300
+HOPE DR                                                     0130001300
+HORSESHOE CV                                                0130001300
+HOUNSHELL CEMETERY NO1 RD                                   0130001300
+HOUNSHELL RD                                                0130001300
+HOUNSHELL ROAD RAMP                                         0130001300
+HOUSE FORK BRANCH RD                                        0130001300
+HOUSTON RD                                                  0130001300
+HOWARD CEMETERY NO1 RD                                      0130001300
+HOWARD CEMETERY NO4 RD                                      0130001300
+HOWARD CREEK CURT RD                                        0130001300
+HOWARD FAMILY CEMETERY RD                                   0130001300
+HOWARD MULLINS CEMETERY NO5 RD                              0130001300
+HOWARDS CREEK RD                                            0130001300
+HOWELL HTS                                                  0130001300
+HOWELL LN                                                   0130101301
+HUDSON DR                                                   0130001300
+HUGH BRYANT CEMETERY RD                                     0130001300
+HUGHES CREEK RD                                             0130001300
+HUNTING CREEK RD                                            0130001300
+HURRICANE BRANCH RD                                         0130001300
+HURST CEMETERY NO1 RD                                       0130001300
+HURST HAMPTON CEMETERY RD                                   0130001300
+HURST LN                                                    0130101301
+HURST RD                                                    0130001300
+HURT LN                                                     0130001300
+HUTCH LN                                                    0130001300
+ICE ST                                                      0130101301
+IMPROVEMENT BR                                              0130001300
+INDIAN HOLLOW RD                                            0130101301
+INDUSTRY RD                                                 0130101301
+INGOL FORK RD                                               0130001300
+INTERNATIONAL LN                                            0130001300
+ISON ST                                                     0130101301
+IVORY POINT NO1 CEMETERY RD                                 0130001300
+IVORY POINT NO2 CEMETERY RD                                 0130001300
+IVY COURT DR                                                0130101301
+J D RD                                                      0130001300
+J R DR                                                      0130001300
+J S DEATON CEMETERY RD                                      0130001300
+JACKS DR                                                    0130001300
+JACKSON BRANCH RD                                           0130001300
+JACKSON CEMETERY RD                                         0130101301
+JACKSON ST                                                  0130101301
+JACOB DR                                                    0130001300
+JAKE BR                                                     0130001300
+JAMES BR                                                    0130001300
+JAMES GROSS RD                                              0130001300
+JEFFERSON AVE                                               0130101301
+JERRY MILLER DR                                             0130001300
+JESSE BRANCH RD                                             0130001300
+JESSE SPENCER RD                                            0130001300
+JETT DR                                                     0130101301
+JETTS CREEK RD                                              0130001300
+JIM GROSS DR                                                0130001300
+JJ & GRANNY LN                                              0130001300
+JOE BR                                                      0130001300
+JOE LITTLE FORK RD                                          0130001300
+JOE LN                                                      0130001300
+JOE SEWELL LN                                               0130001300
+JOE WARD FORK RD                                            0130001300
+JOHN A TURNER CEMETERY RD                                   0130001300
+JOHN HENRY RD                                               0130001300
+JOHN HOLLON LN                                              0130001300
+JOHN LITTLE RD                                              0130001300
+JOHN MACO DR                                                0130001300
+JOHN ST                                                     0130001300
+JOHNNY BEAR DR                                              0130001300
+JOHNNY GRIFFITH DR                                          0130001300
+JOHNSON AND LITTLE CEMETERY RD                              0130001300
+JOHNSON BRANCH RD                                           0130001300
+JOHNSON CEMETERY NO1                                        0130001300
+JOHNSON FAMILY CEMETERY RD                                  0130001300
+JOHNSON FORK RD                                             0130001300
+JONES BR                                                    0130001300
+JORBRAY LN                                                  0130001300
+JOSEPH LN                                                   0130001300
+JOSHS DR                                                    0130001300
+JULIE DR                                                    0130001300
+JUSTICE RILEY CEMETERY RD                                   0130001300
+JW ADAMS DR                                                 0130001300
+KAMALU LN                                                   0130001300
+KANO DR                                                     0130001300
+KATIE LN                                                    0130001300
+KATLIN JERRICA DR                                           0130001300
+KAYLAS LN                                                   0130001300
+KECK LN                                                     0130001300
+KEEN FORK                                                   0130001300
+KEENE CEMETERY RD                                           0130001300
+KELLY NOBLE SENIOR CEMETERY RD                              0130001300
+KELLY SPENCER LN                                            0130001300
+KENNY KING RD                                               0130001300
+KENTUCKY AVE                                                0130101301
+KING CEMETERY NO1 RD                                        0130001300
+KINGS BRANCH RD                                             0130001300
+KINGS DR                                                    0130001300
+KINGS RIDGE RD                                              0130101301
+KMBC DR                                                     0130001300
+KNACK BR                                                    0130001300
+KY1098                                                      0130001300
+KY1110                                                      0130001300
+KY15                                                        0130001300
+KY15 N                                                      0130001300
+KY15 N                                                      0130101301
+KY15 S                                                      0130001300
+KY15 S                                                      0130101301
+KY1812                                                      0130001300
+KY1812                                                      0130101301
+KY1933                                                      0130001300
+KY205                                                       0130001300
+KY205 N                                                     0130001300
+KY2446                                                      0130001300
+KY2466                                                      0130001300
+KY2469                                                      0130001300
+KY30                                                        0130001300
+KY30 E                                                      0130001300
+KY30 W                                                      0130001300
+KY315                                                       0130001300
+KY3193                                                      0130001300
+KY3324                                                      0130001300
+KY378                                                       0130001300
+KY476                                                       0130001300
+KY540                                                       0130001300
+KY541                                                       0130001300
+KY542                                                       0130001300
+L AND S CARPENTER CEMETERY RD                               0130001300
+L B J RD                                                    0130101301
+L C CALHOUN CEMETERY RD                                     0130001300
+LA FINCA DR                                                 0130001300
+LAKESIDE DR                                                 0130101301
+LAKEVIEW VILLAGE DR                                         0130101301
+LANDRUM CEMETERY RD                                         0130001300
+LANDRUM RD                                                  0130001300
+LANE BRANCH RD                                              0130001300
+LAURA LN                                                    0130001300
+LAWRENCE DR                                                 0130001300
+LAWSON LN                                                   0130001300
+LEATHERWOOD RD                                              0130001300
+LEATHERWOOD SOUTH FORK RD                                   0130001300
+LEFT FORK DUCK HOLLOW RD                                    0130001300
+LEFT FORK HARDIN BR                                         0130001300
+LEFT FORK PIPE MUD RD                                       0130001300
+LEFT FORK SEBASTIAN BR                                      0130001300
+LEFT FORK TURNERS CREEK RD                                  0130001300
+LEFT FORK WHITE OAK CREEK                                   0130001300
+LEWIS DR                                                    0130001300
+LEWIS FORK RD                                               0130001300
+LICK BRANCH ARMORY RD                                       0130001300
+LICK BRANCH MIDDLE FORK RD                                  0130001300
+LICK BRANCH NOCTOR RD                                       0130001300
+LICK BRANCH TALBERT RD                                      0130001300
+LICK LOG BR                                                 0130001300
+LICKING FORK                                                0130001300
+LIETTE JOHNSON CEMETERY RD                                  0130001300
+LILLIES LN                                                  0130101301
+LILY NUNN LN                                                0130001300
+LINCOLN AVE                                                 0130101301
+LINDON BR                                                   0130001300
+LITTERAL CEMETERY NO1 RD                                    0130001300
+LITTERAL LN                                                 0130001300
+LITTLE BUCKHORN RD                                          0130001300
+LITTLE CEMETERY NO1 RD                                      0130001300
+LITTLE CREEK RD                                             0130001300
+LITTLE EARL RD                                              0130001300
+LITTLE LEATHERWOOD RD                                       0130001300
+LLOYD DEAN LN                                               0130001300
+LOCKARD HOLW                                                0130001300
+LONA DR                                                     0130001300
+LONGS CREEK RD                                              0130001300
+LONNIE LN                                                   0130001300
+LONZOS RD                                                   0130001300
+LOVELY CEMETERY NO2 RD                                      0130001300
+LOWER BEAVER DAM RD                                         0130001300
+LOWER RIVER CANEY RD                                        0130001300
+LOWER TAULBEE FORK RD                                       0130001300
+LOWER TWIN RD                                               0130001300
+LUCAS DR                                                    0130001300
+LUCAS FAMILY CEMETERY RD                                    0130001300
+LUSK RD                                                     0130001300
+MA AND PA RD                                                0130001300
+MACE BRANCH RD                                              0130001300
+MACE FORK ELSOME RD                                         0130001300
+MACINTOSH CEMETERY NO4 RD                                   0130001300
+MAE BRANCH RD                                               0130001300
+MAGGIE DR                                                   0130001300
+MAIN ST                                                     0130101301
+MALVERY LN                                                  0130001300
+MANNS RD                                                    0130001300
+MARCUM HTS                                                  0130101301
+MARIE ROBERTS RD                                            0130001300
+MARKHAM FORK RD                                             0130001300
+MARSHALL NOBLE CEMETERY RD                                  0130001300
+MARTIN TURNER RD                                            0130001300
+MASON BRANCH RD                                             0130001300
+MATILDA DR                                                  0130001300
+MATT DR                                                     0130001300
+MCINTOSH CEMETERY NO2 RD                                    0130001300
+MCINTOSH FORK                                               0130001300
+MCINTOSH NO1 CEMETERY RD                                    0130001300
+MCINTOSH RD                                                 0130001300
+MCZACHARY DR                                                0130001300
+MEADOW BRANCH RD                                            0130001300
+MEADOW LARK DR                                              0130001300
+MEATSCAFFOLD RD                                             0130001300
+MIDDLE FORK RD                                              0130001300
+MIDDLE FORK RIVER RD                                        0130001300
+MILES CEMETERY RD                                           0130001300
+MILES LN                                                    0130001300
+MILL BEND LN                                                0130001300
+MILL BRANCH RD                                              0130001300
+MILL CREEK LAWSON RD                                        0130001300
+MILL CREEK RD                                               0130001300
+MILLER BRANCH BARWICK RD                                    0130001300
+MILLER BRANCH ELKATAWA RD                                   0130001300
+MILLER CEMETERY RD                                          0130001300
+MILLER DR                                                   0130001300
+MILLER HILL RD                                              0130001300
+MILLER HOLLOW RD                                            0130101301
+MINE SHAFT RD                                               0130001300
+MINIX DR                                                    0130101301
+MOLAND CEMETERY RD                                          0130001300
+MOLANDS DR                                                  0130001300
+MORGUE FORK RD                                              0130001300
+MORRIS FORK RD                                              0130001300
+MORTON JETT CEMETERY RD                                     0130001300
+MOSQUITO HOLW                                               0130001300
+MOUNTAIN VIEW RD                                            0130001300
+MT CARMEL RD                                                0130001300
+MT CRAFT RD                                                 0130001300
+MUDLICK CHURCH RD                                           0130001300
+MUDLICK RD                                                  0130001300
+MULBERRY LN                                                 0130001300
+MULLIGAN LN                                                 0130001300
+MULLINS CEMETERY NO2 RD                                     0130001300
+MULLINS CEMETERY NO3 RD                                     0130001300
+MULLINS DR                                                  0130001300
+MULLINS RD                                                  0130001300
+MURRAY DR                                                   0130001300
+MURRAY LN                                                   0130101301
+N COPELAND RD                                               0130001300
+N OAK HILL DR                                               0130101301
+N ROCKLICK RD                                               0130001300
+NAPIER DR                                                   0130001300
+NATHAN LN                                                   0130101301
+NEACE CEMETERY NO1 RD                                       0130001300
+NEACE CEMETERY RD                                           0130001300
+NEACE DR                                                    0130001300
+NEACE DUFF CEMETERY RD                                      0130001300
+NEACE MEMORIAL LN                                           0130001300
+NED BRANCH RD                                               0130001300
+NED SPICER CEMETERY RD                                      0130001300
+NELSON TRENT CEMETERY RD                                    0130001300
+NEW BR                                                      0130001300
+NEWTON                                                      0130001300
+NEWTON BR                                                   0130001300
+NICHOLAS LN                                                 0130001300
+NIMS BR                                                     0130001300
+NIX BR                                                      0130001300
+NOBLE CEMETERY NO3 RD                                       0130001300
+NOBLE CEMETERY NO4 RD                                       0130001300
+NOBLE CEMETERY NO5 RD                                       0130001300
+NOBLE CREEK RD                                              0130001300
+NOBLE RD                                                    0130001300
+NORTH POINT AVE                                             0130101301
+OAKS LN                                                     0130001300
+OAKWOOD DR                                                  0130001300
+OAKWOOD TRAILER COURT RD                                    0130001300
+OJ FUGATE DR                                                0130001300
+OLD BAILEY BRANCH RD                                        0130001300
+OLD BUCK RD                                                 0130001300
+OLD KY 1812                                                 0130001300
+OLD KY 30                                                   0130001300
+OLD RAILROAD RD                                             0130001300
+OLIVER DR                                                   0130001300
+OLLIE J LN                                                  0130001300
+OMEGA LN                                                    0130001300
+OMER DR                                                     0130001300
+OPAL DR                                                     0130001300
+OPEN FORK LN                                                0130001300
+OSCAR HOLBROOK CEMETERY RD                                  0130001300
+OZZIES RD                                                   0130001300
+P AND S DR                                                  0130001300
+PANBOWL BRANCH RD                                           0130001300
+PANBOWL RD                                                  0130101301
+PARK RD                                                     0130101301
+PARSON DR                                                   0130101301
+PASO LN                                                     0130001300
+PATTON AVE                                                  0130101301
+PAULO MEMORIAL DR                                           0130001300
+PAXTONS PL                                                  0130001300
+PEACOCK LN                                                  0130001300
+PEARLE DR                                                   0130001300
+PEARLIE FORK RD                                             0130001300
+PEGGS FORK RD                                               0130001300
+PELFREY CEMETERY NO1 RD                                     0130001300
+PELFREY LOVELACE CEMETERY RD                                0130001300
+PENNINGTON CEMETERYNO1 RD                                   0130001300
+PENNINGTON LN                                               0130001300
+PENWAY DR                                                   0130001300
+PERKINS BRANCH RD                                           0130001300
+PHILIPS WAY                                                 0130001300
+PHYLLIS DR                                                  0130001300
+PICNIC HILL RD                                              0130101301
+PILOT BRANCH RD                                             0130001300
+PINE GROVE RD                                               0130001300
+PINE GROVE SPUR                                             0130001300
+PINE HILL DR                                                0130101301
+PIPE MUD RD                                                 0130001300
+PLAZA DR                                                    0130101301
+PLUM CREEK RD                                               0130001300
+POKEMON DR                                                  0130001300
+POKIE DOT HOLLOW RD                                         0130001300
+POLECAT RD                                                  0130001300
+POLLY MILLER HILL RD                                        0130001300
+POND BRANCH RD                                              0130001300
+POTTER HILL LOOP                                            0130001300
+POTTER HILL RD                                              0130001300
+POVERTY HILL RD                                             0130001300
+PRESS HOWARD FORK                                           0130001300
+PRICE SPENCER CEMETERY RD                                   0130001300
+PRIVETT LN                                                  0130001300
+PRUDENT LN                                                  0130001300
+PUCKETT CEMETERY RD                                         0130001300
+PUNCHEON CREEK RD                                           0130001300
+QUICKSAND CREEK RD                                          0130001300
+R L SMITH LN                                                0130001300
+RACE TRACK BR                                               0130001300
+RADER RD                                                    0130001300
+RAILROAD ST                                                 0130101301
+RALEIGH BRANCH RD                                           0130001300
+RALPH DAVIS FARM RD                                         0130001300
+RAMBO DR                                                    0130001300
+RAVEN DR                                                    0130001300
+RAY BANKS RD                                                0130001300
+RAY GROSS CEMETERY RD                                       0130001300
+RED BIRD HOLLOW RD                                          0130001300
+REED HUDSON DR                                              0130001300
+REEDS DR                                                    0130001300
+REMOND DR                                                   0130001300
+RESTEGAR DR                                                 0130001300
+REYNOLDS DR                                                 0130001300
+REYNOLDS HOLLOW RD                                          0130001300
+RICHERSON RD                                                0130001300
+RIDGE LINE RD                                               0130001300
+RIGHT FORK CANEY CREEK RD                                   0130001300
+RIGHT FORK JETTS CREEK RD                                   0130001300
+RIGHT FORK SNOWDEN BR                                       0130001300
+RILEY BRANCH RD                                             0130001300
+RILEY CEMETERY RD                                           0130001300
+RITCHIE CEMETERY RD                                         0130001300
+RITCHIE LN                                                  0130001300
+RITCHIE RD                                                  0130001300
+RIVER ST                                                    0130101301
+RIVERSIDE SCHOOL RD                                         0130001300
+ROARK BRANCH RD                                             0130001300
+ROARK RIDGE RD                                              0130001300
+ROBERT TAULBEE CEMETERY RD                                  0130001300
+ROBERTS CEMETERY NO2 RD                                     0130001300
+ROBERTS CEMETERY RD                                         0130001300
+ROBERTS CEMETERY SPUR                                       0130001300
+ROBERTSON DR                                                0130001300
+ROBINSON CEMETERY RD                                        0130001300
+ROBINSON FORK                                               0130001300
+ROBINSON LN                                                 0130101301
+ROBINSON RD                                                 0130001300
+ROCK HOUSE LOOP RD                                          0130001300
+ROCK LICK RD                                                0130001300
+RODE FORK RD                                                0130001300
+ROSCOE NOBLE LN                                             0130001300
+ROSE BEND RD                                                0130001300
+ROSE BRANCH RD                                              0130001300
+ROSE HOLW                                                   0130001300
+ROUBE PATRICK FORK RD                                       0130001300
+ROUND BOTTOM                                                0130001300
+ROY MCINTOSH RD                                             0130001300
+ROYS RD                                                     0130001300
+RUBY DR                                                     0130001300
+RUSSELL BRANCH RD                                           0130001300
+RUSSELL CEMETERY NO1 RD                                     0130001300
+S COPELAND RD                                               0130001300
+S LEATHERWOOD RD                                            0130001300
+S MORGUE FORK RD                                            0130001300
+S OAK HILL DR                                               0130101301
+S ROCK LICK RD                                              0130001300
+SALYERS LN                                                  0130001300
+SAM ALLEN CEMETERY RD                                       0130001300
+SAM MOORE LN                                                0130001300
+SANDLIN FUGATE DR                                           0130001300
+SANDLIN ST                                                  0130001300
+SANDLIN TURNER RD                                           0130001300
+SANDLIN TURNER SPUR RD                                      0130001300
+SANDY DR                                                    0130001300
+SANDY LYNN DR                                               0130001300
+SARAH LN                                                    0130001300
+SAWMILL LN                                                  0130001300
+SCHOOL HOUSE BRANCH RD                                      0130001300
+SEBASTIAN BRANCH RD                                         0130001300
+SELDON HADDIX CEMETERY RD                                   0130001300
+SELDON JETT RD                                              0130001300
+SEMINOLE DR                                                 0130101301
+SEWELL ST                                                   0130101301
+SHACKLEFORD CEMETERY RD                                     0130001300
+SHACKS BRANCH RD                                            0130001300
+SHACKS LN                                                   0130101301
+SHADOW WOLF HL                                              0130001300
+SHADY LN                                                    0130001300
+SHAWNEE HILL DR                                             0130101301
+SHEFFEL LN                                                  0130001300
+SHELTON DR                                                  0130001300
+SHERMAN DR                                                  0130001300
+SHOAL BRANCH RD                                             0130001300
+SHORT FORK HOUSTON RD                                       0130001300
+SHORT GROSS CEMETERY RD                                     0130001300
+SHORT ST                                                    0130101301
+SHOUSE LN                                                   0130001300
+SHUCKY BEAN HOLLOW RD                                       0130001300
+SIGMAN RD                                                   0130001300
+SILAS RD                                                    0130001300
+SILK STOCKING RD                                            0130001300
+SISTER RD                                                   0130001300
+SKYCAP MOUNTAIN RD                                          0130001300
+SLATE BRANCH RD                                             0130001300
+SLAYREAN DR                                                 0130001300
+SMACKUM RD                                                  0130001300
+SMILEY BRANCH RD                                            0130001300
+SMITH BRANCH RD                                             0130001300
+SMITH GILLUM CEMETERY RD                                    0130001300
+SMITH LN                                                    0130101301
+SMITH RD                                                    0130001300
+SMOKIE DR                                                   0130001300
+SNAKE BRANCH RD                                             0130001300
+SNAPPER DR                                                  0130001300
+SNOWDEN BRANCH RD                                           0130001300
+SOL LN                                                      0130001300
+SOLOMON RD                                                  0130001300
+SOPHIA DEATON DR                                            0130001300
+SOUTH ST                                                    0130101301
+SOUTHERS LN                                                 0130001300
+SOUTHWOOD RD                                                0130001300
+SPEEDWAY RD                                                 0130001300
+SPENCER BEND RD                                             0130001300
+SPENCER FORK OLD BUCK RD                                    0130001300
+SPENCER HOLLOW RD                                           0130001300
+SPICER BRANCH CANOE RD                                      0130001300
+SPICER BRANCH RD                                            0130001300
+SPICER CEMETERY NO2 RD                                      0130001300
+SPICER CEMETERY RD                                          0130001300
+SPICER DR                                                   0130001300
+SPICER TURNER CEMETERY NO2 RD                               0130001300
+SPICEWOOD CREEK RD                                          0130001300
+SPRING FORK RD                                              0130001300
+SPRUCE PINE FORK                                            0130001300
+SQUIRE LN                                                   0130001300
+STACY BR                                                    0130001300
+STACY LN                                                    0130001300
+STAG RD                                                     0130001300
+STAMPER CEMETERY NO1 RD                                     0130001300
+STAMPER CEMETERY NO2 RD                                     0130001300
+STAMPER FORK RD                                             0130001300
+STAMPERS DR                                                 0130001300
+STATE DR                                                    0130101301
+STEAMSHOVEL RD                                              0130001300
+STEEL FORK RD                                               0130001300
+STEWART LN                                                  0130001300
+STEWART TAULBEE CEMETERY RD                                 0130001300
+STIDHAM DR                                                  0130001300
+STONE COAL CREEK RD                                         0130001300
+STONE COAL HOLW                                             0130001300
+STONE HOUSE DR                                              0130001300
+STRAY BRANCH RD                                             0130001300
+STRONG BRANCH RD                                            0130001300
+STRONG CEMETERY RD                                          0130001300
+SUGAR CAMP RD                                               0130001300
+SULPHUR GAP RD                                              0130001300
+SUNSHINE LN                                                 0130001300
+SWIFT BR                                                    0130001300
+SYCAMORE FORK                                               0130001300
+SYCAMORE LN                                                 0130001300
+SYCAMORE ST                                                 0130101301
+TACKETT FORK RD                                             0130001300
+TALLENT LN                                                  0130001300
+TAMMY RD                                                    0130001300
+TARAS DR                                                    0130001300
+TASHA LN                                                    0130001300
+TAULBEE CEMETERY NO1 RD                                     0130001300
+TAULBEE CEMETERY NO2 RD                                     0130001300
+TAULBEE CEMETERY NO3 RD                                     0130001300
+TAYLOR LN                                                   0130001300
+TEE PEE DR                                                  0130001300
+TERRY CEMETERY NO1 RD                                       0130001300
+TERRY CEMETERY NO2 RD                                       0130001300
+THARPE CEMETERY RD                                          0130001300
+THELMA DR                                                   0130001300
+THOMAS CRAWFORD CEMETERY RD                                 0130001300
+THOMAS DR                                                   0130001300
+THOMAS GRIFFITH CEMETERY RD                                 0130001300
+THOMAS THORPE CEMETERY RD                                   0130001300
+THORPE RD                                                   0130001300
+TIMMYS WAY                                                  0130001300
+TINA JEAN DR                                                0130001300
+TINCHER CEMETERY RD                                         0130001300
+TINCHER LN                                                  0130001300
+TISHA DR                                                    0130001300
+TK CRAWFORD LN                                              0130001300
+TODD DR                                                     0130001300
+TODD HOLLOW RD                                              0130001300
+TOLAR RD                                                    0130001300
+TOLSON FAMILY CEMETERY RD                                   0130001300
+TOM BRANCH RD                                               0130001300
+TOM LITTLE SENIOR CEMETERY RD                               0130001300
+TOWER RD                                                    0130001300
+TOWN HILL RD                                                0130001300
+TOWN HILL RD                                                0130101301
+TRACE FORK RD                                               0130001300
+TRACY LN                                                    0130001300
+TRAVELERS REST RD                                           0130001300
+TRENT CEMETERY NO1 RD                                       0130001300
+TRENT ELAM CEMETERY NO1 RD                                  0130001300
+TRENT ELAM CEMETERY NO2 RD                                  0130001300
+TRENT HOLLOW RD                                             0130001300
+TRENT HOLLOW SPUR                                           0130001300
+TRINITY LN                                                  0130001300
+TRUSTY LN                                                   0130001300
+TUNNEL RD                                                   0130001300
+TURNER CEMETERY NO3 RD                                      0130001300
+TURNER CEMETERY NO6 RD                                      0130001300
+TURNER DR                                                   0130001300
+TURNER GABBARD CEMETERY RD                                  0130001300
+TURNER RD                                                   0130001300
+TWIN CEDAR RD                                               0130001300
+TY BLAKE DR                                                 0130001300
+TYLER DR                                                    0130001300
+TYRA BRANCH RD                                              0130001300
+TYRA CEMETERY RD                                            0130001300
+UPPER BEAVER DAM RD                                         0130001300
+UPPER BOONE FORK RD                                         0130001300
+UPPER FORK RD                                               0130001300
+UPPER LAUREL FORK RD                                        0130001300
+UPPER RIVER CANEY RD                                        0130001300
+VALLEY VIEW DR                                              0130001300
+VAUGHN DR                                                   0130001300
+VERA GAP RD                                                 0130001300
+VIRES FORK RD                                               0130001300
+W HERALD LN                                                 0130001300
+W THOMPSON ST                                               0130101301
+WALL ST                                                     0130101301
+WALNUT FORK RD                                              0130001300
+WALTER LN                                                   0130001300
+WAR CREEK RD                                                0130001300
+WAR SHOAL BR                                                0130001300
+WARREN TURNER RD                                            0130001300
+WARRIX DR                                                   0130101301
+WASHINGTON AVE                                              0130101301
+WATKINS CEMETERY NO2 RD                                     0130001300
+WATKINS HOLLOW RD                                           0130001300
+WATTS RD                                                    0130001300
+WESLEY DR                                                   0130001300
+WHICK LICK BRANCH RD                                        0130001300
+WHITE FAMILY CEMETERY RD                                    0130001300
+WHITE OAK CREEK RD                                          0130001300
+WICKLINE LN                                                 0130001300
+WIDE CREEK RD                                               0130001300
+WIDGE WAY                                                   0130001300
+WILDER CEMETERY RD                                          0130001300
+WILKRIS RD                                                  0130001300
+WILL HAYS HOLLOW RD                                         0130001300
+WILLARDS WAY                                                0130001300
+WILLIAM RD                                                  0130001300
+WILLIAMS DR                                                 0130101301
+WILLIAMS TRAILER COURT RD                                   0130001300
+WILLIS DR                                                   0130001300
+WILSON CEMETERY NO1 RD                                      0130001300
+WILSON LN                                                   0130001300
+WIREMAN RD                                                  0130001300
+WOLF COAL RD                                                0130001300
+WOLF CREEK RD                                               0130001300
+WOLFE BRANCH RD                                             0130001300
+WOLVERINE HOLW                                              0130001300
+WOLVERINE RD                                                0130001300
+WOODCENTER DR                                               0130001300
+YEADON BR                                                   0130001300
+YOUNG DR                                                    0130001300
+YUNK ST                                                     0130001300
+ZACH LN                                                     0130001300
+ZEKE JETT CEMETERY RD                                       0130001300

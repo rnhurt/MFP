@@ -1,0 +1,327 @@
+1ST ST                                                      0460204602
+2ND ALY                                                     0460204602
+2ND ST                                                      0460204602
+3RD ALY                                                     0460204602
+3RD ST                                                      0460204602
+4TH ALY                                                     0460204602
+4TH ST                                                      0460204602
+5TH ST                                                      0460204602
+6TH ST                                                      0460204602
+7TH ALY                                                     0460204602
+ACCESS RD                                                   0460004600
+ACCESS ROAD NO10                                            0460004600
+ACCESS ROAD NO11B                                           0460004600
+ACCESS ROAD NO16                                            0460004600
+ACCESS ROAD NO20A                                           0460004600
+ACCESS ROAD NO3                                             0460004600
+ACCESS ROAD NO4                                             0460004600
+ACCESS ROAD NO4D                                            0460004600
+ACCESS ROAD NO5                                             0460004600
+ACCESS ROAD NO6                                             0460004600
+ACCESS ROAD NO8                                             0460004600
+ACCESS ROAD NO9                                             0460004600
+ADAIR RD                                                    0460004600
+ADAMS ST                                                    0460104601
+AIRPORT LN                                                  0460004600
+ALSOP LN                                                    0460104601
+B RICE RD                                                   0460004600
+BAKER LN                                                    0460004600
+BAKER ST                                                    0460004600
+BARLOW RD                                                   0460004600
+BATES HOLLOW RD                                             0460004600
+BEAUCHAMP RD                                                0460004600
+BEECH AVE                                                   0460204602
+BEECH DR                                                    0460004600
+BIG RIVERS RD                                               0460004600
+BLUE GRASS DR                                               0460204602
+BLUEGRASS DR                                                0460204602
+BLUFF LN                                                    0460104601
+BOBWHITE AVE                                                0460204602
+BOLING LN                                                   0460004600
+BOYD HARRIS RD                                              0460004600
+BRIDGE ST                                                   0460104601
+BROADWAY ST                                                 0460004600
+BRUNER LN                                                   0460004600
+BUCK LANE CONNECTOR                                         0460004600
+BUCK LN                                                     0460004600
+BUCK POWERS RD                                              0460004600
+BUD GRAY LN                                                 0460004600
+BURKS LN                                                    0460004600
+BUTLER LN                                                   0460004600
+CARL YOUNG LN                                               0460004600
+CAROLINE ST                                                 0460204602
+CASE II LN                                                  0460004600
+CASE LN                                                     0460004600
+CEDAR HILL LN                                               0460004600
+CEMETERY DR                                                 0460104601
+CENTER WAY                                                  0460104601
+CHAPPEL LN                                                  0460004600
+CHEEK LN                                                    0460104601
+CIRCLE CT                                                   0460104601
+CLAY ST                                                     0460104601
+CLUBHOUSE DR                                                0460004600
+COAL BANK HOLLOW RD                                         0460004600
+COMMUNITY CENTER DR                                         0460204602
+CONCORD CHURCH RD                                           0460004600
+COOPER RD                                                   0460004600
+COUNTY LINE RD                                              0460004600
+COURT SQ                                                    0460104601
+CROWE RD                                                    0460004600
+CURTIS ST                                                   0460204602
+DALTON LOOP                                                 0460004600
+DARWIN GEORGE ST                                            0460104601
+DAVIES DR                                                   0460104601
+DEWITT RD                                                   0460004600
+DOGWOOD DR                                                  0460104601
+DONNA LOU LN                                                0460104601
+DRISKELL RD                                                 0460004600
+DUTCHBILL LOOP                                              0460004600
+E PHILLIPS LN                                               0460004600
+EAGLE WAY                                                   0460204602
+EARL BITTEL RD                                              0460004600
+EASTON CABOT RD                                             0460004600
+EASTWIND CT                                                 0460004600
+ED BROWN RD                                                 0460004600
+EDWARD BASHAM LN                                            0460004600
+ELDER LN                                                    0460004600
+ELM TREE LN                                                 0460104601
+EMERSON LN                                                  0460204602
+EMMICK LANDING RD                                           0460004600
+ESTES RD                                                    0460004600
+FAIRGROUNDS LN                                              0460104601
+FAITH ANN ST                                                0460104601
+FALLIN LN                                                   0460004600
+FIELDCREST DR                                               0460204602
+FRANK LUTTRELL RD                                           0460004600
+FRANK RICHARDS RD                                           0460004600
+FRANKLIN GAYNOR RD                                          0460004600
+FRED HODGES RD                                              0460004600
+FRED MORRIS RD                                              0460004600
+FROG ISLAND LN                                              0460004600
+GENE HAYDEN RD                                              0460004600
+GILBERT MORRIS RD                                           0460004600
+GLENN LN                                                    0460004600
+GOERING RD                                                  0460004600
+GRACELAND LOOP                                              0460004600
+GREAT COUNTRY ESTATE RD                                     0460004600
+GREATHOUSE RD                                               0460004600
+HAPPY HOLLOW RD                                             0460004600
+HARDINSBURG RD                                              0460004600
+HARRIET BOLIN LOOP                                          0460004600
+HARRISON ST                                                 0460004600
+HARRISON ST                                                 0460104601
+HARTFORD RD                                                 0460004600
+HARTFORD RD                                                 0460104601
+HAWES BLVD                                                  0460104601
+HAWESVILLE EASTON RD                                        0460004600
+HAWESVILLE SCHOOL DR                                        0460104601
+HAYNESVILLE RD                                              0460004600
+HENDERSON GROVE RD                                          0460004600
+HENDRICKS RD                                                0460004600
+HICKORY RIDGE LN                                            0460004600
+HICKORY RIDGE RD                                            0460004600
+HIDDEN VALLEY LN                                            0460004600
+HIGH ST                                                     0460204602
+HILLCREST CIR                                               0460004600
+HILLCREST LN                                                0460104601
+HILLCREST ST                                                0460204602
+HILLDALE RD                                                 0460004600
+HOLLAND AVE                                                 0460204602
+HOMER YOUNG ST                                              0460204602
+HONEY LOCUST LN                                             0460004600
+HORSE FORK RD                                               0460004600
+HUFF LN                                                     0460004600
+INDIAN LAKE CT                                              0460004600
+INDIAN LAKE DR                                              0460004600
+INDUSTRIAL PARK RD                                          0460004600
+JACKSON RD                                                  0460004600
+JACKSON TRAILER CT                                          0460104601
+JARBOE LN                                                   0460004600
+JEFFERSON ST                                                0460104601
+JENNINGS ST                                                 0460104601
+JOE POWERS RD                                               0460004600
+JOHN ANDERSON DR                                            0460004600
+JOHN PATE RD                                                0460004600
+JOHN RICHARD LN                                             0460104601
+JOHNSON LN                                                  0460004600
+JUDITH LYNN ST                                              0460104601
+JULIA ANNE ST                                               0460104601
+KNOX LN                                                     0460004600
+KY1389                                                      0460004600
+KY1403                                                      0460004600
+KY144 E                                                     0460004600
+KY144 W                                                     0460004600
+KY1700                                                      0460004600
+KY1957                                                      0460004600
+KY2181                                                      0460004600
+KY271 N                                                     0460004600
+KY271 S                                                     0460004600
+KY334                                                       0460004600
+KY6095                                                      0460004600
+KY6096                                                      0460004600
+KY6100                                                      0460004600
+KY657                                                       0460004600
+KY657                                                       0460204602
+KY661                                                       0460004600
+KY662                                                       0460004600
+KY69                                                        0460004600
+LAKE RD                                                     0460004600
+LAKE ST                                                     0460204602
+LAMAR LN                                                    0460004600
+LAMASTUS RD                                                 0460004600
+LAMBERT SCHOOLHOUSE RD                                      0460004600
+LASLIE LOOP                                                 0460004600
+LEE HENDERSON RD                                            0460004600
+LEE HENDERSON SPUR                                          0460004600
+LEWIN GIBBS LN                                              0460004600
+LEWISPORT HEIGHTS DR                                        0460004600
+LINCOLN RD                                                  0460204602
+LITTLE AVE                                                  0460204602
+LITTLE TAR SPRING RD                                        0460004600
+LITTLE VALLEY LN                                            0460004600
+LUKE MERCER RD                                              0460004600
+LYONIA EASTON RD                                            0460004600
+MADISON ST                                                  0460104601
+MAIN CROSS ST                                               0460104601
+MAIN ST                                                     0460104601
+MAPLE HILL LN                                               0460004600
+MARKET ST                                                   0460004600
+MARKET ST                                                   0460204602
+MASON LN                                                    0460004600
+MASON ST                                                    0460104601
+MCGILL LN                                                   0460004600
+MCINTYRE RD                                                 0460004600
+MEADOWLANE DR                                               0460204602
+MELANIE LN                                                  0460204602
+MIDDLE KNOTTSVILLE RD                                       0460004600
+MIDDLE PATESVILLE RD                                        0460004600
+MIDWAY LANE CONNECTOR                                       0460004600
+MIDWAY LN                                                   0460004600
+MOCKINGBIRD LN                                              0460204602
+MONROE ST                                                   0460104601
+MORTON LN                                                   0460004600
+MORTON LN                                                   0460204602
+MOXLEY LN                                                   0460004600
+MUDDY GUT RD                                                0460004600
+N HOPEWELL CHURCH RD                                        0460004600
+N INDIAN HILL RD                                            0460004600
+N ROBERTS LN                                                0460004600
+NANCY AVE                                                   0460204602
+NEW FRONT ST                                                0460204602
+NICHOLS CEMETARY RD                                         0460004600
+NUGENT LN                                                   0460004600
+OAK RD                                                      0460004600
+OLD MILL RD                                                 0460204602
+OLD US 60                                                   0460104601
+OVERLOOK DR                                                 0460104601
+PANTHER CREEK CHURCH RD                                     0460004600
+PARK RD                                                     0460004600
+PARK RD                                                     0460104601
+PAUL BAKER RD                                               0460004600
+PEAR TREE LN                                                0460104601
+PELL ST                                                     0460204602
+PELLVILLE RD                                                0460004600
+PELLVILLE ST                                                0460104601
+PENNSYLVANIA AVE                                            0460204602
+PICNIC RD                                                   0460004600
+PINE HILL LN                                                0460004600
+PLEASANT VIEW LN                                            0460004600
+PLEASANT VIEW RD                                            0460004600
+POPLAR GROVE CT                                             0460204602
+POPLAR GROVE RD                                             0460004600
+POWERS LN                                                   0460104601
+PRIVATE RD                                                  0460004600
+QUISENBERRY RD                                              0460004600
+RACHEL CT                                                   0460204602
+RAPP LN                                                     0460004600
+RAY RD                                                      0460004600
+REARDEN LN                                                  0460004600
+REED LN                                                     0460004600
+RICE LN                                                     0460004600
+RICHARDSON RD                                               0460004600
+RIDGETOP LN                                                 0460004600
+RIDGEWOOD DR                                                0460004600
+RIVER RD                                                    0460004600
+RIVER ST                                                    0460104601
+RIVERVIEW DR                                                0460004600
+RIVERVIEW DR                                                0460104601
+RIVERVIEW DR                                                0460204602
+ROBERTS LN                                                  0460004600
+ROBERTS RD                                                  0460004600
+ROBERTS RD                                                  0460204602
+ROBERTSON ST                                                0460104601
+ROBIN CIR                                                   0460204602
+ROBY RD                                                     0460004600
+ROCK LEDGE FERN CLIFF LN                                    0460104601
+ROSCOE BROWN LN                                             0460004600
+RUBY LN                                                     0460104601
+S HANCOCK PARK RD                                           0460004600
+S HOPEWELL CHURCH RD                                        0460004600
+S INDIAN HILL RD                                            0460004600
+S MIDDLE PATESVILLE RD                                      0460004600
+SAND HILL RD                                                0460004600
+SANDERS LN                                                  0460004600
+SANDS DR                                                    0460204602
+SCENIC HILLTOP LN                                           0460004600
+SCHAFER CAMP RD                                             0460004600
+SCIFRES LN                                                  0460104601
+SCIFRES RIDGE RD                                            0460004600
+SHADWICK LN                                                 0460004600
+SHEARN LN                                                   0460004600
+SHULTZ RD                                                   0460004600
+SKILLMAN RD                                                 0460004600
+SKYLINE TRAILER CT                                          0460004600
+SMITH BRIDGE RD                                             0460004600
+SNYDER CT                                                   0460104601
+SPEAKS LN                                                   0460004600
+SQUIRREL TAIL HOLLOW RD                                     0460004600
+STINNETT LN                                                 0460004600
+STORM RD                                                    0460004600
+STUMP NEWMAN RD                                             0460004600
+SWEET RD                                                    0460004600
+SYCAMORE LN                                                 0460104601
+TADPOLE LN                                                  0460004600
+TAYLOR AVE                                                  0460204602
+TELEPHONE TOWER RD                                          0460004600
+THOMAS DR                                                   0460204602
+THOMAS LN                                                   0460004600
+THRASHER ALY                                                0460204602
+THRASHER LN                                                 0460004600
+TICK RIDGE RD                                               0460004600
+TOLER AVE                                                   0460204602
+TOLER BRIDGE RD                                             0460004600
+TOM BOLIN RD                                                0460004600
+TOMMY JACKSON LN                                            0460004600
+TRUMAN YOUNG RD                                             0460004600
+TURKEY RIDGE RD                                             0460004600
+UNNAMED A RD                                                0460004600
+UNNAMED B RD                                                0460004600
+UPPER JEFFERSON LN                                          0460104601
+UPPER WASHINGTON LN                                         0460104601
+US60                                                        0460004600
+US60                                                        0460104601
+US60                                                        0460204602
+US60 W                                                      0460004600
+US60 W                                                      0460204602
+UTILITY LEWISPORT RD                                        0460004600
+VASTWOOD PARK RD                                            0460004600
+VEACH RD                                                    0460004600
+VICTORIA CROSSROADS RD                                      0460004600
+VIRGIL BROWN RD                                             0460004600
+W PHILLIPS LN                                               0460004600
+WAITMAN STATION LP                                          0460004600
+WASHINGTON AVE                                              0460204602
+WASHINGTON ST                                               0460104601
+WATER TOWER LOOP                                            0460004600
+WATER TOWER LOOP SPUR                                       0460004600
+WESCOR RD                                                   0460004600
+WESTVIEW DR                                                 0460004600
+WHITE TAIL DR                                               0460004600
+WILLAMETTE RD                                               0460004600
+WILLIAMS AVE                                                0460204602
+WINDSONG DR                                                 0460004600
+WINDWARD DR                                                 0460004600
+WINDWARD HEIGHTS LOOP                                       0460004600
+WOOD ST                                                     0460104601
+YEAKEL RD                                                   0460004600
+YOUNG RD                                                    0460004600

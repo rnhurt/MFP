@@ -1,0 +1,756 @@
+1ST ST                                                      0500105001
+2ND ST                                                      0500105001
+A A WHITMAN LN                                              0500205002
+A L FARMER RD                                               0500005000
+ADCOCK RD                                                   0500005000
+AETNA FURNACE HWY                                           0500005000
+AETNA FURNACE RD                                            0500005000
+AKIN CEMETERY RD                                            0500005000
+ALAN AVE                                                    0500205002
+ALLEN POTTINGER RD                                          0500005000
+ALPHIS ST                                                   0500105001
+ALTSHELLER AVE                                              0500105001
+ALVA TRULOCK RD                                             0500005000
+ALVEY LN                                                    0500005000
+ANGUS RD                                                    0500005000
+APPLEWAY RD                                                 0500005000
+ARCHIE FRYER RD                                             0500005000
+ARROWHEAD DR                                                0500005000
+ARROWHEAD RANCH RD                                          0500005000
+ASHTOWN MILLERSTOWN RD                                      0500005000
+ATT MICROWAVE TOWER RD                                      0500005000
+BACON CREEK HWY                                             0500005000
+BACON CREEK HWY                                             0500305003
+BACON CREEK RD                                              0500005000
+BALES RD                                                    0500005000
+BANK ST                                                     0500005000
+BARK RD                                                     0500005000
+BEAR WALLOW RD                                              0500005000
+BEDFORD CT                                                  0500105001
+BEN F RICHARDSON RD                                         0500005000
+BENNETT DR                                                  0500005000
+BENNETT DR                                                  0500105001
+BENNETT RD                                                  0500005000
+BETH LN                                                     0500105001
+BIG BEECHTREE RD                                            0500005000
+BIG WINDY RD                                                0500005000
+BIG WOODS SOUTH RD                                          0500005000
+BILL BASTIN RD                                              0500005000
+BILLY ADAMS RD                                              0500005000
+BIRCHWOOD LN                                                0500005000
+BLUEBIRD RD                                                 0500005000
+BLUEGRASS AVE                                               0500105001
+BOARD CEMETERY RD                                           0500005000
+BOBBI LN                                                    0500005000
+BOILING SPRINGS RD                                          0500005000
+BOLTON SCHOOL RD                                            0500005000
+BONN DR                                                     0500005000
+BONN DR                                                     0500305003
+BONN HEIGHTS RD                                             0500305003
+BONNIE VIEW RD                                              0500005000
+BOTTS AVE                                                   0500005000
+BOYDS KNOB RD                                               0500005000
+BRAGG AVE                                                   0500005000
+BRIDGE ST                                                   0500205002
+BRIGGS WEBB RD                                              0500005000
+BROAD FORD RD                                               0500005000
+BROADWAY ST                                                 0500105001
+BROWN RD                                                    0500005000
+BUCKNER AVE                                                 0500205002
+BUCKNER HILL NORTH RD                                       0500005000
+BUCKNER HOLLOW SOUTH RD                                     0500005000
+BUCKNER LN                                                  0500005000
+BUELL AVE                                                   0500005000
+BULL RUN RD                                                 0500205002
+BUMGARDNER RD                                               0500005000
+BUNNELL AVE                                                 0500105001
+BUNNELL CROSSING RD                                         0500005000
+BUNNELL ST                                                  0500105001
+BURD LN                                                     0500005000
+BUTLER RD                                                   0500105001
+BYBEE DR                                                    0500105001
+C D LOCKE RD                                                0500005000
+C E JOHNSON RD                                              0500005000
+C HATCHER RD                                                0500005000
+C HOLICK RD                                                 0500005000
+C LINDSEY RD                                                0500005000
+C T HOGAN RD                                                0500005000
+CALDWELL NORTH RD                                           0500005000
+CALDWELL ST                                                 0500205002
+CAMPGROUND CEMETERY RD                                      0500005000
+CAMPGROUND RD                                               0500005000
+CAMPGROUND RD                                               0500305003
+CANE RUN CEMETERY RD                                        0500005000
+CANE RUN CHURCH RD                                          0500005000
+CARL BENNINGFIELD RD                                        0500005000
+CARLOS BARBOUR RD                                           0500005000
+CARLOS BUNNELL RD                                           0500005000
+CARRICO RD                                                  0500005000
+CASH HWY                                                    0500005000
+CATHOLIC HILL RD                                            0500005000
+CATHOLIC HILL RD                                            0500305003
+CAVE CITY BEAR WALLOW RD                                    0500005000
+CAVE HILL RD                                                0500005000
+CAVE SPRINGS LOOP                                           0500005000
+CAVE ST                                                     0500105001
+CECIL JEFFRIES RD                                           0500005000
+CEDAR CLIFF CHURCH RD                                       0500005000
+CEDAR KNOB RD                                               0500005000
+CEDAR LN                                                    0500005000
+CEMETERY AVE                                                0500105001
+CENTER POINT EAST RD                                        0500005000
+CENTER POINT LOOP                                           0500005000
+CENTER POINT WEST RD                                        0500005000
+CENTER THREE SPRINGS RD                                     0500005000
+CENTERPOINT EAST RD                                         0500005000
+CHANEY LN                                                   0500005000
+CHARLES JAGGERS RD                                          0500005000
+CHARLIE COBB RD                                             0500005000
+CHARLIE DOWLING RD                                          0500005000
+CHARLIE GOODMAN RD                                          0500005000
+CHARLIE MANSFIELD RD                                        0500005000
+CHARLIE MORAN HWY                                           0500005000
+CHARLIE MORAN HWY                                           0500105001
+CHARLIE WELLS RD                                            0500005000
+CHATAW LN                                                   0500005000
+CHERRY SPRINGS RD                                           0500005000
+CHERRY ST                                                   0500105001
+CHESLON RD                                                  0500005000
+CHESTNUT GROVE CEMETERY RD                                  0500005000
+CHESTNUT GROVE NORTH RD                                     0500005000
+CHESTNUT GROVE SOUTH RD                                     0500005000
+CHESTNUT GROVE SOUTH SPUR                                   0500005000
+CHESTNUT GROVE SOUTH SPUR E                                 0500005000
+CHESTNUT LN                                                 0500205002
+CHESTNUT ST                                                 0500105001
+CHRIS WILSON RD                                             0500005000
+CHUCK A LUCK RD                                             0500005000
+CHURCH ST                                                   0500005000
+CHURCH ST                                                   0500105001
+CIRCLE DR                                                   0500105001
+CLEARVIEW DR                                                0500005000
+COLLEGE ST                                                  0500105001
+COMANCHE DR                                                 0500005000
+COMER AVE                                                   0500105001
+CONCORD CHURCH RD                                           0500005000
+CONYERS AVE                                                 0500105001
+CONYERS CEMETERY RD                                         0500005000
+COPELIN RD                                                  0500005000
+COPELIN VALLEY RD                                           0500005000
+CORUMS RD                                                   0500005000
+COSBY LN                                                    0500005000
+COTTRELL RD                                                 0500005000
+COUNTRY RD                                                  0500005000
+COUNTRY VIEW DR                                             0500005000
+COUNTRYSIDE DR                                              0500105001
+COUNTY BARN RD                                              0500005000
+CRADDOCK RD                                                 0500005000
+CRAIG AVE                                                   0500005000
+CREEK RD                                                    0500005000
+CREEK RD                                                    0500305003
+CRESTVIEW DR                                                0500105001
+CRUMP RD                                                    0500005000
+CRYSTAL CAVE RD                                             0500005000
+CUB RUN CAVE RD                                             0500005000
+CUB RUN CEMETERY RD                                         0500005000
+CUB RUN HOLLOW RD                                           0500005000
+CUB RUN HWY                                                 0500005000
+CUB RUN HWY                                                 0500205002
+CUB RUN LOOP                                                0500005000
+CUCUMBER LOOP                                               0500005000
+CURRY RD                                                    0500005000
+CUSTER RD                                                   0500005000
+D W MEREDITH RD                                             0500005000
+D WINTSCH RD                                                0500005000
+DAKOTA DR                                                   0500005000
+DAMASCUS WAY                                                0500005000
+DAVENPORT DR                                                0500105001
+DAVID WAY                                                   0500205002
+DAVIS BEND RD                                               0500005000
+DAVIS WILLIAMS RD                                           0500005000
+DAWSON HOLLOW NORTH RD                                      0500005000
+DAWSON HOLLOWS RD                                           0500005000
+DEACON LN                                                   0500005000
+DEFRIES RD                                                  0500005000
+DELL AVE                                                    0500105001
+DENISON DR                                                  0500105001
+DENNIS WHITLOW RD                                           0500005000
+DENNISON FERRY RD                                           0500005000
+DENNISON RD                                                 0500005000
+DES AVE                                                     0500105001
+DEVORE LN                                                   0500205002
+DEWEY WALSH RD                                              0500005000
+DIE RD                                                      0500005000
+DIE SHIBOLEY CHURCH RD                                      0500005000
+DISHMAN CEMETERY RD                                         0500005000
+DISHMAN RD                                                  0500005000
+DIXIE LN                                                    0500005000
+DOBSON CEMETERY RD                                          0500005000
+DOC SPEEVACK RD                                             0500005000
+DOG CREEK HOLLOW RD                                         0500005000
+DOG CREEK RD                                                0500005000
+DOG CREEK RECREATION AREA NO1                               0500005000
+DOG CREEK RECREATION AREA NO2                               0500005000
+DOG CREEK RECREATION AREA NO3                               0500005000
+DOG CREEK RECREATION AREA NO4                               0500005000
+DOG CREEK RECREATION AREA NO5                               0500005000
+DOGWOOD LN                                                  0500005000
+DORA FRANK RD                                               0500005000
+DRY RUN RD                                                  0500005000
+DUDLEY POINTE RD                                            0500005000
+E BACK ST                                                   0500205002
+E CENTER ST                                                 0500205002
+E DALE HTS                                                  0500105001
+E ELK ST                                                    0500205002
+E FORK POSSUM HOLLOW RD                                     0500005000
+E GAP HILL RD                                               0500005000
+E JULIUS MILLS RD                                           0500005000
+E SOUTH ST                                                  0500205002
+E SULLIVAN RD                                               0500005000
+E W HATCHER RD                                              0500005000
+EASTSIDE DR                                                 0500105001
+EASTVIEW RD                                                 0500005000
+ED HOWE RD                                                  0500005000
+ED MURRAY RD                                                0500005000
+EDGEWOOD ST                                                 0500205002
+EDUCATIONAL AVE                                             0500005000
+EDWARDS AVE                                                 0500105001
+EDWARDS CEMETERY RD                                         0500005000
+ELLIOT AVE                                                  0500305003
+ERNEST CHAUDOIN RD                                          0500005000
+ERNEST WILSON RD                                            0500005000
+EUDORA RD                                                   0500005000
+EVE HWY                                                     0500005000
+EXUM LN                                                     0500005000
+FAIRVIEW AVE                                                0500105001
+FAIRVIEW CHURCH PASCAL RD                                   0500005000
+FALLING SPRINGS CHURCH RD                                   0500005000
+FALLING SPRINGS HOLLOW RD                                   0500005000
+FALLING SPRINGS LN                                          0500005000
+FALLING SPRINGS RD                                          0500005000
+FARMER RD                                                   0500005000
+FERN DR                                                     0500005000
+FERN ST                                                     0500005000
+FIELDS LN                                                   0500005000
+FIELDS RD                                                   0500005000
+FIGETT BEND RD                                              0500005000
+FISHER RIDGE RD                                             0500005000
+FLAT ROCK RD                                                0500005000
+FLINT LN                                                    0500005000
+FLINT RIDGE RD                                              0500005000
+FORESTVILLE RD                                              0500005000
+FRENCHMANS KNOB RD                                          0500005000
+FRIENDSHIP CHURCH RD                                        0500005000
+FULKERSON RD                                                0500005000
+G CLYMER RD                                                 0500005000
+G HIGHBAUGH RD                                              0500005000
+G W SHELTON RD                                              0500005000
+G WILSON RD                                                 0500005000
+GADDIE CEMETERY RD                                          0500005000
+GADDIE COTTRELL RD                                          0500005000
+GARDNER RD                                                  0500005000
+GARVIE FULKS RD                                             0500005000
+GAULT TERRY RD                                              0500005000
+GENTRY ST                                                   0500205002
+GEORGE CHILDRESS RD                                         0500005000
+GERALDS LN                                                  0500005000
+GILEAD FAIRVIEW RD                                          0500005000
+GLEN LILY EAST RD                                           0500005000
+GLEN LILY WEST RD                                           0500005000
+GLEN LOGSDON RD                                             0500005000
+GLENBROOK HOTEL RD                                          0500005000
+GLENVIEW DR                                                 0500105001
+GONTERMAN RD                                                0500005000
+GOODMAN ST                                                  0500205002
+GOREN MILL RD                                               0500005000
+GOREN MILL RD                                               0500205002
+GOREN MILL SPUR                                             0500205002
+GOSSIP HILL RD                                              0500005000
+GRAHAM RD                                                   0500005000
+GREEN AVE                                                   0500105001
+GUTHRIE ST                                                  0500005000
+GUTHRIE ST                                                  0500105001
+H A STURGEON RD                                             0500005000
+H DAVIS RD                                                  0500005000
+H DORSEY RD                                                 0500005000
+H H WILSON PARK RD                                          0500005000
+HALLTOWN RD                                                 0500005000
+HAMILTON CEMETERY SPUR RD                                   0500005000
+HAMILTON VALLEY RD                                          0500005000
+HAMMONSVILLE JONESVILLE RD                                  0500005000
+HAMMONSVILLE RD                                             0500005000
+HAMMONSVILLE RD                                             0500205002
+HAMMONSVILLE SCHOOLHOUSE RD                                 0500005000
+HARDY VALLEY RD                                             0500005000
+HARDYVILLE RD                                               0500005000
+HARLANS LN                                                  0500005000
+HARMONY TRAIL                                               0500005000
+HARPER CEMETERY RD                                          0500205002
+HARPER DR                                                   0500005000
+HARPER DR                                                   0500105001
+HARPER VALLEY RD                                            0500005000
+HARPERS CEMETERY RD                                         0500005000
+HART AVE                                                    0500105001
+HART DR                                                     0500205002
+HARTLAND GREEN                                              0500105001
+HATCHER VALLEY RD                                           0500005000
+HEATH LN                                                    0500005000
+HEDGEPETH RD                                                0500005000
+HICK SPRINGS RD                                             0500005000
+HICKORY LN                                                  0500005000
+HIDDEN RIVER RD                                             0500005000
+HIDDEN RIVER RD                                             0500105001
+HIGBEE ST                                                   0500105001
+HIGH HICKORY RD                                             0500005000
+HILL CREST RD                                               0500005000
+HILLTOP DR                                                  0500005000
+HILLTOP RD                                                  0500005000
+HILLVIEW DR                                                 0500005000
+HISEVILLE BEAR WALLOW RD N                                  0500005000
+HISEVILLE PARK RD                                           0500005000
+HOLLY BRANCH RUN                                            0500005000
+HOLLY LN                                                    0500005000
+HOOTOWL HOLLOW RD                                           0500005000
+HOPEWELL CHURCH RD                                          0500005000
+HORSE BRANCH RD                                             0500005000
+HORTON LN                                                   0500005000
+HOWARD DR                                                   0500005000
+HOWARD SCOTT RD                                             0500005000
+HOWARD ST                                                   0500205002
+HUBBARD AVE                                                 0500205002
+HUDGINS RD                                                  0500005000
+HUFFMAN CEMETERY RD                                         0500005000
+HUNDRED ACRE POND RD                                        0500005000
+HUNTING TRAIL RD                                            0500205002
+I CHILDRESS RD                                              0500005000
+I H GILL RD                                                 0500005000
+I65 N                                                       0500005000
+I65 N                                                       0500205002
+I65 N EXIT58 OFF RAMP TO KY218                              0500005000
+I65 N EXIT58 OFF RAMP TO KY218 E                            0500005000
+I65 N EXIT58 OFF RAMP TO KY218 W                            0500005000
+I65 N EXIT58 ON RAMP FROM KY218 E                           0500005000
+I65 N EXIT58 ON RAMP FROM KY218 W                           0500005000
+I65 N EXIT65 OFF RAMP TO US31W                              0500205002
+I65 N EXIT65 ON RAMP FROM US31W                             0500205002
+I65 N EXIT65 ON RAMP FROM US31W N                           0500205002
+I65 N EXIT65 ON RAMP FROM US31W S                           0500205002
+I65 N EXIT71 OFF RAMP TO KY728                              0500005000
+I65 N EXIT71 ON RAMP FROM KY728                             0500005000
+I65 N REST AREA60                                           0500005000
+I65 N REST AREA60 OFF RAMP                                  0500005000
+I65 N REST AREA60 ON RAMP                                   0500005000
+I65 S                                                       0500005000
+I65 S EXIT58 OFF RAMP TO KY218                              0500005000
+I65 S EXIT58 OFF RAMP TO KY218 W                            0500005000
+I65 S EXIT58 ON RAMP FROM KY218                             0500005000
+I65 S EXIT58 ON RAMP FROM KY218 E                           0500005000
+I65 S EXIT58 ON RAMP FROM KY218 W                           0500005000
+I65 S EXIT65 OFF RAMP TO US31W                              0500005000
+I65 S EXIT65 ON RAMP FROM US31W                             0500205002
+I65 S EXIT65 ON RAMP FROM US31W N                           0500205002
+I65 S EXIT65 ON RAMP FROM US31W S                           0500205002
+I65 S EXIT71 OFF RAMP TO KY728                              0500005000
+I65 S EXIT71 ON RAMP FROM KY728                             0500005000
+I65 S REST AREA60                                           0500005000
+I65 S REST AREA60 OFF RAMP                                  0500005000
+I65 S REST AREA60 ON RAMP                                   0500005000
+I65 TURN AROUND57                                           0500005000
+I65 TURN AROUND65                                           0500005000
+I65 TURN AROUND69                                           0500005000
+I65 TURN AROUND71                                           0500005000
+INTERSTATE LOOP                                             0500005000
+IRVIN CEMETERY RD                                           0500005000
+J A ALTSHELER LN                                            0500205002
+J C HARLOW RD                                               0500005000
+J C JONES RD                                                0500005000
+J HARPER RD                                                 0500005000
+J L BORDERS RD                                              0500005000
+J L THOMAS RD                                               0500005000
+J RIGGS RD                                                  0500005000
+J SMITH RD                                                  0500005000
+JACK MCGUIRE RD                                             0500005000
+JACK WEST RD                                                0500005000
+JACKSON RD                                                  0500005000
+JAGGERS DR                                                  0500205002
+JAMES RAGLAND RD                                            0500005000
+JEANIES WAY                                                 0500005000
+JENNY LN                                                    0500005000
+JERICHO CHURCH RD                                           0500005000
+JESSIE FULTS RD                                             0500005000
+JEWELL DR                                                   0500005000
+JEWELL LN                                                   0500005000
+JIM THOMPSON RD                                             0500005000
+JOE POTTINGER LN                                            0500005000
+JOHN HIGHBAUGH RD                                           0500005000
+JOHN HINES RD                                               0500005000
+JOHN HORNBECK RD                                            0500005000
+JOHN LOGSDON CEMETERY RD                                    0500005000
+JOHN LOGSDON RD                                             0500005000
+JOHN ST                                                     0500005000
+JOHNNIE BUSH RD                                             0500005000
+JOHNS LN                                                    0500005000
+JOHNSON CEMETERY RD                                         0500005000
+JOHNSON SPRINGS RD                                          0500005000
+JONES SCHOOL HOUSE EAST                                     0500005000
+JONES SCHOOL RD                                             0500005000
+JONES SCHOOLHOUSE RD                                        0500005000
+JONESVILLE MILL RD                                          0500005000
+JULIA LN                                                    0500005000
+JUNIOR COMPTON RD                                           0500005000
+K CHOATE RD                                                 0500005000
+K S GRADY RD                                                0500005000
+KATE RUSH RD                                                0500005000
+KATHLEEN AVE                                                0500105001
+KESSERLING RD                                               0500005000
+KIRT LOGSDON RD                                             0500005000
+KLETTNER RD                                                 0500005000
+KNOB CHURCH RD                                              0500005000
+KNOB HILL RD                                                0500005000
+KNOB NORTH RD                                               0500005000
+KNOB SOUTH RD                                               0500005000
+KNOXS CREEK RD                                              0500005000
+KOUNTRY KITCHEN RD                                          0500005000
+L AND N TPKE                                                0500005000
+L D MANSFIELD RD                                            0500005000
+L D OBANION RD                                              0500005000
+L W NEAL RD                                                 0500005000
+LACEY LN                                                    0500005000
+LANNY HARLOW RD                                             0500005000
+LATON TURNER RD                                             0500005000
+LAURA LN                                                    0500005000
+LAWLER BEND RD                                              0500005000
+LAWLER RD                                                   0500005000
+LEE DR                                                      0500105001
+LEGRANDE HWY                                                0500005000
+LEO DR                                                      0500005000
+LEON SRYGLER RD                                             0500005000
+LEONARD DAY RD                                              0500005000
+LESLIE AVE                                                  0500005000
+LESTER GARDNER RD                                           0500005000
+LESTER RD                                                   0500005000
+LEVI BEAMS RD                                               0500005000
+LIBERTY LAWSON RD                                           0500005000
+LIBERTY SCHOOLHOUSE RD                                      0500005000
+LILETOWN RD                                                 0500005000
+LINE ST                                                     0500205002
+LINVIEW DR                                                  0500005000
+LINWOOD LN                                                  0500005000
+LITTLE BLUE SPRINGS CHURCH RD                               0500005000
+LITTLE JORDAN RD                                            0500005000
+LIVELY RD                                                   0500005000
+LOCUST GROVE RD                                             0500005000
+LOCUST GROVE WEST RD                                        0500005000
+LOGSDON VALLEY CEMETERY RD                                  0500005000
+LOGSDON VALLEY RD                                           0500005000
+LONDON PACE SINK RD                                         0500005000
+LONE STAR RD                                                0500005000
+LONE STAR TOWER RD                                          0500005000
+LONOKE RD                                                   0500005000
+LOUIS GARDNER RD                                            0500005000
+LOUISVILLE BEDDING BLVD                                     0500205002
+LUKE LN                                                     0500005000
+LYNN AVE                                                    0500205002
+LYNNS DR                                                    0500105001
+MACEDONIA CHURCH RD                                         0500005000
+MACK SMITH RD                                               0500005000
+MACON KESSINGER RD                                          0500005000
+MAGNOLIA GAS STORAGE RD                                     0500005000
+MAIN ST                                                     0500205002
+MAMMOTH CAVE PARK RD                                        0500005000
+MAPLE AVE                                                   0500205002
+MAPLE GROVE LN                                              0500005000
+MAPLE LN                                                    0500005000
+MAPLE ST                                                    0500105001
+MARGARET ST                                                 0500105001
+MARK LN                                                     0500005000
+MARSHALL LN                                                 0500005000
+MARTIN PIERCE RD                                            0500005000
+MARTIN RD                                                   0500105001
+MARY THOMAS AVE                                             0500105001
+MATTHEW RD                                                  0500005000
+MAXEY KNOB RD                                               0500005000
+MCCANDLESS RD                                               0500005000
+MCCRADY DR                                                  0500005000
+MCCUBBINS FARM RD                                           0500005000
+MCCUBBINS LN                                                0500005000
+MCCUBBINS LN                                                0500205002
+MCFERRAN ST                                                 0500105001
+MEADOW RIDGE LN                                             0500005000
+MEADOWVIEW ST                                               0500105001
+MELLOAN AVE                                                 0500005000
+MEMORIAL DR                                                 0500305003
+MERL REYNOLDS RD                                            0500005000
+MILL ST                                                     0500105001
+MILL ST                                                     0500205002
+MILLER DR                                                   0500205002
+MOHAWK RD                                                   0500005000
+MONROE DR                                                   0500005000
+MOOREHAVEN TRAILER PARK NO1                                 0500005000
+MOOREHAVEN TRAILER PARK NO2                                 0500005000
+MORAN ST                                                    0500105001
+MORGAN ST                                                   0500205002
+MORGANS RAIDERS AVE                                         0500305003
+MOSS RD                                                     0500005000
+MOUSER BRANCH RD                                            0500005000
+MT BEULAH LOOP                                              0500005000
+MT SHERMAN RD                                               0500004400
+MT VERNON RD                                                0500005000
+MUD BRANCH RD                                               0500005000
+MUNFORD AVE                                                 0500205002
+MURRAY RD                                                   0500005000
+N DIXIE HWY                                                 0500005000
+N DIXIE HWY                                                 0500305003
+N ELIZABETH ST                                              0500205002
+N JACKSON HWY                                               0500005000
+N NELSON RD                                                 0500005000
+N WASHINGTON ST                                             0500205002
+N WESLEY RD                                                 0500005000
+NANCY PRIDDY RD                                             0500005000
+NATIONAL TPKE                                               0500205002
+NEW ST                                                      0500105001
+NICHOLS RD                                                  0500005000
+NOLIN RIVER RD                                              0500005000
+NORTHTOWN CHURCH RD                                         0500005000
+NORTHTOWN SCHOOL RD                                         0500005000
+OCEOLA TRAIL RD                                             0500005000
+OIL FIELD RD                                                0500005000
+OLD CUT RD                                                  0500005000
+OLD DIXIE HWY                                               0500005000
+OLD DIXIE HWY                                               0500105001
+OLD DIXIE RD                                                0500005000
+OLD GLASGOW RD                                              0500005000
+OLD GLASGOW RD                                              0500105001
+OLD LEXINGTON RD                                            0500005000
+OLD MAIN ST                                                 0500205002
+OLD ST                                                      0500205002
+OLIVE AVE                                                   0500305003
+OMAR CHANEY RD                                              0500005000
+ORIS STASEL RD                                              0500005000
+P M LINDSEY RD                                              0500005000
+PACE RD                                                     0500005000
+PALMORE RD                                                  0500005000
+PARK RIDGE RD                                               0500005000
+PARKER RD                                                   0500005000
+PAUL HEATH LN                                               0500005000
+PAWNEE RD                                                   0500005000
+PAYTON HOLLOW RD                                            0500005000
+PEBBLES ST                                                  0500105001
+PERKINS CEMETERY RD                                         0500005000
+PHIL LOGSDON LN                                             0500005000
+PHILPOT LN                                                  0500005000
+PIKEVIEW RD                                                 0500005000
+PINE GROVE CHURCH RD                                        0500005000
+PINE RIDGE RD                                               0500005000
+PIONEER RD                                                  0500005000
+PLEASANT GROVE CEMETERY RD                                  0500005000
+PLEASANT GROVE RD                                           0500005000
+PLEASANT HILL RD                                            0500005000
+POLIE HANDY RD                                              0500005000
+POND RD                                                     0500005000
+PONDEROSA LN                                                0500005000
+POPLAR HEART RD                                             0500005000
+POPLAR LN                                                   0500005000
+PORT WOODEN RD                                              0500005000
+PORTERFIELD LN                                              0500005000
+POSSOM HOLLOW RD                                            0500005000
+POSSUM TROT RD                                              0500005000
+POTEET RD                                                   0500005000
+POTEET SPUR RD                                              0500005000
+POWDER MILL LN                                              0500005000
+POWDER MILL SCHOOLHOUSE RD                                  0500005000
+POWDER MILLS RD                                             0500005000
+PRICEVILLE LN                                               0500005000
+PRICEVILLE RD                                               0500005000
+PUCKETTS CHAPEL RD                                          0500005000
+QUAIL LN                                                    0500005000
+QUALITY ST                                                  0500205002
+QUARRY RD                                                   0500005000
+QUINN CEMETERY RD                                           0500005000
+R HUNTER RD                                                 0500005000
+R W HANDY RD                                                0500005000
+R W HANDY RD                                                0500105001
+RACHEL WAY                                                  0500005000
+RAIDER HOLLOW LN                                            0500005000
+RAIDER HOLLOW RD                                            0500005000
+RAILROAD CIR                                                0500305003
+RAYMOND SMITH RD                                            0500005000
+REAMS CHURCH RD                                             0500005000
+RED BUCK ESTES RD                                           0500005000
+REDWOOD LN                                                  0500005000
+REX RD                                                      0500005000
+REYNOLDS LN                                                 0500005000
+REYNOLDS ST                                                 0500205002
+RICHARDSON RD                                               0500005000
+RIGGS ROSS RD                                               0500005000
+RIGHT FORK E W HATCHER RD                                   0500005000
+RIGHT FORK SHELL CHILDRESS RD                               0500005000
+RIORDAN CEMETERY RD                                         0500005000
+RIORDAN RD                                                  0500005000
+RIORDAN RD                                                  0500105001
+RIVER BEND RD                                               0500005000
+RIVER BOTTOM RD                                             0500005000
+RIVER RD                                                    0500205002
+ROBBIN LN                                                   0500005000
+ROBERT BRANSTETTER RD                                       0500005000
+ROBERT STINSON RD                                           0500005000
+ROBIN RD                                                    0500105001
+ROCK CEMETERY RD                                            0500005000
+ROCK SPRINGS CHURCH RD                                      0500005000
+ROCKY HILL RD                                               0500005000
+RODNEY PEACE RD                                             0500005000
+ROGER SPRADLIN RD                                           0500005000
+ROSEBURG RD                                                 0500005000
+ROSSER RD                                                   0500005000
+ROUND BOTTOM RD                                             0500005000
+ROUND STONE HOLLOW RD                                       0500005000
+ROWLETT ST                                                  0500205002
+ROWLETTS CAVE SPRING RD                                     0500005000
+ROWLETTS HEIGHTS RD                                         0500005000
+ROWLETTS RD                                                 0500005000
+ROXIE GLASS RD                                              0500005000
+ROY CANN RD                                                 0500005000
+ROY LOGSDON RD                                              0500005000
+RUBE SMITH RD                                               0500005000
+RUBEN CHILDRESS RD                                          0500005000
+RUSH ISLAND BEND RD                                         0500005000
+RUTH THOMAS ST                                              0500105001
+S BUTLER RD                                                 0500005000
+S DIXIE HWY                                                 0500005000
+S DIXIE HWY                                                 0500105001
+S ELIZABETH ST                                              0500205002
+S JACKSON HWY                                               0500005000
+S W CARTMILL RD                                             0500005000
+S WASHINGTON ST                                             0500205002
+SALTS CAVE RD                                               0050200502
+SALTS CAVE RD                                               0500005000
+SAM GOODMAN RD                                              0500005000
+SAND CAVE RD                                                0500005000
+SANDSTONE RIDGE RD                                          0500005000
+SANFORD BURD RD                                             0500005000
+SCOTT ST                                                    0500205002
+SELF LN                                                     0500005000
+SERENA CT                                                   0500005000
+SEYMOUR BEAR WALLOW RD                                      0500005000
+SEYMOUR LN                                                  0500005000
+SEYMOUR PARK RD                                             0500005000
+SHADY LANE CHURCH RD                                        0500005000
+SHADY LN                                                    0500305003
+SHADYLANE ST                                                0500105001
+SHELL CHILDRESS RD                                          0500005000
+SHELTON RD                                                  0500005000
+SHEWEY AVE                                                  0500105001
+SHORT CUT RD                                                0500005000
+SHORT CUT RD                                                0500105001
+SHORT LN                                                    0500005000
+SHORT ST                                                    0500105001
+SIMS CEMETERY RD                                            0500005000
+SIMS RD                                                     0500005000
+SKYLINE DR                                                  0500205002
+SLAYTON MILL RD                                             0500005000
+SMITH MEADE ST                                              0500105001
+SMITH RD                                                    0500005000
+SMITH ST                                                    0500105001
+SPRADLIN LN                                                 0500005000
+STEEN ST                                                    0500105001
+STEWART ST                                                  0500205002
+STUART AVE                                                  0500105001
+SUNRISE AVE                                                 0500105001
+SUNRISE CIR                                                 0500005000
+SUNSHINE ACRES                                              0500005000
+SW CARTMILL RD                                              0500005000
+SWAMP HOLLOW RD                                             0500005000
+SYCAMORE RD                                                 0500005000
+T PUCKETT RD                                                0500005000
+TAMPA BRANCH RD                                             0500005000
+TANYARD HOLLOW RD                                           0500005000
+TERRY BASTIN RD                                             0500005000
+THOMAS BEND RD                                              0500005000
+THOMPSON RD                                                 0500005000
+THOROUGHBRED HEIGHTS RD                                     0500005000
+THREE SPRINGS HWY                                           0500005000
+THURSTON LN                                                 0500005000
+TIMBERLAKE CEMETERY RD                                      0500005000
+TIMBERLAKE CEMETERY SPUR RD                                 0500005000
+TIMBERLEAF DR                                               0500005000
+TIMBERLEAF DRIVE EXT                                        0500005000
+TOBACCO RD                                                  0500105001
+TOMMY TOMS RD                                               0500005000
+TOOHEY RIDGE NORTH RD                                       0500005000
+TOOHEY RIDGE RD                                             0500005000
+TOOHEY RIDGE SPUR RD                                        0500005000
+TOP QUALITY DR                                              0500005000
+TOP QUALITY DR                                              0500105001
+TOP QUALITY RD                                              0500005000
+UNO HORSE CAVE RD                                           0500005000
+US31E                                                       0500005000
+VANCE RD                                                    0500005000
+VELUZAT ST                                                  0500105001
+VERNON RIGDON RD                                            0500005000
+VIAL KNOB RD                                                0500005000
+VIAL KNOB RD                                                0500105001
+VIAL ST                                                     0500105001
+VILLA DR                                                    0500105001
+VIOLET AVE                                                  0500105001
+VIRGIL BRANSTETTER RD                                       0500005000
+W BACK ST                                                   0500205002
+W CENTER ST                                                 0500205002
+W DALE HEIGHTS RD                                           0500105001
+W DENNISON RD                                               0500005000
+W DRUEN RD                                                  0500005000
+W ELK ST                                                    0500205002
+W JULIUS MILLS RD                                           0500005000
+W R MEADOWS RD                                              0500005000
+W SOUTH ST                                                  0500205002
+W UNION ST                                                  0500205002
+W WALTERS RD                                                0500005000
+W WEST ST                                                   0500205002
+WABASH RD                                                   0500005000
+WADDELL LN                                                  0500005000
+WALDECK RD                                                  0500005000
+WALKER STEWART RD                                           0500005000
+WALLOW RIDGE RD                                             0500005000
+WALNUT GROVE SCHOOL RD                                      0500005000
+WALNUT LN                                                   0500005000
+WALNUT ST                                                   0500105001
+WALNUT WAY                                                  0500005000
+WALTHALL ST                                                 0500105001
+WALTON LN                                                   0500205002
+WARD AVE                                                    0500305003
+WARD ST                                                     0500205002
+WAREHOUSE RD                                                0500105001
+WATER ST                                                    0500105001
+WATER WAY                                                   0500305003
+WATERLOO RD                                                 0500005000
+WATERTOWER RD                                               0500005000
+WHEELER HORTON RD                                           0500005000
+WHEELER RD                                                  0500005000
+WHEELERS MILL RD                                            0500005000
+WHICKERVILLE CEMETERY RD                                    0500005000
+WHICKERVILLE RD                                             0500005000
+WHIPPOORWILL LN                                             0500005000
+WHITMAN RD                                                  0500005000
+WIGWAM SUBDIVISION RD                                       0500005000
+WILDLIFE RD                                                 0500005000
+WILKERSON TEMPLE                                            0500005000
+WILLIAM FORD RD                                             0500005000
+WILLIS ST                                                   0500105001
+WILLOW WAY                                                  0500005000
+WINDY HILL RD                                               0500005000
+WINDY HILL RD                                               0500105001
+WINESAP RD                                                  0500005000
+WITHERS LN                                                  0500005000
+WOOD AVE                                                    0500105001
+WOODLAND AVE                                                0500205002
+WOODLAND RD                                                 0500005000
+WOODLAWN AVE                                                0500105001
+WOODS RD                                                    0500205002
+WOODSON RD                                                  0500005000
+WOODSONVILLE RD                                             0500005000
+WOOTENS KNOB RD                                             0500005000
+WRENDLE JONES RD                                            0500005000
+WRIGHT LN                                                   0500005000
+WRIGHT ST                                                   0500105001
+WRONG LN                                                    0500005000
+YANCY ST                                                    0500105001
+YOUNGTOWN ST                                                0500005000

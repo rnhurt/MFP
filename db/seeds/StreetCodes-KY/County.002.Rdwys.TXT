@@ -1,0 +1,821 @@
+A R OLIVER RD                                               0020000200
+AARON LN                                                    0020000200
+ABSHER LN                                                   0020000200
+ADAMS LN                                                    0020000200
+AKERSVILLE RD                                               0020000200
+ALCO APARTMENTS                                             0020100201
+ALDERSON RD                                                 0020000200
+ALLEN DR                                                    0020100201
+ALLEN MEADOR LN                                             0020000200
+ALLEN SPRINGS RD                                            0020000200
+ALLEY                                                       0020100201
+ALONZO LONG HOLLOW RD                                       0020000200
+AMOS LONG CREEK RD                                          0020000200
+ANDERSON BLVD                                               0020000200
+ANDERSON LN                                                 0020000200
+ANDREW JACKSON HWY                                          0020000200
+ANNA LN                                                     0020000200
+ANTIOCH CHURCH RD                                           0020000200
+ANTIOCH GREENBRIAR RD                                       0020000200
+APACHE DR                                                   0020100201
+APPLE ORCHARD LN                                            0020000200
+APPLEGATE DR                                                0020000200
+ASHLEY LN                                                   0020000200
+AUSTIN LN                                                   0020100201
+AUTUMN WAY                                                  0020000200
+AYERS LN                                                    0020000200
+B WOODS LN                                                  0020100201
+BAILEY POINT RD                                             0020000200
+BAILEY SCHOOL RD                                            0020000200
+BAILEYS POINT RD                                            0020000200
+BALDOCK LN                                                  0020000200
+BANDY RD                                                    0020000200
+BARREN DR                                                   0020000200
+BARREN RIVER DAM RD                                         0020000200
+BARREN RIVER HILLS RD                                       0020000200
+BARTON SHOCKLEY RD                                          0020000200
+BAYS BEND RD                                                0020000200
+BAYS FORK RD                                                0020000200
+BAYS RIDGE RD                                               0020000200
+BEACH LN                                                    0020000200
+BECKHAM TRACY RD                                            0020000200
+BEECH ST                                                    0020100201
+BELMONT PARK AVE                                            0020000200
+BEN ADEN RD                                                 0020000200
+BENS WAY                                                    0020100201
+BENT TREE LN                                                0020000200
+BERRY GENTRY RD                                             0020000200
+BERRY LN                                                    0020000200
+BETTYS BLVD                                                 0020000200
+BIG SPRINGS RD                                              0020000200
+BILBREY LN                                                  0020000200
+BILLY BOB CT                                                0020000200
+BLANKENSHIP RD                                              0020000200
+BLICK LN                                                    0020000200
+BLOSSOM CT                                                  0020000200
+BLUE HERON RD                                               0020000200
+BLUE HERRON RD                                              0020000200
+BLUEGRASS DR                                                0020100201
+BLUNT FORD RD                                               0020000200
+BOAT RAMP RD                                                0020000200
+BOOKER RD                                                   0020000200
+BORDEN LANE SPUR                                            0020000200
+BORDEN LN                                                   0020000200
+BOSS CIR                                                    0020000200
+BOWLING GREEN RD                                            0020000200
+BOWLING GREEN RD                                            0020100201
+BRADY LN                                                    0020000200
+BRANDON WAY                                                 0020000200
+BRAY RD                                                     0020000200
+BRENT LN                                                    0020000200
+BRIARFIELD RD                                               0020000200
+BRIARWOOD LN                                                0020000200
+BRIDGE HOLLOW RD                                            0020000200
+BRITNI CONNECTOR                                            0020000200
+BRITNI LN                                                   0020000200
+BRITT RD                                                    0020000200
+BROADY LN                                                   0020000200
+BROGLI LN                                                   0020000200
+BROOKE AVE                                                  0020100201
+BROOKS RD                                                   0020000200
+BROWN RIDGE RD                                              0020000200
+BROWN TRAILER PARK RD                                       0020000200
+BROWNSFORD RD                                               0020000200
+BROWNSFORD RD                                               0020100201
+BUCHANON LN                                                 0020000200
+BUCHANON RD                                                 0020000200
+BULLFROG TRL                                                0020000200
+BURNLEY RD                                                  0020000200
+BURNLEY RD                                                  0020100201
+BUSH ST                                                     0020100201
+C W JONES RD                                                0020000200
+CALEB CT                                                    0020000200
+CALVERT RD                                                  0020000200
+CALVERT SPRINGS RD                                          0020000200
+CALVERT ST                                                  0020100201
+CAMPSITE LN                                                 0020000200
+CAPITOL HILL RD                                             0020000200
+CARL HURT RD                                                0020000200
+CARLOS COOK RD                                              0020000200
+CARTER CHURCH RD                                            0020000200
+CARTER PEARSON RD                                           0020000200
+CARTER SPRINGS RD                                           0020000200
+CARTER ST                                                   0020100201
+CARTERTOWN RD                                               0020000200
+CARTERTOWN RD                                               0020100201
+CARTERTOWN SPUR                                             0020000200
+CARVER DR                                                   0020000200
+CARVER LN                                                   0020000200
+CASSIDY RD                                                  0020000200
+CATFISH LN                                                  0020000200
+CATHERINES RIDGE RD                                         0020000200
+CEDAR ALY                                                   0020100201
+CEDAR CREEK RD                                              0020000200
+CEDAR CROSS CHURCH RD                                       0020000200
+CEDAR HILL RD                                               0020000200
+CEDAR LN                                                    0020000200
+CEDAR SPRINGS RD                                            0020000200
+CELSOR RD                                                   0020000200
+CEMETERY RD                                                 0020000200
+CENTERS LN                                                  0020000200
+CENTERS LOOP RD                                             0020000200
+CHAPEL HILL RD                                              0020000200
+CHEROKEE DR                                                 0020100201
+CHERRY LN                                                   0020000200
+CHERRY RD                                                   0020000200
+CHERRY TREE LN                                              0020000200
+CHRISTIAN DR                                                0020100201
+CHRISTMAS LN                                                0020000200
+CHUBB LN                                                    0020000200
+CIRCLE RD                                                   0020000200
+CIRCLE ROAD CONNECTOR                                       0020000200
+CLARE RD                                                    0020000200
+CLARK KEEN RD                                               0020000200
+CLAUDIS HARRIS RD                                           0020000200
+CLIFTON CEMETERY                                            0020000200
+CLIFTON CEMETERY RD                                         0020000200
+CLIFTON CHURCH RD                                           0020000200
+CLIFTON SCHOOL RD                                           0020000200
+CLINE ALY                                                   0020100201
+CLINE RD                                                    0020000200
+CLOVERCROFT RD                                              0020000200
+CLURE BROWN RD                                              0020000200
+COMMERCE DR                                                 0020000200
+CONCORD CHURCH RD                                           0020000200
+CONNER HOGAN LN                                             0020100201
+COOK RD                                                     0020000200
+COOL BREEZE DR                                              0020000200
+COOPER LN                                                   0020000200
+COREY RD                                                    0020000200
+CORNER WOODS LN                                             0020000200
+CORNWELL RD                                                 0020000200
+CORUTH FORD RD                                              0020000200
+COTTAGE DR                                                  0020000200
+COTTAGE DR                                                  0020100201
+COTTONWOOD DR                                               0020000200
+COUNTRY PLACE APARTMENTS                                    0020100201
+COUNTRY SIDE LN                                             0020000200
+COUNTY LINE RD                                              0020008600
+COURTYARD DR                                                0020000200
+COYOTE TRL                                                  0020000200
+CRAIG FRONT DR                                              0020000200
+CREEK RD                                                    0020000200
+CRESCENT HILL CEMETERY NO1                                  0020100201
+CRESCENT HILL CEMETERY NO2                                  0020100201
+CRESCENT HILL CEMETERY NO3                                  0020100201
+CRESCENT HILL CEMETERY NO4                                  0020100201
+CRESCENT HILL CEMETERY NO5                                  0020100201
+CRESCENT HILL CEMETERY NO6                                  0020100201
+CRESCENT HILL CEMETERY NO7                                  0020100201
+CRESTRIDGE RD                                               0020000200
+CROSS RIDGE LN                                              0020000200
+CROWN HILL CEMETERY                                         0020100201
+D COMBS LN                                                  0020000200
+DANNA DR                                                    0020000200
+DELL HALL DR                                                0020100201
+DELL HALL DRIVE CONNECTOR                                   0020100201
+DENISE LN                                                   0020000200
+DEVASHER RD                                                 0020000200
+DINKINS RD                                                  0020000200
+DOC LONAS RD                                                0020000200
+DOCTORS CIR                                                 0020000200
+DODDY CHURCH RD                                             0020000200
+DOG TROT CIR                                                0020000200
+DOGWOOD DR                                                  0020100201
+DOGWOOD TRL                                                 0020000200
+DOLLAR GENERAL ST                                           0020100201
+DORAN CIR                                                   0020000200
+DOSS KENNEDY RD                                             0020000200
+DOVER CHURCH RD                                             0020000200
+DREAM A WAY CIR                                             0020000200
+DREW LN                                                     0020000200
+DRUMMOND LN                                                 0020000200
+DRY CREEK RD                                                0020000200
+DRY RIDGE RD                                                0020000200
+DUMONT HILL ST                                              0020100201
+DUMONT HL                                                   0020100201
+DUNN FORD RD                                                0020000200
+DUPLEX DR                                                   0020100201
+DURHAM SPRINGS RD                                           0020000200
+DWS DR                                                      0020000200
+DYLAN DR                                                    0020000200
+E CEDAR ST                                                  0020100201
+E CHERRY ST                                                 0020100201
+E LOCUST ST                                                 0020100201
+E LONG HOLLOW RD                                            0020000200
+E MAIN ST                                                   0020100201
+E MAPLE ST                                                  0020100201
+E NEW ROE RD                                                0020000200
+E OAK ST                                                    0020100201
+E OLD STATE RD                                              0020000200
+E PINE ST                                                   0020100201
+E POPLAR ST                                                 0020100201
+E WALNUT ST                                                 0020100201
+E WILLOW ST                                                 0020100201
+E WOOD ST                                                   0020100201
+EAGLE DR                                                    0020000200
+EAST LN                                                     0020100201
+EASY ST                                                     0020000200
+EDDINGS LN                                                  0020000200
+EDWIN MAYHEW RD                                             0020000200
+ELM ST                                                      0020100201
+EMERY DR                                                    0020100201
+EMILY FOSTER RD                                             0020000200
+EMMA COOK RD                                                0020000200
+ERWIN LN                                                    0020000200
+ERWIN RD                                                    0020000200
+ESB DR                                                      0020100201
+ETHINGTON DR                                                0020000200
+EUGENE ANDERSON RD                                          0020000200
+EUGENE KEEN RD                                              0020000200
+FACTORY CIR                                                 0020000200
+FAITH LN                                                    0020100201
+FANNIE TOM GAINES RD                                        0020000200
+FANNY TOM GAINES SPUR                                       0020000200
+FAWN DR                                                     0020000200
+FIGURE EIGHT RD                                             0020000200
+FIRE STATION DR                                             0020100201
+FLEET RD                                                    0020000200
+FOLLIS RD                                                   0020000200
+FOREST SPRINGS RD                                           0020000200
+FRANK HARSTON RD                                            0020000200
+FRANKLIN RD                                                 0020000200
+FRANKLIN RD                                                 0020100201
+FRANKS RD                                                   0020000200
+FRIENDSHIP CHURCH RD                                        0020000200
+FROST LN                                                    0020000200
+FUZZY LN                                                    0020000200
+G W HALE RD                                                 0020000200
+GAINES HILL RD                                              0020000200
+GAINESVILLE PORT OLIVER RD                                  0020000200
+GAINESVILLE RD                                              0020000200
+GAR LN                                                      0020000200
+GATEWOOD LN                                                 0020000200
+GIBBS RD                                                    0020000200
+GODFREY RD                                                  0020000200
+GORDON LN                                                   0020000200
+GOSNELL DR                                                  0020100201
+GOURLEY CT                                                  0020000200
+GRANDMAS LN                                                 0020000200
+GRANDVIEW DR                                                0020000200
+GREEN HILL LN                                               0020000200
+GREEN LN                                                    0020000200
+GREER LN                                                    0020000200
+GRISSOM HOLLOW RD                                           0020000200
+GUY BROWN RD                                                0020000200
+H CARTER RD                                                 0020000200
+H WEAVER RD                                                 0020000200
+HACK LAMBERT RD                                             0020000200
+HADE BELL RD                                                0020000200
+HAILEY LN                                                   0020100201
+HALFWAY HALIFAX RD                                          0020000200
+HALFWAY RD                                                  0020000200
+HALIFAX BAILEY RD                                           0020000200
+HALIFAX RD                                                  0020000200
+HALIFAX SETTLE RD                                           0020000200
+HALL CIR                                                    0020000200
+HANES RD                                                    0020000200
+HAPPYS RUN LN                                               0020000200
+HAROLD BANDY LN                                             0020000200
+HARPER RD                                                   0020000200
+HARRISON SCHOOL RD                                          0020000200
+HARSTON CIR                                                 0020000200
+HARSTON SPUR                                                0020000200
+HARSTON WAY                                                 0020000200
+HATCHER RD                                                  0020000200
+HAWKS TRAILER PARK DR                                       0020000200
+HAWKS TRAILER PARK RD                                       0020000200
+HEATH RD                                                    0020000200
+HELLBENDER RD                                               0020000200
+HENDRICKS LN                                                0020000200
+HICKORY LN                                                  0020000200
+HIGHLAND CHURCH RD                                          0020000200
+HIGHLAND CIR                                                0020100201
+HIGHLAND OAKS DR                                            0020000200
+HILBURN SPRINGS RD                                          0020000200
+HILEY SPENCER RD                                            0020000200
+HILL ST                                                     0020100201
+HILLTOP CIR                                                 0020000200
+HILLVIEW DR                                                 0020100201
+HINTON AVE                                                  0020000200
+HINTON AVE                                                  0020100201
+HIX RD                                                      0020000200
+HOAGLAND RD                                                 0020000200
+HOG HOLLOW RD                                               0020000200
+HOLLAND RD                                                  0020000200
+HOLLAND RD                                                  0020100201
+HOLLIS WILLIAMS RD                                          0020000200
+HOLLY RD                                                    0020000200
+HOLT DR                                                     0020100201
+HOMESTEAD CT                                                0020000200
+HOOVER LN                                                   0020000200
+HORSESHOE BEND RD                                           0020000200
+HORSESHOE FORD RD                                           0020000200
+HOSPITAL CIR                                                0020000200
+HOWELL LN                                                   0020000200
+HOWELL RD                                                   0020000200
+HOWELL WHEAT RD                                             0020000200
+HUFF LN                                                     0020000200
+HUFFMAN LN                                                  0020000200
+HUGHES RD                                                   0020000200
+HUMPHREY LN                                                 0020000200
+HUMPHREY LN                                                 0020100201
+HUNT LN                                                     0020000200
+HUNTERS LN                                                  0020000200
+HURRICANE SHORES RD                                         0020000200
+HURT LN                                                     0020000200
+IDA DR                                                      0020000200
+INDUSTRIAL DR                                               0020100201
+ISAAC LN                                                    0020000200
+ISOM BRADLEY RD                                             0020000200
+J D WOODS LN                                                0020000200
+J E CARVER RD                                               0020000200
+J FOSTER RD                                                 0020000200
+J S TABOR RD                                                0020000200
+JACK TOWE RD                                                0020000200
+JACKS SHOPPING CENTER                                       0020100201
+JACKSON AVE                                                 0020100201
+JASON HOGUE RD                                              0020000200
+JEAN HURT LN                                                0020000200
+JEFFERSON SCHOOL RD                                         0020000200
+JENNER                                                      0020000200
+JENNER RD                                                   0020000200
+JENNY LN                                                    0020000200
+JENT RD                                                     0020000200
+JESSE GILLIAM RD                                            0020000200
+JEWELL DR                                                   0020000200
+JOE LYNN RD                                                 0020000200
+JOE SHELTON LN                                              0020000200
+JOHN DEAN DR                                                0020000200
+JOHN HOLDER DR                                              0020000200
+JOHN HOLDER ROAD OTHER                                      0020000200
+JOHN KELLY DR                                               0020100201
+JOHNNY MEADOR RD                                            0020000200
+JOHNNY MEANS LN                                             0020000200
+JOHNNYS LN                                                  0020000200
+JOHNSON DR                                                  0020100201
+JOHNSON LOOP RD                                             0020000200
+JOHNSON RD                                                  0020000200
+JOYCE CT                                                    0020000200
+K WHITLOW RD                                                0020000200
+KAY BROWN RD                                                0020000200
+KAYS CT                                                     0020000200
+KELLY CORNWELL RD                                           0020000200
+KEMM LN                                                     0020100201
+KENTON ST                                                   0020100201
+KERRY DR                                                    0020000200
+KERRY DR                                                    0020100201
+KNIGHT RD                                                   0020000200
+KY240                                                       0020000200
+KY252                                                       0020000200
+LAFAYETTE RD                                                0020000200
+LAKE BLUFF RD                                               0020000200
+LAKE BREEZE DR                                              0020000200
+LAKE BREEZE PT                                              0020000200
+LAKELAND DR                                                 0020000200
+LAKESIDE DR                                                 0020000200
+LAKEVIEW CIR                                                0020000200
+LAKEVIEW DR                                                 0020000200
+LAMAR DR                                                    0020000200
+LAMBERT RD                                                  0020000200
+LANDFILL RD                                                 0020000200
+LANDMARK DR                                                 0020100201
+LARGEMOUTH DR                                               0020000200
+LARK DR                                                     0020000200
+LEE KEEN RD                                                 0020000200
+LEE LN                                                      0020000200
+LEISURE LN                                                  0020000200
+LEROY TAYLOR RD                                             0020000200
+LEX CARTER CIR                                              0020100201
+LIBERTY CENTRE BLVD                                         0020100201
+LIBERTY CHURCH RD                                           0020000200
+LIBERTY ST                                                  0020100201
+LILY LN                                                     0020000200
+LINDSEY WAY                                                 0020000200
+LOCKETTS DREAM RD                                           0020000200
+LODGEVIEW RD                                                0020000200
+LOIS MOORE DR                                               0020100201
+LONE OAK DR                                                 0020000200
+LONG HOLLOW RD                                              0020000200
+LONGEAR CIR                                                 0020000200
+LOST COVE LN                                                0020000200
+LOVELACE RD                                                 0020000200
+LOVELY LN                                                   0020000200
+LUTHER HERALD RD                                            0020000200
+LYLES LN                                                    0020000200
+LYNNWOOD CIR                                                0020000200
+MACEDONIA RD                                                0020000200
+MADDEN LN                                                   0020000200
+MAGNOLIA LN                                                 0020000200
+MAHANEY RD                                                  0020000200
+MAPLE DR                                                    0020000200
+MAPLE GROVE CHURCH RD                                       0020000200
+MAPLE TREE LN                                               0020000200
+MARANDA LN                                                  0020000200
+MARCRUM LN                                                  0020000200
+MARCRUM LN                                                  0020100201
+MARGARET ANN DR                                             0020000200
+MARR PERKINS LN                                             0020000200
+MARY ANN RD                                                 0020000200
+MASSEY ST                                                   0020100201
+MATT DR                                                     0020000200
+MAUREEN WAY                                                 0020000200
+MAX ROARK RD                                                0020000200
+MAXWELL DR                                                  0020000200
+MAXWELL DR                                                  0020100201
+MAYHEW RD                                                   0020000200
+MAYS RD                                                     0020000200
+MAYSVILLE RD                                                0020000200
+MAYSVILLE RD                                                0020100201
+MCDONALD RD                                                 0020000200
+MEADOR DR                                                   0020100201
+MEADOR LN                                                   0020100201
+MEADOR PORT OLIVER RD                                       0020000200
+MEADORS LN                                                  0020000200
+MEADOW LARK LN                                              0020000200
+MEGAN CT                                                    0020000200
+MEGAN LN                                                    0020000200
+MIDDLE FORK CHURCH RD                                       0020000200
+MIKE HERALD RD                                              0020000200
+MILL ST                                                     0020100201
+MILLER DOWNING RD                                           0020000200
+MINTON LN                                                   0020000200
+MISTY ROW RD                                                0020000200
+MITCHELL LN                                                 0020000200
+MITCHELL RD                                                 0020000200
+MITCHELL SPUR                                               0020000200
+MITCHELL WEAVER RD                                          0020000200
+MONNA CHERRY RD                                             0020000200
+MONTCRIEF ST                                                0020100201
+MOORES LANE CONNECTOR                                       0020000200
+MOORES LN                                                   0020000200
+MORGAN LN                                                   0020100201
+MOTLEY LN                                                   0020000200
+MT CARMEL CHURCH RD                                         0020000200
+MT GILEAD CHURCH RD                                         0020000200
+MT UNION RD                                                 0020000200
+MUDD PUPPY WAY                                              0020000200
+MURL WILLIAMS RD                                            0020000200
+MUSKIE WAY                                                  0020000200
+MUSTANG DR                                                  0020000200
+N 1ST ST                                                    0020100201
+N 2ND ST                                                    0020100201
+N 3RD ST                                                    0020100201
+N 4TH ST                                                    0020100201
+N 6TH ST                                                    0020100201
+N 7TH ST                                                    0020100201
+N CEMETERY ST                                               0020100201
+N COURT ST                                                  0020100201
+N PARKSIDE DR                                               0020000200
+N SPRING ST                                                 0020000200
+N WELCH ST                                                  0020100201
+N8TH ST                                                     0020100201
+N9TH ST                                                     0020100201
+NANCY CEMETERY RD                                           0020000200
+NANDINA LN                                                  0020000200
+NAPIER RD                                                   0020000200
+NAVAJO TRL                                                  0020100201
+NBEDELIA ST                                                 0020100201
+NEW BUCK CREEK RD                                           0020000200
+NEW GALLATIN RD                                             0020000200
+NEW GALLATIN RD                                             0020100201
+NEW GLASGOW RD                                              0020000200
+NEW GLASGOW RD                                              0020100201
+NEW MT GILEAD CHURCH RD                                     0020000200
+NEW ROE RD                                                  0020000200
+NEW SALEM CHURCH RD                                         0020000200
+NEWMAN RD                                                   0020000200
+NICHOLS RD                                                  0020000200
+NOAH LN                                                     0020000200
+NORTH ST                                                    0020100201
+NORTHWOOD LN                                                0020000200
+OAK CIRCLE RD                                               0020000200
+OAK FOREST LN                                               0020000200
+OAK GROVE CHURCH RD                                         0020000200
+OAKLEY WEAVER RD                                            0020000200
+OAKMONT BAY DR                                              0020000200
+OAKWOOD DR                                                  0020000200
+OLANS WAY                                                   0020000200
+OLD ALLEN SPRINGS RD                                        0020000200
+OLD ATWOOD RD                                               0020000200
+OLD BRIDGE DR                                               0020000200
+OLD BRIDGE RD                                               0020000200
+OLD BUCK CREEK RD                                           0020000200
+OLD BURNLEY RD                                              0020100201
+OLD EAST MAIN ST                                            0020100201
+OLD FRANKLIN RD                                             0020000200
+OLD GAINESVILLE RD                                          0020000200
+OLD GAINESVILLE SPUR NO2                                    0020000200
+OLD GALLATIN RD                                             0020000200
+OLD GALLATIN RD                                             0020100201
+OLD GLASGOW RD                                              0020000200
+OLD GLASGOW RD                                              0020100201
+OLD HALFWAY HALIFAX RD                                      0020000200
+OLD HARTSVILLE RD                                           0020000200
+OLD HARTSVILLE RD                                           0020100201
+OLD HINTON HILL RD                                          0020000200
+OLD JONES EASEMENT RD                                       0020000200
+OLD KY 234 RD                                               0020000200
+OLD PORT OLIVER RD                                          0020000200
+OLD RIVER RD                                                0020000200
+OLD SMITHS GROVE RD                                         0020000200
+OLD SMITHS GROVE RD                                         0020100201
+OLD WALNUT TRL                                              0020000200
+OLIPHANT RD                                                 0020000200
+OLIVER ST                                                   0020000200
+OLIVER ST                                                   0020100201
+OLIVER STREET SPUR                                          0020100201
+OMER JOHNSON RD                                             0020000200
+ONEAL RD                                                    0020000200
+ORCHARD LN                                                  0020000200
+ORMOND DR                                                   0020100201
+OSBORNE RD                                                  0020000200
+OSCAR LEE CONNER RD                                         0020000200
+PARDUE RD                                                   0020000200
+PARKER LN                                                   0020000200
+PARKER LN                                                   0020100201
+PARKHURST RD                                                0020000200
+PARKING LOT                                                 0020000200
+PARKVIEW SHORES RD                                          0020000200
+PARKWAY DR                                                  0020100201
+PATRIOT CIR                                                 0020000200
+PAYNE RD                                                    0020000200
+PEA RIDGE RD                                                0020000200
+PEARTREE CT                                                 0020000200
+PENCE ST                                                    0020100201
+PENNY LN                                                    0020000200
+PERRY MARR RD                                               0020000200
+PERRYTOWN RD                                                0020000200
+PETERSON LN                                                 0020100201
+PETROLEUM CIR                                               0020000200
+PETROLEUM CIRCLE OTHER                                      0020000200
+PETROLEUM RD                                                0020000200
+PETTY DAVIS LN                                              0020000200
+PETTY LN                                                    0020000200
+PETTY LN                                                    0020100201
+PHILLIP HATLER RD                                           0020000200
+PHOENIX DR                                                  0020000200
+PINCHGUT LN                                                 0020000200
+PINE RIDGE LN                                               0020000200
+PIPPIN BRANCH RD                                            0020000200
+PITCHFORD RIDGE RD                                          0020000200
+PLEASANT FIELD CHURCH RD                                    0020000200
+PLEASANT GROVE CHURCH RD                                    0020000200
+PLEASANT HILL CHURCH RD                                     0020000200
+PLEASANT RIDGE CHURCH RD                                    0020000200
+PLOWMAN LN                                                  0020000200
+PLUM ST                                                     0020100201
+POLAND RD                                                   0020000200
+POLSTON LN                                                  0020100201
+POPE DR                                                     0020000200
+POPE RD                                                     0020000200
+POPE TRAMMEL RD                                             0020000200
+POPLAR GROVE RD                                             0020000200
+POPLAR HAVEN RD                                             0020000200
+PORT OLIVER BOAT RAMP RD                                    0020000200
+PORT OLIVER CIR                                             0020000200
+POWELL DR                                                   0020000200
+POWERHOUSE DR                                               0020100201
+PRONG RD                                                    0020000200
+PRUITT LN                                                   0020000200
+PULLIAM LN                                                  0020000200
+PUNCHEON CREEK RD                                           0020000200
+QUILLBACK LN                                                0020000200
+RAILROAD ST                                                 0020000200
+RAINBOW CIR                                                 0020000200
+RAMBLE CREEK RD                                             0020000200
+RANSOM RD                                                   0020000200
+RATHER RD                                                   0020000200
+RAY HOOTEN RD                                               0020000200
+RAY PARDUE RD                                               0020000200
+RAY VERNON LN                                               0020000200
+RAY WILLIAMS RD                                             0020000200
+READ RD                                                     0020100201
+RED BARN RD                                                 0020000200
+RED HILL RD                                                 0020000200
+RED HORSE AVE                                               0020000200
+RED OAK LN                                                  0020000200
+REDBUD TRL                                                  0020000200
+REDFIN RD                                                   0020000200
+REDIGER DR                                                  0020100201
+REELS RD                                                    0020000200
+RELUS OLIVER RD                                             0020000200
+RENEE LN                                                    0020000200
+RICHARD JONES RD                                            0020000200
+RICHLAND DR                                                 0020000200
+RIDGE TOP RD                                                0020000200
+RIDGEVIEW DR                                                0020000200
+RIVER BEND RD                                               0020000200
+RIVERVIEW CIR                                               0020000200
+ROARK LN                                                    0020000200
+ROARK RD                                                    0020000200
+ROGERS RD                                                   0020000200
+ROLLING FIELD CT                                            0020000200
+ROSE LN                                                     0020000200
+ROUGH CREEK RD                                              0020000200
+ROUGH HILL CHURCH RD                                        0020000200
+ROY LEE MCGUFFEY RD                                         0020000200
+ROY SULLIVAN RD                                             0020000200
+ROY WHITLOW LN                                              0020000200
+S 1ST ST                                                    0020100201
+S 2ND ST                                                    0020100201
+S 3RD ST                                                    0020100201
+S 4TH ST                                                    0020100201
+S 5TH ST                                                    0020100201
+S 6TH ST                                                    0020100201
+S 7TH ST                                                    0020100201
+S 8TH ST                                                    0020100201
+S 9TH ST                                                    0020100201
+S BEDELIA ST                                                0020100201
+S CEMETERY ST                                               0020100201
+S COMBS LN                                                  0020000200
+S COURT ST                                                  0020100201
+S DIXSON ST                                                 0020100201
+S LAKE BLUFF LN                                             0020000200
+S OAK FOREST CHURCH RD                                      0020000200
+S ORANGE ST                                                 0020100201
+S PARKSIDE DR                                               0020000200
+S WELCH ST                                                  0020100201
+SANDY OAK ST                                                0020100201
+SANDYS LN                                                   0020000200
+SASSY LN                                                    0020000200
+SAUGER TRL                                                  0020000200
+SCHOOL RD                                                   0020100201
+SCOOP BLVD                                                  0020100201
+SCOTT RD                                                    0020000200
+SE 1ST ST                                                   0020100201
+SE 2ND ST                                                   0020100201
+SE 3RD ST                                                   0020100201
+SE 4TH ST                                                   0020100201
+SE 5TH ST                                                   0020100201
+SECREST LN                                                  0020000200
+SEXTON LN                                                   0020000200
+SHADY LN                                                    0020100201
+SHADY OAK LN                                                0020000200
+SHAGBARK TRCE                                               0020100201
+SHANE LN                                                    0020000200
+SHAW RD                                                     0020000200
+SHAWNEE DR                                                  0020100201
+SHIRK RD                                                    0020000200
+SHOCKLEY RD                                                 0020000200
+SHOOTING HILL RD                                            0020000200
+SHORES RD                                                   0020000200
+SHORT ST                                                    0020100201
+SILVER OAK CT                                               0020000200
+SILVERSIDE CIR                                              0020000200
+SILVERSIDE LN                                               0020000200
+SISCO DR                                                    0020000200
+SKAGGS RD                                                   0020000200
+SKIPJACK LN                                                 0020000200
+SKY COLE CT                                                 0020000200
+SKYVIEW DR                                                  0020000200
+SLAUGHTER HOUSE RD                                          0020000200
+SMALLING RD                                                 0020000200
+SMALLMOUTH ST                                               0020000200
+SMITH LN                                                    0020000200
+SMITHS GROVE RD                                             0020000200
+SMITHS GROVE RD                                             0020100201
+SNAKE CREEK RD                                              0020000200
+SNYDER BRANCH RD                                            0020000200
+SOUTHERN LIVING DR                                          0020100201
+SOUTHMONT DR                                                0020100201
+SOUTHWEST CIR                                               0020100201
+SOUTHWEST DR                                                0020100201
+SPEARS LN                                                   0020000200
+SPEARS RD                                                   0020000200
+SPENCER RD                                                  0020000200
+SPRING RIDGE RD                                             0020000200
+SPRING ST                                                   0020100201
+SPRING VALLEY DR                                            0020100201
+SQUIRE LYLES RD                                             0020000200
+STAFFORD HOLLOW RD                                          0020000200
+STAMPS RD                                                   0020000200
+STARK ST                                                    0020100201
+STARR LN                                                    0020000200
+STATE LINE RD                                               0020000200
+STEENBERGEN (MONROE COUNTY) RD                              0020000200
+STEENBERGEN RD                                              0020000200
+STEPHENS LN                                                 0020000200
+STERLING CIR                                                0020000200
+STEWART RD                                                  0020000200
+STINSON LN                                                  0020000200
+STINSON RD                                                  0020000200
+STONE RD                                                    0020000200
+STONEY POINT RD                                             0020000200
+STOVALL RD                                                  0020000200
+STRAWBERRY LN                                               0020000200
+STRODE LN                                                   0020000200
+SUGAR RIDGE RD                                              0020000200
+SUGAR TREE LN                                               0020000200
+SULLIVAN LN                                                 0020000200
+SUMMER LN                                                   0020000200
+SUNSET HILL DR                                              0020100201
+SUNSHINE LN                                                 0020000200
+SUSIE TABOR RD                                              0020000200
+SUTHERLAND LN                                               0020000200
+SYDNEY LAMB RD                                              0020000200
+T CENTERS RD                                                0020000200
+TABITHA DR                                                  0020000200
+TADPOLE DR                                                  0020000200
+TAILWATER LOOP RD                                           0020000200
+TAILWATER RD                                                0020000200
+TATUM RD                                                    0020000200
+TATUM SPUR RD                                               0020000200
+TAYLOR LN                                                   0020000200
+THOROUGHBRED LN                                             0020100201
+TINA LN                                                     0020000200
+TINSLEY RD                                                  0020000200
+TOMMY WIX RD                                                0020000200
+TOUCHSTONE DR                                               0020000200
+TRACY LN                                                    0020000200
+TRACY RD                                                    0020000200
+TRAMMEL BOYCE RD                                            0020000200
+TRAMMEL RD                                                  0020000200
+TRANSFER STATION RD                                         0020000200
+TRAVELSTEAD RD                                              0020000200
+TRAVIS RD                                                   0020000200
+TREE LINE RD                                                0020000200
+TRI COUNTY RD                                               0020000200
+TRICE RD                                                    0020000200
+TULIP ST                                                    0020100201
+TURKEY FOOT LN                                              0020000200
+TURNER LN                                                   0020100201
+TURNER ST                                                   0020100201
+TWIGG LN                                                    0020000200
+UNION CHAPEL RD                                             0020000200
+UNNAMED RD                                                  0020000200
+V C TABOR RD                                                0020000200
+VALLEY VIEW DR                                              0020000200
+VAN LN                                                      0020100201
+VANCE DR                                                    0020000200
+VARMENT LN                                                  0020000200
+VETERANS MEMORIAL BLVD                                      0020100201
+VETERANS MEMORIAL HWY                                       0020000200
+VETERANS MEMORIAL HWY                                       0020100201
+VINEGAR HILL RD                                             0020000200
+VIRGINIA DR                                                 0020000200
+VIRGINIA DR                                                 0020100201
+W CEDAR ST                                                  0020100201
+W CHERRY ST                                                 0020100201
+W G TALLEY RD                                               0020011400
+W HINTON RD                                                 0020000200
+W HOLT DR                                                   0020100201
+W LOCUST ST                                                 0020100201
+W MAIN ST                                                   0020100201
+W MAPLE ST                                                  0020100201
+W OLD STATE RD                                              0020000200
+W PLEASANT GROVE CHURCH RD                                  0020000200
+W T BUTTON RD                                               0020000200
+W WALNUT ST                                                 0020100201
+WADE LN                                                     0020000200
+WAGONER MILL RD                                             0020000200
+WALDEN LN                                                   0020000200
+WALKER ST                                                   0020100201
+WALKER WAY                                                  0020000200
+WALKERS CHAPEL RD                                           0020000200
+WALLEYE WAY                                                 0020000200
+WALNUT COVE CIR                                             0020000200
+WALNUT CREEK BOAT RAMP RD                                   0020000200
+WALNUT CREEK RD                                             0020000200
+WALNUT HILL RD                                              0020000200
+WALNUT RIDGE RD                                             0020000200
+WASHINGTON SCHOOL RD                                        0020000200
+WATER ST                                                    0020100201
+WATERSIDE TRL                                               0020000200
+WAYNE RIPPY RD                                              0020000200
+WCARTERTOWN RD                                              0020000200
+WHEELER RD                                                  0020000200
+WHEELER YATES LN                                            0020000200
+WHEET RD                                                    0020000200
+WHETSTONE WAY                                               0020000200
+WHIPPOORWILL RD                                             0020000200
+WHITE OAK LN                                                0020000200
+WHITE ROCK RD                                               0020000200
+WHITNEY RD                                                  0020000200
+WILDCAT LN                                                  0020000200
+WILDERNESS LN                                               0020000200
+WILKERSON RD                                                0020000200
+WILKERSON ST                                                0020000200
+WILLIAMS LN                                                 0020000200
+WILLIE LONAS RD                                             0020000200
+WILLOUGHBY LN                                               0020000200
+WILLOUGHBY RD                                               0020000200
+WILLOW CT                                                   0020000200
+WILLOW OAK LN                                               0020000200
+WILSON RD                                                   0020000200
+WINDSONG WAY                                                0020000200
+WINTER AVE                                                  0020000200
+WITT RD                                                     0020000200
+WIX SPUR RD                                                 0020000200
+WOLFE GRAVEYARD RD                                          0020000200
+WOLFE WILDERNESS LN                                         0020000200
+WOOD ST                                                     0020100201
+WOODBRIER DR                                                0020100201
+WOODLAND CIRCLE DR                                          0020100201
+WOODROW HUGHES RD                                           0020000200
+WOODVIEW LN                                                 0020000200
+YACHT CLUB DR                                               0020000200
+YATES LAKE DRIVE RD                                         0020000200
+YATES SPUR CIR                                              0020000200
+YORK RD                                                     0020000200
+YOUNG LN                                                    0020000200

@@ -1,0 +1,420 @@
+10TH ST                                                     0380203802
+2ND ST                                                      0380103801
+2ND ST                                                      0380203802
+3RD ST                                                      0380103801
+4TH ST                                                      0380103801
+4TH ST                                                      0380203802
+5TH ST                                                      0380103801
+5TH ST                                                      0380203802
+6TH ST                                                      0380103801
+6TH ST                                                      0380203802
+7TH ST                                                      0380103801
+9TH ST                                                      0380203802
+AIRPORT RD                                                  0380103801
+ALEXANDER RD                                                0380003800
+ALLISON ST                                                  0380203802
+ANGLE ST                                                    0380203802
+ARCH ST                                                     0380103801
+ASH LOG RD                                                  0380003800
+ASHLAND ST                                                  0380203802
+ASHLAND ST S                                                0380203802
+ATWILL RD                                                   0380003800
+ATWOOD ST                                                   0380203802
+BANKERS PL                                                  0380103801
+BAYOU ST                                                    0380203802
+BEECH GROVE RD                                              0380003800
+BEECHWOOD PL                                                0380103801
+BELMONT AVE                                                 0380203802
+BERNAL AVE                                                  0380203802
+BLACK RD                                                    0380003800
+BLUFF EXTENTION RD                                          0380003800
+BLUFF RD                                                    0380003800
+BOND ST                                                     0380203802
+BOONE ST                                                    0380203802
+BOWDEN RD                                                   0380003800
+BOYLE RD                                                    0380003800
+BROADWAY                                                    0380203802
+BROOKLYN ST                                                 0380203802
+BROOKS CHAPEL RD                                            0380003800
+BROOKWOOD CIR                                               0380103801
+BROWDER CT                                                  0380103801
+BROWDER ST                                                  0380103801
+BUCHANAN ST                                                 0380203802
+BULLDOG LN                                                  0380103801
+BUNGE CORPORATION RD                                        0380003800
+BURNS AVE                                                   0380103801
+BURTON AVE                                                  0380103801
+BYNUM ST                                                    0380203802
+CAMPBELL RD                                                 0380003800
+CANTILLION DR                                               0380203802
+CARNEGIE ALY                                                0380203802
+CARR ST                                                     0380103801
+CARVER RD                                                   0380003800
+CATLETT ST                                                  0380003800
+CATLETT ST                                                  0380203802
+CAYCE SCHOOL RD                                             0380003800
+CAYCE ST                                                    0380003800
+CEDAR ST                                                    0380103801
+CEDAR ST                                                    0380203802
+CHAMBERS RD                                                 0380003800
+CHEIN AVE                                                   0380203802
+CHERRY LAUREL LN                                            0380203802
+CHESSHIRE LN                                                0380003800
+CHICKASAW DR                                                0380203802
+CHLORIS DR                                                  0380203802
+CHURCH ST                                                   0380003800
+CHURCH ST                                                   0380203802
+CINDER ALY                                                  0380103801
+CLANTON ST                                                  0380103801
+CLARK RD                                                    0380003800
+CLAY ST                                                     0380203802
+CLAYBO DR                                                   0380203802
+CLEVELAND AVE                                               0380103801
+CLINTON MOSCOW RD                                           0380003800
+CLINTON ST                                                  0380203802
+COBB RD                                                     0380003800
+COMBS SPRINGS RD                                            0380003800
+COMMERCIAL AVE                                              0380103801
+CONNER ST                                                   0380003800
+COOK AVE                                                    0380103801
+COTTON GIN RD                                               0380003800
+COTTONWOOD DR                                               0380203802
+COUNTY FARM RD                                              0380003800
+COURT DR                                                    0380103801
+COX RD                                                      0380003800
+CRAVEN RD                                                   0380003800
+CRUTCHFIELD RD                                              0380003800
+CRUTCHFIELD ST                                              0380003800
+CUMBERLAND ST                                               0380203802
+DAVIS CT                                                    0380203802
+DAVIS RD                                                    0380003800
+DAVIS ST                                                    0380203802
+DEERE ST                                                    0380103801
+DEPOT ST                                                    0380003800
+DILLON RD                                                   0380003800
+DOGWOOD LN                                                  0380103801
+E CARROLL ST                                                0380203802
+E MAGNOLIA ST                                               0380203802
+E MOULTON ST                                                0380203802
+E STATE LINE ST                                             0380103801
+E WELLINGTON ST                                             0380203802
+EARL ST                                                     0380103801
+EAST DR                                                     0380103801
+EASTWOOD DR                                                 0380003800
+EASTWOOD DR                                                 0380103801
+ED MOSLEY RD                                                0380003800
+EDDINGS ST                                                  0380103801
+EDEN AVE                                                    0380203802
+ELAM RD                                                     0380003800
+ELBO SLOUGH RD                                              0380003800
+ELKS LN                                                     0380103801
+ELM ST                                                      0380103801
+ENGLEWOOD BLVD                                              0380103801
+FAIRVIEW AVE                                                0380103801
+FAIRVIEW RD                                                 0380003800
+FISH POND RD                                                0380003800
+FOREST CIRCLE DR                                            0380103801
+FRANK MOONEY RD                                             0380203802
+FREEMAN RD                                                  0380003800
+FRIENDSHIP DR                                               0380103801
+FRY LN                                                      0380103801
+FULTON ST                                                   0380203802
+GHOLSON ST                                                  0380103801
+GRACE RD                                                    0380003800
+GRAY ST                                                     0380003800
+GREEN ST                                                    0380103801
+GULF LN                                                     0380103801
+HALL ST                                                     0380203802
+HAMBY POND RD                                               0380003800
+HARDING CT                                                  0380103801
+HARDY RD                                                    0380003800
+HARRIS ST                                                   0380203802
+HARRISON DR                                                 0380003800
+HARRISON DR                                                 0380203802
+HELM RD                                                     0380003800
+HICKORY LN                                                  0380003800
+HIGH ST                                                     0380103801
+HIGHLAND BLVD                                               0380203802
+HILLCREST ST                                                0380103801
+HILLCREST ST                                                0380203802
+HILLTOP RD                                                  0380003800
+HOLCOMB ST                                                  0380203802
+HOLIDAY LN                                                  0380103801
+HOLLAND LN                                                  0380003800
+HOLLY CT                                                    0380203802
+HOLLY RD                                                    0380003800
+HOLLY ST                                                    0380203802
+HOMRA RD                                                    0380003800
+HOWELL LN                                                   0380003800
+INDUSTRIAL PARK RD                                          0380103801
+INDUSTRIAL PARK ROAD SPUR                                   0380103801
+IVEY ST                                                     0380203802
+JACKSON ST                                                  0380103801
+JACKSON ST                                                  0380203802
+JC9003 N                                                    0380003800
+JC9003 N                                                    0380103801
+JC9003 N EXIT0 CONNECTOR KY2568                             0380103801
+JC9003 N EXIT0 OFF RAMP FROM WEIGHT STATION                 0380003800
+JC9003 N EXIT0 ON RAMP TO WEIGHT STATION                    0380103801
+JC9003 N EXIT1 CROSSOVER KY1648                             0380103801
+JC9003 N EXIT1 OFF RAMP TO KY1648                           0380103801
+JC9003 N EXIT1 OFF RAMP TO KY1648 W                         0380103801
+JC9003 N EXIT1 ON RAMP FROM KY1648                          0380103801
+JC9003 N EXIT1 ON RAMP FROM KY1648 E                        0380103801
+JC9003 N EXIT2 CROSSOVER KY307                              0380103801
+JC9003 N EXIT2 OFF RAMP TO KY307                            0380103801
+JC9003 N EXIT2 OFF RAMP TO KY307 S                          0380103801
+JC9003 N EXIT2 ON RAMP FROM KY307                           0380003800
+JC9003 N EXIT2 ON RAMP FROM KY307 N                         0380003800
+JC9003 N WEIGH STATION0                                     0380103801
+JC9003 S                                                    0380003800
+JC9003 S                                                    0380103801
+JC9003 S EXIT0 OFF RAMP TO KY2567                           0380103801
+JC9003 S EXIT0 ON RAMP FROM KY2567                          0380103801
+JC9003 S EXIT1 CROSSOVER US51                               0380103801
+JC9003 S EXIT1 OFF RAMP TO US51                             0380103801
+JC9003 S EXIT1 OFF RAMP TO US51 N                           0380003800
+JC9003 S EXIT1 ON RAMP FROM US51                            0380103801
+JC9003 S EXIT1 ON RAMP FROM US51 S                          0380103801
+JC9003 S EXIT2 CROSSOVER KY307                              0380103801
+JC9003 S EXIT2 OFF RAMP TO KY307                            0380003800
+JC9003 S EXIT2 OFF RAMP TO KY307 N                          0380003800
+JC9003 S EXIT2 ON RAMP FROM KY307                           0380103801
+JC9003 S EXIT2 ON RAMP FROM KY307 S                         0380103801
+JEFFERSON ST                                                0380103801
+JEFFRESS RD                                                 0380003800
+JIMMY ST                                                    0380203802
+JOE PARKER RD                                               0380003800
+JOHN WRIGHT RD                                              0380003800
+JOHNSON LN                                                  0380203802
+JOHNSON RD                                                  0380003800
+JOHNSON ST                                                  0380203802
+JORDAN CHAMPION RD                                          0380003800
+JORDAN LN                                                   0380003800
+JORDON RD                                                   0380003800
+KENTUCKY AVE                                                0380003800
+KENTUCKY AVE                                                0380103801
+KENTUCKY BEND RD                                            0380003800
+KENTUCKY BEND SCHOOL RD                                     0380003800
+KENTUCKY ST                                                 0380203802
+KING ST                                                     0380203802
+KY1099                                                      0380203802
+KY1125 N                                                    0380003800
+KY1125 S                                                    0380003800
+KY1126                                                      0380003800
+KY1127                                                      0380003800
+KY1128                                                      0380003800
+KY1129                                                      0380003800
+KY116 E                                                     0380003800
+KY116 W                                                     0380003800
+KY1212                                                      0380003800
+KY125                                                       0380003800
+KY1282                                                      0380003800
+KY129                                                       0380003800
+KY1354                                                      0380003800
+KY1461                                                      0380003800
+KY1463                                                      0380003800
+KY166 E                                                     0380003800
+KY166 W                                                     0380003800
+KY1706                                                      0380003800
+KY1759                                                      0380003800
+KY1907                                                      0380003800
+KY1909                                                      0380003800
+KY2134                                                      0380003800
+KY2139                                                      0380003800
+KY2140                                                      0380003800
+KY2149                                                      0380003800
+KY2150                                                      0380003800
+KY239 N                                                     0380003800
+KY239 S                                                     0380003800
+KY2567                                                      0380103801
+KY307                                                       0380003800
+KY309                                                       0380003800
+KY311                                                       0380003800
+KY653                                                       0380003800
+KY781 N                                                     0380003800
+KY781 S                                                     0380003800
+KY924                                                       0380003800
+KY925                                                       0380003800
+KY94 CONNECTOR                                              0380003800
+KY94 E                                                      0380003800
+KY94 W                                                      0380003800
+KY94 W                                                      0380203802
+KY971                                                       0380003800
+LAKE ST                                                     0380103801
+LATTUS RD                                                   0380003800
+LEDWIDGE RD                                                 0380003800
+LEET RD                                                     0380003800
+LETICA ACCESS                                               0380103801
+LEVEE RD                                                    0380003800
+LEVEE ROAD RAMP                                             0380003800
+LEWIS WEAKS BLVD                                            0380103801
+LIBERTY ST                                                  0380203802
+LONG LN                                                     0380003800
+LONG POINT RD                                               0380003800
+LUTEN RD                                                    0380003800
+MADDOX RD                                                   0380003800
+MAGNOLIA DR                                                 0380103801
+MAGNOLIA ST                                                 0380203802
+MAIDEN ST                                                   0380103801
+MAIN ST                                                     0380103801
+MANGOLD RD                                                  0380003800
+MAPLE AVE                                                   0380003800
+MAPLE ST                                                    0380103801
+MARION AVE                                                  0380203802
+MARKET ST                                                   0380203802
+MARR ST                                                     0380203802
+MARTIN LUTHER KING JR DR                                    0380103801
+MCCLELLAN RD                                                0380003800
+MCCOMB ST                                                   0380103801
+MCCONNELL ST                                                0380203802
+MCDADE ST                                                   0380103801
+MCFADDEN RD                                                 0380003800
+MCINTYRE RD                                                 0380003800
+MCKELVEY RD                                                 0380003800
+MCMURRAY RD                                                 0380003800
+MEADOWS RD                                                  0380003800
+MEADOWVIEW DR                                               0380103801
+MEARS ST                                                    0380103801
+MENGEL RD                                                   0380003800
+MENGEL RD                                                   0380203802
+MIDDLE RD                                                   0380003800
+MIDDLE RD                                                   0380103801
+MIDWAY RD                                                   0380003800
+MIKEL RD                                                    0380003800
+MONTGOMERY SCHOOL RD                                        0380003800
+MORROW RD                                                   0380003800
+MOSCOW AVE                                                  0380203802
+MULBERRY ST                                                 0380103801
+MURRAY ST                                                   0380103801
+MYATT RD                                                    0380003800
+MYATT ST                                                    0380203802
+MYRON CORY DR                                               0380203802
+N 7TH ST                                                    0380203802
+N COLLEGE ST                                                0380103801
+N GRACE RD                                                  0380003800
+N HENDERSON DR                                              0380103801
+N HIGHLAND DR                                               0380103801
+NELSON ST                                                   0380203802
+NELSON TRIPP PL                                             0380103801
+NEWTON RD                                                   0380003800
+NHIGHLAND DR                                                0380003800
+NOLAN AVE                                                   0380103801
+NOONAN LN                                                   0380003800
+NORTHEAST DR                                                0380103801
+O K CLIFTON CIR                                             0380103801
+O K CLIFTON DR                                              0380103801
+OAK HILL CT                                                 0380103801
+OBION ST                                                    0380203802
+OHIO ST                                                     0380203802
+OLNEY JOHNSON RD                                            0380003800
+OVERLOOK LN                                                 0380203802
+OWENS RD                                                    0380003800
+PAGE ST                                                     0380103801
+PALESTINE RD                                                0380003800
+PARK RD                                                     0380103801
+PARK ST                                                     0380103801
+PARK ST                                                     0380203802
+PARKER LN                                                   0380003800
+PEACHTREE DR                                                0380103801
+PEARL ST                                                    0380103801
+PECAN CIRCLE DR                                             0380203802
+PLAIN ST                                                    0380103801
+PLANT RD                                                    0380003800
+PLEASANT HILL CIR                                           0380203802
+PONDEROSA DR                                                0380203802
+POPLAR ST                                                   0380103801
+PRATHER RD                                                  0380003800
+PRIVATE ROAD NO1                                            0380003800
+PRIVATE ROAD NO3                                            0380003800
+REDBUD LN                                                   0380103801
+REED ST                                                     0380103801
+REEVES RD                                                   0380003800
+RICE AVE                                                    0380103801
+RICE LN                                                     0380003800
+RICE RD                                                     0380003800
+RICHARD AVE                                                 0380103801
+RIVER RD                                                    0380203802
+RIVERFRONT DR                                               0380203802
+RIVERVIEW DR                                                0380203802
+RODNEY JONES RD                                             0380003800
+ROOSEVELT ST                                                0380203802
+ROPER SCHOOL RD                                             0380003800
+RUNNING SLOUGH RD                                           0380003800
+RUSH CREEK RD                                               0380003800
+S 7TH ST                                                    0380203802
+S HENDERSON DR                                              0380103801
+SALMON LN                                                   0380003800
+SAUNDERS LN                                                 0380003800
+SAWMILL RD                                                  0380003800
+SHADOWENS RD                                                0380003800
+SHELBYRIDGE ST                                              0380203802
+SIMPSON ST                                                  0380003800
+STATION LN                                                  0380203802
+STEPHEN BEALE DR                                            0380103801
+STEPP RD                                                    0380003800
+STEVE FIELDS DR                                             0380203802
+STONE ST                                                    0380003800
+STUBBS RD                                                   0380003800
+SUBLETTE RD                                                 0380003800
+SUNSET DR                                                   0380103801
+SUNSET ST                                                   0380203802
+SUTTON LN                                                   0380003800
+SUTTON RD                                                   0380003800
+SWAN BURRUS RD                                              0380003800
+SYCAMORE RD                                                 0380003800
+TAYLOR HILL RD                                              0380003800
+TAYLOR RD                                                   0380003800
+TAYLOR ST                                                   0380203802
+TENNESSEE ST                                                0380203802
+TERRACE DR                                                  0380203802
+TERRY RD                                                    0380003800
+THEDFORD ST                                                 0380103801
+TOM KESTERSON RD                                            0380003800
+TOMMY JOE DR                                                0380203802
+TOWNSEND RD                                                 0380003800
+TROY AVE                                                    0380203802
+TYLER DR                                                    0380203802
+UNION CHURCH CEMETERY RD                                    0380003800
+UNION CHURCH RD                                             0380003800
+UNION CITY HWY                                              0380203802
+UNION ST                                                    0380203802
+UPPER BOTTOM RD                                             0380003800
+UPPER CATLETT ST                                            0380203802
+US45                                                        0380003800
+US51                                                        0380003800
+VALLEY RD                                                   0380203802
+VALLEY ST                                                   0380103801
+VAN LEE BLVD                                                0380203802
+VANCE ST                                                    0380203802
+VANLEA DR                                                   0380103801
+VEACH HOWELL RD                                             0380003800
+VERNON AVE                                                  0380103801
+VINE ST                                                     0380103801
+VINE ST                                                     0380203802
+W 2ND ST                                                    0380103801
+W 3RD ST                                                    0380103801
+W 4TH ST                                                    0380103801
+W 5TH ST                                                    0380103801
+W 6TH ST                                                    0380103801
+W 7TH ST                                                    0380103801
+W CARROLL ST                                                0380203802
+W CLINTON ST                                                0380203802
+W HIGHLAND DR                                               0380103801
+W STATE LINE ST                                             0380103801
+WABASH ST                                                   0380203802
+WALKER AVE                                                  0380203802
+WALKER RD                                                   0380003800
+WALNUT AVE                                                  0380203802
+WALNUT ST                                                   0380103801
+WASHINGTON ST                                               0380103801
+WASHINGTON ST                                               0380203802
+WAYSIDE DR                                                  0380103801
+WELLINGTON ST                                               0380203802
+WELLS AVE                                                   0380103801
+WEST ST                                                     0380103801
+WHEELER LN                                                  0380103801
+WILLIAMS RD                                                 0380003800
+WILLINGHAM RD                                               0380003800
+WINDWARD DR                                                 0380203802
+YOUNG ST                                                    0380203802

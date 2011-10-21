@@ -1,0 +1,861 @@
+10TH ST                                                     1060110601
+11TH ST                                                     1060110601
+1ST ST                                                      1060110601
+1ST ST                                                      1060210602
+2ND ST                                                      1060110601
+2ND ST                                                      1060210602
+3RD ST                                                      1060110601
+4TH ST                                                      1060110601
+5TH ST                                                      1060110601
+6TH ST                                                      1060110601
+7TH ST                                                      1060110601
+8TH ST                                                      1060110601
+9TH ST                                                      1060110601
+A ST                                                        1060010600
+ABINGDON CIR                                                1060110601
+ABINGDON LN                                                 1060110601
+ADA AVE                                                     1060110601
+ADAIR AVE                                                   1060110601
+ADAMS PIKE                                                  1060010600
+AIKEN RD                                                    1060010600
+ALLEN DR                                                    1060110601
+ALPINE DR                                                   1060110601
+ALTO ST                                                     1060110601
+ALTON RD                                                    1060110601
+AMANDA DR                                                   1060110601
+ANDERSON LN                                                 1060010600
+ANTIOCH RD                                                  1060010600
+APACHE RD                                                   1060110601
+APPLE TREE WAY                                              1060010600
+AQUA SHORES DR                                              1060010600
+ARBOR GREEN LN                                              1060110601
+ARDMORE LN                                                  1060010600
+ARINGTON LN                                                 1060010600
+ARISTOCRAT CT                                               1060210602
+ARLINGTON CT                                                1060010600
+ARLINGTON DR                                                1060010600
+ARTHUR HILLS WAY                                            1060010600
+ASHBOURNE DR                                                1060010600
+ASHBOURNE DR                                                1060110601
+ASHLAND AVE                                                 1060110601
+ASPEN WAY                                                   1060110601
+AUGUSTA DR                                                  1060110601
+AUTUMN RDG                                                  1060110601
+AVION CT                                                    1060010600
+B ST                                                        1060010600
+BACK CREEK RD                                               1060010600
+BAGDAD RD                                                   1060010600
+BAILEY AVE                                                  1060110601
+BAKER DR                                                    1060110601
+BALD MOUNTAIN CIR                                           1060110601
+BANK RD                                                     1060010600
+BANTA LN                                                    1060010600
+BARDSTOWN TRL                                               1060010600
+BARLOWS BROOK RD                                            1060110601
+BASS LN                                                     1060010600
+BAYBERRY DR                                                 1060110601
+BAYNE AVE                                                   1060110601
+BEAMTREE DR                                                 1060110601
+BEARDS LN                                                   1060010600
+BEECH ST                                                    1060010600
+BEECHRIDGE RD                                               1060010600
+BEECHWOOD AVE                                               1060110601
+BELL AVE                                                    1060110601
+BELLEFONTE CT                                               1060010600
+BELLVIEW RD                                                 1060010600
+BENSON PIKE                                                 1060010600
+BENSON PIKE                                                 1060110601
+BENSON PIKE SPUR                                            1060010600
+BENTLEY WAY                                                 1060010600
+BENTON RIDGE DR                                             1060010600
+BEREA ST                                                    1060110601
+BERSHEBA LN                                                 0560205602
+BIRCHWOOD CIR                                               1060110601
+BIRDIE CT                                                   1060210602
+BLACK FALCON WAY                                            1060110601
+BLACKWELL RD                                                1060010600
+BLAND AVE                                                   1060110601
+BLAND ST                                                    1060110601
+BLOSSOM CIR                                                 1060010600
+BLUEBIRD DR                                                 1060010600
+BLUEGRASS DR                                                1060010600
+BOAT DOCK RD                                                1060010600
+BOB JEFF RD                                                 1060010600
+BOB O LINK DR                                               1060010600
+BOB ROGERS RD                                               1060010600
+BOGEY CT                                                    1060210602
+BOHANNON LN                                                 1060010600
+BOHANNON RD                                                 1060010600
+BONNIE BRAE DR                                              1060010600
+BONNIE BRAE DR                                              1060110601
+BONNIEMERE RD                                               1060010600
+BOOKER PIKE                                                 1060010600
+BOONE STATION RD                                            1060110601
+BORDERS WAY                                                 1060010600
+BOULDER DR                                                  1060110601
+BOXWOOD RIDGE CT                                            1060210602
+BRADSHAW ST                                                 1060110601
+BRASSFIELD BLVD                                             1060110601
+BRASSFIELD CIR                                              1060110601
+BRAXTON CT                                                  1060010600
+BREIGHTON BLVD                                              1060110601
+BREIGHTON CIR                                               1060110601
+BREIGHTON CT                                                1060010600
+BRENTFORD DR                                                1060010600
+BRENTWOOD DR                                                1060110601
+BRIDLEWOOD AVE                                              1060110601
+BRIGHTVIEW DR                                               1060210602
+BROOKS INDUSTRIAL RD                                        1060010600
+BROOKS LN                                                   1060010600
+BROOKVIEW DR                                                1060010600
+BROWN AVE                                                   1060110601
+BRUCEWOOD CT                                                1060010600
+BRUNERSTOWN RD                                              1060010600
+BUCK CREEK RD                                               1060010600
+BUCK CREEK RD                                               1060210602
+BUCKCREEK RD                                                1060010600
+BUCKLEY LN                                                  1060010600
+BUCKMAN STATION CT                                          1060210602
+BUETEL LN                                                   1060010600
+BULLITT RD                                                  1060010600
+BUNK RD                                                     1060010600
+BURKS BRANCH RD                                             1060010600
+BUSEY RD                                                    1060010600
+BUZZARD ROOST RD                                            1060010600
+BYER CT                                                     1060010600
+CACTUS CV                                                   1060110601
+CAMBRIDGE DR                                                1060010600
+CARDINAL DR                                                 1060010600
+CARDINAL DR                                                 1060110601
+CARDINAL DR                                                 1060210602
+CARDINAL OAK                                                1060210602
+CASE RD                                                     1060010600
+CASPER DR                                                   1060010600
+CASTLE HWY                                                  1060010600
+CAT RIDGE RD                                                1060010600
+CAT WALK RD                                                 1060010600
+CATALPA LANE CONNECTOR                                      1060010600
+CATALPA LN                                                  1060010600
+CATWALK RD                                                  1060010600
+CEDAR CT                                                    1060210602
+CEDARMORE RD                                                1060010600
+CEMETERY RD                                                 1060010600
+CHABLIS PREMIER CIR                                         1060010600
+CHAMBERS LN                                                 1060010600
+CHAMPIONS CIR                                               1060210602
+CHAMPIONS WAY                                               1060210602
+CHAPEL HILL RD                                              1060110601
+CHARLESTON WAY                                              1060110601
+CHARLESTON WAY OTHER1                                       1060110601
+CHARLESTON WAY OTHER2                                       1060110601
+CHARLESTON WAY OTHER3                                       1060110601
+CHARLESTON WAY OTHER4                                       1060110601
+CHENAULT DR                                                 1060010600
+CHEROKEE DR                                                 1060110601
+CHERRY HILLS CT                                             1060010600
+CHERRY HILLS LN                                             1060010600
+CHERRY LN                                                   1060010600
+CHERRY LN                                                   1060110601
+CHERRYWOOD DR                                               1060110601
+CHESAPEAKE MEADOWS CT                                       1060010600
+CHESTER DARE RD                                             1060010600
+CHESTERFIELD WAY                                            1060010600
+CHESTNUT ST                                                 1060110601
+CHEYENNE RD                                                 1060110601
+CHRISTIANBURG RD                                            1060010600
+CHRISTIANBURG SPUR                                          1060010600
+CHRISTOPHER XING                                            1060010600
+CHURCH VIEW ST                                              1060110601
+CIRCLE DR                                                   1060110601
+CITIZENS BLVD                                               1060210602
+CLAIRVIEW DR                                                1060010600
+CLARK STATION                                               1060010600
+CLARK STATION RD                                            1060010600
+CLAYVILLAGE RD                                              1060010600
+CLEAR CREEK PARK ACCESS NO1                                 1060010600
+CLEAR CREEK PARK ACCESS NO2                                 1060010600
+CLEAR CREEK RD                                              1060010600
+CLIFTON CT                                                  1060110601
+CLORE JACKSON RD                                            1060010600
+CLOVER LN                                                   1060110601
+CLUBHOUSE DR                                                1060110601
+CLUBHOUSE LN                                                1060210602
+COLLEGE ST                                                  1060110601
+COLLINS LN                                                  1060010600
+COLONIAL OAKS LN                                            1060010600
+COLONY DR                                                   1060010600
+COLT RUN RD                                                 1060010600
+COMANCHE CT                                                 1060110601
+COMANCHE RD                                                 1060110601
+COMMERCE CIR                                                1060010600
+CONNER STATION RD                                           1060010600
+COOK RD                                                     1060010600
+COOPER LN                                                   1060010600
+COORS DR                                                    1060110601
+COTTONGIM LN                                                1060010600
+COTTONWOOD CT                                               1060210602
+COUNTRY LN                                                  1060010600
+COUNTRYSIDE DR                                              1060210602
+COVE RD                                                     1060010600
+COX WATERS RD                                               1060010600
+COYOTE CRSG                                                 1060010600
+CRAB ORCHARD RD                                             1060010600
+CRABAPPLE CT                                                1060010600
+CRABAPPLE LN                                                1060010600
+CRAIG AVE                                                   1060110601
+CRANBOURNE GRANGE                                           1060010600
+CREEK SIDE DR                                               1060110601
+CRESCENT CT                                                 1060110601
+CROMBIE WAY                                                 1060110601
+CROPPER RD                                                  1060010600
+CROPPER SCHOOL RD                                           1060010600
+CROQUET LN                                                  1060010600
+CROSS KEYS RD                                               1060010600
+CROSS PIKE                                                  1060010600
+CRUM CT                                                     1060210602
+CUMBERLAND ST                                               1060110601
+CYPRUS CT                                                   1060110601
+DALE RD                                                     1060010600
+DANIEL ST                                                   1060010600
+DAVIS RD                                                    1060010600
+DAYLILY CT                                                  1060110601
+DEER RIDGE CT                                               1060010600
+DEER VALLEY CT                                              1060010600
+DERBY LN                                                    1060010600
+DETENTION RD                                                1060010600
+DITTO RD                                                    1060010600
+DOBSON LN                                                   1060110601
+DOCTORS DR                                                  1060010600
+DOGWOOD CT                                                  1060210602
+DOGWOOD VILLA DR                                            1060110601
+DON CUBERT DR                                               1060110601
+DONOHUE RD                                                  1060010600
+DORAL CT                                                    1060110601
+DOSS LN                                                     1060010600
+DOTLAND CIR                                                 1060010600
+DOUGLAS CT                                                  1060110601
+DOVER RD                                                    1060010600
+DRANE LN                                                    1060010600
+DUBLIN LN                                                   1060010600
+DUVALL LN                                                   1060010600
+EAGLE PASS                                                  1060010600
+EAGLE TRACE CT                                              1060010600
+EARTHWOOD CT                                                1060010600
+EASTVIEW CIR                                                1060010600
+EDDIE LN                                                    1060010600
+EDEN SHALE LN                                               1060010600
+EDGEMONT WAY                                                1060110601
+EDGEWOOD DR                                                 1060010600
+ELIZABETH LN                                                1060010600
+ELLIS RD                                                    1060010600
+ELM ST                                                      1060210602
+ELMBURG RD                                                  1060010600
+EMINENCE PIKE                                               1060010600
+EMINENCE PIKE                                               1060110601
+EMMA WADE RD                                                1060010600
+EQUESTRIAN LAKES LN                                         1060010600
+EQUITY ST                                                   1060110601
+ERIE CT                                                     1060010600
+ERNEST HAWKINS WAY                                          1060110601
+EVANS RD                                                    1060010600
+EVERETT HALL RD                                             1060010600
+EVERGREEN WAY                                               1060210602
+EVERGREEN WAY SPUR                                          1060210602
+FAIRHILL DR                                                 1060110601
+FAIRLIGHT VIEW DR                                           1060010600
+FAIRVIEW DR                                                 1060210602
+FAIRVIEW RD                                                 1060010600
+FAIRWAY XING                                                1060110601
+FARM LAKE CT                                                1060010600
+FARM LAKE RD                                                1060010600
+FERN LN                                                     1060010600
+FIBLES RUN CT                                               1060210602
+FIELDS LN                                                   1060010600
+FIGGS STORE RD                                              1060010600
+FINCHVILLE RD                                               1060010600
+FIRESTONE WAY                                               1060110601
+FIRST DAY LN                                                1060010600
+FISHERMEN CIR                                               1060010600
+FISHERVILLE RD                                              1060010600
+FLEMING RD                                                  1060010600
+FLETCHER WAY                                                1060010600
+FLINT RIDGE RD                                              1060010600
+FLOOD RD                                                    1060010600
+FLOYDSBURG RD                                               1060010600
+FORBES DR                                                   1060010600
+FORD RD                                                     1060010600
+FOX RUN RD                                                  1060010600
+FOXWOOD CT                                                  1060110601
+FRANKFORT RD                                                1060010600
+FRANKLIN COUNTY LINE RD                                     1060010600
+FREEDOMS WAY                                                1060010600
+FREEDOMS WAY                                                1060110601
+FRIESIAN CT                                                 1060110601
+FRONT GATE DR                                               1060210602
+FROSTWOOD RD                                                1060110601
+FRYS OLDSBURG RD                                            1060010600
+GARDEN CT                                                   1060210602
+GARDEN POINTE DR                                            1060210602
+GARRETT LN                                                  1060010600
+GEOGHEGAN RD                                                1060010600
+GINA DR                                                     1060010600
+GINKGO DR                                                   1060110601
+GLENVIEW DR                                                 1060010600
+GLENWAY DR                                                  1060010600
+GLORIA DR                                                   1060010600
+GOLDENROD CT                                                1060110601
+GOODMAN AVE                                                 1060110601
+GORDON LN                                                   1060010600
+GORHAMS RD                                                  1060010600
+GOW RD                                                      1060010600
+GRAEFENBURG CHURCH RD                                       1060010600
+GRAEFENBURG RD                                              1060010600
+GRAND CENTRAL DR                                            1060210602
+GRANDVIEW AVE                                               1060110601
+GRAY HILL CT                                                1060110601
+GREEN DR                                                    1060210602
+GREENLAND CT                                                1060010600
+GREENLAND PARK CIR                                          1060010600
+GREENWOOD CT                                                1060110601
+GREY HAWK DR                                                1060110601
+GROUSE CT                                                   1060010600
+GROVE RD                                                    1060010600
+GROVER BLAYDES RD                                           1060010600
+GRUBBS LN                                                   1060010600
+GRUBER ST                                                   1060110601
+GUIST CREEK DR                                              1060010600
+HACKBERRY CT                                                1060010600
+HACKNEY LN                                                  1060110601
+HACKWORTH RD                                                1060010600
+HALEY RD                                                    1060010600
+HANNAH RD                                                   1060010600
+HANSBROUGH RD                                               1060010600
+HARDESTY LN                                                 1060110601
+HARLEY THOMPSON RD                                          1060010600
+HARMONY CT                                                  1060110601
+HARRINGTON MILL RD                                          1060010600
+HARRIS LN                                                   1060010600
+HARRODS LN                                                  1060010600
+HARRY LONG RD                                               1060010600
+HAVEN HILL RD                                               1060110601
+HAVEN HILL RD N                                             1060110601
+HAWKEYE CIR                                                 1060010600
+HAWTHORNE AVE                                               1060110601
+HAWTHORNE CT                                                1060110601
+HAZEL LAWN DR                                               1060010600
+HEARTHSIDE CIR                                              1060110601
+HEBRON RD                                                   1060010600
+HEDDENIMEL RD                                               1060010600
+HEDGE ST                                                    1060110601
+HEINSVILLE RD                                               1060010600
+HELSON RD                                                   1060010600
+HEMINGWAY CT                                                1060110601
+HEMPRIDGE CHURCH RD                                         1060010600
+HEMPRIDGE RD                                                1060010600
+HEN PECK LN                                                 1060110601
+HENRY CLAY ST                                               1060110601
+HENRY SMITH RD                                              1060010600
+HENRY VEECH RD                                              1060010600
+HERON DR                                                    1060110601
+HI POINT APTS                                               1060110601
+HI POINT LN                                                 1060010600
+HI POINT LN                                                 1060110601
+HICKORY RIDGE RD                                            1060003700
+HIDDEN CREEK TRL                                            1060010600
+HIGH ST                                                     1060110601
+HIGHLAND CT                                                 1060010600
+HIGHLAND MNR                                                1060010600
+HILL N DALE DR                                              1060010600
+HILL SPRING EARTH RD                                        1060010600
+HILLCREST DR                                                1060010600
+HILLSIDE DR                                                 1060010600
+HILLVIEW DR                                                 1060010600
+HINKLE LN                                                   1060010600
+HOCHSTRASSER DR                                             1060010600
+HOLLOW TRACE RD                                             1060010600
+HONEYSUCKLE RD                                              1060010600
+HOOPER STATION RD                                           1060010600
+HORSESHOE DR                                                1060110601
+HOSPITAL DR                                                 1060110601
+HOTEL ST                                                    1060010600
+HOWARD DR                                                   1060010600
+HUDSON BLVD                                                 1060110601
+HUFFMAN LN                                                  1060010600
+HUMMINGBIRD DR                                              1060010600
+HUNTERS LN                                                  1060010600
+HUNTERS POINTE CT                                           1060010600
+HUNTERS POINTE PL                                           1060010600
+HUNTING HILLS DR                                            1060110601
+HUNTINGTON CT                                               1060010600
+HYATTS STORE RD                                             1060010600
+I64 E                                                       1060010600
+I64 E                                                       1060110601
+I64 E                                                       1060210602
+I64 E EXIT28 OFF RAMP TO KY1848                             1060210602
+I64 E EXIT28 OFF RAMP TO KY1848 N                           1060210602
+I64 E EXIT28 OFF RAMP TO KY1848 S                           1060210602
+I64 E EXIT28 ON RAMP FROM KY1848                            1060210602
+I64 E EXIT28 ON RAMP FROM KY1848 N                          1060210602
+I64 E EXIT28 ON RAMP FROM KY1848 S                          1060210602
+I64 E EXIT29 CAR LANE                                       1060010600
+I64 E EXIT29 OFF RAMP                                       1060010600
+I64 E EXIT29 ON RAMP                                        1060010600
+I64 E EXIT29 TRUCK LANE                                     1060010600
+I64 E EXIT32 ON RAMP FROM KY155                             1060110601
+I64 E EXIT32A OFF RAMP TO KY155                             1060110601
+I64 E EXIT32B ON RAMP FROM KY155                            1060110601
+I64 E EXIT35 OFF RAMP TO KY53                               1060110601
+I64 E EXIT35 OFF RAMP TO KY53 N                             1060110601
+I64 E EXIT35 OFF RAMP TO KY53 S                             1060010600
+I64 E EXIT35 OFF RAMP TO KY53 S                             1060110601
+I64 E EXIT35 ON RAMP FROM KY53 N                            1060110601
+I64 E EXIT42 OFF RAMP TO KY395                              1060010600
+I64 E EXIT42 OFF RAMP TO KY395 N                            1060010600
+I64 E EXIT42 OFF RAMP TO KY395 S                            1060010600
+I64 E EXIT42 ON RAMP FROM KY395                             1060010600
+I64 E EXIT42 ON RAMP FROM KY395 N                           1060010600
+I64 E EXIT42 ON RAMP FROM KY395 S                           1060010600
+I64 E WEIGH STATION39                                       1060010600
+I64 W                                                       1060010600
+I64 W                                                       1060110601
+I64 W                                                       1060210602
+I64 W EXIT28 OFF RAMP TO KY1848                             1060210602
+I64 W EXIT28 OFF RAMP TO KY1848 N                           1060210602
+I64 W EXIT28 OFF RAMP TO KY1848 S                           1060210602
+I64 W EXIT28 ON RAMP FROM KY1848                            1060210602
+I64 W EXIT28 ON RAMP FROM KY1848 N                          1060210602
+I64 W EXIT32 OFF RAMP TO KY155                              1060010600
+I64 W EXIT32 ON RAMP FROM KY155                             1060010600
+I64 W EXIT35 OFF RAMP TO KY53                               1060110601
+I64 W EXIT35 OFF RAMP TO KY53 N                             1060110601
+I64 W EXIT35 OFF RAMP TO KY53 S                             1060110601
+I64 W EXIT35 ON RAMP FROM KY53                              1060110601
+I64 W EXIT35 ON RAMP FROM KY53 N                            1060110601
+I64 W EXIT35 ON RAMP FROM KY53 S                            1060110601
+I64 W EXIT42 OFF RAMP TO KY395                              1060010600
+I64 W EXIT42 OFF RAMP TO KY395 N                            1060010600
+I64 W EXIT42 OFF RAMP TO KY395 S                            1060010600
+I64 W EXIT42 ON RAMP FROM KY395                             1060010600
+I64 W EXIT42 ON RAMP FROM KY395 N                           1060010600
+I64 W EXIT42 ON RAMP FROM KY395 S                           1060010600
+I64 W WEIGH STATION39                                       1060010600
+ILLINOIS AVE                                                1060110601
+IMPERATOR WAY                                               1060010600
+IMPERIAL EAGLE                                              1060110601
+INDIAN RIDGE                                                1060110601
+INDIAN SPRINGS TRCE                                         1060010600
+INDUSTRIAL PARK ROAD NO1                                    1060210602
+IRONWOOD CT                                                 1060210602
+IROQUOIS DR                                                 1060110601
+ISAAC SHELBY DR                                             1060010600
+IVY LN                                                      1060010600
+J M TURN AROUND RD                                          1060010600
+JACKSONVILLE RD                                             1060010600
+JAIL HILL RD                                                1060010600
+JENNIE DR                                                   1060010600
+JENNINGS LN                                                 1060010600
+JEPTHA KNOB RD                                              1060010600
+JESSE RD                                                    1060010600
+JOHNSONVILLE RD                                             1060010600
+JONATHAN CIR                                                1060110601
+JOSH CAMPBELL RD                                            1060010600
+JOYES STATION RD                                            1060010600
+JUNIPER DR                                                  1060110601
+JUST A MERE LN                                              1060210602
+KARENS CT                                                   1060110601
+KAVENAUGH ST                                                1060010600
+KENT ST                                                     1060110601
+KENTUCKY ST                                                 1060010600
+KENTUCKY ST                                                 1060110601
+KENZELI CT                                                  1060010600
+KESSLER MILL RD                                             1060010600
+KINGBROOK PKWY                                              1060210602
+KINGS HWY                                                   1060010600
+KINGSTON CT                                                 1060110601
+KINSER AVE                                                  1060110601
+KNOB ST                                                     1060010600
+KNOBVIEW DR                                                 1060010600
+KY DOT MAINTENANCE GARAGE RD                                1060010600
+LAGRANGE RD                                                 1060010600
+LAGRANGE RD                                                 1060110601
+LAKESHORE DR                                                1060210602
+LAKESIDE DR                                                 1060010600
+LAKEVIEW DR                                                 1060110601
+LANDSPUR CT                                                 1060010600
+LANG RUN CT                                                 1060210602
+LANTER DR                                                   1060010600
+LARK LN                                                     1060010600
+LAWSON LN                                                   1060010600
+LEBANNON RIDGE RD                                           1060010600
+LEE NOR MAC ST                                              1060110601
+LEE NOR MACK ST                                             1060110601
+LEES CT                                                     1060110601
+LELAND DR                                                   1060110601
+LEMASTER LN                                                 1060010600
+LENA CT                                                     1060010600
+LINCOLN DR                                                  1060210602
+LINCOLN RUN RD                                              1060010600
+LINCOLN STATION DR                                          1060210602
+LINDA LN                                                    1060010600
+LINDEN ST                                                   1060110601
+LINKS DR                                                    1060210602
+LISBY LN                                                    1060010600
+LITTLE CROOKED CREEK RD                                     1060000300
+LIZAS CIR                                                   1060010600
+LOCUST GROVE RD                                             1060010600
+LOCUST LN                                                   1060010600
+LOGAN ST                                                    1060110601
+LOGAN STATION RD                                            1060010600
+LONG RUN RD                                                 1060010600
+LONGVIEW DR                                                 1060010600
+LOVALL LN                                                   1060010600
+LUCAS RD                                                    1060010600
+LYNN DR                                                     1060010600
+LYNNE ACRES DR                                              1060110601
+MAC BRAE LN                                                 1060010600
+MACINTOSH DR                                                1060110601
+MACK WALTERS RD                                             1060010600
+MACK WALTERS RD                                             1060110601
+MADDOX ONAN RD                                              1060010600
+MADIE LN                                                    1060010600
+MAGNOLIA AVE                                                1060110601
+MAGRUDER LN                                                 1060010600
+MAHURON LN                                                  1060010600
+MAIN ST                                                     1060110601
+MAIN ST                                                     1060210602
+MAJESTIC OAKS WAY                                           1060010600
+MALLARD CT                                                  1060010600
+MANOR WAY                                                   1060010600
+MANPOWER CENTER DR                                          1060010600
+MAPLE RIDGE CT                                              1060210602
+MAPLE ST                                                    1060110601
+MAPLE ST                                                    1060210602
+MAPLEWOOD DR                                                1060210602
+MARBROOK LN                                                 1060010600
+MARELI RD                                                   1060110601
+MARSHALL CT                                                 1060010600
+MARTIN LUTHER KING JR ST                                    1060110601
+MARTIN NETHERY LN                                           1060010600
+MARY CREST DR                                               1060110601
+MARY ROSS AVE                                               1060110601
+MASON WAY                                                   1060110601
+MASONVIEW CT                                                1060110601
+MATHIS LN                                                   1060010600
+MATTERHORN CT                                               1060110601
+MATTERHORN DR                                               1060110601
+MATTHEW YOUNG RD                                            1060010600
+MCBIDE WAY                                                  1060110601
+MCCORMACK RD                                                1060010600
+MCDANIELS RD                                                1060010600
+MCDONALDS LN                                                1060010600
+MCFARLAND LN                                                1060010600
+MCMACKIN MCMULLAN RD                                        1060010600
+MEADOW RIDGE                                                1060210602
+MEDICAL AVE                                                 1060110601
+MEMORIAL DR                                                 1060110601
+MIDLAND BLVD                                                1060110601
+MIDLAND INDUSTRIAL DR                                       1060110601
+MIDLAND INDUSTRIAL DR E                                     1060110601
+MIDLAND PARK                                                1060110601
+MIDLAND TRL                                                 1060110601
+MILES LN                                                    1060010600
+MILL CIRCLE DR                                              1060010600
+MILLER AVE                                                  1060110601
+MILLER LN                                                   1060210602
+MINK RUN RD                                                 1060010600
+MOCKINGBIRD CIR                                             1060010600
+MONICA DR                                                   1060010600
+MONTCLAIR SCHOOL RD                                         1060010600
+MOODY PIKE                                                  1060010600
+MORNING CT                                                  1060010600
+MORNING GLORY LN                                            1060110601
+MORRIS CLARK RD                                             1060010600
+MOSES RUBEN DR                                              1060110601
+MOUNT EDEN RD                                               1060010600
+MT EDEN CEMENTARY RD                                        1060010600
+MT EDEN RD                                                  1060010600
+MT EDEN RD                                                  1060110601
+MT RUSHMORE CT                                              1060110601
+MT TABOR CT                                                 1060110601
+MT VERNON DR                                                1060110601
+MUDD LN                                                     1060010600
+MUIRFIELD CT                                                1060110601
+MULBERRY PIKE                                               1060010600
+MULLINS LN                                                  1060010600
+MUSSEL LN                                                   1060010600
+MY KENTUCKY ROSE CIR                                        1060010600
+N 10TH ST                                                   1060110601
+N COUNTRY DR                                                1060110601
+N PAINTED LEAF CT                                           1060010600
+N SERVICE RD                                                1060010600
+NARROW GAGE PIKE                                            1060010600
+NATIONS RD                                                  1060010600
+NAVAHO RD                                                   1060110601
+NEEDMORE LN                                                 1060010600
+NOLAND PIKE                                                 1060010600
+NORA AVE                                                    1060110601
+NORDIC CT                                                   1060110601
+NORTHRIDGE BLVD                                             1060010600
+NORTHSIDE DR                                                1060010600
+OAK CREST DR                                                1060010600
+OAK RIDGE CT                                                1060210602
+OAK ST                                                      1060110601
+OAK ST                                                      1060210602
+OAK TREE LN                                                 1060010600
+OAKMONT CT                                                  1060110601
+OAKVIEW DR                                                  1060010600
+OAKWOOD CT                                                  1060110601
+OAKWOOD DR                                                  1060010600
+OAKWOOD DR                                                  1060110601
+OHIO ST                                                     1060110601
+OLD BRUNERSTOWN RD                                          1060010600
+OLD FINCHVILLE RD                                           1060010600
+OLD FINCHVILLE RD                                           1060110601
+OLD MILL RD                                                 1060110601
+OLD MILL VILLAGE CT                                         1060110601
+OLD MILL VILLAGE DR                                         1060110601
+OLD MT EDEN RD                                              1060010600
+OLD SEVEN MILE PIKE                                         1060010600
+OLD SPRING DR                                               1060010600
+OLD STONE DR                                                1060010600
+OLD TAYLORSVILLE RD                                         1060010600
+OLD VEECHDALE CLARK STATION RD                              1060010600
+OLD VEECHDALE RD                                            1060210602
+OLIVE BRANCH RD                                             1060010600
+OLLIE BROWN RD                                              1060010600
+ORCHARD DR                                                  1060010600
+ORPHAN LN                                                   1060010600
+OSAGE TRL                                                   1060010600
+OSPREY COVE AVE                                             1060110601
+OVERLOOK CIR                                                1060010600
+OVERLOOK CT                                                 1060010600
+OWL RIDGE RD                                                1060010600
+PADDOCK LN                                                  1060010600
+PAR CT                                                      1060210602
+PARK ST                                                     1060110601
+PARKVIEW DR                                                 1060010600
+PARRENT LN                                                  1060010600
+PARTRIDGE RUN                                               1060010600
+PARTRIDGE RUN CT                                            1060010600
+PAYNE RD                                                    1060010600
+PEA RIDGE RD                                                1060010600
+PEACHTREE ST                                                1060010600
+PEARCE INDUSTRIAL RD                                        1060010600
+PEARL ST                                                    1060110601
+PEBBLE DR                                                   1060110601
+PERSIMMON CT                                                1060010600
+PERSIMMON RIDGE DR                                          1060010600
+PETRY ST                                                    1060110601
+PEYTONA BEACH RD                                            1060010600
+PHEASANT CT                                                 1060010600
+PICKETTS DAM RD                                             1060010600
+PIERREMONT DR                                               1060110601
+PILCHER RD                                                  1060010600
+PINE MEADOWS DR                                             1060010600
+PINEHURST DR                                                1060110601
+PLAINVIEW AVE                                               1060110601
+PLANTATION DR                                               1060110601
+PLEASUREVILLE RD                                            1060010600
+PLUM CREEK CT                                               1060010600
+POGUE RD                                                    1060010600
+PONDER DR                                                   1060010600
+POPES CORNER RD                                             1060010600
+POPLAR HL                                                   1060110601
+POUNDS LN                                                   1060010600
+PRIVATE DR                                                  1060010600
+PROCTOR LN                                                  1060210602
+PROSPECT AVE                                                1060110601
+PUEBLO DR                                                   1060110601
+QUAIL CALL DR                                               1060010600
+QUISENBERRY LN                                              1060010600
+R J JENNINGS RD                                             1060010600
+RALPH ROBERTS RD                                            1060010600
+RAVEN CT                                                    1060110601
+RAVEN RIDGE                                                 1060010600
+RED BIRD CT                                                 1060010600
+RED RIVER RD                                                1060010600
+REED LN                                                     1060010600
+RESERVES COURT SPUR                                         1060210602
+RESERVES CT                                                 1060210602
+RIDGE TOP CT                                                1060210602
+RIDGE WAY                                                   1060210602
+RIDGEWAY RD                                                 1060010600
+RITCHEY LN                                                  1060010600
+RITTER LN                                                   1060010600
+ROBIN RD                                                    1060010600
+ROBIN WOOD DR                                               1060010600
+ROCKBRIDGE RD                                               1060010600
+ROCKET LN                                                   1060010600
+ROLLING RIDGE CIR                                           1060210602
+ROLLING RIDGE WAY                                           1060210602
+RONNIE LAYNE RD                                             1060010600
+ROSE ST                                                     1060110601
+ROSEWOOD LN                                                 1060110601
+S PAINTED LEAF CT                                           1060010600
+S SERVICE RD                                                1060010600
+SACREE LN                                                   1060010600
+SAMPLES RD                                                  1060010600
+SANFORD LN                                                  1060110601
+SARATOGA TRL                                                1060010600
+SAUNDERS DR                                                 1060110601
+SCENIC CT                                                   1060010600
+SCOTT PIKE                                                  1060010600
+SCOTT STATION RD                                            1060010600
+SCRABBLE RD                                                 1060010600
+SEA SHELL LN                                                1060010600
+SECLUDED LAKE CT                                            1060010600
+SEMINOLE DR                                                 1060110601
+SENECA DR                                                   1060110601
+SEQUOYAH DR                                                 1060110601
+SERVICE RD                                                  1060010600
+SEVEN OAKS DR                                               1060110601
+SHAGBARK LN                                                 1060010600
+SHAKES RUN DR                                               1060210602
+SHANNON PL                                                  1060010600
+SHAWNEE RD                                                  1060110601
+SHEHAN LN                                                   1060010600
+SHELBY HALL DR                                              1060110601
+SHELBYVILLE RD                                              1060010600
+SHELBYVILLE RD                                              1060210602
+SHELLYS PL                                                  1060110601
+SHELTER RD                                                  1060010600
+SHEPARD WAY                                                 1060110601
+SHERRIE DR                                                  1060010600
+SHERWOOD CT                                                 1060110601
+SHORELINE DR                                                1060010600
+SHORT ST                                                    1060110601
+SHUMAKER DR                                                 1060210602
+SILVER CREEK CT                                             1060110601
+SIMPSON STATION DR                                          1060210602
+SKI AREA RD                                                 1060010600
+SKYLINE DR                                                  1060010600
+SKYWATCH T                                                  1060010600
+SMITHFIELD RD                                               1060110601
+SMITHLAND DR                                                1060110601
+SOUTH DR                                                    1060110601
+SOUTHERN AVE                                                1060110601
+SOUTHLAWN DR                                                1060010600
+SOUTHVILLE PIKE                                             1060010600
+SPENCER CT                                                  1060110601
+SPRING DR                                                   1060010600
+SPRING OAK DR                                               1060010600
+SPRING ST                                                   1060210602
+SPRUCE DR                                                   1060110601
+SQUIRE CIR                                                  1060010600
+SQUIRE CIR                                                  1060110601
+ST ANDREWS DR                                               1060110601
+ST REGIS DR                                                 1060110601
+STAPLETON RD                                                1060010600
+STATION POINTE LN                                           1060210602
+STEVE WOOD RD                                               1060010600
+STIGERS LN                                                  1060010600
+STONECREST CT                                               1060110601
+STONECREST RD                                               1060110601
+STONEY POINT RD                                             1060010600
+STREAMVIEW DR                                               1060010600
+STUART AVE                                                  1060010600
+STUART LANE EXT                                             1060010600
+SUMMERSFIELD DR                                             1060110601
+SUMMIT DR                                                   1060110601
+SUNFLOWER CT                                                1060110601
+SUNRISE CIR                                                 1060010600
+SUNSET WAY                                                  1060010600
+SUNSET WAY                                                  1060110601
+SYCAMORE HILLS CT                                           1060010600
+SYCAMORE HILLS LN                                           1060010600
+TATUM RD                                                    1060010600
+TAYLOR BRIGHT RD                                            1060010600
+TAYLOR DEAN CT                                              1060210602
+TAYLOR ESTES RD                                             1060010600
+TAYLOR WOOD RD                                              1060010600
+TAYLORSVILLE RD                                             1060010600
+TAYLORSVILLE RD                                             1060110601
+TEAL WOOD DR                                                1060110601
+TENOR ST                                                    1060110601
+TERHUNE LN                                                  1060010600
+THOMAS WAY                                                  1060010600
+THORN ST                                                    1060110601
+THORNHILL DR                                                1060110601
+THOROUGHBRED RD                                             1060110601
+TICONDA DR                                                  1060010600
+TIM TAM DR                                                  1060010600
+TIMBERWOOD DR                                               1060010600
+TIPPERARY CRSG                                              1060010600
+TIPPERARY CT                                                1060010600
+TODD DR                                                     1060010600
+TODDS POINT RD                                              1060010600
+TODDS POINT RD                                              1060210602
+TOP HILL DR                                                 1060010600
+TOWER DR                                                    1060010600
+TRACE LN                                                    1060110601
+TRACY LN                                                    1060010600
+TRAMMELL RD                                                 1060010600
+TRENTON CT                                                  1060010600
+TROON CT                                                    1060110601
+TROUT LN                                                    1060010600
+TRUAX LN                                                    1060010600
+TURNBERRY LN                                                1060110601
+TWILIGHT AVE                                                1060010600
+TWIN BROOK CT                                               1060010600
+TWIN CEDARS CT                                              1060010600
+TWO SPRINGS CT                                              1060010600
+TWO SPRINGS DR                                              1060110601
+UNDALATA FRONTAGE RD                                        1060110601
+UNION ST                                                    1060110601
+VALLEY DR                                                   1060010600
+VALLEY VIEW DR                                              1060110601
+VAN DYKE MILL RD                                            1060010600
+VAN TAYLOR LN                                               1060010600
+VAWTER LN                                                   1060010600
+VEECHDALE RD                                                1060010600
+VEECHDALE RD                                                1060210602
+VICTORIA DR                                                 1060010600
+VIEW ST                                                     1060010600
+VIGO RD                                                     1060010600
+VILLAGE LN                                                  1060110601
+WADDY RD                                                    1060010600
+WALLACE AVE                                                 1060010600
+WALNUT ST                                                   1060110601
+WARREN RD                                                   1060010600
+WARRIORS WAY                                                1060110601
+WASHBURN RD                                                 1060010600
+WASHINGTON ST                                               1060010600
+WASHINGTON ST                                               1060110601
+WATCH HILL LN                                               1060010600
+WATER TREATMENT PLANT                                       1060110601
+WEBB RD                                                     1060010600
+WEBBMONT CIR                                                1060010600
+WEDGEWOOD DR                                                1060010600
+WEISSENGER CLUBHOUSE RD                                     1060110601
+WEISSINGER CT                                               1060110601
+WENDOVER CT                                                 1060110601
+WESTVIEW DR                                                 1060110601
+WEXFORD CT                                                  1060010600
+WHISPERING PINES CIR                                        1060010600
+WHITE OAK CT                                                1060110601
+WHITE OAK RD                                                1060110601
+WHITE RD                                                    1060010600
+WHITNEY YOUNG                                               1060010600
+WHO DA THOT IT HILL RD                                      1060110601
+WILLIAMSBURG CT                                             1060110601
+WILLIS ST                                                   1060110601
+WILLOW CREEK CT                                             1060010600
+WILLOW CREEK LANE BAY                                       1060010600
+WILLOW CREEK LN                                             1060010600
+WILLOW ST                                                   1060110601
+WILLOW WOOD DR                                              1060110601
+WINDHURST WAY                                               1060010600
+WINDING WAY                                                 1060010600
+WINDSOR CT                                                  1060110601
+WINDSOR DR                                                  1060110601
+WOLF RUN RD                                                 1060010600
+WOOD CULVERT RD                                             1060010600
+WOODED LAKE DR                                              1060010600
+WOODFIELD CIR                                               1060110601
+WOODFIELD CT                                                1060110601
+WOODLAWN RD                                                 1060010600
+YORKSHIRE DR                                                1060010600
+ZARING MILL RD                                              1060010600
+ZARING MILL RD                                              1060110601
+ZELKOVA DR                                                  1060110601
+ZENAS CT                                                    1060110601

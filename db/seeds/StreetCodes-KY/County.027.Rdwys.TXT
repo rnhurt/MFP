@@ -1,0 +1,542 @@
+1ST ST                                                      0270102701
+2ND ST                                                      0270102701
+3RD ST                                                      0270002700
+3RD ST                                                      0270102701
+AARON RIDGE RD                                              0270002700
+ABBY LEIGH LN                                               0270002700
+ABSTON LN                                                   0270002700
+AGEE RIDGE RD                                               0270002700
+ALBANY LANDING RD                                           0270002700
+ALLEN ST                                                    0270102701
+ALPHA PLEASANT RIDGE RD                                     0270002700
+ALVIN LOGAN DR                                              0270002700
+AMISH RD                                                    0270002700
+ANDREW BUTLER RD                                            0270002700
+ANDREWS RD                                                  0270002700
+ARMSTRONG HONEYCUTT DR                                      0270002700
+ASBERRY NO3 RD                                              0270002700
+ASBERRY RD                                                  0270002700
+AUTUMN DR                                                   0270002700
+AYERS RD                                                    0270002700
+B DAVIS RD                                                  0270002700
+B JONES RD                                                  0270002700
+B WELLS RD                                                  0270002700
+BALD ROCK RD                                                0270002700
+BARTON RD                                                   0270002700
+BATES DELK RD                                               0270002700
+BEATTY LN                                                   0270002700
+BEATTY SCHOOL RD                                            0270002700
+BEATY CEMETERY RD                                           0270002700
+BECKY LYNN LN                                               0270002700
+BEECH BOTTOM CEMETERY RD                                    0270002700
+BEECH BOTTOM RD                                             0270002700
+BILL BROWN RD                                               0270002700
+BILL PERDEW RD                                              0270002700
+BLAIR ST                                                    0270102701
+BLUE RIDGE RD                                               0270002700
+BOILS AND CASH CEMETERY RD                                  0270002700
+BOILS RD                                                    0270002700
+BOOKER RD                                                   0270002700
+BOSS BROWN RD                                               0270002700
+BRADLEY RD                                                  0270002700
+BRANHAM RD                                                  0270002700
+BRISTOW ST                                                  0270102701
+BROWN RD                                                    0270002700
+BROWN SPUR RD                                               0270002700
+BROWN ST                                                    0270002700
+BROWNS POND WAGO RD                                         0270002700
+BRUMMETT LN                                                 0270002700
+BULTER RIDGE RD                                             0270002700
+BURCHETT EAST RD                                            0270002700
+BURCHETT NO2 RD                                             0270002700
+BURCHETT RD                                                 0270002700
+BURKESVILLE RD                                              0270002700
+BURKESVILLE RD                                              0270102701
+BUSTER PHILLIPS RD                                          0270002700
+BYRD LOOP RD                                                0270002700
+CARDINAL LN                                                 0270002700
+CARLTON RD                                                  0270002700
+CARTER ST                                                   0270102701
+CARTWRIGHT LOOP                                             0270002700
+CARVER LN                                                   0270002700
+CASH RD                                                     0270002700
+CASTLE RD                                                   0270002700
+CATRON LOOP RD                                              0270002700
+CATRON NO2 RD                                               0270002700
+CATRON RD                                                   0270002700
+CAVE SPRINGS CHURCH SPUR RD                                 0270002700
+CECIL WAY RD                                                0270002700
+CEDAR HILL RD                                               0270002700
+CEDAR KNOB RD                                               0270002700
+CEDAR ST                                                    0270102701
+CEMETERY RD                                                 0270002700
+CEMETERY STREET A                                           0270102701
+CEMETERY STREET B                                           0270102701
+CENTRAL ST                                                  0270102701
+CENTRAL UNION RD                                            0270002700
+CHARLIE AYERS RD                                            0270002700
+CHARLIE MURREY RD                                           0270002700
+CHARLIE TALLENT RD                                          0270002700
+CHERRY ST                                                   0270102701
+CHESTNUT FLAT RD                                            0270002700
+CHURNTOP RD                                                 0270002700
+CHURNTOP ROAD SPUR                                          0270002700
+CIRCLE DR                                                   0270002700
+CIRCLE DR                                                   0270102701
+CIRCLE RD                                                   0270002700
+CLARK RD                                                    0270002700
+CLAY ST                                                     0270102701
+CLEAR FORK NORTH RD                                         0270002700
+CLEAR FORK SOUTH RD                                         0270002700
+CLEVE HUDDLESTON RD                                         0270002700
+CODY LN                                                     0270102701
+COLE FARM RD                                                0270002700
+COLUMBIA AVE                                                0270102701
+COLUMBIA ST                                                 0270102701
+COMPTOM COURT RD                                            0270002700
+CONCORD RD                                                  0270002700
+CONCORD SPUR RD                                             0270002700
+CONNER RD                                                   0270002700
+CONNER ST                                                   0270102701
+CONNERS RD                                                  0270002700
+COOKSEY RD                                                  0270002700
+COON TRAIL SPUR RD                                          0270002700
+COPELAND RD                                                 0270002700
+COVEY RD                                                    0270002700
+COWAN RD                                                    0270002700
+CRABTREE RD                                                 0270002700
+CROCKETT RD                                                 0270002700
+CROSS ST                                                    0270102701
+CROW CREEK RD                                               0270002700
+CUMBERLAND CITY RD                                          0270002700
+CUMMINS CROSS RD                                            0270002700
+DALE HOLLOW AVE                                             0270002700
+DALE HOLLOW MANOR RD                                        0270002700
+DALTON NO2 RD                                               0270002700
+DALTON RD                                                   0270002700
+DALTON RD                                                   0270102701
+DALTON SPUR RD                                              0270002700
+DANNY THOMAS RD                                             0270002700
+DAVIS CHAPEL AND CEMETERY RD                                0270002700
+DAVIS CHAPEL RD                                             0270002700
+DAVIS RD                                                    0270002700
+DAWSON ST                                                   0270102701
+DESDIA WILLIS CREEK RD                                      0270002700
+DICKEN RD                                                   0270002700
+DICKENS RD                                                  0270002700
+DICKENS SCHOOL RD                                           0270002700
+DIVISION RD                                                 0270002700
+DOUBLE D LN                                                 0270002700
+DUVALL CREEK RD                                             0270002700
+DUVALL LN                                                   0270002700
+DUVALL RD                                                   0270002700
+DUVALL SPUR RD                                              0270002700
+DUVALL VALLEY RD                                            0270002700
+E ALBERSON RD                                               0270002700
+E CLEAR ST                                                  0270102701
+E CUMBERLAND ST                                             0270002700
+E CUMBERLAND ST                                             0270102701
+E HILL ST                                                   0270102701
+E HUNTERSVILLE CEDAR KNOB RD                                0270002700
+E JEFFERSON ST                                              0270102701
+E SPRING ST                                                 0270102701
+E WOODS ST                                                  0270102701
+EARL E THRASHER RD                                          0270002700
+EARL SHELTON RD                                             0270002700
+ED MEANS RD                                                 0270002700
+EDDIE LOVELACE ST                                           0270102701
+EDWARDS RD                                                  0270002700
+ELIJAH LN                                                   0270002700
+ELLIS RD                                                    0270002700
+ELM ST                                                      0270102701
+ELMORE NO2 RD                                               0270002700
+EMERGENCY DR                                                0270002700
+ETHAN DR                                                    0270002700
+ETHER ST                                                    0270102701
+EVANS SCHOOL RD                                             0270002700
+EWING BRANCH RD                                             0270002700
+EWING BRANCH SPUR RD                                        0270002700
+EWING SCHOOL RD                                             0270002700
+FAIR ST                                                     0270102701
+FAIRGROUNDS RD                                              0270002700
+FAIRGROUNDS RD                                              0270102701
+FAIRLAND CEMETERY RD                                        0270002700
+FARLEY STINSON RD                                           0270002700
+FAT KAT RD                                                  0270002700
+FELKINS RD                                                  0270002700
+FERGUSON RD                                                 0270002700
+FIRE STATION ALY                                            0270102701
+FIVE SPRINGS CHURCH CENETERY RD                             0270002700
+FIVE SPRINGS CHURCH RD                                      0270002700
+FOOTHILLS AVE                                               0270102701
+FOSTER RD                                                   0270002700
+FRYMAN LANDING RD                                           0270002700
+FRYMAN RD                                                   0270002700
+G STERNS RD                                                 0270002700
+G THOMAS RD                                                 0270002700
+GARFIELD BROWN RD                                           0270002700
+GEORGE SELL RD                                              0270002700
+GEORGE SLOAN RD                                             0270002700
+GIBSON NO2 RD                                               0270002700
+GIBSON NO3 RD                                               0270002700
+GIBSON RD                                                   0270002700
+GINA LN                                                     0270002700
+GLIDWELL RD                                                 0270002700
+GLIDWELL SPUR RD                                            0270002700
+GOODMAN RD                                                  0270002700
+GRANDVIEW RD                                                0270002700
+GRAY SAVAGE RD                                              0270002700
+GREENBRIAR RD                                               0270002700
+GRIDER HILL BOAT DOCK                                       0270002700
+GRIDER HILL DOCK CAMPGROUND                                 0270002700
+GRIDER HILL DOCK RD                                         0270002700
+GRIDER SPUR RD                                              0270002700
+GROCE GIBSON RD                                             0270002700
+GROCE RD                                                    0270002700
+GROCE SUBDIVISION RD                                        0270002700
+GROVER RD                                                   0270002700
+GUFFEY RD                                                   0270002700
+GUFFEY ST                                                   0270102701
+GUINN BULLARD ASH RD                                        0270002700
+GUTHRIE RD                                                  0270002700
+HADDIX RD                                                   0270002700
+HALEY ST                                                    0270102701
+HARPER LN                                                   0270002700
+HARPER LN                                                   0270102701
+HAWS KNOB RD                                                0270002700
+HAYES RD                                                    0270002700
+HAYES SPUR RD                                               0270002700
+HENRY GUFFEY RD                                             0270002700
+HIGH ST                                                     0270102701
+HILL CREST DR                                               0270002700
+HOBART RD                                                   0270002700
+HOGBACK RD                                                  0270002700
+HOGBACK SPUR NO2 RD                                         0270002700
+HOLIDAY LN                                                  0270002700
+HOLY TEMPLE RD                                              0270002700
+HOOPER LN                                                   0270002700
+HOOTS RD                                                    0270002700
+HOOVER RD                                                   0270002700
+HOPKINS CEMETERY RD                                         0270002700
+HOPKINS ST                                                  0270102701
+HORSESHOE BEND SUBDIVISION                                  0270002700
+HOSPITAL ST                                                 0270102701
+HOWARD MARCUM RD                                            0270002700
+HUBBARD RD                                                  0270002700
+HUDSON RD                                                   0270002700
+HUDSON SPUR RD                                              0270002700
+HUFF RD                                                     0270002700
+HUGHES RD                                                   0270002700
+HUNTER LN                                                   0270002700
+HUNTERSVILLE CEDAR KNOB RD                                  0270002700
+HUNTERSVILLE CEDAR KNOB SPUR RD                             0270002700
+HUNTERSVILLE RD                                             0270002700
+IDA RD                                                      0270002700
+ILLWILL RD                                                  0270002700
+INDUSTRIAL PARK                                             0270002700
+IRWIN CEMETERY RD                                           0270002700
+IVAN SLOAN ST                                               0270102701
+J B BROWN RD                                                0270002700
+J BERTRAM RD                                                0270002700
+J H MORGAN RD                                               0270002700
+J L TALLENT RD                                              0270002700
+JACOBS WAY                                                  0270102701
+JARVIS RD                                                   0270002700
+JEFFERSON ST                                                0270102701
+JESS KING AND EVANS SCHOOL RD                               0270002700
+JOHN CUMMINS RD                                             0270002700
+JOHN EUDY RD                                                0270002700
+JOHN TUGGLE LN                                              0270002700
+JOHNSON RD                                                  0270002700
+JONES LN                                                    0270002700
+JONES MILL PIERCE STORE RD                                  0270002700
+JONES MILL RD                                               0270002700
+JONES NO2 RD                                                0270002700
+JONES NO3 RD                                                0270002700
+JONES RD                                                    0270002700
+JONES SOUTH RD                                              0270002700
+JOYCE CONNER RD                                             0270002700
+K THRASHER RD                                               0270002700
+KELSEY RD                                                   0270002700
+KEMPTON MURPHEY RD                                          0270002700
+KENNEDY MOUNTAIN                                            0270002700
+KING AVE                                                    0270002700
+KOGER LN                                                    0270002700
+KOGER RD                                                    0270002700
+KROGER RD                                                   0270002700
+KY 350 SPUR RD                                              0270002700
+KY1076                                                      0270002700
+KY1266                                                      0270002700
+KY1281                                                      0270002700
+KY1351                                                      0270002700
+KY1553                                                      0270002700
+KY1590                                                      0270002700
+KY1775                                                      0270002700
+KY200                                                       0270002700
+KY2063                                                      0270002700
+KY2277                                                      0270002700
+KY2546                                                      0270002700
+KY3045                                                      0270002700
+KY3063                                                      0270002700
+KY3065                                                      0270002700
+KY3066                                                      0270002700
+KY3156                                                      0270002700
+KY415                                                       0270002700
+KY558                                                       0270002700
+KY639                                                       0270002700
+KY639 N                                                     0270002700
+KY639 S                                                     0270002700
+KY696                                                       0270002700
+KY829                                                       0270002700
+KY829 CROSSOVER                                             0270002700
+KY90 E                                                      0270002700
+KY90 W                                                      0270002700
+KY968                                                       0270002700
+KY969                                                       0270002700
+L ST                                                        0270102701
+LAKEPOINT DR                                                0270002700
+LAKEPOINT SUB NO1 RD                                        0270002700
+LAKEPOINT SUB NO2 RD                                        0270002700
+LAKEPOINT SUB NO3 RD                                        0270002700
+LAKESHORE DR                                                0270002700
+LAKESIDE DR                                                 0270002700
+LAKEVIEW DR                                                 0270002700
+LAKEWOOD ESTATES RD                                         0270002700
+LAKEWOOD ESTATES SPUR RD                                    0270002700
+LANE GAP CREEK RD                                           0270002700
+LAWSON CEMETERY RD                                          0270002700
+LEE RD                                                      0270002700
+LEE SUBDIVISION RD                                          0270002700
+LEES CHAPEL RD                                              0270002700
+LEES CHAPEL SPUR                                            0270002700
+LETTER OAK DR                                               0270002700
+LETTER OAK SPUR                                             0270002700
+LEVERAGE RD                                                 0270002700
+LIBERTY LN                                                  0270102701
+LICK CREEK RD                                               0270002700
+LITTLES RD                                                  0270002700
+LITTRELL RD                                                 0270002700
+LOGAN SUBDIVISION                                           0270102701
+LONNIE JONES                                                0270002700
+LOSEY RD                                                    0270002700
+LOWER OAK GROVE RD                                          0270002700
+LOZANO RD                                                   0270002700
+LYNNVIEW DR                                                 0270102701
+M FERGUSON RD                                               0270002700
+MACK RIDGE RD                                               0270002700
+MALONE RIDGE                                                0270002700
+MAPLE MOUNTAIN                                              0270002700
+MAPLE MOUNTAIN SPUR                                         0270002700
+MAPLE POINT RD                                              0270002700
+MAPLE ST                                                    0270102701
+MARCUM RD                                                   0270002700
+MARINERS WAY                                                0270002700
+MARLOW CARTWRIGHT RD                                        0270002700
+MARSHALL STEARNS RD                                         0270002700
+MASSENGALE RD                                               0270002700
+MAUPIN RD                                                   0270002700
+MAY RD                                                      0270002700
+MCIVER RD                                                   0270002700
+MCKINLEY GUFFY RD                                           0270002700
+MCWHORTER RD                                                0270002700
+MCWHORTER SPUR RD                                           0270002700
+MEANS RD                                                    0270002700
+MIDDLE FORK INDIAN CREEK RD                                 0270002700
+MIDDLE SCHOOL RD                                            0270002700
+MIKELS RD                                                   0270002700
+MILLER RD                                                   0270002700
+MILLER TALLENT RD                                           0270002700
+MODOCK RD                                                   0270002700
+MOGG RD                                                     0270002700
+MORRIS THOMAS RD                                            0270002700
+MOUNTAIN LANE SPUR                                          0270002700
+MOUNTAIN LN                                                 0270002700
+MOUNTIAN VIEW PARK                                          0270002700
+MT UNION CHURCH RD                                          0270002700
+MT VERNON RD                                                0270002700
+N CROSS ST                                                  0270002700
+N CROSS ST                                                  0270102701
+N DAVIS RD                                                  0270002700
+N HOSPITAL ST                                               0270102701
+N SCHOOL DR                                                 0270102701
+N WASHINGTON ST                                             0270102701
+NEAL NO2 RD                                                 0270002700
+NEAL RD                                                     0270002700
+NEAL ROAD NO2                                               0270002700
+NEW HOPE SCHOOL RD                                          0270002700
+NICHOLAS LN                                                 0270102701
+NOLAN ST                                                    0270102701
+NORA SPUR RD                                                0270002700
+NORRIS AVE                                                  0270102701
+OAK ST                                                      0270102701
+OLD BURKESVILLE RD                                          0270002700
+OLD CARTWRIGHT RD                                           0270002700
+OLD COUNTRY EAST RD                                         0270002700
+OLD COUNTRY RD                                              0270002700
+OLD COWAN SCHOOL RD                                         0270002700
+OLD CUMBERLAND CITY OSCO RD                                 0270002700
+OLD CUMBERLAND CITY OSCO SPUR RD                            0270002700
+OLD CUMBERLAND ST                                           0270102701
+OLD GLIDWELL SCHOOL RD                                      0270002700
+OLD KY 90 LOOP NO1 RD                                       0270002700
+OLD KY 90 LOOP NO2 RD                                       0270002700
+OLD KY 90 LOOP NO3 RD                                       0270002700
+OLD KY 90 LOOP NO5 RD                                       0270002700
+OLD MONTICELLO RD                                           0270002700
+OLD SAVAGE HILL RD                                          0270002700
+OLD STEARNS RD                                              0270002700
+OLD US 127 LOOP NO2 RD                                      0270002700
+OLD US 127 LOOP NO3 RD                                      0270002700
+OLD US 127 LOOP NO3 SPUR RD                                 0270002700
+OLD US 127 LOOP NO4 RD N                                    0270002700
+OLD US 127 LOOP NO5 RD N                                    0270002700
+OLD US 127 LOOP SPUR RD                                     0270002700
+OLD YORK CHAPEL RD                                          0270002700
+OLIVER JONES RD                                             0270002700
+OLYMPUS DR                                                  0270002700
+OWENS CEMETERY RD                                           0270002700
+OWENS RD                                                    0270002700
+PARK ROAD A                                                 0270002700
+PARK ROAD C                                                 0270002700
+PARK ROAD D                                                 0270002700
+PARK ROAD F                                                 0270002700
+PARK ROAD G                                                 0270002700
+PARRIGIN NO2 RD                                             0270002700
+PARRIGIN RD                                                 0270002700
+PATRICK BRANCH RD                                           0270002700
+PENNY AVE                                                   0270002700
+PEOLIA CEMETERY RD                                          0270002700
+PEOLIA CHURCH RD                                            0270002700
+PERIL RD                                                    0270002700
+PETINYCUFF RD                                               0270002700
+PETINYCUFF RD E                                             0270002700
+PHILLIPS RD                                                 0270002700
+PHILLIPS SPUR NO2 RD                                        0270002700
+PHILLIPS SPUR RD                                            0270002700
+PHILLIPS SUBDIVISION                                        0270002700
+PICKENS RD                                                  0270002700
+PIERCE STORE RD                                             0270002700
+PIERCE STORE SPUR RD                                        0270002700
+PIERCY CEMETERY RD                                          0270002700
+PIERCY LN                                                   0270002700
+PIERCY RD                                                   0270002700
+PILES RD                                                    0270002700
+PINE GROVE RD                                               0270002700
+PINEVIEW DR                                                 0270002700
+PINEVIEW DR                                                 0270102701
+PITMAN SOUTH RD                                             0270002700
+PITTMAN RD                                                  0270002700
+PLEASANT RIDGE RD                                           0270002700
+POLL RD                                                     0270002700
+POPLAR DR                                                   0270002700
+POPLAR ST                                                   0270102701
+QUARRY LN                                                   0270002700
+RAINBOW DR                                                  0270102701
+RANDALL RD                                                  0270002700
+RAVEN WAY WAY                                               0270102701
+RAY BROWN RD                                                0270002700
+RAY RIDGE RD                                                0270002700
+REYNOLDS RD                                                 0270002700
+RICE RD                                                     0270002700
+RIDDLETOWN RD                                               0270002700
+RIDGE RD                                                    0270002700
+RIDGEMONT TRAILER PARK RD                                   0270002700
+RIDGEMONT TRAILER PARK SPUR RD                              0270002700
+RINGLEY RD                                                  0270002700
+ROBERT PAGE RD                                              0270002700
+ROLAN RD                                                    0270002700
+RONNIE BROWN RD                                             0270002700
+RONNIE PITTMAN BAY                                          0270002700
+RONNIE PITTMAN RD                                           0270002700
+RONNIE PITTMAN SPUR RD                                      0270002700
+ROSE OF SHARON CHURCH RD                                    0270002700
+ROY GRIDER RD                                               0270002700
+S CROSS ST                                                  0270102701
+S WASHINGTON ST                                             0270102701
+SCHOONERS LNDG                                              0270002700
+SEMINARY OOTENS STORE RD                                    0270002700
+SEVENTY SIX ALBANY LANDING RD                               0270002700
+SEVENTY SIX BAPTIST CHURCH RD                               0270002700
+SEVENTY SIX FALLS RD                                        0270002700
+SHELLEY RD                                                  0270002700
+SHELLEY ST                                                  0270002700
+SHELLEY ST                                                  0270102701
+SHELTON SAWMILL RD                                          0270002700
+SHORT CUT RD                                                0270102701
+SID SCOTT DR                                                0270102701
+SIMMONS RD                                                  0270002700
+SIMPSON LN                                                  0270002700
+SLICK JONES RD                                              0270002700
+SLOAD RD                                                    0270002700
+SMITH CHAPEL RD                                             0270002700
+SMITH CREEK DR                                              0270002700
+SMITH RD                                                    0270002700
+SNOW SCHOOL RD                                              0270002700
+SPECK NO2 RD                                                0270002700
+SPECK RD                                                    0270002700
+SPRING SCHOOL RD                                            0270002700
+SQUARE ST                                                   0270102701
+STEARNS RD                                                  0270002700
+STINSON RD                                                  0270002700
+STOCKTON RD                                                 0270002700
+STONESIPHER RD                                              0270002700
+SUGAR VALLEY RD                                             0270002700
+SULPHER CREEK RD                                            0270002700
+SULPHUR CREEK NO2 RD                                        0270002700
+TALBOT RD                                                   0270002700
+THOMAS LEE RD                                               0270002700
+THOMAS NO2 RD                                               0270002700
+THOUROUGHBRED DR                                            0270102701
+THURMAN RD                                                  0270002700
+TIDMORE LN                                                  0270002700
+TOM GROCE RD                                                0270002700
+TOWER ST                                                    0270102701
+TRAILER PARK NO1                                            0270102701
+TRAILER PARK NO2                                            0270102701
+TRAILER PARK NO3                                            0270102701
+TRANSFER STATION RD                                         0270002700
+TRAVIS GROCE RD                                             0270002700
+TUGGLE LOOP RD                                              0270002700
+TWIN OAKS AVE                                               0270002700
+TWIN OAKS SUBDIVISION RD                                    0270002700
+UPCHURCH RD                                                 0270002700
+US127                                                       0270002700
+US127                                                       0270102701
+V B ROGERS SOUTH RD                                         0270002700
+VIRGINIA AVE                                                0270002700
+VOTE HOUSE RD                                               0270002700
+W CEDAR ST                                                  0270102701
+W CENTRAL ST                                                0270102701
+W CLEAR ST                                                  0270102701
+W CUMBERLAND ST                                             0270102701
+W G BROWN RD                                                0270002700
+W HILL ST                                                   0270102701
+W WOODS ST                                                  0270002700
+W WOODS ST                                                  0270102701
+WALL ST                                                     0270002700
+WALL ST                                                     0270102701
+WALLACE RD                                                  0270002700
+WALNUT GROVE RD                                             0270002700
+WATER ST                                                    0270102701
+WATER TOWER RD                                              0270002700
+WELL ST                                                     0270102701
+WELLS BOTTOM RD                                             0270002700
+WEST ST                                                     0270102701
+WESTVIEW SUBDIVISION                                        0270002700
+WHITE ST                                                    0270002700
+WILLEN SCHOOL RD                                            0270002700
+WILLIAMS RD                                                 0270002700
+WILLIAMS SCHOOL RD                                          0270002700
+WILSON AIRPORT SUBDIVISION RD                               0270002700
+WILSON AND CLARK ST                                         0270002700
+WILSON AND CLARK ST                                         0270102701
+WISDOM DOCK RD                                              0270002700
+WISDOM DOCK RD                                              0270102701
+WITHAM RD                                                   0270002700
+WM J SHEARER LN                                             0270002700
+WOLF RIVER DOCK RD                                          0270002700
+WOLF RIVER DOCK RD                                          0270102701
+WOLF RIVER ESTATES RD                                       0270002700
+WOODRUM RD                                                  0270002700
+WOODSON LN                                                  0270002700
+WRIGHT PARRISH RD                                           0270002700

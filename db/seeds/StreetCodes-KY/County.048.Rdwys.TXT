@@ -1,0 +1,2037 @@
+1ST ST                                                      0480004800
+1ST ST                                                      0480104801
+1ST ST                                                      0480304803
+1ST ST                                                      0480404804
+1ST STREET CONNECTOR                                        0480004800
+2ND AVE                                                     0480104801
+2ND ST                                                      0480004800
+2ND ST                                                      0480304803
+2ND ST                                                      0480404804
+3RD AVE                                                     0480104801
+3RD ST                                                      0480004800
+3RD ST                                                      0480304803
+3RD STREET EXT                                              0480304803
+4TH AVE                                                     0480104801
+4TH ST                                                      0480004800
+4TH ST                                                      0480304803
+4TH STREET CAYWOOD                                          0480004800
+5TH AVE                                                     0480104801
+5TH ST                                                      0480004800
+5TH ST                                                      0480304803
+6TH ST                                                      0480004800
+7TH ST                                                      0480004800
+8TH ST                                                      0480004800
+A AND S DR                                                  0480004800
+A LEWIS RD                                                  0480004800
+ABE HILL RD                                                 0480004800
+ABE LN                                                      0480004800
+ABNER BR                                                    0480004800
+ADAMS CEMETERY                                              0480004800
+AGES CREEK RD                                               0480004800
+AHSER STREET SPUR                                           0480004800
+AIRPORT SPUR NO1                                            0480004800
+AIRPORT SPUR NO2                                            0480004800
+AKERS HL                                                    0480004800
+ALBERT LANE SPUR                                            0480004800
+ALBERT LN                                                   0480004800
+ALEX CALDWELL CEMETERY                                      0480004800
+ALFRED MIDDLETON RD                                         0480004800
+ALICE DR                                                    0480004800
+ALLEN CEMETERY RD                                           0480004800
+ALLEN LN                                                    0480004800
+ALLEN RD                                                    0480004800
+ALLEY                                                       0480604806
+ALLEY NO1 WAY                                               0480204802
+ALLEY NO2 WAY                                               0480204802
+ALLEY NO3 WAY                                               0480204802
+ALLEY NO4 WAY                                               0480304803
+ALONDA LN                                                   0480004800
+ALONZO TURNER RD                                            0480004800
+ALTA LN                                                     0480004800
+ALVA MEMORIAL CEMETERY                                      0480004800
+AMY DANIELS LN                                              0480004800
+ANDERSON ST                                                 0480004800
+ANGELO RD                                                   0480004800
+ANGIE RD                                                    0480004800
+ANNIE DANIELS RD                                            0480004800
+APPLE LN                                                    0480004800
+ARLIE RD                                                    0480004800
+AROUND THE WORLD                                            0480004800
+ARTHELLA RD                                                 0480004800
+ARTHELLA RD E                                               0480004800
+ARVEL LN                                                    0480004800
+ARVIN RD                                                    0480004800
+ARVIN SPUR                                                  0480004800
+ASBURY HOLLOW CEMETERY NO1                                  0480004800
+ASBURY HOLLOW CEMETERY NO2                                  0480004800
+ASBURY HOLW                                                 0480004800
+ASHER CEMETERY RD                                           0480004800
+ASHER ST                                                    0480004800
+ASHLEY DR                                                   0480004800
+ASHLEY LN                                                   0480004800
+AUBURN RD                                                   0480004800
+AUGUSTA DR                                                  0480104801
+AVA ST                                                      0480004800
+AVIS COUCH RD                                               0480004800
+B AND H RD                                                  0480004800
+B HENSELY BRIDGE                                            0480004800
+BABS ARBOR ST                                               0480104801
+BACK LN                                                     0480004800
+BACK ROW ST                                                 0480004800
+BACK ST                                                     0480604806
+BAILEY CEMETERY RD                                          0480004800
+BAILEY CREEK RD                                             0480004800
+BAILEY LN                                                   0480004800
+BAILEY LOOP                                                 0480304803
+BAILEY ST                                                   0480204802
+BAILEY ST                                                   0480304803
+BAIRDS LN                                                   0480004800
+BAKER ST                                                    0480004800
+BALL CEMETERY DARKMONT                                      0480004800
+BALL CEMETERY RD                                            0480004800
+BALL CEMETERY WILDCAT HOLW                                  0480004800
+BALL LN                                                     0480004800
+BALL PARK RD                                                0480004800
+BALL TRAILER PARK                                           0480004800
+BALLARD ST                                                  0480004800
+BANK DR                                                     0480004800
+BANK RD                                                     0480004800
+BANK ST                                                     0480104801
+BANNER FORK RD                                              0480004800
+BARB SAYLOR RD                                              0480004800
+BARBS LN                                                    0480004800
+BARDO HOLW                                                  0480004800
+BARDO SCHOOL RD                                             0480004800
+BARGO LN                                                    0480004800
+BARKER CEMETERY                                             0480004800
+BARKER RD                                                   0480004800
+BARLOW AVE                                                  0480004800
+BATH HOUSE RD                                               0480004800
+BATH HOUSE SPUR                                             0480004800
+BAXTER UNITED CHURCH                                        0480004800
+BEALE ST                                                    0480104801
+BECKY SPAIN LN                                              0480004800
+BEECH GROVE CEMETERY RD                                     0480004800
+BEECH GROVE LN                                              0480004800
+BEECH ST                                                    0480004800
+BEGLEY LN                                                   0480004800
+BELCHER LANE SPUR                                           0480204802
+BELCHER LN                                                  0480004800
+BELCHER LN                                                  0480204802
+BELKWAY                                                     0480004800
+BELL ST                                                     0480504805
+BEN BROUGHTON                                               0480004800
+BEN LEWIS LN                                                0480004800
+BENGE DR                                                    0480004800
+BENHAM WALKING TRACK                                        0480604806
+BERT CLEM BRIDGE                                            0480004800
+BESSIE LN                                                   0480004800
+BETHEL RD                                                   0480004800
+BETTY CAROLYN RD                                            0480004800
+BICKERSTAFF BLVD                                            0480604806
+BIG BERTHA DR                                               0480004800
+BIG BRANCH CEMETERY                                         0480004800
+BIG BRANCH RD                                               0480004800
+BIG LAUREL RD                                               0480004800
+BIG OAK TRL                                                 0480004800
+BIGELOW RD                                                  0480004800
+BIGLOW EXT                                                  0480004800
+BILL CLEM LN                                                0480004800
+BILL RAY CEMETERY RD                                        0480004800
+BILLIE HL                                                   0480004800
+BILLIPS ST                                                  0480104801
+BILLS CREEK CEMETERY RD                                     0480004800
+BILLS CREEK RD                                              0480004800
+BILLY G HOLW                                                0480004800
+BILLY LEE RD                                                0480004800
+BIRCH ST                                                    0480004800
+BISTUE RD                                                   0480004800
+BLACK BOTTOM RD                                             0480004800
+BLACK BOTTOM SPUR                                           0480004800
+BLACK BOTTOM W                                              0480004800
+BLACK LOOP                                                  0480004800
+BLACK MOUNTAIN BAPTIST RD                                   0480004800
+BLACK STAR CHURCH RD                                        0480004800
+BLACKBOTTOM EAST RD                                         0480304803
+BLAINE LN                                                   0480004800
+BLAIR CEMETERY RD                                           0480404804
+BLAIR CHAPPEL RD                                            0480004800
+BLAIR ST                                                    0480104801
+BLANTON AVE                                                 0480004800
+BLANTON CEMETERY RD                                         0480004800
+BLANTON DR                                                  0480004800
+BLANTON DR                                                  0486904869
+BLANTON LIGGETT RD                                          0480004800
+BLANTON LN                                                  0480004800
+BLANTON RD                                                  0480004800
+BLANTON SPUR                                                0480004800
+BLEDSOE CHURCH                                              0480004800
+BLEDSOE RD                                                  0480004800
+BLEVINS LN                                                  0480004800
+BLEVINS ST                                                  0480104801
+BLEVINS ST                                                  0480504805
+BLEVIS LN                                                   0480004800
+BLUE ALY                                                    0480004800
+BLUE BIRD LN                                                0480004800
+BLUE DIAMOND CAMP RD                                        0480004800
+BLUE LN                                                     0480004800
+BLUE SPUR                                                   0480004800
+BOBBY CALLAHAN LN                                           0480004800
+BOBBY CALLAHAN SPUR                                         0480004800
+BOBS CREEK TURN AROUND                                      0480004800
+BOGGS BRIDGE                                                0480004800
+BOGGS CEMETERY GUNSMOKE                                     0480004800
+BOGGS HOLLOW RD                                             0480004800
+BOGGS LN                                                    0480004800
+BOLIN RD                                                    0480004800
+BOOGER BR                                                   0480004800
+BOTTOM RD                                                   0480004800
+BOURBON ST                                                  0480004800
+BOWLING RD                                                  0480004800
+BOWMAN LN                                                   0480004800
+BOXER BRIDGE                                                0480004800
+BRACKET RD                                                  0480004800
+BRADFORD LOOP                                               0480004800
+BRANON DR                                                   0480304803
+BRANSON ST                                                  0480004800
+BRASHEARS RD                                                0480004800
+BREEDENS CREEK RD                                           0480004800
+BREEDENS CREEK SPUR BRIDGE                                  0480004800
+BRENDA LN                                                   0480004800
+BREWER CEMETERY                                             0480004800
+BREWERS LN                                                  0480004800
+BRIDGE DR                                                   0480004800
+BRIDGE LN                                                   0480004800
+BRIDGE ST                                                   0480104801
+BRIDGE ST                                                   0480204802
+BRIDGE ST                                                   0480504805
+BRIGMON LANE SPUR                                           0480004800
+BRIGMON LN                                                  0480004800
+BRITTIANS COURT SPUR                                        0480004800
+BRITTIANS CREEK CHURCH LOT                                  0480004800
+BRITTIANS CREEK RD                                          0480004800
+BRITTIANS CT                                                0480004800
+BRITTON CEMETERY SMITH RD                                   0480004800
+BRITTONS RD                                                 0480004800
+BROCK CEMETERY NO1                                          0480004800
+BROCK CEMETERY RD                                           0480004800
+BROCK CEMETERY SLACK HOLW                                   0480004800
+BROCK RD                                                    0480004800
+BROOK LN                                                    0480004800
+BROOKS ST                                                   0480004800
+BROOKSIDE PARK                                              0480004800
+BROWN ALY                                                   0480004800
+BROWN CT                                                    0480004800
+BROWN LN                                                    0480004800
+BROWN RD                                                    0480004800
+BROWN ST                                                    0480104801
+BROWNING DR                                                 0480004800
+BROWNING LN                                                 0480004800
+BRUCE DR                                                    0480004800
+BRUMMETT LN                                                 0480004800
+BRYANT DR                                                   0480004800
+BUCK COLDIRON CEMETERY RD                                   0480004800
+BULLDOG HOLLOW RD                                           0480004800
+BULLDOG HOLLOW RD                                           0486904869
+BUNCH ST                                                    0480004800
+BURGAN LN                                                   0480004800
+BURGER LN                                                   0480004800
+BURKHART ALY                                                0480004800
+BURKHART BRIDGE                                             0480004800
+BURKHART CEMETERY RD                                        0480004800
+BURNS CEMETERY RD                                           0480004800
+BURNS LN                                                    0480004800
+BURNS RD                                                    0480004800
+BUSH RD                                                     0480004800
+C C RD                                                      0480004800
+CALDWELL RD                                                 0480004800
+CALIFORNIA HOLW                                             0480004800
+CALLAHAN ST                                                 0480304803
+CALVIN TURNER LN                                            0480004800
+CAMDEN ST                                                   0480204802
+CAMP BLANTON RD                                             0480004800
+CAMP BLANTON SPUR                                           0480004800
+CAMP CREEK RD                                               0480004800
+CAMP HOWARD                                                 0480004800
+CAMP HOWARD RD                                              0480004800
+CAMP LN                                                     0480004800
+CAMP O CUMBERLAND                                           0480004800
+CANE MILL BRANCH RD                                         0480004800
+CANE ST                                                     0480304803
+CANNON HOUSE CT                                             0480104801
+CANNON ST                                                   0480104801
+CANYON DR                                                   0480204802
+CAPITAL CREST ST                                            0480104801
+CARL BROCK CEMETERY RD                                      0480004800
+CARL ST                                                     0480004800
+CARLA LN                                                    0480004800
+CARPENTER RD                                                0480004800
+CARR GLASS RD                                               0480004800
+CARR LANE SPUR                                              0480004800
+CARR LN                                                     0480004800
+CARROLL DR                                                  0480304803
+CARROLL RD                                                  0480004800
+CARTER AVE                                                  0480304803
+CARTER ST                                                   0480304803
+CATE HOLW                                                   0480004800
+CAUDILL LN                                                  0480004800
+CAUDILL ST                                                  0480104801
+CAWOOD BRANCH RD                                            0480004800
+CAWOOD ST                                                   0480004800
+CAWOOD ST                                                   0480204802
+CAYWOOD LEDFORD CEMETERY RD                                 0480004800
+CEDAR PARK 119 RD                                           0480004800
+CEDAR PARK DR                                               0480004800
+CEDAR ST                                                    0480304803
+CEDAR ST                                                    0480604806
+CEDER STREET ALY                                            0480604806
+CEMETERY DR                                                 0480504805
+CENTRAL AVE                                                 0480604806
+CENTRAL ST                                                  0480104801
+CENTRAL ST                                                  0480304803
+CF NAPIER RD                                                0480004800
+CHAD LEWIS RD                                               0480004800
+CHAD LEWIS SPUR                                             0480004800
+CHAD ST                                                     0480304803
+CHAD ST                                                     0480504805
+CHAD YARD RD                                                0480004800
+CHAPPEL DRIVE SPUR                                          0480004800
+CHAPPELL DR                                                 0480004800
+CHARLES CLARK RD                                            0480004800
+CHARLES HOWARD BRIDGE                                       0480004800
+CHARLEY HENSLEY CEMETERY                                    0480004800
+CHASTEEN LN                                                 0480004800
+CHERRY LN                                                   0480004800
+CHERRY ST                                                   0480204802
+CHERYL LN                                                   0480004800
+CHESNEY HL                                                  0480004800
+CHESTNUT ST                                                 0480604806
+CHEVROLET CAMP RD                                           0480004800
+CHEVROLET HOLLOW CEMETERY RD                                0480004800
+CHILDERS RD                                                 0480004800
+CHILDS CREEK RD                                             0480004800
+CHISTIAN ST                                                 0480004800
+CHRISMAN DR                                                 0480004800
+CHURCH LN                                                   0480004800
+CHURCH OF GOD RD                                            0480004800
+CHURCH RD                                                   0480004800
+CHURCH ST                                                   0480004800
+CHURCH ST                                                   0480304803
+CHURCH ST                                                   0480404804
+CHURCH ST                                                   0486904869
+CHURCH STREET ALY                                           0480404804
+CIRCLE PARK RD                                              0480604806
+CITY HALL CT                                                0480404804
+CLARK LN                                                    0480004800
+CLARK RD                                                    0480004800
+CLAUD SAYLOR LN                                             0480004800
+CLAYBORN LN                                                 0480004800
+CLEM CT                                                     0480004800
+CLEM RD                                                     0480004800
+CLIFF BRANCH RD                                             0480004800
+CLIFF RD                                                    0480004800
+CLIFT BRIDGE                                                0480004800
+CLINTON LN                                                  0480004800
+CLOSPLINT WATER TANK LOOP                                   0480004800
+CLOUD BRIDGE RD                                             0480004800
+CLOUD CURVE                                                 0480004800
+CLOUD ST                                                    0480004800
+CLOVER LN                                                   0480004800
+CLOVERFORK WALKING TRL E                                    0480004800
+CLOVERFORK WALKING TRL N                                    0480004800
+CLOVERLICK CEMETERY RD                                      0480004800
+CLOVERLICK CHURCH RD                                        0480004800
+CLOVERLICK RD                                               0480004800
+CLUTTS RD                                                   0480004800
+CLUTZ RD                                                    0480004800
+COAL ASH RD                                                 0480004800
+COAL BIN RD                                                 0480004800
+COAL BIN SPUR                                               0480004800
+COAL BUCKET RD                                              0480004800
+COAL COMPANY                                                0480004800
+COBB LN                                                     0480004800
+COCHRAN BRIDGE RD                                           0480004800
+COCHRAN LN                                                  0480004800
+COCHRAN RD                                                  0480004800
+COEBURN CEMETERY RD                                         0480004800
+COLDIRON BR                                                 0480004800
+COLDIRON BRANCH RD                                          0480004800
+COLDIRON CEMETERY                                           0480004800
+COLDIRON HTS                                                0480004800
+COLDIRON HTS                                                0480204802
+COLDIRON HTS CONNECTOR                                      0480204802
+COLDIRON LN                                                 0480004800
+COLE CEMETERY RD                                            0480004800
+COLE ST                                                     0480204802
+COLLEGE BRIDGE RD                                           0480004800
+COLLEGE RD                                                  0480104801
+COLLEGE ST                                                  0480104801
+COLLEN SMITH RD                                             0480004800
+COLLIER LN                                                  0480004800
+COLLINS LN                                                  0480304803
+COLLINS RD                                                  0480004800
+COLLINS ST                                                  0480004800
+COLLINS ST                                                  0480104801
+COLOIRON LN                                                 0480004800
+COMBS LN                                                    0480004800
+COMPREHENSIVE DR                                            0480004800
+COMPREPHESIVE DRIVE SPUR                                    0480004800
+CONLEY HL                                                   0480004800
+CONLEY LOOP                                                 0480004800
+CONNECTOR RD                                                0480004800
+COOK BRIDGE                                                 0480004800
+COOPER HOLW                                                 0480004800
+COOPER LN                                                   0480004800
+COOTS LN                                                    0480004800
+COPELAND DR                                                 0480204802
+COPPER LN                                                   0480004800
+COPPERHEAD RD                                               0480004800
+COPPINGER DR                                                0480104801
+CORA CREECH CEMETERY RD                                     0480004800
+CORNETT DANHOLE RD                                          0480004800
+CORNETT DR                                                  0480004800
+CORNETT MEMORIAL CEMETERY RD                                0480004800
+CORNETT RD                                                  0480004800
+CORNETT ST                                                  0480004800
+CORNETT ST                                                  0480104801
+CORNETTS LN                                                 0480004800
+CORSEY LANE SPUR                                            0480004800
+CORSEY LN                                                   0480004800
+CORUM CEMETERY RD                                           0480004800
+COTES RD                                                    0480004800
+COUCH LN                                                    0480004800
+COUCH ST                                                    0480004800
+COUNTRY CLUB RD                                             0480004800
+COUNTRY EST                                                 0480004800
+COUNTRY ESTATES LOOP                                        0480004800
+COUNTY FORESTRY CAMP RD                                     0480004800
+COUNTY LN                                                   0480004800
+COUNTY PIKE                                                 0480004800
+COUNTY PIKE                                                 0480304803
+COUNTY SCHOOL BUSH TURN                                     0480004800
+COURTNEY ST                                                 0480304803
+COX LOOP                                                    0480004800
+COXTON HOLLOW RD                                            0480004800
+COXTON LOOP                                                 0480004800
+COXTON LOOP CROSS STREET NO1                                0480004800
+COXTON LOOP CROSS STREET NO2                                0480004800
+COY'S RD                                                    0480004800
+COYLE MORRIS CEMETERY RD                                    0480004800
+COZARK LN                                                   0480004800
+CRANK CHURCH RD                                             0480004800
+CRANKS LAKE                                                 0480004800
+CRAYCRAFT BURKHART LN                                       0480004800
+CRAYCRAFT CEMETERY RD                                       0480004800
+CRAYCRAFT LN                                                0480004800
+CREECH AVE                                                  0480104801
+CREECH BRIDGE RD                                            0480004800
+CREECH CEMETERY RD                                          0480004800
+CREECH LOOP                                                 0480004800
+CREECH ST                                                   0480604806
+CREED TURNER BRIDGE                                         0480004800
+CREEK RD                                                    0480004800
+CREEK ST                                                    0480004800
+CREEKSIDE RD                                                0480404804
+CREEKSIDE ROAD CONNECTOR                                    0480404804
+CREEKSIDE WEST STREET CONNECTOR                             0480404804
+CRESCENT DR                                                 0480004800
+CRIDER LN                                                   0480004800
+CRIDER LOOP                                                 0480004800
+CROSS RD                                                    0480004800
+CROSS ST                                                    0480504805
+CROSSROADS                                                  0480004800
+CUMBERLAND AVE                                              0480104801
+CUMBERLAND AVE                                              0480604806
+CUMBERLAND CLINIC RD                                        0480104801
+CUMBERLAND GARDENS RD                                       0480304803
+CUPP BRIDGE RD                                              0480004800
+CUPP LN                                                     0480004800
+CURRY RD                                                    0480004800
+CURVE DR                                                    0480004800
+CURVE RD                                                    0480004800
+CUT THRU                                                    0480004800
+CYNTHIA KELLY CEMETERY                                      0480004800
+DAISEY LN                                                   0480004800
+DAISY CLEM RD                                               0480004800
+DAN MIDDLETON LN                                            0480004800
+DANIEL CEMETERY WOLF HOLW                                   0480004800
+DANIEL HL                                                   0480004800
+DANIEL MOUNTAIN                                             0480004800
+DANIELS CEMETERY RD                                         0480004800
+DANIELS LN                                                  0480004800
+DARBY HOLW                                                  0480004800
+DART LN                                                     0480004800
+DARTMONT RD                                                 0480004800
+DARTMONT SPUR                                               0480004800
+DARTMONT WALKING TRL                                        0480004800
+DAVE BRANCH SPUR                                            0480004800
+DAVES BRANCH CEMETERY                                       0480004800
+DAVID TURNER DR                                             0480504805
+DAVIS DR                                                    0480304803
+DAVIS LANE CEMETERY                                         0480004800
+DAVIS LN                                                    0480004800
+DAVIS RD                                                    0480004800
+DAWS BR                                                     0480004800
+DAY HOLW                                                    0480004800
+DAY JACKSON CEMETERY                                        0480004800
+DAY LN                                                      0480004800
+DAY RD                                                      0480004800
+DAYHOIT DR                                                  0480004800
+DAYS BRANCH RD                                              0480004800
+DEAN CEMETERY                                               0480004800
+DEAN CT                                                     0480004800
+DEAN LANE SPUR NO1                                          0480004800
+DEAN LANE SPUR NO2                                          0480004800
+DEAN LANE SPUR NO3                                          0480004800
+DEAN LN                                                     0480004800
+DEAN RD                                                     0480004800
+DEAN SPUR                                                   0480004800
+DEBBIE LN                                                   0480004800
+DEER RUN CT                                                 0480004800
+DEER RUN TRL                                                0480004800
+DELA HENSLEY RD                                             0480004800
+DENHAM ST                                                   0480004800
+DENVER COOPER CEMETERY RD                                   0480004800
+DENVER SAYLOR RD                                            0480004800
+DENVER ST                                                   0480004800
+DEPEW PUTNEY RD                                             0480004800
+DEPEW RD                                                    0480004800
+DEPEW SPUR                                                  0480004800
+DEPOT LOOP                                                  0480404804
+DEPOT ST                                                    0480604806
+DEWAYNE SMITH RD                                            0480004800
+DEWEY ALY                                                   0480304803
+DIAMOND LN                                                  0480004800
+DIANA DR                                                    0480004800
+DIANA HL                                                    0480004800
+DILLION DR                                                  0480004800
+DISNEY ST                                                   0480504805
+DITTY LN                                                    0480004800
+DIXION CEMETERY RD                                          0480004800
+DIXON RD                                                    0480004800
+DIXON ST                                                    0480104801
+DOAN RD                                                     0480004800
+DOC SAYLOR RD                                               0480004800
+DOCKIE LN                                                   0480004800
+DOGWOOD DR                                                  0480004800
+DOGWOOD TRL                                                 0480004800
+DOLA NOE RD                                                 0480004800
+DON CARROLL BRIDGE                                          0480004800
+DONALD RAY LN                                               0480004800
+DONS DR                                                     0480004800
+DORCAS JANE LN                                              0480004800
+DORCAS JANE SPUR RD                                         0480004800
+DOROTHY LN                                                  0480004800
+DOSHA LN                                                    0480004800
+DOSS HOLW                                                   0480004800
+DOSS RD                                                     0480004800
+DOUG SIMPSON RD                                             0480004800
+DOZIER LN                                                   0480004800
+DRESSEN LN                                                  0480004800
+DRESSIN CT                                                  0480004800
+DREW DR                                                     0480004800
+DREW LN                                                     0480004800
+DREWS WOODS                                                 0480304803
+DUCKIE LN                                                   0480004800
+DUDE NOLAN LN                                               0480004800
+DUDE NOLAND NO2 LN                                          0480004800
+DUFF CEMETERY LN                                            0480004800
+DUFF CT                                                     0480004800
+DUFFIELD ST                                                 0480204802
+DUPREE RD                                                   0480004800
+DYKES LANE SPUR                                             0480004800
+DYKES LN                                                    0480004800
+E CAMP LN                                                   0480004800
+E CENTRAL ST                                                0480204802
+E CLOVER ST                                                 0480204802
+E JOHNSON ST                                                0480004800
+E LOONEY ALY                                                0480404804
+E MAIN ST                                                   0480004800
+E MAIN ST                                                   0480404804
+E MOUND ST                                                  0480204802
+E SANDHILL RD                                               0480104801
+E SAWMILL HOLLOW RD                                         0480104801
+EARL SMITH RD                                               0480004800
+EASTBROOK STA                                               0480004800
+ED SLUSHER RD                                               0480004800
+ED SUMTER CEMETERY                                          0480004800
+EDWARD DR                                                   0480004800
+EDWARDS DR                                                  0480404804
+EILY COOPER CEMETERY RD                                     0480004800
+ELCOMB ST                                                   0480004800
+ELDRIDGE DR                                                 0480004800
+ELDRIDGE LN                                                 0480004800
+ELDRIDGE RD                                                 0480004800
+ELDRIDGE RD                                                 0480104801
+ELIS LN                                                     0480104801
+ELIZA WITT CEMETERY                                         0480004800
+ELLINBURG LN                                                0480004800
+ELLIS CEMETERY                                              0480004800
+ELLIS LN                                                    0480004800
+ELLIS RD                                                    0480004800
+ELM ST                                                      0480504805
+ELSIE RD                                                    0480004800
+EMERLING AVE                                                0480304803
+EMERLING LN                                                 0480304803
+ENGLAND LN                                                  0480004800
+ENGLE DR                                                    0480004800
+ENGLE RD                                                    0480004800
+ENSLEY RD                                                   0480004800
+EPHIE DR                                                    0480004800
+EPPERSON LN                                                 0480004800
+ERNEST CALDWELL LN                                          0480004800
+ERNEST LN                                                   0480304803
+ERNEST STEWART CEMETERY                                     0480004800
+ESTEPP RD                                                   0480004800
+EULA GRAY ST                                                0480004800
+EVARTS FISH AND GAME CLUB                                   0480004800
+EVELYN HL                                                   0480004800
+EVELYN LN                                                   0480004800
+EVELYN SPUR                                                 0480004800
+EVERSOLE RD                                                 0480004800
+EVERSOLE ST                                                 0480204802
+EWING CREEK BRIDGE                                          0480004800
+FAIRCHILD LN                                                0480004800
+FAIRCHILD ST                                                0480104801
+FANNY WYNN BRANCH RD                                        0480004800
+FANNY WYNN BRANCH SPUR NO1                                  0480004800
+FANNY WYNN BRANCH SPUR NO2                                  0480004800
+FARLEY LN                                                   0480004800
+FARLEY ST                                                   0480004800
+FARM DR                                                     0480004800
+FARM RD                                                     0480004800
+FARMER DR                                                   0480004800
+FARMERS LN                                                  0480004800
+FARMERS MILL RD                                             0480004800
+FEDERAL PL                                                  0480104801
+FEE CT                                                      0480004800
+FEE DR                                                      0480004800
+FEE LN                                                      0480004800
+FELIX ROARK RD                                              0480004800
+FELLOWSHIP LOOP                                             0480004800
+FERN CORNETT CEMETERY                                       0480004800
+FERN CORNETT LOOP                                           0480004800
+FERN ST                                                     0480204802
+FIELD CEMETERY RD                                           0480004800
+FIELD LN                                                    0480004800
+FIELD ST                                                    0480104801
+FIELDS RD                                                   0480004800
+FINANCE ST                                                  0480004800
+FINLEY RD                                                   0480004800
+FISCHER ST                                                  0480204802
+FISH AND GAME CLUB SPUR                                     0480004800
+FLAT BRANCH RD                                              0480004800
+FLAT BRANCH SPUR                                            0480004800
+FLAT DR                                                     0480004800
+FLORA BROWN RD                                              0480004800
+FOIL DR                                                     0480004800
+FORDSON CAMP RD                                             0480004800
+FORDSON LN                                                  0480004800
+FOREST RD                                                   0480004800
+FOREST RIDGE RD                                             0480004800
+FORESTER RD                                                 0480004800
+FORESTER SPUR RD                                            0480004800
+FORESTERY CREEK CEMETERY                                    0480004800
+FORESTRY CREEK BRIDGE RD                                    0480004800
+FORK ST                                                     0480004800
+FORK STREET SPUR                                            0480004800
+FOUR MILE CHURCH RD                                         0480004800
+FOUR MILE RD                                                0480004800
+FOUTCH DR                                                   0480104801
+FOX RUN RIDGE                                               0480004800
+FOX RUN TRL                                                 0480004800
+FOX ST                                                      0480504805
+FOXLEY ST                                                   0480004800
+FRANCES LN                                                  0480004800
+FRANK BAILEY RD                                             0480004800
+FRANK BRANCH LESLIE RD                                      0480004800
+FRANK ISOM CEMETERY RD                                      0480004800
+FRANKLIN RD                                                 0480004800
+FRANKS BRANCH RD                                            0480004800
+FRANZINA ST                                                 0480104801
+FRAZIER ST                                                  0480104801
+FRED BUSH RD                                                0480004800
+FRED HENSLEY                                                0480004800
+FRED LEWIS RD                                               0480004800
+FREDRICK ST                                                 0480004800
+FREDRICK ST                                                 0486904869
+FREEMAN DANIELS RD                                          0480004800
+FREEMAN RD                                                  0480004800
+FREEMAN ST                                                  0480104801
+FREEZER BRIDGE                                              0480004800
+FRESH MDWS                                                  0480004800
+FRESH MEADOWS RD                                            0480004800
+FRESH MEADOWS SPUR                                          0480004800
+FRYE ST                                                     0480004800
+FUGATE DR                                                   0480104801
+FUGATE RD                                                   0480004800
+FULTZ CEMETERY RD                                           0480004800
+FUNERAL HOME DR                                             0480404804
+FUSON ST                                                    0480504805
+G AND W RD                                                  0480004800
+GABES BRANCH RD                                             0480004800
+GAILEY LN                                                   0480004800
+GANO ST                                                     0480004800
+GANO STREET SPUR                                            0480004800
+GAP BRANCH RD                                               0480404804
+GARAGE DR                                                   0480304803
+GARDEN DR                                                   0480404804
+GARDEN LN                                                   0480004800
+GARDEN ST                                                   0480204802
+GARRETT HOLLOW SPUR                                         0480004800
+GARRETT HOLW                                                0480004800
+GARRETT ST                                                  0480004800
+GARY MERRILL CEMETERY RD                                    0480004800
+GARY TAYLOR RD                                              0480004800
+GATE DR                                                     0480004800
+GATE LN                                                     0480004800
+GATES DR                                                    0480404804
+GENE GROSS RD                                               0480004800
+GENE NEFF RD                                                0480004800
+GEORGE CREECH BRIDGE                                        0480004800
+GEORGE LEITH                                                0480004800
+GEORGE LN                                                   0480004800
+GERALD RD                                                   0480004800
+GIBBS BRIDGE RD                                             0480004800
+GILBERT ALY                                                 0480004800
+GILBERT DR                                                  0480004800
+GILBERT HOLW                                                0480004800
+GILBERT RD                                                  0480004800
+GILBERT SPUR                                                0480004800
+GILBERT ST                                                  0480004800
+GILBERTS SPUR                                               0480004800
+GILBERTSVILLE                                               0480004800
+GILES ST                                                    0480204802
+GILLEY HOLLOW RD                                            0480004800
+GILLEY LN                                                   0480004800
+GILLIAM CEMETERY RD                                         0480004800
+GILLIAM ST                                                  0480004800
+GILLS BLAIR CEMETERY RD                                     0480004800
+GINNA TOWN RD                                               0480504805
+GINNIE HL                                                   0480004800
+GLADSON RD                                                  0480004800
+GLEN BOGGS BRIDGE                                           0480004800
+GLOVE FACTORY RD                                            0480004800
+GOFORTH RD                                                  0480004800
+GOGICH ST                                                   0480004800
+GOLDEN GATE DR                                              0480004800
+GOLDEN LN                                                   0480004800
+GOLF COURSE RD                                              0480004800
+GOLF LN                                                     0480004800
+GOOD NEIGHBOR RD                                            0480304803
+GOODIN RD                                                   0480004800
+GRACELAND DR                                                0480004800
+GRAMMAR LN                                                  0480004800
+GRANT BRANCH RD                                             0480004800
+GRASIE WILSON RD                                            0480004800
+GRATE HILL RD                                               0480304803
+GRAVES RD                                                   0480004800
+GRAVES SPUR                                                 0480004800
+GRAY LN                                                     0480004800
+GRAYS BRANCH RD                                             0480004800
+GRAYS KNOB CEMETERY RD                                      0480004800
+GRAYS KNOB CEMETERY ROAD SPUR                               0480004800
+GRAYS KNOB MINE RD                                          0480004800
+GRAYS KNOB MINE ROAD RAMP                                   0480004800
+GREEN CEMETERY RD                                           0480004800
+GREEN DR                                                    0480004800
+GREEN HILLS CHURCH RD                                       0480004800
+GREEN RD                                                    0480004800
+GREEN ST                                                    0480204802
+GREEN ST                                                    0480304803
+GREEN TER                                                   0480204802
+GREENBERRY WAY                                              0480004800
+GREENBURY WAY SPUR                                          0480004800
+GREENFIELD TRAILER PARK RD                                  0480004800
+GRIFFITH LN                                                 0480004800
+GROSS ST                                                    0480104801
+GRUBBS CEMETERY RD                                          0480004800
+GUSSIE CALDWELL                                             0480004800
+GUY LN                                                      0480004800
+H BAILEY BRIDGE                                             0480004800
+H JOHNSON RD                                                0480004800
+HABE LN                                                     0480004800
+HABE RD                                                     0480004800
+HAL ST                                                      0480004800
+HALCOMB RD                                                  0480004800
+HALE LN                                                     0480304803
+HALL ALY                                                    0480004800
+HALL BLVD                                                   0480004800
+HALL CLAY CEMETERY RD                                       0480004800
+HALL RD                                                     0480004800
+HAMBLIN RD                                                  0480004800
+HAMBLIN ST                                                  0480004800
+HAMLIN LANE SPUR                                            0480004800
+HAMLIN LANE SPUR NO2                                        0480004800
+HAMLIN LN                                                   0480004800
+HAMPTON RD                                                  0480004800
+HANSEL BUSH RD                                              0480004800
+HAPPY TOP CEMETERY                                          0480004800
+HARBER RD                                                   0480004800
+HARBOR CEMETERY RD                                          0480004800
+HARBOR RD                                                   0480004800
+HARBOR ROAD SPUR                                            0480004800
+HARLAN ALY                                                  0480504805
+HARLAN AVE                                                  0480204802
+HARLAN GAS RD                                               0480004800
+HARLAN ST                                                   0480504805
+HARLAN VW                                                   0480204802
+HARLIE TAYLOR                                               0480004800
+HARM TURNER CEMETERY                                        0480004800
+HARM TURNER LN                                              0480004800
+HAROLD ST                                                   0480004800
+HARRIS CEMETERY RD                                          0480004800
+HARRIS DR                                                   0480004800
+HARRIS LN                                                   0480004800
+HARRIS ST                                                   0480004800
+HARVEY LN                                                   0480004800
+HEDGE DR                                                    0480004800
+HEDGES CREEK RD                                             0480004800
+HELTON LN                                                   0480004800
+HELTON RD                                                   0480004800
+HELTON ST                                                   0480004800
+HELTON ST                                                   0480104801
+HEMLOCK ST                                                  0480604806
+HENDRICKS LN                                                0480004800
+HENDRICKSON PASS                                            0480004800
+HENRY GOIDIE LN                                             0480004800
+HENSLEY CEMETERY RD                                         0480004800
+HENSLEY CEMETERY SMITH                                      0480004800
+HENSLEY DR                                                  0480004800
+HENSLEY LANE SPUR                                           0480004800
+HENSLEY LN                                                  0480004800
+HENSLEY RD                                                  0480004800
+HENSLEY ST                                                  0480004800
+HENSON ST                                                   0480004800
+HERSHAL BELCHER RD                                          0480004800
+HICKORY HLS                                                 0480004800
+HICKORY HLS                                                 0480304803
+HICKORY LN                                                  0480004800
+HICKORY LN                                                  0480204802
+HICKORY RIDGE EST                                           0480004800
+HICKS CEMETERY LN                                           0480004800
+HIGHLAND AVE                                                0480204802
+HIGHLAND DR                                                 0480104801
+HIGHLAND TER                                                0480404804
+HIGHTOWER RD                                                0480004800
+HILL CT                                                     0480004800
+HILL DR                                                     0480004800
+HILL DRIVE SPUR NO1                                         0480004800
+HILL DRIVE SPUR NO2                                         0480004800
+HILL DRIVE SPUR NO3                                         0480004800
+HILL LN                                                     0480004800
+HILL PL                                                     0480604806
+HILLSIDE DR                                                 0480004800
+HILLSIDE LN                                                 0480004800
+HIRAM EXIT                                                  0480004800
+HIRAM HILL RD                                               0480004800
+HIRAM PARK RD                                               0480004800
+HISEL CIR                                                   0480404804
+HOBART BROWNIJNG CEMETERY                                   0480004800
+HOBART SAYLOR                                               0480004800
+HOBERT DR                                                   0480004800
+HOGG RD                                                     0480004800
+HOGG ST                                                     0480104801
+HOLBERT LN                                                  0480004800
+HOLBROOK CEMETERY                                           0480004800
+HOLBROOK CEMETERY LOOP                                      0480004800
+HOLCOMB RD                                                  0480004800
+HOLIDAY DR                                                  0480004800
+HOLLINGS WORTH                                              0480504805
+HOLLIS LN                                                   0480004800
+HOLLOW RD                                                   0480304803
+HOLLY HL                                                    0480004800
+HOLLY ST                                                    0480604806
+HOMER BROWNING NO1                                          0480004800
+HOMER KING                                                  0480004800
+HONEYSUCKLE LN                                              0480004800
+HOPKINS CEMTERY RD                                          0480004800
+HOPKINS ST                                                  0480004800
+HORNET ST                                                   0480004800
+HORTON ST                                                   0480204802
+HOSKINS CEMETERY                                            0480004800
+HOWARD BRIDGE RD                                            0480004800
+HOWARD CEMETERY CRANKS                                      0480004800
+HOWARD CEMETERY RD                                          0480004800
+HOWARD DR                                                   0480004800
+HOWARD DRIVE SPUR                                           0480004800
+HOWARD HOLLOW RD                                            0480004800
+HOWARD LN                                                   0480004800
+HOWARD RD                                                   0480004800
+HOWARD RIVER LN                                             0480004800
+HOWARD ST                                                   0480104801
+HOWARD ST                                                   0480204802
+HOWARD ST                                                   0480304803
+HOWARD ST                                                   0480504805
+HUBBARD LN                                                  0480004800
+HUBBARD RD                                                  0480004800
+HUBERT GRUBBS BRIDGE                                        0480004800
+HUBERT THOMPSON LN                                          0480004800
+HUFF AVE                                                    0480104801
+HUFF CEMETERY CIR                                           0480104801
+HUFF CEMETERY CIRCLE SPUR                                   0480104801
+HUFF LN                                                     0480004800
+HUFF MONTE VISTA CEMETERY                                   0480104801
+HUFF MONTE VISTA CEMETERY RD                                0480004800
+HUFF MONTE VISTA CEMETERY RD                                0480104801
+HUFF SPUR                                                   0480004800
+HUFF ST                                                     0480004800
+HULEN LN                                                    0480004800
+HUSKEY LANE SPUR                                            0480004800
+HUSKEY LN                                                   0480004800
+HUTCHISON BRIDGE                                            0480004800
+HYDE RD                                                     0480004800
+IMMANUEL BAPTIST                                            0480004800
+INDIAN HLS                                                  0480004800
+INDIAN RIDGE RD                                             0480004800
+INDUSTRIAL PARK RD                                          0480004800
+INDUSTRY ST                                                 0480004800
+INTERMONT HEIGHTS CEMETERY NO1                              0480004800
+INTERMONT HEIGHTS CEMETERY NO2                              0480004800
+INTERMONT HTS                                               0480004800
+IRVAN BRANCH RD                                             0480004800
+IRVAN BRNACH SPUR RD                                        0480004800
+ISLAND ST                                                   0480204802
+ISON ST                                                     0480104801
+ISSAC ST                                                    0480104801
+IVY HL                                                      0480204802
+IVY ST                                                      0480204802
+J C HALL                                                    0480004800
+J C SMITH RD                                                0480004800
+J CIRCLE DR                                                 0480004800
+J WILSON RD                                                 0480004800
+JACK FARLEY CEMETERY                                        0480004800
+JACK HENSLEY RD                                             0480004800
+JACK LEWIS CEMETERY                                         0480004800
+JACK STEPHENSON CEMETERY RD                                 0480004800
+JACKIE SIMPSON RD                                           0480004800
+JACKSON BTM                                                 0480004800
+JACKSON CEMETERY RD                                         0480004800
+JACKSON LN                                                  0480004800
+JACKSON MILL CRK                                            0480004800
+JACKSON ST                                                  0480104801
+JAKE HOLLOW RD                                              0480004800
+JAMES COLLINS                                               0480004800
+JAMES COURT SPUR                                            0480004800
+JAMES CT                                                    0480004800
+JAMES LOOP                                                  0480004800
+JAMES NAPIER CEMETERY                                       0480004800
+JAMES PARKER BRIDGE                                         0480004800
+JAMES PERRY RD                                              0480004800
+JAMES ST                                                    0480004800
+JAMES WILLARD POPE CEMETERY RD                              0480004800
+JAS LN                                                      0480004800
+JEFF HOWARD DR                                              0480004800
+JENKINS CEMETERY                                            0480004800
+JENKINS DR                                                  0480404804
+JEROME AVE                                                  0480204802
+JERRIE LYNN ST                                              0480004800
+JERRY BLANTON RD                                            0480004800
+JERRY MOSS LN                                               0480004800
+JERRYS BR                                                   0480004800
+JERRYS RD                                                   0480004800
+JIM BROCK RD                                                0480004800
+JIM JOHNSON RD                                              0480004800
+JIM STEPHENS RD                                             0480004800
+JIM WEST RD                                                 0480004800
+JIMMIE QUALLS RD                                            0480004800
+JIMMY POWELL BRIDGE                                         0480004800
+JO ANN DR                                                   0480004800
+JODIES RD                                                   0480004800
+JOE HALE LN                                                 0480004800
+JOE MINIARD RD                                              0480004800
+JOE TURNER CEMETERY RD                                      0480004800
+JOE TURNER LEFT                                             0480004800
+JOE TURNER RIGHT                                            0480004800
+JOHN HOWARD CEMETERY                                        0480004800
+JOHN MORGAN DR                                              0480004800
+JOHNIE ST                                                   0480304803
+JOHNNY ENGLE BRIDGE                                         0480004800
+JOHNNY VAUGHN RD                                            0480004800
+JOHNNY WITT LN                                              0480004800
+JOHNSON BRIDGE POUNDING MILL                                0480004800
+JOHNSON DR                                                  0480004800
+JOHNSON LN                                                  0480304803
+JOHNSON RD                                                  0480404804
+JOHNSON ST                                                  0480004800
+JONES CEMETERY DIZNEY RD                                    0480004800
+JONES CREEK CHURCH                                          0480004800
+JONES LN                                                    0480004800
+JONES ST                                                    0480204802
+JT LN                                                       0480004800
+JUDE JOHNSON RD                                             0480004800
+JUDY ALY                                                    0480004800
+JUDY DR                                                     0480004800
+JUDY LN                                                     0480004800
+JUNCTION LOOP                                               0480004800
+JUNE DR                                                     0480004800
+JUNE DRIVE SPUR                                             0480004800
+JUNE PACE RD                                                0480004800
+KALE SAYLOR CEMETERY RD                                     0480004800
+KATHY NAPIER                                                0480004800
+KEISTER SPUR                                                0480504805
+KEISTER ST                                                  0480504805
+KELLER ST                                                   0480104801
+KELLY BETH DR                                               0480004800
+KELLY CEMETERY RD                                           0480004800
+KELLY CLOSEPLINT                                            0480004800
+KELLY LANE SPUR                                             0480004800
+KELLY LN                                                    0480004800
+KELLY SMITH RD                                              0480004800
+KELLY ST                                                    0480204802
+KELLY ST                                                    0480504805
+KEN GRUBBS BRIDGE                                           0480004800
+KENNETH DR                                                  0480004800
+KENNETH DRIVE SPUR                                          0480004800
+KENNETH LN                                                  0480004800
+KENNY LN                                                    0480004800
+KENTUCKY AVE                                                0480204802
+KENTUCKY AVE                                                0480604806
+KENVIR CAMP NO2 LANE NO1                                    0480004800
+KENVIR CAMP NO2 LANE NO11                                   0480004800
+KENVIR CAMP NO2 LANE NO13                                   0480004800
+KENVIR CAMP NO2 LANE NO15                                   0480004800
+KENVIR CAMP NO2 LANE NO17                                   0480004800
+KENVIR CAMP NO2 LANE NO19                                   0480004800
+KENVIR CAMP NO2 LANE NO2                                    0480004800
+KENVIR CAMP NO2 LANE NO21                                   0480004800
+KENVIR CAMP NO2 LANE NO23                                   0480004800
+KENVIR CAMP NO2 LANE NO3                                    0480004800
+KENVIR CAMP NO2 LANE NO4                                    0480004800
+KENVIR CAMP NO2 LANE NO5                                    0480004800
+KENVIR CAMP NO2 LANE NO6                                    0480004800
+KENVIR CAMP NO2 LANE NO7                                    0480004800
+KENVIR CAMP NO2 LANE NO8                                    0480004800
+KENVIR CAMP NO2 LANE NO9                                    0480004800
+KENVIR PARK LN                                              0480004800
+KENVIR RD                                                   0480004800
+KERMIT BOWLING CEMETERY RD                                  0480004800
+KERMIT CREECH CEMETERY RD                                   0480004800
+KERMIT CREECH HL                                            0480004800
+KERNS LN                                                    0480004800
+KERNS LN                                                    0480304803
+KILDAV HILL RD                                              0480004800
+KILDAV LOOP                                                 0480004800
+KIMBERLY CLEM LN                                            0480004800
+KING HOLLOW RD                                              0480004800
+KING MIDDLETON CEMETERY RD                                  0480004800
+KING SOLOMAN RD                                             0480004800
+KING ST                                                     0480004800
+KINGDOM COME DR                                             0480104801
+KINK CEMETERY                                               0480004800
+KIRBY BRIDGE                                                0480004800
+KIRBY LN                                                    0480504805
+KITTS RD                                                    0480004800
+KNOB LN                                                     0480004800
+KNOX ST                                                     0480504805
+KRIS KYLE RD                                                0480004800
+KRIS KYLE SPUR                                              0480004800
+KY1084                                                      0480004800
+KY1084                                                      0480304803
+KY1137                                                      0480004800
+KY1138                                                      0480004800
+KY1216                                                      0480004800
+KY1556                                                      0480004800
+KY160                                                       0480004800
+KY160                                                       0480104801
+KY160                                                       0480404804
+KY1601                                                      0480004800
+KY1780                                                      0480004800
+KY179                                                       0480004800
+KY179                                                       0480104801
+KY2005                                                      0480004800
+KY2006                                                      0480004800
+KY2007                                                      0480004800
+KY2007                                                      0486904869
+KY2008                                                      0480004800
+KY2009                                                      0480004800
+KY2010                                                      0480004800
+KY2074                                                      0480004800
+KY215                                                       0480004800
+KY219                                                       0480004800
+KY219                                                       0486904869
+KY221 E                                                     0480004800
+KY221 W                                                     0480004800
+KY2425                                                      0480004800
+KY2427                                                      0480004800
+KY3099                                                      0480004800
+KY3448                                                      0480004800
+KY3449                                                      0480004800
+KY3451                                                      0480004800
+KY3452                                                      0480004800
+KY3454                                                      0480004800
+KY3455                                                      0480004800
+KY3459                                                      0480004800
+KY3459                                                      0480204802
+KY3463                                                      0480004800
+KY3466                                                      0480004800
+KY38                                                        0480004800
+KY38                                                        0480204802
+KY38                                                        0480504805
+KY413 N                                                     0480004800
+KY413 S                                                     0480004800
+KY413 S                                                     0480304803
+KY510                                                       0480004800
+KY522                                                       0480004800
+KY568                                                       0480004800
+KY72 E                                                      0480004800
+KY72 W                                                      0480004800
+KY840                                                       0480004800
+KY840                                                       0480304803
+KY987                                                       0480004800
+KY990                                                       0480004800
+KY991                                                       0480004800
+L B SAYLOR RD                                               0480004800
+L HAMLIN RD                                                 0480004800
+L P JOHNSON LN                                              0480004800
+LADEN OAKS RD                                               0480004800
+LADEN OAKS SPUR                                             0480004800
+LAKE CEMETERY RD                                            0480004800
+LAKE DR                                                     0480004800
+LAKE LOOP                                                   0480004800
+LAMB LN                                                     0480004800
+LAMBERT ST                                                  0480004800
+LANGFORD RD                                                 0480004800
+LANGLEY DR                                                  0480004800
+LARRY LEWIS RD                                              0480004800
+LARRY ROAK RD                                               0480004800
+LARRY SMITH RD                                              0480004800
+LAST RESORT CT                                              0480104801
+LAUREL BRANCH RD                                            0480004800
+LAUREL BRANCH TACKY TOWN                                    0480004800
+LAUREL DR                                                   0480004800
+LAUREL LN                                                   0480004800
+LAY HILL CEMETERY                                           0480004800
+LAY HL                                                      0480004800
+LEDFORD BRIDGE RD                                           0480004800
+LEE DR                                                      0480004800
+LEE JUNIOR BRIDGE                                           0480004800
+LEE LN                                                      0480004800
+LEGGET ST                                                   0480004800
+LEMARR ST                                                   0480004800
+LEONARD CAUDILL CEMETERY                                    0480004800
+LEONARD LOOP                                                0480004800
+LEONARD RD                                                  0480004800
+LEROY LN                                                    0480004800
+LEROY SMITH RD                                              0480004800
+LESLEY ST                                                   0480504805
+LESTER CORNETT                                              0480004800
+LESTER FARLEY BRIDGE                                        0480004800
+LEWIS JONES RD                                              0480004800
+LEWIS LN                                                    0480004800
+LEWIS POPE                                                  0480004800
+LEWIS RD                                                    0480004800
+LIBERTY ST                                                  0480404804
+LIBERTY STREET CONNECTOR                                    0480404804
+LIGES BR                                                    0480004800
+LIGGETT CHURCH RD                                           0480004800
+LIGGETT STREET SPUR                                         0480004800
+LILLIE PENNINGTON CEMETERY                                  0480004800
+LINVILLE BRG                                                0480004800
+LIPFIRD ST                                                  0480504805
+LISA LN                                                     0480004800
+LISENBEE RD                                                 0480004800
+LISENBEL SPUR RD                                            0480004800
+LITTLE CREEK RD                                             0480004800
+LITTLE CRK                                                  0480004800
+LITTLE LAUREL BR                                            0480004800
+LITTLE LAUREL BRANCH RD                                     0480004800
+LITTLE LAUREL SPUR                                          0480004800
+LITTLE SHEPHERD TRL                                         0480004800
+LITTLE SHEPHERD TRL                                         0670004800
+LIVING WATERS LOOP                                          0480004800
+LLOYD RD                                                    0480004800
+LLOYD SAYLOR                                                0480004800
+LLOYD SPUR NO1 RD                                           0480004800
+LLOYD SPUR NO2                                              0480004800
+LLOYDS RD                                                   0480004800
+LOCUST LN                                                   0480004800
+LOCUST ST                                                   0480604806
+LOGAN LN                                                    0480004800
+LOIS GREEN CEMETERY RD                                      0480004800
+LONG ALY                                                    0480404804
+LONG DR                                                     0480004800
+LONGTON RD                                                  0480004800
+LONGWAY RD                                                  0480004800
+LONNIE THOMAS LN                                            0480004800
+LORETTA LN                                                  0480004800
+LOUELLEN LAKE CEMETERY RD                                   0480004800
+LOUISE GOLDSBERRY RD                                        0480004800
+LOUISVILLE LANE SPUR NO1                                    0480004800
+LOUISVILLE LANE SPUR NO2                                    0480004800
+LOUISVILLE LN                                               0480004800
+LOVING LN                                                   0480004800
+LOW BANK RD                                                 0480004800
+LOW WATER BRIDGE SPUR                                       0480004800
+LOW WATER DR                                                0480004800
+LOWE LN                                                     0480304803
+LOWER BULLDOG RD                                            0486904869
+LOWER ELCOMB DR                                             0480004800
+LUKE DR                                                     0480004800
+LULA NOLAN                                                  0480004800
+LYNCH DR                                                    0480004800
+LYNCH ST                                                    0480404804
+LYNCH ST                                                    0480604806
+LYNCH WALKING TRACK                                         0480404804
+LYNN HOLLOW RD                                              0480004800
+LYNN ST                                                     0480104801
+LYNN ST                                                     0480204802
+LYTTLE LN                                                   0480004800
+LYTTLE RD                                                   0480004800
+MADDEN LN                                                   0480004800
+MAGGARD ST                                                  0480004800
+MAGGARD ST                                                  0480604806
+MAGGIE LN                                                   0480004800
+MAGNOLIA ST                                                 0480204802
+MAIDEN HL                                                   0480004800
+MAIN ST                                                     0480004800
+MAIN ST                                                     0480104801
+MAIN ST                                                     0480304803
+MAIN ST                                                     0480504805
+MAIN ST                                                     0480604806
+MAJOR DR                                                    0480004800
+MALINDA LN                                                  0480004800
+MALL DR                                                     0480004800
+MAPLE ALY                                                   0480004800
+MAPLE DR                                                    0480004800
+MAPLE HOLLOW RD                                             0480004800
+MAPLE HOLLOW SPUR                                           0480004800
+MAPLE LN                                                    0480504805
+MAPLE ST                                                    0480104801
+MAPLE ST                                                    0480604806
+MAPOTHER ST                                                 0480304803
+MARIE ST                                                    0480304803
+MARLOW CEMETERY                                             0480004800
+MARLOW LN                                                   0480004800
+MARLOW RD                                                   0480004800
+MARSEE DR                                                   0480204802
+MARSH ST                                                    0480004800
+MARTH NAPIER RD                                             0480004800
+MARTIN AVE                                                  0480104801
+MARTIN ST                                                   0480204802
+MARY ALICE DRIVE SPUR                                       0480004800
+MARY ALICE LN                                               0480004800
+MARY ALICE LOOP                                             0480004800
+MARY FISHER RD                                              0480004800
+MARY HELEN CEMETERY RD                                      0480004800
+MARY HELLEN METHODIST                                       0480004800
+MARY LN                                                     0480004800
+MARY T MIDDLETON CEMETERY RD                                0480004800
+MASONIC DR                                                  0486904869
+MASTIN DR                                                   0480104801
+MAY ST                                                      0480204802
+MAYNARD AVE                                                 0480004800
+MCCLAIN ST                                                  0480504805
+MCCOY ST                                                    0480504805
+MCCREARY LN                                                 0480004800
+MCCREARY ST                                                 0480504805
+MCCUREY LN                                                  0480304803
+MCGLAMMARY LN                                               0480004800
+MCKENZIE CEMETERY RD                                        0480004800
+MCKINNEY RD                                                 0480004800
+MCKNIGHT RD                                                 0480004800
+MCKNIGHT ST                                                 0480004800
+MCKNIGHT ST                                                 0480604806
+MCMILLION CEMETERY RD                                       0480004800
+MCMILLION RD                                                0480004800
+MCNIGHT CEMETERY RD                                         0480004800
+MCVEY LN                                                    0480004800
+MEADOW CREEK CEMETERY                                       0480004800
+MEADOW CREEK RD                                             0480004800
+MEADOW CRK                                                  0480004800
+MEADOW DR                                                   0480004800
+MEADOW DR                                                   0480204802
+MEADOWBROOK LN                                              0480004800
+MEFFORD LN                                                  0480004800
+MEMORY LN                                                   0480004800
+MESSER LN                                                   0480004800
+MESSER RD                                                   0480004800
+MESSER SPUR                                                 0480004800
+METCALF CEMETERY RD                                         0480004800
+METCALFE LN                                                 0480004800
+METCALFE RD                                                 0480004800
+METHODIST CHURCH LN                                         0480004800
+METHODIST ST                                                0480004800
+MEXICO LN                                                   0480004800
+MIDDLETON AVE                                               0480004800
+MIDDLETON AVE                                               0480504805
+MIDDLETON CEMETERY LN                                       0480004800
+MIDDLETON CEMETERY LOOP                                     0480004800
+MIDDLETON JOHNSON RD                                        0480004800
+MIDDLETON LANE LEFT SPUR                                    0480004800
+MIDDLETON LANE RIGHT SPUR                                   0480004800
+MIDDLETON LN                                                0480004800
+MIDDLETON MIDDLETON                                         0480004800
+MIDDLETON MIDDLETON SPUR                                    0480004800
+MIDDLETON RD                                                0480004800
+MIDDLETON SPUR                                              0480004800
+MIDDLETON ST                                                0480004800
+MIDDLETONS FAMILY CEMETERY RD                               0480004800
+MILDRED ST                                                  0480004800
+MILL BR                                                     0480004800
+MILL BRANCH CHURCH LOOP                                     0480004800
+MILL BRANCH LEONARD RD                                      0480004800
+MILL BRANCH SPUR                                            0480004800
+MILL CREEK SPUR                                             0480004800
+MILL CRK                                                    0480004800
+MILL RD                                                     0480004800
+MILLARD HENSLEY LN                                          0480004800
+MILLER DR                                                   0480004800
+MILLER LN                                                   0480004800
+MILLS LN                                                    0480004800
+MIMMIE LN                                                   0480004800
+MINE RD                                                     0480004800
+MINIARD RD                                                  0480004800
+MINK LN                                                     0480004800
+MINNIARD LN                                                 0480004800
+MINNIE LN                                                   0480004800
+MIRACLE RD                                                  0480004800
+MISSIONARY RD                                               0480004800
+MOBILE HOME PARK RD                                         0480404804
+MOLLIE LEWIS RD                                             0480004800
+MOLLIE LEWIS ROAD CONNECTOR                                 0480004800
+MOLUS CEMETERY RD                                           0480004800
+MOLUS HOLW                                                  0480004800
+MONK LN                                                     0480004800
+MONROE LOOP                                                 0480004800
+MONTGOMERY RD                                               0480004800
+MOO COW CURVE LN                                            0480304803
+MOORE LN                                                    0480004800
+MOORE ST                                                    0480004800
+MOOSE PARK                                                  0480604806
+MORGAN DR                                                   0480004800
+MORGAN DR                                                   0480304803
+MORRIS BOTTOM RD                                            0480004800
+MORRIS CLOUD RD                                             0480004800
+MORRIS LN                                                   0480004800
+MORRIS RD                                                   0480004800
+MORRIS ST                                                   0480104801
+MOSE HOLLOW RD                                              0480004800
+MOSE HOWARD HOLW                                            0480004800
+MOSLEY LN                                                   0480004800
+MOUND ST                                                    0480004800
+MOUNTAIN ASSEMBLY CHURCH                                    0480004800
+MOUNTAIN MAN LN                                             0480004800
+MOUNTAIN OAKS                                               0480004800
+MOUNTAIN ST                                                 0480404804
+MOUNTAIN VEIW AVE                                           0480204802
+MT SINAI DR                                                 0480404804
+MT VIEW AVE                                                 0480204802
+MT ZION LN                                                  0480004800
+MULBERRY RD                                                 0480004800
+MULLINS LN                                                  0480004800
+MURPHY CT                                                   0480004800
+MURPHY HOLW                                                 0480004800
+MURPHY LN                                                   0480004800
+MYERS RD                                                    0480004800
+MYERS ST                                                    0480104801
+MYRTLE RD                                                   0480004800
+MYRTLE TURNER LN                                            0480004800
+N 1ST ST                                                    0480204802
+N 2ND ST                                                    0480204802
+N 3RD ST                                                    0480204802
+N CUMBERLAND AVE                                            0480204802
+N ELM ST                                                    0480204802
+N HELTON RD                                                 0480004800
+N HILL RD                                                   0480004800
+N MAIN ST                                                   0480004800
+N MAIN ST                                                   0480204802
+N MAIN ST                                                   0480304803
+N PINETREE RD                                               0480004800
+NAILLON LANE SPUR                                           0480004800
+NAILLON LN                                                  0480004800
+NALIAN LN                                                   0480004800
+NANCE LN                                                    0480004800
+NANTZ CEMETERY RD                                           0480004800
+NAPIER CEMETERY CAWOOD BR                                   0480004800
+NAPIER LN                                                   0480004800
+NAPIER RD                                                   0480004800
+NAPIERS LN                                                  0480004800
+NEAL ALY                                                    0486904869
+NEASE HOLLOW RD                                             0480004800
+NEW CAMP LN                                                 0480004800
+NEW LIFE CHURCH                                             0480004800
+NEW YORK ST                                                 0480104801
+NEWBERRY FARMER EXT                                         0480004800
+NEWBERRY SAYLOR HOLW                                        0480004800
+NICHOLSON BLVD                                              0480004800
+NICLEY RD                                                   0480004800
+NIDAY RD                                                    0480004800
+NIMS BR                                                     0480004800
+NIMS HOLW                                                   0480004800
+NO31 CAMP RD                                                0480004800
+NOAH WILSON CEMETERY RD                                     0480004800
+NOE BRANCH RD                                               0480004800
+NOE CEMETERY LOOP                                           0480004800
+NOE CEMETERY PLATS FORK RD                                  0480004800
+NOE CEMETERY SUTTON DR                                      0480004800
+NOE DR                                                      0480004800
+NOE LN                                                      0480004800
+NOE WAY                                                     0480004800
+NOLA ST                                                     0480004800
+NOLAN CEMETERY KY221 EAST RD                                0480004800
+NOLAN CEMETERY RD                                           0480004800
+NOLAN DR                                                    0480004800
+NOLAN LODGE RD                                              0480004800
+NOLAN ST                                                    0480504805
+NOLANS BR                                                   0480004800
+NOLANS BRANCH CEMETERY                                      0480004800
+NOLANSBURG LN                                               0480004800
+NOLANSBURG LOOP                                             0480004800
+NOLANSBURG SPUR                                             0480004800
+OAK DR                                                      0480004800
+OAK LN                                                      0480004800
+OAK ST                                                      0480104801
+OAK ST                                                      0480204802
+OAK ST                                                      0480604806
+ODELL LN                                                    0480004800
+OFFICIAL HOLW                                               0480004800
+OHIO ST                                                     0480004800
+OLD AIRPORT EXT                                             0480004800
+OLD AIRPORT RD                                              0480004800
+OLD AIRPORT RD                                              0480304803
+OLD BANK DR                                                 0480004800
+OLD BANK DRIVE SPUR                                         0480004800
+OLD CREECH CEMETERY RD                                      0480004800
+OLD HOUSE BR                                                0480004800
+OLD KING CEMETERY RD                                        0480004800
+OLD KY 19                                                   0480004800
+OLD KY 38                                                   0480004800
+OLD PIKE HWY                                                0480004800
+OLD SCHOOL HOUSE SHIELDS RD                                 0480004800
+OLD SCHOOLHOUSE LN                                          0480004800
+OLD TERRYS FORK                                             0480004800
+OLD US 119                                                  0480004800
+OLD US 421                                                  0480004800
+OLD US 421 CONNECTOR RD                                     0480004800
+OLD US 421 LOOP RD                                          0480004800
+OLIN RD                                                     0480004800
+OLIVE ST                                                    0480204802
+OLLIE LOOP                                                  0480004800
+ONE WAY ST                                                  0480504805
+ONNIES RD                                                   0480004800
+ORAN ST                                                     0480004800
+ORCHARD RD                                                  0480004800
+ORGIE DR                                                    0480004800
+ORICK RD                                                    0480004800
+OROARK DR                                                   0480104801
+OSBORNE CEMETERY RD                                         0480004800
+OSBORNE CEMETERY WALLINS RD                                 0480004800
+OSBORNE LN                                                  0480004800
+OSBORNE ST                                                  0480004800
+OSBOURNE CEMETERY PLATS FORK                                0480004800
+OWEN HOWARD CEMETERY                                        0480004800
+OWEN LEWIS LOOP                                             0480004800
+OZA BARTON BRIDGE                                           0480004800
+PA PAS MOUNTAIN RD                                          0480004800
+PACE HILL RD                                                0480004800
+PACE HILL TANK RD                                           0480004800
+PACE SPUR                                                   0480004800
+PANSY LOOP                                                  0480004800
+PAPPY LN                                                    0480004800
+PARK ALLEY RD                                               0480604806
+PARK AVE                                                    0480004800
+PARK DR                                                     0480304803
+PARK HOWARD CEMETERY RD                                     0480004800
+PARK HOWARD EXT                                             0480004800
+PARK RD                                                     0480104801
+PARK RD                                                     0480404804
+PARKER RD                                                   0480004800
+PARKER ST                                                   0480104801
+PARKWOODS DR                                                0480004800
+PARTIN RD                                                   0480004800
+PATH ST                                                     0480004800
+PATHFORK HOLINESS CHURCH RD                                 0480004800
+PATS LN                                                     0480004800
+PATTERSON RD                                                0480004800
+PAUL ENGLAND BRIDGE                                         0480004800
+PAW PAW RD                                                  0480004800
+PAYNE LN                                                    0480004800
+PEACEFUL CEMETERY RD                                        0480004800
+PEACH TREE ST                                               0480004800
+PEACH TREE STREET CEMETERY                                  0480004800
+PEAR LN                                                     0480004800
+PEAR TREE LN                                                0480004800
+PEARL BRANCH RD                                             0480004800
+PENLEY LN                                                   0480004800
+PENNEY BRANCH HOLW                                          0480004800
+PENNINGTON LN                                               0480004800
+PENNY BRANCH HOLLOW SPUR NO1                                0480004800
+PENNY BRANCH HOLLOW SPUR NO2                                0480004800
+PERKINS HILL RD                                             0480204802
+PERKINS LN                                                  0480004800
+PERKINS RD                                                  0480004800
+PERRY BAILEY LN                                             0480004800
+PERRY RD                                                    0480004800
+PERSHING ST                                                 0480504805
+PHILLIP COOPER RD                                           0480004800
+PHILLIP LN                                                  0480004800
+PHILPOT CHURCH                                              0480004800
+PHILPOT LN                                                  0480004800
+PILLION CEMETERY RD                                         0480004800
+PINE AVE                                                    0480004800
+PINE BR                                                     0480004800
+PINE LN                                                     0480004800
+PINE MOUNTAIN HOLW                                          0480004800
+PINE ST                                                     0480104801
+PINE ST                                                     0480604806
+PINE VIEW TRAILER PARK                                      0480004800
+PIRATE WAY                                                  0480404804
+PLANK ROE RD                                                0480004800
+PLANT RD                                                    0480004800
+PLATTS FORK RD                                              0480004800
+PLATTS FORK RD                                              0486904869
+PLEASANT DR                                                 0480004800
+PLEASANT VALLEY RD                                          0480004800
+PLEASANT VW                                                 0480104801
+POINT LN                                                    0480004800
+POLOCK BRIDGE                                               0480004800
+POLSOM RD                                                   0480004800
+POND LN                                                     0480004800
+PONDOROSA CEMETERY RD                                       0480004800
+POPE CEMETERY RD                                            0480004800
+POPE HILL LN                                                0480004800
+POPE HILL RD                                                0480004800
+POPEYE RD                                                   0480004800
+POPEYE WYNN BRIDGE                                          0480004800
+POPLAR ST                                                   0480204802
+POPLAR ST                                                   0480304803
+POPLAR ST                                                   0480604806
+POPLAR TER                                                  0480004800
+POPLAR TER                                                  0480204802
+POPULAR DR                                                  0480004800
+PORT DR                                                     0480004800
+PORTAL NO31 CIR                                             0480004800
+POSSUM HOLLOW CEMETERY RD                                   0480004800
+POSSUM HOLW                                                 0480004800
+POTTERY LN                                                  0480004800
+POUNDING MILL RD                                            0480004800
+POWELL DR                                                   0480004800
+POWELL KENNEDY CEMETERY                                     0480004800
+POWELL LN                                                   0480004800
+POWELL LN                                                   0480104801
+POWER ST                                                    0480104801
+POWER STATION RD                                            0480004800
+PRESBYTERIAN CHURCH LN                                      0480004800
+PRICE LN                                                    0480004800
+PRIDE TER                                                   0480104801
+PRINCE RD                                                   0480004800
+PRIVATE ACCESS RD                                           0480104801
+PRIVATE DR                                                  0480004800
+PRIVATE DR                                                  0480204802
+PROFESSIONAL LN                                             0480004800
+PROPANE GAS                                                 0480004800
+PUCKETT AVE                                                 0480004800
+PUMP HOLE RD                                                0480004800
+PUMPKIN CTR                                                 0480004800
+PUTNEY CAMP LN                                              0480004800
+PUTNEY CAMP LOOP                                            0480004800
+PUTNEY LOOP LANE NO2                                        0480004800
+PVK HOLLOW SPUR                                             0480004800
+PVK HOLW                                                    0480004800
+QUALLS RD                                                   0480004800
+R POSEY RD                                                  0480004800
+R SIZEMORE RD                                               0480004800
+RAE LN                                                      0480004800
+RAIL COAL RD                                                0480004800
+RAIL LN                                                     0480004800
+RAIL ST                                                     0480004800
+RAILROAD AVE                                                0480604806
+RAILROAD LN                                                 0480004800
+RAILROAD ST                                                 0480104801
+RAILROAD ST                                                 0480204802
+RAILROAD ST                                                 0480504805
+RAILROAD ST S                                               0480004800
+RAIN ST                                                     0480204802
+RAINBOW CEMETERY                                            0480004800
+RALPH CORNETT HL                                            0480004800
+RANGER RD                                                   0480004800
+RANGER STATION RD                                           0480004800
+RASNICK RD                                                  0480004800
+RASNICK ST                                                  0480104801
+RAY AVE                                                     0480004800
+RAY CLARK LOOP                                              0480004800
+RAY RD                                                      0480004800
+RAY ST                                                      0480104801
+RAY ST                                                      0480204802
+RAYS LANE SPUR                                              0480004800
+RAYS LN                                                     0480004800
+READY MIX RD                                                0480004800
+READY MIX SPUR RD                                           0480004800
+RED BARN RD                                                 0480004800
+RED BUD HILL RD                                             0480004800
+RED DOG RD                                                  0480004800
+RED EYE RD                                                  0480004800
+REDBUD CT                                                   0480004800
+REDINGTON RD                                                0480004800
+REDINGTON SPUR                                              0480004800
+REDS LN                                                     0480004800
+REDSKIN DR                                                  0480104801
+REDWINE LN                                                  0480004800
+REDWING RD                                                  0480004800
+REDWING SPUR NO1 RD                                         0480004800
+REDWING SPUR NO2 RD                                         0480004800
+REED RD                                                     0480004800
+REEDS ALY                                                   0480204802
+REEDS LN                                                    0480004800
+REEL LN                                                     0480004800
+REGINA LN                                                   0480004800
+RESCUE SQUAD                                                0480004800
+REUBEN BR                                                   0480004800
+REYNOLDS LN                                                 0480004800
+RICE THOMPSON CEMETERY RD                                   0480004800
+RICE THOMPSON LOOP                                          0480004800
+RICH HYDE RD                                                0480004800
+RICHARD ST                                                  0480004800
+RICK TURNER RD                                              0480004800
+RIDGE RD                                                    0480004800
+RIDGE SPUR                                                  0480004800
+RIDGEWAY HIGHSPLINT CEMETERY RD                             0480004800
+RIGNEY RD                                                   0480004800
+RILEYS LN                                                   0480004800
+RING EYE LN                                                 0480004800
+RIO ST                                                      0480304803
+RISLEY RD                                                   0480004800
+RISNER RD                                                   0480004800
+RIVER BEND LN                                               0480004800
+RIVER LN                                                    0480004800
+RIVER RD                                                    0480004800
+RIVER RD                                                    0480104801
+RIVER RIDGE LN                                              0480004800
+RIVER ST                                                    0480004800
+RIVER ST                                                    0480204802
+RIVER ST                                                    0480304803
+RIVERSIDE LN                                                0480004800
+ROBBINS CEMETERY RD                                         0480004800
+ROBERTS CT                                                  0480004800
+ROBIN LN                                                    0480004800
+ROBINETT LN                                                 0480004800
+ROCK BARN ALY                                               0480004800
+ROCK DR                                                     0480004800
+ROCKPOINT CEMETERY RD                                       0480004800
+ROCKS LN                                                    0480004800
+ROCKY LN                                                    0480004800
+RODIE HARRIS CEMETERY RD                                    0480004800
+ROGER CLEM RD                                               0480004800
+ROGER HOWARD                                                0480004800
+ROGER PACE RD                                               0480004800
+ROGERS LN                                                   0480004800
+ROGERS RD                                                   0480004800
+RON BARGO LN                                                0480004800
+RON SWANSON BRIDGE                                          0480004800
+ROOSEVELT DANIEL CEMETERY                                   0480004800
+ROOSTER LN                                                  0480004800
+ROSE BUSH LN                                                0480004800
+ROSE LN                                                     0480004800
+ROSE ST                                                     0480104801
+ROSE ST                                                     0480204802
+ROSS DR                                                     0480004800
+ROSS DRIVE SPUR                                             0480004800
+ROSTER RD                                                   0480004800
+ROWE BRIDGE                                                 0480004800
+ROY MIDDLETON LN                                            0480004800
+RUSSELL DR                                                  0480104801
+RUSSELL RD                                                  0480004800
+S 1ST ST                                                    0480204802
+S 2ND ST                                                    0480204802
+S 3RD ST                                                    0480204802
+S CUMBERLAND AVE                                            0480204802
+S ELM ST                                                    0480204802
+S JONES LN                                                  0480004800
+S MAIN ST                                                   0480004800
+S MAIN ST                                                   0480204802
+S MAIN ST                                                   0480504805
+S PINETREE RD                                               0480004800
+S WALLINS AVE                                               0480004800
+S WALLINS AVE                                               0486904869
+S WILLIAMS ST                                               0480204802
+SAL'S BRANCH RD                                             0480004800
+SALLY LANE EXT                                              0480004800
+SALLY LN                                                    0480004800
+SALLY RACHEL RD                                             0480004800
+SALS BR                                                     0480004800
+SALT TRACE BRANCH RD                                        0480004800
+SAM ESTEP RD                                                0480004800
+SAM FOUCH RD                                                0480004800
+SAND HILL BOTTOM RD                                         0480004800
+SANDERS ST                                                  0480004800
+SANG BR                                                     0480004800
+SANG BRANCH CEMETERY                                        0480004800
+SANTA LN                                                    0480004800
+SARA COX RD                                                 0480004800
+SARGENT DRIVE SPUR                                          0480004800
+SARGENT SPUR                                                0480004800
+SAWMIL SPUR                                                 0480104801
+SAWMILL HOLLOW CAWOOD                                       0480004800
+SAWMILL HOLLOW RD                                           0480104801
+SAWMILL KELLY BRIDGE                                        0480004800
+SAWMILL RD                                                  0480004800
+SAYLOR CEMETERY RD                                          0480004800
+SAYLOR LN                                                   0480004800
+SAYLOR LOOP                                                 0480004800
+SAYLOR ST                                                   0480504805
+SCEARSE HILL RD                                             0480004800
+SCENIC DR                                                   0480004800
+SCHOOL DR                                                   0486904869
+SCHOOL HOUSE CEMETERY RD                                    0480004800
+SCHOOL HOUSE RD                                             0480004800
+SCHOOL HOUSE SPUR                                           0480004800
+SCHOOL RD                                                   0480104801
+SCHOOL ST                                                   0480504805
+SCOTT AVE                                                   0480104801
+SCOTT CEMETERY LOOP                                         0480004800
+SCOTT CEMETERY RD                                           0480004800
+SCOTT CT                                                    0480004800
+SCOTT DR                                                    0480004800
+SCOTT LANE SPUR NO1                                         0480004800
+SCOTT LANE SPUR NO2                                         0480004800
+SCOTT LANE SPUR NO3                                         0480004800
+SCOTT LN                                                    0480004800
+SCOTT RD                                                    0480004800
+SCOVILLE RD                                                 0480004800
+SCOVILLE ST                                                 0480504805
+SEIBERS RD                                                  0480004800
+SEIBERS SPUR NO1                                            0480004800
+SEIBERS SPUR NO2                                            0480004800
+SEIBERS SPUR NO3                                            0480004800
+SELLERS RD                                                  0480004800
+SERGANT ST                                                  0480504805
+SERGENT BRIDGE                                              0480004800
+SERGENT CEMETERY                                            0480004800
+SERGENT DR                                                  0480004800
+SEWER PLANT RD                                              0480304803
+SEWERAGE PLANT RD                                           0480004800
+SEXTON ST                                                   0480004800
+SHANE MOUNTAIN RD                                           0480004800
+SHARON HL N                                                 0480004800
+SHARON HL S                                                 0480004800
+SHAWN LN                                                    0480004800
+SHEFFIELD RD                                                0480004800
+SHEILDS CIR                                                 0480004800
+SHELBY ST                                                   0480004800
+SHELIA DR                                                   0480004800
+SHELL HOLW                                                  0480004800
+SHELTER HOUSE LOOP                                          0480004800
+SHELTER HOUSE LOOP SPLIT                                    0480004800
+SHELTER HOUSE LOOP SPUR                                     0480004800
+SHELTER HOUSE RD                                            0480004800
+SHEPHARD RD                                                 0480004800
+SHEPHERD DR                                                 0480004800
+SHEPHERD RD                                                 0480004800
+SHEPHERD SERGENT RD                                         0480004800
+SHEPHERD ST                                                 0480104801
+SHEPHERD ST                                                 0480604806
+SHEPPARD TRAIL SPUR NO1                                     0480004800
+SHERRY LN                                                   0480004800
+SHIELD ST                                                   0480004800
+SHIELDS CIR                                                 0480004800
+SHINE ST                                                    0480004800
+SHOEMAKER CEMETERY RD                                       0480004800
+SHOEMAKER DR                                                0480504805
+SHOEMAKER HOLLOW SPUR NO1                                   0480004800
+SHOEMAKER HOLLOW SPUR NO2                                   0480004800
+SHOEMAKER HOLW                                              0480004800
+SHOEMAKER RD                                                0480004800
+SHOEMAKER SPUR                                              0480004800
+SHOPE LN                                                    0480004800
+SHORT AVE                                                   0480004800
+SHORT CUT DR                                                0480204802
+SHORT LN                                                    0480004800
+SHORT SPUR                                                  0480004800
+SHORT ST                                                    0480004800
+SHORT ST                                                    0480104801
+SHORT ST                                                    0480204802
+SHORT ST                                                    0480304803
+SHORT ST                                                    0480404804
+SHOUP BRIDGE                                                0480004800
+SHRINERS LN                                                 0480004800
+SHRINERS RAILROAD LN                                        0480004800
+SHRINERS RD                                                 0480004800
+SHULLER LN                                                  0480004800
+SILAS MIDDLETON RD                                          0480004800
+SILK STOCKING RD                                            0480004800
+SIMONTON DR                                                 0480004800
+SIMPSON HILL RD                                             0480004800
+SIMPSON LANE LEFT                                           0480004800
+SIMPSON RD                                                  0480004800
+SISSY RD                                                    0480004800
+SIZEMORE LN                                                 0480004800
+SIZEMORE ST                                                 0480004800
+SKIDMORE BR                                                 0480004800
+SKIDMORE CEMETERY KY568                                     0480004800
+SKIDMORE CEMETERY RD                                        0480004800
+SKIDMORE CEMETERY SPUR                                      0480004800
+SKIDMORE DR                                                 0480004800
+SLACK HOLLOW CEMETERY RD                                    0480004800
+SLACK HOLW                                                  0480004800
+SLICKEY RIDGE RD                                            0480004800
+SLNGO LN                                                    0480004800
+SMALLWOOD DR                                                0480004800
+SMITH AVE                                                   0480004800
+SMITH AVE                                                   0480104801
+SMITH LN                                                    0480004800
+SMITH LN                                                    0480504805
+SMITH RD                                                    0480004800
+SMITH WRIGHT CEMETERY RD                                    0480004800
+SNOOK RD                                                    0480004800
+SOULEYRET LN                                                0480004800
+SOUTH ST                                                    0480104801
+SOUTHEAST COMMUNITY COLLEGE RD                              0480104801
+SOUTHERLAND DR                                              0480004800
+SPEED HENSLEY CEMETERY RD                                   0480004800
+SPEED HENSLEY RD                                            0480004800
+SPENCER RD                                                  0480004800
+SPRING AVE                                                  0480104801
+SPRING DR                                                   0480004800
+SPRING ST                                                   0480104801
+SPRUCE ST                                                   0480604806
+SPUR NO1                                                    0480004800
+SPUR NO2                                                    0480004800
+STACEY DR                                                   0480104801
+STACEY HL                                                   0480104801
+STACEY LN                                                   0480004800
+STACY LOOP                                                  0480004800
+STANFILL DR                                                 0480004800
+STANFILL RD                                                 0480004800
+STANLEY LEWIS LOOP                                          0480004800
+STANTON RD                                                  0480004800
+STANTON SPUR                                                0480004800
+STATE SQ                                                    0480104801
+STATION LN                                                  0480004800
+STATION RD                                                  0480004800
+STATION SPUR                                                0480004800
+STEEL LN                                                    0480004800
+STEVENS LN                                                  0480004800
+STEWART CEMETERY CAWOOD RD                                  0480004800
+STEWART CEMETERY RD                                         0480004800
+STEWART DR                                                  0480004800
+STEWART DRIVE SPUR                                          0480004800
+STEWART LN                                                  0480004800
+STEWART ST                                                  0480504805
+STONE LN                                                    0480004800
+STONE MOUNTAIN                                              0480004800
+STONE MOUNTAIN BOAT RAMP                                    0480004800
+STONE RD                                                    0480004800
+STRETCH NECK HOLW                                           0480004800
+STRETCHNECK HOLLOW SPUR                                     0480004800
+STROUD LN                                                   0480004800
+STURGILL RD                                                 0480004800
+SUBSTATION LN                                               0480004800
+SUDIE LN                                                    0480004800
+SUES LN                                                     0480004800
+SUGAR CAMP RD                                               0480004800
+SUKEY RIDGE RD                                              0480004800
+SUKEY RIDGE RD                                              0480304803
+SULPHUR SPRINGS HOLLOW RD                                   0480004800
+SUNNY ACRES                                                 0480004800
+SUNRISE DR                                                  0480004800
+SUNSET LN                                                   0480004800
+SUNSHINE PARK                                               0480204802
+SURGENER ST                                                 0480204802
+SURVIVAL CTR                                                0480004800
+SUTTON DR                                                   0480004800
+SUTTON DRIVE SPUR                                           0480004800
+SWEET BALL RD                                               0480004800
+SWINGING BRIDGE RD                                          0480004800
+SYCAMORE DR                                                 0480004800
+SYCAMORE ST                                                 0480004800
+SYCAMORE ST                                                 0480204802
+SYLVIA DR                                                   0480004800
+T PARK LN                                                   0480004800
+TACKY TOWN SPUR NO1                                         0480004800
+TALMADGE RD                                                 0480004800
+TALTON LN                                                   0480004800
+TAN TROUGH HOLW                                             0480004800
+TARBOT LN                                                   0480004800
+TAYLOR LN                                                   0480004800
+TAYLOR LN                                                   0480504805
+TAYLOR WHITEHEAD CEMETERY RD                                0480004800
+TERRY GLENN SLACK HOLLOW CEMETERY                           0480004800
+TERRYS FORK RD                                              0480004800
+THIRTY ONE CP                                               0480004800
+THOMAS ROBBINS RD                                           0480004800
+THOMPSON BRANCH RD                                          0480004800
+THOMPSON BRANCH SPUR                                        0480004800
+THOMPSON LN                                                 0480004800
+THOMPSON RD                                                 0480004800
+TIBIAN WAY                                                  0480404804
+TIDWELL RD                                                  0480004800
+TIM BOWMAN RD                                               0480004800
+TIM BROWMAN RD                                              0480004800
+TIM HENSLEY                                                 0480304803
+TIMBERCREST EST                                             0480004800
+TIMBERCREST EST S                                           0480004800
+TIMBERLANE RD                                               0480004800
+TIPPLE GRAYS KNOB                                           0480004800
+TIPPLE RD                                                   0480004800
+TODD ST                                                     0480204802
+TOLLIVER WARD                                               0480004800
+TOM COAL RD                                                 0480004800
+TOM COAL SPUR                                               0480004800
+TOM ST                                                      0480004800
+TOMMY HELTON BRIDGE                                         0480004800
+TOMMY HUFF LN                                               0480004800
+TOTZ ALY                                                    0480004800
+TOTZ LOOP                                                   0480004800
+TRACE BRANCH BRIDGE                                         0480004800
+TRAILER APRK NO3                                            0480004800
+TRAILER PARK                                                0480004800
+TRAILER PARK LN                                             0480404804
+TRAILER PARK NO1                                            0480004800
+TRAILER PARK NO2                                            0480004800
+TRAILER PARK RD                                             0480004800
+TRAMMELL RD                                                 0480004800
+TREMONT DR                                                  0480004800
+TREMONT HL                                                  0480004800
+TRINITY TABERNACLE RD                                       0480004800
+TROUT LN                                                    0480104801
+TROY WINN RD                                                0480004800
+TUCKER LN                                                   0480004800
+TULIP LN                                                    0480004800
+TUNNEL HILL RD                                              0480004800
+TURNER CEMETERY RD                                          0480004800
+TURNER CREEK RD                                             0480004800
+TURNER DR                                                   0480004800
+TURNER HILL CEMETERY                                        0480004800
+TURNER HILL RD                                              0480004800
+TURNER HILL SPUR                                            0480004800
+TURNER HL                                                   0480004800
+TURNER LN                                                   0480004800
+TURNER SPUR                                                 0480004800
+TWAY HOLW                                                   0480004800
+TWELVE SPOT                                                 0480004800
+TWELVESPOT LANE NO1                                         0480004800
+TWELVESPOT LANE NO2                                         0480004800
+TWELVESPOT LANE NO3                                         0480004800
+TYREE LN                                                    0480004800
+TYREE SPUR                                                  0480004800
+UNION ST                                                    0480004800
+UNKNOWN                                                     0480004800
+UNTHANK ST                                                  0480304803
+UPPER ELCOMB DR                                             0480004800
+UPPER SHEPHERD ST                                           0480104801
+US119 N                                                     0480004800
+US119 N                                                     0480104801
+US119 S                                                     0480004800
+US119 S                                                     0480304803
+US421 N                                                     0480004800
+US421 S                                                     0480004800
+US421 S                                                     0480204802
+US421 S                                                     0480304803
+V MADDEN RD                                                 0480004800
+VALLEY DR                                                   0480004800
+VAN ST                                                      0480004800
+VANOVER HILL RD                                             0480004800
+VANOVER LN                                                  0480004800
+VERDA CAMP RD                                               0480004800
+VERDA CAMP SPUR                                             0480004800
+VERDA RAILROAD LN                                           0480004800
+VERDA SCHOOL RD                                             0480004800
+VERNON BELCHER RD                                           0480004800
+VERNON LN                                                   0480004800
+VERNON ST                                                   0480004800
+VICTORY RD                                                  0480004800
+VICTORY ROAD SPUR                                           0480004800
+VILLAGE CENTER RD                                           0480004800
+VIOLET GRANT RD                                             0480004800
+VISION RD                                                   0480004800
+VISTA ST                                                    0480304803
+W CENTRAL ST                                                0480204802
+W CLOVER ST                                                 0480204802
+W END ALY                                                   0480404804
+W JOHNSON ST                                                0480004800
+W LOONEY ALY                                                0480404804
+W MAIN ST                                                   0480404804
+W MAIN ST                                                   0480604806
+W MOUND ST                                                  0480204802
+W SANDHILL RD                                               0480104801
+W SAWMILL HOLLOW RD                                         0480104801
+WAGNER LN                                                   0480004800
+WALDON RD                                                   0480004800
+WALLACE WILKERSON RD                                        0480004800
+WALLINS ELEMENTARY SCHOOL                                   0486904869
+WALLINS ST                                                  0480004800
+WALNUT LN                                                   0480004800
+WALNUT LOOP                                                 0480004800
+WALNUT ST                                                   0480004800
+WALNUT ST                                                   0480104801
+WALNUT ST                                                   0480304803
+WALNUT ST                                                   0480504805
+WALNUT ST                                                   0480604806
+WALT CREECH RD                                              0480004800
+WALTER COOPER CEMETERY                                      0480004800
+WALTER ST                                                   0480004800
+WALTER ST                                                   0486904869
+WALTONS HL                                                  0480004800
+WAMPUS CREEK                                                0480004800
+WAMPUS CREEK LN                                             0480004800
+WAMPUS CREEK RD                                             0480004800
+WARD CEMETERY RD                                            0480004800
+WARD DR                                                     0480004800
+WARD ST                                                     0480204802
+WARREN LEWIS CEMETERY RD                                    0480004800
+WARREN LEWIS PARK                                           0480004800
+WARREN RD                                                   0480004800
+WATER LN                                                    0480004800
+WATER PLANT WALLINS                                         0480004800
+WATER SPUR                                                  0480004800
+WATER TANK RD                                               0480004800
+WATER WORKS RD                                              0480004800
+WATERTANK RD                                                0480004800
+WATERTANK RD                                                0486904869
+WAYNE BARGO LN                                              0480004800
+WAYNE LEE BRIDGE                                            0480004800
+WEBB RD                                                     0480004800
+WESLEY SAYLOR                                               0480004800
+WEST END ALY                                                0480404804
+WHITE DR                                                    0480004800
+WHITE LN                                                    0480004800
+WHITE ST                                                    0480104801
+WHITE STAR CEMETERY RD                                      0480004800
+WHITEHEAD LN                                                0480004800
+WILDCAT HOLLOW RD                                           0480004800
+WILDER CEMETERY RD                                          0480004800
+WILDER DR                                                   0480004800
+WILDER RD                                                   0480004800
+WILKERSON ST                                                0480304803
+WILKIE SALYOR RD                                            0480004800
+WILLARD JONES RD                                            0480004800
+WILLARD LN                                                  0480004800
+WILLIAM AVE                                                 0486904869
+WILLIAM DR                                                  0480004800
+WILLIAMS BRIDGE                                             0480004800
+WILLIAMS DR                                                 0480004800
+WILLIAMS LN                                                 0480004800
+WILLIE ANDERSON NO1                                         0480004800
+WILLIE ANDERSON NO2                                         0480004800
+WILLIE HOWARD RD                                            0480004800
+WILLIE LN                                                   0480004800
+WILLOW DR                                                   0480004800
+WILLOW DR                                                   0480204802
+WILLOW LN                                                   0480004800
+WILSON LN                                                   0480004800
+WILSON RD                                                   0480004800
+WINTER HILL DR                                              0480004800
+WITT RD                                                     0480004800
+WIX HOWARD CEMETERY                                         0480304803
+WOLF HOLW                                                   0480004800
+WOLF HOLW                                                   0480304803
+WOOD ST                                                     0480104801
+WOOD STREET CONNECTOR                                       0480104801
+WOODARD BR                                                  0480004800
+WOODARD BRANCH WATER                                        0480004800
+WOODARD RD                                                  0480004800
+WOODLAND HLS                                                0480004800
+WOODLAND HLS                                                0480204802
+WOODLAND HTS                                                0480204802
+WOODLAND LN                                                 0480004800
+WOODS LN                                                    0480004800
+WOOTEN LOOP RD                                              0480004800
+WRIGHT ST                                                   0480104801
+WYNN TOWN LOOP                                              0480004800
+WYNNTOWN LOOP SPUR NO1                                      0480004800
+WYNNTOWN LOOP SPUR NO2                                      0480004800
+YADEN ST                                                    0480104801
+YARD LOOP                                                   0480004800
+YOCUM CREEK RD                                              0480004800
+YOCUM ST                                                    0480504805

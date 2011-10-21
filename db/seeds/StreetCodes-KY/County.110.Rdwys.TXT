@@ -1,0 +1,579 @@
+1ST ST                                                      1100311003
+1ST ST                                                      1100411004
+2ND ST                                                      1100311003
+2ND ST                                                      1100411004
+3RD ST                                                      1100311003
+3RD ST                                                      1100411004
+4TH ST                                                      1100411004
+5TH ST                                                      1100311003
+5TH ST                                                      1100411004
+6TH ST                                                      1100411004
+7TH ST                                                      1100411004
+8TH ST                                                      1100411004
+A HALL RD                                                   1100011000
+A HIGHTOWER RD                                              1100011000
+A MULLIN RD                                                 1100011000
+ACCESS RD                                                   1100011000
+ADAMS RD                                                    1100011000
+AIRPORT RD                                                  1100011000
+AIRPORT RD                                                  1100111001
+ALLEGRE CHURCH RD                                           1100011000
+ALLEGRE RD                                                  1100011000
+ALLENSVILLE RD                                              1100011000
+ALLENSVILLE RD                                              1100211002
+ALLENSVILLE ST                                              1100011000
+ALLENSVILLE ST                                              1100111001
+ALLENSWORTH LN                                              1100211002
+ALLEY NO1                                                   1100111001
+ALLEY NO2                                                   1100311003
+ALLEY NO3                                                   1100311003
+ALLEY NO4                                                   1100311003
+ALLEY NO6                                                   1100311003
+ALLISON RD                                                  1100011000
+AMELIA LN                                                   1100011000
+ANGELA DR                                                   1100011000
+ANGELWOOD LN                                                1100011000
+ANTIOCH CHURCH RD                                           1100011000
+ARTHUR HENDERSON RD                                         1100011000
+ASKEW RD                                                    1100011000
+AUBREY CAMPBELL DR                                          1100111001
+AVERITT LN                                                  1100011000
+B BROWN LN                                                  1100011000
+B MULLIN RD                                                 1100011000
+B WHITE RD                                                  1100011000
+B WHITE RD                                                  1100111001
+BAILEY STOKES RD                                            1100011000
+BANTON COOTS RD                                             1100011000
+BANTON ST                                                   1100211002
+BARBERA ELLEN LN                                            1100011000
+BARKERS MILL RD                                             1100011000
+BASHAM RD                                                   1100011000
+BECKAM RD                                                   1100011000
+BELLAMY LN                                                  1100211002
+BELLAR RD                                                   1100011000
+BELLS CHAPEL CHURCH RD                                      1100011000
+BENNETT CEMETERY RD                                         1100011000
+BIG POND RD                                                 1100011000
+BILL LEAR RD                                                1100011000
+BLAKE LN                                                    1100011000
+BLAKE RD                                                    1100011000
+BLUE AND GRAY PARK RD                                       1100011000
+BLUE HOLE RD                                                1100011000
+BOLEY RD                                                    1100011000
+BOYD RD                                                     1100011000
+BRADLEY AVE                                                 1100111001
+BRIAN LN                                                    1100011000
+BRITMART RD                                                 1100011000
+BROCKMAN CEMETERY RD                                        1100011000
+BROWN RD                                                    1100011000
+BROWN ST                                                    1100311003
+BRUMFIELD RD                                                1100011000
+BULLY HARRIS RD                                             1100011000
+BUTLER RD                                                   1100011000
+C BOLEY LN                                                  1100011000
+C SMITH RD                                                  1100011000
+C STOKES RD                                                 1100011000
+CAL SUDDETH RD                                              1100011000
+CALLOWAY ST                                                 1100311003
+CALVIN MONROE RD                                            1100011000
+CAMP SCHOOLHOUSE RD                                         1100011000
+CAMPBELL LANE CONNECTOR                                     1100211002
+CAMPBELL LN                                                 1100211002
+CAMPBELL RD                                                 1100011000
+CARDWELL RD                                                 1100011000
+CARGILE LN                                                  1100011000
+CARTER LN                                                   1100211002
+CATHCART RD                                                 1100011000
+CEDAR ST                                                    1100411004
+CEMETERY LN                                                 1100411004
+CEMETERY RD                                                 1100011000
+CEMETERY ST                                                 1100411004
+CHAPEL HILL RD                                              1100011000
+CHARLES HENRY RD                                            1100011000
+CHARLIE POWELL RD                                           1100011000
+CHERRY ST                                                   1100311003
+CHESTER MARTIN RD                                           1100011000
+CHESTER STAHL RD                                            1100011000
+CHESTNUT RD                                                 1100011000
+CHURCH HILL LN                                              1100111001
+CHURCH LN                                                   1100011000
+CHURCH ST                                                   1100211002
+CHURCH ST                                                   1100411004
+CLARKSVILLE RD                                              1100011000
+CLARKSVILLE ST                                              1100411004
+CLAY COLE RD                                                1100011000
+CLAYMORE CAMPGROUND RD                                      1100011000
+CLIFF HILL CHURCH RD                                        1100011000
+CLIFF HILL RD                                               1100011000
+CLIFTY KIRKMANSVILLE RD                                     1100011000
+COAL BANK RD                                                1100011000
+COLE ST                                                     1100411004
+COLLEGE ST                                                  1100111001
+COLLIER SPRING RD                                           1100011000
+COMMERCE ST                                                 1100311003
+CONTESSA LN                                                 1100011000
+COOK LN                                                     1100011000
+CORDIE WILSON RD                                            1100011000
+CORDIS KENNER RD                                            1100011000
+COURSEY RD                                                  1100011000
+COVINGTON ST                                                1100311003
+COX RD                                                      1100011000
+COY CASE RD                                                 1100011000
+CRAWFORD RD                                                 1100011000
+CREIGHTON RD                                                1100011000
+CURTIS SMALL RD                                             1100011000
+CYPRESS LN                                                  1100311003
+DALTON RIDGE RD                                             1100011000
+DARDEN LN                                                   1100011000
+DAVENPORT RD                                                1100011000
+DAVID HIGHTOWER N                                           1100111001
+DAVID HIGHTOWER NORTH                                       1100011000
+DAVID HIGHTOWER NORTH                                       1100111001
+DAVID HIGHTOWER RD                                          1100011000
+DAVIS MILL RD                                               1100011000
+DAYSVILLE ALLENSVILLE RD                                    1100011000
+DEBORAH ST                                                  1100111001
+DENNIS HURT RD                                              1100011000
+DICKINSON QUARRY RD                                         1100011000
+DICKINSON RD                                                1100011000
+DIXIE BEELINE HWY                                           1100011000
+DIXIE BEELINE HWY                                           1100311003
+DIXIE BEELINE HWY                                           1100411004
+DIXIE ST                                                    1100311003
+DOBBS RD                                                    1100011000
+DOC'S DR                                                    1100411004
+DOGWOOD RD                                                  1100011000
+DON DR                                                      1100111001
+DORRIS DOSSETT RD                                           1100011000
+DOSSETT RD                                                  1100011000
+DOWDY RD                                                    1100011000
+DOWNER LN                                                   1100011000
+DR BOYLES RD                                                1100011000
+DUKE ST                                                     1100111001
+DUNCAN RIDGE RD                                             1100011000
+DUNHEATH DR                                                 1100111001
+E GREENFIELD RD                                             1100011000
+E JEFFERSON DAVIS HWY                                       1100011000
+E JEFFERSON ST                                              1100111001
+E LESTER CHAPEL RD                                          1100011000
+E MAIN ST                                                   1100011000
+E MAIN ST                                                   1100111001
+E MCREYNOLDS DR                                             1100111001
+E MITCHELL SPUR RD                                          1100011000
+E MULLIN RD                                                 1100011000
+E NELSON COLE RD                                            1100011000
+E PARK ST                                                   1100311003
+E RUTH DR                                                   1100111001
+E SHELBY AVE                                                1100111001
+E WASHINGTON ST                                             1100111001
+EAGLE LN                                                    1100011000
+EARL ALMY RD                                                1100011000
+EDLIN ST                                                    1100311003
+EDWARDS LN                                                  1100011000
+ELAINE CT                                                   1100111001
+ELK FORK RD                                                 1100111001
+ELK ST                                                      1100111001
+ELKTON CEMETERY RD                                          1100111001
+ELKTON PARK RD                                              1100111001
+ELKTON TRENTON RD                                           1100011000
+ELM ST                                                      1100111001
+ELM ST                                                      1100411004
+ELOISE MOORE RD                                             1100011000
+EMBERRY CHURCH RD                                           1100011000
+EWING ST                                                    1100311003
+FAIRGROUNDS RD                                              1100011000
+FAIRGROUNDS RD                                              1100311003
+FLAT ROCK RD                                                1100011000
+FLAT ROCK SCHOOLHOUSE RD                                    1100011000
+FORGY TOWN RD                                               1100111001
+FOSTER RD                                                   1100011000
+FOWLER LN                                                   1100011000
+FRANCE RD                                                   1100011000
+FRANCIES CEMETERY RD                                        1100011000
+FRANCIES CEMETERY SPUR                                      1100011000
+FRANK WELLS RD                                              1100011000
+FREEMAN RD                                                  1100011000
+FRIENDLY ACRES TRAILER COURT RD                             1100011000
+FROGUE RD                                                   1100011000
+FRONT ST                                                    1100311003
+FULCHER SCHOOL RD                                           1100011000
+GAIL SEARS RD                                               1100011000
+GARDNER RD                                                  1100011000
+GARTH LN                                                    1100111001
+GATES RD                                                    1100011000
+GAYLE LN                                                    1100011000
+GAYLE LN                                                    1100111001
+GEORGE F ADDISON RD                                         1100011000
+GEORGETOWN CIR                                              1100011000
+GIBSON HIGHTOWER RD                                         1100011000
+GILLS CHAPEL CHURCH RD                                      1100011000
+GLENN CT                                                    1100111001
+GLENWOOD CEMETERY ROAD NO1                                  1100111001
+GLENWOOD CEMETERY ROAD NO2                                  1100111001
+GLENWOOD CEMETERY ROAD NO3                                  1100111001
+GLENWOOD CEMETERY ROAD NO4                                  1100111001
+GOEBEL AVE                                                  1100111001
+GOODMAN RD                                                  1100011000
+GOODNIGHT RD                                                1100011000
+GOSHEN RD                                                   1100011000
+GOWER ST                                                    1100311003
+GRAYSVILLE RD                                               1100011000
+GRAYSVILLE RD                                               1100311003
+GREEN ACRES CIR                                             1100311003
+GREEN ST                                                    1100311003
+GREENVILLE RD                                               1100011000
+GREENVILLE RD                                               1100111001
+GUM GROVE RD                                                1100011000
+GUN CLUB RD                                                 1100011000
+GUTHRIE HIGHLAND CEMETERY NO2 RD                            1100311003
+GUTHRIE HIGHLAND CEMETERY NO3 RD                            1100311003
+GUTHRIE HIGHLAND CEMETERY RD                                1100311003
+GUTHRIE RD                                                  1100011000
+GUTHRIE RD                                                  1100311003
+H GORRELL RD                                                1100011000
+HADDEN MILL RD                                              1100011000
+HADDEN RD                                                   1100011000
+HADENSVILLE RD                                              1100011000
+HALEY DR                                                    1100111001
+HAMMACKSVILLE RD                                            1100011000
+HAMPTON CT                                                  1100111001
+HARDISON RD                                                 1100011000
+HARRIS DR                                                   1100011000
+HARRIS LN                                                   1100011000
+HARRIS RD                                                   1100011000
+HARRY TUCKER RD                                             1100011000
+HELTSLEY LN                                                 1100011000
+HENDERSON RD                                                1100011000
+HENRY B FARMER RD                                           1100211002
+HERMAN RD                                                   1100011000
+HIGHLAND LICK RD                                            1100011000
+HIGHLAND RD                                                 1100011000
+HIGHLAND RD                                                 1100311003
+HILTON RD                                                   1100011000
+HOMER POWELL RD                                             1100011000
+HOOVER MARTIN RD                                            1100011000
+HOPKINSVILLE RD                                             1100011000
+HOPKINSVILLE RD                                             1100111001
+HOWARD CIR                                                  1100111001
+HOWARD DICKERSON RD                                         1100011000
+HOWELL ST                                                   1100311003
+HURRICANE HILL RD                                           1100011000
+HURST ST                                                    1100411004
+INDUSTRIAL DR                                               1100111001
+INDUSTRIAL DRIVE NO1                                        1100111001
+J CROSS                                                     1100011000
+J JOHNSON RD                                                1100011000
+JACK GRAY RD                                                1100011000
+JAI CT                                                      1100011000
+JAMES MITCHELL RD                                           1100011000
+JAMIE DR                                                    1100111001
+JASON RIDGE RD                                              1100011000
+JEFFERSON DAVIS HWY                                         1100011000
+JEFFERSON DAVIS MONUMENT DR                                 1100011000
+JENNIFER DR                                                 1100111001
+JIM GREEN RD                                                1100011000
+JOE GILL RD                                                 1100011000
+JOE POTTER RD                                               1100011000
+JOHN DR                                                     1100111001
+JOHN GREENFIELD RD                                          1100011000
+JOHN HIGHTOWER RD                                           1100011000
+JOHN U YOUNG RD                                             1100011000
+JOHN YOUNG RD                                               1100011000
+JOHNSON CHAPEL RD                                           1100011000
+JOHNSON DR                                                  1100011000
+JOHNSON DR                                                  1100111001
+JOHNSON MILL RD                                             1100011000
+JOHNSON'S LN                                                1100011000
+JOHNSTON CEMETERY RD                                        1100011000
+JOINERS AVE                                                 1100111001
+JONAH WILSON RD                                             1100011000
+JONES DR                                                    1100011000
+JONES RD                                                    1100011000
+JORDAN AVE                                                  1100111001
+JORDAN LN                                                   1100311003
+JUDGE RAGER LN                                              1100011000
+KEITH TRL                                                   1100011000
+KENDALL ST                                                  1100311003
+KENTUCKY ST                                                 1100311003
+KIMBERLY ST                                                 1100011000
+KY107                                                       1100011000
+KY115                                                       1100011000
+KY189                                                       1100011000
+L FREDERICK RD                                              1100011000
+LACK RD                                                     1100011000
+LANCE DR                                                    1100111001
+LASTERS AVE                                                 1100111001
+LATHAM RD                                                   1100011000
+LAW LN                                                      1100011000
+LAWSON HESTER RD                                            1100011000
+LAWSON POINDEXTER RD                                        1100011000
+LEAR RD                                                     1100011000
+LEAVELL LN                                                  1100111001
+LEWIS JONES RD                                              1100011000
+LEWIS JONES SPUR RD                                         1100011000
+LIBERTY RD                                                  1100011000
+LINA MARTIN RD                                              1100011000
+LIZZY DANCY ST                                              1100311003
+LOCUST ST                                                   1100311003
+LOG GAP RD                                                  1100011000
+LONG RD                                                     1100011000
+LUCIAN STOKES RD                                            1100011000
+LUCKY LN                                                    1100111001
+LYONS RD                                                    1100011000
+M GORRELL RD                                                1100011000
+M HALL RD                                                   1100011000
+MACHINE SHOP RD                                             1100011000
+MAGNOLIA DR                                                 1100111001
+MAIN ST                                                     1100311003
+MAJORS LN                                                   1100011000
+MALLORY CT                                                  1100111001
+MARION ST                                                   1100111001
+MARKHAM RD                                                  1100011000
+MARSHALL LN                                                 1100011000
+MARSHALL WILLIAMS RD                                        1100011000
+MARTIN RD                                                   1100011000
+MARVIN POWELL RD                                            1100011000
+MARY DR                                                     1100111001
+MARY ST                                                     1100111001
+MATON RD                                                    1100011000
+MCCORMICK CEMETERY RD                                       1100011000
+MCKINNEY BEND RD                                            1100011000
+MCPHERSON CEMETERY RD                                       1100011000
+MCPHERSON RD                                                1100011000
+MEADOWHAVEN CEMETERY RD                                     1100011000
+MEADOWHAVEN LN                                              1100011000
+MEREDITH LN                                                 1100011000
+MERRITT ST                                                  1100311003
+MERRIWEATHER ST                                             1100311003
+MICAH DR                                                    1100111001
+MILLEN RD                                                   1100011000
+MILLER DR                                                   1100111001
+MILLER VALLEY RD                                            1100011000
+MIMMS RD                                                    1100011000
+MIMMS ST                                                    1100311003
+MINNIE HOLLOW RD                                            1100011000
+MITCHELL SPUR RD                                            1100011000
+MOE DR                                                      1100011000
+MOE DR                                                      1100111001
+MONROE LN                                                   1100011000
+MOORE LN                                                    1100011000
+MOORE RD                                                    1100011000
+MOORE ST                                                    1100311003
+MORNINGSIDE DR                                              1100111001
+MORRIS ST                                                   1100311003
+MORRIS WEATHERS ST                                          1100111001
+MORTON LN                                                   1100011000
+MT PLEASANT CIR                                             1100211002
+MT PLEASANT LN                                              1100011000
+MT PLEASANT LN                                              1100211002
+MT SHARON RD                                                1100011000
+MURRAY CT                                                   1100111001
+MURRAY RD                                                   1100011000
+MYER DR                                                     1100111001
+N ALLEN ST                                                  1100111001
+N EWING ST                                                  1100011000
+N EWING ST                                                  1100311003
+N KENNEDY ST                                                1100111001
+N KENTUCKY ST                                               1100311003
+N LESTER CHAPEL RD                                          1100011000
+N LINCOLN ST                                                1100111001
+N MAIN ST                                                   1100111001
+N MAIN ST                                                   1100411004
+N PERRY ST                                                  1100111001
+N ROSENWALD ST                                              1100411004
+N STREETS AVE                                               1100111001
+N WEATHERS LN                                               1100111001
+N WILLIAMS LN                                               1100111001
+NAT PENNICK RD                                              1100011000
+NAT PENNICK ROAD SPUR                                       1100011000
+NELSON COLE RD                                              1100011000
+NELSON RD                                                   1100011000
+NELSON RD                                                   1100311003
+NNN LN                                                      1100011000
+NOBLE HALL RD                                               1100011000
+NORRIS ST                                                   1100311003
+OAK RIDGE CT                                                1100011000
+OAK ST                                                      1100311003
+OAK ST                                                      1100411004
+OLD ALLENSVILLE RD                                          1100011000
+OLD BELLS CHAPEL RD                                         1100011000
+OLD CREOSOTE LN                                             1100311003
+OLD FAIRGROUNDS LN                                          1100311003
+OLD QUARRY RD                                               1100011000
+OLD QUARRY ROAD SPUR                                        1100011000
+OLD RAILROAD LN                                             1100011000
+OLD TRENTON RD                                              1100011000
+OLD VOLNEY RD                                               1100011000
+OLIVE ST                                                    1100111001
+ONEIL RD                                                    1100011000
+OPAL LEAR RD                                                1100011000
+PACE ST                                                     1100211002
+PAUL HURT LN                                                1100011000
+PAUL J WRIGHT RD                                            1100011000
+PEA RIDGE RD                                                1100011000
+PENCHEM RD                                                  1100011000
+PENCHEM ST                                                  1100411004
+PENNYRILE COURT NO1                                         1100311003
+PENNYRILE COURT NO2                                         1100311003
+PENNYRILE COURT NO3                                         1100311003
+PETE WHEELER RD                                             1100011000
+PETRIE RD                                                   1100011000
+PHILLIPI RD                                                 1100011000
+PHILLIPS RD                                                 1100011000
+PILOT ROCK RD                                               1100011000
+PLEASANT GROVE RD                                           1100011000
+PLEASANT HILL CHURCH RD                                     1100011000
+POE HILL RD                                                 1100011000
+POGUE RD                                                    1100011000
+POND RIVER RD                                               1100011000
+POND RIVER RD                                               1100111001
+POPLAR ST                                                   1100111001
+PORT ROYAL RD                                               1100311003
+POSEY ST                                                    1100311003
+POWELL HOLLOW RD                                            1100011000
+POWELL LAKE RD                                              1100011000
+POWELL RD                                                   1100011000
+R LUTTRULL LN                                               1100011000
+R MALLORY LN                                                1100011000
+R MCINTOSH RD                                               1100011000
+RABBIT RIDGE RD                                             1100011000
+RAILROAD ST                                                 1100211002
+RAILROAD ST                                                 1100411004
+RAILYARD RD                                                 1100311003
+RAMSEY PL                                                   1100011000
+RATTLESNAKE RD                                              1100011000
+RAYMOND STOKES RD                                           1100011000
+RENNIE RD                                                   1100011000
+RICHARD LN                                                  1100011000
+RIVER CHASE DR                                              1100011000
+ROB SHANKLIN RD                                             1100011000
+ROBBIES LN                                                  1100011000
+ROE RD                                                      1100011000
+ROGER Q MILL RD                                             1100011000
+ROY ADDISON RD                                              1100011000
+RUSSELL ST                                                  1100311003
+RUSSELLVILLE RD                                             1100011000
+RUSTY BROOK                                                 1100011000
+S ALLEN ST                                                  1100111001
+S BUTLER RD                                                 1100011000
+S EWING ST                                                  1100311003
+S KENNEDY ST                                                1100111001
+S LINCOLN ST                                                1100111001
+S MAIN ST                                                   1100111001
+S MAIN ST                                                   1100411004
+S PERRY ST                                                  1100111001
+S ROSENWALD ST                                              1100411004
+S STREETS AVE                                               1100111001
+S WEATHERS LN                                               1100111001
+S WILLIAMS LN                                               1100111001
+SADLER LN                                                   1100011000
+SALLY MCKINNEY RD                                           1100011000
+SAMMY MAYS RD                                               1100011000
+SANDERS LN                                                  1100011000
+SANFORD TUCKER CIR                                          1100011000
+SAWMILL RD                                                  1100011000
+SAWYERS RD                                                  1100011000
+SCOTT RD                                                    1100011000
+SEAY RD                                                     1100011000
+SHACKELFORD RD                                              1100011000
+SHALLOW LAKE CIR                                            1100011000
+SHANKLIN CEMETERY RD                                        1100011000
+SHANKLIN LN                                                 1100011000
+SHARON GROVE RD                                             1100011000
+SHELBY CALLOWAY RD                                          1100011000
+SHELBYS AVE                                                 1100111001
+SHEMWELL RD                                                 1100011000
+SHORT CUT RD                                                1100011000
+SID NABB RD                                                 1100011000
+SIMMONS LN                                                  1100011000
+SKIPWORTH RD                                                1100011000
+SLAUGHTER RD                                                1100011000
+SMITH RD                                                    1100011000
+SMITH ST                                                    1100311003
+SNARDON LN                                                  1100011000
+SNARDON MILL RD                                             1100011000
+SNEAD RD                                                    1100011000
+SPRING HILL RD                                              1100011000
+SPRING ST                                                   1100311003
+SPRINGMONT CIR                                              1100311003
+SPURLIN LN                                                  1100011000
+SQUIRE GROVES RD                                            1100011000
+STANDARD DR                                                 1100011000
+STANDARD DR                                                 1100111001
+STARNES RD                                                  1100011000
+STATE LINE RD                                               0710011000
+STATE LINE RD                                               1100011000
+STATE LINE RD                                               1100211002
+STATE ST                                                    1100311003
+STEVENS RD                                                  1100011000
+STOKES CHAPEL RD                                            1100011000
+STRADER SEARS RD                                            1100011000
+STRATTON RD                                                 1100011000
+STRINGTOWN RD                                               1100011000
+SUITER LN                                                   1100011000
+SUMMER ST                                                   1100011000
+SUMMER ST                                                   1100311003
+SUNAKER RD                                                  1100011000
+SUNSET DR                                                   1100111001
+TABERNACLE RD                                               1100011000
+TAYLOR ST                                                   1100311003
+TAYLORS CHAPEL RD                                           1100011000
+TED'S TRL                                                   1100411004
+TEMPLEMAN RD                                                1100011000
+TENNESSEE ST                                                1100311003
+TERRY LN                                                    1100011000
+THOMAS RD                                                   1100011000
+TINSLEY RD                                                  1100011000
+TODD DEERLICK RD                                            1100011000
+TOWER ST                                                    1100311003
+TRAUGHBER RD                                                1100011000
+TRESS SHOP LN                                               1100011000
+TRESS SHOP RD                                               1100011000
+TRICE ST                                                    1100411004
+TUCKER LN                                                   1100011000
+TURNER RD                                                   1100011000
+TUTT RD                                                     1100011000
+US68 BUS                                                    1100011000
+US79                                                        1100011000
+US79                                                        1100311003
+UTLEY RD                                                    1100011000
+W BIG POND RD                                               1100011000
+W GREENFIELD RD                                             1100011000
+W JEFFERSON DAVIS HIGHWAY CONNECTOR                         1100011000
+W JEFFERSON DAVIS HWY                                       1100011000
+W JEFFERSON ST                                              1100111001
+W MAIN ST                                                   1100011000
+W MAIN ST                                                   1100111001
+W MCREYNOLDS DR                                             1100111001
+W MULLIN RD                                                 1100011000
+W MULLIN ROAD CONNECTOR                                     1100011000
+W OAK ST                                                    1100411004
+W PARK ST                                                   1100311003
+W RUTH DR                                                   1100111001
+W SHELBY AVE                                                1100111001
+W WASHINGTON ST                                             1100111001
+W WELLS RD                                                  1100011000
+WADE LN                                                     1100211002
+WALKER LN                                                   1100011000
+WALNUT ST                                                   1100311003
+WALTUS TURNER LN                                            1100011000
+WARE RD                                                     1100011000
+WARREN ST                                                   1100311003
+WATER ST                                                    1100111001
+WATER TOWER RD                                              1100011000
+WATTS RD                                                    1100011000
+WEATHERS AVE                                                1100111001
+WELLS ST                                                    1100011000
+WELLS STRADER RD                                            1100011000
+WENDY LN                                                    1100011000
+WHEELER RD                                                  1100011000
+WHITE RD                                                    1100011000
+WHITEFEATHER LOOP                                           1100011000
+WHITEHOUSE RD                                               1100011000
+WILLIAMS HILL RD                                            1100011000
+WILLIE HALL RD                                              1100011000
+WILSON ST                                                   1100011000
+WILSON ST                                                   1100211002
+WILSON TONER RD                                             1100011000
+WINDING OAK RD                                              1100011000
+YEGGIE LN                                                   1100011000

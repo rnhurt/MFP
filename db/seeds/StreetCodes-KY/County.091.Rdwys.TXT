@@ -1,0 +1,316 @@
+1ST ST                                                      0910109101
+2ND ST                                                      0910109101
+4H CABIN NO2 RD                                             0910009100
+4H CABIN NO3 RD                                             0910009100
+4H CABIN NO4 RD                                             0910009100
+4H CABIN RD                                                 0910009100
+ABNERS MILL RD                                              0910009100
+ADAMS LN                                                    0910009100
+ALLEY NO2                                                   0910109101
+ALLEY NO3                                                   0910109101
+ALLEY NO4                                                   0910109101
+ALLEY NO5                                                   0910109101
+ALLEY NO6                                                   0910109101
+ALLEY NO7                                                   0910109101
+ALLEY NO8                                                   0910109101
+ANDERSON LN                                                 0910009100
+ANEMONE CT                                                  0910009100
+ARCHDEACON AVE                                              0910109101
+ARNOLD HTS                                                  0910109101
+ARROWHEAD CT                                                0910009100
+ASH ALY                                                     0910109101
+ASTOR DR                                                    0910009100
+AUTHOR RD                                                   0910009100
+AZALEA DR                                                   0910009100
+BAKERS DR                                                   0910109101
+BALD HILL RD                                                0910009100
+BARNETT LN                                                  0910009100
+BARTERVILLE CEMETERY RD                                     0910009100
+BARTERVILLE RD                                              0910009100
+BENTLEY LN                                                  0910009100
+BERRY RD                                                    0910009100
+BETHEL RD                                                   0910009100
+BOARD OF EDUCATION RD                                       0910109101
+BOBTOWN RD                                                  0910009100
+BOWLES LN                                                   0910009100
+BRETZ LN                                                    0910009100
+BROOKS ALY                                                  0910109101
+BROOKS LN                                                   0910109101
+BRUNKER TURNPIKE RD                                         0910009100
+BUCHANAN RD                                                 0910009100
+BUFFALO TRCE                                                0910009100
+BURNS BURRIS PIKE                                           0910009100
+BURNS PIKE                                                  0910009100
+BURRIS RD                                                   0910009100
+BUS CLARK RD                                                0910009100
+CALLA CT                                                    0910009100
+CAMP DR                                                     0910009100
+CAMPBELL LN                                                 0910009100
+CANE RUN RD                                                 0910009100
+CARDINAL LN                                                 0910109101
+CARDINALIS CT                                               0910009100
+CARNATION CT                                                0910009100
+CARPENTER RD                                                0910009100
+CASSIDY CREEK RD                                            0910009100
+CATHERINE ST                                                0910109101
+CATNIP CT                                                   0910009100
+CEMETERY RD                                                 0910109101
+CHICORY CT                                                  0910009100
+CHRISTIE CT                                                 0910109101
+CLAY WMA LOWER UNIT ROAD NO2                                0910009100
+CLAY WMA NO2 ROAD LOWER UNIT                                0910009100
+CLAY WMA NO2 ROAD UPPER UNIT                                0910009100
+CLAY WMA NO3 ROAD UPPER UNIT                                0910009100
+CLAY WMA ROAD LOWER UNIT                                    0910009100
+CLAY WMA UPPER UNIT RD                                      0910009100
+CLEMATIS CT                                                 0910009100
+CLIFFWAY DR                                                 0910109101
+CLINKENBEARD LN                                             0910109101
+CLOVER CT                                                   0910009100
+CLYDE SMITH RD                                              0910009100
+COLLIER RD                                                  0910009100
+COLUMBINE DR                                                0910009100
+CONCORD RD                                                  0910009100
+CONCORD TAYLORS CREEK RD                                    0910009100
+CONCRETE RD                                                 0910009100
+CONCRETE RD                                                 0910109101
+CONVICT RD                                                  0910009100
+CRAYTON RD                                                  0910009100
+CROCKETTE LN                                                0910009100
+CROOKED CREEK RD                                            0910009100
+DAY ALY                                                     0910109101
+DIXIE HWY                                                   0910009100
+DOG WALK RD                                                 0910009100
+DOGWOOD DR                                                  0910009100
+DORSEY AVE                                                  0910109101
+DOUGLAS CT                                                  0910109101
+DUNN RD                                                     0910009100
+DURHAM RD                                                   0910009100
+E CHESTNUT ST                                               0910109101
+E HIGH ST                                                   0910109101
+E MAIN ST                                                   0910109101
+E MORGAN ST                                                 0910109101
+E MULBERRY ST                                               0910109101
+E NORTH ST                                                  0910109101
+E RACE ST                                                   0910109101
+E TUREMAN AVE                                               0910109101
+E UNION RD                                                  0910009100
+ELDERBERRY DR                                               0910009100
+ELEANORE PL                                                 0910009100
+ELIZABETH AVE                                               0910009100
+EMMERT DR                                                   0910109101
+EVANS LN                                                    0910009100
+FLEMING CREEK RD                                            0910009100
+FOREST RETREAT LN                                           0910009100
+FOXGLOVE DR                                                 0910009100
+FRYMAN LN                                                   0910009100
+FUZZY BOTTOM LN                                             0910009100
+GARNETT RD                                                  0910009100
+GOEBEL WHITE LN                                             0910009100
+GOOSE CREEK PIKE                                            0910009100
+GRAVEL RD                                                   0910009100
+GREEN ACRES MOBILE HOME PARK                                0910009100
+GREEN GLENN ST                                              0910109101
+GREEN VALLEY RD                                             0910009100
+GREEN VALLEY RD                                             0910109101
+GREENMEADOW RD                                              0910009100
+HEADQUARTERS RD                                             0910009100
+HEAVEN LN                                                   0910009100
+HENRY ST                                                    0910109101
+HICK HARDY RD                                               0910009100
+HICKEY RD                                                   0910009100
+HICKORY RIDGE RD                                            0910009100
+HOLLOR RD                                                   0910009100
+HOLLY HILL RD                                               0910109101
+HORSEMILL LN                                                0910009100
+HOSPITAL RD                                                 0910109101
+HOUSE LN                                                    0910009100
+HOVER MALE LN                                               0910009100
+HUDNALL LN                                                  0910009100
+HUGHES LN                                                   0910009100
+HUNTER LN                                                   0910009100
+IRVINSVILLE RD                                              0910009100
+ISHMAEL CHAPEL RD                                           0910009100
+JACKSON LN                                                  0910009100
+JERDAN BRANCH RD                                            0910009100
+JOCKEY PARK                                                 0910009100
+JOHN BARNETT LN                                             0910009100
+JOHN DUNN RD                                                0910009100
+JOHN RITCHIE RD                                             0910009100
+JOHNSON RD                                                  0910009100
+JOLLY RD                                                    0910009100
+JUNIPER DR                                                  0910009100
+KALMIA DR                                                   0910009100
+KENNEDY HTS                                                 0910109101
+KIMS LN                                                     0910009100
+KIZZIE WAY                                                  0910009100
+LAKE CARNICO BOAT RAMP RD                                   0910009100
+LAKE DR                                                     0910009100
+LAKE RD                                                     0910009100
+LAKE RD                                                     0910109101
+LANG TREE LN                                                0910009100
+LAW BLVD                                                    0910009100
+LESTER PIKE                                                 0910009100
+LIBERTY ST                                                  0910109101
+LOCUST AVE                                                  0090200902
+LOCUST AVE                                                  0910009100
+LOCUST GROVE CEMETERY RD                                    0910009100
+LOCUST GROVE RD                                             0910009100
+LONG BRANCH RD                                              0910009100
+LONG RUN RD                                                 0910009100
+LOT YOUNG RD                                                0910009100
+LOWER CONCORD RD                                            0910009100
+LOWER JACKSTOWN RD                                          0910009100
+LOWER JACKSTOWN RD                                          0910109101
+LOWER SHARPSBURG RD                                         0910009100
+MAPLE AVE                                                   0090200902
+MAPLE GROVE RD                                              0910009100
+MARKET ST                                                   0910109101
+MARY LN                                                     0910009100
+MATHER LN                                                   0910109101
+MAYSVILLE RD                                                0910009100
+MCCORD RD                                                   0910009100
+MCCRACKEN ST                                                0910109101
+MEXICO RD                                                   0910009100
+MIKE SMITH RD                                               0910009100
+MILLER LN                                                   0910009100
+MILLER STATION LN                                           0910009100
+MILLER STATION RD                                           0910009100
+MILLERSBURG CARLISLE PIKE                                   0910009100
+MILLTOWN RD                                                 0910009100
+MINT RIDGE RD                                               0910009100
+MOCKINGBIRD LN                                              0910109101
+MOOREFIELD RD                                               0910009100
+MOOREFIELD RD                                               0910109101
+MORNING GLORY RD                                            0910009100
+MOUNT MARIAH RD                                             0910009100
+MT CARMEL RD                                                0910009100
+MT PLEASANT                                                 0910009100
+MT ZION RD                                                  0910009100
+MYERS RD                                                    0910009100
+N BROADWAY                                                  0910109101
+N EASTERN AVE                                               0910109101
+N ELM ST                                                    0910109101
+N JOHNSON RD                                                0910009100
+N LAKE SHORE DR                                             0910009100
+N LAKE SHORE DR                                             0910109101
+N LOCUST ST                                                 0910109101
+N PISGAH RD                                                 0910009100
+N SCHOOL AVE                                                0910109101
+N SYCAMORE ST                                               0910109101
+N WALNUT ST                                                 0910109101
+NATIONAL GUARD RD                                           0910109101
+NEEDMORE RD                                                 0910009100
+NICHOLAS COUNTY HIGH SCHOOL LOOP RD                         0910109101
+NICHOLAS COUNTY HIGH SCHOOL RD                              0910109101
+NICHOLAS COUNTY SCHOOL GARAGE RD                            0910109101
+NICHOLAS COUNTY SCHOOL RD                                   0910109101
+NICHOLAS COUNTY SCHOOL SERVICE RD                           0910109101
+NICHOLAS SQ                                                 0910109101
+OGDEN RD                                                    0910009100
+OLD BRUSHY FORK RD                                          0910009100
+OLD CITY HALL ALY                                           0910109101
+OLD KY 57 RD                                                0910009100
+OLD MAYSVILLE RD                                            0910009100
+OLD MAYSVILLE ROAD NO1                                      0910009100
+OLD MAYSVILLE ROAD NO1 CONNECTOR                            0910009100
+OLD MAYSVILLE ROAD NO2                                      0910009100
+OLD MAYSVILLE ROAD NO2 CONNECTOR                            0910009100
+OLD MAYSVILLE ROAD NO3                                      0910009100
+OLD MAYSVILLE ROAD NO3 CONNECTOR                            0910009100
+OLD MAYSVILLE ROAD NO4                                      0910009100
+OLD MAYSVILLE ROAD NO4 CONNECTOR                            0910009100
+OLD MAYSVILLE ROAD NO5                                      0910009100
+OLD MAYSVILLE ROAD NO6                                      0910009100
+OLD MOOREFIELD RD                                           0910009100
+OLD PARIS RD                                                0910009100
+OLD PARIS RD                                                0910109101
+OLD SUGAR CREEK RD                                          0910009100
+OLD US 68                                                   0910010100
+OLD US 68 CONNECTOR NO1                                     0910009100
+OLD US 68 CONNECTOR NO2                                     1010009100
+ORIOLE ST                                                   0910109101
+OX BOW RD                                                   0910009100
+PARIS LANE SPUR                                             0910009100
+PARIS LN                                                    0910009100
+PARK WEST END                                               0910109101
+PERSIMMON RIDGE RD                                          0910009100
+PICKERELL ST                                                0910109101
+PINE VIEW LN                                                0910109101
+PISGAH RD                                                   0910009100
+PLANK RUN                                                   0910009100
+PLEASANT SPRING BROKER                                      0910009100
+PLEASANT SPRING RD                                          0910009100
+PLEASENT VALLEY COMMUNITY CEMETERY RD                       0910009100
+POINT RD                                                    0910009100
+RAILROAD ST                                                 0910109101
+RANDOLPH LN                                                 0910109101
+RAY ST                                                      0910109101
+RAYNE ST                                                    0910109101
+REPUBLICAN PIKE                                             0910009100
+RICH ALY                                                    0910109101
+RICHIE RD                                                   0910009100
+ROBERT RICHER RD                                            0910009100
+ROBIN LN                                                    0910109101
+ROCKYTOP RD                                                 0910009100
+ROSE HILL RD                                                0910009100
+RUCK IRVIN LN                                               0910009100
+RULE RD                                                     0910009100
+S BROADWAY                                                  0910109101
+S ELM ST                                                    0910109101
+S JOHNSON RD                                                0910009100
+S LAKE SHORE DR                                             0910009100
+S LOCUST ST                                                 0910109101
+S SYCAMORE ST                                               0910109101
+S WALNUT ST                                                 0910109101
+SALTWELL BARTERVILLE RD                                     0910009100
+SALTWELL CEMETERY RD                                        0910009100
+SALTWELL HEADQUARTERS RD                                    0910009100
+SAM SMITH RD                                                0910009100
+SARAH DR                                                    0910009100
+SAWMILL RD                                                  0910009100
+SCHOOL AVE                                                  0910109101
+SCOTT RD                                                    0910009100
+SCRUBGRASS RD                                               0910009100
+SCRUBGRASS RD                                               0910109101
+SHANNON ST                                                  0910109101
+SHARON WAY                                                  0910109101
+SHARPSBURG RD                                               0910009100
+SHEPHERD HLS                                                0910109101
+SHEPHERD PL                                                 0910109101
+SHEPHERD PLACE SPUR                                         0910109101
+SHORT ALY                                                   0910109101
+SHORT ST                                                    0910109101
+SHORT STONEY RD                                             0910009100
+SNAKE RIDGE RD                                              0910009100
+SNAKE RIDGE SPUR                                            0910009100
+SOMERSET RD                                                 0910009100
+SPEASER LN                                                  0910009100
+SPRING ALY                                                  0910109101
+SPRING ST                                                   0910109101
+STATE GARAGE LN                                             0910109101
+STONEY CREEK RD                                             0910009100
+SUGAR CREEK RD                                              0910009100
+SUGAR TREE ALY                                              0910109101
+SUGARCREEK LN                                               0910009100
+SUGGS RD                                                    0910009100
+SYCAMORE EXT                                                0910109101
+TAYLOR CREEK RD                                             0910009100
+TOM GEORGE LANE SPUR                                        0910009100
+TOM GEORGE LN                                               0910009100
+TWIN OAKS LN                                                0910009100
+UPPER JACKSTOWN RD                                          0910009100
+UPPER LICK RD                                               0910009100
+UPPER SHARPSBURG RD                                         0910009100
+VEALE LN                                                    0910009100
+W CHESTNUT ST                                               0910109101
+W MAIN ST                                                   0910109101
+W MULBERRY ST                                               0910109101
+W NORTH ST                                                  0910109101
+WALNUT GROVE RD                                             0910009100
+WALTER FLORA LN                                             0910009100
+WALTON LN                                                   0910009100
+WASHINGTON ST                                               0910109101
+WATKINS LN                                                  0910009100
+WHETSTONE RD                                                0910009100
+YOUNG ST                                                    0910109101

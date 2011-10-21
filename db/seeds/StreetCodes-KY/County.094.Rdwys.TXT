@@ -1,0 +1,528 @@
+A DOTSON RD                                                 0940009400
+ADAMS BELLE CT                                              0940009400
+AGEE RD                                                     0940009400
+ALECIA CT                                                   0940009400
+ANGEL CT                                                    0940009400
+ASH ST                                                      0940009400
+ASHLEY CT                                                   0940009400
+AUSTIN LN                                                   0940009400
+AYRES EAGLE CREEK RD                                        0940009400
+BACKWATERS LN                                               0940009400
+BACON ALY                                                   0940109401
+BALL RIDGE RD                                               0940009400
+BALLARD LN                                                  0940509405
+BANKS RD                                                    0940009400
+BEACH RD                                                    0940009400
+BECK ST                                                     0940109401
+BELL LN                                                     0940009400
+BETHEL RIDGE RD                                             0940009400
+BEVERLY LN                                                  0940009400
+BIG TWIN CREEK RD                                           0940009400
+BLANCHE DAVIS RD                                            0940009400
+BLUE BIRD CT                                                0940009400
+BLUE BIRD LN                                                0940009400
+BLUE JAY CT                                                 0940009400
+BLUE JAY LN                                                 0940009400
+BOB WHITE LN                                                0940009400
+BOTTS ST                                                    0940109401
+BRADY BAY LN                                                0940009400
+BRAMBLETT RD                                                0940009400
+BRECK RD                                                    0940009400
+BREEZY POINT DR                                             0940009400
+BRIDGE ST                                                   0940509405
+BRIDGEHAVEN DR                                              0940009400
+BROWN ST                                                    0940709407
+BROWNS BOTTOM RD E                                          0940009400
+BROWNS BOTTOM RD W                                          0940009400
+BRUCE LN                                                    0940009400
+BRUSH CREEK RD                                              0940009400
+BUCKS RUN RD                                                0940009400
+BURFORD RD                                                  0940009400
+BURKES LN                                                   0940009400
+BURLEY LN                                                   0940009400
+BUTLER INN RD                                               0940009400
+BYRON JACOBS RD                                             0940009400
+CALENDAR RD                                                 0940009400
+CANARY LN                                                   0940009400
+CANBY LN                                                    0940009400
+CANBY LN E                                                  0940009400
+CANEY CREEK RD                                              0940009400
+CANEY VIEW LN                                               0940009400
+CANEY VIEW LN E                                             0940009400
+CANEY VIEW LN W                                             0940009400
+CARDINAL CT                                                 0940009400
+CARDINAL DR                                                 0940009400
+CARDINAL LN                                                 0940009400
+CARR LN                                                     0940009400
+CARROLL LN                                                  0940009400
+CARTER DR                                                   0940109401
+CASEY ST                                                    0940009400
+CECIL LN                                                    0940009400
+CECIL ST                                                    0940009400
+CEDAR CREEK RD                                              0940009400
+CEDAR RD                                                    0940009400
+CHARLES DR                                                  0940009400
+CHEROKEE CT                                                 0940009400
+CHERRY GROVE RD                                             0940009400
+CHERRY LN                                                   0940009400
+CHERRY ST                                                   0940109401
+CHICKADEE DR                                                0940009400
+CLAXON RIDGE RD                                             0940009400
+CLAY LICK RD                                                0940009400
+CLAY LICK SOUTH                                             0940009400
+CLAY LICK SOUTH                                             0940709407
+CLIFFORD LN                                                 0940009400
+CLIFTON LN                                                  0940009400
+CLYDE ST                                                    0940509405
+CONNECTOR                                                   0940009400
+COOK RD                                                     0940009400
+COUNTY LINE EAST RD                                         0940009400
+COUNTY LINE WEST RD                                         0940009400
+CRITTENDEN ST                                               0940709407
+CROSS ROAD PIKE                                             0940009400
+CRYSTAL CT                                                  0940009400
+CUBBAGE AVE                                                 0940109401
+CULL PEPPER PIKE                                            0940009400
+CULL RD                                                     0940009400
+DANA LN                                                     0940009400
+DAVIS LAKE NO1                                              0940009400
+DAVIS LAKE NO2                                              0940009400
+DAVIS LAKE RD                                               0940009400
+DICKEY LN                                                   0940009400
+DIVIDE RIDGE RD                                             0940009400
+DOE RUN RD                                                  0940009400
+DOG WALK RD                                                 0940009400
+DOGWOOD DR                                                  0940009400
+DREAMY WAY                                                  0940009400
+DRENNON BELLE CT                                            0940009400
+DRIFTWOOD CT                                                0940009400
+DUDLEY PIKE                                                 0940009400
+DUKE AVE                                                    0940109401
+DUKE AVENUE CONNECTOR                                       0940109401
+DUNCAN HILL RD                                              0940009400
+DUTCH ROW RD                                                0940009400
+DUVALL DR                                                   0940009400
+DUVALL RD                                                   0940009400
+E ADAIR ST                                                  0940009400
+E ADAIR ST                                                  0940109401
+E BLANTON ST                                                0940109401
+E OAK ST                                                    0940009400
+E PERRY ST                                                  0940109401
+E RANSDELL ST                                               0940109401
+E SEMINARY ST                                               0940109401
+E SHORE CIR                                                 0940009400
+E TIMBERWOOD ST                                             0940009400
+EAGLE CREEK CIRCLE RD                                       0940009400
+EAGLE CREEK DR                                              0940009400
+EAGLE HILL RD                                               0940009400
+EAGLE LANE EXT                                              0940009400
+EAGLE LN                                                    0940009400
+EAGLE STATION RD                                            0940009400
+EAGLE VALLEY RD                                             0940009400
+EAGLE VALLEY ROAD SPUR                                      0940009400
+EAGLE VALLEY ROAD SPUR NO2                                  0940009400
+EAGLE VALLEY ROAD SPUR NO3                                  0940009400
+EAGLE VALLEY ROAD SPUR NO4                                  0940009400
+EAGLE VALLEY ROAD SPUR NO5                                  0940009400
+EAGLE VALLEY ROAD SPUR NO6                                  0940009400
+EAGLE VIEW LN                                               0940009400
+EDEN SHALE RD                                               0940009400
+ELK LAKE RESORT RD                                          0940009400
+ELM ST                                                      0940009400
+ELMER DAVIS DAM RD                                          0940009400
+ELMER WILLIS RD                                             0940009400
+ENTRANCE DR                                                 0940009400
+EVANWOOD DR                                                 0940009400
+FAIRBOURNE LN                                               0940009400
+FAIRGROUNDS RD                                              0940009400
+FAIRVIEW DR                                                 0940009400
+FAIRVIEW RD                                                 0940009400
+FAIRWAY CT                                                  0940009400
+FAIRWAY DR                                                  0940009400
+FAIRWAY LN                                                  0940009400
+FINCH CT                                                    0940009400
+FINCH LN                                                    0940009400
+FIR ST                                                      0940009400
+FIRE HOUSE DR                                               0940009400
+FLAMINGO CT                                                 0940009400
+FLAMINGO DR                                                 0940009400
+FLAMINGO LN                                                 0940009400
+FORD ST                                                     0940109401
+FORSEE ST                                                   0940109401
+FORTNER RIDGE RD                                            0940009400
+FOX TRL                                                     0940009400
+FRANK CLARK RD                                              0940009400
+GAINES AVE                                                  0940109401
+GAINES VILLAGE DR                                           0940009400
+GAINES VILLAGE DR                                           0940109401
+GARNETT LN                                                  0940009400
+GAYLE AVE                                                   0940109401
+GEORGETOWN RD                                               0940009400
+GESS ST                                                     0940109401
+GILLS BRANCH RD                                             0940009400
+GLASS DR                                                    0940009400
+GLASS LN                                                    0940009400
+GLASS LN W                                                  0940009400
+GLEN DR                                                     0940009400
+GOLD FINCH LN                                               0940009400
+GOLDEN CIRCLE RD                                            0940009400
+GOLDS VALLEY RD                                             0940009400
+GOOSE CREEK RD                                              0940009400
+GRATZ CEMETARY RD                                           0940009400
+GRATZ RD                                                    0940009400
+GRATZ RD                                                    0940109401
+GREEN ACRES RD                                              0940009400
+GREEN MEADOW RD                                             0940009400
+GREENE RD                                                   0940009400
+GREENUP RD                                                  0940009400
+GREYSTONE LN                                                0940009400
+HAMMOND RD                                                  0940009400
+HAMMOND SCHOOL RD                                           0940009400
+HANDY LN                                                    0940009400
+HARBORSIDE DR                                               0940009400
+HARLAN ST                                                   0940709407
+HARMONY RD                                                  0940009400
+HARRIS RIDGE RD                                             0940009400
+HART ST                                                     0940009400
+HAWK VIEW LN                                                0940009400
+HAZELTON SOUTH RD                                           0940009400
+HEATH LN                                                    0940009400
+HEATHER HILL DR                                             0940009400
+HELMS ST                                                    0940009400
+HENSLEY LN                                                  0940009400
+HERMAN GREENE RD                                            0940009400
+HICKORY RD                                                  0940009400
+HICKORY ST                                                  0940009400
+HIDDEN VIEW LN                                              0940009400
+HIDE A WAY CT                                               0940009400
+HIDE A WAY DR                                               0940009400
+HIGH ST                                                     0940509405
+HIGHSCHOOL DR                                               0940009400
+HILE ST                                                     0940009400
+HILLCREST DR                                                0940009400
+HILLCREST ST                                                0940509405
+HILLWOOD RD                                                 0940009400
+HOLBROOK ST                                                 0940109401
+HOLIDAY CT                                                  0940009400
+HORIZON HOMES                                               0940009400
+HOWARD ELLIS RD                                             0940009400
+HUDGINS LN                                                  0940009400
+HUDSON LANE CONNECTOR                                       0940009400
+HUDSON LN                                                   0940009400
+HUMMINGBIRD LN                                              0940009400
+HUNTER LN                                                   0940009400
+HUNTERS LN                                                  0940009400
+INDIAN CREEK RD                                             0940009400
+INDIAN CREEK TERESITA RD                                    0940009400
+INDUSTRIAL PARK RD                                          0940009400
+INVERNESS RD                                                0940009400
+J N LEE RD                                                  0940009400
+J PRUETT LN                                                 0940009400
+J S LN                                                      0940009400
+J SAYLOR RD W                                               0940009400
+JACKIE LN                                                   0940009400
+JACKIE LYNN RD                                              0940009400
+JANSEN TRCE                                                 0940009400
+JEWEL AVE                                                   0940009400
+JODIE TRAVIS LN                                             0940009400
+JOHN WAYNE TRL                                              0940009400
+JONES HILL RD                                               0940109401
+JONES RD                                                    0940009400
+JONESVILLE RD                                               0940009400
+JUNIPER RD                                                  0940009400
+KARSNER LN                                                  0940009400
+KAYS BRANCH RD                                              0940009400
+KEEFER RD                                                   0940009400
+KEITH LN                                                    0940009400
+KELLY CT                                                    0940109401
+KEMPER LN                                                   0940009400
+KERNS LN                                                    0940009400
+KET TOWER RD                                                0940009400
+KINCAID LN                                                  0940009400
+KING LN                                                     0940009400
+KY1316                                                      0940009400
+KY1669                                                      0940009400
+KY22 E                                                      0940009400
+KY227 N                                                     0940009400
+KY325                                                       0940009400
+KY330                                                       0940009400
+KY35                                                        0390203902
+KY35                                                        0940009400
+KY355                                                       0940009400
+KY355                                                       0940709407
+KY36                                                        0940009400
+LAKE SHORE CIR                                              0940009400
+LAKE SHORE CV                                               0940009400
+LAKE SHORE LOOP                                             0940009400
+LAKESHORE DR                                                0940009400
+LAKEVIEW CIR                                                0940009400
+LAKEVIEW DR                                                 0940009400
+LAURA LN                                                    0940009400
+LEAD MINE RD                                                0940009400
+LEANING OAK RD                                              0940009400
+LEE ST                                                      0940009400
+LEEWARD CT                                                  0940009400
+LEWIS LN                                                    0940009400
+LIBERTY RIDGE                                               0940009400
+LOCK NO3 RD                                                 0940009400
+LOCUST ALY                                                  0940109401
+LOCUST DR                                                   0940009400
+LOCUST ST                                                   0940009400
+LONG RIDGE EST                                              0940009400
+LOWDENBACK RD                                               0940009400
+LUCAS LN                                                    0940009400
+LUSBY MILL CONNECTOR                                        0940009400
+LUSBY MILL LN                                               0940009400
+LYNN LN                                                     0940009400
+LYONS LN                                                    0940009400
+MADDOX RD                                                   0940009400
+MADISON ST                                                  0940109401
+MAIN ST                                                     0940109401
+MAIN ST                                                     0940709407
+MAIN STREET BRIDGE                                          0940709407
+MANLEY RD                                                   0940009400
+MAPLE DR                                                    0940009400
+MAPLE ST                                                    0940009400
+MARKER LN                                                   0940009400
+MARSHALL PIKE                                               0940009400
+MARTIN LN                                                   0940009400
+MASON ESTATES DR                                            0940009400
+MASON LN                                                    0940009400
+MAVIS LN                                                    0940009400
+MCDOWELL LN                                                 0940009400
+MCDOWELLS BRANCH RD                                         0940009400
+MCGEE LN                                                    0940009400
+MELVIN O BANION LN                                          0940009400
+MILLER LN                                                   0940009400
+MINT SPRINGS RD                                             0940009400
+MOCKINGBIRD LN                                              0940009400
+MONTEREY PIKE                                               0940009400
+MONTEREY PIKE                                               0940509405
+MORGADORA CONNECTOR RD                                      0940009400
+MORGADORA RD                                                0940009400
+MORGADORA ROAD SPUR                                         0940009400
+MORGANS LN                                                  0940009400
+MOSBY CREEK RD                                              0940009400
+MOUNT HEBRON CHURCH RD                                      0940009400
+MOUNTAIN ISLAND RD                                          0940009400
+MUSSELL SHOALS RD                                           0940009400
+N ADAMS ST                                                  0940109401
+N MADISON ST                                                0940109401
+N MAIN ST                                                   0940109401
+N THOMAS ST                                                 0940109401
+NATLEE SLATIN RD                                            0940009400
+NEW COLUMBUS RD                                             0940009400
+NEW LIBERTY SPARTA RD                                       0940009400
+NEW LIBERTY TPKE                                            0940009400
+NIM SMITH RD                                                0940709407
+NOEL LN                                                     0940009400
+NORTH ST                                                    0940109401
+OAK RD                                                      0940009400
+OBANION LANE SPUR                                           0940009400
+OBANION LN                                                  0940009400
+OBBIE COOK DR                                               0940009400
+OLD ARLON RD                                                0940009400
+OLD BEECHWOOD RD                                            0940009400
+OLD BRUSH CREEK RD                                          0940009400
+OLD COLUMBUS RD                                             0940009400
+OLD FRANKFORT PIKE                                          0940009400
+OLD GRATZ RD                                                0940009400
+OLD GREENUP PIKE                                            0940009400
+OLD KENNEY RD                                               0940009400
+OLD KY 22                                                   0940009400
+OLD KY 22 CONNECTOR E                                       0940009400
+OLD KY 227                                                  0940009400
+OLD KY 35                                                   0940009400
+OLD KY 355                                                  0940009400
+OLD LANDING RD                                              0940009400
+OLD MONTEREY RD                                             0940009400
+OLD MOXLEY RD                                               0940009400
+OLD NEW LIBERTY RD                                          0940009400
+OLD OWENTON GEORGETOWN RD                                   0940009400
+OLD PLEASANT GROVE RD                                       0940009400
+OLD SPARTA RD                                               0390203902
+OLD SPARTA RD                                               0940009400
+OLD SWEET OWEN RD                                           0940009400
+OLD TERESITA RD                                             0940009400
+OLD US 127 LOOP NO1                                         0940009400
+OLD US 127 LOOP NO1 CONNECTOR                               0940009400
+OLD US 127 LOOP NO1A                                        0940009400
+OLD US 127 LOOP NO1A CONNECTOR                              0940009400
+OLD US 127 LOOP NO2                                         0940009400
+OLD US 127 LOOP NO2 CONNECTOR                               0940009400
+OLD US 127 LOOP NO3                                         0940009400
+OLD US 127 LOOP NO4                                         0940009400
+OLD US 127 LOOP NO5                                         0940009400
+OLD US 127 LOOP NO6 N                                       0940009400
+OLD US 127 LOOP NO6 S                                       0940009400
+OLD US 127 LOOP NO7                                         0940009400
+OLD US 127 LOOP NO8                                         0940009400
+OLD US 127 LOOP NO9                                         0940009400
+OLD US 127 RD N                                             0940009400
+ORIOLE DR                                                   0940009400
+ORR CIR                                                     0940009400
+OWEN COUNTY EXTENSION DR                                    0940009400
+OWEN ELECTRIC DR                                            0940009400
+OWEN ELECTRIC DRIVE SPUR                                    0940009400
+OWENTON RD                                                  0410009400
+OWENTON RD                                                  0940009400
+OWL CT                                                      0940009400
+PARK RIDGE RD                                               0940009400
+PARKER ALY                                                  0940109401
+PARTS LN                                                    0940009400
+PAYNES RUN RD                                               0940009400
+PAYTONS RIDGE RD                                            0940009400
+PENNINGTON LN                                               0940009400
+PERCY ST                                                    0940009400
+PERRY PARK DR                                               0940009400
+PERRY PARK RESORT HOTEL LN                                  0940009400
+PHIL HAWKINS LN                                             0940009400
+PIERSON CEMETERY RD                                         0940009400
+PILOTSEAM DR                                                0940009400
+PINE ST                                                     0940009400
+PLEASANT GROVE RD                                           0940009400
+PLEASANT VIEW CEMETARY RD                                   0940009400
+PLUMMER BRANCH RD                                           0940009400
+POE RD                                                      0940009400
+POINT OF ROCK RD                                            0940009400
+POINT OF ROCK RD                                            0940509405
+PORTER RD                                                   0940009400
+PROCTOR LN                                                  0940009400
+PUMP STATION RD                                             0940009400
+QUISSENBERRY PIKE                                           0940009400
+R HAZELTON RD                                               0940009400
+R SHARON RD                                                 0940009400
+R STEWART LN                                                0940009400
+RAVEN RD                                                    0940009400
+RED BIRD CT                                                 0940009400
+RED BIRD LN                                                 0940009400
+RED BUD DR                                                  0940009400
+RED BUD ST                                                  0940009400
+RED HAWK LN                                                 0940009400
+RED OAK RD                                                  0940009400
+RED THORN LANE SPUR                                         0940009400
+RED THORN LN                                                0940009400
+REUBEN LEWIS RD                                             0940009400
+RIDDLE RIDGE                                                0940009400
+RIDGEVIEW LN                                                0940009400
+RISCH RD                                                    0940009400
+RIVER FRONT ST                                              0940009400
+RIVER FRONT ST                                              0940709407
+RIVER RD                                                    0940009400
+RIVERSIDE DR                                                0940009400
+RIVERVIEW RD                                                0940009400
+ROBERTS LN                                                  0940009400
+ROBIN DR                                                    0940109401
+ROBIN LN                                                    0940009400
+ROBIN RD                                                    0940009400
+ROCK LN                                                     0940009400
+ROCKDALE RD                                                 0940009400
+ROCKY LN                                                    0940009400
+ROLAND AVE                                                  0940109401
+ROLAND RD                                                   0940009400
+ROSE BOURNE ST                                              0940009400
+ROSE CT                                                     0940109401
+ROSE HILL LN                                                0940009400
+ROSE LANE ELK LAKE                                          0940009400
+ROSE LN                                                     0940009400
+ROYCE LN                                                    0940009400
+S MADISON ST                                                0940109401
+S MAIN ST                                                   0940109401
+S SHORE CIR                                                 0940009400
+S THOMAS ST                                                 0940109401
+SALT WELL LN                                                0940009400
+SAP ST                                                      0940009400
+SARA CT                                                     0940009400
+SAWDRIDGE CREEK RD                                          0940009400
+SAWDRIDGE CREEK RD E                                        0940009400
+SAWDRIDGE LN                                                0940009400
+SCOTT DR                                                    0940009400
+SCOTT ST                                                    0940009400
+SEVERN CREEK RD                                             0940009400
+SHADY LANE CONNECTOR                                        0940009400
+SHADY LANE CONNECTOR E                                      0940009400
+SHADY LANE CONNECTOR W                                      0940009400
+SHADY LN                                                    0940009400
+SHARON GLASS LN                                             0940009400
+SHARP LN                                                    0940009400
+SHILOH RD                                                   0940009400
+SHIRLEY LN                                                  0940009400
+SLAB LICK RD                                                0940009400
+SLATIN RD                                                   0940009400
+SLIPPERY ROCK RD                                            0940009400
+SMITH LN                                                    0940009400
+SMITHER ALY                                                 0940109401
+SNAKE LN                                                    0940009400
+SNELL RD                                                    0940009400
+SNOW BIRD LN                                                0940009400
+SOLOMANS LN                                                 0940009400
+SOLOMANS RD                                                 0940009400
+SOUTH FORK CHURCH RD                                        0940009400
+SOUTH FORK RD                                               0940009400
+SPARROW LN                                                  0940009400
+SPRINGPORT COURT RD                                         0940009400
+SPRINGPORT DR                                               0940009400
+SPRINGPORT FERRY RD                                         0940009400
+SQUIRESVILLE RD                                             0940009400
+STEWART LN                                                  0940009400
+STEWART RIDGE RD                                            0940009400
+STEWART RIDGE ROAD SPUR                                     0940009400
+SUNRISE DR                                                  0940009400
+SUNSET DR                                                   0940109401
+SWALLOW DR                                                  0940009400
+SWAN CT                                                     0940009400
+SWAN DR                                                     0940009400
+SWEET OWEN RD                                               0940009400
+SWITZER LN                                                  0940009400
+SWOPE NATLEE EAST RD                                        0940009400
+SWOPE RD                                                    0940009400
+TANGLEWOOD LN                                               0940009400
+TAYLOR ASH DR                                               0940009400
+TAYLOR ST                                                   0940509405
+TERESITA RD                                                 0940009400
+THOMAS CIRCLE RD                                            0940009400
+THOMNER TRAILER PARK RD                                     0940009400
+THOMNER TRAILER PARK RD W                                   0940009400
+THRUSH CT                                                   0940009400
+TODD LN                                                     0940009400
+TOLBERT LN                                                  0940009400
+TOMLIN LN                                                   0940009400
+TOMMY REED RD                                               0940009400
+TOWLES RD                                                   0940009400
+TRUE LN                                                     0940009400
+TRUE RD                                                     0940009400
+TURKEY RIDGE RD                                             0940009400
+TWO MILE RD                                                 0940009400
+US127 N                                                     0940009400
+US127 S                                                     0940009400
+US127 S                                                     0940109401
+VANCE O BANION LN                                           0940009400
+W ADAIR ST                                                  0940109401
+W BLANTON ST                                                0940109401
+W BRYAN ST                                                  0940109401
+W OAK ST                                                    0940009400
+W PERRY ST                                                  0940109401
+W SEMINARY ST                                               0940109401
+W TIMBERWOOD ST                                             0940009400
+WAINSCOTT ST                                                0940509405
+WALNUT RD                                                   0940009400
+WATER PLANT LN                                              0940009400
+WATERFORD RD                                                0940009400
+WAVERLY RD                                                  0940709407
+WEBB RD                                                     0940009400
+WHIPPOORWILL LN                                             0940009400
+WHIPPOORWILL RD                                             0940009400
+WILD DEER RD                                                0940009400
+WILDERNESS RD                                               0940009400
+WILHOITE RD                                                 0940009400
+WILLOW LN                                                   0940009400
+WILSON LN                                                   0940009400
+WINDY HILL CT                                               0940009400
+WOOD ALY                                                    0940109401
+WOODPECKER LN                                               0940009400
+WORTH ST                                                    0940509405
+WREN DR                                                     0940009400
+WREN LN                                                     0940009400
+WRIGHT LN                                                   0940009400
+ZEBRA LN                                                    0940009400
+ZION HILL RD                                                0940009400

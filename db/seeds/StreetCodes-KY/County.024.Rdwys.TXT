@@ -1,0 +1,1932 @@
+1ST ST                                                      0240002400
+1ST STREET EXT                                              0240102401
+28TH ST                                                     0240002400
+29TH ST                                                     0240002400
+2ND ST                                                      0240002400
+30TH ST                                                     0240002400
+31ST ST                                                     0240002400
+32ND ST                                                     0240002400
+33RD ST                                                     0240002400
+34TH ST                                                     0240002400
+35TH ST                                                     0240002400
+36TH ST                                                     0240002400
+37TH ST                                                     0240002400
+38TH ST                                                     0240002400
+39TH ST                                                     0240002400
+3RD ST                                                      0240002400
+40TH ST                                                     0240002400
+41ST ST                                                     0240002400
+42ND ST                                                     0240002400
+44TH ST                                                     0240002400
+46TH ST                                                     0240002400
+47TH ST                                                     0240002400
+49TH ST                                                     0240002400
+4TH ST                                                      0240002400
+51ST ST                                                     0240002400
+52ND ST                                                     0240002400
+53RD ST                                                     0240002400
+55TH ST                                                     0240002400
+56TH ST                                                     0240002400
+57TH ST                                                     0240002400
+58TH ST                                                     0240002400
+59TH ST                                                     0240002400
+5TH ST                                                      0240002400
+6TH ST                                                      0240002400
+A C COOKSEY RD                                              0240002400
+A DANIELS RD                                                0240002400
+A J DRAPER RD                                               0240002400
+A JORDAN RD                                                 0240002400
+A SHAU VALLEY RD                                            0240002400
+ACADEMY DR                                                  0240102401
+ACORN WAY                                                   0240102401
+ADAM ST                                                     0240102401
+ADAMS AVE                                                   0240102401
+ADAMS CT                                                    0240102401
+ADAMS DR                                                    0240002400
+ADAMS DR                                                    0240102401
+ADAMS ST                                                    0240502405
+ADAMS STORE EXTENSION RD                                    0240002400
+ADAMS STORE POOLE MILL RD                                   0240002400
+ADAMS STORE RD                                              0240002400
+AGNES ST                                                    0240502405
+AGRANT CT                                                   0240102401
+AIRIE WAY                                                   0240102401
+AIRPORT RD                                                  0240102401
+ALABAMA AVE                                                 0240502405
+ALAN CT                                                     0240502405
+ALLEN ST                                                    0240502405
+ALLEY                                                       0240102401
+ALLISON DR                                                  0240102401
+ALTSHELER DR                                                0240102401
+ALUMNI AVE                                                  0240102401
+ALYSHEBA CT                                                 0240002400
+AMANDA DR                                                   0240102401
+ANDERSON AVE                                                0240102401
+ANDERSON RD                                                 0240002400
+ANDREW DR                                                   0240102401
+ANGELA LN                                                   0240502405
+ANGELS RD                                                   0240002400
+ANNETTE CT                                                  0240102401
+ANNIE MACK RD                                               0240002400
+ANTHONY DR                                                  0240102401
+ANTIOCH CHURCH RD                                           0240002400
+ANTIOCH EXT                                                 0240002400
+APACHE DR                                                   0240102401
+APACHE TRAIL SPUR                                           0240002400
+APACHE TRL                                                  0240002400
+APEX LOOP                                                   0240002400
+APEX ORANGE GROVE RD                                        0240002400
+APEX WHITE PLAINS RD                                        0240002400
+ARDEN PL                                                    0240102401
+ARIZONA AVE                                                 0240002400
+ARKANSAS AVE                                                0240502405
+ARROW CIR                                                   0240502405
+ARTIC AVE                                                   0240502405
+ARTILLERY RD                                                0240002400
+ASHBURY CIR                                                 0240102401
+ASHBY LN                                                    0240002400
+ASHLEY CT                                                   0240102401
+ASHLEY ST                                                   0240502405
+ASHWORTH CIR                                                0240102401
+ASKEW RD                                                    0240002400
+ASKEW SERVICE RD                                            0240002400
+ASKEW SERVICE RD                                            0240102401
+ASPEN DR                                                    0240102401
+ATKINS AVE                                                  0240102401
+ATKINSON RD                                                 0240002400
+ATKINSON SCHOOLHOUSE RD                                     0240002400
+ATLANTIC AVE                                                0240502405
+AUBURN ST                                                   0240502405
+AUSTIN AVE                                                  0240002400
+AUSTIN WAY                                                  0240102401
+AVALON BLVD                                                 0240102401
+AVALON HLS                                                  0240102401
+AVONDALE RD                                                 0240502405
+B AVE                                                       0240002400
+BABB AVE                                                    0240102401
+BABB LN                                                     0240102401
+BABINE AVE                                                  0240002400
+BABINE AVE                                                  0241002410
+BAHAMA DR                                                   0240102401
+BAHAMA DRIVE BAY                                            0240102401
+BAILEY LN                                                   0240002400
+BAINBRIDGE LOOP                                             0240002400
+BAINBRIDGE RD                                               0240002400
+BAKER HILL RD                                               0240102401
+BANKS RD                                                    0240002400
+BARBERRY DR                                                 0240102401
+BARDWELL LN                                                 0240002400
+BARK RIDGE CIR                                              0240102401
+BARK RIDGE CT                                               0240102401
+BARKERS MILL RD                                             0240002400
+BARKLEY LAKE CT                                             0240102401
+BARNETT RD                                                  0240002400
+BARNEY DR                                                   0240102401
+BARNSIDE CT                                                 0240002400
+BARROW ST                                                   0240102401
+BASSETT ST                                                  0240102401
+BASTOGNE AVE                                                0240002400
+BATH HOUSE LOOP                                             0240002400
+BATH HOUSE LOOP CUT THROUGH                                 0240002400
+BAUER DR                                                    0240002400
+BEACH RD                                                    0240002400
+BEAUMONT CT                                                 0240102401
+BEECH ST                                                    0240102401
+BEEKER RD                                                   0240002400
+BEERS ST                                                    0240002400
+BELEW ST                                                    0240502405
+BELL CHAPEL RD                                              0240002400
+BELL RD                                                     0240002400
+BELL ST                                                     0240102401
+BELL STATION RD                                             0240002400
+BELL STATION SPUR                                           0240002400
+BELMONT ST                                                  0240102401
+BENJAMIN LN                                                 0240002400
+BENNETTSTOWN ST                                             0240002400
+BENNETTSTOWN TAYLOR RD                                      0240002400
+BENTLEY ST                                                  0240102401
+BERNE DR                                                    0240502405
+BETH DR                                                     0240502405
+BETHEL ST                                                   0240102401
+BETTY ST                                                    0240502405
+BEVERLY SOUTH RD                                            0240002400
+BIG BLUE CT                                                 0240102401
+BILL BRYAN BLVD                                             0240102401
+BILLY GOAT HILL RD                                          0240002400
+BILLY POOLE RD                                              0240002400
+BILLY ROGERS RD                                             0240002400
+BILYEU DR                                                   0240102401
+BINNS MILL RD                                               0240002400
+BIRCHWOOD BLVD                                              0240002400
+BLACK OAK CT                                                0240102401
+BLACK OAK LN                                                0240102401
+BLACKHAWK RD                                                0240002400
+BLAKELY ST                                                  0240002400
+BLANE DR                                                    0240102401
+BLOOMING GROVE RD                                           0240102401
+BLUE SCHOOL RD                                              0240002400
+BLUEBIRD CT                                                 0240102401
+BLUFF SPRINGS RD                                            0240002400
+BOALES ST                                                   0240102401
+BOB WHITE TRL                                               0240502405
+BOBBY STEWART RD                                            0240002400
+BODDIE RD                                                   0240002400
+BOND RD                                                     0240002400
+BOSTICK DR                                                  0240102401
+BOXWOOD DR                                                  0240102401
+BOYD LN                                                     0240102401
+BOYD MINE RD                                                0240002400
+BOYD RD                                                     0240002400
+BOYD ST                                                     0240102401
+BRABOYS DR                                                  0240502405
+BRADEN ST                                                   0240102401
+BRADLEY CT                                                  0240102401
+BRADSHAW FIDELIO RD                                         0240002400
+BRADSHAW PIKE EXT                                           0240102401
+BRADSHAW RD                                                 0240002400
+BRADSHAW RD                                                 0240102401
+BRADSHAW ST                                                 0240102401
+BRADY LN                                                    0240002400
+BRAME DR                                                    0240102401
+BRANDI CT                                                   0240502405
+BRANDYWINE CT                                               0240102401
+BREANNA ST                                                  0240502405
+BREATHITT ST                                                0240102401
+BREKEIS LN                                                  0240002400
+BRENDA ST                                                   0240502405
+BRENTWOOD DR                                                0240102401
+BRIARWOOD DR                                                0240102401
+BRIDLE WAY                                                  0240102401
+BRIGHTON WAY                                                0240002400
+BRINKLEY STORE RD                                           0240002400
+BRITMART RD                                                 0240002400
+BROAD ST                                                    0240102401
+BROCK AVE                                                   0240102401
+BROWN ST                                                    0240102401
+BROWNING PL                                                 0240102401
+BRUCE BLVD                                                  0240002400
+BRUCE VIEW CIR                                              0240102401
+BRYAN AVE                                                   0241002410
+BRYAN ST                                                    0240102401
+BRYAN STREET EXT                                            0240102401
+BUCK FORD RIVER RD                                          0240002400
+BUCK MITCHELL RD                                            0240002400
+BUCKLEY DR                                                  0240102401
+BUCKNER DR                                                  0240102401
+BUCKSHOT DR                                                 0240502405
+BUDDY ST                                                    0240502405
+BUFFALO RD                                                  0240002400
+BULLARD RD                                                  0240002400
+BUMPUS MILL RD                                              0240002400
+BUMPUS MILL RD                                              0240502405
+BURCH ST                                                    0240002400
+BURLEY AVE                                                  0240102401
+BUSH AVE                                                    0240502405
+BUSH LN                                                     0240002400
+BUSSELL ST                                                  0240102401
+BUTLER RD                                                   0240002400
+BUTLER RD                                                   0240102401
+BUTTERMILK RD                                               0240002400
+BUTTS CT                                                    0240002400
+C AVE                                                       0240002400
+CABLE RD                                                    0240502405
+CABLE ROAD EXT                                              0240502405
+CADIZ NO1 RD                                                0240002400
+CADIZ NO2 RD                                                0240002400
+CADIZ NO3 RD                                                0240002400
+CADIZ ROAD NO1                                              0240002400
+CADIZ ROAD NO2                                              0240002400
+CADIZ ROAD NO2 CONNECTOR                                    0240002400
+CADIZ ROAD NO3                                              0240002400
+CADIZ ROAD NO3 CONNECTOR                                    0240002400
+CADIZ ROAD NO3 CONNECTOR NO2                                0240002400
+CALEDONIA PEEDEE RD                                         0240002400
+CALVIN DR                                                   0240102401
+CALVIN MANOR APARTMENTS                                     0240102401
+CALVIN MANOR APARTMENTS DR                                  0240102401
+CALVIN MANOR APARTMENTS SPUR                                0240102401
+CAMBRIDGE DR                                                0240102401
+CAMILLA DR                                                  0240102401
+CAMPBELL CEMETERY RD                                        0240002400
+CAMPBELL CT                                                 0240002400
+CAMPBELL RD                                                 0240002400
+CAMPING LOOP                                                0240002400
+CAMPING LOOP NO2                                            0240002400
+CAMPING LOOP NO3                                            0240002400
+CANDY DR                                                    0240102401
+CANSAS DR                                                   0240102401
+CANSLER SUBDIVISION RD                                      0240002400
+CANTON PIKE                                                 0240002400
+CANTON PIKE                                                 0240102401
+CANTON RD                                                   0240002400
+CANTON ST                                                   0240102401
+CARAMEL DR                                                  0240102401
+CARBONDALE DR                                               0240502405
+CARDINAL DR                                                 0240102401
+CARL CEMETERY RD                                            0240002400
+CARL SMITH RD                                               0240002400
+CARL WILLIAMS RD                                            0240002400
+CARLA DR                                                    0240102401
+CARLEIGH JEAN LN                                            0240502405
+CARMICHAEL CT                                               0240102401
+CARNEAL LN                                                  0240002400
+CARNEAL LN                                                  0240502405
+CAROL DR                                                    0240502405
+CAROLINE DR                                                 0240502405
+CARRIAGE WAY RD                                             0240102401
+CARTER RD                                                   0240002400
+CARTER ST                                                   0240102401
+CARTER ST                                                   0240502405
+CARY BRIDGE RD                                              0240002400
+CASKEY CHURCH RD                                            0240002400
+CASKEY LANE EXT                                             0240002400
+CASKEY LN                                                   0240002400
+CASKEY LN                                                   0240102401
+CASTLEBERRY CROFTON RD                                      0240002400
+CATALPA DR                                                  0240102401
+CATES ST                                                    0240102401
+CATHCART AVE                                                0240102401
+CATINA RENEE LN                                             0240502405
+CAUDLE RD                                                   0240002400
+CAVANAUGH EXT                                               0240002400
+CAVANAUGH LN                                                0240002400
+CAVE RUN DR                                                 0240002400
+CAVE SPRINGS CEMETERY NO1                                   0240102401
+CAVE SPRINGS CEMETERY NO2                                   0240102401
+CAVE SPRINGS CEMETERY NO3                                   0240102401
+CAVE SPRINGS CEMETERY NO4                                   0240102401
+CAVE SPRINGS CEMETERY NO5                                   0240102401
+CAVE SPRINGS CEMETERY NO6                                   0240102401
+CAVE ST                                                     0240002400
+CAYCE AVE                                                   0240102401
+CAYCE AVENUE EXT                                            0240102401
+CAYCE MEADE DR                                              0240102401
+CEDAR AVE                                                   0240102401
+CEDAR LN                                                    0240102401
+CEDAR ST                                                    0240102401
+CENTER ST                                                   0240102401
+CENTRAL AVE                                                 0240002400
+CENTRAL AVE                                                 0240102401
+CERULEAN PRINCETON RD                                       0240002400
+CERULEAN RD                                                 0240002400
+CERULEAN SINKING FORK RD                                    0240002400
+CHAMBERS CT                                                 0240102401
+CHAMPION HWY                                                0240002400
+CHAMPION WEST RD                                            0240002400
+CHAPEL HILL RD                                              0240002400
+CHARLES FORD RD                                             0240002400
+CHARLIE CT                                                  0240102401
+CHARLIE HURT RD                                             0240002400
+CHATEAUGAY DR                                               0240102401
+CHAUDOIN DR                                                 0240102401
+CHEATHAM RD                                                 0240002400
+CHEATHAM RD                                                 0241002410
+CHERILYN CIR                                                0240102401
+CHEROKEE TRACE BLVD                                         0240102401
+CHEROKEE TRACE BOULEVARD CONNECTOR                          0240102401
+CHERRY ST                                                   0240102401
+CHERRYWOOD DR                                               0240002400
+CHESIRE WAY                                                 0240502405
+CHESTNUT ST                                                 0240102401
+CHIPPEWA DR                                                 0240102401
+CHRISTIAN QUARRY RD                                         0240102401
+CHURCH HILL DR                                              0240502405
+CHURCH ST                                                   0240102401
+CHURCH ST                                                   0240202402
+CHURCH ST                                                   0240502405
+CHURCH ST                                                   0241002410
+CINDY DR                                                    0240102401
+CINDY ST                                                    0240502405
+CIRCLE DR                                                   0240102401
+CIRCLE DR                                                   0240202402
+CITY DUMP RD                                                0240002400
+CITY PARK LN                                                0240502405
+CLAIBORNE DR                                                0240002400
+CLARA DR                                                    0240302403
+CLARA ST                                                    0240202402
+CLARENCE DR                                                 0240102401
+CLARISE WAY                                                 0240002400
+CLARISE WAY CONNECTOR                                       0240002400
+CLARK AVE                                                   0240102401
+CLARK ST                                                    0240102401
+CLARK STORE SINKING FORK RD                                 0240002400
+CLAW CT                                                     0240102401
+CLEAVES LN                                                  0240502405
+CLIFTON CT                                                  0240102401
+CLIFTY SHORES DR                                            0240002400
+CLINE RD                                                    0240002400
+CLINIC DR                                                   0240102401
+CLINTON CIR                                                 0240102401
+CLOVER LN                                                   0240002400
+COAL CREEK RD                                               0240002400
+COAL ROAD LOOP                                              0240002400
+COBB LN                                                     0240502405
+COLEMAN ST                                                  0240102401
+COLES VALLEY RD                                             0240102401
+COLLEGE ST                                                  0240002400
+COLLEGE ST                                                  0240102401
+COLLEGE ST                                                  0240202402
+COLLINS BRIDGE RD                                           0240002400
+COLLINS ST                                                  0240002400
+COLONAL DR                                                  0240102401
+COLONETTE DR                                                0240102401
+COLONIAL TER                                                0240102401
+COLT DR                                                     0240102401
+COMMERCE CT                                                 0240102401
+COMMONWEALTH AVE                                            0240102401
+CONCORD LN                                                  0240002400
+CONFERENCE CENTER DR                                        0240002400
+CONSOLATION LOOP                                            0240002400
+CONTRERAS CT                                                0240002400
+COOK CT                                                     0240102401
+COOLWATER CT                                                0240102401
+COOPER DR                                                   0240502405
+COPPERFIELD AVE                                             0240102401
+CORD HAMBY LOOP                                             0240002400
+CORDES ST                                                   0240002400
+CORDES STREET LOOP NO1                                      0240002400
+CORDES STREET LOOP NO10                                     0240002400
+CORDES STREET LOOP NO11                                     0240002400
+CORDES STREET LOOP NO12                                     0240002400
+CORDES STREET LOOP NO13                                     0240002400
+CORDES STREET LOOP NO2                                      0240002400
+CORDES STREET LOOP NO3                                      0240002400
+CORDES STREET LOOP NO4                                      0240002400
+CORDES STREET LOOP NO5                                      0240002400
+CORDES STREET LOOP NO6                                      0240002400
+CORDES STREET LOOP NO7                                      0240002400
+CORDES STREET LOOP NO8                                      0240002400
+CORDES STREET LOOP NO9                                      0240002400
+CORDES STREET SPUR                                          0240002400
+CORNELIUS CEMETERY RD                                       0240002400
+COTTAGE RD                                                  0240002400
+COTTAGE ST                                                  0240102401
+COUNTRY CLUB LN                                             0240102401
+COUNTRY COVE DR                                             0240002400
+COURT ST                                                    0240102401
+COVERED WAGON RD                                            0240002400
+COX MILL CT                                                 0240102401
+COX MILL RD                                                 0240002400
+COX MILL RD                                                 0240102401
+CRAFT ST                                                    0240102401
+CREEK ST                                                    0241002410
+CREEK VIEW DR                                               0240102401
+CRENSHAW BLVD                                               0240102401
+CRENSHAW BOULEVARD EXT                                      0240102401
+CRENSHAW LN                                                 0240002400
+CRESCENT ST                                                 0240102401
+CREST DR                                                    0240102401
+CRESTVIEW DR                                                0240102401
+CROCKETT ST                                                 0240102401
+CROFT LN                                                    0240102401
+CROFTON DAWSON RD                                           0240002400
+CROFTON FIRE TOWER RD                                       0240002400
+CROFTON FRUIT HILL RD                                       0240002400
+CROMWELL PL                                                 0240102401
+CRONEY DR                                                   0240002400
+CROSS CONNECTOR                                             0240002400
+CROSS ST                                                    0240002400
+CROSS ST                                                    0240302403
+CROSSBOW CT                                                 0240102401
+CROW RD                                                     0240002400
+CUMBEE RD                                                   0240002400
+CYPRESS ST                                                  0240102401
+D AVE                                                       0240002400
+D AVENUE EXT                                                0240002400
+DADE LN                                                     0240102401
+DALE HOLLOW DR                                              0240102401
+DARNELL RD                                                  0240002400
+DAVEN DR                                                    0240102401
+DAVENPORT LN                                                0240002400
+DAVENPORT RD                                                0240002400
+DAVID ST                                                    0240502405
+DAVIS FARM RD                                               0240002400
+DAVIS RD                                                    0240002400
+DAWN CT                                                     0240102401
+DAWN DR                                                     0240102401
+DAWSON LN                                                   0240002400
+DAWSON SPRINGS RD                                           0240002400
+DAWSON SPRINGS RD                                           0240102401
+DEANNA CIR                                                  0240502405
+DEASON LN                                                   0240002400
+DECOY CT                                                    0240502405
+DEEPWOOD DR                                                 0240102401
+DEERWOOD DR                                                 0240102401
+DELAWARE DR                                                 0240102401
+DELL DR                                                     0240102401
+DEMPSEY DR                                                  0240102401
+DENZIL DR                                                   0240102401
+DENZIL DR N                                                 0240102401
+DENZIL DR S                                                 0240102401
+DERRICK ST                                                  0240102401
+DESERT INN CT                                               0240102401
+DESERT STORM AVE                                            0240002400
+DESOTA LN                                                   0240502405
+DESTINY ALY                                                 0240002400
+DEVON DR                                                    0240002400
+DEVONSHIRE DR                                               0240102401
+DEWEY ST                                                    0240302403
+DIANE ST                                                    0240502405
+DICKERSON DR                                                0240102401
+DINK EMBRYS BUTTERMILK RD                                   0240102401
+DISPOSAL PLANT RD                                           0240102401
+DIXIE DR                                                    0240102401
+DIXIE RD                                                    0240002400
+DOGWOOD DR                                                  0240102401
+DOGWOOD KELLY RD                                            0240002400
+DOGWOOD KELLY W RD                                          0240002400
+DOLAN ST                                                    0240002400
+DONNA CT                                                    0240102401
+DONNA DR                                                    0240102401
+DONNA ST                                                    0240502405
+DORSEY DR                                                   0240502405
+DOUBLETREE CT                                               0240102401
+DOUG COMBS RD                                               0240002400
+DOUG EDWARD DR                                              0240502405
+DOUGLAS ST                                                  0240102401
+DOVER PL                                                    0240102401
+DR HATCHER EXT                                              0240002400
+DR HATCHER RD                                               0240002400
+DR MARTIN LUTHER KING JR WAY                                0240002400
+DR MARTIN LUTHER KING JR WAY                                0240102401
+DRIPPING SPRINGS RD                                         0240002400
+DRIPPING SPRINGS RD                                         0240202402
+DUDLEY BOYD RD                                              0240002400
+DUFFY ST                                                    0240302403
+DUIGUID ST                                                  0240102401
+DULIN LN                                                    0240202402
+DUPUY ST                                                    0240102401
+DURRETT AVE                                                 0240102401
+DUSTY LN                                                    0240102401
+DYERS CHAPEL RD                                             0240002400
+E 10TH ST                                                   0240102401
+E 11TH ST                                                   0240102401
+E 12TH ST                                                   0240102401
+E 13TH ST                                                   0240102401
+E 14TH ST                                                   0240102401
+E 15TH ST                                                   0240102401
+E 16TH ST                                                   0240102401
+E 17TH ST                                                   0240102401
+E 18TH ST                                                   0240102401
+E 19TH ST                                                   0240102401
+E 1ST ST                                                    0240102401
+E 20TH ST                                                   0240102401
+E 21ST ST                                                   0240102401
+E 22ND ST                                                   0240102401
+E 23RD ST                                                   0240102401
+E 24TH ST                                                   0240102401
+E 25TH ST                                                   0240102401
+E 2ND ST                                                    0240102401
+E 3RD ST                                                    0240102401
+E 4TH ST                                                    0240102401
+E 5TH ST                                                    0240102401
+E 6TH ST                                                    0240102401
+E 7TH ST                                                    0240102401
+E 8TH ST                                                    0240102401
+E 9TH ST                                                    0240102401
+E AVE                                                       0240002400
+E BROWN ST                                                  0240202402
+E CHERRY ST                                                 0240302403
+E CROSS ST                                                  0241002410
+E G GLOVER RD                                               0240002400
+E LAKE RD                                                   0240002400
+E MAIN ST                                                   0240002400
+E MAIN ST                                                   0240202402
+E MILL ST                                                   0240202402
+E NASHVILLE ST                                              0240302403
+E OTIS CIR                                                  0240002400
+E PARKVIEW DR                                               0240102401
+E PRINCETON ST                                              0240202402
+EAGLE COVE DR                                               0240102401
+EAGLE WAY                                                   0240002400
+EAGLE WAY                                                   0240102401
+EARL DR                                                     0240102401
+EARLY DR                                                    0240102401
+EASY ST                                                     0240102401
+EB9004 N                                                    0240002400
+EB9004 N                                                    0240102401
+EB9004 N EXIT12 CROSSOVER KY1682                            0240002400
+EB9004 N EXIT12 OFF RAMP FROM KY1682                        0240002400
+EB9004 N EXIT12 OFF RAMP FROM KY1682 E                      0240002400
+EB9004 N EXIT12 OFF RAMP FROM KY1682 W                      0240002400
+EB9004 N EXIT12 OFF RAMP TO KY1682                          0240002400
+EB9004 N EXIT12 OFF RAMP TO KY1682 E                        0240002400
+EB9004 N EXIT12 OFF RAMP TO KY1682 W                        0240002400
+EB9004 N EXIT23 OFF RAMP TO KY800                           0240002400
+EB9004 N EXIT23 OFF RAMP TO KY800 E                         0240002400
+EB9004 N EXIT23 OFF RAMP TO KY800 W                         0240002400
+EB9004 N EXIT23 ON RAMP FROM KY800                          0240002400
+EB9004 N EXIT23 ON RAMP FROM KY800 E                        0240002400
+EB9004 N EXIT23 ON RAMP FROM KY800 W                        0240002400
+EB9004 N EXIT5 OFF RAMP TO                                  0240002400
+EB9004 N EXIT5 OFF RAMP TO LOVERS LN                        0240102401
+EB9004 N EXIT5 OFF RAMP TO US60 BYP                         0240102401
+EB9004 N EXIT6 CROSSOVER US60 BYP                           0240102401
+EB9004 N EXIT6 ON RAMP FROM LOVERS LN                       0240102401
+EB9004 N EXIT6 ON RAMP FROM US60 BYP                        0240102401
+EB9004 N EXIT6 RAMP FROM EXIT 5                             0240102401
+EB9004 N EXIT6 RAMP TO US60 BYP                             0240102401
+EB9004 N EXIT7 CROSSOVER US41 ALT                           0240102401
+EB9004 N EXIT7 ON RAMP FROM US41 ALT                        0240102401
+EB9004 N EXIT7 ON RAMP FROM US41 ALT N                      0240102401
+EB9004 N EXIT7 ON RAMP FROM US41 ALT S                      0240102401
+EB9004 N EXIT8 CROSSOVER US41                               0240102401
+EB9004 N EXIT8 OFF RAMP TO US41                             0240102401
+EB9004 N EXIT8 ON RAMP FROM US41                            0240102401
+EB9004 N EXIT9 CROSSOVER US68                               0240102401
+EB9004 N EXIT9 OFF RAMP US68                                0240102401
+EB9004 N EXIT9 OFF RAMP US68 E                              0240102401
+EB9004 N EXIT9 OFF RAMP US68 W                              0240102401
+EB9004 N EXIT9 ON RAMP FROM US68                            0240102401
+EB9004 N EXIT9 ON RAMP FROM US68 E                          0240102401
+EB9004 N EXIT9 ON RAMP FROM US68 W                          0240102401
+EB9004 S                                                    0240002400
+EB9004 S                                                    0240102401
+EB9004 S EXIT12 CROSSOVER KY1682                            0240102401
+EB9004 S EXIT12 OFF RAMP FROM KY1682                        0240002400
+EB9004 S EXIT12 OFF RAMP FROM KY1682 E                      0240002400
+EB9004 S EXIT12 OFF RAMP FROM KY1682 W                      0240102401
+EB9004 S EXIT12 OFF RAMP TO KY1682                          0240102401
+EB9004 S EXIT12 OFF RAMP TO KY1682 E                        0240102401
+EB9004 S EXIT12 OFF RAMP TO KY1682 W                        0240102401
+EB9004 S EXIT23 OFF RAMP TO KY800                           0240002400
+EB9004 S EXIT23 OFF RAMP TO KY800 E                         0240002400
+EB9004 S EXIT23 OFF RAMP TO KY800 W                         0240002400
+EB9004 S EXIT23 ON RAMP FROM KY800                          0240002400
+EB9004 S EXIT23 ON RAMP FROM KY800 E                        0240002400
+EB9004 S EXIT23 ON RAMP FROM KY800 W                        0240002400
+EB9004 S EXIT5 OFF RAMP TO LOVERS LN                        0240002400
+EB9004 S EXIT5 ON RAMP FROM LOVERS LN                       0240002400
+EB9004 S EXIT6 CROSSOVER US60 BYP                           0240102401
+EB9004 S EXIT6 OFF RAMP TO US60 BYP                         0240102401
+EB9004 S EXIT6 ON RAMP FROM US60 BYP                        0240102401
+EB9004 S EXIT7 CROSSOVER US41 ALT                           0240102401
+EB9004 S EXIT7 OFF RAMP TO US41 ALT                         0240102401
+EB9004 S EXIT7 OFF RAMP TO US41 ALT N                       0240102401
+EB9004 S EXIT7 OFF RAMP TO US41 ALT S                       0240102401
+EB9004 S EXIT7 ON RAMP FROM US41 ALT                        0240102401
+EB9004 S EXIT7 ON RAMP FROM US41 ALT N                      0240102401
+EB9004 S EXIT7 ON RAMP FROM US41 ALT S                      0240102401
+EB9004 S EXIT8 CROSSOVER US41                               0240102401
+EB9004 S EXIT8 OFF RAMP TO US41                             0240102401
+EB9004 S EXIT8 OFF RAMP TO US41 N                           0240102401
+EB9004 S EXIT8 OFF RAMP TO US41 S                           0240102401
+EB9004 S EXIT8 ON RAMP FROM US41                            0240102401
+EB9004 S EXIT8 ON RAMP FROM US41 N                          0240102401
+EB9004 S EXIT8 ON RAMP FROM US41 S                          0240102401
+EB9004 S EXIT9 CROSSOVER US68                               0240102401
+EB9004 S EXIT9 OFF RAMP US68                                0240102401
+EB9004 S EXIT9 OFF RAMP US68 E                              0240102401
+EB9004 S EXIT9 OFF RAMP US68 W                              0240102401
+EB9004 S EXIT9 ON RAMP FROM US68                            0240102401
+EB9004 S EXIT9 ON RAMP FROM US68 E                          0240102401
+EB9004 S EXIT9 ON RAMP FROM US68 W                          0240102401
+EB9004 TURN AROUND12                                        0240002400
+EB9004 TURN AROUND13A                                       0240002400
+EB9004 TURN AROUND13B                                       0240002400
+EB9004 TURN AROUND14                                        0240002400
+EB9004 TURN AROUND15                                        0240002400
+EB9004 TURN AROUND16                                        0240002400
+EB9004 TURN AROUND18A                                       0240002400
+EB9004 TURN AROUND18B                                       0240002400
+EB9004 TURN AROUND18C                                       0240002400
+EB9004 TURN AROUND21                                        0240002400
+EB9004 TURN AROUND23                                        0240002400
+EB9004 TURN AROUND24                                        0240002400
+EB9004 TURN AROUND25A                                       0240002400
+EB9004 TURN AROUND25B                                       0240002400
+EB9004 TURN AROUND26                                        0240002400
+EB9004 TURN AROUND27                                        0240002400
+EB9004 TURN AROUND7                                         0240102401
+EB9004 TURN AROUND8                                         0240102401
+EBENEZER OVIL RD                                            0240002400
+EBENEZER RD                                                 0240002400
+ED SMITH RD                                                 0240002400
+EDDY ST                                                     0240502405
+EDGEMONT DR                                                 0240102401
+EDGEWOOD DR                                                 0240102401
+EDWARDS MILL RD                                             0240002400
+ELAINE DR                                                   0240102401
+ELI RD                                                      0240002400
+ELI ROAD SPUR                                               0240002400
+ELINOR DR                                                   0240102401
+ELIZABETH DR                                                0240102401
+ELIZABETH RANDALL RD                                        0240002400
+ELLEN DR                                                    0240102401
+ELLEN ST                                                    0240102401
+ELMO RD                                                     0240002400
+ELMO RD                                                     0240102401
+ELTON DR                                                    0240102401
+EMERSON CIR                                                 0240102401
+EMPIRE RD                                                   0240002400
+ENGLISH OAK CT                                              0240102401
+ESSEX PL                                                    0240102401
+EVANGELINE CT                                               0240102401
+EVANGELINE DR                                               0240102401
+EVERETTS LN                                                 0240002400
+EVERGREEN PARK DR                                           0240102401
+F AVE                                                       0240002400
+F AVENUE EXT                                                0240002400
+FAIRCOURT ST                                                0240102401
+FAIRFAX AVE                                                 0240102401
+FAIRVIEW DR                                                 0240102401
+FAIRWAY CT                                                  0240102401
+FALLOW LN                                                   0240502405
+FALLS LN                                                    0240102401
+FARMHILL RD                                                 0240002400
+FAULKNER DR                                                 0240102401
+FAULKNER ST                                                 0240102401
+FAULTLESS RD                                                0240102401
+FEATHER DR                                                  0240102401
+FENTON CT                                                   0240102401
+FENTRESS LN                                                 0240002400
+FERDINAND LN                                                0240002400
+FERRELL ST                                                  0240102401
+FIDELIO RD                                                  0240002400
+FIDELIO RD                                                  0240102401
+FILMORE RD                                                  0240502405
+FIRE TOWER RD                                               0240002400
+FLAT LICK LN                                                0240002400
+FLAT ROCK CEMETERY RD                                       0240002400
+FLEMING GILES RD                                            0240002400
+FLORENCE ST                                                 0240102401
+FLOWERS RD                                                  0240002400
+FLYER CT                                                    0240502405
+FLYING EBONY DR                                             0240102401
+FOOR ST                                                     0240502405
+FORBES DR                                                   0240102401
+FOREST PARK BLVD                                            0240002400
+FOREST PARK CT                                              0240002400
+FOREST RD                                                   0240002400
+FOREST RD                                                   0240502405
+FORESTVIEW DR                                               0240002400
+FORREST DR                                                  0240002400
+FORT CAMPBELL BLVD                                          0240102401
+FORT CAMPBELL BLVD                                          0240502405
+FORT LN                                                     0240002400
+FOSTON CHAPEL RD                                            0240102401
+FOSTON CHAPEL ROAD CONNECTOR                                0240102401
+FOWLER EXT                                                  0240002400
+FOWLER RD                                                   0240002400
+FOWLER RIDGE RD                                             0240002400
+FOX CHASE CT                                                0240102401
+FOXFIELD RD                                                 0240102401
+FRANK SIVLEY RD                                             0240102401
+FRANK WADE RD                                               0240002400
+FRANK YOST LN                                               0240102401
+FREMONT DR                                                  0240102401
+FREY RD                                                     0240002400
+FROGHOP RD                                                  0240002400
+FRONTAGE RD                                                 0240002400
+FRONTAGE RD                                                 0240102401
+FRONTAGE ROAD CONNECTOR                                     0240102401
+FRONTIER DR                                                 0240102401
+FRUIT HILL RED BRIDGE RD                                    0240002400
+FULLER RD                                                   0240002400
+G AVE                                                       0240002400
+G E HILL RD                                                 0240002400
+GAIL ST                                                     0240502405
+GAINEY DR                                                   0240502405
+GALE LN                                                     0240102401
+GANT ST                                                     0240102401
+GARY LN                                                     0240002400
+GATE NO7 RD                                                 0240002400
+GATEWAY LN                                                  0240102401
+GEORGE SHAW RD                                              0240002400
+GILBERT DR                                                  0240102401
+GILKEY DR                                                   0240102401
+GILKEY LN                                                   0240002400
+GILLILAND LN                                                0240002400
+GINGER DR                                                   0240102401
+GINNIE LN                                                   0240102401
+GIVENS DR                                                   0240102401
+GLASS AVE                                                   0240102401
+GLASS LN                                                    0240002400
+GLASS LN                                                    0240102401
+GLENVIEW DR                                                 0240102401
+GLENWOOD WAY                                                0240002400
+GLIDER RD                                                   0240002400
+GLIDER RD                                                   0240502405
+GOLDEN POND AVE                                             0240502405
+GOLF COURSE RD                                              0240002400
+GOOD HOPE CEMETERY RD                                       0240502405
+GOODE RD                                                    0240002400
+GOODRICH ST                                                 0240102401
+GORGAS AVE                                                  0240002400
+GOSPEL OF PEACE RD                                          0240002400
+GRACEY HERNDON RD                                           0240002400
+GRACEY SINKING FORK RD                                      0240002400
+GRAHAM WAY                                                  0240102401
+GRAND ORCHARD DR                                            0240002400
+GRANDVIEW DR                                                0240102401
+GRANT AVE                                                   0240502405
+GRANT RD                                                    0240002400
+GRAPEVINE RD                                                0240002400
+GRAPEVINE SPUR                                              0240002400
+GRAY FOX CT                                                 0240102401
+GRAY ST                                                     0240102401
+GRAYS CT                                                    0240102401
+GREAT OAKS DR                                               0240102401
+GREEN HILL RD                                               0240002400
+GREEN HILL SPUR RD                                          0240002400
+GREEN LN                                                    0240102401
+GREENBRIAR CT                                               0240102401
+GREENLEAF CT                                                0240102401
+GREENVILLE RD                                               0240002400
+GREENVILLE RD                                               0240102401
+GREENWOOD DR                                                0240102401
+GREENWOOD RD                                                0240002400
+GRIFFIN BELL DR                                             0240102401
+GRIMES AVE                                                  0240102401
+GUINN RD                                                    0240002400
+H AVE                                                       0240002400
+H C BEAZLEY PL                                              0240002400
+HADDOCK LN                                                  0240002400
+HAILES AVE                                                  0240302403
+HALE RD                                                     0240002400
+HALEY ST                                                    0240502405
+HALL LN                                                     0240002400
+HAMBY LOOP                                                  0240002400
+HAMMACK RD                                                  0240002400
+HAMMOND DR                                                  0240102401
+HANCOCK ST                                                  0240102401
+HANNIBAL DR                                                 0240502405
+HAPPY HOLLOW EXT                                            0240002400
+HAPPY HOLLOW RD                                             0240002400
+HARBOR DR                                                   0240502405
+HARGROVE RD                                                 0240002400
+HARMONY GROVE RD                                            0240002400
+HARRISON ST                                                 0240002400
+HARRISON ST                                                 0240102401
+HARRISON ST                                                 0241002410
+HARRISON STREET LOOP NO1                                    0240002400
+HARRISON STREET LOOP NO2                                    0240002400
+HARRY BERRY LN                                              0240002400
+HARRY BERRY LN                                              0240102401
+HARRY LANCASTER DR                                          0240002400
+HART RD                                                     0240002400
+HARTON PL                                                   0240102401
+HARVEY WAY                                                  0240102401
+HAWTHORNE DR                                                0240102401
+HAYES RD                                                    0240002400
+HAYES ST                                                    0240102401
+HAZEL ST                                                    0240102401
+HEATHER PL                                                  0240102401
+HEDGEROW RD                                                 0240002400
+HENDERSON DR                                                0240102401
+HENRY ST                                                    0240102401
+HENSLEY LN                                                  0240002400
+HENSON DR                                                   0240102401
+HERITAGE WAY                                                0240102401
+HERMITAGE DR                                                0240102401
+HERNDON OAK GROVE RD                                        0240002400
+HERNDON OAK GROVE RD                                        0240502405
+HERNDON ST                                                  0240002400
+HERRING MILL RD                                             0240002400
+HERSHEY DR                                                  0240102401
+HICKORY RIDGE CIR                                           0240102401
+HICKORY SMOKEHOUSE RD                                       0240002400
+HICKORY WOODS ESTATE                                        0240002400
+HIGGINS ST                                                  0240102401
+HIGH ST                                                     0240102401
+HIGHLAND SCHOOL RD                                          0240002400
+HIGHLAND SCHOOL RD                                          0240102401
+HIGHPOINT DR                                                0240102401
+HILL HAVEN DR                                               0240102401
+HILL ST                                                     0240102401
+HILL ST                                                     0240502405
+HILL VIEW RD                                                0240002400
+HILLAIRE DR                                                 0240102401
+HILLCLIFF DR                                                0240102401
+HILLCREST DR                                                0240102401
+HILLSIDE DR                                                 0240102401
+HILLSIDE TER                                                0240102401
+HILLTOP DR                                                  0240102401
+HILLVIEW CT                                                 0240002400
+HILLWOOD CIR                                                0240002400
+HIPKINS ST                                                  0240102401
+HIRAM ST                                                    0240102401
+HOLIDAY PARK DR                                             0240102401
+HOLIDAY PARK SCHOOL RD                                      0240102401
+HOLLAND ST                                                  0240002400
+HOLLEY ST                                                   0240102401
+HOLLIS AVE                                                  0240002400
+HOLLY CT                                                    0240102401
+HOLT LN                                                     0240102401
+HONEYSUCKEL DR                                              0240102401
+HOOVER DR                                                   0240002400
+HOPE ST                                                     0240102401
+HOPKINS PARK RD                                             0240002400
+HOPKINSVILLE MT ZOAR RD                                     0240002400
+HOPPER CT                                                   0240102401
+HOPSON ST                                                   0240002400
+HOPSON ST                                                   0240302403
+HOUSTON DR                                                  0240102401
+HOWARD DICKERSON RD                                         0240002400
+HOWARD DICKERSON SPUR                                       0240002400
+HOWELL ST                                                   0240102401
+HUBBARDSVILLE LN                                            0240102401
+HUFFMAN MILL RD                                             0240002400
+HUGH HUNTER RD                                              0240002400
+HUGH HUNTER RD                                              0240502405
+HUNTER OWENS CT                                             0240502405
+HUNTER PL                                                   0240102401
+HUNTERS LN                                                  0240102401
+HUNTERS RIDGE DR                                            0240102401
+HUNTING CREEK CT                                            0240102401
+HUNTING CREEK RD                                            0240102401
+HUNTINGTON CT                                               0240102401
+HURL WAY                                                    0240102401
+HURST DR                                                    0240102401
+I24 E                                                       0240002400
+I24 E                                                       0240502405
+I24 E EXIT73 OFF RAMP TO KY177                              0240002400
+I24 E EXIT73 ON RAMP FROM KY177                             0240002400
+I24 E EXIT86 CROSSOVER US41A                                0240502405
+I24 E EXIT86 OFF RAMP TO US41A                              0240002400
+I24 E EXIT86 OFF RAMP TO US41A                              0240502405
+I24 E EXIT86 ON RAMP FROM US41A                             0240502405
+I24 E EXIT89 OFF RAMP TO KY115                              0240502405
+I24 E EXIT89 ON RAMP FROM KY115                             0240502405
+I24 TURN AROUND70                                           0240002400
+I24 TURN AROUND75                                           0240002400
+I24 TURN AROUND81                                           0240002400
+I24 TURN AROUND85                                           0240002400
+I24 TURN AROUND88                                           0240002400
+I24 TURN AROUND93                                           0240002400
+I24 W                                                       0240002400
+I24 W                                                       0240502405
+I24 W EXIT73 OFF RAMP TO KY177                              0240002400
+I24 W EXIT73 ON RAMP FROM KY177                             0240002400
+I24 W EXIT86 CROSSOVER US41A                                0240102401
+I24 W EXIT86 OFF RAMP TO US41A                              0240102401
+I24 W EXIT86 OFF RAMP TO US41A                              0240502405
+I24 W EXIT86 ON RAMP FROM US41A                             0240502405
+I24 W EXIT89 OFF RAMP TO KY115                              0240502405
+I24 W EXIT89 ON RAMP FROM KY115                             0240002400
+I24 W REST AREA92 CAR LANE                                  0240002400
+I24 W REST AREA92 OFF RAMP                                  0240002400
+I24 W REST AREA92 ON RAMP                                   0240002400
+I24 W REST AREA92 TRUCK LANE                                0240002400
+IDAHO AVE                                                   0240002400
+IDLEWILD RD                                                 0240002400
+IDLEWILD SPUR                                               0240002400
+ILLINOIS AVE                                                0240502405
+INDIAN AVE                                                  0240502405
+INDIAN TRAIL EXT                                            0240102401
+INDIAN TRL                                                  0240102401
+INDIANA AVE                                                 0240002400
+INDIANA AVE                                                 0240502405
+INDUSTRIAL DR                                               0240102401
+INDUSTRIAL PARK                                             0240102401
+IOWA AVE                                                    0240002400
+IRISH CIR                                                   0240102401
+IROQUOIS DR                                                 0240102401
+ISOM RD                                                     0240002400
+IVEY ST                                                     0240502405
+IVY LYNN CT                                                 0240102401
+J C KELLY RD                                                0240002400
+J GRESHAM RD                                                0240002400
+J J RD                                                      0240002400
+J KNIGHT EXT                                                0240002400
+J KNIGHT RD                                                 0240002400
+J P CAMPBELL RD                                             0240002400
+J P GRACE RD                                                0240002400
+J V HALE LN                                                 0240002400
+J W DICKSON DR                                              0240502405
+JACK ST                                                     0240502405
+JACKSON CT                                                  0240102401
+JACKSON ST                                                  0240302403
+JAGO RD                                                     0240002400
+JAGO RD                                                     0240102401
+JAGO THOMAS RD                                              0240002400
+JAIL ST                                                     0240002400
+JAMES DR                                                    0240102401
+JAMES LYN DR                                                0240002400
+JAN DR                                                      0240102401
+JANE ST                                                     0240502405
+JEFF ADAMS RD                                               0240002400
+JEFFERSON DAVIS HWY                                         0240002400
+JEFFERSON ST                                                0240302403
+JEFFREY DR                                                  0240102401
+JENNA AVE                                                   0240502405
+JENNETTE CIR                                                0240102401
+JERRY CLAIBORNE WAY                                         0240102401
+JESSIE AVE                                                  0240102401
+JI LINE RD                                                  0240002400
+JOHN MICHAEL DR                                             0240102401
+JOHN RIVERS RD                                              0240002400
+JOHN RIVERS RD                                              0240102401
+JOHN RIVES EXT                                              0240002400
+JOHN RIVES RD                                               0240002400
+JOHN RIVES SPUR                                             0240002400
+JOHNSON LN                                                  0240002400
+JOHNSON MILL RD                                             0240002400
+JOHNSON RD                                                  0240002400
+JOHNSON ST                                                  0240202402
+JOHNSTON ST                                                 0240002400
+JOLIE RD                                                    0240102401
+JONAQUIN CIR                                                0240102401
+JONES ST                                                    0240102401
+JORDAN DR                                                   0240102401
+JOSEPHINES CT                                               0240502405
+JSMC DR                                                     0240102401
+JUDGES CHAPEL RD                                            0240002400
+JUDITH CT                                                   0240102401
+JULIEN NEWSTEAD RD                                          0240002400
+JULIEN RD                                                   0240002400
+JULIET DR                                                   0240002400
+JUNE ST                                                     0240502405
+JUSTICE WAY                                                 0240102401
+JUSTIN LN                                                   0240002400
+JUSTIN ST                                                   0240502405
+KAILIE DR                                                   0240102401
+KAREN CT                                                    0240502405
+KAREN DR                                                    0240102401
+KARLEE DR                                                   0240102401
+KATIE PEDEN DR                                              0240102401
+KATIE ST                                                    0240502405
+KAUAI KING DR                                               0240102401
+KEACHLAND DR                                                0240102401
+KEETON DR                                                   0240102401
+KEITH AVE                                                   0240502405
+KELBY CT                                                    0240102401
+KELLY CHURCH RD                                             0240002400
+KELLY MOUNT ZOAR RD                                         0240002400
+KELLY ST                                                    0240002400
+KELLY ST                                                    0240102401
+KELSIE ST                                                   0240502405
+KELVIN DR                                                   0240202402
+KENNEDY RD                                                  0240002400
+KENSINGTON CT                                               0240102401
+KENTON ST                                                   0240102401
+KENTUCKY AVE                                                0240002400
+KENTUCKY DR                                                 0240102401
+KENWOOD DR                                                  0240102401
+KENWOOD DRIVE EXT                                           0240102401
+KERRINGTON CT                                               0240502405
+KILLEBREW RD                                                0240002400
+KING DR                                                     0240102401
+KINGMAN CT                                                  0240502405
+KINGS LANE SPUR                                             0240002400
+KINGS LN                                                    0240002400
+KIRBY LN                                                    0240102401
+KIRKMAN SQ                                                  0240102401
+KIRKPATRICK ST                                              0240102401
+KNOCKUM HILL DR                                             0240002400
+KNOLL ST                                                    0240502405
+KOFFMAN DR                                                  0240102401
+KOUNTRY SPRING LN                                           0240002400
+KRECKEL CT                                                  0240002400
+KRUSTEAZ WAY                                                0240102401
+KY1682                                                      0240002400
+KY1682                                                      0240102401
+KY1687                                                      0240002400
+KYLE DR                                                     0240502405
+L C AVE                                                     0240102401
+L THOMPSON RD                                               0240002400
+LACY DR                                                     0240102401
+LACY LN                                                     0240102401
+LAFAYETTE RD                                                0240002400
+LAFAYETTE RD                                                0240102401
+LAFAYETTE RD                                                0241002410
+LAKE BLYTHE RD                                              0240002400
+LAKE MORRIS RD                                              0240002400
+LAKE ST                                                     0240502405
+LAKE TANDY RD                                               0240002400
+LAKE TANDY ROAD SPUR                                        0240002400
+LANCASTER DR                                                0240102401
+LANCASTER DRIVE EXT                                         0240102401
+LANCE LN                                                    0240002400
+LANDS END CT                                                0240002400
+LANE ST                                                     0240002400
+LANG LN                                                     0240002400
+LARCH PL                                                    0240102401
+LAS VEGAS DR                                                0240102401
+LATHAM AVE                                                  0240102401
+LATHAM ST                                                   0240002400
+LAURA ST                                                    0240502405
+LAUREL COVE DR                                              0240102401
+LAWSON DAWSON RD                                            0240002400
+LAYTONSVILLE LOOP                                           0240002400
+LAYTONSVILLE RD                                             0240002400
+LEALAND CIR                                                 0240102401
+LEAUX LN                                                    0240102401
+LEE LN                                                      0240102401
+LEE ST                                                      0240502405
+LEE T DAVENPORT RD                                          0240002400
+LEE VILLAGE                                                 0240002400
+LEGION CIR                                                  0240002400
+LEGION DR                                                   0240502405
+LEIGH CT                                                    0240102401
+LEO COOK RD                                                 0240002400
+LESLIE CT                                                   0240102401
+LETTERMAN AVE                                               0240002400
+LEV ST                                                      0240002400
+LEV STREET LOOP                                             0240002400
+LEV STREET LOOP NO2                                         0240002400
+LEVI NORTH RD                                               0240002400
+LEWIS BRIDGE WAY                                            0240102401
+LEWIS RD                                                    0240002400
+LEWIS ST                                                    0240102401
+LILLIAN DR                                                  0240502405
+LILLIAN DRIVE RIGHT FORK                                    0240502405
+LILLY SIMS DR                                               0240502405
+LINCOLN WAY                                                 0240102401
+LINDA CT                                                    0240102401
+LINDA DR                                                    0240102401
+LINDA DR                                                    0240502405
+LINDA ST                                                    0240502405
+LINDSEY DR                                                  0240102401
+LINDSEY LN                                                  0240002400
+LINDWOOD DR                                                 0240102401
+LINN ST                                                     0240102401
+LINNETH LN                                                  0240102401
+LINVILLE RD                                                 0240002400
+LITCHFIELD DR                                               0240102401
+LITHWIN ST                                                  0240002400
+LITHWIN STREET CT                                           0240002400
+LITTLE RIVER CHURCH RD                                      0240002400
+LOCUST GROVE RD                                             0240002400
+LOCUST GROVE RD                                             0240102401
+LOCUST ST                                                   0240002400
+LODGE RD                                                    0240002400
+LOFTUS DR                                                   0240102401
+LOGAN BENNETT RD                                            0240002400
+LONG LN                                                     0240002400
+LONG POND RD                                                0240002400
+LONG ST                                                     0240102401
+LONGBOW CT                                                  0240102401
+LONNIE WALKER HWY                                           0240002400
+LOOP LN                                                     0240002400
+LOVELADY LN                                                 0240002400
+LOVELLA LN                                                  0240102401
+LOVERS LN                                                   0240002400
+LOVERS LN                                                   0240102401
+LOWES DR                                                    0240102401
+LOWES ENTRANCE DR                                           0240102401
+LOWES LOOP                                                  0240102401
+LUCKY DEBONAIR DR                                           0240102401
+LUCY ST                                                     0240502405
+LURLINGTON CT                                               0240102401
+LYNN ST                                                     0240502405
+LYONS ST                                                    0240502405
+M J BOYD RD                                                 0240002400
+M POOLS RD                                                  0240002400
+MABLE AVE                                                   0240102401
+MABRY RD                                                    0240002400
+MACALLISTER CIR                                             0240102401
+MACE LN                                                     0240502405
+MACEDONIA CHURCH RD                                         0240002400
+MACEDONIA CROFTON RD                                        0240002400
+MACEDONIA LOOP                                              0240002400
+MACK LONG RD                                                0240002400
+MADISONVILLE RD                                             0240002400
+MADISONVILLE RD                                             0240102401
+MAGNOLIA DR                                                 0240102401
+MAGNOLIA ST                                                 0240302403
+MAHAFFEY LOOP                                               0240002400
+MAHAFFEY LOOP ENTRANCE                                      0240002400
+MAHAFFEY LOOP SPUR                                          0240002400
+MAIN STREET VIRGINIA STREET Y CONNECTOR                     0240102401
+MAINE AVE                                                   0240002400
+MAJESTIC PRINCE DR                                          0240102401
+MAJOR LN                                                    0240002400
+MAMMOTH CAVE CT                                             0240102401
+MAN O WAR DR                                                0240502405
+MAN O WAR DRIVE LEFT FORK                                   0240502405
+MANDARIN DR                                                 0240502405
+MANIRE RD                                                   0240002400
+MANNINGTON LOOP                                             0240002400
+MAPLE CT                                                    0240102401
+MAPLE ST                                                    0240002400
+MAPLE ST                                                    0240302403
+MAPLELAWN ST                                                0240102401
+MAPLEWOOD ST                                                0240102401
+MARGARET PL                                                 0240102401
+MARGARET ST                                                 0240502405
+MARIE AVE                                                   0240102401
+MARIE DR                                                    0240102401
+MARIETTA DR                                                 0240102401
+MARION SISK RD                                              0240002400
+MARK DR                                                     0240102401
+MARKET GARDEN RD                                            0240002400
+MARSALIN CT                                                 0240002400
+MARTIN CT                                                   0240102401
+MARTIN LUTHER KING JR DR                                    0240102401
+MARTIN LUTHER KING JR LOOP                                  0240102401
+MARTIN LUTHER KING JR SPUR                                  0240102401
+MARTIN PLACE DR                                             0240102401
+MARTIN PLACE DRIVE BAY                                      0240102401
+MARTIN ST                                                   0240002400
+MASON LN                                                    0240002400
+MASON MILL RD                                               0240002400
+MASON ST                                                    0240002400
+MASON ST                                                    0240102401
+MASONVILLE BEVERLY RD                                       0240002400
+MASONVILLE ST                                               0240002400
+MASONVILLE ST                                               0240102401
+MASSEY LN                                                   0240102401
+MAX CT                                                      0240502405
+MAY CT                                                      0240102401
+MAYFAIR PL                                                  0240102401
+MCBRIDE LN                                                  0240002400
+MCCARGO DR                                                  0240102401
+MCCLEAN ST                                                  0240102401
+MCCOY DR                                                    0240102401
+MCCRAW RD                                                   0240002400
+MCFARLAND CREEK RD                                          0240002400
+MCGEE LEE LN                                                0240002400
+MCGOWAN ST                                                  0240102401
+MCHENRY ST                                                  0240102401
+MCKEE ST                                                    0240102401
+MCKINNEY RD                                                 0240002400
+MCKNIGHT RD                                                 0240002400
+MCLEAN AVE                                                  0240102401
+MCLEAN AVE N                                                0240102401
+MEACHAM LN                                                  0240002400
+MEACHAM RD                                                  0240002400
+MEADOW DR                                                   0240002400
+MEADOW LN                                                   0240502405
+MEANS AVE                                                   0240102401
+MECHANIC ST                                                 0240102401
+MELROSE CT                                                  0240002400
+MELVIN WEST RD                                              0240002400
+MEMORIAL FIELD DR                                           0240102401
+MEMORIAL FIELD DRIVE EXTENSION                              0240102401
+MEMORY LN                                                   0240002400
+MEMORY LN W                                                 0240002400
+MERIDIANS WAY                                               0240502405
+MERRITTSTOWN ST                                             0240002400
+MERRITTSTOWN STREET CONNECTOR                               0240002400
+MERRIWOOD PKWY                                              0240102401
+METCALFE DR                                                 0240102401
+METCALFE LN                                                 0240102401
+MICHAEL AVE                                                 0240102401
+MICHELE CT                                                  0240102401
+MICHIGAN AVE                                                0240002400
+MIDDLE ST                                                   0240102401
+MILBROOKE DR                                                0240102401
+MILL GREEN CT                                               0240102401
+MILL RUN CT                                                 0240102401
+MILL SPRING CT                                              0240102401
+MILL ST                                                     0240002400
+MILL TERRACE CT                                             0240102401
+MILL VIEW CT                                                0240102401
+MILLARD RD                                                  0240502405
+MILLER MILL RD                                              0240002400
+MILLIE DR                                                   0240502405
+MILTON ST                                                   0240102401
+MISSOURI AVE                                                0240502405
+MITCH LN                                                    0240002400
+MITSUBISHI LN                                               0240102401
+MOAYON ST                                                   0240102401
+MOCK RD                                                     0240002400
+MOELIGHT DR                                                 0240102401
+MOHAWK TRL                                                  0240102401
+MONKEY NORMAN RD                                            0240002400
+MONTE CARLO CT                                              0240102401
+MONTGOMERY DR                                               0240102401
+MONTLIO ST                                                  0240002400
+MOORE LOOP                                                  0240002400
+MOORE RD                                                    0240002400
+MOORES DR                                                   0240102401
+MOOSE LN                                                    0240002400
+MORELAND DR                                                 0240102401
+MORGAN LN                                                   0240002400
+MORGAN RD                                                   0240002400
+MORGAN RD                                                   0240502405
+MORGAN ROAD NO2                                             0240002400
+MORNINGSIDE DR                                              0240102401
+MORRIS CIR                                                  0240102401
+MOSELEY DR                                                  0240102401
+MSU DR                                                      0240102401
+MSU RD                                                      0240102401
+MT CARMEL CAMP CREEK RD                                     0240002400
+MT CARMEL HAWKINS RD                                        0240002400
+MT VERNON CHURCH RD                                         0240002400
+MT VERNON CHURCH RD                                         0240102401
+MT ZOAR LATHAM RD                                           0240002400
+MT ZOAR RD                                                  0240002400
+MUDSINK LN                                                  0240002400
+MUMFORD LN                                                  0240102401
+N ANDERSON ST                                               0240202402
+N BELL RD                                                   0240002400
+N BUNTIN RD                                                 0240002400
+N BUNTIN ROAD CONNECTOR                                     0240002400
+N CAMPBELL ST                                               0240102401
+N CAVALCADE CIR                                             0240002400
+N CHEROKEE TRCE                                             0240102401
+N CLAY ST                                                   0240102401
+N CLEVELAND AVE                                             0240102401
+N DOVE CT                                                   0240102401
+N ELM ST                                                    0240102401
+N FOWLER AVE                                                0240102401
+N GREENVILLE RD                                             0240002400
+N HARRISON ST                                               0241002410
+N IRIS DR                                                   0240102401
+N JESSUP ST                                                 0240102401
+N KENTUCKY AVE                                              0240102401
+N LONG ALY                                                  0240102401
+N MADISONVILLE ST                                           0240202402
+N MAIN ST                                                   0240102401
+N MAIN ST                                                   0240302403
+N MCPHERSON AVE                                             0240102401
+N MICHAEL DR                                                0240102401
+N O'NEAL AVE                                                0240102401
+N OLD MADISONVILLE ST                                       0240202402
+N RIDGE RD                                                  0240002400
+N SALTSMAN DR                                               0240102401
+N SUNSET CIR                                                0240102401
+N VINE ST                                                   0240102401
+N VIRGINIA ST                                               0240102401
+N WADE RD                                                   0240002400
+NAGEL ST                                                    0240102401
+NANCY ST                                                    0240502405
+NAOMI LN                                                    0240502405
+NASSAU CIR                                                  0240102401
+NAVAHO TRL                                                  0240102401
+NELSON DR                                                   0240102401
+NESTING CT                                                  0240102401
+NEW CASKEY CHURCH RD                                        0240002400
+NEW CASKEY CHURCH RD                                        0240102401
+NEW GRITTON AVE                                             0240502405
+NEW INDUSTRY LANE CONNECTOR                                 0240102401
+NEW INDUSTRY LN                                             0240002400
+NEW INDUSTRY LN                                             0240102401
+NEW SUBDIVISION RD                                          0240002400
+NEWSTEAD RD                                                 0240002400
+NEWTON LANE CONNECTOR                                       0240002400
+NEWTON LN                                                   0240002400
+NICHOLS RD                                                  0240302403
+NICK TERHUNE BLVD                                           0240102401
+NIGHT STALKER WAY                                           0240002400
+NMAIN ST                                                    0240102401
+NO OUTLET RD                                                0240002400
+NO5 SCHOOLHOUSE RD                                          0240002400
+NOEL AVE                                                    0240102401
+NORFLEET RD                                                 0240002400
+NORMAN DALE DR                                              0240102401
+NORTH DR                                                    0240102401
+NORTH ST                                                    0240102401
+NORTHWIND DR                                                0240102401
+NOTTINGHAM LN                                               0240102401
+NOVADELL WAY                                                0240102401
+NURSERY RD                                                  0240002400
+O DANIELS RD                                                0240002400
+OAK HURST DR                                                0240102401
+OAK LN                                                      0240002400
+OAK RIDGE CT                                                0240102401
+OAK ST                                                      0240102401
+OAK TREE CT                                                 0240102401
+OAK TREE DR                                                 0240502405
+OAK TREE VILLA DR                                           0240102401
+OAK WOOD CT                                                 0240102401
+OAKHURST CT                                                 0240102401
+OAKLAND AVE                                                 0241002410
+OAKMONT CT                                                  0240102401
+OATTS CEMETARY RD                                           0240002400
+ODEAN RD                                                    0240002400
+OKLAHOMA AVE                                                0240502405
+OLD BUTLER RD                                               0240002400
+OLD BUTTERMILK RD                                           0240002400
+OLD CLARKSVILLE PIKE                                        0240002400
+OLD CLARKSVILLE PIKE                                        0240102401
+OLD CLARKSVILLE PIKE                                        0241002410
+OLD COMMERCE CT                                             0240102401
+OLD CONCORD LN                                              0240102401
+OLD EDWARDS MILL RD                                         0240002400
+OLD FRUIT HILL RD                                           0240002400
+OLD GLORY LN                                                0240502405
+OLD GREENVILLE RD                                           0240002400
+OLD HALEYS MILL RD                                          0240002400
+OLD HICKORY CT                                              0240102401
+OLD HOPKINSVILLE RD                                         0241002410
+OLD HOSPITAL RD                                             0240002400
+OLD KY 345 RD                                               0240002400
+OLD KY 398 RD                                               0240002400
+OLD LAFAYETTE RD                                            0240002400
+OLD LOVERS LANE CONNECTOR                                   0240002400
+OLD LOVERS LN                                               0240102401
+OLD MADISONVILLE CONNECTOR                                  0240002400
+OLD MADISONVILLE RD                                         0240002400
+OLD MADISONVILLE ROAD CONNECTOR                             0240002400
+OLD MADISONVILLE ST                                         0240202402
+OLD MAJOR LN                                                0240002400
+OLD PALESTINE RD                                            0240002400
+OLD PRINCETON RD                                            0240002400
+OLD SAINT ELMO RD                                           0240002400
+ON THE LINE RD                                              0240002400
+ORCHARD ST                                                  0240102401
+ORIOLE DR                                                   0240102401
+ORTEN DR                                                    0240002400
+OUTWOOD                                                     0240002400
+OUTWOOD NO2                                                 0240002400
+OUTWOOD NO3                                                 0240002400
+OUTWOOD NO4                                                 0240002400
+OUTWOOD NO5                                                 0240002400
+OVERBY LN                                                   0240002400
+OVERTON CT                                                  0240102401
+OVERTON RD                                                  0240002400
+OVIL RD                                                     0240002400
+OWEN DR                                                     0240102401
+OWEN WEST RD                                                0240002400
+OXFORD ST                                                   0240102401
+PACIFIC AVE                                                 0240502405
+PALMYRA RD                                                  0240002400
+PAPPY DR                                                    0240502405
+PAR PL                                                      0240102401
+PARDUE LN                                                   0240102401
+PARK AVE                                                    0240102401
+PARKLAWN CT                                                 0240102401
+PARKVIEW DR                                                 0240102401
+PARKWAY INDUSTRIAL DR                                       0240102401
+PARRISH PL                                                  0240102401
+PARSONS RD                                                  0240002400
+PAT AVE                                                     0240102401
+PAT MARTIN RD                                               0240002400
+PATRICK AVE                                                 0240102401
+PATTON PL                                                   0240502405
+PATTON RD                                                   0240002400
+PAUL BERRY CIR                                              0240002400
+PAUL BERRY CIR                                              0240102401
+PAULETTE CT                                                 0240102401
+PAVILION DR                                                 0240102401
+PAWNEE DR                                                   0240102401
+PEACE CT                                                    0240102401
+PEACEFUL MEADOWS CEMETERY RD                                0240102401
+PEACEFUL MEADOWS CEMETERY ROAD NO2                          0240102401
+PEACH ST                                                    0240002400
+PEACHTREE PL                                                0240002400
+PEARTREE LN                                                 0240102401
+PEGGY LN                                                    0240102401
+PEGGY ST                                                    0240502405
+PEMBERTON PL                                                0240102401
+PEMBROKE FAIRVIEW RD                                        0240002400
+PEMBROKE FAIRVIEW RD                                        0240302403
+PEMBROKE OAK GROVE RD                                       0240002400
+PEMBROKE OAK GROVE RD                                       0240302403
+PEMBROKE OAK GROVE RD                                       0240502405
+PEMBROKE RD                                                 0240002400
+PEMBROKE RD                                                 0240102401
+PEMBROKE RD                                                 0240302403
+PENDLETON FIDELIO RD                                        0240002400
+PENNSYLVANIA AVE                                            0240002400
+PENNYRILE FOREST STATE PARK RD                              0240002400
+PENNYROYAL SHELTER RD                                       0240002400
+PEPPER CT                                                   0240502405
+PEPPERMINT DR                                               0240102401
+PERIMETER DRIVE EXT                                         0240002400
+PERIMETER RD                                                0240002400
+PERIMETER RD W                                              0240002400
+PERIMITER ROAD SPUR                                         0240002400
+PERKINS RD                                                  0240002400
+PERRY LN                                                    0240002400
+PERRY ST                                                    0240102401
+PERRY ST                                                    0240502405
+PETITE LN                                                   0240002400
+PETSCH LN                                                   0240002400
+PHELPS AVE                                                  0240102401
+PICKETTS WAY                                                0240102401
+PICNIC LOOP                                                 0240002400
+PIERCE LN                                                   0240002400
+PILOT ROCK RD                                               0240002400
+PIN OAK DR                                                  0240102401
+PINE HILL DR                                                0240102401
+PINE ST                                                     0240002400
+PINE TREE RD                                                0240002400
+PINERIDGE DR                                                0240102401
+PIONEER DR                                                  0240502405
+PLEASANT GREEN CHURCH RD                                    0240002400
+PLEASANT GREEN HILL RD                                      0240002400
+PLEASANT GREEN SPUR                                         0240002400
+PLEASANT GROVE RD                                           0240002400
+PLEASANT VIEW ACRES DR                                      0240002400
+PLEASANT VIEW ACRES DR                                      0240102401
+PLUM ST                                                     0240002400
+POLETE LN                                                   0240002400
+POLK AVE                                                    0240502405
+POLK RD                                                     0240002400
+POOL NANNY RD                                               0240002400
+POOLE MILL RD                                               0240002400
+POORHOUSE RD                                                0240002400
+POPLAR ST                                                   0240102401
+POPPY SEED DR                                               0240502405
+POSTON AVE                                                  0240102401
+POTOMAC DR                                                  0240502405
+POWELL LN                                                   0240002400
+POWELL RD                                                   0240002400
+PRIMERA DR                                                  0240002400
+PRINCETON RD                                                0240002400
+PRINCETON RD                                                0240102401
+PROFESSIONAL WAY                                            0240002400
+PROSPERITY LN                                               0240002400
+PROUD CLARION DR                                            0240102401
+PRUITT LN                                                   0240002400
+PYKE ST                                                     0240202402
+PYLE LN                                                     0240002400
+PYLE LN                                                     0240102401
+QUAIL CLUB RD                                               0240002400
+QUAIL RIDGE DR                                              0240102401
+QUARLES LN                                                  0240002400
+QUARRY ST                                                   0240102401
+QUINCY DR                                                   0240102401
+QUINTIN CT                                                  0240102401
+QUISENBERRY LN                                              0240002400
+RABBIT RIDGE RD                                             0240002400
+RABBIT RIDGE RD                                             0240202402
+RACHEL CT                                                   0240102401
+RADFORD ST                                                  0240102401
+RADFORDS RD                                                 0240002400
+RAILROAD ST                                                 0240002400
+RAILROAD ST                                                 0240202402
+RAINTREE LANE SPUR                                          0240002400
+RAINTREE LN                                                 0240002400
+RASCOE RD                                                   0240002400
+RAT ROGERS RD                                               0240002400
+RAYMOND BURSE CT                                            0240102401
+RECOVERY DR                                                 0240102401
+RED DIAMOND RD                                              0240002400
+RED FOX CT                                                  0240102401
+RED OAK DR                                                  0240102401
+REDBUD DR                                                   0240102401
+REDD LN                                                     0240002400
+REDWOOD CT                                                  0240102401
+REED AVE                                                    0240002400
+REEDER ST                                                   0240002400
+REIGH COUNT CT                                              0240002400
+REMINGTON RD                                                0240102401
+RHONDA LYNN LN                                              0240502405
+RICHARD MILLS DR                                            0240102401
+RICHARD ST                                                  0240102401
+RIDGEHILL DR                                                0240102401
+RIDGEHILL WAY                                               0240002400
+RIDGEMONT DR                                                0240102401
+RIDGEVIEW DR                                                0240002400
+RIDING RIDGE PL                                             0240102401
+RIGGINS ST                                                  0240502405
+RIKEN CT                                                    0240102401
+RIVERBEND EXT                                               0240002400
+RIVERBEND RD                                                0240002400
+RIVERFRONT DR                                               0240102401
+RIVERSIDE CEMETERY NO1                                      0240102401
+RIVERSIDE CEMETERY NO10                                     0240102401
+RIVERSIDE CEMETERY NO11                                     0240102401
+RIVERSIDE CEMETERY NO12                                     0240102401
+RIVERSIDE CEMETERY NO13                                     0240102401
+RIVERSIDE CEMETERY NO14                                     0240102401
+RIVERSIDE CEMETERY NO15                                     0240102401
+RIVERSIDE CEMETERY NO16                                     0240102401
+RIVERSIDE CEMETERY NO17                                     0240102401
+RIVERSIDE CEMETERY NO18                                     0240102401
+RIVERSIDE CEMETERY NO19                                     0240102401
+RIVERSIDE CEMETERY NO2                                      0240102401
+RIVERSIDE CEMETERY NO20                                     0240102401
+RIVERSIDE CEMETERY NO21                                     0240102401
+RIVERSIDE CEMETERY NO22                                     0240102401
+RIVERSIDE CEMETERY NO23                                     0240102401
+RIVERSIDE CEMETERY NO24                                     0240102401
+RIVERSIDE CEMETERY NO25                                     0240102401
+RIVERSIDE CEMETERY NO3                                      0240102401
+RIVERSIDE CEMETERY NO4                                      0240102401
+RIVERSIDE CEMETERY NO5                                      0240102401
+RIVERSIDE CEMETERY NO6                                      0240102401
+RIVERSIDE CEMETERY NO7                                      0240102401
+RIVERSIDE CEMETERY NO8                                      0240102401
+RIVERSIDE CEMETERY NO9                                      0240102401
+RIVERVIEW DR                                                0240102401
+ROARING SPRINGS RD                                          0240002400
+ROARING SPRINGS RD                                          0241002410
+ROBERTS LN                                                  0240102401
+ROBIN RD                                                    0240102401
+ROBIN ST                                                    0240502405
+ROBINSON LN                                                 0240002400
+ROCKCLIFF DR                                                0240002400
+ROCKY POINT DR                                              0240102401
+ROEDER RD                                                   0240002400
+ROGERS CEMETERY RD                                          0240002400
+ROGERS RD                                                   0240002400
+ROMEO DR                                                    0240002400
+RONEY DR                                                    0240102401
+RONEY DRIVE EXT                                             0240102401
+ROOSEVELT AVE                                               0240102401
+ROOT RD                                                     0240002400
+ROSE DR                                                     0240102401
+ROSE LN                                                     0240102401
+ROSEMONT DR                                                 0240102401
+ROSETOWN RD                                                 0240002400
+ROSETOWN RD                                                 0240302403
+ROSS ST                                                     0240502405
+ROZELLE AVE                                                 0240102401
+RUF DR                                                      0240502405
+RUSSELLVILLE RD                                             0240002400
+RUSSELLVILLE RD                                             0240102401
+RUSSELLVILLE ROAD CONNECTOR                                 0240002400
+RUSTY DR                                                    0240502405
+RUTH HENDERSON RD                                           0240002400
+RUTH ST                                                     0240502405
+RUTLAND RD                                                  0240002400
+S ANDERSON ST                                               0240202402
+S BUNTIN RD                                                 0240002400
+S CAMPBELL ST                                               0240102401
+S CAROLINA AVE                                              0240002400
+S CAVALCADE CIR                                             0240002400
+S CLAY ST                                                   0240102401
+S CLEVELAND AVE                                             0240102401
+S DOVE CT                                                   0240102401
+S EDGEWOOD DR                                               0240102401
+S ELM ST                                                    0240102401
+S FOWLER AVE                                                0240102401
+S IRIS DR                                                   0240102401
+S JESSUP ST                                                 0240102401
+S KENTUCKY AVE                                              0240102401
+S LIBERTY ST                                                0240102401
+S LONG ALY                                                  0240102401
+S MADISONVILLE ST                                           0240202402
+S MAIN ST                                                   0240102401
+S MAIN ST                                                   0240302403
+S MCPHERSON AVE                                             0240102401
+S O'NEAL AVE                                                0240102401
+S RAILROAD ST                                               0240002400
+S RIVERWOOD DR                                              0240102401
+S SALTSMAN DR                                               0240102401
+S SHERIDAN DR                                               0240102401
+S SUNSET CIR                                                0240102401
+S VINE ST                                                   0240102401
+S VIRGINIA ST                                               0240102401
+SABEL ST                                                    0240002400
+SADDLEBROOK CT                                              0240102401
+SALEM BRADSHAW RD                                           0240002400
+SALEM CHURCH RD                                             0240002400
+SALUBRIA SPRINGS RD                                         0240002400
+SALUBRIA SPRINGS SPUR                                       0240102401
+SAMPSON ST                                                  0240302403
+SANDERSON DR                                                0240102401
+SANDRA ST                                                   0240502405
+SANDS DR                                                    0240102401
+SARA ST                                                     0240502405
+SARAH AVE                                                   0240102401
+SAVANNAH PL                                                 0240002400
+SCHAEFFER ST                                                0240002400
+SCHATTEN ST                                                 0240502405
+SCHOOL HOUSE RD                                             0240002400
+SCHOOL RD                                                   0240002400
+SCHOOL ROAD SPUR                                            0240002400
+SCOTT CT                                                    0240102401
+SCREAMING EAGLE BLVD                                        0240002400
+SCREAMING EAGLE BLVD                                        0240502405
+SECRETARIAT WAY                                             0240102401
+SECRETARIAT WAY                                             0240502405
+SEGLER DR                                                   0240502405
+SEMINOLE AVE                                                0240102401
+SEQUOYA DR                                                  0240102401
+SERVICE RD                                                  0240002400
+SETH LN                                                     0240002400
+SETTER DR                                                   0240502405
+SEWER PLANT RD                                              0240002400
+SHADOW RIDGE AVE                                            0240502405
+SHADOWOOD TRL                                               0240002400
+SHALLOW LAKE CIR                                            0240102401
+SHANNON DR                                                  0240502405
+SHARPE ST                                                   0240102401
+SHAW OVIL RD                                                0240002400
+SHAW ST                                                     0240002400
+SHAWNEE DR                                                  0240102401
+SHEENA AVE                                                  0240102401
+SHEENA CT                                                   0240102401
+SHEFFIELD DOWNS                                             0240102401
+SHEFFIELD RD                                                0240102401
+SHEILA DR                                                   0240102401
+SHEPHERD RD                                                 0240002400
+SHERIDAN CIR                                                0240102401
+SHERINTON PL                                                0240102401
+SHERWOOD DR                                                 0240102401
+SHETLAND DR                                                 0240502405
+SHILOH CHURCH RD                                            0240002400
+SHORT 19TH ST                                               0240102401
+SHORT BENTLEY ST                                            0240102401
+SHORT ST                                                    0240102401
+SHORT ST                                                    0240202402
+SHURDAN CREEK RD                                            0240002400
+SIDELINE DR                                                 0240502405
+SIDNEY CT                                                   0240502405
+SIMMONS CEMETERY RD                                         0240002400
+SIMMONS LN                                                  0240002400
+SIMON ST                                                    0240102401
+SIMPSON LN                                                  0240102401
+SINGLETREE DR                                               0240102401
+SIVLEY RD                                                   0240102401
+SIVLEY ROAD EXT                                             0240102401
+SKYLARK DR                                                  0240102401
+SKYLINE DR                                                  0240102401
+SKYLINE PARK DR                                             0240102401
+SLAUGHTERS RD                                               0240002400
+SMITH RD                                                    0240002400
+SMITH ST                                                    0240102401
+SMITH ST                                                    0240502405
+SNORTON LN                                                  0240202402
+SOFFROTH CT                                                 0240002400
+SORRELL LN                                                  0240002400
+SOUTH FORK PLACE DR                                         0240002400
+SOUTH FORK PLACE DR                                         0240102401
+SOUTH ST                                                    0240102401
+SOUTHGATE DR                                                0240102401
+SOUTHWIND DR                                                0240102401
+SPAIN LN                                                    0240002400
+SPARKMAN RD                                                 0240002400
+SPENCER LN                                                  0240502405
+SPINDLETREE DR                                              0240102401
+SPRING HILL DR                                              0240102401
+SPRING ST                                                   0240002400
+SPRING ST                                                   0240102401
+SPRING ST                                                   0240302403
+SPRINGMONT CT                                               0240102401
+SPRINGMONT DR                                               0240102401
+ST MICHAELS WAY                                             0240102401
+ST PETERSBURG CHURCH RD                                     0240002400
+STABLEFORD LN                                               0240502405
+STANLEY ST                                                  0240102401
+STARLING ST                                                 0240102401
+STATE FOREST NO22                                           0240002400
+STATE LINE RD                                               0240502405
+STEEL LOOP                                                  0240002400
+STEEPLECHASE LN                                             0240102401
+STEIN ST                                                    0240502405
+STERLING DR                                                 0240102401
+STEVEN DR                                                   0240002400
+STEWART ST                                                  0240102401
+STONE LN                                                    0240002400
+STONE QUARRY RD                                             0240002400
+STONE VALLEY DR                                             0240102401
+STONEHAM ALY                                                0240102401
+STRATFORD CT                                                0240102401
+STRIPED BRIDGE RD                                           0240002400
+SUBSTATION RD                                               0240002400
+SUE ST                                                      0240502405
+SUE W RD                                                    0240002400
+SUGAR CREEK RD                                              0240002400
+SUMMIT ST                                                   0240102401
+SUMNER RD                                                   0240002400
+SUN CHEMICAL CT                                             0240102401
+SUNNYVALE LN                                                0240102401
+SUSAN AVE                                                   0240102401
+SUSAN ST                                                    0240502405
+SWALE CT                                                    0240502405
+SWEETBRIAR CT                                               0240102401
+SWIFT FORD RD                                               0240002400
+SYCAMORE ST                                                 0240102401
+SYLVAN TER                                                  0240102401
+SYLVIA ST                                                   0240102401
+T STOKES RD                                                 0240002400
+TALBERT DR                                                  0240102401
+TALLEY LN                                                   0240002400
+TALLEY ST                                                   0240102401
+TALON DR                                                    0240102401
+TANDY LN                                                    0240102401
+TANDY LN                                                    0240502405
+TANGLEWOOD CT                                               0240102401
+TANGLEWOOD DR                                               0240102401
+TATE ST                                                     0240102401
+TAYLOR RD                                                   0240002400
+TEETER ST                                                   0240002400
+TENNESSEE AVE                                               0240002400
+TENNESSEE AVE                                               0240102401
+TENNESSEE AVE                                               0240502405
+TERRY COAL RD                                               0240002400
+TERRY LN                                                    0240002400
+TEXAS AVE                                                   0240002400
+TEXAS AVE                                                   0240502405
+TEXAS AVENUE SPUR                                           0240002400
+THOMAS ST                                                   0240102401
+THOMPSON ST                                                 0240102401
+THOMPSONVILLE LN                                            0240502405
+THORNTON CT                                                 0240102401
+THRUSH DR                                                   0240102401
+TIM ST                                                      0240502405
+TIMBERLINE CIR                                              0240502405
+TIMBERLINE CIRCLE BAY                                       0240502405
+TIMOTHY AVE                                                 0240502405
+TINSLEY DR                                                  0240302403
+TOBACCO RD                                                  0240002400
+TODD DR                                                     0240102401
+TOMMY DR                                                    0240002400
+TOMMY DRIVE CONNECTOR                                       0240002400
+TONY GRACE RD                                               0240002400
+TONYA WAY                                                   0240102401
+TORIAN SPRINGS RD                                           0240002400
+TOWER RD                                                    0240102401
+TOWNSEND PL                                                 0240102401
+TRAD DR                                                     0240102401
+TRAIL OF TEARS DR                                           0240102401
+TRAILS END RD                                               0240002400
+TREASURE ISLAND CT                                          0240102401
+TREE LINE DR                                                0240502405
+TREMONT DR                                                  0240102401
+TRILOGY WAY                                                 0240102401
+TRIMBLE LN                                                  0240102401
+TROPICANA CT                                                0240102401
+TROY HOPSON RD                                              0240002400
+TUCKAWAY LANE LEFT FORK                                     0240502405
+TUCKAWAY LN                                                 0240502405
+TUCKER LN                                                   0240002400
+TURNER LN                                                   0240002400
+TURNER LOOP                                                 0240002400
+TURNER LOOP RD                                              0240002400
+TURNS DR                                                    0240102401
+TURTLE CREEK DR                                             0240102401
+TWYMAN SQ                                                   0240102401
+TWYMAN ST                                                   0240102401
+TYNE RD                                                     0240002400
+UNDERWOOD DR                                                0240102401
+UNION CEMETERY RD                                           0240302403
+UNION TEMPLE RD                                             0240002400
+UNKNOWN                                                     0240102401
+US68                                                        0240002400
+US68                                                        0240102401
+US68 ALT                                                    0240002400
+VALLEY DR                                                   0240102401
+VALLEY GREEN DR                                             0240002400
+VALLEY ST                                                   0240502405
+VALLEY VIEW DR                                              0240002400
+VALLEYVIEW DR                                               0240502405
+VAN BUREN AVE                                               0240502405
+VASS LN                                                     0240102401
+VAUGHNS GROVE FAIRVIEW RD                                   0240002400
+VAUGHNS GROVE LITTLE RIVER RD                               0240002400
+VELMA DR                                                    0240102401
+VELMA DRIVE EXT                                             0240102401
+VELVET TRL                                                  0240502405
+VERA ST                                                     0240102401
+VERMONT AVE                                                 0240002400
+VERNON AVE                                                  0240102401
+VETERANS CEMETERY DR                                        0240102401
+VETERANS CEMETERY DRIVE NO2                                 0240102401
+VFW LN                                                      0240102401
+VICKI LYNN LN                                               0240002400
+VICKY ST                                                    0240502405
+VICTORIA CT                                                 0240002400
+VICTORY LN                                                  0240102401
+VILLA CT                                                    0240102401
+VILLAGE GREEN DR                                            0240102401
+VINE ST                                                     0240002400
+W 10TH ST                                                   0240102401
+W 11TH ST                                                   0240102401
+W 12TH ST                                                   0240102401
+W 13TH ST                                                   0240102401
+W 14TH ST                                                   0240102401
+W 15TH ST                                                   0240102401
+W 16TH ST                                                   0240102401
+W 17TH ST                                                   0240102401
+W 18TH ST                                                   0240102401
+W 19TH ST                                                   0240102401
+W 1ST ST                                                    0240102401
+W 20TH ST                                                   0240102401
+W 2ND ST                                                    0240102401
+W 37TH ST                                                   0240102401
+W 3RD ST                                                    0240102401
+W 4TH ST                                                    0240102401
+W 5TH ST                                                    0240102401
+W 7TH ST                                                    0240102401
+W 8TH ST                                                    0240102401
+W 9TH ST                                                    0240102401
+W BROWN ST                                                  0240202402
+W CHERRY ST                                                 0240302403
+W E LACEY RD                                                0240002400
+W EDMONDS ST                                                0240102401
+W GATE DR                                                   0240102401
+W MAIN ST                                                   0240002400
+W MAIN ST                                                   0240202402
+W MILL ST                                                   0240202402
+W NASHVILLE ST                                              0240302403
+W O KING LN                                                 0240102401
+W OTIS CIR                                                  0240002400
+W PRINCETON ST                                              0240202402
+W RIVERWOOD DR                                              0240102401
+WADDELL CIR                                                 0240102401
+WADE RD                                                     0240002400
+WADES WAY LN                                                0240502405
+WAGONER RD                                                  0240002400
+WAINWRIGHT DR                                               0240102401
+WALLACE AVE                                                 0240102401
+WALLACE PARK CALDWELL COUNTY RD                             0240002400
+WALLACE PARK RD                                             0240002400
+WALNUT CT                                                   0240102401
+WALNUT LANE EXT                                             0240002400
+WALNUT LN                                                   0240002400
+WALNUT ST                                                   0240102401
+WALNUT ST                                                   0240302403
+WALTER GARRETT LN                                           0240502405
+WALTON RD                                                   0240502405
+WALTON WAY                                                  0240102401
+WARPATH LN                                                  0240002400
+WARREN LN                                                   0240002400
+WARWICK WAY                                                 0240102401
+WASHINGTON AVE                                              0240502405
+WATERFORD DR                                                0240502405
+WATTS RD                                                    0240002400
+WAYNE DR                                                    0240102401
+WAYNE ELGIN RD                                              0240002400
+WAYNE HUNT RD                                               0240002400
+WAYSIDE DR                                                  0240102401
+WE LIKE IT LN                                               0240002400
+WEATHERS AVE                                                0241002410
+WEBER ST                                                    0240102401
+WELLINGTON WAY                                              0240102401
+WEST OTIS CIR                                               0240002400
+WEST ST                                                     0240102401
+WESTBROOKE CIR                                              0240302403
+WESTERN HILLS BLVD                                          0240102401
+WESTERN STATE HOSPITAL ACCESS RD                            0240102401
+WESTERN STATE HOSPITAL DR                                   0240102401
+WESTMINSTER PL                                              0240102401
+WESTSIDE CT                                                 0240102401
+WESTWOOD DR                                                 0240102401
+WHEELER ST                                                  0240102401
+WHIPPORWILL DR                                              0240102401
+WHISPERING HILLS DR                                         0240102401
+WHITE OAK CT                                                0240102401
+WHITE ST                                                    0240102401
+WHITE ST                                                    0241002410
+WHITNEY PL                                                  0240102401
+WICKHAM AVE                                                 0240002400
+WILDWOOD DR                                                 0240102401
+WILLIAM CT                                                  0240102401
+WILLIAM LILE RD                                             0240002400
+WILLIAMS ST                                                 0240102401
+WILLOW CT                                                   0240102401
+WILSHIRE CIR                                                0240102401
+WILSON DR                                                   0240502405
+WILSON ST                                                   0240002400
+WINCHESTER DR                                               0240102401
+WINDSOR DR                                                  0240102401
+WINDWOOD CT                                                 0240102401
+WINDY HILL DR                                               0240002400
+WING TIP CIR                                                0240102401
+WINONA CT                                                   0240102401
+WITTY LN                                                    0240002400
+WOFFORD WAY                                                 0240102401
+WOOD ST                                                     0240102401
+WOODBINE ST                                                 0240002400
+WOODBINE STREET EXT                                         0240002400
+WOODBURN HAY RD                                             0240002400
+WOODBURN HAY SPUR                                           0240002400
+WOODLAND HTS                                                0240002400
+WOODLAWN DR                                                 0240102401
+WOODMILL RD                                                 0240102401
+WOODMONT DR                                                 0240102401
+WOODSON DR                                                  0240102401
+WOODVALE DR                                                 0240102401
+WOODY SHELTON RD                                            0240002400
+WOOLDRIDGE RD                                               0240102401
+WOOSLEY MOUNT CARMEL RD                                     0240002400
+WOOSLEY RD                                                  0240002400
+WYNN RED HILL RD                                            0240002400
+YATES LN                                                    0240002400
+YOAKUM CIR                                                  0240002400
+YOUNG LOOP                                                  0240002400
+YOUNG RD                                                    0240002400
+YOUNG RD S                                                  0240002400
+YOUNG ST                                                    0240102401
+YOUNGLOVE ST                                                0240102401
+ZANDER RD                                                   0240002400
+ZENTMEYER RD                                                0240002400

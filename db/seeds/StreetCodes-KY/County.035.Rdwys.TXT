@@ -1,0 +1,692 @@
+2ND ST                                                      0350103501
+ADAMS LN                                                    0350003500
+ADDIE LN                                                    0350003500
+ALICE AVE                                                   0350103501
+AMA SPEAKS LN                                               0350003500
+AMANDA BROOK DR                                             0350103501
+ANDERSON BRANCH RD                                          0350003500
+ANNADD DR                                                   0350003500
+ARMSTRONG ST                                                0350103501
+ARNETT LN                                                   0350003500
+ASBURY RD                                                   0350003500
+ASH ALLY                                                    0350103501
+ASHBROOK DR                                                 0350103501
+ASHLEY ST                                                   0350003500
+ASHTON ST                                                   0350003500
+ATLANTIC AVE                                                0350003500
+AUSTIN ST                                                   0350003500
+AUTUMN RIDGE RD                                             0350003500
+BACK ST                                                     0350003500
+BAINUM LN                                                   0350003500
+BALD HILL RD                                                0350003500
+BALLARD LN                                                  0350003500
+BALTIC AVE                                                  0350003500
+BAMA LN                                                     0350003500
+BAPTIST LN                                                  0350003500
+BARBER RD                                                   0350003500
+BARE ALLY                                                   0350103501
+BARRETT DR                                                  0350003500
+BEECH SPRINGS DR                                            0350003500
+BEECHBURG RD                                                0350003500
+BEECHBURG TOWER RD                                          0350003500
+BEECHTREE PARK                                              0350003500
+BEECHY CREEK RD                                             0350003500
+BEL AIR WAY                                                 0350003500
+BIG BEND LOCUST EXT                                         0350003500
+BIG BEND LOCUST RD                                          0350003500
+BIG RUN RD                                                  0350003500
+BIRCH DR                                                    0350103501
+BLACK DIAMOND RD                                            0350003500
+BLAIR RD                                                    0350003500
+BLUEBANK LN                                                 0350003500
+BOARDWALK                                                   0350003500
+BOAT RAMP ACCESS RD                                         0350003500
+BOB PARKER RD                                               0350003500
+BOTKINS LN                                                  0350003500
+BOW HUNTERS BR                                              0350003500
+BOWER ALLY                                                  0350103501
+BRADLEY DR                                                  0350003500
+BRANCH BROTHERS RD                                          0350003500
+BREEZE RD                                                   0350003500
+BRIDGE RD                                                   0350003500
+BRIGGS LN                                                   0350003500
+BRIGHT DR                                                   0350003500
+BROOKHILL DR                                                0350003500
+BROOKS RD                                                   0350003500
+BROOKSTONE DR                                               0350003500
+BROWN RD                                                    0350003500
+BRUCE CEMETERY RD                                           0350003500
+BUCHANAN RD                                                 0350003500
+BUCKLER LN                                                  0350003500
+BUDDYS LN                                                   0350103501
+BUFFALO TRACE                                               0350003500
+BURDEN LN                                                   0350003500
+BURKE ST                                                    0350003500
+BURNING BUSH RD                                             0350003500
+BURTON RD                                                   0350003500
+BURTONVILLE RD                                              0350003500
+BUTCHER RD                                                  0350003500
+BUTLER BRANCH RD                                            0350003500
+BUTTONWOOD CT                                               0350003500
+BYPASS                                                      0350003500
+BYPASS                                                      0350103501
+BYPASS BLVD                                                 0350003500
+BYPASS RD                                                   0350003500
+BYPASS RD                                                   0350103501
+CAMP DR                                                     0350003500
+CAMP RD                                                     0350003500
+CAMPBELL DR                                                 0350003500
+CARDINAL LN                                                 0350103501
+CAROLYN PL                                                  0350003500
+CARPENTER LN                                                0350003500
+CARPENTER RD                                                0350003500
+CASSIDY PARK                                                0350003500
+CDL DR                                                      0350003500
+CEDAR LAKE                                                  0350003500
+CEMETERY LN                                                 0350003500
+CEMETERY LN                                                 0350103501
+CHAPEL LN                                                   0350103501
+CHERRY AVE                                                  0350703507
+CHERRY GROVE RD                                             0350003500
+CHERRY GROVE RD                                             0350103501
+CHESTNUT RD                                                 0350003500
+CHRISTMAS TREE RD                                           0350003500
+CHURCH CAMP DR                                              0350003500
+CHURCH ST                                                   0350003500
+CIRCLE DR                                                   0350103501
+CLARK ST                                                    0350103501
+CLAYPOOL LN                                                 0350003500
+CLAYTON DR                                                  0350003500
+CLILL LN                                                    0350003500
+CLOVER HILL RD                                              0350003500
+COLEMAN LN                                                  0350003500
+COLEMIRE RD                                                 0350003500
+COLFAX RD                                                   0350003500
+COLGAN RD                                                   0350003500
+COLLIVER RD                                                 0350003500
+CONCORD RD                                                  0350003500
+CONNECTOR RD                                                0350003500
+CONNIE LN                                                   0350003500
+CONVICT PIKE                                                0350003500
+CONWAY DR                                                   0350003500
+COOPER ST                                                   0350003500
+COPPERHEAD RD                                               0350003500
+CORD LN                                                     0350003500
+COSKERY PARK                                                0350003500
+COUNTRY LN                                                  0350003500
+COUNTRY LN                                                  0350103501
+COUNTRY YARD NURSERY                                        0350103501
+COURT SQUARE                                                0350103501
+COVERED BRIDGE RD                                           0350003500
+COWAN LOOP                                                  0350003500
+COWAN RD                                                    0350003500
+COX LN                                                      0350003500
+CRABAPPLE DR                                                0350003500
+CRAIN CREEK RD                                              0350003500
+CRAINTOWN RD                                                0350003500
+CRAWFORD BEND RD                                            0350003500
+CRAWFORD ST                                                 0350103501
+CREEK RD                                                    0350003500
+CREST AVE                                                   0350103501
+CRESTVIEW                                                   0350103501
+CULLEN ST                                                   0350103501
+DAISY DR                                                    0350003500
+DANIEL CT                                                   0350003500
+DAVIS RD                                                    0350003500
+DAYS MILL RD                                                0350003500
+DEER LICK RD                                                0350003500
+DEL LN                                                      0350003500
+DELANEY RD                                                  0350003500
+DENTON AVE                                                  0350003500
+DENTON ST                                                   0350003500
+DERRICKSON LN                                               0350003500
+DIAMOND LN                                                  0350003500
+DILLON LN                                                   0350003500
+DIXON RD                                                    0350003500
+DOC REEVES RD                                               0350003500
+DOGWOOD DR                                                  0350003500
+DOROTHY ST                                                  0350103501
+DOTSON LN                                                   0350003500
+DOWD LN                                                     0350003500
+DOYLE LN                                                    0350003500
+DQ ST                                                       0350103501
+DR REEVES RD                                                0350003500
+DUDLEY HOLLOW RD                                            0350003500
+DUDLEY ST                                                   0350103501
+DUGAN DR                                                    0350103501
+DUGAN LN                                                    0350103501
+DUKE DR                                                     0350003500
+DUNBAR LN                                                   0350003500
+DYE ST                                                      0350103501
+E ELECTRIC AVE                                              0350103501
+E ELECTRIC AVENUE CONNECTOR                                 0350103501
+E ELM ST                                                    0350103501
+E MAIN ST                                                   0350103501
+E RAILROAD ST                                               0350103501
+E SORRELL LN                                                0350003500
+E WATER ST                                                  0350103501
+E WILLIAMS ST                                               0350103501
+E WILLOW DELL DR                                            0350003500
+EARLYWINE RD                                                0350003500
+EDDIE DR                                                    0350003500
+EDDIE ST                                                    0350003500
+EGAN LN                                                     0350003500
+ELDRIDGE LN                                                 0350003500
+ELEMENTARY SCHOOL DR                                        0350103501
+ELIZAVILLE AVE                                              0350003500
+ELIZAVILLE AVE                                              0350103501
+ELIZAVILLE RD                                               0350003500
+ELIZAVILLE RD                                               0350103501
+ELLINGTON LOOP                                              0350003500
+EMERALD WAY                                                 0350003500
+EMERGENCY ENTRANCE                                          0350003500
+EMMONS DR                                                   0350103501
+EMMONS LN                                                   0350003500
+ENERGY RD                                                   0350003500
+ENSOR DR                                                    0350003500
+ETHEL LN                                                    0350003500
+EUCLID AVE                                                  0350703507
+EVANS HOLLOW RD                                             0350003500
+EVANS LN                                                    0350103501
+EVANS SISTERS RD                                            0350003500
+EVERGREEN DR                                                0350003500
+EWING RD                                                    0350003500
+EWING RD                                                    0350703507
+FARMHOUSE LN                                                0350003500
+FARRIS BRANCH RD                                            0350003500
+FARRIS HOLLOW RD                                            0350003500
+FARRIS RD                                                   0350003500
+FARROWS CREEK RD                                            0350003500
+FAWNS LN                                                    0350003500
+FERGSON DR                                                  0350003500
+FERGSON DR                                                  0350703507
+FERGUSON SPUR                                               0350703507
+FLAG BRANCH RD                                              0350003500
+FLANNERY RD                                                 0350003500
+FLEMING COUNTY HIGH SCHOOL                                  0350003500
+FLEMING CREEK RD                                            0350003500
+FLEMINGSBURG CEMETERY                                       0350103501
+FLEMINGSBURG CEMETERY RD                                    0350103501
+FLEMINGSBURG CEMETERY ROAD NO2                              0350103501
+FLEMINGSBURG CEMETERY ROAD NO3                              0350103501
+FLEMINGSBURG CEMETERY ROAD NO4                              0350103501
+FLEMINGSBURG CEMETERY ROAD NO5                              0350103501
+FLEMINGSBURG CEMETERY ROAD NO6                              0350103501
+FLEMINGSBURG CEMETERY ROAD NO7                              0350103501
+FLEMINGSBURG RD                                             0350003500
+FLORENCE LN                                                 0350003500
+FORD LN                                                     0350003500
+FOSTER ST                                                   0350103501
+FOX RUN RD                                                  0350003500
+FOX VALLEY CAMP LN                                          0350003500
+FOX VALLEY NORTH                                            0350003500
+FOX VALLEY RD                                               0350003500
+FOX VALLEY REC RD                                           0350003500
+FOX VALLEY SOUTH                                            0350003500
+FOXPORT RD                                                  0350003500
+FOXSPRING AVE                                               0350003500
+FOXSPRING AVE                                               0350103501
+FRAZIER ST                                                  0350003500
+FREEMAN RD                                                  0350003500
+FRYMANS LN                                                  0350003500
+GARDEN SIDE DR                                              0350003500
+GARDNER DR                                                  0350003500
+GARDNER RD                                                  0350003500
+GARR AVE                                                    0350103501
+GARRETT DR                                                  0350003500
+GENEVA LN                                                   0350003500
+GIBSON LN                                                   0350003500
+GLASCOCK DR                                                 0350003500
+GLASCOCK DR                                                 0350103501
+GLASS LN                                                    0350003500
+GODDARD BRIDGE RD                                           0350003500
+GODDARD RD                                                  0350003500
+GRACIE LN                                                   0350003500
+GRAHAM RD                                                   0350003500
+GRAHAM ROAD SPUR                                            0350003500
+GRANDVIEW CIRCLE                                            0350103501
+GRASSY KNOLL RD                                             0350003500
+GRAVES LN                                                   0350003500
+GRAY LN                                                     0350003500
+GREEN BROOK SUB                                             0350003500
+GREENBRIER RD                                               0350003500
+GREENHOUSE RD                                               0350003500
+GREENWAY DR                                                 0350103501
+GREENWAY RD                                                 0350103501
+GROUNDHOG HOLW                                              0350003500
+GULLEY DR                                                   0350003500
+GYM ACCESS RD                                               0350103501
+HALL RD                                                     0350003500
+HAMILTON LN                                                 0350003500
+HAMM RD                                                     0350003500
+HAMMONDS RD                                                 0350003500
+HAPPY HOLLOW RD                                             0350003500
+HARBESON ALY                                                0350103501
+HARBESON ST                                                 0350103501
+HARDWOOD RD                                                 0350003500
+HARMON LN                                                   0350003500
+HARMON RD                                                   0350003500
+HARMON ST                                                   0350003500
+HARN RD                                                     0350003500
+HARRIS LN                                                   0350003500
+HART LN                                                     0350003500
+HAWKINS LN                                                  0350003500
+HAY DR                                                      0350003500
+HEDGE MAPLE LN                                              0350003500
+HELENA RD                                                   0350003500
+HELENA RD                                                   0350103501
+HELPHENSTINE RD                                             0350003500
+HENDRIX DR                                                  0350003500
+HESTER RIDGE RD                                             0680003500
+HESTER RIGE RD                                              0350003500
+HIGH RIDGE DR                                               0350103501
+HIGH RIDGE LN                                               0350003500
+HIGH ST                                                     0350003500
+HIGHLAND AVE                                                0350103501
+HIGHLAND DR                                                 0350103501
+HILLBILLY RD                                                0350003500
+HILLSBORO BRANCH RD                                         0350003500
+HILLSBORO RD                                                0350003500
+HILLSIDE DR                                                 0350003500
+HILLTOP RD                                                  0350003500
+HOLLY LN                                                    0350003500
+HOPE HILL RD                                                0350003500
+HOT SHOT RD                                                 0350003500
+HUDSON LN                                                   0350003500
+HUMPHRIES DR                                                0350003500
+HUMPHRIES LN                                                0350003500
+HUNT ST                                                     0350103501
+HUNTER TRACE DR                                             0350003500
+HURST RD                                                    0350003500
+INDIAN CREEK RD                                             0350003500
+INDUSTRIAL DR                                               0350003500
+INGRAM AVE                                                  0350103501
+J D VICE RD                                                 0350003500
+JACKSON HOLLOW NORTH RD                                     0350003500
+JACKSON HOLLOW RD                                           0350003500
+JACKSON LANE LEFT                                           0350003500
+JACKSON LN                                                  0350003500
+JAMES RD                                                    0350003500
+JANDROS LN                                                  0350003500
+JB SHANNON DR                                               0350103501
+JENT LN                                                     0350003500
+JESSE LN                                                    0350003500
+JETT LN                                                     0350003500
+JM CLARY RD                                                 0350003500
+JOHNSON CREEK RD                                            0350003500
+JOHNSON CRK W                                               0350003500
+JOHNSON FLAT RD                                             0350003500
+JOHNSON FORD RD                                             0350003500
+JOHNSON SCHOOL RD                                           0350003500
+JOHNSON ST                                                  0350103501
+JOSHUA ST                                                   0350003500
+JUNCTION RD                                                 0350003500
+KAY ST                                                      0350103501
+KAYS DR                                                     0350103501
+KELLEY PIKE                                                 0350003500
+KENDALL LN                                                  0350003500
+KENTON DR                                                   0350003500
+KERMIT RD                                                   0350003500
+KERRICK LN                                                  0350003500
+KIDWELL RD                                                  0350003500
+KILBRETH VALLEY RD                                          0350003500
+KINDER LN                                                   0350003500
+KINGSTON DR                                                 0350003500
+KISER LN                                                    0350003500
+KY 9 DEPT TRANSPORTATION                                    0350003500
+KY 9 DEPT TRANSPORTATION                                    0350103501
+KY 9 DEPT TRANSPORTATION OFFICE RD                          0350103501
+KY111                                                       0350003500
+KY1336                                                      0350003500
+KY801 N                                                     0350003500
+LAKE LOOP RD                                                0350003500
+LAKE TERRACE DR                                             0350103501
+LAKE VIEW RD                                                0350003500
+LAKEPOINT AVE                                               0350103501
+LAKESIDE DR                                                 0350103501
+LAKEVIEW CIR                                                0350003500
+LAKEVIEW DR                                                 0350103501
+LAMBERT LN                                                  0350003500
+LAURA LN                                                    0350003500
+LAURELWOOD CT                                               0350003500
+LAWRENCE LN                                                 0350103501
+LAZY OAKS LN                                                0350003500
+LD LN                                                       0350003500
+LEDAN ST                                                    0350003500
+LEE LN                                                      0350003500
+LICKING RIVER RD                                            0350003500
+LINDA LN                                                    0350003500
+LITTLE BEND LOCUST                                          0350003500
+LITTLE PIG RD                                               0350003500
+LOCUST LN                                                   0350003500
+LOG CABIN LN                                                0350003500
+LOGAN LN                                                    0350003500
+LOGAN RUN RD                                                0350003500
+LOVE LN                                                     0350703507
+LOWER ROCK LICK RD                                          0350003500
+LUCILLE LN                                                  0350003500
+MADDOX PIKE                                                 0350003500
+MADONNA LN                                                  0350003500
+MALLORD CT                                                  0350003500
+MAPLE ST                                                    0350703507
+MARKWELL RD                                                 0350003500
+MARTHA MILLS RD                                             0350003500
+MARTIN CONWAY RD                                            0350003500
+MARTIN LN                                                   0350003500
+MARTIN MILL BRANCH RD                                       0350003500
+MARY LOUS DR                                                0350003500
+MARYS AVE                                                   0350103501
+MATTOX ST                                                   0350103501
+MAXEY FLAT RD                                               0350010300
+MAXEY FLATS PROJECT                                         0350003500
+MAYSVILLE RD                                                0350003500
+MCBRIDE LN                                                  0350003500
+MCDONALD RD                                                 0350003500
+MCDOWELL FLAT RD                                            0350003500
+MCGLONE LN                                                  0350003500
+MCGLOTHLIN RD                                               0350003500
+MCINTIRE RD                                                 0350003500
+MCINTYRE ST                                                 0350703507
+MCKEE LN                                                    0350003500
+MCMULLIN AVE                                                0350103501
+MCROBERTS LN                                                0350003500
+MCROBERTS RD                                                0350003500
+MEADOW LN                                                   0350003500
+MEADOWBROOK CT                                              0350003500
+MEDICAL PARK DR                                             0350003500
+MEDICAL PARK DR                                             0350103501
+METCALF MILL RD                                             0350003500
+METCALF MILL RD                                             0350703507
+MEXICO RD                                                   0350003500
+MIDDLE SCHOOL DR                                            0350103501
+MILL CREEK RD                                               0350003500
+MILLER CEMETERY RD                                          0350003500
+MILLER LN                                                   0350003500
+MILLS AVE                                                   0350103501
+MINEER RD                                                   0350003500
+MITCHELL LN                                                 0350003500
+MITCHELL ST                                                 0350103501
+MOCKINGBIRD HL                                              0350003500
+MOCKINGBIRD LN                                              0350003500
+MONEY LN                                                    0350003500
+MONEY LN                                                    0350703507
+MONTGOMERY DR                                               0350003500
+MOONEY LN                                                   0350003500
+MOONEY LN W                                                 0350003500
+MOREHEAD RD                                                 0350003500
+MOREHEAD RD                                                 0350103501
+MORFORD ST                                                  0350703507
+MOSS LN                                                     0350103501
+MT CARAMEL RD                                               0350003500
+MT CARAMEL RD                                               0350103501
+MT CARMEL RD                                                0350003500
+MT GILEAD CEMETERY ROAD NO1                                 0350003500
+MT GILEAD CEMETERY ROAD NO2                                 0350003500
+MT GILEAD CEMETERY ROAD NO3                                 0350003500
+MT HOPE RD                                                  0350003500
+MT PLEASANT RD                                              0350003500
+MT STERLING AVE                                             0350003500
+MT STERLING AVE                                             0350103501
+MT STERLING RD                                              0350003500
+MT STERLING RD                                              0350103501
+MT TABOR RD                                                 0350003500
+MT VERNON RD                                                0350003500
+MUDSOCK RD                                                  0350003500
+MURPHY LN                                                   0350003500
+MURRAY LN                                                   0350003500
+MUSE LN                                                     0350003500
+MUSES MILL RD                                               0350003500
+MYERS AVE                                                   0350703507
+N BOWER ALY                                                 0350103501
+N FOUNTAIN AVE                                              0350103501
+N MAIN CROSS ST                                             0350103501
+N WATSON LN                                                 0350003500
+NEPTON RD                                                   0350003500
+NEW HOPE CT                                                 0350003500
+NEW HOPE RD                                                 0350003500
+NICKEL ALY                                                  0350103501
+NOEL WALTON DR                                              0350003500
+OAKLEY DR                                                   0350003500
+OAKWOOD DR                                                  0350003500
+OLD BRICK RD                                                0350003500
+OLD FOX CREEK RD                                            0350003500
+OLD FOX CREEK RD N                                          0350003500
+OLIVE BRANCH RD                                             0350003500
+ORCHARD RD                                                  0350003500
+ORIENTAL AVE                                                0350003500
+OWEN DAVIS DR                                               0350003500
+OWENS LN                                                    0350003500
+PARK LAKE RD                                                0350003500
+PARK PL                                                     0350003500
+PARKER EAST RD                                              0350003500
+PARKER RD                                                   0350003500
+PARKERSBURG SOUTH RD                                        0350003500
+PARKWOOD DR                                                 0350103501
+PAT OBRIAN AVE                                              0350003500
+PATRIOT DR                                                  0350103501
+PAXTON DR                                                   0350003500
+PEA RIDGE RD                                                0350003500
+PEACHTREE DR                                                0350003500
+PECKS RIDGE RD                                              0350003500
+PECKS RIDGE TILTON RD                                       0350003500
+PENNY LN                                                    0350003500
+PENNY PATCH LN                                              0350003500
+PERKINS LN                                                  0350003500
+PERRY LN                                                    0350003500
+PETTIT LN                                                   0350003500
+PHIPPS LN                                                   0350003500
+PICKRELL LN                                                 0350003500
+PICKRELL SOUTH                                              0350003500
+PIGEON ROOST RD                                             0350003500
+PIKE BLUFF RD                                               0350003500
+PIN OAK LN                                                  0350003500
+PINE DR                                                     0350003500
+PIONEER TRACE                                               0350103501
+PITTSFIELD PL                                               0350003500
+PLANCK RD                                                   0350003500
+PLEASANT VALLEY RD                                          0350003500
+PLEASANT VIEW DR                                            0350003500
+PLEASANTVILLE RD                                            0350003500
+PLUMMERS LANDING RD                                         0350003500
+PLUMMERS MILL RD                                            0350003500
+POPLAR GROVE RD                                             0350003500
+POPLAR LN                                                   0350003500
+POPLAR PLAINS RD                                            0350003500
+POPPY DR                                                    0350003500
+PORTER CEMETERY RD                                          0350003500
+PRATER LN                                                   0350003500
+PRATER RD                                                   0350003500
+PRICE LN                                                    0350003500
+PRICE RD                                                    0350003500
+PUMPHREY AVE                                                0350103501
+PURCELL ST                                                  0350003500
+QUARRY PIKE                                                 0350003500
+QUARRY RD                                                   0350003500
+RAILROAD ST                                                 0350703507
+RAINE ST                                                    0350703507
+RAWLINGS RD                                                 0350003500
+REBECCA LN                                                  0350003500
+RECREATION PARK RD                                          0350003500
+RECREATION PARK RD E                                        0350003500
+RECREATION PARK ROAD B                                      0350003500
+RECREATION PARK ROAD C                                      0350003500
+RECREATION PARK ROAD D                                      0350003500
+REDBUD RD                                                   0350003500
+REED HOLLOW RD                                              0350003500
+REEDS LN                                                    0350003500
+REGAL DR                                                    0350003500
+REGAL LN                                                    0350003500
+RENEE LN                                                    0350003500
+RHODES ALLY                                                 0350103501
+RHODES AVE                                                  0350103501
+RICE LN                                                     0350003500
+RICHMOND CT                                                 0350003500
+RICHMOND DR                                                 0350003500
+RICHWOOD LN                                                 0350003500
+RIDGE RD                                                    0350003500
+RIDGECREST CIRCLE                                           0350103501
+RIDGECREST DR                                               0350103501
+RIDGECREST POINT                                            0350103501
+RIDGECREST WAY                                              0350103501
+RIGDON RD                                                   0350003500
+RINGOS GRANGE CITY RD                                       0350003500
+RINGOS GRANGE CITY RD N                                     0350003500
+RINGOS MILLS RD                                             0350003500
+RIVER RD                                                    0350003500
+ROBINSON LN                                                 0350003500
+ROCK LICK LOOP RD                                           0350003500
+ROCKY RD                                                    0350003500
+ROGER DR                                                    0350003500
+ROSS ST                                                     0350003500
+ROUTT RD                                                    0350003500
+ROWANCOLINE                                                 0350010300
+RUBY RD                                                     0350003500
+RUCKER CT                                                   0350103501
+RUCKER NO1                                                  0350103501
+RUCKER NO2                                                  0350103501
+RUCKER NO3                                                  0350103501
+RUCKER NO4                                                  0350103501
+RUCKER NO5                                                  0350103501
+RUCKER NO6                                                  0350103501
+RUCKER ST                                                   0350103501
+RUNYON AVE                                                  0350703507
+RUSH RUN RD                                                 0350003500
+RUSH RUN ROAD SPUR                                          0350003500
+RUSSELL ST                                                  0350103501
+RYAN EAST ALY                                               0350103501
+RYAN RD                                                     0350003500
+RYAN ST                                                     0350103501
+S FOUNTAIN AVE                                              0350103501
+S LICK RD                                                   0350003500
+S PARKWOOD DR                                               0350103501
+SAGEBRUSH DR                                                0350003500
+SAUERS RD                                                   0350003500
+SAUNDERS LN                                                 0350003500
+SAUNDERS RD                                                 0350003500
+SCAGGS LN                                                   0350003500
+SCHOOL ST                                                   0350103501
+SCHWARTZ DR                                                 0350003500
+SCOTT DR                                                    0350003500
+SECREST XING                                                0350003500
+SELLERS ST                                                  0350103501
+SHADYBROOK LN                                               0350103501
+SHANKLIN RD                                                 0350003500
+SHANNON LN                                                  0350103501
+SHANNON PARK                                                0350003500
+SHARON LN                                                   0350103501
+SHELBY LN                                                   0350003500
+SHERBURNE RD                                                0350003500
+SHERMAN DR                                                  0350003500
+SIMMONS RD                                                  0350003500
+SKILLET FORK RD                                             0350003500
+SMITH PARK                                                  0350003500
+SMOOT LN                                                    0350003500
+SNEDEGAR RD                                                 0350003500
+SOLOMON RD                                                  0350003500
+SORRELL LN                                                  0350003500
+SOUDER DR                                                   0350003500
+SOUDER LN                                                   0350003500
+SPATES AVE                                                  0350103501
+SPORTSMANS RD                                               0350003500
+SPRING RD                                                   0350003500
+SPRINGDALE RD                                               0350003500
+SPURLOCK RD                                                 0350003500
+ST ANTHONY DR                                               0350003500
+STATES AVE                                                  0350003500
+STEPPING STONE LN                                           0350003500
+STEVENS RD                                                  0350003500
+STEVES CT                                                   0350003500
+STEVES LN                                                   0350003500
+STEWART ST                                                  0350103501
+STOCKTON RD                                                 0350003500
+STOCKWELL AVE                                               0350103501
+STOCKYARD RD                                                0350103501
+STONE RD                                                    0350003500
+STORY BRANCH RD                                             0350003500
+STRINGTOWN RD                                               0350003500
+SUGAR TREE RD                                               0350003500
+SUIT LN                                                     0350003500
+SUNRISE DR                                                  0350003500
+SUNSET CIRCLE                                               0350003500
+SUNSET HLS                                                  0350003500
+SUNSET LOCUST RD                                            0350003500
+SUNSET MEMORIAL PARK                                        0350003500
+SUNSET RD                                                   0350003500
+SUTTON RD                                                   0350003500
+SWEET DR                                                    0350003500
+SYCAMORE LN                                                 0350003500
+T AND L LN                                                  0350003500
+TABOR RIDGE RD                                              0350003500
+TABOR SPUR RD                                               0350003500
+TAYLOR MILL RD                                              0350003500
+TEA RUN RD                                                  0350003500
+TEAGER ALLY                                                 0350103501
+TEXTRON DR                                                  0350103501
+THOMAS RD                                                   0350003500
+THREE MILE RD                                               0350003500
+THURMAN LN                                                  0350003500
+TILFORD LN                                                  0350003500
+TOLLGATE DR                                                 0350003500
+TOLLGATE SUBDIVISION A RD                                   0350003500
+TOM GRAY RD                                                 0350003500
+TOM ISHMAEL RD                                              0350003500
+TOPAZ TURN                                                  0350003500
+TOYO DR                                                     0350003500
+TRACI DR                                                    0350003500
+TRAVERSE WAY                                                0350103501
+TREATMENT PLANT RD                                          0350103501
+TREE FARM RD                                                0350003500
+TRIBBY LN                                                   0350003500
+TRIPLE T LN                                                 0350003500
+TURKEY RUN BRANCH RD                                        0350003500
+TURKEY RUN RD                                               0350003500
+TURNER RD                                                   0350003500
+TWILIGHT LN                                                 0350003500
+TWIN FORK LN                                                0350003500
+TWIN HILLS RD                                               0350003500
+TYREE RD                                                    0350003500
+U FORBES WAY                                                0350003500
+UNNNAMED RD                                                 0350003500
+UPPER ROCK LICK RD                                          0350003500
+US68                                                        0350003500
+VENTOR RD                                                   0350003500
+VICTORY HEIGHTS LN                                          0350703507
+VIEW CIR                                                    0350003500
+VISE RD                                                     0350003500
+W ELECTRIC AVE                                              0350103501
+W ELM ST                                                    0350103501
+W MAIN ST                                                   0350103501
+W RAILROAD ST                                               0350103501
+W WATER ST                                                  0350003500
+W WATER ST                                                  0350103501
+W WILLIAMS ST                                               0350103501
+WAGGONER LN                                                 0350003500
+WALLINGFORD RD                                              0350003500
+WALNUT RD                                                   0350003500
+WARD DR                                                     0350003500
+WATKINS DR                                                  0350003500
+WATSON LN                                                   0350003500
+WATSON RD                                                   0350003500
+WEAVER RD                                                   0350003500
+WEDDLE ST                                                   0350103501
+WENDELL DR                                                  0350003500
+WESTWIND DR                                                 0350103501
+WHISMAN RD                                                  0350003500
+WILDER LOOP RD                                              0350003500
+WILLIE LN                                                   0350003500
+WILLOW DELL DR                                              0350003500
+WILLOW RD                                                   0350003500
+WILLOW ROAD EXT                                             0350003500
+WILSON LN                                                   0350003500
+WILSON RUN RD                                               0350003500
+WINDSOR DR                                                  0350003500
+WINDSOR DR                                                  0350103501
+WOLF RUN                                                    0350003500
+WOMACK LN                                                   0350003500
+WOODLAND TRAIL                                              0350003500
+WOODLAWN AVE                                                0350103501
+WOOLEY RD                                                   0350003500
+WRIGHT RD                                                   0350003500
+WWATER ST                                                   0350003500
+WWATER ST                                                   0350103501
+WYOMING RD                                                  0350003500

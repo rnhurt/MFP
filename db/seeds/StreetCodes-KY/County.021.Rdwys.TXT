@@ -1,0 +1,315 @@
+10TH ST                                                     0210102101
+11TH ST                                                     0210102101
+1ST ST                                                      0210102101
+2ND ST                                                      0210102101
+3RD ST                                                      0210102101
+4TH ST                                                      0210102101
+5TH ST                                                      0210102101
+6TH ST                                                      0210102101
+7TH ST                                                      0210102101
+8TH ST                                                      0210102101
+9TH ST                                                      0210102101
+ALLEY NO1                                                   0210202102
+ALLEY NO10                                                  0210102101
+ALLEY NO11                                                  0210102101
+ALLEY NO13                                                  0210102101
+ALLEY NO14                                                  0210102101
+ALLEY NO15                                                  0210102101
+ALLEY NO16                                                  0210102101
+ALLEY NO17                                                  0210102101
+ALLEY NO18                                                  0210102101
+ALLEY NO19                                                  0210102101
+ALLEY NO2                                                   0210202102
+ALLEY NO20                                                  0210202102
+ALLEY NO3                                                   0210102101
+ALLEY NO4                                                   0210102101
+ALLEY NO5                                                   0210102101
+ALLEY NO6                                                   0210102101
+ALLEY NO7                                                   0210102101
+ALLEY NO8                                                   0210102101
+ALLEY NO9                                                   0210102101
+ANN ST                                                      0210202102
+BAKER DR                                                    0210102101
+BANKS DR                                                    0210002100
+BARKER RD                                                   0210102101
+BERRY LN                                                    0210202102
+BLACK ROCK RD                                               0210002100
+BLACK ROCK RD                                               0210202102
+BLUE LICK RD                                                0210002100
+BOONE RD                                                    0210002100
+BOYLEN DR                                                   0210102101
+BRAD DR                                                     0210102101
+BRIAN ST                                                    0210002100
+BRIAR FORK RD                                               0210002100
+BRIARWOOD CIR                                               0210002100
+BRIARWOOD CT                                                0210002100
+BRIARWOOD DR                                                0210002100
+BRIDGE ST                                                   0210502105
+BROCK DR                                                    0210102101
+BROCK DR W                                                  0210102101
+BROOKSIDE DR                                                0210002100
+BUCKS RUN RD                                                0210002100
+BUFFALO CREEK RD                                            0210002100
+BURLEY ESTATES DR                                           0210002100
+BURLEY ESTATES DR                                           0210102101
+BUTLER ST                                                   0210102101
+CALENDAR RD                                                 0210002100
+CAMP BRANCH RD                                              0210002100
+CAMP KYSOC RD                                               0210002100
+CARLISLE RD                                                 0210002100
+CARLISLE ST                                                 0210502105
+CAROLINE ST                                                 0210002100
+CARROLL DR                                                  0210102101
+CARROLL ST                                                  0210202102
+CARSON LOOP RD                                              0210402104
+CEMETERY ENTRANCE                                           0210002100
+CEMETERY RD                                                 0210002100
+CHURCH ST                                                   0210002100
+CHURCH ST                                                   0210602106
+CLAY ST                                                     0210102101
+CLINE CT                                                    0210102101
+COMANCHE TRL                                                0210002100
+COUNTY PARK DR                                              0210002100
+COUNTY PARK LOOP                                            0210002100
+COURT ST                                                    0210102101
+CREEKSIDE DR                                                0210002100
+CRESCENT CT                                                 0210002100
+CULLS RD                                                    0210002100
+DAKOTA CIR                                                  0210002100
+DAKOTA CT                                                   0210002100
+DAKOTA WAY                                                  0210002100
+DAVIS LN                                                    0210002100
+DAVIS SANDERS ST                                            0210402104
+DAVIS ST                                                    0210202102
+DEATHERAGE DR                                               0210102101
+DELAWARE CIR                                                0210002100
+DELAWARE WAY                                                0210002100
+DIVIDING RIDGE RD                                           0210002100
+DONALDSON LN                                                0210002100
+DONNA DR                                                    0210502105
+DRIFTORS ALY                                                0210102101
+DRIPPING SPRINGS RD                                         0210002100
+DUNN ST                                                     0210502105
+E PRONG LOCUST RD                                           0210002100
+EASTERDAY RD                                                0210002100
+EASTERDAY RD                                                0210102101
+EDWARD ST                                                   0210002100
+ENGLISH AVE                                                 0210002100
+FAIRGROUND RD                                               0210002100
+FAIRVIEW RIDGE RD                                           0210002100
+FAITH ST                                                    0210002100
+FERRY ST                                                    0210202102
+FISHER AVE                                                  0210102101
+FISHING ST                                                  0210202102
+FLOYD DR                                                    0210002100
+FLOYD ST                                                    0210002100
+FORD RD                                                     0210002100
+FORREST HILL CT                                             0210002100
+FOX RUN RD                                                  0210002100
+FOX VALLEY DR                                               0210002100
+GARRETT LN                                                  0210002100
+GENERAL BUTLER STATE PARK RD                                0210002100
+GEORGE CONWAY LN                                            0210002100
+GEORGES CREEK RD                                            0210002100
+GHENT EAGLE NORTH RD                                        0210002100
+GHENT EAGLE SOUTH RD                                        0210002100
+GILGAL BRANCH RD                                            0210002100
+GILLOCK AVE                                                 0210102101
+GOOSE CREEK RD                                              0210002100
+GREENBRIAR DR                                               0210002100
+GREENS BOTTOM RD                                            0210002100
+GREENS BOTTOM RD S                                          0210002100
+GRIMES LN                                                   0210102101
+GROBMYER AVE                                                0210102101
+HAMPTON LN                                                  0210002100
+HAPPY HOLLOW LN                                             0210002100
+HARBOR PT                                                   0210002100
+HARLEY DR                                                   0210102101
+HAROLD CLIFTON RD                                           0210002100
+HARRISON AVE                                                0210102101
+HARRISON ST                                                 0210602106
+HAWKINS ST                                                  0210102101
+HERALD RD                                                   0210002100
+HICKORY                                                     0210402104
+HIGHLAND AVE                                                0210102101
+HILLTOP DR                                                  0210102101
+HUNTER HEIGHTS RD                                           0210002100
+HUNTERS RIDGE DR                                            0210002100
+I71 N                                                       0210002100
+I71 N EXIT43 OFF RAMP TO KY389                              0210002100
+I71 N EXIT43 ON RAMP FROM KY389                             0210002100
+I71 N EXIT44 OFF RAMP TO US227                              0210002100
+I71 N EXIT44 ON RAMP FROM US227                             0210002100
+I71 S                                                       0210002100
+I71 S EXIT43 OFF RAMP TO KY389                              0210002100
+I71 S EXIT43 ON RAMP FROM KY389                             0210002100
+I71 S EXIT44 OFF RAMP TO US227                              0210002100
+I71 S EXIT44 ON RAMP FROM US227                             0210002100
+INDIAN CREEK RD                                             0210002100
+INDUSTRIAL RD                                               0210002100
+INN RD                                                      0210002100
+JACKSON RD                                                  0210002100
+JACKSON RIDGE RD                                            0210002100
+JACKSON RIDGE RD                                            0210602106
+JACKSON RIDGE ROAD SPUR                                     0210002100
+JOANNE ST                                                   0210002100
+JORDAN WAY                                                  0210102101
+JOSEPH ST                                                   0210002100
+KELLEY ST                                                   0210102101
+KELLY MARCUM LN                                             0210002100
+KELLY MARCUM LN                                             0210602106
+KEMPER LN                                                   0210002100
+KENNEY ST                                                   0210402104
+KENTUCKY ST                                                 0210202102
+KINGS RIDGE RD                                              0210002100
+KINMAN LN                                                   0210002100
+KINMAN RD                                                   0210002100
+KY1112                                                      0210002100
+KY184                                                       0210002100
+KY227                                                       0210002100
+KY227                                                       0210102101
+KY320                                                       0210002100
+KY320                                                       0210102101
+KY36                                                        0210102101
+KY36 E                                                      0210002100
+KY36 E                                                      0210402104
+KY36 W                                                      0210002100
+KY389                                                       0210002100
+KY467                                                       0210002100
+KY467                                                       0210602106
+KY47                                                        0210002100
+KY47                                                        0210402104
+KY55                                                        0210002100
+KY55                                                        0210502105
+KYLE ST                                                     0210602106
+LADDER LN                                                   0210002100
+LANDMARK COURT SPUR NO1                                     0210002100
+LANDMARK COURT SPUR NO2                                     0210002100
+LANDMARK COURT SPUR NO3                                     0210002100
+LANDMARK CT                                                 0210002100
+LANHAM RD                                                   0210002100
+LANSDALE LN                                                 0210002100
+LARRYS CT                                                   0210002100
+LEWIS RD                                                    0210002100
+LEWIS ST                                                    0210202102
+LIBERTY ST                                                  0210202102
+LLOYD LN                                                    0210002100
+LOCK NO1 RD                                                 0210002100
+LOCK RD                                                     0210002100
+LOCK RD                                                     0210102101
+LOCUST RD                                                   0210002100
+MADISON ST                                                  0210502105
+MAIN CROSS ST                                               0210202102
+MAIN GHENT ST                                               0210202102
+MAIN SANDERS ST                                             0210402104
+MAIN ST                                                     0210102101
+MARSHALL LN                                                 0210002100
+MARTIN RD                                                   0210002100
+MARVIN CHAPPEL RD                                           0210002100
+MARWILL DR                                                  0210102101
+MASON ST                                                    0210102101
+MATTICK RD                                                  0210502105
+MCDANIEL ST                                                 0210402104
+MEADE ST                                                    0210102101
+MILL CREEK RD                                               0210002100
+MOJAVE TRL                                                  0210002100
+MONTGOMERY RD                                               0210002100
+MORROW CT                                                   0210002100
+MOUND HILL RD                                               0210002100
+N KENDALL RD                                                0210002100
+N MAPLE ST                                                  0210602106
+NEW CASTLE PIKE                                             0210502105
+NORTH PT                                                    0210002100
+NOTCH LICK RD                                               0210002100
+OAK LN                                                      0210002100
+ODD FELLOWS CEMETERY A                                      0210102101
+ODD FELLOWS CEMETERY B                                      0210102101
+ODD FELLOWS CEMETERY C                                      0210102101
+OLD CARLISLE RD                                             0210002100
+OLD CARLISLE RD                                             0210502105
+OLD KY 227 N                                                0210002100
+OLD LOCK RD                                                 0210002100
+PAINTER RD                                                  0210002100
+PARADISE ALY                                                0210102101
+PARDUE RD                                                   0210002100
+PARK ACRES                                                  0210002100
+PARK AVE                                                    0210102101
+PARK DR                                                     0210002100
+PARKSIDE DR                                                 0210002100
+PATE LN                                                     0210002100
+PERKINS RD                                                  0210002100
+POLK ST                                                     0210102101
+PORT WILLIAM LN                                             0210102101
+PRYOR BRANCH RD                                             0210002100
+QUINN CT                                                    0210102101
+R D KENDELL RD                                              0210002100
+RAILROAD ST                                                 0210602106
+RAISOR RD                                                   0210002100
+RIVER RD                                                    0210102101
+RIVERWOOD DR                                                0210002100
+ROBERT ST                                                   0210002100
+ROLAND AVE                                                  0210102101
+ROLLING HILLS CT                                            0210002100
+S CEMETARY LN                                               0210002100
+S FORK RD                                                   0210002100
+S KENDALL RD                                                0210002100
+S MAPLE ST                                                  0210602106
+SAM ST                                                      0210002100
+SANDERS RD                                                  0210002100
+SANDLIN RD                                                  0210002100
+SCHOOLHOUSE LOOP RD                                         0210002100
+SCHUERMAN ST                                                0210102101
+SEMINARY ST                                                 0210102101
+SHARON RD                                                   0210002100
+SHEEHAN RD                                                  0210002100
+SHORT MEAD ST                                               0210102101
+SHORT ST                                                    0210202102
+SHORT VINE ST                                               0210602106
+SIMMONS ST                                                  0210602106
+SKYLINE DR                                                  0210002100
+SKYVIEW DR                                                  0210002100
+SLUMBER LN                                                  0210002100
+SMITH LN                                                    0210002100
+SOUTH FORK RD                                               0210002100
+SOUTH PT                                                    0210002100
+SPARTA SANDERS RD                                           0210002100
+SPARTA SANDERS RD                                           0210402104
+SPRINGMEADOW DR                                             0210002100
+STAFFORD RIDGE RD                                           0210002100
+STEPHANUS CREEK RD                                          0210002100
+STEWART RD                                                  0210002100
+SYCAMORE CIR                                                0210002100
+SYCAMORE CT                                                 0210002100
+SYCAMORE ST                                                 0210102101
+TAYLOR ST                                                   0210102101
+THOMAS ST                                                   0210002100
+TILLEY DR                                                   0210102101
+TILLEY RD                                                   0210102101
+TOM HARRIS RD                                               0210002100
+TOM TOWN RD                                                 0210002100
+TUTTLE LN                                                   0210002100
+UNION ST                                                    0210202102
+US42                                                        0210002100
+US42                                                        0210102101
+US42                                                        0210202102
+US42                                                        0210502105
+US42 E                                                      0210002100
+VALLEYWOOD CT                                               0210002100
+VANCE RD                                                    0210002100
+VILLAGE LN                                                  0210102101
+VINCENT WEAVER WAY                                          0210002100
+VORIES RD                                                   0210002100
+W JAY LOUDEN RD                                             0210002100
+W PRONG LOCUST RD                                           0210002100
+WAL MART RD                                                 0210002100
+WARE AVE                                                    0210102101
+WATER ST                                                    0210102101
+WEBSTER ST                                                  0210102101
+WESTRICK LN                                                 0210002100
+WHITES RUN RD                                               0210002100
+WILSON WAY                                                  0210002100
+WINDY RIDGE RD                                              0210002100
+WINSLOW ST                                                  0210102101
+WOODLAWN DR                                                 0210002100
+WOODROW WILSON RD                                           0210002100
+WRIGHTS RIDGE RD                                            0210002100

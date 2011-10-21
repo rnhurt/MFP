@@ -15,10 +15,10 @@ gem "sorcery"
 
 group :development do
   gem "ruby-debug19"
-  gem "rails-erd"
   gem "hirb"
   gem "wirble"
   gem "awesome_print"
+  gem "railroady"   # Documentation generator
 end
 
 

@@ -1,0 +1,597 @@
+1ST ST                                                      0490104901
+2ND ST                                                      0490104901
+3RD ST                                                      0490104901
+4TH ST                                                      0490104901
+4TH ST                                                      0490204902
+5TH ST                                                      0490104901
+5TH ST                                                      0490204902
+A KELLER RD                                                 0490004900
+ABDEL RD                                                    0490004900
+ADAMS LN                                                    0490004900
+ADAMS LN                                                    0490204902
+AIRFIELD LN                                                 0490004900
+ALLEN PIKE                                                  0490004900
+AMMERMAN PIKE                                               0490004900
+ANTIOCH RICHLAND RD                                         0490004900
+ANTIQUE LN                                                  0490004900
+APPALACHI LN                                                0490004900
+APPLE LN                                                    0490004900
+APRIL LN                                                    0490004900
+ARMSTRONG LN                                                0490004900
+ARNOLD LN                                                   0490004900
+ARROWHEAD LAKE RD                                           0490004900
+ASHBROOK CT                                                 0490104901
+ASHWOOD DR                                                  0490104901
+AUGUSTA DR                                                  0490004900
+AVENA RD                                                    0490004900
+BALDNAG LN                                                  0490004900
+BALLARD LN                                                  0490004900
+BANANA DR                                                   0490004900
+BANNEKER ALY                                                0490104901
+BARLOW RD                                                   0490004900
+BASS LN                                                     0490004900
+BATTE LN                                                    0490004900
+BATTLE GROVE AVE                                            0490104901
+BATTLE GROVE CEMETERY                                       0490004900
+BATTLE GROVE CEMETERY                                       0490104901
+BATTLE GROVE CEMETERY NO1                                   0490104901
+BATTLE GROVE CEMETERY NO10                                  0490104901
+BATTLE GROVE CEMETERY NO2                                   0490104901
+BATTLE GROVE CEMETERY NO3 BAY                               0490004900
+BATTLE GROVE CEMETERY NO4                                   0490104901
+BATTLE GROVE CEMETERY NO5                                   0490104901
+BATTLE GROVE CEMETERY NO6                                   0490104901
+BATTLE GROVE CEMETERY NO7                                   0490104901
+BATTLE GROVE CEMETERY NO8                                   0490104901
+BATTLE GROVE CEMETERY NO9                                   0490104901
+BATTLE GROVE CEMETERY RD                                    0490104901
+BATTLE GROVE CEMETERY ROAD NO1                              0490104901
+BATTLE GROVE CEMETERY ROAD NO10                             0490104901
+BATTLE GROVE CEMETERY ROAD NO4                              0490104901
+BATTLE GROVE CEMETERY ROAD NO8                              0490104901
+BATTLE GROVE CEMETERY ROAD NO9                              0490104901
+BEAGLE LN                                                   0490004900
+BEARS LN                                                    0490004900
+BECKETT RD                                                  0490004900
+BEDFORD ALY                                                 0490104901
+BEDFORD WAY                                                 0490004900
+BELL DR                                                     0490004900
+BERRY RIVER RD                                              0490004900
+BERRY RIVER RD                                              0490204902
+BILL KING RD                                                0490004900
+BIRCHWOOD CT                                                0490104901
+BLACKBIRD LN                                                0490004900
+BLACKBURN RD                                                0490004900
+BLAKE LN                                                    0490004900
+BLAKE LN                                                    0490204902
+BOBTOWN RD                                                  0490004900
+BOLD LN                                                     0490004900
+BOONE FLORENCE LN                                           0490004900
+BOWMANS MILL RD                                             0490004900
+BOYD ALY                                                    0490104901
+BOYD GRAVEL RD                                              0490004900
+BOYERS CHAPEL RD                                            0490004900
+BRADFORD DR                                                 0490104901
+BRADSHAW ALY                                                0490104901
+BREEZEWAY DR                                                0490004900
+BROADWAY AVE                                                0490104901
+BROOKS ST                                                   0490104901
+BROWNING WAY                                                0490004900
+BRUSHY FORK RD                                              0490004900
+BUENA VISTA CT                                              0490004900
+BUFFY LN                                                    0490004900
+BULLDOG ALY                                                 0490104901
+BUNKER TRNPK                                                0490004900
+BURLEY ALY                                                  0490104901
+BUTTERNUT LN                                                0490004900
+BUZZARD LN                                                  0490004900
+CAMPBELL ALY                                                0490104901
+CANAAN LN                                                   0490004900
+CARDINAL CT                                                 0490104901
+CARNATION CT                                                0490004900
+CARR RD                                                     0490004900
+CASEY MILL RD                                               0490004900
+CATHERINE LN                                                0490004900
+CECIL WEBBER RD                                             0490004900
+CEDARBROOK DR                                               0490004900
+CEDARCREST CT                                               0490104901
+CHARLOTTE DR                                                0490104901
+CHELSEA DR                                                  0490104901
+CHEROKEE DR                                                 0490104901
+CHERRY LN                                                   0490104901
+CHURCH PLZ                                                  0490204902
+CITATION LN                                                 0490004900
+CLADORBON DR                                                0490104901
+CLARENCE LN                                                 0490004900
+CLAREY ALY                                                  0490104901
+CLIFTON RD                                                  0490104901
+CLIFTON VILLAGE CT                                          0490104901
+CLOVER LN                                                   0490004900
+COLBY RD                                                    0490004900
+COLONY DR                                                   0490004900
+COLVILLE LN                                                 0490004900
+COMMONWEALTH LN                                             0490004900
+CONFEDERATE DR                                              0490104901
+CONNERSVILLE TWIN CREEK RD                                  0490004900
+COOK RD                                                     0490004900
+COOLWATER DR                                                0490004900
+COPPAGE PIKE                                                0490004900
+CORINTH HINTON RD                                           0490004900
+COUNTY INFIRMARY RD                                         0490004900
+COURT ST                                                    0490104901
+CREEKVIEW ST                                                0490104901
+CRESTVIEW LN                                                0490004900
+CRICKET LN                                                  0490004900
+CRISWELL RD                                                 0490004900
+CROOKED CREEK RD                                            0490004900
+CROSS ST                                                    0490004900
+CROSSFIELD LN                                               0490004900
+CROWS RIDGE LN                                              0490004900
+CRREKVIEW SPUR                                              0490104901
+CULPEPPER DR                                                0490104901
+CUMMINS LN                                                  0490004900
+CURRY STRATTON RD                                           0490004900
+CUSTER LN                                                   0490004900
+DAISY CT                                                    0490004900
+DALE LN                                                     0490004900
+DALEWOOD DR                                                 0490104901
+DAVID ALY                                                   0490104901
+DAVIS LN                                                    0490004900
+DAWSON LN                                                   0490004900
+DEER RIDGE LN                                               0490004900
+DELONG LN                                                   0490004900
+DELTA CT                                                    0490104901
+DENNIS LN                                                   0490004900
+DESHA DR                                                    0490004900
+DEVILS BACKBONE RD                                          0490004900
+DIAMOND LN                                                  0490004900
+DIXON RD                                                    0490004900
+DOAN LN                                                     0490004900
+DOGWOOD CT                                                  0490104901
+DOVE LN                                                     0490104901
+DOZER LN                                                    0490004900
+DRAGONFLY LN                                                0490004900
+DRYDEN RD                                                   0490004900
+DUCKWORTH RD                                                0490004900
+DUFFY ALY                                                   0490104901
+DURBINTOWN RD                                               0490004900
+DUTCH CHAPEL RD                                             0490004900
+E BRIDGE ST                                                 0490104901
+E CROMWELL ALY                                              0490104901
+E HAVILAND LN                                               0490004900
+E KEHOE ALY                                                 0490104901
+E MILL ST                                                   0490104901
+E PEARL ST                                                  0490104901
+E PENN ST                                                   0490104901
+E PIKE ST                                                   0490104901
+E PLEASANT ST                                               0490104901
+E RIDGE RD                                                  0490104901
+E SPARKS LN                                                 0490004900
+E TURKEY LN                                                 0490004900
+EALS LN                                                     0490004900
+EARLE LN                                                    0490204902
+EASTLAND ESTATES DR                                         0490004900
+EDUCATION DR                                                0490004900
+EDUCATION DR                                                0490104901
+EDUCATIONAL DR                                              0490104901
+EDWARDS LN                                                  0490004900
+ELM ST                                                      0490104901
+EMERALD LN                                                  0490004900
+EUREKA RD                                                   0490004900
+EVERGREEN CIR                                               0490104901
+FAIRWAY DR                                                  0490104901
+FALLS VIEW LN                                               0490004900
+FALMOUTH SUNRISE RD                                         0490004900
+FARMER TRAIL CIR                                            0490004900
+FEDERAL DR                                                  0490104901
+FIELDS LN                                                   0490004900
+FINNELL RD                                                  0490004900
+FISHER LN                                                   0490004900
+FLORENCE LN                                                 0490004900
+FLOYD LAIR LN                                               0490004900
+FOGLE LN                                                    0490004900
+FOREST LN                                                   0490004900
+FRANKLIN LN                                                 0490004900
+FREEDOM LN                                                  0490004900
+FRIENDSHIP RD                                               0490004900
+FRITZ LN                                                    0490004900
+GAINESWAY DR                                                0490004900
+GARNETT RD                                                  0490004900
+GASSER LN                                                   0490004900
+GATEWAY LN                                                  0490004900
+GEM LN                                                      0490004900
+GILLESPIE AVE                                               0490204902
+GLENWOOD CT                                                 0490104901
+GRANDVIEW DR                                                0490104901
+GRANGER LN                                                  0490004900
+GRAY LN                                                     0490004900
+GRAYS RUN PIKE                                              0490004900
+GROVER CRISWELL RD                                          0490004900
+HALEY RD                                                    0490004900
+HALL LN                                                     0490004900
+HAMMER LN                                                   0490004900
+HAMPTON COURT CONNECTOR                                     0490104901
+HAMPTON CT                                                  0490104901
+HANDYMAN LN                                                 0490004900
+HARDINS FERRY RD                                            0490004900
+HARRISON AVE                                                0490104901
+HART DR                                                     0490004900
+HAVILANDSVILLE RD                                           0490004900
+HAZARD LN                                                   0490004900
+HEDGES LN                                                   0490004900
+HENDRICKS LN                                                0490004900
+HENRY LN                                                    0490004900
+HERRINGTON RD                                               0490004900
+HICKORY CT                                                  0490104901
+HICKS PIKE                                                  0490004900
+HIDDEN ACRES LN                                             0490004900
+HIDEOUT LN                                                  0490004900
+HIGHLAND AVE                                                0490104901
+HILL LN                                                     0490004900
+HILLSIDE DR                                                 0490104901
+HINKSTON AVE                                                0490104901
+HINTON RD                                                   0490004900
+HINTON WEBBER RD                                            0490004900
+HISTORIC LN                                                 0490004900
+HOLLY HILL LN                                               0490004900
+HONEYSUCKLE LN                                              0490004900
+HOPI DR                                                     0490004900
+HORSESHOE DR                                                0490004900
+HUGH HAND RD                                                0490004900
+HUGHES LN                                                   0490004900
+HUMMINGBIRD LN                                              0490004900
+HUNT RD                                                     0490004900
+HUSKENS LN                                                  0490004900
+HUTTON LN                                                   0490004900
+INDIAN CREEK DR                                             0490004900
+INDIAN WOODS CT                                             0490004900
+INDIAN WOODS TRL                                            0490004900
+INDUSTRY PARK RD                                            0490104901
+IROQUOIS TRL                                                0490004900
+JACOBS LN                                                   0490004900
+JAMES LN                                                    0490004900
+JILL LN                                                     0490004900
+JOE B HALL CT                                               0490104901
+JONES LN                                                    0490004900
+JUDY LN                                                     0490104901
+JUDY RIDGE RD                                               0490004900
+JUNCTION FARMS LN                                           0490004900
+JUNCTION PIKE                                               0490004900
+JUNIPER DR                                                  0490104901
+JUSTICE LN                                                  0490004900
+KEITH LN                                                    0490004900
+KELLER LN                                                   0490004900
+KELLER WAITS LN                                             0490004900
+KENDALL BRANCH RD                                           0490004900
+KINGS LN                                                    0490004900
+KINGSBURY LN                                                0490004900
+KY1032 E                                                    0490004900
+KY1032 W                                                    0490004900
+KY1053                                                      0490004900
+KY1054 N                                                    0490004900
+KY1054 S                                                    0490004900
+KY1284 E                                                    0490004900
+KY1284 W                                                    0490004900
+KY1298                                                      0490004900
+KY1743                                                      0490004900
+KY1744                                                      0490004900
+KY1771                                                      0490004900
+KY1842 E                                                    0490004900
+KY1842 N                                                    0490004900
+KY1842 W                                                    0490004900
+KY19                                                        0490010100
+KY1940                                                      0490004900
+KY3003                                                      0490004900
+KY3004                                                      0490004900
+KY3016                                                      0490004900
+KY3016                                                      0490104901
+KY3018                                                      0490004900
+KY3044                                                      0490004900
+KY32 E                                                      0490004900
+KY32 E                                                      0490104901
+KY32 W                                                      0490004900
+KY32 W                                                      0490104901
+KY353                                                       0490004900
+KY356                                                       0490004900
+KY356                                                       0490104901
+KY36 W                                                      0490004900
+KY392                                                       0490004900
+KY982 E                                                     0490004900
+KY982 W                                                     0490004900
+LADISH RD                                                   0490104901
+LADISH ROAD SPUR                                            0490104901
+LAKESIDE DR                                                 0490004900
+LAKEVIEW DR                                                 0490004900
+LANG RD                                                     0490004900
+LANGLEY RD                                                  0490004900
+LEAWOOD DR                                                  0490104901
+LEBUS LN                                                    0490004900
+LEDFORD TRL                                                 0490004900
+LEESBURG FARMS LN                                           0490004900
+LEMONS LN                                                   0490004900
+LIBERTY LN                                                  0490004900
+LICKING VALLEY RD                                           0490004900
+LIMA LN                                                     0490004900
+LINCOLN AVE                                                 0490104901
+LOLA DR                                                     0490104901
+LONGVIEW LN                                                 0490004900
+LOOKOUT LN                                                  0490004900
+LOWER CURRY RD                                              0490004900
+LOWER TWO LICK RD                                           0490004900
+LOWERY LN                                                   0490004900
+LUCY LN                                                     0490004900
+MAGNOLIA LN                                                 0490004900
+MAIN ST                                                     0490004900
+MAIN ST                                                     0490204902
+MAN O WAR LN                                                0490004900
+MAPLE AVE                                                   0490204902
+MAPLE ST                                                    0490104901
+MARIC LN                                                    0490004900
+MARILYN DR                                                  0490004900
+MARK RD                                                     0490004900
+MARSHALL AVE                                                0490104901
+MARSHALL FARM LN                                            0490004900
+MARTIN RD                                                   0490004900
+MASON LN                                                    0490004900
+MATTHEWS RD                                                 0490004900
+MATTOX RD                                                   0490004900
+MCCLELLAND ALY                                              0490104901
+MCDOWELL RD                                                 0490004900
+MCKEE LN                                                    0490004900
+MCKNIGHT ALY                                                0490104901
+MEADOW LN                                                   0490104901
+MIDDEN LN                                                   0490004900
+MIDNIGHT CT                                                 0490104901
+MILEY AVE                                                   0490004900
+MILLCREST CT                                                0490104901
+MILLER LN                                                   0490004900
+MOCKINGBIRD LN                                              0490004900
+MONROE LN                                                   0490004900
+MOORE RD                                                    0120004900
+MOORE RD                                                    0490004900
+MOORES MILL RD                                              0490004900
+MORNING GLORY RD                                            0490004900
+MOUTH OF CEDAR RD                                           0490004900
+MOY FOO ALY                                                 0490104901
+MT GILEAD RD                                                0490004900
+MT PLEASANT RD                                              0490004900
+MT VERNON PIKE                                              0490004900
+MUDLICK RD                                                  0490004900
+N 1ST ST                                                    0490204902
+N 2ND ST                                                    0490204902
+N CHURCH ST                                                 0490104901
+N ELMARCH AVE                                               0490104901
+N KNOCKGRIFFIN RD                                           0490004900
+N LOCUST ST                                                 0490104901
+N MAIN ST                                                   0490104901
+N MILLER ST                                                 0490104901
+N POPLAR ST                                                 0490104901
+N WALNUT ST                                                 0490104901
+NATL FARMERS ORG RD                                         0490004900
+NATURE LN                                                   0490004900
+NEBO RD                                                     0490004900
+NEEDMORE CORDOVA RD                                         0490004900
+NEW LAIR RD                                                 0490004900
+NEW LAIR RD                                                 0490104901
+NEW LN                                                      0490004900
+NEWSOM AVE                                                  0490104901
+NEWTOWN LEESBURG RD                                         0490004900
+NORTHCUTT LN                                                0490004900
+NORTHSIDE DR                                                0490004900
+NUNNELLEY RD                                                0490004900
+OAK LN                                                      0490004900
+OAK RIDGE RD                                                0490004900
+ODDVILLE AVE                                                0490004900
+ODDVILLE AVE                                                0490104901
+ODDVILLE SUNRISE RD                                         0490004900
+OLD FALMOUTH PIKE                                           0490004900
+OLD GEORGETOWN RD                                           0490004900
+OLD GEORGETOWN ROAD CONNECTOR                               0490004900
+OLD KY 1032                                                 0490004900
+OLD LAIR RD                                                 0490004900
+OLD LAIR RD                                                 0490104901
+OLD US 27 NORTH SPUR                                        0490004900
+OLD WILLIAMSTOWN LOOP                                       0490004900
+OLIVIA LN                                                   0490004900
+ORCHARD LN                                                  0490004900
+OSCAR SPRADLIN RD                                           0490004900
+OVERVIEW LN                                                 0490004900
+OWEN ALY                                                    0490104901
+OWENS LN                                                    0490004900
+OXLEY DR                                                    0490104901
+PALMER LN                                                   0490004900
+PARKLAND HTS                                                0490004900
+PARKWAY DR                                                  0490104901
+PEACHTREE DR                                                0490104901
+PEAK LN                                                     0490004900
+PECK ALY                                                    0490104901
+PEDRO PIKE                                                  0490004900
+PENN ST                                                     0490204902
+PEPPER LN                                                   0490004900
+PERRIN ALY                                                  0490104901
+PERRINS LN                                                  0490004900
+PHILLIPS LN                                                 0490004900
+PIGEON RD                                                   0490004900
+PINE ST                                                     0490104901
+PINERIDGE CT                                                0490104901
+PLAINVIEW LN                                                0490004900
+PLEASANT GREEN RD                                           0490004900
+PLUM CT                                                     0490104901
+POINDEXTER RD                                               0490004900
+PRESS DR                                                    0490004900
+PRICE CT                                                    0490004900
+PRINCE LN                                                   0490004900
+PUGHS FERRY RD                                              0490004900
+QUAIL LN                                                    0490104901
+QUALITY LN                                                  0490004900
+QUEENSWAY DR                                                0490104901
+RAILROAD AVE                                                0490104901
+RAINTREE DR                                                 0490104901
+RAVENS CREEK LN                                             0490004900
+REBEL HILL DR                                               0490104901
+RED DOG LN                                                  0490004900
+RENAKER ALY                                                 0490104901
+RENAKER BERRY RD                                            0490004900
+RENAKER RIDGE RD                                            0490004900
+REYNOLDS AVE                                                0490104901
+RICE RD                                                     0490004900
+RICHARDSON LN                                               0490004900
+RICHLAND CREEK RD                                           0490004900
+RIDGEWAY OAKWOOD DR                                         0490104901
+RIGGS AVE                                                   0490004900
+RIGGS AVE                                                   0490104901
+RIVERSIDE DR                                                0490104901
+ROBINSON BERRY RD                                           0490004900
+ROBINSON RD                                                 0490004900
+ROBINSON RENAKER RD                                         0490004900
+ROBINSON UNION RD                                           0490004900
+ROBYNWOOD DR                                                0490104901
+ROCK QUARY RD                                               0490004900
+ROCKY FORD RD                                               0490004900
+ROCKY SPRINGS RD                                            0490004900
+RODGERS PARK DR                                             0490004900
+RODGERS PARK DR                                             0490104901
+ROLAND LN                                                   0490004900
+ROSAS ALY                                                   0490104901
+ROSE BAY LN                                                 0490104901
+ROSEBUD CT                                                  0490004900
+ROSS AVE                                                    0490204902
+RUSS AVE                                                    0490104901
+RUTLAND RD                                                  0490004900
+S 1ST ST                                                    0490204902
+S 2ND ST                                                    0490204902
+S 3RD ST                                                    0490204902
+S CHURCH ST                                                 0490104901
+S EDGEWATER RD                                              0490004900
+S ELMARCH AVE                                               0490104901
+S FLOYD LAIR RD                                             0490004900
+S KNOCKGRIFFIN RD                                           0490004900
+S LOCUST ST                                                 0490104901
+S MAIN ST                                                   0490104901
+S MILLER ST                                                 0490104901
+S POPLAR ST                                                 0490104901
+S RANKIN BRANCH RD                                          0490004900
+S WALNUT ST                                                 0490104901
+SAFETY WAY                                                  0490104901
+SALEM PIKE                                                  0490004900
+SCHELL WAY                                                  0490004900
+SCOTTYS ALY                                                 0490104901
+SERENITY CT                                                 0490004900
+SHADETREE LN                                                0490204902
+SHADYNOOK PIKE                                              0490004900
+SHAW LN                                                     0490004900
+SHAWHAN RD                                                  0490004900
+SHAWNEE DR                                                  0490104901
+SHELTER LN                                                  0490004900
+SHEPHERD LN                                                 0490004900
+SHERWOOD DR                                                 0490104901
+SHIMFESSEL CT                                               0490104901
+SHORT ST                                                    0490104901
+SILAS PIKE                                                  0490004900
+SILVER RD                                                   0490004900
+SIMMONS CT                                                  0490004900
+SKY LN                                                      0490004900
+SKYVIEW DR                                                  0490104901
+SMALLEY BRANCH RD                                           0490004900
+SMISER RD                                                   0490004900
+SMITH AVE                                                   0490104901
+SMITH MARTIN LN                                             0490004900
+SMITSONVILLE RD                                             0490004900
+SNAKE LICK RD                                               0490004900
+SNAPCO LN                                                   0490004900
+SNOW RD                                                     0490004900
+SONLEY DR                                                   0490104901
+SOUTHLAND DR                                                0490104901
+SOUTHRIDGE LN                                               0490004900
+SPIDER RD                                                   0490004900
+SPIRITO RD                                                  0490004900
+SPRINGDALE AVE                                              0490004900
+SPRINGDALE AVE                                              0490104901
+SPRUCE DR                                                   0490104901
+ST CLAIR ST                                                 0490104901
+ST EDWARDS LN                                               0490104901
+STANFIELD AVE                                               0490104901
+STANFIELD AVENUE EXT                                        0490104901
+STEFFE LN                                                   0490004900
+STOKLEY RD                                                  0490004900
+STOKLEY RD                                                  0490104901
+STONE AVE                                                   0490104901
+STONEWALL LN                                                0490004900
+STONEY BRANCH RD                                            0490004900
+STRATTON RD                                                 0490004900
+STRINGTOWN WEBBER RD                                        0490004900
+STROUB LN                                                   0490004900
+SUGAR BUD LN                                                0490004900
+SUGAR HILL LN                                               0490004900
+SUMMIT LN                                                   0490004900
+SUNSET CT                                                   0490104901
+SWEETCORN LN                                                0490004900
+SWINFORD ALY                                                0490104901
+SWITZER PIKE                                                0490004900
+SYCAMORE DR                                                 0490104901
+SYLVANDELL RD                                               0490004900
+TAYLOR DR                                                   0490104901
+TECH WAY RD                                                 0490104901
+TERESA DR                                                   0490004900
+THOROBRED CT                                                0490104901
+TOADVINE LN                                                 0490004900
+TOLLIVER LN                                                 0490104901
+TRAM LN                                                     0490004900
+TRANQUIL LN                                                 0490004900
+TULIP LN                                                    0490004900
+TURFWAY LN                                                  0490104901
+TWIN CREEK RD                                               0490004900
+TWO LICK RD                                                 0490004900
+UNITED LN                                                   0490004900
+UPPER CURRY RD                                              0490004900
+US27 N                                                      0490004900
+US27 N                                                      0490104901
+US27 S                                                      0490004900
+US27 S                                                      0490104901
+US62 E                                                      0490004900
+US62 W                                                      0490004900
+VANDEREN LN                                                 0490004900
+VINE ST                                                     0490104901
+W CROMWELL ALY                                              0490104901
+W GARDNER RD                                                0490004900
+W HENRY LN                                                  0490004900
+W KEHOE ALY                                                 0490104901
+W MILL ST                                                   0490104901
+W PEARL ST                                                  0490104901
+W PENN ST                                                   0490104901
+W PIKE ST                                                   0490104901
+W PLEASANT ST                                               0490104901
+WAGNER LN                                                   0490004900
+WAGONERS CHAPEL RD                                          0490004900
+WAITS RD                                                    0490004900
+WALNUT HILL CT                                              0490004900
+WARM HEARTH LN                                              0490004900
+WATER ST                                                    0490104901
+WATERWORKS ABDELLAH RD                                      0490104901
+WEBB LN                                                     0490004900
+WEBSTER AVE                                                 0490104901
+WEST RD                                                     0490104901
+WESTERN AVE                                                 0490104901
+WESTGATE LN                                                 0490004900
+WESTLAND LN                                                 0490004900
+WESTWAY LN                                                  0490004900
+WHALEN RD                                                   0490004900
+WHISPERING WIND LN                                          0490004900
+WHITE OAK TRL                                               0490104901
+WHITE RD                                                    0490004900
+WHITSON RD                                                  0490004900
+WHITT WAY                                                   0490104901
+WIGLESWORTH RD                                              0490004900
+WILDCAT LN                                                  0490004900
+WILDLIFE LN                                                 0490004900
+WILLIAMS LN                                                 0490004900
+WILLIAMS S                                                  0490004900
+WILLOWOOD CT                                                0490104901
+WILSON AVE                                                  0490104901
+WINDY RIDGE LN                                              0490004900
+WINTERWOOD LN                                               0490004900
+WITHERS LN                                                  0490004900
+WOHLWINDER AVE                                              0490104901
+WORNALL LN                                                  0490004900
+YALE LN                                                     0490004900
+ZANDALE LN                                                  0490004900

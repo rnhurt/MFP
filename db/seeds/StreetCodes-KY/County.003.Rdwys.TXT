@@ -1,0 +1,579 @@
+AARON BARNETT RD                                            0030000300
+ADELINE CT                                                  0030100301
+AFFIRMED COURT SPUR                                         0030100301
+AFFIRMED CT                                                 0030100301
+ALEXANDRIA CT                                               0030100301
+ALEXANDRIA DR                                               0030100301
+ALFORD RD                                                   0030000300
+ALICE DR                                                    0030100301
+ALTA DR                                                     0030000300
+ALTON MOBILE HOME PARK                                      0030000300
+ALTON RD                                                    0030000300
+ALTON STATION RD                                            0030000300
+ANDERSON CITY RD                                            0030000300
+ANDERSON COUNTY EMS RD                                      0030000300
+ANDERSON COUNTY EMS RD                                      0030100301
+ANDERSON CROSSING DR                                        0030000300
+ANDERSON CROSSING DR                                        0030100301
+ANDERSON CROSSING DRIVE CONNECTOR                           0030000300
+ANN DR                                                      0030100301
+ARBOR VIEW LN                                               0030000300
+ASH CT                                                      0030100301
+ASHBY RD                                                    0030000300
+ASHLEY WAY                                                  0030100301
+ASPEN DR                                                    0030000300
+AUGUSTA DR                                                  0030100301
+AVENSTOKE RD                                                0030000300
+BALLARD RD                                                  0030000300
+BALLARD ST                                                  0030100301
+BARDSTOWN RD                                                0030000300
+BAXTER RIDGE RD                                             0030000300
+BEAR CREEK RD                                               0030000300
+BEAVER LAKE RD                                              0030000300
+BEAVER TRL                                                  0030000300
+BELL ST                                                     0030100301
+BENSON CREEK RD                                             0030000300
+BERDINE WAY                                                 0030000300
+BETH DR                                                     0030100301
+BG9002 E                                                    0030000300
+BG9002 E EXIT48 OFF RAMP TO KY53                            0030000300
+BG9002 E EXIT48 ON RAMP FROM KY53                           0030000300
+BG9002 E EXIT59 CROSSOVER FROM US127 S                      0030000300
+BG9002 E EXIT59 ON RAMP FROM US127                          0030000300
+BG9002 E EXIT59 ON RAMP FROM US127 N                        0030000300
+BG9002 E EXIT59 ON RAMP FROM US127 S                        0030000300
+BG9002 E EXIT59A OFF RAMP TO US127 S                        0030000300
+BG9002 E EXIT59B OFF RAMP TO US127 N                        0030000300
+BG9002 W                                                    0030000300
+BG9002 W EXIT48 OFF RAMP TO KY53                            0030000300
+BG9002 W EXIT48 ON RAMP FROM KY53                           0030000300
+BG9002 W EXIT59 CROSSOVER FROM US127 N                      0030000300
+BG9002 W EXIT59 ON RAMP FROM US127                          0030000300
+BG9002 W EXIT59 ON RAMP FROM US127 N                        0030000300
+BG9002 W EXIT59 ON RAMP FROM US127 S                        0030000300
+BG9002 W EXIT59A OFF RAMP TO US127 S                        0030000300
+BG9002 W EXIT59B OFF RAMP TO US127 N                        0030000300
+BIRDIE RD                                                   0030000300
+BLACK OAK DR                                                0030000300
+BLACKBERRY DR                                               0030000300
+BLAKE DR                                                    0030100301
+BLUEBIRD CT                                                 0030100301
+BOBWHITE CT                                                 0030000300
+BOND AND LILLARD RD                                         0030000300
+BOND AND LILLARD RD                                         0030100301
+BOND LN                                                     0030000300
+BOND ST                                                     0030100301
+BONDS MILL RD                                               0030000300
+BONDVILLE RD                                                0030000300
+BONNIE BLUE LOOP                                            0030100301
+BOWEN DR                                                    0030100301
+BRADLEY DR                                                  0030000300
+BRENDA DR                                                   0030100301
+BRIAR CREEK DR                                              0030100301
+BRIAR RIDGE RD                                              0030000300
+BRIARWOOD DR                                                0030000300
+BRIDGE HILL RD                                              0030000300
+BROOKE DR                                                   0030100301
+BROWNS STORE RD                                             0030000300
+BRUNER RD                                                   0030000300
+BRYANT LN                                                   0030000300
+BUCKLEY LN                                                  0030000300
+BUNKER HILL DR                                              0030000300
+BUNTAIN SCHOOL RD                                           0030000300
+BURGIN RD                                                   0030000300
+BURKE RD                                                    0030000300
+BUSH AVE                                                    0030100301
+BUTLER DR                                                   0030100301
+BYPASS N                                                    0030000300
+BYPASS N                                                    0030100301
+BYPASS S                                                    0030000300
+BYPASS S                                                    0030100301
+CABLE DR                                                    0030000300
+CADDY CT                                                    0030000300
+CALDWELL RD                                                 0030000300
+CALE DR                                                     0030100301
+CANTERBURY ST                                               0030100301
+CARDINAL DR                                                 0030100301
+CAREY MILL RD                                               0030000300
+CARLTON DR                                                  0030000300
+CARLTON DR                                                  0030100301
+CARLTON RD                                                  0030000300
+CASE RD                                                     0030000300
+CEDAR RIDGE CT                                              0030100301
+CEDARBROOK RD                                               0030000300
+CENTER ST                                                   0030100301
+CHASE DR                                                    0030100301
+CHAUCER CT                                                  0030100301
+CHAUCER DR                                                  0030100301
+CHAUTAUQUA ST                                               0030100301
+CHEROKEE TRL                                                0030100301
+CHERRY ST                                                   0030100301
+CHERRYWOOD DR                                               0030000300
+CHERRYWOOD DR                                               0030100301
+CHICO DR                                                    0030000300
+CHINOOK DR                                                  0030100301
+CHRIS DR                                                    0030100301
+CHURCH ST                                                   0030100301
+CIRCLE DR                                                   0030000300
+CITATION LN                                                 0030100301
+CLAY BURGIN RD                                              0030000300
+CLAY LICK CHURCH RD                                         0030000300
+CLEAR WATER DR                                              0030000300
+CLIFTON RD                                                  0030000300
+COBB ST                                                     0030000300
+COLD STREAM DR                                              0030000300
+COLEMAN ST                                                  0030100301
+COLLEGE ST                                                  0030100301
+COLLINS LN                                                  0030100301
+COLONIAL CT                                                 0030100301
+COMMERCE WAY                                                0030000300
+COMMERCIAL DR                                               0030000300
+CONNECTOR                                                   0030000300
+COOPER ST                                                   0030000300
+COPPERFIELD CT                                              0030100301
+COPPERFIELD DR                                              0030100301
+CORINTH RD                                                  0030000300
+CORNISH LN                                                  0030000300
+CORNS LN                                                    0030000300
+CORNS LN                                                    0030100301
+CORPORATE DR                                                0030100301
+COUNTRY ESTS                                                0030000300
+COUNTY PARK RD                                              0030000300
+COX LN                                                      0030000300
+CRASK RD                                                    0030000300
+CRAWFORD RD                                                 0030000300
+CREEKSIDE DR                                                0030000300
+CRESCENT CT                                                 0030000300
+CROOKED CREEK RD                                            0030000300
+CROSSROAD DR                                                0030100301
+DAN DR                                                      0030100301
+DANA DR                                                     0030000300
+DANIEL DR                                                   0030000300
+DAVID ST                                                    0030100301
+DAWSON FERRY RD                                             0030000300
+DEE GOODLETT RD                                             0030000300
+DEER CREEK RD                                               0030000300
+DEER RUN RD                                                 0030000300
+DELANEY RD                                                  0030000300
+DENNIS RD                                                   0030000300
+DENNY DR                                                    0030000300
+DEWEY DR                                                    0030000300
+DIAMOND AVE                                                 0030100301
+DICKENS ST                                                  0030100301
+DJEDDAH DR                                                  0030100301
+DOGWOOD DR                                                  0030100301
+DONNA DR                                                    0030100301
+DOUGLAS CIR                                                 0030000300
+DOVE DR                                                     0030100301
+DRISCOLL RD                                                 0030000300
+DRURY CT                                                    0030000300
+DRURY LN                                                    0030000300
+DRURY RD                                                    0030000300
+DRYDOCK RD                                                  0030000300
+DUDLEY ST                                                   0030100301
+DUGANSVILLE RD                                              0030000300
+DUNCAN RD                                                   0030000300
+DYLAN DR                                                    0030000300
+E BROADWAY ST                                               0030100301
+E COURT ST                                                  0030100301
+E WOODFORD ST                                               0030100301
+EAGLE DR                                                    0030000300
+EAGLE DR                                                    0030100301
+EAGLE LAKE DR                                               0030000300
+EAGLE VIEW DR                                               0030000300
+EARTHAVEN DR                                                0030000300
+EDGEHILL DR                                                 0030000300
+EDGEWOOD WAY                                                0030000300
+EDGEWOOD WAY                                                0030100301
+EDMONSON RD                                                 0030000300
+ELIJAH CT                                                   0030000300
+ELM ST                                                      0030100301
+EMMA DRURY RD                                               0030000300
+EMMA LEE DR                                                 0030000300
+ENGLISH GARDEN                                              0030100301
+ENTERPRISE RD                                               0030000300
+ESCONDIDA DR                                                0030000300
+EVERGREEN DR                                                0030100301
+FACTORY AVE                                                 0030100301
+FAIRMOUNT RD                                                0030000300
+FAIRVIEW AVE                                                0030100301
+FAIRVIEW RD                                                 0030000300
+FAIRWAY DR                                                  0030000300
+FAWN LEAP DR                                                0030100301
+FELAND DR                                                   0030100301
+FIELDSTONE DR                                               0030100301
+FLORIDA TILE RD                                             0030000300
+FLORIDA TILE SOCCER FIELD RD                                0030000300
+FLYGSTAD LN                                                 0030000300
+FOREST HILL DR                                              0030000300
+FORREST DR                                                  0030100301
+FORTUNE DR                                                  0030000300
+FOUNDATION DR                                               0030100301
+FOX CREEK GOSHEN RD                                         0030000300
+FOX CREEK RD                                                0030000300
+FOX CREEK RD                                                0030100301
+FOX HOLLOW DR                                               0030000300
+FRANKFORT RD                                                0030000300
+FRANKLIN COUNTY HL                                          0030000300
+FRANKLIN ST                                                 0030100301
+FREESTONE WAY                                               0030100301
+GAILANE ST                                                  0030100301
+GATEWOOD AVE                                                0030100301
+GAYLAND DR                                                  0030000300
+GAYLE BOND RD                                               0030000300
+GAYLE WARFORD LN                                            0030000300
+GEORGIA WAY                                                 0030100301
+GILBERTS CREEK RD                                           0030000300
+GILL ST                                                     0030100301
+GLENSBORO RD                                                0030000300
+GLENSBORO RD                                                0030100301
+GOIN ST                                                     0030100301
+GOLDEN ACRES TRAILER COURT NO1                              0030000300
+GOLDEN ACRES TRAILER COURT NO1                              0030100301
+GOLDEN ACRES TRAILER COURT NO2                              0030100301
+GOLDEN ACRES TRAILER COURT NO3                              0030100301
+GOODNIGHT RD                                                0030000300
+GOSHEN RD                                                   0030000300
+GRAEFENBURG RD                                              0030000300
+GRANT DR                                                    0030100301
+GREEN ACRES                                                 0030000300
+GREEN MEADOWS DR                                            0030000300
+GREEN MEADOWS PL                                            0030000300
+GREEN WILSON RD                                             0030000300
+GREENBRIAR RD                                               0030000300
+GREENVIEW DR                                                0030100301
+GREGORY LN                                                  0030000300
+GRIFFIN DR                                                  0030000300
+HAHN DR                                                     0030100301
+HAMLIN WAY                                                  0030100301
+HAMMOND RD                                                  0030000300
+HAMMONDS CREEK RD                                           0030000300
+HANNAH DR                                                   0030100301
+HARBOUR LN                                                  0030100301
+HARDIN RD                                                   0030000300
+HARRODSBURG RD                                              0030000300
+HARRY WISE RD                                               0030000300
+HAWKINS ST                                                  0030100301
+HAWKS NEST LN                                               0030000300
+HAWTHORNE RD                                                0030000300
+HAYDEN DR                                                   0030100301
+HAZEL DR                                                    0030000300
+HENRY HILL RD                                               0030000300
+HERITAGE DR                                                 0030000300
+HERNDON RD                                                  0030000300
+HIAWATHA CT                                                 0030100301
+HICKORY GROVE RD                                            0030000300
+HICKORY HILLS DR                                            0030000300
+HICKORY RD                                                  0030100301
+HICKORY RIDGE RD                                            0030000300
+HIGH HOPE DR                                                0030100301
+HIGHLAND AVE                                                0030100301
+HIGHVIEW DR                                                 0030000300
+HILLTOP DR                                                  0030100301
+HOLLY DR                                                    0030100301
+HOMESTEAD RIDGE                                             0030000300
+HONEYSUCKLE LN                                              0030000300
+HOOPHOLE RD                                                 0030000300
+HOOPHOLE SPUR                                               0030000300
+HORN DR                                                     0030100301
+HUMMINGBIRD DR                                              0030000300
+HUMSTON DR                                                  0030100301
+HUNGRY RUN RD                                               0030000300
+HUNTER RIDGE DR                                             0030100301
+HYATT RD                                                    0030000300
+INDIAN RIDGE LN                                             0030000300
+INDIAN TRL                                                  0030100301
+INDUSTRY RD                                                 0030100301
+IRON WAY                                                    0030000300
+JEAN DR                                                     0030100301
+JENNIFER ANN DR                                             0030000300
+JENNIFER DR                                                 0030100301
+JENNY LILLARD RD                                            0030000300
+JENNY LILLARD RD                                            0030100301
+JERRY DR                                                    0030100301
+JOHN CT                                                     0030100301
+JOHNS WAYS                                                  0030000300
+JOHNSON RD                                                  0030000300
+JOHNSON ST                                                  0030100301
+JOSEPH CT                                                   0030100301
+JOY ST                                                      0030100301
+KATHY ST                                                    0030100301
+KAY ST                                                      0030100301
+KAYS RD                                                     0030000300
+KEATON LN                                                   0030000300
+KINGS WAY                                                   0030000300
+KIRKWOOD DR                                                 0030000300
+KIRSCH RD                                                   0030000300
+KY2920                                                      0030000300
+LAKE DR                                                     0030000300
+LAKEVIEW DR                                                 0030100301
+LAKEVIEW MNR                                                0030000300
+LANAS LN                                                    0030000300
+LANES MILL RD                                               0030000300
+LANGFIELD LN                                                0030000300
+LARK CT                                                     0030000300
+LEATHERS RD                                                 0030000300
+LEGACY CT                                                   0030000300
+LESLEE WAY                                                  0030100301
+LEWIS ST                                                    0030100301
+LICK SKILLET RD                                             0030000300
+LILY DR                                                     0030100301
+LIN MOORE RD                                                0030000300
+LINCOLN ST                                                  0030100301
+LINDEN DR                                                   0030100301
+LOCK NO5 RD                                                 0030000300
+LOCK RD                                                     0030000300
+LOCUST PT                                                   0030000300
+LOIS ST                                                     0030100301
+LONG RD                                                     0030000300
+LOOKOUT LN                                                  0030100301
+LOVE RDG                                                    0030000300
+LOVE RIDGE                                                  0030000300
+LOVE RIDGE ROAD CONNECTOR                                   0030000300
+LOVERS LEAP RD                                              0030000300
+LUCE ST                                                     0030100301
+LYNN DR                                                     0030100301
+MAC ST                                                      0030100301
+MACLAND ST                                                  0030000300
+MADDOX LN                                                   0030000300
+MADISON CT                                                  0030100301
+MAN O WAR CT                                                0030100301
+MAN O WAR DR                                                0030100301
+MAPLE CT                                                    0030100301
+MAPLE ST                                                    0030100301
+MAPLEWOOD WAY                                               0030100301
+MARCIA DR                                                   0030100301
+MARRS AVE                                                   0030100301
+MARY ELIZABETH LN                                           0030000300
+MATTHEW CT                                                  0030100301
+MAYS RD                                                     0030000300
+MCCALLS SPRING RD                                           0030000300
+MCCORMICK RD                                                0030000300
+MCCOY LN                                                    0030000300
+MCDONALD RD                                                 0030000300
+MCKEE LN                                                    0030100301
+MEADOW BROOK DR                                             0030000300
+MEADOW LARK DR                                              0030000300
+MEADOW LN                                                   0030000300
+MELANIE CT                                                  0030100301
+MELANIE DR                                                  0030100301
+MELODY LN                                                   0030000300
+MERRICK LN                                                  0030000300
+MERRIWEATHER DR                                             0030100301
+MICHAEL BLVD                                                0030000300
+MIKE ST                                                     0030100301
+MILL CREEK PIKE                                             0030000300
+MOORELAND CT                                                0030000300
+MOORELAND DR                                                0030000300
+MORGAN BROTHERS RD                                          0030000300
+MORNINGSIDE DR                                              0030100301
+MT EDEN RD                                                  0030000300
+MUD LICK RD                                                 0030000300
+MUSCOVIE TRL                                                0030000300
+MUSTANG TRL                                                 0030000300
+MUSTANG TRL                                                 0030100301
+N MAIN ST                                                   0030100301
+NANTUCKET WAY                                               0030100301
+NATHAN WAY                                                  0030100301
+NAUTICAL WAY                                                0030100301
+NEVINS STATION RD                                           0030000300
+NEW LIBERTY RD                                              0030000300
+NEW LIBERTY ROAD CONNECTOR                                  0030000300
+NICKELBIE DR                                                0030100301
+NINEVAH RD                                                  0030000300
+NORTHWOOD LOOP                                              0030000300
+OAK HILL CT                                                 0030100301
+OAKWOOD DR                                                  0030100301
+OHARA DR                                                    0030100301
+OLD FRANKFORT RD                                            0030000300
+OLD JOE RD                                                  0030000300
+OLD NEW LIBERTY RD                                          0030000300
+OLLIE J BOWEN PL                                            0030100301
+ORCHARD WAY                                                 0030100301
+OTIS FRANKLIN RD                                            0030000300
+PADDOCK LOOP                                                0030100301
+PALMER RD                                                   0030000300
+PAR DR                                                      0030000300
+PARK LN                                                     0030100301
+PARKSIDE DR                                                 0030100301
+PARKVIEW CT                                                 0030100301
+PARKVIEW DR                                                 0030100301
+PARKWOOD GARDEN                                             0030100301
+PAULA DR                                                    0030000300
+PAWNEE DR                                                   0030100301
+PAXTON RD                                                   0030000300
+PEACH DR                                                    0030100301
+PEBBLE BEACH CT                                             0030100301
+PENINSULA DR                                                0030000300
+PIGEON FORK RD                                              0030000300
+PIN OAK DR                                                  0030100301
+PINE MEADOW DR                                              0030000300
+PINE ST                                                     0030100301
+PINEWOOD CT                                                 0030000300
+PIONEER CREEK                                               0030000300
+PLANTATION DR                                               0030100301
+PLAZA DR                                                    0030100301
+PLEASANT GROVE RIDGE RD                                     0030000300
+PLUM LN                                                     0030000300
+PLUM ST                                                     0030100301
+POINT VIEW DR                                               0030000300
+POPLAR DR                                                   0030100301
+POSEY DR                                                    0030100301
+POWELL TAYLOR RD                                            0030000300
+PRIMROSE LN                                                 0030000300
+PROGRESS PL                                                 0030100301
+PUCKETT RD                                                  0030000300
+PUMPHOUSE RD                                                0030000300
+PUNCHEON CREEK RD                                           0030000300
+PUTTER PT                                                   0030000300
+QUEENS WAY                                                  0030000300
+RAILROAD ST                                                 0030100301
+RAINBOW WAY                                                 0030000300
+RAVENWOOD DR                                                0030000300
+RAY CT                                                      0030100301
+REDWING WAY                                                 0030000300
+RICE RD                                                     0030000300
+RICHWOOD DR                                                 0030000300
+RIDGEVIEW DR                                                0030100301
+RILEY LN                                                    0030000300
+RIPPLEWOOD RD                                               0030000300
+RIPY ST                                                     0030100301
+RITCHEY LN                                                  0030000300
+RIVA RIDGE DR                                               0030100301
+RIVER RD                                                    0030000300
+ROARK CT                                                    0030100301
+ROBBIE DR                                                   0030100301
+ROBIN LN                                                    0030100301
+ROCK CREEK RD                                               0030000300
+RUBLE RD                                                    0030000300
+RUDDY RD                                                    0030000300
+RUDY GAY RD                                                 0030000300
+RUELAND DR                                                  0030000300
+RUNNING BROOK DR                                            0030000300
+RURITAN DR                                                  0030000300
+RUSSELL DARNELL RD                                          0030000300
+RUTHERFORD SCHOOL RD                                        0030000300
+S LAKESHORE DR                                              0030000300
+S MAIN ST                                                   0030100301
+SAFFELL CT                                                  0030100301
+SAFFELL ST                                                  0030100301
+SALT RIVER RD                                               0030000300
+SAYRE LN                                                    0030000300
+SCARLET LN                                                  0030100301
+SCENIC GARDEN                                               0030100301
+SCOTT CT                                                    0030100301
+SEA RIDGE RD                                                0030000300
+SEABISCUIT DR                                               0030100301
+SEARCY SCHOOL RD                                            0030000300
+SEASCAPE LN                                                 0030100301
+SECRETARIAT DR                                              0030100301
+SEMINOLE CT                                                 0030100301
+SHADY LANE DR                                               0030100301
+SHADY LN                                                    0030100301
+SHARON DR                                                   0030100301
+SHEILA CT                                                   0030100301
+SHERWOOD DR                                                 0030100301
+SIERS RD                                                    0030000300
+SILVER LEAF DR                                              0030100301
+SMITH CT                                                    0030100301
+SMITHER DR                                                  0030000300
+SPAULDING LN                                                0030000300
+SPRING MEADOW DR                                            0030000300
+ST ANDREWS CT                                               0030100301
+ST CHARLES PARK                                             0030100301
+STARHILL WAY                                                0030000300
+STONE TRACE DR                                              0030100301
+STONECREST CT                                               0030100301
+STONERIDGE RD                                               0030000300
+SUNRISE LN                                                  0030000300
+SUNSET DR                                                   0030100301
+SUZANNE ST                                                  0030100301
+SWEET BRIAR CT                                              0030100301
+SYCAMORE CT                                                 0030000300
+SYCAMORE DR                                                 0030000300
+T BURGIN RD                                                 0030000300
+TAHOE DR                                                    0030000300
+TANGLEWOOD DR                                               0030100301
+TARA WAY                                                    0030100301
+TAYLORSVILLE RD                                             0030000300
+TEAL POINT DR                                               0030000300
+TEDROW TRL                                                  0030000300
+TERRI LN                                                    0030000300
+THISTLEWOOD CT                                              0030100301
+THORNTREE LN                                                0030100301
+THREE CORNERS DR                                            0030000300
+THREE CORNERS DRIVE CONNECTOR                               0030000300
+TILE VILLAGE CIR                                            0030000300
+TIM TAM WAY                                                 0030100301
+TIMBER CREEK RD                                             0030000300
+TOWNSHIP SQ                                                 0030100301
+TRACY RD                                                    0030000300
+TRIPLE FIVE HWY                                             0030000300
+TWELVE OAKS DR                                              0030100301
+TYRONE BISHOP ST                                            0030000300
+TYRONE CHURCH RD                                            0030000300
+TYRONE ELM ST                                               0030000300
+TYRONE MAIN ST                                              0030000300
+TYRONE RD                                                   0030000300
+VAIL DR                                                     0030000300
+VALHALLA DR                                                 0030100301
+VAN BUREN BOAT RAMP                                         0030000300
+VAN BUREN EXT                                               0030000300
+VAN BUREN RD                                                0030000300
+VANARSDALE DR                                               0030100301
+VAUGHN RD                                                   0030000300
+VENUS DR                                                    0030000300
+VERSAILLES RD                                               0030000300
+VIDAS EDWARDS RD                                            0030000300
+VILLAGE DR                                                  0030100301
+VIRGINIA AVE                                                0030000300
+VOWELS CT                                                   0030100301
+W BROADWAY ST                                               0030100301
+W COURT ST                                                  0030100301
+W JACKSON ST                                                0030100301
+W WOODFORD ST                                               0030100301
+WADDY RD                                                    0030000300
+WALKER LN                                                   0030000300
+WALKER LN                                                   0030100301
+WALLACE LN                                                  0030000300
+WALNUT ST                                                   0030100301
+WALTER DRURY RD                                             0030000300
+WARBLER DR                                                  0030100301
+WASHINGTON ST                                               0030100301
+WATERFILL ST                                                0030100301
+WATTS RUN RD                                                0030000300
+WATTS SPUR RD                                               0030000300
+WEDGE WAY                                                   0030000300
+WELLS LN                                                    0030000300
+WENDY DR                                                    0030100301
+WEST END DR                                                 0030100301
+WEST PARK                                                   0030000300
+WEST PARK                                                   0030100301
+WEST PIKE                                                   0030100301
+WESTERN AVE                                                 0030100301
+WESTWOOD DR                                                 0030000300
+WHEATON DR                                                  0030100301
+WHIRLAWAY LN                                                0030100301
+WHITEWAY DR                                                 0030100301
+WHITNEY AVE                                                 0030100301
+WILDCAT RD                                                  0030000300
+WILDERNESS LOOP                                             0030000300
+WILDWOOD CT                                                 0030000300
+WILLISBURG RD                                               0030000300
+WILLOUGHBY WOODS                                            0030100301
+WILLOW TER                                                  0030100301
+WILSON LN                                                   0030000300
+WINNING COLORS WAY                                          0030100301
+WINTER GARDEN                                               0030100301
+WITHERSPOON DR                                              0030100301
+WOODCREST DR                                                0030000300
+WOODHAVEN WAY                                               0030000300
+WOODLAKE DR                                                 0030000300
+WOODLAND PARK CIR                                           0030100301
+WOODLANE CIR                                                0030100301
+WOODLAWN DR                                                 0030000300
+WOODSPOINT DR                                               0030000300
+WOODSVIEW CT                                                0030100301
+WOOLDRIDGE LN                                               0030000300
+WOOLDRIDGE SPUR                                             0030000300
+YORKSHIRE DR                                                0030100301

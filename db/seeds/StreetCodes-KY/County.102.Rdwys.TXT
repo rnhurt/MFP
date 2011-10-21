@@ -1,0 +1,1007 @@
+ABWAY ST                                                    1020010200
+ACADEMY RD                                                  1020010200
+ACORN FORK RD                                               1020010200
+ACORN LN                                                    1020010200
+ADAIR LN                                                    1020010200
+ADAMS FARM RD                                               1020010200
+ALABAMA LN                                                  1020010200
+ALASKA LN                                                   1020010200
+ALBRIGHT ST                                                 1020310203
+ALCORN ST                                                   1020210202
+ALEX LN                                                     1020310203
+ALLEN LN                                                    1020010200
+ALLEY NO2                                                   1020210202
+ALLEY NO3                                                   1020210202
+ALLEY ST                                                    1020010200
+ALLSTATER LN                                                1020010200
+ALPHA LN                                                    1020010200
+ALWAYS ST                                                   1020010200
+AMBROSE RD                                                  1020010200
+AMERICA DEATON CEMETERY RD                                  1020010200
+ANDERSON CEMETERY RD                                        1020010200
+ANGEL LN                                                    1020010200
+ANGLIN CEMETERY RD                                          1020010200
+ANGLIN FALLS RD                                             1020010200
+APACHE LN                                                   1020010200
+APPALOOSA TRL                                               1020010200
+APRIL LN                                                    1020010200
+ARCH LN                                                     1020010200
+ARTEMIS LN                                                  1020010200
+ARVIL LN                                                    1020010200
+ASH LN                                                      1020010200
+ASPEN LN                                                    1020010200
+ASTOR LN                                                    1020010200
+BACK TRACK RD                                               1020010200
+BACKBONE RIDGE RD                                           1020010200
+BAKER CEMETERY RD                                           1020010200
+BALD EAGLE LN                                               1020010200
+BALES CEMETERY RD                                           1020010200
+BANDY WILLAILIA RD                                          1020010200
+BARKER RD                                                   1020010200
+BARNETT RD                                                  1020010200
+BARNETT VALLEY RD                                           1020010200
+BARNSWALLOW LN                                              1020010200
+BEAGLE LN                                                   1020010200
+BEAN POLE LN                                                1020010200
+BECKY DR                                                    1020310203
+BEE LICK RD                                                 1020010200
+BEECH LN                                                    1020010200
+BENT OAK CT                                                 1020010200
+BENT TREE LN                                                1020010200
+BETHEL LN                                                   1020010200
+BETHRUM ST                                                  1020210202
+BIG BUCK LN                                                 1020010200
+BIG CAVE RD                                                 1020010200
+BIG HILL RD                                                 1020010200
+BIG ORCHARD RD                                              1020010200
+BIG SANDY RD                                                1020010200
+BIG SINKS RD                                                1020010200
+BIG VALLEY RD                                               1020010200
+BILLOWS RD                                                  1020010200
+BIRCH HOLLOW RD                                             1020010200
+BIRDIE LN                                                   1020010200
+BLACK BEAR LICK                                             1020010200
+BLACK HORN LN                                               1020010200
+BLACK ST                                                    1020110201
+BLACKBERRY LN                                               1020010200
+BLACKBIRD LN                                                1020010200
+BLACKSMITH LN                                               1020010200
+BLACKWATER LN                                               1020010200
+BLOSS RD                                                    1020010200
+BLUE GATE LN                                                1020010200
+BLUE HERRON CIRCLE RD                                       1020010200
+BLUE JAY LN                                                 1020010200
+BLUE LN                                                     1020010200
+BLUE SPRINGS RD                                             1020010200
+BLUEBIRD LN                                                 1020010200
+BLUEGRASS LN                                                1020010200
+BLUEJAY LOOP                                                1020010200
+BLUETICK RD                                                 1020010200
+BOBLOINK RD                                                 1020010200
+BOBWHITE LN                                                 1020010200
+BOBWHITE LOOP                                               1020010200
+BON BON LN                                                  1020010200
+BOONE GAP RD                                                1020010200
+BOTTOMS DR                                                  1020010200
+BOWLING RIDGE RD                                            1020010200
+BRANAMANN CEMETERY RD                                       1020010200
+BRANSTETTER CEMETERY RD                                     1020010200
+BREEZY HOLLOW LN                                            1020010200
+BREEZY HOLLOW SPUR                                          1020010200
+BRIAN LN                                                    1020010200
+BRIARFIELD CEMETERY RD                                      1020010200
+BRIDLE LN                                                   1020010200
+BRIGHT SHADE LN                                             1020010200
+BRIGHTSHADE LN                                              1020010200
+BRINDLE RIDGE RD                                            1020010200
+BRINDLE RIDGE RD                                            1020310203
+BROOKLYN DR                                                 1020010200
+BROWN CEMETERY RD                                           1020010200
+BROWN RD                                                    1020010200
+BROWNE BRANCH RD                                            1020010200
+BROWNING CEMETERY RD                                        1020010200
+BRUSH CREEK CHURH RD                                        1020010200
+BRUSHCREEK CIRCLE RD                                        1020010200
+BRUSHY RIDGE RD                                             1020010200
+BRYANT RIDGE RD                                             1020010200
+BUCK LICK RD                                                1020010200
+BUCKEYE RD                                                  1020010200
+BUFFALO BRANCH RD                                           1020010200
+BUFFALO HOLLOW RD                                           1020010200
+BULL CREEK RD                                               1020010200
+BULL PEN BRANCH RD                                          1020010200
+BULLOCK AVE                                                 1020110201
+BULLOCK CEMETERY RD                                         1020010200
+BUNCH LN                                                    1020010200
+BUNTING HOLLOW RD                                           1020010200
+BURNT RIDGE RD                                              1020010200
+BURTON LN                                                   1020310203
+BUSCHNER LN                                                 1020010200
+BUSSELL ST                                                  1020310203
+BUTERFLY LN                                                 1020010200
+BUTTERCUP RD                                                1020010200
+BUTTERMILK RD                                               1020010200
+CALDWELL RD                                                 1020010200
+CALICO LN                                                   1020010200
+CALLOWAY BRANCH RD                                          1020010200
+CALVARY LN                                                  1020010200
+CAMERON RD                                                  1020010200
+CANE BRANCH RD                                              1020010200
+CARDINAL HOLLOW RD                                          1020010200
+CARNATION LN                                                1020010200
+CAROLINA LN                                                 1020010200
+CARPENTER RD                                                1020010200
+CARTER DR                                                   1020210202
+CARTER RIDGE RD                                             1020010200
+CASH LN                                                     1020310203
+CASS ST                                                     1020310203
+CASTLE VILLAGE DR                                           1020310203
+CATTAIL LN                                                  1020010200
+CAVALIER LN                                                 1020010200
+CEDAR BLUFF LN                                              1020010200
+CEDAR THICKET LN                                            1020010200
+CENTER ST                                                   1020210202
+CENTRAL LN                                                  1020010200
+CHEROKEE LN                                                 1020010200
+CHERRYWOOD LN                                               1020010200
+CHESNUT RIDGE CHURCH RD                                     1020010200
+CHESNUT ST                                                  1020010200
+CHESTNUT DR                                                 1020210202
+CHESTNUT GROVE RD                                           1020010200
+CHESTNUT GROVE RD                                           1020310203
+CHESTNUT RIDGE RD                                           1020010200
+CHICKADEE LN                                                1020010200
+CHRISTIAN APPALACHIA PROJECT                                1020010200
+CHRISTIAN APPALACHIA PROJECT NO1                            1020010200
+CHRISTIAN APPALACHIA PROJECT NO2                            1020010200
+CHRISTIAN LN                                                1020010200
+CHRISTMAS TREE DR                                           1020010200
+CHURCH ST                                                   1020110201
+CHURCH ST                                                   1020210202
+CHURCH ST                                                   1020310203
+CINDY LN                                                    1020010200
+CITRINE LN                                                  1020010200
+CITY GARADGE RD                                             1020210202
+CITY ST                                                     1020210202
+CIVIC LN                                                    1020010200
+CLARK CEMETERY RD                                           1020010200
+CLARK ST                                                    1020210202
+CLAYLICK BRANCH RD                                          1020010200
+CLEFT ROCK CEMETERY RD                                      1020010200
+CLEFT ROCK RD                                               1020010200
+CLIFORD MARLER RD                                           1020010200
+CLIMAX RD                                                   1020010200
+CLONTZ RD                                                   1020010200
+CLOVE LN                                                    1020010200
+CLOVER LN                                                   1020010200
+CLUB VIEW DR                                                1020010200
+COFFEY CEMETERY RD                                          1020010200
+COFFEY LN                                                   1020010200
+COLERAIN LN                                                 1020010200
+COLONIAL LN                                                 1020010200
+COLORADO LN                                                 1020010200
+COLSON LN                                                   1020010200
+COLT LN                                                     1020010200
+COMMANCHE RD                                                1020010200
+COMMON LOON RD                                              1020010200
+CONCORD RD                                                  1020010200
+CONEFLOWER RD                                               1020010200
+CONIFER LN                                                  1020010200
+CONNECTION ST                                               1020010200
+CONWAY SCHOOL RD                                            1020010200
+COOK RD                                                     1020010200
+COOLBROOK LN                                                1020010200
+COOPER DR                                                   1020010200
+COPPER CREEK HILL RD                                        1020010200
+COPPER CREEK RD                                             1020010200
+COPPER RIDGE LN                                             1020010200
+COPPERHEAD RD                                               1020010200
+CORAL LN                                                    1020210202
+CORINTH CEMETERY LOOP                                       1020010200
+COUNTRY LN                                                  1020010200
+COUNTRYSIDE CIR                                             1020010200
+COVE BRANCH RD                                              1020010200
+COW BELL HOLLOW RD                                          1020010200
+COX CEMETERY RD                                             1020010200
+COX LN                                                      1020210202
+COY RD                                                      1020010200
+COYOTE LN                                                   1020010200
+CRAB ORCHARD RD                                             1020010200
+CRAB ORCHARD RD                                             1020310203
+CRAIG ST                                                    1020210202
+CRANE CREEK RD                                              1020010200
+CRAWFORD LN                                                 1020210202
+CRAWFORD ST                                                 1020210202
+CREE CREEK RD                                               1020010200
+CRESCENT VIEW LN                                            1020010200
+CRESTHAVEN CEMETERY RD                                      1020210202
+CRICKT LN                                                   1020010200
+CROCK LN                                                    1020010200
+CROMER RD                                                   1020010200
+CROOKED CREEK RD                                            1020010200
+CROWN VETCH LN                                              1020010200
+CRUISE RIDGE RD                                             1020010200
+CUPPS CHAPEL BRODHEAD RD                                    1020310203
+CUT GAP RD                                                  1020010200
+DAFFODIL LN                                                 1020010200
+DAHLIA LN                                                   1020010200
+DAILY AVE                                                   1020210202
+DAISY LN                                                    1020010200
+DAKOTA LN                                                   1020010200
+DALE LN                                                     1020010200
+DALMATION LN                                                1020010200
+DANCEY LN                                                   1020010200
+DART LN                                                     1020010200
+DASH LN                                                     1020010200
+DAUGHERTY RIDGE RD                                          0550010200
+DAUGHERTY RIDGE RD                                          1020010200
+DAVIS LN                                                    1020010200
+DAVIS ST                                                    1020210202
+DAY ST                                                      1020310203
+DEBORDE RD                                                  1020010200
+DEEP HOLLOW RD                                              1020010200
+DEERWOOD LN                                                 1020010200
+DEES LN                                                     1020010200
+DELTA LN                                                    1020010200
+DENNY CEMETERY RD                                           1020010200
+DENNY SUBDIVISION RD                                        1020010200
+DERBY LN                                                    1020010200
+DICY COPE CHAPEL RD                                         1020010200
+DIRTY ROCKS RD                                              1020010200
+DISPUTANTA RD                                               1020010200
+DIX RIVER BRANCH RD                                         1020010200
+DIXIE LN                                                    1020010200
+DOC ADAMS RD                                                1020010200
+DOE LN                                                      1020010200
+DOGWOOD LN                                                  1020010200
+DORMAN CREEK RD                                             1020010200
+DOUBLE TREE LN                                              1020010200
+DOUGLAS LN                                                  1020310203
+DRY FORK RD                                                 1020010200
+DUDLEY STATION RD                                           1020010200
+DUG HILL RD                                                 1020010200
+DUNE LN                                                     1020010200
+DURHAM RD                                                   1020010200
+E FORK SKAGGS RD                                            1020010200
+E LEVEL GREEN RD                                            1020010200
+E LOCUST ST                                                 1020210202
+E MAIN ST                                                   1020210202
+EAGLE CREEK RD                                              1020010200
+EAGLE DR                                                    1020010200
+EARHART FARM RD                                             1020010200
+EDDIE DR                                                    1020010200
+ELDERBERRY LN                                               1020010200
+ELKHORN BRANCH RD                                           1020010200
+ELKHORN CEMETERY RD                                         1020010200
+ELLIOTT LN                                                  1020010200
+ELM LN                                                      1020010200
+ELMWOOD CEMETERY                                            1020210202
+ELMWOOD CEMETERY A                                          1020210202
+ELMWOOD CEMETERY B                                          1020210202
+ELSIE LN                                                    1020010200
+EMBER RD                                                    1020010200
+EMERALD LN                                                  1020010200
+EPPERSON ST                                                 1020310203
+ERIE LN                                                     1020010200
+EVANS ST                                                    1020210202
+EVERSOLE LN                                                 1020010200
+EXETER LN                                                   1020010200
+FACTORY LN                                                  1020010200
+FAIR ST                                                     1020210202
+FAIRFAX LN                                                  1020010200
+FAIRVIEW CEMETERY RD                                        1020010200
+FAIRVIEW LOOP RD                                            1020010200
+FAITH MOUNTIAN RD                                           1020010200
+FALCON LANE EXT                                             1020010200
+FALCON LN                                                   1020010200
+FAUBUSH LN                                                  1020010200
+FERGUSON ST                                                 1020210202
+FIELDCREST LN                                               1020010200
+FISH POND RD                                                1020010200
+FISH ST                                                     1020210202
+FLAT GAP RD                                                 1020010200
+FLATLAND LN                                                 1020010200
+FLETCHER CEMETERY RD                                        1020010200
+FLINT RD                                                    1020010200
+FLORIDA LN                                                  1020010200
+FLOYD ST                                                    1020210202
+FOGGY BOTTOM RD                                             1020010200
+FOGGY HOLLOW RD                                             1020010200
+FORD DR                                                     1020210202
+FORD DRIVE EXT                                              1020210202
+FORD HOLLOW RD                                              1020010200
+FOREST HILLS LN                                             1020010200
+FOSTER CEMETERY RD                                          1020010200
+FOUNTAIN LN                                                 1020010200
+FOUR SONS SUBDIVISION RD                                    1020210202
+FOXFIRE HOLLOW RD                                           1020010200
+FREEDOM SCHOOL RD                                           1020010200
+FRIENDSHIP RD                                               1020010200
+FROG RD                                                     1020010200
+FROSTY HOLLOW RD                                            1020010200
+FUZZY DUCK RD                                               1020010200
+GADD CEMETERY RD                                            1020010200
+GAIL LN                                                     1020010200
+GALLATIN LN                                                 1020010200
+GARDENVIEW LN                                               1020010200
+GARRETT TAYLOR RD                                           1020010200
+GILBERT CEMETERY RD                                         1020010200
+GINSENG LN                                                  1020010200
+GO CART LN                                                  1020010200
+GOLD DUST DR                                                1020010200
+GOLDENEYE LN                                                1020010200
+GOLDENROD AVE                                               1020010200
+GOLDENSEAL LN                                               1020010200
+GOLDFINCH LN                                                1020010200
+GOOCHLAND RD                                                1020010200
+GOOSE LN                                                    1020010200
+GOOSEDOWN LN                                                1020010200
+GRACE LOOP RD                                               1020010200
+GRACKLE LN                                                  1020010200
+GRAHAM ST                                                   1020210202
+GRANITE DR                                                  1020010200
+GRANITE DR                                                  1020210202
+GRANT LN                                                    1020010200
+GRASSY BRANCH RD                                            1020010200
+GRAY BUCK DR                                                1020010200
+GRAYHAWK RD                                                 1020010200
+GRAYSON LN                                                  1020010200
+GREEN ACRES LN                                              1020010200
+GREEN FISH RD                                               1020010200
+GREEN HILL CEMETERY RD                                      1020010200
+GREEN MEADOW LN                                             1020010200
+GREEN POND RIDGE RD                                         1020010200
+GREENWAY DR                                                 1020210202
+GRIFFIN CEMETERY RD                                         1020010200
+GROUNDHOG SINKS CEMETERY RD                                 1020010200
+GROUNDHOG SINKS RD                                          1020010200
+GROUSE RD                                                   1020010200
+GUM SULPHUR RD                                              1020010200
+HALCOMB CEMETERY RD                                         1020010200
+HALCOMB EAST RD                                             1020010200
+HALE ST                                                     1020210202
+HAMLIN ST                                                   1020210202
+HAMMONDS FORK RD                                            1020010200
+HANSEL CEMETERY LN                                          1020010200
+HAPPY DAY RD                                                1020010200
+HARE LN                                                     1020010200
+HARMONY RD                                                  1020010200
+HAWIAN ST                                                   1020010200
+HAWK RD                                                     1020010200
+HAWTHORNE CEMETERY RD                                       1020010200
+HAWTHORNE LN                                                1020010200
+HAZARD LN                                                   1020010200
+HAZEL FORK RD                                               1020010200
+HEADWATERS RD                                               1020010200
+HEATHER HOLW                                                1020010200
+HELTON RD                                                   1020010200
+HEMLOCK CIR                                                 1020010200
+HENDRICK RD                                                 1020010200
+HERBERT ISSAC RD                                            1020010200
+HERCULES LN                                                 1020010200
+HEREFORD RD                                                 1020010200
+HEWITT LN                                                   1020010200
+HIATT LN                                                    1020010200
+HIBBARD CEMETERY RD                                         1020010200
+HICKORY FLATS RD                                            1020010200
+HICKORY HOLLOW DR                                           1020010200
+HICKORY LN                                                  1020010200
+HIDDEN CREEK LN                                             1020010200
+HIDDEN VALLEY RD                                            1020010200
+HIGH DRY CEMETERY RD                                        1020010200
+HIGH ST                                                     1020210202
+HIGHER GROUND LN                                            1020210202
+HIGHLAND DR                                                 1020010200
+HILL ST                                                     1020110201
+HILL ST                                                     1020210202
+HILLSIDE LN                                                 1020010200
+HOCK LN                                                     1020010200
+HOLLOW HORN LN                                              1020010200
+HOLMAN LN                                                   1020010200
+HOLT DR                                                     1020010200
+HONEYBEE RD                                                 1020010200
+HONEYCOMB RD                                                1020010200
+HONEYSUCKLE LN                                              1020010200
+HOPE DR                                                     1020010200
+HOPI RD                                                     1020010200
+HORIZON LN                                                  1020010200
+HORSE LICK RD                                               1020010200
+HORSE SHOE BEND RD                                          1020210202
+HOUK LN                                                     1020010200
+HOUSE WREN LN                                               1020010200
+HOUSTON POINT SUBDIVISION RD                                1020010200
+HUMMEL CEMETERY RD                                          1020010200
+HUMMEL RD                                                   1020010200
+HUMMINGBIRD LN                                              1020010200
+HUNTER ST                                                   1020210202
+HURRICANE SCHOOL RD                                         1020010200
+HUTCH LN                                                    1020010200
+HYSINGER HOLLOW RD                                          1020210202
+I75 N                                                       1020010200
+I75 N EXIT59 OFF RAMP TO US25                               1020010200
+I75 N EXIT59 ON RAMP FROM US25                              1020010200
+I75 N EXIT62 OFF RAMP TO US25                               1020010200
+I75 N EXIT62 ON RAMP FROM US25                              1020010200
+I75 S                                                       1020010200
+I75 S EXIT59 OFF RAMP TO US25                               1020010200
+I75 S EXIT59 ON RAMP FROM US25                              1020010200
+I75 S EXIT62 OFF RAMP TO US25                               1020010200
+I75 S EXIT62 ON RAMP FROM US25                              1020010200
+INDIAN CAMP RD                                              1020010200
+INDIAN LN                                                   1020010200
+INDIANA LN                                                  1020010200
+INDUSTRY RD                                                 1020010200
+IRELAND RD                                                  1020010200
+IRONWEED LN                                                 1020010200
+IROQUOIS LN                                                 1020010200
+IRVINE LN                                                   1020010200
+ISAACS CEMETERY RD                                          1020010200
+IVY LN                                                      1020010200
+JACKSON LN                                                  1020010200
+JADE LN                                                     1020010200
+JAGGED WAY RD                                               1020010200
+JARBER RD                                                   1020010200
+JASMINE LN                                                  1020010200
+JEPP HILL RD                                                1020010200
+JERRY LN                                                    1020210202
+JESSE TAYLOR RD                                             1020010200
+JIMSON LN                                                   1020010200
+JO HENSLEY RD                                               1020010200
+JOEPIE LN                                                   1020010200
+JOHN DEER LN                                                1020010200
+JOHNETTA CEMETERY RD                                        1020010200
+JONANC DR                                                   1020010200
+JONES LANE EXT                                              1020010200
+JONES LN                                                    1020010200
+JOPP RD                                                     1020010200
+JORDAN CEMETERY RD                                          1020010200
+JOYCE ST                                                    1020210202
+JULY LN                                                     1020010200
+JUNE APPLE LN                                               1020010200
+JUNIPER LN                                                  1020010200
+JUPITER DR                                                  1020010200
+KADYDID LN                                                  1020010200
+KANSAS LN                                                   1020010200
+KASEY LN                                                    1020010200
+KELSEY DR                                                   1020010200
+KELSEY LN                                                   1020010200
+KENTUCKY LN                                                 1020010200
+KETCHAM LN                                                  1020010200
+KILLDEER HOLLOW RD                                          1020010200
+KINCADE RIDGE RD                                            1020010200
+KING'S CT                                                   1020210202
+KIRBY LN                                                    1020210202
+KNOBBY LN                                                   1020010200
+KNOXWOOD HILL LN                                            1020010200
+KOA CAMPGROUND RD                                           1020010200
+KY1326                                                      1020210202
+KY3245                                                      1020010200
+L HUNT RD                                                   1020010200
+LADYSLIPPER LN                                              1020010200
+LAIR CEMETERY RD                                            1020010200
+LAIR ST                                                     1020010200
+LAIR ST                                                     1020210202
+LAKE CUMBERLAND RD                                          1020010200
+LAKE CUMBERLAND RD                                          1020210202
+LAKE LINVILLE RD                                            1020010200
+LAMB BLACK RD                                               1020010200
+LAMB CEMETERY RD                                            1020010200
+LAMBERT RD                                                  1020010200
+LANDIS RD                                                   1020010200
+LANGDON ST                                                  1020210202
+LARKSPUR LN                                                 1020010200
+LARUE LN                                                    1020010200
+LAWRANCE LN                                                 1020210202
+LAYNE ST                                                    1020310203
+LEAR CIR                                                    1020010200
+LEAR LN                                                     1020010200
+LETTER ROCK RD                                              1020010200
+LEVEL GREEN ACCESS RD                                       1020010200
+LEWIS ST                                                    1020210202
+LEWIS WHITTAKER RD                                          1020010200
+LIBERTY DR                                                  1020210202
+LIBERTY LN                                                  1020010200
+LIBERTY ST                                                  1020210202
+LILAC CIR                                                   1020010200
+LIME PLANT HOLLOW RD                                        1020010200
+LIMESTONE HOLLOW RD                                         1020010200
+LIMESTONE ST                                                1020010200
+LIMESTONE ST                                                1020210202
+LINWOOD LN                                                  1020010200
+LITTLE BRUSHY BRANCH RD                                     1020010200
+LITTLE CLEAR CREEK RD                                       1020010200
+LITTLE CLIFFORD LN                                          1020010200
+LITTLE EGYPT RD                                             1020010200
+LITTLE FARM RD                                              1020010200
+LITTLE HURRICANE BRANCH RD                                  1020010200
+LITTLE ROCK HILL RD                                         1020010200
+LITTLE TURTLE RD                                            1020010200
+LOCUST ST                                                   1020210202
+LOG CABIN HOLW                                              1020010200
+LOG HOLLOW LN                                               1020010200
+LOIS LN                                                     1020010200
+LONDON LN                                                   1020010200
+LONE OAK RD                                                 1020010200
+LONG BRANCH RD                                              1020010200
+LONZO RD                                                    1020010200
+LOOKOUT RD                                                  1020010200
+LOST BRANCH RD                                              1020010200
+LOVELL CEMETERY RD                                          1020010200
+LOVELL CT                                                   1020210202
+LOVELL LN                                                   1020210202
+LOW GAP RD                                                  1020010200
+LOWER CALLOWAY LOOP                                         1020010200
+LOWER DR                                                    1020210202
+LOWER RIVER RD                                              1020010200
+LUNAR RD                                                    1020010200
+LUPINE LN                                                   1020010200
+LYNN CIRCLE DR                                              1020310203
+M J MCMULLINS RD                                            1020010200
+MACKENZIE LN                                                1020210202
+MADISON VIEW RD                                             1020010200
+MAGNOLIA LN                                                 1020010200
+MAGPIE LN                                                   1020010200
+MAHAFFEY CEMETERY RD                                        1020010200
+MAHAFFEY HILL RD                                            1020110201
+MAHAFFEY HL                                                 1020010200
+MAIN ST                                                     1020110201
+MAIN ST                                                     1020210202
+MAINE LN                                                    1020010200
+MAINTENANCE RD                                              1020010200
+MANCHESTER LN                                               1020010200
+MANDY LN                                                    1020010200
+MAPLE DR                                                    1020210202
+MAPLE GROVE RD                                              1020010200
+MAPLE ST                                                    1020310203
+MARCH LN                                                    1020010200
+MARET CEMETERY RD                                           1020010200
+MARET CEMETERY SPUR RD                                      1020010200
+MARETBURG CEMETERY                                          1020010200
+MARETBURG CEMETERY RD                                       1020010200
+MARETBURG RD                                                1020010200
+MARIE STEWERT RD                                            1020010200
+MARLER CEMETERY RD                                          1020010200
+MARLER HOLLOW RD                                            1020010200
+MARSHALL CEMETERY RD                                        1020010200
+MARSHAWK LOOP                                               1020010200
+MARTIN RIDGE                                                1020010200
+MARYDALE LN                                                 1020010200
+MCBEE ST                                                    1020210202
+MCCALL LN                                                   1020010200
+MCCLURE CEMETERY RD                                         1020010200
+MCCLURE ST                                                  1020110201
+MCFERRON CEMETERY RD                                        1020010200
+MCFERRON ST                                                 1020210202
+MCGUIRE CEMETERY RD                                         1020010200
+MCGUIRE LN                                                  1020010200
+MCHARGUE BRANCH RD                                          1020010200
+MCHARGUE CEMETERY RD                                        1020010200
+MCKEE LN                                                    1020010200
+MCKINNEY CEMETERY RD                                        1020010200
+MCNEW CEMETERY RD                                           1020010200
+MEADOWLARK LN                                               1020010200
+MEADOWLARK RD                                               1020010200
+MEDAL OF HONOR RD                                           1020010200
+MELROSE LN                                                  1020010200
+MENIFEE HILL RD                                             1020010200
+MERCURY DR                                                  1020010200
+MILL ST                                                     1020210202
+MILLER CEMETERY RD                                          1020010200
+MILTON LN                                                   1020010200
+MIMOSIA LN                                                  1020010200
+MINGO RD                                                    1020010200
+MINK CEMETERY RD                                            1020010200
+MISTLETOE LN                                                1020010200
+MISTY LN                                                    1020010200
+MISTY PURPLE RD                                             1020010200
+MIZE CEMETERY RD                                            1020010200
+MIZE RD                                                     1020010200
+MOCKINGBIRD RD                                              1020010200
+MOHAWK LN                                                   1020010200
+MONARCH LN                                                  1020010200
+MONTANA LN                                                  1020010200
+MOORE CEMETERY RD                                           1020010200
+MOOSE LN                                                    1020010200
+MORNING GLORY LN                                            1020010200
+MORNING VIEW RD                                             1020010200
+MOSSY HOLLOW RD                                             1020010200
+MOUNTIAN LAUREL LN                                          1020010200
+MOURNING DOVE LN                                            1020010200
+MT HOLLY RD                                                 1020010200
+MT ZION RD                                                  1020010200
+MULBERRY LN                                                 1020010200
+MULLINS CEMETERY RD                                         1020010200
+MULLINS ST                                                  1020110201
+MULLINS STATION RD                                          1020010200
+MULLINS STREET EXT                                          1020110201
+MUSTANG LN                                                  1020010200
+N DAILEY ST                                                 1020210202
+N UPPER RIVER RD                                            1020010200
+N WILDERNESS RD                                             1020010200
+NARROW RIDGE RD                                             1020010200
+NATIONS LN                                                  1020010200
+NEGRO CREEK RD                                              1020010200
+NEGRO TOWN HILL RD                                          1020210202
+NEW BRODHEAD RD                                             1020010200
+NEW HOPE TOWER RD                                           1020010200
+NEWCOMB AVE                                                 1020210202
+NICELY CEMETERY LN                                          1020010200
+NICHOLS CEMETERY RD                                         1020010200
+NIGHTSHADE HOLLOW RD                                        1020010200
+NOE LN                                                      1020010200
+NORTON SCHOOL BRANCH RD                                     1020010200
+OCEAN FRONT VIEW DR                                         1020010200
+OHIO LN                                                     1020010200
+OLD BRODHEAD RD                                             1020010200
+OLD DIXIE HWY                                               1020010200
+OLD FAIRVIEW CHURCH CEMETERY                                1020010200
+OLD FREEDOM CEMETERY                                        1020010200
+OLD GARRAD RD                                               1020010200
+OLD GAULEY RD                                               1020010200
+OLD GRIFFIN CEMETERY RD                                     1020010200
+OLD HUMMEL SCHOOL RD                                        1020010200
+OLD KY 461 NO1 RD                                           1020010200
+OLD RAILROAD WAY RD                                         1020010200
+OLD ROCKY RD                                                1020010200
+OLD SIGMON LOOP                                             1020010200
+OLD SMOKEY RD                                               1020010200
+OLD SMOKEY ROAD SPUR                                        1020010200
+OLD SOMERSET RD                                             1020010200
+OLD SOMERSET RD                                             1020210202
+OLD STATE RD                                                1020010200
+OLD US 25 RD                                                1020210202
+OLD US 25 S                                                 1020210202
+OMEGA LN                                                    1020010200
+OPOSSUM HOLLOW RD                                           1020010200
+OREGON LN                                                   1020010200
+ORIOLE LN                                                   1020010200
+OTT CEMETERY RD                                             1020010200
+OTTAWA RD                                                   1020010200
+OTTAWA SCHOOL RD                                            1020010200
+OTTER LN                                                    1020010200
+OUTBACK LN                                                  1020010200
+OVERLAKE RD                                                 1020010200
+OWENS LN                                                    1020210202
+OWENS ST                                                    1020310203
+OXFORD LN                                                   1020010200
+PANTHER LN                                                  1020010200
+PARETT ST                                                   1020210202
+PARIS LN                                                    1020010200
+PARKS CEMETERY RD                                           1020010200
+PARSONS ST                                                  1020210202
+PAUL DAVID LN                                               1020010200
+PAUL ST                                                     1020210202
+PAYNE RD                                                    1020010200
+PEACE LN                                                    1020010200
+PEACHTREE LN                                                1020010200
+PEARL LN                                                    1020010200
+PEGS LN                                                     1020210202
+PENNYRILE LN                                                1020010200
+PERCIFUL ST                                                 1020210202
+PERSIMMON LN                                                1020010200
+PHELPS CEMETERY RD                                          1020010200
+PICNIC LN                                                   1020010200
+PIKE ST                                                     1020310203
+PINE AVE                                                    1020310203
+PINE HILL CEMETERY RD                                       1020010200
+PINE HILL CIR                                               1020010200
+PINETREE VIEW DR                                            1020010200
+PINEY BRANCH RD                                             1020010200
+PINEY BRANCH RD                                             1020110201
+PINEY GROVE CEMETERY B RD                                   1020310203
+PINEY GROVE CEMETERY C RD                                   1020310203
+PINEY GROVE CEMETERY RD                                     1020310203
+PIONEER LN                                                  1020010200
+PIPER DR                                                    1020010200
+PITTMAN BRANCH RD                                           1020010200
+PITTMAN LN                                                  1020210202
+PITTMAN ST                                                  1020210202
+PLANTATION LN                                               1020010200
+PLANTERS LN                                                 1020010200
+PLEASANT HILL LN                                            1020010200
+PLEASANT VALLEY RD                                          1020010200
+PLEASANT VIEW DR                                            1020010200
+POKEBERRY LN                                                1020010200
+POLAR LN                                                    1020010200
+POLK SALAD HOLLOW LN                                        1020010200
+POND LOOP RD                                                1020010200
+POPLAR GAP RD                                               1020010200
+POPLAR GAP SCHOOL RD                                        1020010200
+POPLAR GROVE RD                                             1020010200
+POPPY LN                                                    1020010200
+POPULAR ST                                                  1020210202
+POPULAR STREET EXT                                          1020210202
+POSSUM KINGDOM RD                                           1020010200
+POSSUM KINGDOM RD                                           1020310203
+POTTER RD                                                   1020010200
+POWELL CEMETERY RD                                          1020010200
+POYNTER CEMETERY RD                                         1020010200
+PRICE BRANCH RD                                             1020010200
+PRIVATE 28 RD                                               1020010200
+PROCTOR PL                                                  1020010200
+PROFITT ST                                                  1020310203
+PROSPERITY LN                                               1020010200
+PROVIDENCE CEMETERY RD                                      1020010200
+PUG LN                                                      1020010200
+PURCELL CEMETERY RD                                         1020010200
+PURPLE FINCH LN                                             1020010200
+PURRIGSBY RD                                                1020010200
+QUAIL RD                                                    1020010200
+QUAIL VIEW RD                                               1020010200
+QUARRY ST                                                   1020210202
+RABBIT LN                                                   1020010200
+RACOON RD                                                   1020010200
+RAILROAD ST                                                 1020310203
+RAINMAKER LN                                                1020010200
+RAMROD RD                                                   1020010200
+RAMSEY CEMETERY RD                                          1020010200
+RANCH RD                                                    1020010200
+RASH BRANCH RD                                              1020010200
+RED BIRD RD                                                 1020010200
+RED BUD DR                                                  1020210202
+RED BUD SCHOOL RD                                           1020010200
+RED FOLEY RD                                                1020010200
+RED HILL CEMETERY LOOP                                      1020010200
+RED HILL RD                                                 1020010200
+RED HILL RD                                                 1020110201
+REDONE ST                                                   1020010200
+REDSKIN RD                                                  1020010200
+REDSTART LN                                                 1020010200
+REDTAIL HAWK LN                                             1020010200
+REED RD                                                     1020010200
+REMOTE DR                                                   1020010200
+RENFRO CREEK RD                                             1020010200
+REVEREND GREEN LOOP                                         1020010200
+RICH FARM RD                                                1020010200
+RICHARDS LN                                                 1020010200
+RICHLANDS RD                                                1020010200
+RICHMOND ST                                                 1020010200
+RICHMOND ST                                                 1020210202
+RIDDLE LN                                                   1020310203
+RIDGE LINE RD                                               1020010200
+RIGSBY RD                                                   1020010200
+RIMMEL CEMETERY RD                                          1020010200
+RIVERBOARD HOLLOW RD                                        1020010200
+ROADRUNNER LN                                               1020010200
+ROBINSON CEMETERY RD                                        1020010200
+ROCK DOVE LN                                                1020010200
+ROLLING HILLS RD                                            1020010200
+ROOK LN                                                     1020010200
+ROOKWOOD DR                                                 1020010200
+ROOSTER RUN LN                                              1020010200
+ROSE HILL CHURCH RD                                         1020010200
+ROSE HILL RD                                                1020010200
+ROSE HILL RD                                                1020210202
+ROSE HILL ROAD EXT                                          1020210202
+ROSE LN                                                     1020310203
+ROSE PETAL LN                                               1020010200
+ROTWILLER LN                                                1020010200
+RUBEN LN                                                    1020010200
+RUBY LN                                                     1020210202
+RUGGED VISTA RD                                             1020010200
+RUNNING RIDGE RD                                            1020010200
+RUSH LN                                                     1020010200
+S MAIN ST                                                   1020310203
+S UPPER RIVER RD                                            1020010200
+S UPPER RIVER RD                                            1020110201
+S WILDERNESS RD                                             1020010200
+S WILDERNESS RD                                             1020110201
+S WILDERNESS RD                                             1020210202
+SAGE LN                                                     1020010200
+SALEM LN                                                    1020010200
+SALLY J RD                                                  1020010200
+SALLY J RD                                                  1020210202
+SALT PETER CAVE RD                                          1020010200
+SALT SPRING HOLLOW RD                                       1020010200
+SALT SPRINGS HOLLOW RD                                      1020010200
+SAMS CEMETERY RD                                            1020010200
+SAND HILL CEMETERY RD                                       1020010200
+SAND HILL RD                                                1020010200
+SAND SPRINGS RD                                             1020010200
+SAND SPRINGS RD                                             1020210202
+SANDSTONE DR                                                1020210202
+SAPHIRE LN                                                  1020010200
+SARGENT RD                                                  1020010200
+SASSAFRAS LN                                                1020010200
+SAWGRASS LN                                                 1020010200
+SAYLOR CEMETERY RD                                          1020010200
+SAYRE SCHOOL RD                                             1020010200
+SCAFFOLD CANE CEMETERY RD                                   1020010200
+SCAFFOLD CANE CHURCH RD                                     1020010200
+SCAFFOLD CANE RD                                            1020010200
+SCAFFOLD CHURCH RD                                          1020010200
+SCENIC VIEW LN                                              1020010200
+SCHOOL BOARD LN                                             1020010200
+SCHOOL ST                                                   1020110201
+SCHOOL ST                                                   1020210202
+SCHOOL ST                                                   1020310203
+SCHOOLHOUSE HILL RD                                         1020010200
+SCREECH OWL LN                                              1020010200
+SEMINOLE LN                                                 1020010200
+SENECA RD                                                   1020010200
+SERENITY LN                                                 1020010200
+SETTLER LN                                                  1020010200
+SHADEY LN                                                   1020010200
+SHADY GROVE RD                                              1020010200
+SHALYN DR                                                   1020010200
+SHANDON LN                                                  1020010200
+SHARED ACCESS RD                                            1020010200
+SHAWNEE LN                                                  1020010200
+SHEARER HOLLOW RD                                           1020010200
+SHIRLEY ST                                                  1020210202
+SHORT HILL ST                                               1020010200
+SHORT LOOP                                                  1020010200
+SHORT ST                                                    1020110201
+SHORT ST                                                    1020210202
+SHORT ST                                                    1020310203
+SHUG RD                                                     1020010200
+SIGMON ST                                                   1020210202
+SIGMON ST                                                   1020310203
+SILO LN                                                     1020010200
+SILVER MIST COR                                             1020010200
+SILVER ST                                                   1020310203
+SILVERGLADE LN                                              1020010200
+SIMON HILL RD                                               1020010200
+SINGLETON CEMETERY RD                                       1020010200
+SINKING VALLEY SPRINGS RD                                   1020010200
+SINKS HILL CEMETERY RD                                      1020010200
+SIPPLE LN                                                   1020010200
+SKYLER LN                                                   1020010200
+SKYLINE RD                                                  1020010200
+SLATY BRANCH RD                                             1020010200
+SLEEPY HOLLOW RD                                            1020010200
+SMITH CEMETERY RD                                           1020010200
+SMITH ST                                                    1020310203
+SNICKET LN                                                  1020010200
+SNOWBERRY LN                                                1020010200
+SNOWFLAKE LN                                                1020010200
+SNOWY RD                                                    1020010200
+SOLAR DR                                                    1020010200
+SOLTICE LN                                                  1020010200
+SONNY LN                                                    1020310203
+SPARROW LN                                                  1020010200
+SPEEDWAY LN                                                 1020010200
+SPIRIT CAMP RD                                              1020010200
+SPIRO RD                                                    1020010200
+SPITZ LN                                                    1020010200
+SPOTTED HORSE RD                                            1020010200
+SPRING HILL LN                                              1020010200
+SPRING ST                                                   1020210202
+SPRUCE LN                                                   1020010200
+STALLSWORTH BRANCH RD                                       1020010200
+STANDARD LN                                                 1020010200
+STANFORD LN                                                 1020010200
+STEEP HOLLOW RD                                             1020010200
+STEPHENS RD                                                 1020010200
+STONE COVE RD                                               1020010200
+STONE MASON RD                                              1020010200
+STORMY HOLLOW RD                                            1020010200
+STRAIGHT LN                                                 1020010200
+STRAWBERRY LN                                               1020010200
+SUE JOHNSON RD                                              1020010200
+SUNNY RIDGE LN                                              1020010200
+SUNNYDALE EST                                               1020010200
+SUNSET RIDGE RD                                             1020010200
+SUNSHINE LN                                                 1020010200
+SWEET AUTUMN LN                                             1020010200
+SWEETWATER RD                                               1020010200
+SWITZER RIDGE RD                                            1020010200
+SYCAMORE ST                                                 1020310203
+T ST                                                        1020210202
+TAMMY LN                                                    1020010200
+TANAGER LN                                                  1020010200
+TANGLEWOOD DR                                               1020010200
+TAR KILN RD                                                 1020010200
+TASSIE LN                                                   1020010200
+TATE ST                                                     1020310203
+TEN FOOT HOLE RD                                            1020010200
+TENNESSEE LN                                                1020010200
+TERESA LN                                                   1020010200
+TERRY ST                                                    1020210202
+TEVIS ST                                                    1020210202
+TEXAS LN                                                    1020010200
+THRASER LN                                                  1020010200
+THREE LINKS RD                                              1020010200
+THREE OAKS LN                                               1020010200
+THRUSH LN                                                   1020010200
+THURSDAY LN                                                 1020010200
+TINCHER DR                                                  1020010200
+TINY LN                                                     1020010200
+TIPPLE RD                                                   1020010200
+TOBACCO RD                                                  1020010200
+TODD BRANCH RD                                              1020010200
+TODD RD                                                     1020010200
+TODD ST                                                     1020110201
+TOPAZ LN                                                    1020010200
+TOWER RD                                                    1020010200
+TOWHEE LN                                                   1020010200
+TOWN BRANCH RD                                              1020010200
+TOWN HILL CT                                                1020210202
+TRACE BRANCH RD                                             1020010200
+TRIBUTORY HOLLOW RD                                         1020010200
+TRILLIUM TRL                                                1020010200
+TRINITY LN                                                  1020010200
+TROY LN                                                     1020010200
+TULIP CIRCLE RD                                             1020010200
+TURKEY CREEK RD                                             1020010200
+TURN LN                                                     1020010200
+TURNER CEMETERY RD                                          1020010200
+TURNER MOUNTAIN RD                                          1020010200
+TUSCON RIDGE RD                                             1020010200
+TWILIGHT AVE                                                1020010200
+TWIN MAPLES DR                                              1020010200
+TWIN TUNNEL RD                                              1020010200
+TYREE ST                                                    1020310203
+UNION CHAPEL RD                                             1020010200
+UNION LN                                                    1020010200
+UPPER CALLOWAY LOOP                                         1020010200
+US150                                                       1020210202
+US25                                                        1020210202
+VALENTINE LN                                                1020010200
+VALLEY SPRINGS RD                                           1020010200
+VALLEY VIEW RD                                              1020210202
+VANZANT RD                                                  1020010200
+VAZANT CEMETERY RD                                          1020010200
+VERUS JONES CEMETERY RD                                     1020010200
+VIRGINIA LN                                                 1020010200
+VISTA RD                                                    1020010200
+W LEVEL GREEN RD                                            1020010200
+W MAIN ST                                                   1020010200
+W MAIN ST                                                   1020210202
+W MAIN ST                                                   1020310203
+WALLIN ST                                                   1020310203
+WALNUT GROVE CEMETERY RD                                    1020010200
+WALNUT ST                                                   1020010200
+WARBLER LN                                                  1020010200
+WARREN LN                                                   1020010200
+WATER PLANT RD                                              1020010200
+WATER TANK HILL RD                                          1020310203
+WATERLOO LN                                                 1020210202
+WATT LN                                                     1020010200
+WAYNE LN                                                    1020010200
+WEBB BLOCK ALY                                              1020110201
+WELL HOPE CHURCH RD                                         1020010200
+WEST ST                                                     1020010200
+WEST ST                                                     1020310203
+WESTERN LARK RD                                             1020010200
+WESTVIEW RD                                                 1020010200
+WHIPOORWILL LN                                              1020010200
+WHISTLIN HOLLOW RD                                          1020010200
+WHITAKER CEMETERY RD                                        1020010200
+WHITE OAK BRANCH RD                                         1020010200
+WHITE ROCK RD                                               1020010200
+WHITE STAR RD                                               1020010200
+WHITE STEER LN                                              1020010200
+WHITEHALL LN                                                1020010200
+WHITEHEAD CEMETERY RD                                       1020010200
+WHITESBURG HOLLOW RD                                        1020010200
+WHITLEY LN                                                  1020010200
+WILCOP ST                                                   1020310203
+WILD TURKEY LN                                              1020010200
+WILDCAT DR                                                  1020010200
+WILDCAT MOUNTAIN RD                                         1020010200
+WILDFLOWER LN                                               1020010200
+WILDIE RD                                                   1020010200
+WILDIE SCHOOL RD                                            1020010200
+WILDROSE RD                                                 1020010200
+WILLAILLA RD                                                1020010200
+WILLIAMS ST                                                 1020210202
+WILLOW AVE                                                  1020310203
+WILLOW CREEK LN                                             1020010200
+WILLOWTREE LN                                               1020010200
+WINDCHIME LN                                                1020010200
+WINNERS LN                                                  1020010200
+WOLF CREEK RD                                               1020010200
+WOOD BETONY RD                                              1020010200
+WOOD ST                                                     1020210202
+WOODLAND PL                                                 1020010200
+WOODLAND PLACE RD                                           1020010200
+WOODTHRUSH LN                                               1020010200
+WOOL LN                                                     1020010200
+WYATT LN                                                    1020010200
+WYOMING LN                                                  1020010200
+XENIA LN                                                    1020010200
+YELLOW BIRD LN                                              1020010200
+YELLOWROOT LN                                               1020010200
+YOUNG ST                                                    1020210202
+ZADE RD                                                     1020010200

@@ -37,10 +37,7 @@ end
 group :production do
   ### these gems are temporarily needed for Heroku app deployment
   gem 'therubyracer'
-#  gem 'faker'
   gem 'thin'
   gem 'pg'
   ### these gems are temporarily needed for Heroku app deployment
-
-  # gem 'dalli'   # memcached client
 end

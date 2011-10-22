@@ -36,7 +36,7 @@ end
 
 group :production do
   ### these gems are temporarily needed for Heroku app deployment
-  gem 'therubyracer-heroku', '0.8.1.pre3'
+  gem 'therubyracer'
 #  gem 'faker'
   gem 'thin'
   gem 'pg'

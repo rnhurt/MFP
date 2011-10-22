@@ -35,12 +35,14 @@
           #user_info
             - if current_user
               #{current_user.full_name}
+              / Only show to "admin" users
+              %a{:href => admin_index_path} Admin
               %a{:href => logout_url} Logout
             - else
               %a{:href => login_url} Login
 
-          #flash
-            = show_flash
+        #flash
+          = show_flash
           
         #content
           = yield

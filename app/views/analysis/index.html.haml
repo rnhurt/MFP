@@ -1,0 +1,18 @@
+%div.stackContent
+  %stackContent.stack2of4.chart
+    %img{:src => "http://chart.apis.google.com/chart?chxs=0,000000,11.5&chxt=x&chs=460x225&cht=p3&chco=0000FF&chd=t:#{@type_counts.values.join(',')}&chl=#{@type_counts.keys.join('|')}&chtt=Contacts+by+Type"}
+
+  %stackContent.stack2of4.chart
+    %img{:src => "http://chart.apis.google.com/chart?chs=460x225&cht=lxy&chco=3072F3,FF0000&chds=0,6,0,100,0,95,0,100&chd=t:0,1,2,3,4,5|#{@type_counts.values.join(',')}|-1|#{@type_counts.values.join(',')}&chdl=#{@type_counts.keys.join('|')}&chdlp=b&chls=2,4,0|1&chma=5,5,5,25&chtt=Contacts+Over+Time"}
+
+
+%buttons.stackContent
+  %h2 Choose your analysis:
+  %button.positive= link_to "Recent Contacts", analyses_url("recent_contacts")
+  %button.positive= link_to "5 Most Recent Contacts", analyses_url("recent_contacts", :q => 5)
+  %button.positive= link_to "25 Most Recent Contacts", analyses_url("recent_contacts", :q => 25)
+  %button.positive= link_to "50 Most Recent Contacts", analyses_url("recent_contacts", :q => 50)
+  %button.positive= link_to "10 Most Recent Contacts", analyses_url("recent_contacts", :q => 10)
+  %button.positive= link_to "Yet Another analysis", analyses_url("recent_contacts")
+  %button.positive= link_to "Yet Another analysis2", analyses_url("recent_contacts")
+  %button.positive= link_to "Yet Another analysis3", analyses_url("recent_contacts")

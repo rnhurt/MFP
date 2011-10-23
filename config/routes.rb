@@ -6,7 +6,7 @@ Mfp::Application.routes.draw do
   resources :sessions
 
   # Primary routes
-  resources :reports
+  resources :analyses
   resources :contacts
   resources :search
   resources :calls_for_service

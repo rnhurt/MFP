@@ -1,4 +1,4 @@
-class ReportsController < ApplicationController
+class AnalysesController < ApplicationController
   def index
     @type_counts = Contact.type_counts
   end
@@ -9,7 +9,7 @@ class ReportsController < ApplicationController
         @contacts = Contact.recent(params[:q])
         render "recent_contacts"
       else
-        redirect_to reports_url, :flash => { :warning => "Report not found" }
+        redirect_to analyses_url, :flash => { :warning => "Analysis not found" }
     end
   end
 

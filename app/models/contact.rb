@@ -1,5 +1,4 @@
 class Contact < ActiveRecord::Base
-
   belongs_to  :race
   belongs_to  :gender
   belongs_to  :hair_color
@@ -8,6 +7,9 @@ class Contact < ActiveRecord::Base
   has_many    :addresses, :through => :locations
   has_many    :aliases
   belongs_to  :contact_type
+  has_many    :involvements, :foreign_key => 'involved_id'
+  has_many    :reports, :through => :involvements
+
 
 
   # Let's do some tricky relationship management here.  These relationships allow us to bind Contacts together

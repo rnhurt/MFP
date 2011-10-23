@@ -26,7 +26,31 @@ class Contact < ActiveRecord::Base
   class << self
     def active; where(:active => true); end
     def inactive; where(:active => false); end
-    def recent(lmt = 15); limit(lmt).order("incident_timestamp DESC"); end
+    
+    # Find the contacts that were most recently entered into the system
+    def recent(lmt = 15); 
+      limit(lmt).order("incident_timestamp DESC").includes(:contact_type, [{:addresses => [:city, :state]}], :race, :gender)
+    end
+
+    # Group all contacts by type and count the number of incidents for each one.
+    # OPTIMIZE: I'm sure this is hokey and could probably be better.
+    def type_counts
+      types = ContactType.all
+      type_hash = {}
+      Contact.count(:all, :group => "contact_type_id").map{|k,v| type_hash[types.select{|i| i.id == k}[0].name] = v }
+      type_hash
+    end
+
+    # Define the search functionality of this class
+    # OPTIMIZE: This is horrible and can probably be done much better
+    def search(search)
+      if search
+        where('first_name LIKE :search OR last_name LIKE :search', {:search => "%#{search}%"})
+        includes(:gender)
+      else
+        all
+      end
+    end
   end
   
 
@@ -35,14 +59,4 @@ class Contact < ActiveRecord::Base
     "#{first_name} #{last_name}"
   end
  
-  # Define the search functionality of this class
-  # FIXME: This is horrible and can probably be done much better
-  def self.search(search)
-    if search
-      where('first_name LIKE :search OR last_name LIKE :search', {:search => "%#{search}%"})
-    else
-      all
-    end
-  end
-
  end

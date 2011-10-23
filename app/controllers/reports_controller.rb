@@ -1,4 +1,7 @@
 class ReportsController < ApplicationController
+  def index
+    @type_counts = Contact.type_counts
+  end
 
   def show
     case params[:id]

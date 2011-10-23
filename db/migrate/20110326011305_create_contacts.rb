@@ -19,7 +19,7 @@ class CreateContacts < ActiveRecord::Migration
       t.integer :eye_color_id
       t.integer :hair_color_id
 
-      t.boolean :active, :default => true
+      t.boolean :active,  default: true
       t.timestamps
     end
   end

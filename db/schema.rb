@@ -113,11 +113,10 @@ ActiveRecord::Schema.define(:version => 20111023214514) do
   end
 
   create_table "involvements", :force => true do |t|
-    t.string   "type"
     t.integer  "report_id"
-    t.integer  "involved_id"
+    t.integer  "contact_id"
     t.integer  "role_id"
-    t.boolean  "active"
+    t.boolean  "active",     :default => true
     t.datetime "created_at"
     t.datetime "updated_at"
   end

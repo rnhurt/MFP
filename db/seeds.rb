@@ -65,6 +65,9 @@ files.each_with_index do |file, index|
       StreetName.create!(:code => code.strip[0..4], :name => name.titleize, :county => counties[code.strip[0..2].to_i - 1])
     end
   end
+
+  print "\nSince this takes so long we'll only load the first one for now.  :)"
+  break 
 end
 puts " done"
 
@@ -200,7 +203,7 @@ puts " * Inserting Testing Data *"
 # TESTING DATA                                        #
 # This should be removed before moving to production  #
 #######################################################
-print "Seeding Addresses..."
+print "Generating Addresses..."
 Address.delete_all
 (1..100).each do |r|
   Address.create(:id => r,
@@ -215,11 +218,11 @@ Address.delete_all
 end
 puts "done"
 
-print "Seeding Contacts..."
-Contact.delete_all
+print "Generating Contacts..."
 contact_type_count  = ContactType.count
 address_count       = Address.count
 
+Contact.delete_all
 (1..100).each do |r|
   # Give every contact some address information
   addresses = []
@@ -236,6 +239,41 @@ address_count       = Address.count
     :race               => Race.find_by_code(%w[A B I O U W][rand(6)]),
     :gender             => Gender.find_by_code(%w[M F U][rand(3)]),
     :active             => true
+  )
+end
+puts "done"
+
+print "Generating Reports..."
+offense_count   = Offense.count
+location_count  = Location.count
+date            = Date.today - rand(2000000).minutes
+
+Report.delete_all
+(1..100).each do |r|
+  Report.create(:id => r,
+    :number         => "#{Faker::Address.zip_code}-#{Time.new.usec}",
+    :offense        => Offense.find(:first, :offset => (offense_count * rand).to_i),
+    :location       => Location.find(:first, :offset => (location_count * rand).to_i),
+    :date           => date,
+    :dispatched_at  => date + 10.minutes,
+    :arrived_at     => date + 20.minutes,
+    :cleared_at     => date + 1.hour,
+    # :received_id
+    :narrative      => Faker::Lorem.paragraph(sentence_count = 3)
+  )
+end
+puts "done"
+
+print "Generating Involvments..."
+report_count    = Report.count
+contact_count   = Contact.count
+
+Involvement.delete_all
+(1..100).each do |r|
+  Involvement.create(:id => r,
+    :report       => Report.find(:first, :offset => (report_count * rand).to_i),
+    :contact      => Contact.find(:first, :offset => (contact_count * rand).to_i)
+    # :role_id
   )
 end
 puts "done"

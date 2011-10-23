@@ -1,10 +1,10 @@
 class CreateReports < ActiveRecord::Migration
   def change
     create_table :reports do |t|
-      t.string    :type
+      # t.string    :type
       t.string    :number,  :null => false
       t.integer   :offense_id
-      t.integer   :location_id
+      t.integer   :address_id
       t.date      :date
       t.timestamp :dispatched_at
       t.timestamp :arrived_at

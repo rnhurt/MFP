@@ -259,7 +259,7 @@ Report.delete_all
     :arrived_at     => date + 20.minutes,
     :cleared_at     => date + 1.hour,
     # :received_id
-    :narrative      => Faker::Lorem.paragraph(sentence_count = 3)
+    :narrative      => Faker::Lorem.paragraph(sentence_count = rand(250))
   )
 end
 puts "done"

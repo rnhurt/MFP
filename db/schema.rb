@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111016103730) do
+ActiveRecord::Schema.define(:version => 20111023212838) do
 
   create_table "addresses", :force => true do |t|
     t.string   "street_number"
@@ -112,6 +112,16 @@ ActiveRecord::Schema.define(:version => 20111016103730) do
     t.datetime "updated_at"
   end
 
+  create_table "involvements", :force => true do |t|
+    t.string   "type"
+    t.integer  "report_id"
+    t.integer  "involved_id"
+    t.integer  "role_id"
+    t.boolean  "active"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "locations", :force => true do |t|
     t.integer "contact_id"
     t.integer "address_id"
@@ -131,6 +141,17 @@ ActiveRecord::Schema.define(:version => 20111016103730) do
   end
 
   create_table "reports", :force => true do |t|
+    t.string   "type"
+    t.string   "number",        :null => false
+    t.integer  "offense_id"
+    t.integer  "location_id"
+    t.date     "date"
+    t.datetime "dispatched_at"
+    t.datetime "arrived_at"
+    t.datetime "cleared_at"
+    t.integer  "received_id"
+    t.text     "narrative"
+    t.boolean  "active"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -157,7 +178,7 @@ ActiveRecord::Schema.define(:version => 20111016103730) do
   create_table "street_names", :force => true do |t|
     t.string   "code"
     t.string   "local_code"
-    t.integer  "city_id"
+    t.integer  "county_id"
     t.string   "name"
     t.boolean  "active",     :default => true
     t.datetime "created_at"

@@ -1,5 +1,5 @@
 class CreateContacts < ActiveRecord::Migration
-  def self.up
+  def change
     create_table :contacts do |t|
       t.integer   :contact_type_id
       t.datetime  :incident_timestamp
@@ -22,9 +22,5 @@ class CreateContacts < ActiveRecord::Migration
       t.boolean :active, :default => true
       t.timestamps
     end
-  end
-
-  def self.down
-    drop_table :contacts
   end
 end

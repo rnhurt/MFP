@@ -1,8 +1,8 @@
 %ul
   %li{:class => "contacts#{controller_name == 'contacts' ? ' active' : ''}"}
     = link_to "Contacts", contacts_path
-  %li{:class => "search#{controller_name == 'search' ? ' active' : ''}"}
-    = link_to "Search", search_index_path
+  %li{:class => "reports#{controller_name == 'reports' ? ' active' : ''}"}
+    = link_to "Reports", reports_path
   %li{:class => "analyses#{controller_name == 'analyses' ? ' active' : ''}"}
     = link_to "Analyses", analyses_path
   %li{:class => "callsforservice#{controller_name == 'calls_for_service' ? ' active' : ''}"}

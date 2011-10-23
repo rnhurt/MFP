@@ -3,7 +3,7 @@
 = form_tag sessions_path do
   %fieldset
     = label_tag :email
-    = text_field_tag :email, params[:email]
+    = text_field_tag :email, params[:email], {:autofocus => "autofocus"}
 
   %fieldset
     = label_tag :password

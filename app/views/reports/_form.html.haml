@@ -123,7 +123,7 @@
 
       .field
         = a.label :street_direction
-        = collection_select :address, :street_direction_id, :id, :value
+        = collection_select :address, :street_direction_id, StreetDirection.active, :id, :value
 
       .field
         = a.label :block
@@ -135,19 +135,19 @@
 
       .field
         = a.label :country
-        = collection_select :address, :country_id, :id, :name
+        = collection_select :address, :country_id, Country.all, :id, :name
 
       .field
         = a.label :state
-        = collection_select :address, :state_id, :id, :abbreviation
+        = collection_select :address, :state_id, State.all, :id, :abbreviation
 
       .field
         = a.label :county
-        = collection_select :address, :county_id, :id, :name
+        = collection_select :address, :county_id, County.all, :id, :name
 
       .field
         = a.label :city
-        = collection_select :address, :city_id, :id, :name
+        = collection_select :address, :city_id, City.all, :id, :name
 
       .field
         = a.label :postal_code

@@ -1,0 +1,158 @@
+= form_for @report do |f|
+  = render "shared/error_messages", :target => @report
+
+  %fieldset#report_details
+    %legend Incident Details
+    .field
+      = f.label :report_type
+      = collection_select :report, :report_type, ReportType.active, :id, :name
+
+    .field
+      = f.label :date_start, "Incident Time Start"
+      = f.text_field :date_start
+      
+    .field
+      = f.label :date_end, "Incident Time End"
+      = f.text_field :date_end
+      
+    .field
+      = f.label :reported_at, "Reported"
+      = f.text_field :reported_at
+      
+    .field
+      = f.label :dispatched_at, "Dispatched"
+      = f.text_field :dispatched_at
+      
+    .field
+      = f.label :arrived_at, "Arrived"
+      = f.text_field :arrived_at
+      
+    .field
+      = f.label :cleared_at, "Cleared"
+      = f.text_field :cleared_at
+      
+    .field
+      = f.label :narrative
+      = f.text_area :narrative
+      
+  %fieldset#contact
+    %legend Contacts
+    - f.fields_for :contact do |c|
+      .field
+        = c.label :contact_type
+        = collection_select :contact, :contact_type_id, ContactType.active, :id, :name
+        
+      .field.hidden
+        = c.label :incident_timestamp, "Timestamp"
+        = c.text_field :incident_timestamp
+        
+      .field
+        = c.label :first_name
+        = c.text_field :first_name
+
+      .field
+        = c.label :last_name
+        = c.text_field :last_name
+
+      .field
+        = c.label :middle_name
+        = c.text_field :middle_name
+
+      .field
+        = c.label :suffix
+        = c.text_field :suffix
+
+      .field
+        = c.label :ssn, "SSN"
+        = c.text_field :ssn
+
+      .field
+        = c.label :dob, "DOB"
+        = c.text_field :dob
+
+      .field
+        = c.label :ol_number, "OL Number"
+        = c.text_field :ol_number
+
+      .field
+        = c.label :ol_number, "OL State ID"
+        = c.text_field :ol_state_id
+
+      .field
+        = c.label :race
+        = collection_select :contact, :race_id, Race.active, :id, :value, :include_blank => ""
+
+      .field
+        = c.label :gender
+        = collection_select :contact, :gender_id, Gender.active, :id, :value, :include_blank => ""
+
+      .field
+        = c.label :height
+        = c.text_field :height
+
+      .field
+        = c.label :weight
+        = c.text_field :weight
+
+      .field
+        = c.label :eye_color
+        = collection_select :contact, :eye_color_id, EyeColor.active, :id, :value, :include_blank => ""
+
+      .field
+        = c.label :hair_color
+        = collection_select :contact, :hair_color_id, HairColor.active, :id, :value, :include_blank => ""
+  
+  %fieldset
+    %legend Addresses
+    - f.fields_for :address do |a|
+      .field
+        = a.label :street_number
+        = a.text_field :street_number
+
+      .field
+        = a.label :street_number_suffix
+        = a.text_field :street_number_suffix
+
+      .field
+        = a.label :street_name
+        = a.text_field :street_name
+
+      .field
+        = a.label :street_type
+        = a.text_field :street_type
+
+      .field
+        = a.label :street_direction
+        = collection_select :address, :street_direction_id, :id, :value
+
+      .field
+        = a.label :block
+        = a.text_field :block
+
+      .field
+        = a.label :crossstreet
+        = a.text_field :crossstreet
+
+      .field
+        = a.label :country
+        = collection_select :address, :country_id, :id, :name
+
+      .field
+        = a.label :state
+        = collection_select :address, :state_id, :id, :abbreviation
+
+      .field
+        = a.label :county
+        = collection_select :address, :county_id, :id, :name
+
+      .field
+        = a.label :city
+        = collection_select :address, :city_id, :id, :name
+
+      .field
+        = a.label :postal_code
+        = a.text_field :postal_code
+
+  .actions
+    = f.submit 'Save'
+    %button= link_to 'Cancel Changes', reports_path

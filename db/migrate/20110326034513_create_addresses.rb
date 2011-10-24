@@ -1,12 +1,12 @@
 class CreateAddresses < ActiveRecord::Migration
   def change
     create_table :addresses do |t|
+      t.integer :address_type_id
       t.string  :street_number
       t.string  :street_number_suffix
       t.string  :street_name
       t.string  :street_type
       t.integer :street_direction_id
-      t.integer :address_type_id
       t.string  :block
       t.string  :crossstreet
       

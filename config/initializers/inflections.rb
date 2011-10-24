@@ -9,4 +9,5 @@ ActiveSupport::Inflector.inflections do |inflect|
 #   inflect.uncountable %w( fish sheep )
   inflect.irregular 'call_for_service', 'calls_for_service'
   inflect.irregular 'analysis', 'analyses'
+  inflect.irregular 'how_reported', 'how_reported'
 end

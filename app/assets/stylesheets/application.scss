@@ -198,8 +198,8 @@ body {display:table;height:100%;}
   }
 }
 
-/* contacts */
-#contact_index {
+/* indexes */
+#contact_index, #report_index {
   #index_heading {
     margin-top:20px;
     background-color:$powder-blue;
@@ -207,7 +207,7 @@ body {display:table;height:100%;}
     @include border-radius(6px);
     h2 {display:inline-block;margin-right:40px;}
   }
-  #contacts {
+  #contacts, #reports {
     margin:15px 15px;
     .contact {
       display:inline-block;

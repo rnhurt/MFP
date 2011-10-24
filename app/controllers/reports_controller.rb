@@ -1,6 +1,8 @@
 class ReportsController < ApplicationController
 
-  def index;end
+  def index
+    @reports = {}# = Report.recent(14).search(params[:search])
+  end
   
   def new
     @report = Report.new

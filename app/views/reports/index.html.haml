@@ -1,1 +1,18 @@
-reports index goes here
+#report_index
+  #search_bar
+    = form_tag reports_path, :method => "get" do
+      = text_field_tag "search", params[:search], :autofocus => "autofocus"
+      = button_tag "Search by Number", :name => nil, :class => "submit_button"
+
+  #index_heading
+    %h2 Recent Reports
+    = link_to "Add Report", new_report_path
+
+  #contacts
+    - if @reports.empty?
+      %h3 No reports found
+    - else
+      - @reports.each do |report|
+        .report
+          %h3
+            %a{:href => "#"} #{report.number}

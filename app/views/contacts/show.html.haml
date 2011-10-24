@@ -1,14 +1,12 @@
-.stackContent
-  %b Name:
-  = @contact.full_name
-  %br 
-  %b SSN:
-  = @contact.ssn
-  %br 
-  %b DoB:
-  = @contact.dob
+%b Name:
+= @contact.full_name
+%br 
+%b SSN:
+= @contact.ssn
+%br 
+%b DoB:
+= @contact.dob
 
-.stackContent
-  = link_to 'Edit', edit_contact_path(@contact)
-  \|
-  = link_to 'Back', contacts_path
+= link_to 'Edit', edit_contact_path(@contact)
+\|
+= link_to 'Back', contacts_path

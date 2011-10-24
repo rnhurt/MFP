@@ -6,6 +6,7 @@ class Address < ActiveRecord::Base
   belongs_to  :city
   has_many    :locations #, :as => :addressable
   has_many    :contacts, :through => :locations
+  has_many    :reports
 
   class << self
     def active; where(:active => true); end

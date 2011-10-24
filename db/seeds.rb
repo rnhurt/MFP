@@ -245,7 +245,7 @@ puts "done"
 
 print "Generating Reports..."
 offense_count   = Offense.count
-location_count  = Location.count
+address_count   = Address.count
 date            = Date.today - rand(2000000).minutes
 
 Report.delete_all
@@ -253,8 +253,10 @@ Report.delete_all
   Report.create(:id => r,
     :number         => "#{Faker::Address.zip_code}-#{Time.new.usec}",
     :offense        => Offense.find(:first, :offset => (offense_count * rand).to_i),
-    :location       => Location.find(:first, :offset => (location_count * rand).to_i),
-    :date           => date,
+    :address        => Address.find(:first, :offset => (address_count * rand).to_i),
+    :date_start     => date,
+    :date_end       => date,
+    :reported_at    => date,
     :dispatched_at  => date + 10.minutes,
     :arrived_at     => date + 20.minutes,
     :cleared_at     => date + 1.hour,

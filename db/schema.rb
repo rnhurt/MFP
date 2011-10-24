@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111023214514) do
+ActiveRecord::Schema.define(:version => 20111023233447) do
 
   create_table "addresses", :force => true do |t|
     t.string   "street_number"
@@ -140,17 +140,24 @@ ActiveRecord::Schema.define(:version => 20111023214514) do
   end
 
   create_table "reports", :force => true do |t|
-    t.string   "type"
     t.string   "number",        :null => false
     t.integer  "offense_id"
-    t.integer  "location_id"
-    t.date     "date"
+    t.integer  "address_id"
+    t.datetime "date_start"
+    t.datetime "date_end"
+    t.datetime "reported_at"
     t.datetime "dispatched_at"
     t.datetime "arrived_at"
     t.datetime "cleared_at"
     t.integer  "received_id"
     t.text     "narrative"
     t.boolean  "active"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "sequences", :force => true do |t|
+    t.integer  "offense_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

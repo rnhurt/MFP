@@ -5,7 +5,9 @@ class CreateReports < ActiveRecord::Migration
       t.string    :number,  :null => false
       t.integer   :offense_id
       t.integer   :address_id
-      t.date      :date
+      t.timestamp :date_start
+      t.timestamp :date_end
+      t.timestamp :reported_at
       t.timestamp :dispatched_at
       t.timestamp :arrived_at
       t.timestamp :cleared_at

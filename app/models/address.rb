@@ -10,6 +10,7 @@ class Address < ActiveRecord::Base
   has_many    :contacts, :through => :locations
   has_many    :reports
 
+  default_scope where(:active => true)
   class << self
     def active; where(:active => true); end
     def inactive; where(:active => false); end

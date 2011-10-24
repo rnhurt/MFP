@@ -4,4 +4,6 @@ class State < ActiveRecord::Base
   has_many    :codes
 
   validates :country, :associated => true, :presence => true 
+
+  default_scope where(:active => true)
 end

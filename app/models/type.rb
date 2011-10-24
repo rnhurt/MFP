@@ -5,4 +5,5 @@ class Type < ActiveRecord::Base
     def inactive; where(:active => false); end
   end
 
+  default_scope where(:active => true)
 end

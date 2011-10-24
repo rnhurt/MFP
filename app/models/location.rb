@@ -6,4 +6,6 @@ class Location < ActiveRecord::Base
   # has_many    :addresses #, :as => :addressable
   # has_many    :contacts, :through => :addresses
 
+  default_scope where(:active => true)
+
 end

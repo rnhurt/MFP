@@ -10,6 +10,7 @@ class Contact < ActiveRecord::Base
   has_many    :involvements, :foreign_key => 'involved_id'
   has_many    :reports, :through => :involvements
 
+  default_scope where(:active => true)
 
 
   # Let's do some tricky relationship management here.  These relationships allow us to bind Contacts together

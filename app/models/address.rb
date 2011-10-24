@@ -4,6 +4,8 @@ class Address < ActiveRecord::Base
   belongs_to  :state
   belongs_to  :county
   belongs_to  :city
+  belongs_to  :address_type
+  belongs_to  :street_direction
   has_many    :locations #, :as => :addressable
   has_many    :contacts, :through => :locations
   has_many    :reports

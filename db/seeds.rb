@@ -1,5 +1,5 @@
-# Offical Locale codes
-############################
+puts "# Seeding Official Locale codes"
+puts "##################################"
 print "Seeding Country codes..."
 Country.delete_all
 open(File.join(Rails.root, "db", "seeds", "ISOCountryCodes.txt")) do |countries|
@@ -66,14 +66,14 @@ files.each_with_index do |file, index|
     end
   end
 
-  print "\nSince this takes so long we'll only load the first one for now.  :)"
+  puts "  ...  since this takes so long we'll only load the first one for now.  :)"
   break 
 end
 puts " done"
 
 
-# Dingo specific codes
-############################
+puts "# Seeding Dingo specific codes"
+puts "##################################"
 COUNTRY = Country.find_by_abbreviation("US")
 STATE   = State.find_by_abbreviation("KY")
 
@@ -96,6 +96,13 @@ ContactType.delete_all
 end
 puts "done"
 
+print "Seeding Street Directions..."
+StreetDirection.delete_all
+%w(N S E W NE SE NW SW).each do |type|
+  StreetDirection.create(:name => type)
+end
+puts "done"
+
 print "Seeding Relationship Types..."
 RelationshipType.delete_all
 %w(Alias Family Neighbor Gang).each do |type|
@@ -103,10 +110,24 @@ RelationshipType.delete_all
 end
 puts "done"
 
+print "Seeding Report Types..."
+ReportType.delete_all
+%w(Crime Traffic).each do |type|
+  ReportType.create(:name => type)
+end
+puts "done"
+
+print "Seeding Report Methods..."
+HowReported.delete_all
+%w(Phone In-Person).each do |type|
+  HowReported.create(:name => type)
+end
+puts "done"
 
 
-# Offical NCIC codes
-############################
+
+puts "# Seeding Offical NCIC codes"
+puts "##################################"
 print "Seeding NCIC Offense codes..."
 Offense.delete_all
 open(File.join(Rails.root, "db", "seeds", "NCICOffenseCodes.txt")) do |codes|
@@ -198,22 +219,23 @@ end
 puts "done"
 
 
-puts " * Inserting Testing Data *"
-#######################################################
-# TESTING DATA                                        #
-# This should be removed before moving to production  #
-#######################################################
+puts "\n##########################################################"
+puts "##  Seeding Testing Data                                ##"
+puts "##  This should be removed before moving to production  ##"
+puts "##########################################################"
 print "Generating Addresses..."
+street_direction_count  = StreetDirection.count
+
 Address.delete_all
 (1..100).each do |r|
-  Address.create(:id => r,
+  Address.create(
     :street_number => Faker::Base.numerify("#####"), 
     :street_name  => Faker::Address.street_name,
+    :street_direction => StreetDirection.find(:first, :offset => (street_direction_count * rand).to_i),
     :state        => State.find_by_abbreviation(Faker::Address.state_abbr), 
     :county       => County.first, 
     :city         => City.first, 
-    :postal_code  => Faker::Address.postcode,
-    :active       => true
+    :postal_code  => Faker::Address.postcode
   )
 end
 puts "done"
@@ -237,21 +259,23 @@ Contact.delete_all
     :dob                => Date.today - (rand(20000)+3000).days,
     :addresses          => addresses,
     :race               => Race.find_by_code(%w[A B I O U W][rand(6)]),
-    :gender             => Gender.find_by_code(%w[M F U][rand(3)]),
-    :active             => true
+    :gender             => Gender.find_by_code(%w[M F U][rand(3)])
   )
 end
 puts "done"
 
 print "Generating Reports..."
-offense_count   = Offense.count
-address_count   = Address.count
-date            = Date.today - rand(2000000).minutes
+report_type_count   = ReportType.count
+how_reported_count  = HowReported.count
+offense_count       = Offense.count
+address_count       = Address.count
+date                = Date.today - rand(2000000).minutes
 
 Report.delete_all
 (1..100).each do |r|
-  Report.create(:id => r,
+  Report.create(
     :number         => "#{Faker::Address.zip_code}-#{Time.new.usec}",
+    :report_type    => ReportType.find(:first, :offset => (report_type_count * rand).to_i),
     :offense        => Offense.find(:first, :offset => (offense_count * rand).to_i),
     :address        => Address.find(:first, :offset => (address_count * rand).to_i),
     :date_start     => date,
@@ -260,7 +284,7 @@ Report.delete_all
     :dispatched_at  => date + 10.minutes,
     :arrived_at     => date + 20.minutes,
     :cleared_at     => date + 1.hour,
-    # :received_id
+    :how_reported   => HowReported.find(:first, :offset => (how_reported_count * rand).to_i),
     :narrative      => Faker::Lorem.paragraph(sentence_count = rand(250))
   )
 end
@@ -272,7 +296,7 @@ contact_count   = Contact.count
 
 Involvement.delete_all
 (1..100).each do |r|
-  Involvement.create(:id => r,
+  Involvement.create(
     :report       => Report.find(:first, :offset => (report_count * rand).to_i),
     :contact      => Contact.find(:first, :offset => (contact_count * rand).to_i)
     # :role_id

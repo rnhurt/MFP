@@ -14,12 +14,12 @@
 ActiveRecord::Schema.define(:version => 20111023233447) do
 
   create_table "addresses", :force => true do |t|
+    t.integer  "address_type_id"
     t.string   "street_number"
     t.string   "street_number_suffix"
     t.string   "street_name"
     t.string   "street_type"
     t.integer  "street_direction_id"
-    t.integer  "address_type_id"
     t.string   "block"
     t.string   "crossstreet"
     t.integer  "country_id"
@@ -140,7 +140,9 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
   end
 
   create_table "reports", :force => true do |t|
-    t.string   "number",        :null => false
+    t.string   "number",                            :null => false
+    t.integer  "report_type_id"
+    t.integer  "how_reported_id"
     t.integer  "offense_id"
     t.integer  "address_id"
     t.datetime "date_start"
@@ -149,9 +151,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.datetime "dispatched_at"
     t.datetime "arrived_at"
     t.datetime "cleared_at"
-    t.integer  "received_id"
     t.text     "narrative"
-    t.boolean  "active"
+    t.boolean  "active",          :default => true
     t.datetime "created_at"
     t.datetime "updated_at"
   end

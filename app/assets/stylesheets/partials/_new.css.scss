@@ -1,0 +1,13 @@
+/* styles for 'new' controller actions */
+
+form.new {
+  padding:15px 0 10px;
+  legend {font-size:1.4em;}
+  .text label {display:none;}
+  >fieldset {
+    border:1px solid $navy;
+    padding:8px;
+    background-color:$lighter-grey;
+    margin-bottom:10px;
+  }
+}

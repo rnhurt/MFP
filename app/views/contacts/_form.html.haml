@@ -1,71 +1,71 @@
-= form_for @contact do |f|
+= form_for(@contact, :html => { :class => "new" }) do |f|
   = render "shared/error_messages", :target => @contact
 
   %fieldset
     %legend Incident Details
-    .field
+    %fieldset
       = f.label :contact_type
       = collection_select :contact, :contact_type_id, ContactType.active, :id, :name
 
-    .field
+    %fieldset.text
       = f.label :incident_timestamp, "Timestamp"
-      = f.text_field :incident_timestamp
+      = f.text_field :incident_timestamp, { :value => "Timestamp" }
 
   %fieldset
     %legend Contact Details
-    .field
+    %fieldset.text
       = f.label :first_name
-      = f.text_field :first_name
+      = f.text_field :first_name, { :value => "First Name" }
 
-    .field
+    %fieldset.text
       = f.label :last_name
-      = f.text_field :last_name
+      = f.text_field :last_name, { :value => "Last Name" }
 
-    .field
+    %fieldset.text
       = f.label :middle_name
-      = f.text_field :middle_name
+      = f.text_field :middle_name, { :value => "Middle Name" }
 
-    .field
+    %fieldset.text
       = f.label :suffix
-      = f.text_field :suffix
+      = f.text_field :suffix, { :value => "Suffix" }
 
-    .field
+    %fieldset.text
       = f.label :ssn, "SSN"
-      = f.text_field :ssn
+      = f.text_field :ssn, { :value => "SSN" }
 
-    .field
+    %fieldset.text
       = f.label :dob, "DOB"
-      = f.text_field :dob
+      = f.text_field :dob, { :value => "DOB" }
 
-    .field
+    %fieldset.text
       = f.label :ol_number, "OL Number"
-      = f.text_field :ol_number
+      = f.text_field :ol_number, { :value => "OL Number" }
 
-    .field
+    %fieldset.text
       = f.label :ol_number, "OL State ID"
-      = f.text_field :ol_state_id
+      = f.text_field :ol_state_id, { :value => "OL State ID" }
 
-    .field
+    %fieldset
       = f.label :race
       = collection_select :contact, :race_id, Race.active, :id, :value, :include_blank => ""
 
-    .field
+    %fieldset
       = f.label :gender
       = collection_select :contact, :gender_id, Gender.active, :id, :value, :include_blank => ""
 
-    .field
+    %fieldset.text
       = f.label :height
-      = f.text_field :height
+      = f.text_field :height, { :value => "Height" }
 
-    .field
+    %fieldset.text
       = f.label :weight
-      = f.text_field :weight
+      = f.text_field :weight, { :value => "Weight" }
 
-    .field
+    %fieldset
       = f.label :eye_color
       = collection_select :contact, :eye_color_id, EyeColor.active, :id, :value, :include_blank => ""
 
-    .field
+    %fieldset
       = f.label :hair_color
       = collection_select :contact, :hair_color_id, HairColor.active, :id, :value, :include_blank => ""
 

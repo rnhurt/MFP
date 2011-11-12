@@ -1,3 +1,7 @@
+/*
+ * This file sets up the main namespace object, and does initialization for global behaviors.
+ */
+
 // on document.ready...
 $(function(){
   mfp.init();

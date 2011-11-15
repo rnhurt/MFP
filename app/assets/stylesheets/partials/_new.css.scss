@@ -10,6 +10,17 @@ form.new {
     background-color:$lighter-grey;
     margin-bottom:10px;
     @include border-radius(6px);
-    input.default-text {color:$light-grey;}
+    fieldset.row {
+      margin-bottom:10px;
+      fieldset {
+        float:left;
+        margin-right:30px;
+      }
+      input.default-text {
+        color:$light-grey;
+        text-transform:uppercase;
+      }
+      input[name*="suffix"], input[name*="height"], input[name*="weight"] {width:50px;}
+    }
   }
 }

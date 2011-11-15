@@ -14,8 +14,9 @@ form.new {
       margin-bottom:10px;
       fieldset {
         float:left;
-        margin-right:30px;
+        margin-right:5px;
       }
+      fieldset.select {margin-right:20px;}
       input.default-text {
         color:$light-grey;
         text-transform:uppercase;

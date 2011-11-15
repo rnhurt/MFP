@@ -6,8 +6,10 @@ form.new {
   .text label {display:none;}
   >fieldset {
     border:1px solid $navy;
-    padding:8px;
+    padding:10px;
     background-color:$lighter-grey;
     margin-bottom:10px;
+    @include border-radius(6px);
+    input.default-text {color:$light-grey;}
   }
 }

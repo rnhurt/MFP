@@ -21,7 +21,9 @@ form.new {
         color:$light-grey;
         text-transform:uppercase;
       }
-      input[name*="suffix"], input[name*="height"], input[name*="weight"] {width:50px;}
+      select {font-size:1.5em;}
+      input[type="text"] {font-size:1.3em;width:170px;}
+      input[name*="suffix"], input[name*="height"], input[name*="weight"] {width:60px;}
     }
   }
 }

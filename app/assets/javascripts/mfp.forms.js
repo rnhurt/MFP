@@ -25,6 +25,9 @@ mfp.forms = {
         }
       });
       
+      // date/time picker
+      $('input[name*="timestamp"]').AnyTime_picker({format:'%Y-%m-%d %H:%i'});
+      
     }
   }
   

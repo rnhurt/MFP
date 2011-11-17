@@ -46,8 +46,8 @@
           = yield
 
   = javascript_include_tag "application"
-  - if params[:action] == "new"
+  - if params[:action] == "new" || params[:action] == "edit"
     :javascript
       $(function(){
-        mfp.forms.new.init();
+        mfp.forms.#{params[:action]}.init();
       });

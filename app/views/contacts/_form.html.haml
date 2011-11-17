@@ -1,4 +1,4 @@
-= form_for(@contact, :html => { :class => "new" }) do |f|
+= form_for(@contact, :html => { :class => "#{params[:action]}" }) do |f|
   = render "shared/error_messages", :target => @contact
 
   %fieldset
@@ -10,44 +10,44 @@
 
       %fieldset.text
         = f.label :incident_timestamp, "Timestamp"
-        = f.text_field :incident_timestamp, { :value => "Timestamp" }
+        = f.text_field :incident_timestamp, { "data-default" => "Timestamp", :class => "default-text" }
 
   %fieldset
     %legend Contact Details
     %fieldset.row
       %fieldset.text
         = f.label :first_name
-        = f.text_field :first_name, { :value => "First Name" }
+        = f.text_field :first_name, { "data-default" => "First Name", :class => "default-text" }
 
       %fieldset.text
         = f.label :middle_name
-        = f.text_field :middle_name, { :value => "Middle Name" }
+        = f.text_field :middle_name, { "data-default" => "Middle Name", :class => "default-text" }
 
       %fieldset.text
         = f.label :last_name
-        = f.text_field :last_name, { :value => "Last Name" }
+        = f.text_field :last_name, { "data-default" => "Last Name", :class => "default-text" }
 
       %fieldset.text
         = f.label :suffix
-        = f.text_field :suffix, { :value => "Suffix" }
+        = f.text_field :suffix, { "data-default" => "Suffix", :class => "default-text" }
 
     %fieldset.row
       %fieldset.text
         = f.label :ssn, "SSN"
-        = f.text_field :ssn, { :value => "SSN" }
+        = f.text_field :ssn, { "data-default" => "SSN", :class => "default-text" }
 
       %fieldset.text
         = f.label :dob, "DOB"
-        = f.text_field :dob, { :value => "DOB" }
+        = f.text_field :dob, { "data-default" => "DOB", :class => "default-text" }
 
     %fieldset.row
       %fieldset.text
         = f.label :ol_number, "OL Number"
-        = f.text_field :ol_number, { :value => "OL Number" }
+        = f.text_field :ol_number, { "data-default" => "OL Number", :class => "default-text" }
 
       %fieldset.text
         = f.label :ol_number, "OL State ID"
-        = f.text_field :ol_state_id, { :value => "OL State ID" }
+        = f.text_field :ol_state_id, { "data-default" => "OL State ID", :class => "default-text" }
 
     %fieldset.row
       %fieldset.select
@@ -61,11 +61,11 @@
     %fieldset.row
       %fieldset.text
         = f.label :height
-        = f.text_field :height, { :value => "Height" }
+        = f.text_field :height, { "data-default" => "Height", :class => "default-text" }
 
       %fieldset.text
         = f.label :weight
-        = f.text_field :weight, { :value => "Weight" }
+        = f.text_field :weight, { "data-default" => "Weight", :class => "default-text" }
 
       %fieldset.select
         = f.label :eye_color

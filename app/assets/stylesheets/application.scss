@@ -1,8 +1,3 @@
-/* resets */
-html {font-size:67.5%;font-family:Helvetica, Arial, sans-serif;height:100%;}
-html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot, fieldset {border:0 none;margin:0;padding:0;}
-ul, ol, li {list-style-type:none;}
-
 /* colors */
 $navy: #2a3251;
 $powder-blue: #c4e1ff;
@@ -12,6 +7,12 @@ $light-grey: #aaaaaa;
 $lighter-grey: #dddddd;
 $lightest-grey: #eeeeee;
 $pale-yellow: #feffbd;
+$text: #333333;
+
+/* resets */
+html {font-size:67.5%;font-family:Helvetica, Arial, sans-serif;height:100%;color:$text;}
+html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot, fieldset {border:0 none;margin:0;padding:0;}
+ul, ol, li {list-style-type:none;}
 
 /* mixins */
 @mixin table-cell {display:table-cell;vertical-align:top;}
@@ -49,5 +50,5 @@ table.analysis {
 @import 'partials/login';
 @import 'partials/dashboard';
 @import 'partials/index';
-@import 'partials/new';
+@import 'partials/new_edit';
 @import 'partials/anytime';

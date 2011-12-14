@@ -1,7 +1,6 @@
 class ContactsController < ApplicationController
   def index
-    # @contacts = Contact.recent(25).includes(:addresses, :gender, :race, :locations).search(params[:search])
-    @contacts = Contact.recent(14).search(params[:search])
+    @contacts = Contact.recent.search(params[:search])
   end
 
   def show

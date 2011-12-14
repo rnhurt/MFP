@@ -31,7 +31,7 @@ class Contact < ActiveRecord::Base
     def inactive; where(:active => false); end
     
     # Find the contacts that were most recently entered into the system
-    def recent(lmt = 15); 
+    def recent(lmt = 14);
       limit(lmt).order("incident_timestamp DESC").includes(:contact_type, [{:addresses => [:city, :state]}], :race, :gender)
     end
 
@@ -46,10 +46,9 @@ class Contact < ActiveRecord::Base
 
     # Define the search functionality of this class
     # OPTIMIZE: This is horrible and can probably be done much better
-    def search(search)
-      if search
-        where('first_name LIKE :search OR last_name LIKE :search', {:search => "%#{search}%"})
-        includes(:gender)
+    def search(terms)
+      unless terms.blank?
+        where('first_name LIKE :terms OR last_name LIKE :terms', {:terms => "%#{terms}%"})
       else
         all
       end

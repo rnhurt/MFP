@@ -8,6 +8,7 @@ $lighter-grey: #dddddd;
 $lightest-grey: #eeeeee;
 $pale-yellow: #feffbd;
 $text: #333333;
+$body-background: #eee;
 
 /* resets */
 html {font-size:67.5%;font-family:Helvetica, Arial, sans-serif;height:100%;color:$text;}
@@ -47,6 +48,7 @@ table.analysis {
 
 // imports
 @import 'partials/globals';
+@import 'partials/paper';
 @import 'partials/login';
 @import 'partials/dashboard';
 @import 'partials/index';

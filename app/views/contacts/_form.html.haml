@@ -1,97 +1,98 @@
-= form_for(@contact, :html => { :class => "#{params[:action]}" }) do |f|
-  = render "shared/error_messages", :target => @contact
+.paper
+  = form_for(@contact, :html => { :class => "#{params[:action]}" }) do |f|
+    = render "shared/error_messages", :target => @contact
 
-  %fieldset
-    %legend Incident Details
-    %fieldset.row
-      %fieldset.select
-        = f.label :contact_type
-        = collection_select :contact, :contact_type_id, ContactType.active, :id, :name, {}, { "autofocus" => "autofocus" }
+    %fieldset
+      %legend Incident Details
+      %fieldset.row
+        %fieldset.select
+          = f.label :contact_type
+          = collection_select :contact, :contact_type_id, ContactType.active, :id, :name, {}, { "autofocus" => "autofocus" }
 
-      %fieldset.text
-        = f.label :incident_timestamp, "Timestamp"
-        = f.text_field :incident_timestamp, { "data-default" => "Timestamp", :class => "default-text" }
+        %fieldset.text
+          = f.label :incident_timestamp, "Timestamp"
+          = f.text_field :incident_timestamp, { "data-default" => "Timestamp", :class => "default-text" }
 
-  %fieldset
-    %legend Contact Details
-    %fieldset.row
-      %fieldset.text
-        = f.label :first_name
-        = f.text_field :first_name, { "data-default" => "First Name", :class => "default-text" }
+    %fieldset
+      %legend Contact Details
+      %fieldset.row
+        %fieldset.text
+          = f.label :first_name
+          = f.text_field :first_name, { "data-default" => "First Name", :class => "default-text" }
 
-      %fieldset.text
-        = f.label :middle_name
-        = f.text_field :middle_name, { "data-default" => "Middle Name", :class => "default-text" }
+        %fieldset.text
+          = f.label :middle_name
+          = f.text_field :middle_name, { "data-default" => "Middle Name", :class => "default-text" }
 
-      %fieldset.text
-        = f.label :last_name
-        = f.text_field :last_name, { "data-default" => "Last Name", :class => "default-text" }
+        %fieldset.text
+          = f.label :last_name
+          = f.text_field :last_name, { "data-default" => "Last Name", :class => "default-text" }
 
-      %fieldset.text
-        = f.label :suffix
-        = f.text_field :suffix, { "data-default" => "Suffix", :class => "default-text" }
+        %fieldset.text
+          = f.label :suffix
+          = f.text_field :suffix, { "data-default" => "Suffix", :class => "default-text" }
 
-    %fieldset.row
-      %fieldset.text
-        = f.label :ssn, "SSN"
-        = f.text_field :ssn, { "data-default" => "SSN", :class => "default-text" }
+      %fieldset.row
+        %fieldset.text
+          = f.label :ssn, "SSN"
+          = f.text_field :ssn, { "data-default" => "SSN", :class => "default-text" }
 
-      %fieldset.text
-        = f.label :dob, "DOB"
-        = f.text_field :dob, { "data-default" => "DOB", :class => "default-text" }
+        %fieldset.text
+          = f.label :dob, "DOB"
+          = f.text_field :dob, { "data-default" => "DOB", :class => "default-text" }
 
-    %fieldset.row
-      %fieldset.text
-        = f.label :ol_number, "OL Number"
-        = f.text_field :ol_number, { "data-default" => "OL Number", :class => "default-text" }
+      %fieldset.row
+        %fieldset.text
+          = f.label :ol_number, "OL Number"
+          = f.text_field :ol_number, { "data-default" => "OL Number", :class => "default-text" }
 
-      %fieldset.text
-        = f.label :ol_number, "OL State ID"
-        = f.text_field :ol_state_id, { "data-default" => "OL State ID", :class => "default-text" }
+        %fieldset.text
+          = f.label :ol_number, "OL State ID"
+          = f.text_field :ol_state_id, { "data-default" => "OL State ID", :class => "default-text" }
 
-    %fieldset.row
-      %fieldset.select
-        = f.label :race
-        = collection_select :contact, :race_id, Race.active, :id, :value, :include_blank => ""
+      %fieldset.row
+        %fieldset.select
+          = f.label :race
+          = collection_select :contact, :race_id, Race.active, :id, :value, :include_blank => ""
 
-      %fieldset.select
-        = f.label :gender
-        = collection_select :contact, :gender_id, Gender.active, :id, :value, :include_blank => ""
+        %fieldset.select
+          = f.label :gender
+          = collection_select :contact, :gender_id, Gender.active, :id, :value, :include_blank => ""
 
-    %fieldset.row
-      %fieldset.text
-        = f.label :height
-        = f.text_field :height, { "data-default" => "Height", :class => "default-text" }
+      %fieldset.row
+        %fieldset.text
+          = f.label :height
+          = f.text_field :height, { "data-default" => "Height", :class => "default-text" }
 
-      %fieldset.text
-        = f.label :weight
-        = f.text_field :weight, { "data-default" => "Weight", :class => "default-text" }
+        %fieldset.text
+          = f.label :weight
+          = f.text_field :weight, { "data-default" => "Weight", :class => "default-text" }
 
-      %fieldset.select
-        = f.label :eye_color
-        = collection_select :contact, :eye_color_id, EyeColor.active, :id, :value, :include_blank => ""
+        %fieldset.select
+          = f.label :eye_color
+          = collection_select :contact, :eye_color_id, EyeColor.active, :id, :value, :include_blank => ""
 
-      %fieldset
-        = f.label :hair_color
-        = collection_select :contact, :hair_color_id, HairColor.active, :id, :value, :include_blank => ""
+        %fieldset
+          = f.label :hair_color
+          = collection_select :contact, :hair_color_id, HairColor.active, :id, :value, :include_blank => ""
 
-  %fieldset
-    %legend Addresses
-    %table
-      %thead
-        %tr
-          %th{:width => "50%"} Street Address
-          %th City
-          %th State
-          %th Postal Code
+    %fieldset
+      %legend Addresses
+      %table
+        %thead
+          %tr
+            %th{:width => "50%"} Street Address
+            %th City
+            %th State
+            %th Postal Code
 
-      - @contact.addresses.each do |address|
-        %tr
-          %td= address.street_address
-          %td= address.city.try(:name)
-          %td= address.state.try(:name)
-          %td= address.postal_code
+        - @contact.addresses.each do |address|
+          %tr
+            %td= address.street_address
+            %td= address.city.try(:name)
+            %td= address.state.try(:name)
+            %td= address.postal_code
 
-  .actions
-    = f.submit 'Save'
-    %button= link_to 'Cancel Changes', contacts_path
+    .actions
+      = f.submit 'Save'
+      %button= link_to 'Cancel Changes', contacts_path

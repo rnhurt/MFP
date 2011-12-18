@@ -4,10 +4,18 @@ module ApplicationHelper
     content_for(:title) { page_title }
   end
 
-  # Show the FLASH div if there is data in the flash object.
-  def show_flash
-    result = ''
-    flash.each {|type, message| result << content_tag(:div, message, :class => type.to_s) }
+  # Build the Javascript to display flash messages
+  def build_flash
+    result = ""
+    flash.each do |type, message|
+      type = case type
+        when :alert   then :error
+        when :notice  then :success
+        else :info
+      end
+      result << "humane.#{type}('#{message}'); "
+    end
+
     return result.html_safe
   end
 end

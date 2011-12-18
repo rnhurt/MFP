@@ -12,10 +12,10 @@
     = csrf_meta_tags
 
   %body#login
-    #flash
-      = show_flash
-
     #login_window
       = yield
 
-  = javascript_include_tag "application"
+  = javascript_include_tag "jquery-1.7-min", "humane.min", :application
+
+  :javascript
+    eval("#{build_flash}");

@@ -8,12 +8,12 @@
       display:inline-block;
       width:276px;
       height:276px;
-      @include border-radius(6px);
-      @include box-shadow(0 0 5px #000);
+      @include border-radius(6px, 6px, 6px, 6px);
+      @include box-shadow(0, 0, 5px, #000);
       background-color:$lightest-grey;
       margin:10px;
     }
-    li:hover {@include box-shadow(0 0 5px $sky-blue);}
+    li:hover {@include box-shadow(0, 0, 5px, $sky-blue);}
     a {display:block;text-indent:-10000px;height:276px;width:276px;}
     .contacts a {background:image-url('handcuffs.png') no-repeat;}
     .reports a {background:image-url('reports.png') no-repeat;}

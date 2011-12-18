@@ -1,4 +1,6 @@
 /* colors */
+$bright-white: rgb(255, 255, 255);
+$dull-white: rgb(240, 240, 240);
 $navy: #2a3251;
 $powder-blue: #c4e1ff;
 $sky-blue: #0078ff;
@@ -19,14 +21,35 @@ ul, ol, li {list-style-type:none;}
 @mixin table-cell {display:table-cell;vertical-align:top;}
 @mixin serif {font-family:Times New Roman, Georgia, serif;}
 @mixin border($top, $right, $bottom, $left) {border-top:$top;border-right:$right;border-bottom:$bottom;border-left:$left;}
-@mixin border-radius($values) {-webkit-border-radius:$values;-moz-border-radius:$values;border-radius:$values;}
-@mixin box-shadow($values) {-webkit-box-shadow:$values;-moz-box-shadow:$values;box-shadow:$values;}
+@mixin border-radius($top:0, $right:0, $bottom:0, $left:0) {
+  -webkit-border-radius:$top $right $bottom $left;
+  -moz-border-radius:$top $right $bottom $left;
+  -ms-border-radius:$top $right $bottom $left;
+  -o-border-radius:$top $right $bottom $left;
+  border-radius:$top $right $bottom $left;
+}
+@mixin box-shadow($x, $y, $blur, $color, $inset:'') {
+  @if $inset != '' {
+    -webkit-box-shadow:$x $y $blur $color, $inset;
+    -moz-box-shadow:$x $y $blur $color, $inset;
+    -ms-box-shadow:$x $y $blur $color, $inset;
+    -o-box-shadow:$x $y $blur $color, $inset;
+    box-shadow:$x $y $blur $color, $inset;
+  } @else {
+    -webkit-box-shadow:$x $y $blur $color;
+    -moz-box-shadow:$x $y $blur $color;
+    -ms-box-shadow:$x $y $blur $color;
+    -o-box-shadow:$x $y $blur $color;
+    box-shadow:$x $y $blur $color;
+  }
+}
+@mixin transform($values) {-webkit-transform:$values;-moz-transform:$values;-ms-transform:$values;-o-transform:$values;transform:$values;}
 
 /* analysis table */
 table.analysis {
   width:100%;
   caption {
-    @include border-radius(6px 6px 0 0);
+    @include border-radius(6px, 6px, 0, 0);
     background-color:$light-powder-blue;
     padding:10px;
     font-size:1.4em;
@@ -42,7 +65,7 @@ table.analysis {
     .last {@include border(0, 1px solid $light-powder-blue, 0, 0);}
   }
   tfoot {
-    td {@include border-radius(0 0 6px 6px);padding:10px;background-color:$light-powder-blue;}
+    td {@include border-radius(0, 0, 6px, 6px);padding:10px;background-color:$light-powder-blue;}
   }
 }
 

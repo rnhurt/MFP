@@ -1,16 +1,12 @@
-.paper
-{
+.paper {
   position: relative;
   padding: 20px;
   margin: 0 auto;
-  background-color: #fff;
-  -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+  background: $bright-white;
+  @include box-shadow(0, 0, 5px, rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1));
 }
 
-.paper:before, .paper:after
-{
+.paper:before, .paper:after {
   position: absolute;
   width: 40%;
   height: 10px;
@@ -18,24 +14,13 @@
   left: 12px;
   bottom: 16px;
   background: transparent;
-  -webkit-transform: skew(-5deg) rotate(-5deg);
-  -moz-transform: skew(-5deg) rotate(-5deg);
-  -ms-transform: skew(-5deg) rotate(-5deg);
-  -o-transform: skew(-5deg) rotate(-5deg);
-  transform: skew(-5deg) rotate(-5deg);
-  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-  -moz-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
-  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+  @include transform(skew(-5deg) rotate(-5deg));
+  @include box-shadow(0, 6px, 12px, rgba(0, 0, 0, 0.3));
   z-index: -1;
 } 
 
-.paper:after
-{
+.paper:after {
   left: auto;
   right: 12px;
-  -webkit-transform: skew(5deg) rotate(5deg);
-  -moz-transform: skew(5deg) rotate(5deg);
-  -ms-transform: skew(5deg) rotate(5deg);
-  -o-transform: skew(5deg) rotate(5deg);
-  transform: skew(5deg) rotate(5deg);
+  @include transform(skew(5deg) rotate(5deg));
 } 

@@ -7,9 +7,9 @@ form.new, form.edit {
   >fieldset {
     border:1px solid $navy;
     padding:10px;
-    background-color:#fff;
+    background-color:$bright-white;
     margin-bottom:10px;
-    @include border-radius(6px);
+    @include border-radius(6px, 6px, 6px, 6px);
     fieldset.row {
       margin-bottom:10px;
       fieldset {

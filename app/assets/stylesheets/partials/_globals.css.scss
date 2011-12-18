@@ -6,7 +6,7 @@ body {display:table;height:100%;}
   font-weight:bold;
   line-height:1.8em;
   background: $pale-yellow;
-  @include border-radius(0 0 6px 6px);
+  @include border-radius(0, 0, 6px, 6px);
   margin: 0 auto;
   width:400px;
   text-align:center;
@@ -14,13 +14,13 @@ body {display:table;height:100%;}
   position:fixed;
   top:0;
   left:145px;
-  @include box-shadow(0 0 5px #000);
+  @include box-shadow(0, 0, 5px, #000);
 }
 #search_bar {
   background:$navy;
   padding:15px;
   margin-top:20px;
-  @include border-radius(6px);
+  @include border-radius(6px, 6px, 6px, 6px);
   #search {min-width:480px;height:19px;padding:3px 5px;}
   .submit_button {padding:3px 10px;height:29px;}
 }
@@ -55,8 +55,8 @@ body {display:table;height:100%;}
       z-index:900;
       padding:10px;
       background-color:#ddd;
-      @include box-shadow(-7px 0 8px #333);
-      @include border-radius(6px 0 0 6px);
+      @include box-shadow(-7px, 0, 8px, #333);
+      @include border-radius(6px, 0, 0, 6px);
       a {display:block;width:64px;height:64px;text-indent:-10000px;}
     }
     li:hover {background-color:#eee;}
@@ -64,8 +64,8 @@ body {display:table;height:100%;}
     .reports a {background:image-url('reports_64.png') no-repeat;}
     .analyses a {background:image-url('analysis_64.png') no-repeat;}
     .admin a {background:image-url('admin_64.png') no-repeat;}
-    .active {z-index:910;background-color:#fff;}
-    .active:hover {background-color:#fff;}
+    .active {z-index:910;background-color:$bright-white;}
+    .active:hover {background-color:$bright-white;}
   }
   #footer {
     background-color:$powder-blue;
@@ -86,15 +86,16 @@ body {display:table;height:100%;}
   z-index:900;
   background-color:$body-background;
   width:100%;
-  @include box-shadow(0 0 10px #000);
+  @include box-shadow(0, 0, 10px, #000);
   #header_mini {
     position:fixed;
     top:0;
     right:0;
     background-color:$powder-blue;
     padding:5px 10px;
-    @include border-radius(0 0 0 6px);
-    @include box-shadow(0 0 5px #000);
+    @include border-radius(0, 0, 0, 6px);
+    @include box-shadow(0, 0, 5px, #000);
+    z-index: 9999;
     a {text-decoration:none;color:$navy;}
     a:hover {text-decoration:underline;}
   }
@@ -103,6 +104,7 @@ body {display:table;height:100%;}
     overflow:auto;
     position:fixed;
     top:0;right:0;
+    z-index: 9999;
     padding:0 0 20px 20px;
   }
   #user_info {
@@ -111,12 +113,12 @@ body {display:table;height:100%;}
     background-color:$powder-blue;
     a {text-decoration:none;color:$navy;}
     a:hover {text-decoration:underline;}
-    @include box-shadow(0 0 5px #000);
+    @include box-shadow(0, 0, 5px, #000);
   }
   #user_info {
     float:right;
     font-size:1.2em;
-    @include border-radius(0 0 0 6px);
+    @include border-radius(0, 0, 0, 6px);
     a {font-weight:bold;text-transform:uppercase;margin-left:30px;}
   }
   #content {
@@ -125,7 +127,7 @@ body {display:table;height:100%;}
       margin-top:20px;
       //background-color:$powder-blue;
       padding:15px;
-      @include border-radius(6px);
+      @include border-radius(6px, 6px, 6px, 6px);
       h2 {display:inline-block;margin-right:40px;}
     }
   }

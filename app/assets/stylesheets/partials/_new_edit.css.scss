@@ -17,18 +17,12 @@ form.new, form.edit {
         margin-right:5px;
       }
       fieldset.select {margin-right:20px;}
-      input.default-text {
-        text-transform:uppercase;
-      }
       select {font-size:1.5em;}
-      input[type="text"] {font-size:1.3em;width:170px;}
+      input[type="text"] {text-transform:uppercase;font-size:1.3em;width:170px;color:$text;}
+      input.default-text {
+        color:$light-grey;
+      }
       input[name*="suffix"], input[name*="height"], input[name*="weight"] {width:60px;}
     }
   }
-}
-form.new {
-  input.default-text {color:$light-grey;}
-}
-form.edit {
-  input.default-text {color:$text;}
 }

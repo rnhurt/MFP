@@ -42,13 +42,13 @@
         #content
           = yield
 
-  = javascript_include_tag "jquery-1.7-min", "humane.min", :application
+  = javascript_include_tag :application
 
   :javascript
     eval("#{build_flash}");
 
-  / - if params[:action] == "new" || params[:action] == "edit"
-  /   :javascript
-  /     $(function(){
-  /       mfp.forms.#{params[:action]}.init();
-  /     });
+  - if params[:action] == "new" || params[:action] == "edit"
+    :javascript
+      $(function(){
+        mfp.forms.#{params[:action]}.init();
+      });

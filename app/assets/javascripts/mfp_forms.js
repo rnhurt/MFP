@@ -3,11 +3,13 @@
  */
 
 mfp.forms = {
-  
+
   // corresponds with "new" actions on controllers
   new: {
     
     init: function(){
+      // set the autofocus to the "new" field
+      $('[autofocus-new]').focus();
       
       // text input clear and default
       $('input[type="text"]').each(function(){
@@ -40,6 +42,9 @@ mfp.forms = {
     init: function(){
       // call new init function since these forms are basically identical
       mfp.forms.new.init.call(mfp.forms.new);
+
+      // set the autofocus to the "edit" field
+      $('[autofocus-edit]').focus();
     }
     
   }

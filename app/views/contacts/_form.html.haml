@@ -7,10 +7,7 @@
       %fieldset.row
         %fieldset.select
           = f.label :contact_type
-          - if @contact.new_record?
-            = collection_select :contact, :contact_type_id, ContactType.active, :id, :name, {}, { "autofocus" => "autofocus" }
-          - else
-            = collection_select :contact, :contact_type_id, ContactType.active, :id, :name, {}, {}
+          = collection_select :contact, :contact_type_id, ContactType.active, :id, :name, {}, { "autofocus-new" => "" }
 
         %fieldset.text
           = f.label :incident_timestamp, "Timestamp"
@@ -21,10 +18,7 @@
       %fieldset.row
         %fieldset.text
           = f.label :first_name
-          - if @contact.new_record?
-            = f.text_field :first_name, { "data-default" => "First Name", :class => "default-text" }
-          - else
-            = f.text_field :first_name, { "data-default" => "First Name", :class => "default-text", "autofocus" => "" }
+          = f.text_field :first_name, { "data-default" => "First Name", :class => "default-text", "autofocus-edit" => "" }
 
         %fieldset.text
           = f.label :middle_name

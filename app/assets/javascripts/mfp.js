@@ -5,6 +5,9 @@
 // on document.ready...
 $(function(){
   mfp.init();
+  
+  // setup custom timeouts for humane notifications
+  humane.error.timeout = 10000;
 });
 
 // main namespace for mfp app

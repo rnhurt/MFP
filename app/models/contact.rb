@@ -32,7 +32,7 @@ class Contact < ActiveRecord::Base
     
     # Find the contacts that were most recently entered into the system
     def recent(lmt = 14);
-      limit(lmt).order("incident_timestamp DESC").includes(:contact_type, [{:addresses => [:city, :state]}], :race, :gender)
+      limit(lmt).order("updated_at DESC").includes(:contact_type, [{:addresses => [:city, :state]}], :race, :gender)
     end
 
     # Group all contacts by type and count the number of incidents for each one.

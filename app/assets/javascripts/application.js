@@ -3,9 +3,10 @@ $(function() {
   simpleFill();     // Fill in any default values in forms
   header();
 
-  $("input.focus:last").focus();  // Set the focus on the last input tag with a class of "focus"
+  $('[autofocus]').focus();  // Set the focus on the last input tag with a class of "autofocus"
 })
 
+// Control the behavior of the header dropdown
 function header(){
   $('#header_mini').live('mouseenter', function(){
     $(this).slideUp('fast', function(){
@@ -21,17 +22,20 @@ function header(){
   });
 }
 
+
+// Fill in the default text on forms
+// FIXME: This doesn't work at all!  :(
 function simpleFill() {
   // Add the default text when the field is blank
-  $(".defaultText").focus(function(srcc) {
-    if ($(this).val() == $(this)[0].title || $(this).val() == "") {
+  $('input[type="text"]').focus(function(srcc) {
+    if ($(this).val() == $(this).data('default') || $(this).val() == "") {
       $(this).removeClass("defaultTextActive");
       $(this).val("");
     }
   });
 
   // Remove the default text when the user enters the field
-  $(".defaultText").blur(function() {
+  $('input[type="text"]').blur(function() {
     if ($(this).val() == "") {
       $(this).addClass("defaultTextActive");
       $(this).val($(this)[0].title);

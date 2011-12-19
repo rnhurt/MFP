@@ -15,7 +15,8 @@
     #login_window
       = yield
 
-  = javascript_include_tag "jquery-1.7-min", "humane.min", :application
+  = javascript_include_tag :application
 
   :javascript
+    humane.timeout = { success: 2500, error: 5000 };
     eval("#{build_flash}");

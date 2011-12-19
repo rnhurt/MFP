@@ -45,6 +45,7 @@
   = javascript_include_tag :application
 
   :javascript
+    humane.timeout = { success: 2500, error: 5000 };
     eval("#{build_flash}");
 
   - if params[:action] == "new" || params[:action] == "edit"

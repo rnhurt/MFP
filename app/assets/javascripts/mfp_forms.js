@@ -21,8 +21,8 @@ mfp.forms = {
         } else {
           $(this).removeClass('default-text');
         }
-      }).click(function(){
-        if( $(this).val() == $(this).data('default') ){
+      }).focus(function(){
+        if( $(this).val().toLowerCase() === $(this).data('default').toLowerCase() ){
           $(this).val('')
             .removeClass('default-text');
         }
@@ -31,6 +31,15 @@ mfp.forms = {
           $(this).val($(this).data('default'))
             .addClass('default-text');
         }
+      });
+      
+      // Remove the default text when the form is submitted
+      $('form').submit(function(){
+        $(this).find('.default-text').each(function(){
+          if( $(this).val().toLowerCase() === $(this).data('default').toLowerCase() ){
+            $(this).val('');
+          }
+        });
       });
       
     },

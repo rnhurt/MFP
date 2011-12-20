@@ -13,9 +13,9 @@ module ApplicationHelper
         when :notice  then :success
         else :info
       end
-      result << "humane.#{type}('#{escape_javascript(message)}'); "
+      result << "humane.#{type}('#{message}'); "
     end
 
-    return escape_javascript(result)
+    return result
   end
 end

@@ -8,6 +8,8 @@ $(function(){
   
   // setup custom timeouts for humane notifications
   humane.error.timeout = 10000;
+
+  // $(".chzn-select").chosen();
 });
 
 // main namespace for mfp app

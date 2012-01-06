@@ -1,22 +1,30 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.1.3'
+gem 'rails', '3.2.0.rc2'
 
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
-  gem 'sass-rails'  #,   '~> 3.1.5'
-#  gem 'coffee-rails', '~> 3.1.1'
-  gem 'uglifier'    #, '>= 1.0.3'
+  gem 'sprockets'
+  gem 'sass-rails'
+# gem 'coffee-rails', '~> 3.2.0'
+  gem 'uglifier'
 end
 
+gem 'thin'
 gem 'jquery-rails'
 gem 'haml-rails'
 gem 'sorcery'
 
 
 group :development do
+  gem 'linecache19', :git => 'git://github.com/mark-moseley/linecache'
+  gem 'ruby-debug-base19x', '~> 0.11.30.pre4'
   gem 'ruby-debug19'
+
+#  gem 'ruby-debug-base19x', '~> 0.11.30.pre5'
+#  gem 'ruby-debug19', :require => 'ruby-debug'
+  
   gem 'hirb'
   gem 'wirble'
   gem 'awesome_print'
@@ -37,8 +45,6 @@ end
 
 group :production do
   ### these gems are temporarily needed for Heroku app deployment
-  gem 'therubyracer'
-  gem 'thin'
   gem 'pg'
   ### these gems are temporarily needed for Heroku app deployment
 end

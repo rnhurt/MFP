@@ -1,0 +1,10 @@
+.contact
+  = debug contact
+
+  %h1 #{contact.contact_type.name}
+  / %h3{class:"gender-#{contact.gender.try(:code)}"}
+  /   %a{:href => "#"} #{contact.full_name}
+  / .details
+  /   %p 
+  /     Some details about 
+  /     = link_to contact.full_name, edit_contact_path(contact)

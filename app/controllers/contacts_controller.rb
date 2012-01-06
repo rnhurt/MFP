@@ -13,6 +13,7 @@ class ContactsController < ApplicationController
 
   def edit
     @contact = Contact.find(params[:id])
+    # @contact.addresses.create(:postal_code => "12345")
   end
 
   def create

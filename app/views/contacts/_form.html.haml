@@ -72,26 +72,24 @@
           = f.label :eye_color
           = collection_select :contact, :eye_color_id, EyeColor.active, :id, :value, :include_blank => ""
 
-        %fieldset
+        %fieldset.select
           = f.label :hair_color
-          = collection_select :contact, :hair_color_id, HairColor.active, :id, :value, :include_blank => ""
+          = collection_select( :contact, :hair_color_id, HairColor.active, :id, :value, {:include_blank => ""}, 
+              { :class=>"chzn-select", "data-placeholder"=>"Choose a country..." } )
 
     %fieldset
       %legend Addresses
       %table
         %thead
           %tr
-            %th{:width => "50%"} Street Address
+            %th Street Number
+            %th Street Name
             %th City
             %th State
             %th Postal Code
+        = f.fields_for :addresses do |address|
+          = render :partial => "address", :locals => {:address => address}
 
-        - @contact.addresses.each do |address|
-          %tr
-            %td= address.street_address
-            %td= address.city.try(:name)
-            %td= address.state.try(:name)
-            %td= address.postal_code
 
     .actions
       = f.submit 'Save'

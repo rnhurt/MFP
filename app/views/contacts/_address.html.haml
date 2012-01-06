@@ -1,0 +1,7 @@
+%tr
+  %td= address.text_field :street_number, { "data-default" => "Street Number", :class => "default-text" }
+  %td= address.text_field :street_name, { "data-default" => "Street Name", :class => "default-text" }
+  %td=# address.text_field :city
+  %td=# address.state.try(:name)
+  %td= address.text_field :postal_code, { "data-default" => "Postal Code", :class => "default-text" }
+

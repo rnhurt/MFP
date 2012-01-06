@@ -10,6 +10,8 @@ class Contact < ActiveRecord::Base
   has_many    :involvements, :foreign_key => 'involved_id'
   has_many    :reports, :through => :involvements
 
+  accepts_nested_attributes_for :addresses, :allow_destroy => true
+  
   default_scope where(:active => true)
 
 

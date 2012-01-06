@@ -12,11 +12,4 @@
     - if @contacts.empty?
       %h3 No contacts found
     - else
-      - @contacts.each do |contact|
-        .contact
-          %h3{class:"gender-#{contact.gender.try(:code)}"}
-            %a{:href => "#"} #{contact.full_name}
-          .details
-            %p 
-              Some details about 
-              = link_to contact.full_name, edit_contact_path(contact)
+      = render @contacts

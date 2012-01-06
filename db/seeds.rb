@@ -225,6 +225,7 @@ puts "##  This should be removed before moving to production  ##"
 puts "##########################################################"
 print "Generating Addresses..."
 street_direction_count  = StreetDirection.count
+city_count = City.count
 
 Address.delete_all
 (1..100).each do |r|
@@ -234,7 +235,7 @@ Address.delete_all
     :street_direction => StreetDirection.find(:first, :offset => (street_direction_count * rand).to_i),
     :state        => State.find_by_abbreviation(Faker::Address.state_abbr), 
     :county       => County.first, 
-    :city         => City.first, 
+    :city         => City.find(:first, :offset => (city_count * rand).to_i), 
     :postal_code  => Faker::Address.postcode
   )
 end

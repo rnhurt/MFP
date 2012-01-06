@@ -87,8 +87,8 @@
             %th City
             %th State
             %th Postal Code
-        = f.fields_for :addresses do |address|
-          = render :partial => "address", :locals => {:address => address}
+        = f.fields_for :addresses do |builder|
+          = render :partial => "address_fields", :locals => {:f => builder}
 
 
     .actions

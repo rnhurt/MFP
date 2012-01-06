@@ -9,6 +9,7 @@ class ContactsController < ApplicationController
 
   def new
     @contact = Contact.new
+    @contact.addresses.build
   end
 
   def edit

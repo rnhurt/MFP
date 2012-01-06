@@ -1,0 +1,7 @@
+%tr
+  %td= f.text_field :street_number, { "data-default" => "Street Number", :class => "default-text" }
+  %td= f.text_field :street_name, { "data-default" => "Street Name", :class => "default-text" }
+  %td= f.collection_select :city_id, City.active, :id, :name
+  %td= f.collection_select :state_id, State.active, :id, :name
+  %td= f.text_field :postal_code, { "data-default" => "Postal Code", :class => "default-text" }
+

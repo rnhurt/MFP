@@ -1,13 +1,11 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.2.0.rc2'
+gem 'rails', '~> 3.2.0.rc2'
 
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
-  gem 'sprockets'
-  gem 'sass-rails'
-# gem 'coffee-rails', '~> 3.2.0'
+  gem 'sass-rails', '~> 3.2.3'
   gem 'uglifier'
 end
 
@@ -22,9 +20,6 @@ group :development do
   gem 'ruby-debug-base19x', '~> 0.11.30.pre4'
   gem 'ruby-debug19'
 
-#  gem 'ruby-debug-base19x', '~> 0.11.30.pre5'
-#  gem 'ruby-debug19', :require => 'ruby-debug'
-  
   gem 'hirb'
   gem 'wirble'
   gem 'awesome_print'
@@ -44,7 +39,5 @@ end
 
 
 group :production do
-  ### these gems are temporarily needed for Heroku app deployment
   gem 'pg'
-  ### these gems are temporarily needed for Heroku app deployment
 end

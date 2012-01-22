@@ -7,3 +7,4 @@ tmp/
 public/assets/
 config/database.yml
 *.sublime-workspace
+debian

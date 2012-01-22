@@ -1,0 +1,18 @@
+--- 
+chdir: /var/www/mfp
+environment: production
+socket: /var/run/mfp/default/thin.mfp.sock
+timeout: 30
+log: /var/www/mfp/log/thin.log
+pid: /var/run/mfp/default/thin.pid
+max_conns: 64
+max_persistent_conns: 32
+require: []
+
+wait: 30
+servers: 1
+
+user: root
+group: root
+environment: production
+daemonize: false

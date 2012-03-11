@@ -1,21 +1,20 @@
 Mfp::Application.routes.draw do
 
-  resources :reports
 
   # Deal with User sessions
   get "logout"  => "sessions#destroy", :as => "logout"
   get "login"   => "sessions#new", :as => "login"
-  resources :sessions
 
   # Primary routes
+  resources :sessions
   resources :analyses
+  resources :reports
   resources :contacts
   resources :search
   resources :calls_for_service
-  resources :admin
 
   # Administrative routes
-
+  resources :admin
   
   # Default route
   root :to => "dashboard#index"

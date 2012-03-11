@@ -30,22 +30,22 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.decimal  "latitude",             :precision => 9, :scale => 6
     t.decimal  "longitude",            :precision => 9, :scale => 6
     t.boolean  "active",                                             :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                                                           :null => false
+    t.datetime "updated_at",                                                           :null => false
   end
 
   create_table "aliases", :force => true do |t|
     t.integer  "contact_id"
     t.string   "name"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "calls_for_service", :force => true do |t|
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "cities", :force => true do |t|
@@ -54,8 +54,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.integer  "county_id"
     t.string   "name"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "codes", :force => true do |t|
@@ -65,8 +65,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.string   "code"
     t.string   "value"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "contacts", :force => true do |t|
@@ -88,8 +88,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.integer  "eye_color_id"
     t.integer  "hair_color_id"
     t.boolean  "active",             :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                           :null => false
+    t.datetime "updated_at",                           :null => false
   end
 
   create_table "counties", :force => true do |t|
@@ -98,8 +98,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.integer  "state_id"
     t.string   "name"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "countries", :force => true do |t|
@@ -108,8 +108,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.string   "abbreviation"
     t.string   "name"
     t.boolean  "active",       :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                     :null => false
+    t.datetime "updated_at",                     :null => false
   end
 
   create_table "involvements", :force => true do |t|
@@ -117,8 +117,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.integer  "contact_id"
     t.integer  "role_id"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "locations", :force => true do |t|
@@ -135,8 +135,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.integer  "contact_id"
     t.integer  "contact_id_target"
     t.boolean  "active",               :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                             :null => false
+    t.datetime "updated_at",                             :null => false
   end
 
   create_table "reports", :force => true do |t|
@@ -153,14 +153,14 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.datetime "cleared_at"
     t.text     "narrative"
     t.boolean  "active",          :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                        :null => false
+    t.datetime "updated_at",                        :null => false
   end
 
   create_table "sequences", :force => true do |t|
     t.integer  "offense_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
   end
 
   create_table "states", :force => true do |t|
@@ -170,16 +170,16 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.string   "abbreviation"
     t.string   "name"
     t.boolean  "active",       :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                     :null => false
+    t.datetime "updated_at",                     :null => false
   end
 
   create_table "static_data", :force => true do |t|
     t.string   "name"
     t.string   "value"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "street_names", :force => true do |t|
@@ -188,16 +188,16 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.integer  "county_id"
     t.string   "name"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "types", :force => true do |t|
     t.string   "type"
     t.string   "name"
     t.boolean  "active",     :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                   :null => false
+    t.datetime "updated_at",                   :null => false
   end
 
   create_table "users", :force => true do |t|
@@ -212,8 +212,8 @@ ActiveRecord::Schema.define(:version => 20111023233447) do
     t.string   "last_name",                    :default => ""
     t.string   "badge_number"
     t.boolean  "active",                       :default => true
-    t.datetime "created_at"
-    t.datetime "updated_at"
+    t.datetime "created_at",                                     :null => false
+    t.datetime "updated_at",                                     :null => false
   end
 
   add_index "users", ["remember_me_token"], :name => "index_users_on_remember_me_token"

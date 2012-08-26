@@ -1,3 +1,5 @@
-Factory.define :code do |f|
-  f.active  true
+FactoryGirl.define do
+  factory :code do
+    active  true
+  end
 end

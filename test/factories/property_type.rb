@@ -1,5 +1,7 @@
-Factory.define :property_type do |f|
-  f.code            "B"
-  f.value           "Bicycle"
-  f.active          true
+FactoryGirl.define do
+  factory :property_type do
+    code            "B"
+    value           "Bicycle"
+    active          true
+  end
 end

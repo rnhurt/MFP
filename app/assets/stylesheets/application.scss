@@ -1,5 +1,7 @@
+@import "bootstrap";
+
 /* colors */
-$bright-white: rgb(255, 255, 255);
+/*$bright-white: rgb(255, 255, 255);
 $dull-white: rgb(240, 240, 240);
 $navy: #2a3251;
 $powder-blue: #c4e1ff;
@@ -11,14 +13,14 @@ $lightest-grey: #eeeeee;
 $pale-yellow: #feffbd;
 $text: #333333;
 $body-background: #eee;
-
+*/
 /* resets */
-html {font-size:67.5%;font-family:Helvetica, Arial, sans-serif;height:100%;color:$text;}
+/*html {font-size:67.5%;font-family:Helvetica, Arial, sans-serif;height:100%;color:$text;}
 html, body, div, p, a, img, span, h1, h2, h3, h4, h5, h6, ul, li, ol, table, thead, tbody, th, td, tr, tfoot, fieldset {border:0 none;margin:0;padding:0;}
 ul, ol, li {list-style-type:none;}
-
+*/
 /* mixins */
-@mixin table-cell {display:table-cell;vertical-align:top;}
+/*@mixin table-cell {display:table-cell;vertical-align:top;}
 @mixin serif {font-family:Times New Roman, Georgia, serif;}
 @mixin border($top, $right, $bottom, $left) {border-top:$top;border-right:$right;border-bottom:$bottom;border-left:$left;}
 @mixin border-radius($top:0, $right:0, $bottom:0, $left:0) {
@@ -44,9 +46,9 @@ ul, ol, li {list-style-type:none;}
   }
 }
 @mixin transform($values) {-webkit-transform:$values;-moz-transform:$values;-ms-transform:$values;-o-transform:$values;transform:$values;}
-
+*/
 /* analysis table */
-table.analysis {
+/*table.analysis {
   width:100%;
   caption {
     @include border-radius(6px, 6px, 0, 0);
@@ -68,9 +70,9 @@ table.analysis {
     td {@include border-radius(0, 0, 6px, 6px);padding:10px;background-color:$light-powder-blue;}
   }
 }
-
+*/
 // imports
-@import 'partials/globals';
+/*@import 'partials/globals';
 @import 'partials/paper';
 @import 'partials/chosen';
 @import 'partials/login';
@@ -78,3 +80,4 @@ table.analysis {
 @import 'partials/index';
 @import 'partials/new_edit';
 @import 'partials/humane-jackedup';
+*/

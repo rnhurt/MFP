@@ -1,7 +1,17 @@
-.contact
-  = debug contact
+.row-fluid.span12
+  .span4
+    = contact.full_name
+    = contact.addresses.first
+    / = debug contact
 
-  %h1 #{contact.contact_type.name}
+  .span4
+    = contact.full_name
+    /= debug contact
+
+  .span4
+    = contact.full_name
+    /= debug contact
+
   / %h3{class:"gender-#{contact.gender.try(:code)}"}
   /   %a{:href => "#"} #{contact.full_name}
   / .details

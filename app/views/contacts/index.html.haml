@@ -1,15 +1,15 @@
-#contact_index
-  #search_bar
-    = form_tag contacts_path, :method => "get" do
-      = text_field_tag "search", params[:search], :autofocus => "autofocus"
-      = button_tag "Search by Name", :name => nil, :class => "submit_button"
+/ #contact_index
+/   #search_bar
+/     = form_tag contacts_path, :method => "get" do
+/       = text_field_tag "search", params[:search], :autofocus => "autofocus"
+/       = button_tag "Search by Name", :name => nil, :class => "submit_button"
 
-  #heading
-    %h2 Recent Contacts
-    = link_to "Add Contact", new_contact_path
+/ #heading
+/   %h2 Recent Contacts
+/   = link_to "Add Contact", new_contact_path
 
-  #contacts
-    - if @contacts.empty?
-      %h3 No contacts found
-    - else
-      = render @contacts
+#contacts
+  - if @contacts.empty?
+    %h3 No contacts found
+  - else
+    = render @contacts

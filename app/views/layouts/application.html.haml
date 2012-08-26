@@ -12,35 +12,37 @@
     = csrf_meta_tags
 
   %body
-    #wrapper
-      #sidebar
-        %h1
-          %a{:href => root_url} #{StaticData.site_name}
+    / #wrapper
+    /   #sidebar
+    /     %h1
+    /       %a{:href => root_url} #{StaticData.site_name}
 
-        - unless params[:controller] == "dashboard"
-          = render :partial => "shared/dashboard_buttons"
+    /     - unless params[:controller] == "dashboard"
+    /       = render :partial => "shared/dashboard_buttons"
 
-        #footer
-          %p
-            Dingo&copy; 2011
-            %br/
-            %a{:href => "http://kangaroobox.com", :target => "_blank"} KangarooBox, LLC
+    /     #footer
+    /       %p
+    /         Dingo&copy; 2011
+    /         %br/
+    /         %a{:href => "http://kangaroobox.com", :target => "_blank"} KangarooBox, LLC
         
-      #main
-        #header_mini
-          %a{:href => "#", :title => "Expand Header"} Expand
-        #header
-          #user_info
-            - if current_user
-              #{current_user.full_name}
-              / Only show to "admin" users
-              %a{:href => admin_index_path} Admin
-              %a{:href => logout_url} Logout
-            - else
-              %a{:href => login_url} Login
+    /   #main
+    /     #header_mini
+    /       %a{:href => "#", :title => "Expand Header"} Expand
+    /     #header
+    /       #user_info
+    /         - if current_user
+    /           #{current_user.full_name}
+    /           / Only show to "admin" users
+    /           %a{:href => admin_index_path} Admin
+    /           %a{:href => logout_url} Logout
+    /         - else
+    /           %a{:href => login_url} Login
 
-        #content
-          = yield
+    /     #content
+    .container-fluid
+      .row-fluid.span12
+      = yield
 
   = javascript_include_tag :application
 

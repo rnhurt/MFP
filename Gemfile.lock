@@ -41,6 +41,7 @@ GEM
     arel (3.0.2)
     awesome_print (1.0.2)
     bcrypt-ruby (3.0.1)
+    bootstrap-sass (2.0.1)
     builder (3.0.0)
     columnize (0.3.6)
     daemons (1.1.8)
@@ -167,6 +168,7 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
+  bootstrap-sass (~> 2.0.1)
   factory_girl_rails
   faker
   haml-rails

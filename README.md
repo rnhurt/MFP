@@ -1,4 +1,5 @@
 # M.ain F.orce P.atrol
+[![Project Status](https://stillmaintained.com/rnhurt/MFP.png)](https://stillmaintained.com/rnhurt/MFP)
 
 ## Introduction
 
